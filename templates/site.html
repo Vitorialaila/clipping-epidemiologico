@@ -377,8 +377,7 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
       <li>
         <div><div class="se">{{ e.rotulo }}</div><div class="per">{{ e.periodo }}</div></div>
         <div class="links">
-          <a href="{{ e.pdf }}" download>PDF</a>
-          {% for v in versoes[1:] %}<a class="antiga" href="{{ v.pdf }}" download>versão anterior {{ loop.index }}</a>{% endfor %}
+          <a href="{{ e.pdf }}" download>Baixar PDF</a>
         </div>
       </li>
       {% endfor %}
