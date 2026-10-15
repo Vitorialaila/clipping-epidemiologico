@@ -155,7 +155,7 @@ section.bloco + section.bloco { border-top: 1px solid var(--linha); }
 .mapa-semana figcaption { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 16px; margin-top: 10px; font-size: 13px; color: var(--cinza); }
 .mapa-semana figcaption .rotulo { margin: 0; }
 .mapa-semana .leg { display: flex; flex-wrap: wrap; gap: 6px 14px; margin-left: auto; }
-.fundo-DF, .fundo-RIDE, .fundo-Brasil, .fundo-Américas, .fundo-Internacional { background: var(--navy); }
+.fundo-DF { background: var(--df); } .fundo-Brasil { background: var(--brasil); } .fundo-Américas { background: var(--americas); } .fundo-Internacional { background: var(--internacional); }
 .visual { position: relative; margin: 0 0 16px; border-radius: 10px; overflow: hidden; }
 .visual.mapa img { width: 100%; aspect-ratio: 32 / 15; object-fit: cover; display: block; }
 .card.principal .visual.mapa img { aspect-ratio: 32 / 11; }
@@ -171,7 +171,7 @@ section.bloco + section.bloco { border-top: 1px solid var(--linha); }
 /* Feed */
 .filtros { display: grid; gap: 12px; margin-bottom: 18px; }
 @media (min-width: 640px) { .filtros { grid-template-columns: 1fr 1fr; } .filtros #busca { grid-column: 1 / -1; } }
-@media (min-width: 980px) { .filtros { grid-template-columns: repeat(4, 1fr); } .filtros #busca { grid-column: span 2; } }
+@media (min-width: 980px) { .filtros { grid-template-columns: repeat(3, 1fr); } .filtros #busca { grid-column: auto; } }
 .legenda-relev { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 14px; font-size: 13px; color: var(--cinza); margin: -4px 0 18px; }
 .legenda-relev .relev { padding: 0; }
 .relev-rot { display: block; text-align: right; font-size: 11px; font-weight: 600; letter-spacing: .04em; color: var(--cinza); margin-top: 4px; }
@@ -284,10 +284,6 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
         <option value="">Todas as fontes</option>
         {% for f in fontes %}<option>{{ f }}</option>{% endfor %}
       </select>
-      <select id="municipio" aria-label="DF e municípios da RIDE-DF">
-        <option value="">DF e RIDE-DF: todos</option>
-        {% for m in municipios %}<option>{{ m }}</option>{% endfor %}
-      </select>
       <select id="semana" aria-label="Semana epidemiológica">
         <option value="">Todas as semanas</option>
         {% for cod, rot in semanas %}<option value="{{ cod }}">{{ rot }}</option>{% endfor %}
@@ -331,7 +327,7 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
     <figure class="mapa-semana">
       <img src="{{ ultima.mapa }}" alt="Mapa dos destaques da semana">
       <figcaption><span class="rotulo">Mapa da semana</span><span>Os números indicam os destaques abaixo.</span>
-        <span class="leg"><span class="leg-area"></span>País ou UF com evento em destaque</span></figcaption>
+        <span class="leg">{% for e in ordem_escopo %}<span class="selo e-{{ e }}">{{ nome_escopo[e] }}</span>{% endfor %}</span></figcaption>
     </figure>
     {% endif %}
     <div class="hero-corpo resumo-semana">
@@ -427,7 +423,6 @@ function filtrar() {
   const lista = FEED.filter((x) =>
     x.n >= estado.nivel &&
     (!estado.se || x.se === estado.se) &&
-    (!estado.municipio || x.m.includes(estado.municipio)) &&
     (!estado.escopo || x.e === estado.escopo) &&
     (!estado.agravo || x.a.includes(estado.agravo)) &&
     (!estado.fonte || x.f === estado.fonte) &&
@@ -455,7 +450,6 @@ function render() {
 $("busca").addEventListener("input", (e) => { estado.busca = e.target.value; estado.limite = POR_PAGINA; render(); });
 $("agravo").addEventListener("change", (e) => { estado.agravo = e.target.value; estado.limite = POR_PAGINA; render(); });
 $("fonte").addEventListener("change", (e) => { estado.fonte = e.target.value; estado.limite = POR_PAGINA; render(); });
-$("municipio").addEventListener("change", (e) => { estado.municipio = e.target.value; estado.limite = POR_PAGINA; render(); });
 $("semana").addEventListener("change", (e) => { estado.se = e.target.value; estado.limite = POR_PAGINA; render(); });
 $("relevancia").addEventListener("change", (e) => { estado.nivel = Number(e.target.value); estado.limite = POR_PAGINA; render(); });
 $("ordem").addEventListener("change", (e) => { estado.ordem = e.target.value; estado.limite = POR_PAGINA; render(); });

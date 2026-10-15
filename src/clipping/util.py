@@ -28,10 +28,9 @@ log = logging.getLogger("clipping")
 MESES = ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho",
          "agosto", "setembro", "outubro", "novembro", "dezembro"]
 MESES_ABREV = ["jan", "fev", "mar", "abr", "mai", "jun", "jul", "ago", "set", "out", "nov", "dez"]
-ORDEM_ESCOPO = ["DF", "RIDE", "Brasil", "Américas", "Internacional"]
+ORDEM_ESCOPO = ["DF", "Brasil", "Américas", "Internacional"]
 NOME_ESCOPO = {
     "DF": "Distrito Federal",
-    "RIDE": "RIDE-DF",
     "Brasil": "Brasil",
     "Américas": "Américas",
     "Internacional": "Internacional",

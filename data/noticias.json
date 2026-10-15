@@ -1446,9 +1446,7 @@
   "agravos": [],
   "escopo": "Brasil",
   "termos_evento": [],
-  "municipios": [
-   "Cavalcante (GO)"
-  ]
+  "municipios": []
  },
  {
   "id": "0851abe4e83182",
@@ -6310,29 +6308,6 @@
   "municipios": []
  },
  {
-  "id": "ddbb9ccc028528",
-  "titulo": "Febre Amarela: postos de Saúde de Cidade Ocidental fazem vacinação",
-  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT3lCM3NGVXd4ZElyUjZHZ3FBcmp0bm9zakVuZGE4djZOX2xwMExjSllieEFnd3pEUHdVamtJb2VtSHA4TC1XVEc0SzY5OEtZOThxVkZrME5oMldzM2w2OHJ0V2pSbFZKSWs3NHRpQnhqdnd2YngweEFMdXRoekFrVHVPZ0Z2ZkdDSEpYbW5MX3F2ZWRHalFEeWc2TWdTNWtTN0E?oc=5",
-  "fonte_id": "ride-oficial",
-  "fonte": "cidadeocidental.go.gov.br",
-  "sigla": "cidadeocidental.go.gov.br",
-  "idioma": "pt",
-  "data": "2026-01-16",
-  "data_estimada": false,
-  "se": "2026-02",
-  "descricao": "",
-  "coletado_em": "2026-10-15T17:44:13+00:00",
-  "municipios": [
-   "Cidade Ocidental (GO)"
-  ],
-  "pontuacao": 10.5,
-  "agravos": [
-   "Febre amarela"
-  ],
-  "escopo": "RIDE",
-  "termos_evento": []
- },
- {
   "id": "53183af1b71f52",
   "titulo": "Notes from the Field: Wastewater Surveillance for Measles Virus During a Measles Outbreak - Colorado, August 2025",
   "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=762974",
@@ -6675,27 +6650,6 @@
   "escopo": "Américas",
   "termos_evento": [],
   "municipios": []
- },
- {
-  "id": "c4c25a627849ca",
-  "titulo": "Imunização",
-  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UU1VQd0doaURyNW9MU011V1ZfRk5GY2dGSEhXOFQ4MHRxVEVWbjQtN2tRbjlzOFctSHE3MEluNmpTQ2dremVXN2NYVmNFREp3Q0NhaGhGM1BPVjM3Nk5ub1Rn?oc=5",
-  "fonte_id": "ride-oficial",
-  "fonte": "Prefeitura Municipal de Valparaíso de Goiás",
-  "sigla": "Prefeitura Municipal de Valparaíso de Goiás",
-  "idioma": "pt",
-  "data": "2025-11-26",
-  "data_estimada": false,
-  "se": "2025-48",
-  "descricao": "",
-  "coletado_em": "2026-10-15T17:44:13+00:00",
-  "municipios": [],
-  "pontuacao": 7.5,
-  "agravos": [
-   "Imunização"
-  ],
-  "escopo": "RIDE",
-  "termos_evento": []
  },
  {
   "id": "cb68a4771d0b17",

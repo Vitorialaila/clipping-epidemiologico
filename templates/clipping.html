@@ -82,7 +82,7 @@ a { color: inherit; text-decoration: none; }
 .mapa-semana .rotulo-mini { font-size: 6.6pt; letter-spacing: 0.2em; text-transform: uppercase; font-weight: 700; color: var(--navy); }
 .mapa-semana .exp { flex: 1; }
 .mapa-semana .leg { display: flex; gap: 3mm; }
-.fundo-DF, .fundo-RIDE, .fundo-Brasil, .fundo-Américas, .fundo-Internacional { background: var(--navy); }
+.fundo-DF { background: var(--df); } .fundo-Brasil { background: var(--brasil); } .fundo-Américas { background: var(--americas); } .fundo-Internacional { background: var(--internacional); }
 
 /* Visuais dos destaques */
 .visual { position: relative; margin: 0 0 3mm; border-radius: 1.2mm; overflow: hidden; }
@@ -226,7 +226,7 @@ a { color: inherit; text-decoration: none; }
     <figcaption>
       <span class="rotulo-mini">Mapa da semana</span>
       <span class="exp">Os números indicam os destaques desta edição.</span>
-      <span class="leg"><span class="leg-area"></span>País ou UF com evento em destaque</span>
+      <span class="leg">{% for e in ordem_escopo %}<span class="selo c-{{ e }}">{{ nome_escopo[e] }}</span>{% endfor %}</span>
     </figcaption>
   </figure>
   {% endif %}
