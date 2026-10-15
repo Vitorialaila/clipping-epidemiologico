@@ -88,8 +88,8 @@ a { color: inherit; }
 .capa .btn.secundario:hover { background: rgba(255,255,255,.08); }
 .capa .vazio-claro { max-width: 760px; font-size: 18px; line-height: 1.6; color: rgba(255,255,255,.88); margin: 0 0 28px; }
 .realizacao { display: flex; flex-wrap: wrap; align-items: center; gap: 18px 28px; }
-.realizacao .logos-rodape { background: linear-gradient(90deg, #fff 70%, rgba(255,255,255,0)); padding: 12px 60px 12px 18px; border-radius: 12px 0 0 12px; }
-.realizacao .logos-rodape img { height: 60px; display: block; }
+.realizacao .logos-rodape img { height: 64px; display: block; }
+.realizacao .nomes { border-left: 1px solid rgba(217,193,122,.6); padding-left: 22px; }
 .realizacao .nomes { display: flex; flex-direction: column; gap: 2px; color: #fff; font-size: 15px; }
 
 /* Abertura */
@@ -372,7 +372,7 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
 <footer>
   <div class="wrap">
     <div class="linha-ouro"></div>
-    {% if instituicoes %}<div><b>Realização</b><div class="realizacao"><div class="logos-rodape"><img src="assets/logos.png" alt="{{ subtitulo }}"></div><div class="nomes">{% for n in instituicoes %}<span>{{ n }}</span>{% endfor %}</div></div></div>{% endif %}
+    {% if instituicoes %}<div><b>Realização</b><div class="realizacao"><div class="logos-rodape"><img src="assets/logos-fundo-escuro.png" alt="{{ subtitulo }}"></div><div class="nomes">{% for n in instituicoes %}<span>{{ n }}</span>{% endfor %}</div></div></div>{% endif %}
     <div><b>Fontes oficiais monitoradas</b><p>{{ fontes_monitoradas|join(', ') }}.</p></div>
     <div><b>Método</b><p>As publicações são coletadas diariamente e classificadas por critérios de relevância epidemiológica (agravo, natureza do evento, proximidade geográfica e tipo de comunicado). Os destaques semanais têm títulos e resumos elaborados com apoio de inteligência artificial a partir do texto original. Para uso técnico, consulte sempre a publicação de origem.</p></div>
     {% if rodape %}<p>{{ rodape }}</p>{% endif %}

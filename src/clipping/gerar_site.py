@@ -66,6 +66,7 @@ def gerar() -> None:
     (DOCS / "index.html").write_text(html, encoding="utf-8")
     (DOCS / "assets").mkdir(exist_ok=True)
     shutil.copy(ASSETS / "img" / "logos.png", DOCS / "assets" / "logos.png")
+    shutil.copy(ASSETS / "img" / "logos-fundo-escuro.png", DOCS / "assets" / "logos-fundo-escuro.png")
     (DOCS / "assets" / "fonts").mkdir(exist_ok=True)
     for fonte in (ASSETS / "fonts").glob("*.ttf"):
         shutil.copy(fonte, DOCS / "assets" / "fonts" / fonte.name)
