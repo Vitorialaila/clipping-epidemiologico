@@ -133,8 +133,21 @@ def _afastar(pontos: list[list[float]], dist: float) -> None:
 
 # ---------------------------------------------------------------- mapa da semana
 
-def mapa_semana(eventos: list[dict], largura: int = 1000) -> str:
+TEMAS = {
+    "claro": {"mar": MAR, "terra": TERRA, "borda": BORDA, "grade": "#E4DECF", "opac": ".38",
+              "quadro": "#fff", "quadro_borda": "#D9C17A", "uf": TERRA, "uf_borda": "#fff", "rotulo": "#6A7282"},
+    "escuro": {"mar": "none", "terra": "rgba(255,255,255,0.10)", "borda": "rgba(255,255,255,0.22)",
+               "grade": "rgba(255,255,255,0.07)", "opac": ".75", "quadro": "rgba(6,27,63,0.72)",
+               "quadro_borda": "rgba(217,193,122,0.7)", "uf": "rgba(255,255,255,0.12)",
+               "uf_borda": "rgba(255,255,255,0.28)", "rotulo": "rgba(255,255,255,0.7)",
+               "cores": {"DF": "#E2BE4A", "Brasil": "#3DBA6B", "Américas": "#6FA3E8", "Internacional": "#A9B6C9"}},
+}
+
+
+def mapa_semana(eventos: list[dict], largura: int = 1000, tema: str = "claro") -> str:
     """Mapa-múndi com os destaques numerados. eventos: [{n, paises, uf, escopo}]."""
+    t = TEMAS.get(tema, TEMAS["claro"])
+    cores = t.get("cores", COR_ESCOPO)
     mundo = _mundo()
     escala = largura / (2 * 2.7066)
     lat_max, lat_min = 78, -56
@@ -149,23 +162,23 @@ def mapa_semana(eventos: list[dict], largura: int = 1000) -> str:
     destaque = {}
     for e in eventos:
         for p in e.get("paises", []):
-            destaque.setdefault(p, COR_ESCOPO.get(e["escopo"], TINTA))
-    camadas = [f'<rect width="{largura}" height="{altura}" fill="{MAR}"/>']
+            destaque.setdefault(p, cores.get(e["escopo"], TINTA))
+    camadas = [f'<rect width="{largura}" height="{altura}" fill="{t["mar"]}"/>']
     # graticula leve
     for lat in range(-40, 80, 20):
         pts = [proj(lon, lat) for lon in range(-180, 181, 6)]
-        camadas.append(f'<path d="M{"L".join(f"{x:.1f},{y:.1f}" for x, y in pts)}" fill="none" stroke="#E4DECF" stroke-width=".6"/>')
+        camadas.append(f'<path d="M{"L".join(f"{x:.1f},{y:.1f}" for x, y in pts)}" fill="none" stroke="{t["grade"]}" stroke-width=".6"/>')
     for cod, p in mundo.items():
         cor = destaque.get(cod)
-        estilo = f'fill="{cor}" fill-opacity=".38"' if cor else f'fill="{TERRA}"'
-        camadas.append(f'<path d="{_caminho(p["p"], proj)}" {estilo} stroke="{BORDA}" stroke-width=".5"/>')
+        estilo = f'fill="{cor}" fill-opacity="{t["opac"]}"' if cor else f'fill="{t["terra"]}"'
+        camadas.append(f'<path d="{_caminho(p["p"], proj)}" {estilo} stroke="{t["borda"]}" stroke-width=".5"/>')
 
     tem_brasil = any(e["escopo"] in ("DF", "Brasil") or e.get("uf") for e in eventos)
     pontos, rotulos = [], []
     insercao = ""
     if tem_brasil:
         insercao, pts_br = _insercao_brasil([e for e in eventos if e["escopo"] in ("DF", "Brasil") or e.get("uf")],
-                                            x0=12, y0=altura * 0.50, lado=altura * 0.47)
+                                            x0=12, y0=altura * 0.50, lado=altura * 0.47, t=t)
     for e in eventos:
         if e["escopo"] in ("DF", "Brasil") or e.get("uf"):
             continue
@@ -175,7 +188,7 @@ def mapa_semana(eventos: list[dict], largura: int = 1000) -> str:
         lon, lat = mundo[cods[0]]["c"]
         x, y = proj(lon, lat)
         pontos.append([x, y])
-        rotulos.append((e["n"], COR_ESCOPO.get(e["escopo"], TINTA)))
+        rotulos.append((e["n"], cores.get(e["escopo"], TINTA)))
     _afastar(pontos, 27)
     marcas = [_marcador(x, y, n, cor) for (x, y), (n, cor) in zip(pontos, rotulos)]
     if tem_brasil:
@@ -185,9 +198,11 @@ def mapa_semana(eventos: list[dict], largura: int = 1000) -> str:
             f'role="img" aria-label="Mapa dos destaques da semana">{"".join(camadas)}{"".join(marcas)}</svg>')
 
 
-def _insercao_brasil(eventos, x0, y0, lado):
+def _insercao_brasil(eventos, x0, y0, lado, t=None):
     """Quadro com o Brasil e as UFs, posicionado sobre o Pacífico Sul."""
     ufs = _ufs()
+    t = t or TEMAS["claro"]
+    cores = t.get("cores", COR_ESCOPO)
     lon0, lon1, lat0, lat1 = -74.5, -34.0, -34.5, 6.0
     kx = math.cos(math.radians(-14))
     larg = lado * (lon1 - lon0) * kx / (lat1 - lat0)
@@ -200,15 +215,15 @@ def _insercao_brasil(eventos, x0, y0, lado):
     marcadas = {}
     for e in eventos:
         if e.get("uf"):
-            marcadas.setdefault(e["uf"], COR_ESCOPO.get(e["escopo"], TINTA))
-    partes = [f'<rect x="{x0}" y="{y0}" width="{larg + 2 * pad:.1f}" height="{lado + 2 * pad:.1f}" rx="6" fill="#fff" '
-              f'stroke="#D9C17A" stroke-width="1"/>']
+            marcadas.setdefault(e["uf"], cores.get(e["escopo"], TINTA))
+    partes = [f'<rect x="{x0}" y="{y0}" width="{larg + 2 * pad:.1f}" height="{lado + 2 * pad:.1f}" rx="6" fill="{t["quadro"]}" '
+              f'stroke="{t["quadro_borda"]}" stroke-width="1"/>']
     for s, p in ufs.items():
         cor = marcadas.get(s)
-        estilo = f'fill="{cor}" fill-opacity=".45"' if cor else f'fill="{TERRA}"'
-        partes.append(f'<path d="{_caminho(p["p"], proj)}" {estilo} stroke="#fff" stroke-width=".6"/>')
+        estilo = f'fill="{cor}" fill-opacity="{t["opac"]}"' if cor else f'fill="{t["uf"]}"'
+        partes.append(f'<path d="{_caminho(p["p"], proj)}" {estilo} stroke="{t["uf_borda"]}" stroke-width=".6"/>')
     partes.append(f'<text x="{x0 + pad}" y="{y0 + lado + pad - 2:.1f}" font-family="IBM Plex Sans, sans-serif" '
-                  f'font-size="10" font-weight="700" letter-spacing="1.5" fill="#6A7282">BRASIL</text>')
+                  f'font-size="10" font-weight="700" letter-spacing="1.5" fill="{t["rotulo"]}">BRASIL</text>')
     pontos, rot = [], []
     for e in eventos:
         alvo = ufs.get(e.get("uf")) if e.get("uf") else None
@@ -217,7 +232,7 @@ def _insercao_brasil(eventos, x0, y0, lado):
             lon, lat = -47.8, -15.8
         x, y = proj(lon, lat)
         pontos.append([x, y])
-        rot.append((e["n"], COR_ESCOPO.get(e["escopo"], TINTA)))
+        rot.append((e["n"], cores.get(e["escopo"], TINTA)))
     _afastar(pontos, 22)
     return "".join(partes), [_marcador(x, y, n, c, r=9.5) for (x, y), (n, c) in zip(pontos, rot)]
 

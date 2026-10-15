@@ -39,7 +39,7 @@ a { color: inherit; text-decoration: none; }
 /* Cabeçalho corrente (páginas 2 em diante) */
 .cabecalho { position: running(cabecalho); display: flex; align-items: flex-end; justify-content: space-between;
   border-bottom: 0.6pt solid var(--ouro-2); padding-bottom: 2.2mm; width: 176mm; }
-.cabecalho img { height: 8.5mm; }
+.cabecalho img { height: 11mm; }
 .cabecalho .cab-txt { font-size: 7pt; letter-spacing: 0.14em; text-transform: uppercase; color: var(--navy); font-weight: 600; }
 .cabecalho .cab-txt span { color: var(--ouro); font-weight: 500; }
 
@@ -157,6 +157,34 @@ a { color: inherit; text-decoration: none; }
 .nota { margin-top: 8mm; padding: 4mm 5mm; background: var(--creme); font-size: 7.4pt; line-height: 1.5; color: var(--cinza); break-inside: avoid; }
 .nota b { color: var(--navy); letter-spacing: 0.14em; text-transform: uppercase; font-size: 6.6pt; display: block; margin-bottom: 1mm; }
 .nota p { margin: 0 0 1.2mm; }
+
+/* Faixa da capa em degradê */
+.faixa-capa { margin: -13mm -17mm 0; padding: 11mm 17mm 7mm; color: #fff; position: relative;
+  background: linear-gradient(160deg, #1F4F8E 0%, #0A3570 38%, #061B3F 100%); }
+.faixa-capa::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 1.6mm;
+  background: linear-gradient(90deg, #B8921A 0 45%, #0B7A32 45% 72%, #1E4E8C 72%); }
+.faixa-capa .capa-topo { display: flex; align-items: center; justify-content: flex-start; gap: 7mm; }
+.faixa-capa .cartao-logos { background: #fff; border-radius: 2.5mm; padding: 3mm 4.5mm; }
+.faixa-capa .cartao-logos img { height: 21mm; display: block; }
+.faixa-capa .inst { display: flex; flex-direction: column; gap: 1.2mm; }
+.faixa-capa .inst .rot { font-size: 6.6pt; letter-spacing: 0.24em; text-transform: uppercase; color: #D9C17A; font-weight: 700; }
+.faixa-capa .inst strong { font-family: "Serif"; font-weight: 400; font-size: 15pt; line-height: 1.1; color: #fff; }
+.kicker-claro { margin: 8mm 0 3mm; font-size: 7.2pt; letter-spacing: 0.22em; text-transform: uppercase; color: #D9C17A; font-weight: 700; }
+.kicker-claro span { color: rgba(255,255,255,0.7); font-weight: 500; letter-spacing: 0.08em; }
+.faixa-capa .titulo-capa .se-num { color: #D9B23C; font-size: 66pt; }
+.faixa-capa .titulo-capa .se-txt h1 { color: #fff; font-size: 25pt; }
+.faixa-capa .titulo-capa .se-txt p em { color: rgba(255,255,255,0.88); }
+.mapa-escuro { margin: 6mm 0 0; }
+.mapa-escuro img { width: 100%; display: block; border-radius: 1.6mm; border: 0.3mm solid rgba(255,255,255,0.12); }
+.mapa-escuro figcaption { display: flex; align-items: baseline; gap: 3mm; margin-top: 2mm; font-size: 7pt; color: rgba(255,255,255,0.75); }
+.mapa-escuro .rotulo-mini { font-size: 6.6pt; letter-spacing: 0.2em; text-transform: uppercase; font-weight: 700; color: #fff; }
+.mapa-escuro .exp { flex: 1; }
+.mapa-escuro .leg { display: flex; gap: 3mm; }
+.c-DF { color: #E2BE4A; } .c-Brasil { color: #3DBA6B; } .c-Américas { color: #6FA3E8; } .c-Internacional { color: #A9B6C9; }
+.realizacao { margin-top: 6mm; display: flex; align-items: center; gap: 6mm; padding: 5mm; border-top: 2.2pt solid var(--navy); break-inside: avoid; }
+.realizacao img { height: 16mm; }
+.realizacao .rot { display: block; font-size: 6.6pt; letter-spacing: 0.22em; text-transform: uppercase; color: var(--ouro); font-weight: 700; margin-bottom: 1mm; }
+.realizacao strong { display: block; font-family: "Serif"; font-weight: 400; font-size: 12pt; color: var(--navy); line-height: 1.2; }
 </style>
 </head>
 <body>
@@ -178,15 +206,12 @@ a { color: inherit; text-decoration: none; }
 {%- endmacro %}
 
 <section class="capa-pagina">
-<header class="capa">
+<div class="faixa-capa">
   <div class="capa-topo">
-    <img src="assets/img/logos.png" alt="{{ subtitulo }}">
-    <div class="capa-edicao">
-      <span class="kicker">{{ titulo }}</span>
-      <span class="num">Publicado em {{ data_geracao }}</span>
-    </div>
+    <div class="cartao-logos"><img src="assets/img/logos.png" alt="{{ subtitulo }}"></div>
+    {% if instituicoes %}<div class="inst"><span class="rot">Realização</span>{% for n in instituicoes %}<strong>{{ n }}</strong>{% endfor %}</div>{% endif %}
   </div>
-  <div class="filete"></div>
+  <div class="kicker-claro">{{ titulo }}<span> | Publicado em {{ data_geracao }}</span></div>
   <div class="titulo-capa">
     <div class="se-num">{{ se_numero }}</div>
     <div class="se-txt">
@@ -194,18 +219,17 @@ a { color: inherit; text-decoration: none; }
       <p><em>{{ periodo }}</em></p>
     </div>
   </div>
-</header>
-
-{% if mapa %}
-<figure class="mapa-semana">
-  <img src="{{ base_img }}{{ mapa }}" alt="Mapa dos destaques da semana">
-  <figcaption>
-    <span class="rotulo-mini">Mapa da semana</span>
-    <span class="exp">Os números indicam os destaques desta edição.</span>
-    <span class="leg">{% for e in ordem_escopo %}<span class="selo e-{{ e }}">{{ nome_escopo[e] }}</span>{% endfor %}</span>
-  </figcaption>
-</figure>
-{% endif %}
+  {% if mapa_escuro or mapa %}
+  <figure class="mapa-escuro">
+    <img src="{{ base_img }}{{ mapa_escuro or mapa }}" alt="Mapa dos destaques da semana">
+    <figcaption>
+      <span class="rotulo-mini">Mapa da semana</span>
+      <span class="exp">Os números indicam os destaques desta edição.</span>
+      <span class="leg">{% for e in ordem_escopo %}<span class="selo c-{{ e }}">{{ nome_escopo[e] }}</span>{% endfor %}</span>
+    </figcaption>
+  </figure>
+  {% endif %}
+</div>
 
 {% if panorama %}
 <section class="panorama">
@@ -290,5 +314,12 @@ a { color: inherit; text-decoration: none; }
   <p>Edição referente à {{ rotulo }} ({{ periodo }}). {% if total_coletado %}Foram monitoradas {{ total_coletado }} publicações das seguintes fontes oficiais{% else %}Fontes oficiais monitoradas{% endif %}: {{ fontes|join(', ') }}.</p>
   <p>As notícias são selecionadas por critérios de relevância epidemiológica (agravo, natureza do evento, proximidade geográfica e tipo de comunicado){% if ia %} e os títulos e resumos são elaborados com apoio de inteligência artificial a partir do texto original{% else %}; os resumos reproduzem trechos iniciais do texto original{% endif %}. Para uso técnico, consulte sempre a publicação de origem no link indicado.</p>
 </section>
+
+{% if instituicoes %}
+<section class="realizacao">
+  <img src="assets/img/logos.png" alt="{{ subtitulo }}">
+  <div><span class="rot">Realização</span>{% for n in instituicoes %}<strong>{{ n }}</strong>{% endfor %}</div>
+</section>
+{% endif %}
 </body>
 </html>

@@ -188,11 +188,12 @@ def gerar(codigo_se: str | None = None, forcar: bool = False, hoje: date | None 
         }
 
     itens_dest = [_item(d, i) for i, d in enumerate(destaques, start=1)]
-    mapa = mapas.mapa_semana([{"n": x["n"], "paises": x["paises"], "uf": x["uf"], "escopo": x["escopo"]}
-                              for x in itens_dest])
+    eventos = [{"n": x["n"], "paises": x["paises"], "uf": x["uf"], "escopo": x["escopo"]} for x in itens_dest]
     arq_mapa = dir_img / "mapa-semana.svg"
     arq_mapa.parent.mkdir(parents=True, exist_ok=True)
-    arq_mapa.write_text(mapa, encoding="utf-8")
+    arq_mapa.write_text(mapas.mapa_semana(eventos), encoding="utf-8")
+    arq_mapa_escuro = dir_img / "mapa-semana-escuro.svg"
+    arq_mapa_escuro.write_text(mapas.mapa_semana(eventos, tema="escuro"), encoding="utf-8")
     principal = itens_dest[0]
     secoes = []
     for esc in ORDEM_ESCOPO:
@@ -204,6 +205,7 @@ def gerar(codigo_se: str | None = None, forcar: bool = False, hoje: date | None 
     edicao = {
         "titulo": cfg["publicacao"]["titulo"],
         "subtitulo": cfg["publicacao"].get("subtitulo", ""),
+        "instituicoes": cfg["publicacao"].get("instituicoes", []),
         "rodape": cfg["publicacao"].get("rodape", ""),
         "se_codigo": semana.codigo(se), "se_numero": f"{se.week:02d}", "se_ano": se.year,
         "rotulo": semana.rotulo(se), "periodo": periodo,
@@ -218,6 +220,7 @@ def gerar(codigo_se: str | None = None, forcar: bool = False, hoje: date | None 
         "ia": usou_ia or usou_ia_resumo,
         "contagem_escopo": {e: sum(1 for x in itens_dest if x["escopo"] == e) for e in ORDEM_ESCOPO},
         "mapa": arq_mapa.relative_to(DOCS).as_posix(),
+        "mapa_escuro": arq_mapa_escuro.relative_to(DOCS).as_posix(),
     }
 
     renderizar_pdf(edicao, caminho)

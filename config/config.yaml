@@ -3,7 +3,11 @@
 
 publicacao:
   titulo: "Clipping Epidemiológico"
-  subtitulo: "Residência Multiprofissional em Vigilância em Saúde"
+  subtitulo: "Sala de Situação de Saúde - UnB | Residência de Vigilância em Saúde"
+  # Instituições responsáveis, exibidas no cabeçalho e no bloco "Realização"
+  instituicoes:
+    - "Sala de Situação de Saúde - UnB"
+    - "Residência de Vigilância em Saúde"
   # Texto exibido no rodapé do PDF e do site (deixe vazio para omitir)
   rodape: ""
 

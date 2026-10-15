@@ -9,7 +9,7 @@ from datetime import date, datetime, timedelta, timezone
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
-from . import icones
+from . import icones, mapas
 from .pontuar import limiares
 from .util import (ARQ_NOTICIAS, ASSETS, DIR_EDICOES_DADOS, DOCS, NOME_ESCOPO, ORDEM_ESCOPO, TEMPLATES,
                    carregar_yaml, data_curta, data_extenso, ler_json, log, para_data, salvar_json, truncar)
@@ -50,6 +50,7 @@ def gerar() -> None:
     env = Environment(loader=FileSystemLoader(TEMPLATES), autoescape=select_autoescape(["html"]))
     html = env.get_template("site.html").render(
         titulo=cfg["publicacao"]["titulo"], subtitulo=cfg["publicacao"].get("subtitulo", ""),
+        instituicoes=cfg["publicacao"].get("instituicoes", []), mapa_hero="assets/mapa-hero.svg",
         rodape=cfg["publicacao"].get("rodape", ""),
         ultima=edicoes[0] if edicoes else None, arquivo=por_se,
         feed_json=json.dumps(feed, ensure_ascii=False).replace("</", "<\\/"),
@@ -69,5 +70,11 @@ def gerar() -> None:
     for fonte in (ASSETS / "fonts").glob("*.ttf"):
         shutil.copy(fonte, DOCS / "assets" / "fonts" / fonte.name)
     (DOCS / ".nojekyll").write_text("", encoding="utf-8")
+    # Fundo da abertura: mapa da semana em tema escuro (ou mapa-múndi sem marcadores, antes da 1ª edição)
+    ultima = edicoes[0] if edicoes else None
+    eventos = [{"n": d.get("n", i), "paises": d.get("paises", []), "uf": d.get("uf", ""), "escopo": d["escopo"]}
+               for i, d in enumerate(ultima["destaques"], start=1)] if ultima else []
+    (DOCS / "assets" / "mapa-hero.svg").write_text(mapas.mapa_semana(eventos, tema="escuro"),
+                                                   encoding="utf-8")
     salvar_json(DOCS / "dados" / "feed.json", feed)
     log.info("Site gerado: %d notícias no feed, %d edições.", len(feed), len(edicoes))

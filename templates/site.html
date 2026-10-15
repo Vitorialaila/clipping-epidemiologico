@@ -30,15 +30,59 @@ a { color: inherit; }
 
 /* Topo */
 .topo { position: sticky; top: 0; z-index: 10; background: rgba(255,255,255,.94); backdrop-filter: blur(8px); border-bottom: 1px solid var(--linha); }
-.topo .wrap { display: flex; align-items: center; justify-content: space-between; height: 68px; gap: 16px; }
-.topo img { height: 48px; display: block; }
+.topo .wrap { display: flex; align-items: center; justify-content: space-between; height: 76px; gap: 16px; }
+.topo img { height: 52px; display: block; }
+.topo .marca { display: flex; align-items: center; gap: 16px; text-decoration: none; }
+.topo .marca-txt { border-left: 1px solid var(--linha); padding-left: 16px; font-size: 12.5px; line-height: 1.35; color: var(--navy); font-weight: 600; }
+.topo .marca-txt span { display: block; }
+@media (max-width: 900px) { .topo .marca-txt { display: none; } }
 .topo nav { display: flex; gap: 4px; }
 .topo nav a { text-decoration: none; font-size: 13px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--navy); padding: 8px 10px; border-radius: 6px; }
 .topo nav a:hover { background: var(--creme); }
-@media (max-width: 560px) { .topo img { height: 30px; } .topo nav a { font-size: 11px; padding: 6px; letter-spacing: .03em; } }
+@media (max-width: 560px) { .topo img { height: 34px; } .topo nav a { font-size: 11px; padding: 6px; letter-spacing: .03em; } }
+
+/* Faixa institucional em degradê */
+.capa { position: relative; overflow: hidden; color: #fff;
+  background: radial-gradient(120% 150% at 88% 0%, #2A5FA3 0%, #0A3570 36%, #061B3F 100%); }
+.capa::before { content: ""; position: absolute; inset: 0; pointer-events: none;
+  background: radial-gradient(60% 80% at 8% 100%, rgba(184,146,26,.20), transparent 70%); }
+.capa::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 5px;
+  background: linear-gradient(90deg, #B8921A 0 45%, #0B7A32 45% 72%, #1E4E8C 72%); }
+.capa .wrap { position: relative; z-index: 1; padding-top: 40px; padding-bottom: 56px; }
+.institucional { display: flex; flex-wrap: wrap; align-items: center; gap: 18px 28px; margin-bottom: 44px; }
+.cartao-logos { background: #fff; border-radius: 16px; padding: 14px 22px; box-shadow: 0 14px 40px rgba(0,0,0,.30); }
+.cartao-logos img { height: 84px; display: block; }
+.inst-nomes { display: flex; flex-direction: column; gap: 6px; }
+.inst-nomes .rot { font-size: 11px; letter-spacing: .24em; text-transform: uppercase; color: #D9C17A; font-weight: 700; }
+.inst-nomes strong { font-family: var(--serif); font-weight: 400; font-size: clamp(20px, 2.4vw, 26px); line-height: 1.12; color: #fff; }
+@media (max-width: 560px) { .cartao-logos img { height: 58px; } .cartao-logos { padding: 10px 14px; } }
+.capa .kicker { color: #D9C17A; }
+.capa .hero-titulo h1 { color: #fff; }
+.capa .hero-titulo .num { color: #D9B23C; text-shadow: 0 6px 30px rgba(0,0,0,.25); }
+.capa .periodo { font-family: var(--serif); font-style: italic; font-size: 21px; color: rgba(255,255,255,.88); margin: 6px 0 0; }
+.capa .filete::before { background: #fff; }
+.capa .filete::after { background: rgba(217,193,122,.8); }
+.mapa-capa { margin: 8px 0 0; }
+.mapa-capa img { width: 100%; height: auto; display: block; border-radius: 14px; background: rgba(255,255,255,.03);
+  border: 1px solid rgba(255,255,255,.10); }
+.mapa-capa.decorativo img { opacity: .55; border: none; background: none; }
+.mapa-capa figcaption { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 16px; margin-top: 12px; font-size: 13px; color: rgba(255,255,255,.75); }
+.mapa-capa figcaption .rot { font-size: 11px; letter-spacing: .2em; text-transform: uppercase; font-weight: 700; color: #fff; }
+.mapa-capa .leg { display: flex; flex-wrap: wrap; gap: 6px 14px; margin-left: auto; }
+.capa .selo.e-DF { color: #E2BE4A; } .capa .selo.e-Brasil { color: #3DBA6B; }
+.capa .selo.e-Américas { color: #6FA3E8; } .capa .selo.e-Internacional { color: #A9B6C9; }
+.capa .acoes { margin-top: 30px; }
+.capa .btn.primario { background: #D9B23C; border-color: #D9B23C; color: #061B3F; }
+.capa .btn.primario:hover { background: #E7C55A; border-color: #E7C55A; }
+.capa .btn.secundario { color: #fff; border-color: rgba(255,255,255,.55); }
+.capa .btn.secundario:hover { background: rgba(255,255,255,.08); }
+.capa .vazio-claro { max-width: 760px; font-size: 18px; line-height: 1.6; color: rgba(255,255,255,.88); margin: 0 0 28px; }
+.realizacao { display: flex; flex-wrap: wrap; align-items: center; gap: 18px 28px; }
+.realizacao .cartao-logos img { height: 64px; }
+.realizacao .nomes { display: flex; flex-direction: column; gap: 2px; color: #fff; font-size: 15px; }
 
 /* Abertura */
-.hero { padding: 56px 0 40px; border-bottom: 1px solid var(--linha); background: linear-gradient(180deg, var(--creme), #fff 70%); }
+.hero { padding: 48px 0 40px; border-bottom: 1px solid var(--linha); background: linear-gradient(180deg, var(--creme), #fff 70%); }
 .kicker { font-size: 12px; font-weight: 700; letter-spacing: .22em; text-transform: uppercase; color: var(--ouro); }
 .hero-titulo { display: flex; align-items: flex-end; gap: 20px; margin: 14px 0 6px; }
 .hero-titulo .num { font-family: var(--serif); font-size: clamp(76px, 14vw, 132px); line-height: .8; color: var(--ouro); }
@@ -160,7 +204,8 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
 <body>
 <header class="topo">
   <div class="wrap">
-    <a href="#"><img src="assets/logos.png" alt="{{ subtitulo }}"></a>
+    <a class="marca" href="#"><img src="assets/logos.png" alt="{{ subtitulo }}">
+      {% if instituicoes %}<span class="marca-txt">{% for n in instituicoes %}<span>{{ n }}</span>{% endfor %}</span>{% endif %}</a>
     <nav>
       {% if ultima %}<a href="#destaques">Destaques</a>{% endif %}
       <a href="#feed">Feed</a>
@@ -169,8 +214,12 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
   </div>
 </header>
 
-<section class="hero">
+<section class="capa">
   <div class="wrap">
+    <div class="institucional">
+      <div class="cartao-logos"><img src="assets/logos.png" alt="{{ subtitulo }}"></div>
+      {% if instituicoes %}<div class="inst-nomes"><span class="rot">Realização</span>{% for n in instituicoes %}<strong>{{ n }}</strong>{% endfor %}</div>{% endif %}
+    </div>
     <span class="kicker">{{ titulo }}</span>
     {% if ultima %}
     <div class="hero-titulo">
@@ -179,20 +228,31 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
     </div>
     <p class="periodo">{{ ultima.periodo }}</p>
     <div class="filete"></div>
-    {% if ultima.mapa %}
-    <figure class="mapa-semana">
-      <img src="{{ ultima.mapa }}" alt="Mapa dos destaques da semana">
-      <figcaption><span class="rotulo">Mapa da semana</span><span>Os números indicam os destaques abaixo.</span>
+    <figure class="mapa-capa">
+      <img src="{{ mapa_hero }}" alt="Mapa dos destaques da semana">
+      <figcaption><span class="rot">Mapa da semana</span><span>Os números indicam os destaques abaixo.</span>
         <span class="leg">{% for e in ordem_escopo %}<span class="selo e-{{ e }}">{{ nome_escopo[e] }}</span>{% endfor %}</span></figcaption>
     </figure>
+    <div class="acoes">
+      <a class="btn primario" href="{{ ultima.pdf }}" download>Baixar clipping em PDF</a>
+      <a class="btn secundario" href="#feed">Ver todas as notícias</a>
+    </div>
+    {% else %}
+    <div class="hero-titulo"><h1>Notícias de relevância epidemiológica</h1></div>
+    <div class="filete"></div>
+    <p class="vazio-claro">A primeira edição do clipping será gerada automaticamente no domingo, ao fim da semana epidemiológica em curso. Enquanto isso, o feed abaixo é atualizado todos os dias com as publicações das fontes oficiais.</p>
+    <div class="acoes"><a class="btn primario" href="#feed">Ver as notícias</a></div>
+    <figure class="mapa-capa decorativo"><img src="{{ mapa_hero }}" alt=""></figure>
     {% endif %}
+  </div>
+</section>
+
+{% if ultima %}
+<section class="hero">
+  <div class="wrap">
     <div class="hero-corpo">
       <div>
         {% if ultima.panorama %}<p class="rotulo">Panorama da semana</p><p class="panorama">{{ ultima.panorama }}</p>{% endif %}
-        <div class="acoes">
-          <a class="btn primario" href="{{ ultima.pdf }}" download>Baixar clipping em PDF</a>
-          <a class="btn secundario" href="#feed">Ver todas as notícias</a>
-        </div>
       </div>
       <div class="kpis">
         <div class="kpi"><span class="v">{{ ultima.destaques|length }}</span><span class="l neutro">destaques</span></div>
@@ -200,13 +260,9 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
         {% for e in ordem_escopo %}<div class="kpi e-{{ e }}"><span class="v">{{ ultima.contagem_escopo[e] if ultima.contagem_escopo else 0 }}</span><span class="l">{{ nome_escopo[e] }}</span></div>{% endfor %}
       </div>
     </div>
-    {% else %}
-    <div class="hero-titulo"><h1>Notícias de relevância epidemiológica</h1></div>
-    <div class="filete"></div>
-    <p class="vazio">A primeira edição do clipping será gerada automaticamente no domingo, ao fim da semana epidemiológica em curso. Enquanto isso, o feed abaixo é atualizado todos os dias com as publicações das fontes oficiais.</p>
-    {% endif %}
   </div>
 </section>
+{% endif %}
 
 {% if ultima %}
 <section class="bloco" id="destaques">
@@ -287,6 +343,7 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
 <footer>
   <div class="wrap">
     <div class="linha-ouro"></div>
+    {% if instituicoes %}<div><b>Realização</b><div class="realizacao"><div class="cartao-logos"><img src="assets/logos.png" alt="{{ subtitulo }}"></div><div class="nomes">{% for n in instituicoes %}<span>{{ n }}</span>{% endfor %}</div></div></div>{% endif %}
     <div><b>Fontes oficiais monitoradas</b><p>{{ fontes_monitoradas|join(', ') }}.</p></div>
     <div><b>Método</b><p>As publicações são coletadas diariamente e classificadas por critérios de relevância epidemiológica (agravo, natureza do evento, proximidade geográfica e tipo de comunicado). Os destaques semanais têm títulos e resumos elaborados com apoio de inteligência artificial a partir do texto original. Para uso técnico, consulte sempre a publicação de origem.</p></div>
     {% if rodape %}<p>{{ rodape }}</p>{% endif %}
