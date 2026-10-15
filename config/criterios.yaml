@@ -63,7 +63,7 @@ agravos:
   - {nome: "Doença de Creutzfeldt-Jakob", icone: saude, peso: 3, termos: [creutzfeldt, "doenca da vaca louca", "prion"]}
   - {nome: "Imunização", icone: vacina, peso: 2, termos: ["cobertura vacinal", "vaccination coverage", "campanha de vacinacao", "vaccination campaign", esavi, "evento adverso pos-vacinacao", "vaccine-derived", imunizacao, immunization]}
   - {nome: "Emergências e desastres", icone: desastre, peso: 2, termos: [terremoto, earthquake, sismo, inundacao, enchente, flood, furacao, hurricane, deslizamento, "desastre", disaster, "crise humanitaria", "humanitarian crisis"]}
-  - {nome: "Saúde ambiental e clima", icone: clima, peso: 2, termos: ["onda de calor", "heat wave", heatwave, "calor extremo", "extreme heat", queimadas, wildfire, "qualidade do ar", "air quality", "fumaca", "el nino", "la nina", seca, drought]}
+  - {nome: "Saúde ambiental e clima", icone: clima, peso: 2, termos: ["onda de calor", "heat wave", heatwave, "calor extremo", "extreme heat", queimadas, wildfire, "qualidade do ar", "air quality", "fumaca", "el nino", "la nina", seca, drought, incendio, incendios, "incendio florestal", "incendios florestais", "incendio em vegetacao", "focos de calor", "focos de incendio", brigadistas, "baixa umidade", "umidade relativa"]}
 
 eventos:
   - {peso: 3, termos: ["emergencia de saude publica", "public health emergency", pheic, espii, "emergency committee", "comite de emergencia", "regulamento sanitario internacional", "international health regulations"]}

@@ -12,7 +12,7 @@
   ],
   "p": 7.5,
   "se": "2026-41",
-  "r": "InfoGripe: apenas Sergipe tem SRAG em nível de alerta e tendência de aumento ricardo.valverde Qui, 15/10/2026 - 10:48",
+  "r": "InfoGripe: apenas Sergipe tem SRAG em nível de alerta e tendência de aumento",
   "i": "respiratorio"
  },
  {
@@ -48,22 +48,6 @@
   "i": "quimico"
  },
  {
-  "t": "Anvisa aprova novo medicamento para tratar lúpus",
-  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-aprova-novo-medicamento-para-tratar-lupus",
-  "d": "2026-10-14",
-  "df": "14 out 2026",
-  "f": "Agência Brasil",
-  "fn": "Agência Brasil | Saúde",
-  "e": "Brasil",
-  "a": [
-   "Malária"
-  ],
-  "p": 12.0,
-  "se": "2026-41",
-  "r": "O medicamento Gazyva (obinutuzumabe), indicado para alguns casos de câncer , pode ser usado a partir de agora no tratamento do lúpus . A Agência Nacional de Vigilância Sanitária (Anvisa) passou a recomendar a substância para pacientes adultos com lúpus ativo…",
-  "i": "mosquito"
- },
- {
   "t": "Ebola disease outbreak in the Democratic Republic of the Congo",
   "u": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
   "d": "2026-10-14",
@@ -78,22 +62,6 @@
   "se": "2026-41",
   "r": "Since May 2026, an Ebola virus disease outbreak caused by Bundibugyo virus has been ongoing in the Democratic Republic of the Congo (DRC).",
   "i": "virus"
- },
- {
-  "t": "Anvisa proíbe canetas emagrecedoras sem registro vendidas na internet",
-  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-proibe-canetas-emagrecedoras-sem-registro-vendidas-na-internet",
-  "d": "2026-10-14",
-  "df": "14 out 2026",
-  "f": "Agência Brasil",
-  "fn": "Agência Brasil | Saúde",
-  "e": "Brasil",
-  "a": [
-   "Malária"
-  ],
-  "p": 9.5,
-  "se": "2026-41",
-  "r": "A Agência Nacional de Vigilância Sanitária (Anvisa) determinou nesta quarta-feira (14) a apreensão de produtos sujeitos à vigilância sanitária à venda no site https://zyntrashop.site – incluindo a retatrutida, a tirzepatida, popularmente conhecidas como…",
-  "i": "mosquito"
  },
  {
   "t": "Saúde acompanha implantação em Anápolis da metodologia que reduz dengue e chikungunya",
@@ -130,22 +98,6 @@
   "i": "bacteria"
  },
  {
-  "t": "Entenda o linfoma não Hodgkin, câncer que causou morte de Netinho",
-  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/entenda-o-linfoma-nao-hodgkin-cancer-que-causou-morte-de-netinho",
-  "d": "2026-10-14",
-  "df": "14 out 2026",
-  "f": "Agência Brasil",
-  "fn": "Agência Brasil | Saúde",
-  "e": "Brasil",
-  "a": [
-   "HIV/aids e IST"
-  ],
-  "p": 6.5,
-  "se": "2026-41",
-  "r": "O linfoma não Hodgkin tipo B, doença que tirou a vida do cantor Netinho na terça-feira (13) , é um câncer do sangue que começa no sistema linfático ─ uma rede de vasos, gânglios e órgãos, como as amígdalas e o baço, que faz parte das defesas do organismo…",
-  "i": "virus"
- },
- {
   "t": "Fiocruz analisa impacto das queimadas na saúde indígena no Amazonas",
   "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/fiocruz-analisa-impacto-das-queimadas-na-saude-indigena-no-amazonas",
   "d": "2026-10-13",
@@ -154,14 +106,12 @@
   "fn": "Agência Brasil | Saúde",
   "e": "Brasil",
   "a": [
-   "Malária",
-   "Doença meningocócica e meningites",
    "Saúde ambiental e clima"
   ],
-  "p": 10.5,
+  "p": 7.0,
   "se": "2026-41",
   "r": "A poluição do ar provocada por queimadas e incêndios florestais no Amazonas representa um risco à saúde da população, especialmente das comunidades indígenas, que enfrentam dificuldades de acesso aos serviços de saúde. O alerta faze parte de levantamento…",
-  "i": "bacteria"
+  "i": "clima"
  },
  {
   "t": "Nota técnica aborda impactos das queimadas na qualidade do ar e riscos à saúde indígena no Amazonas",
@@ -176,7 +126,7 @@
   ],
   "p": 6.5,
   "se": "2026-41",
-  "r": "Nota técnica aborda impactos das queimadas na qualidade do ar e riscos à saúde indígena no Amazonas renata.moehlecke Ter, 13/10/2026 - 13:46",
+  "r": "Nota técnica aborda impactos das queimadas na qualidade do ar e riscos à saúde indígena no Amazonas",
   "i": "clima"
  },
  {
@@ -189,10 +139,9 @@
   "e": "Internacional",
   "a": [
    "Síndrome respiratória e coronavírus emergentes",
-   "Peste",
-   "Influenza e vírus respiratórios"
+   "Peste"
   ],
-  "p": 15.5,
+  "p": 13.5,
   "se": "2026-40",
   "r": "On 2 October 2026, WHO became aware through media reports of the death of an employee of the Irkutsk Antiplague Research Institute (APRI) of Siberia and the Far East, the Russian Federation. According to these reports, the individual died on 2 October…",
   "i": "respiratorio"
@@ -206,14 +155,12 @@
   "fn": "Agência Brasil | Saúde",
   "e": "Brasil",
   "a": [
-   "Malária",
-   "Doença meningocócica e meningites",
-   "Influenza e vírus respiratórios"
+   "Malária"
   ],
-  "p": 12.5,
+  "p": 10.0,
   "se": "2026-40",
   "r": "A Agência Nacional de Vigilância Sanitária (Anvisa) autorizou o início de testes em humanos da primeira vacina do mundo contra a malária causada pelo Plasmodium vivax , parasita responsável pela maioria dos casos da doença no país. O imunizante é feito com…",
-  "i": "respiratorio"
+  "i": "mosquito"
  },
  {
   "t": "Brasil avança no desenvolvimento da primeira vacina do mundo contra malária vivax",
@@ -276,7 +223,7 @@
    "Febres hemorrágicas virais",
    "Doença pelo vírus Ebola"
   ],
-  "p": 8.0,
+  "p": 5.5,
   "se": "2026-40",
   "r": "This issue of the Communicable disease threats report (CDTR) covers the period 3 - 9October 2026, and includes updates on respiratory virus epidemiology in the EU/EEA, pneumonia of unknown aetiology, Ebola, expert deployment, West Nile Virus, Crimean-Congo…",
   "i": "virus"
@@ -311,8 +258,24 @@
   ],
   "p": 8.0,
   "se": "2026-40",
-  "r": "InfoGripe alerta para a importância da vacinação contra Covid-19 e VSR ricardo.valverde Qui, 08/10/2026 - 10:58",
+  "r": "InfoGripe alerta para a importância da vacinação contra Covid-19 e VSR",
   "i": "respiratorio"
+ },
+ {
+  "t": "Fiocruz expressa solidariedade à UFPE após incêndios",
+  "u": "https://agencia.fiocruz.br/fiocruz-expressa-solidariedade-ufpe-apos-incendios",
+  "d": "2026-10-08",
+  "df": "08 out 2026",
+  "f": "Fiocruz",
+  "fn": "Agência Fiocruz de Notícias",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 6.5,
+  "se": "2026-40",
+  "r": "Fiocruz expressa solidariedade à UFPE após incêndios A Fiocruz expressa solidariedade a toda a comunidade da Universidade Federal de Pernambuco (UFPE) diante dos recentes incêndios ocorridos em prédios da instituição, com danos materiais relevantes. As perdas…",
+  "i": "clima"
  },
  {
   "t": "Africa CDC Expresses Solidarity with Kenya and Calls for Stronger Regional Ebola Preparedness",
@@ -331,22 +294,6 @@
   "i": "virus"
  },
  {
-  "t": "ECDC closely monitoring situation following case of pneumonia of unknown origin in Russia",
-  "u": "https://www.ecdc.europa.eu/en/news-events/ecdc-closely-monitoring-situation-following-case-pneumonia-unknown-origin-russia",
-  "d": "2026-10-06",
-  "df": "06 out 2026",
-  "f": "ECDC",
-  "fn": "ECDC | News",
-  "e": "Internacional",
-  "a": [
-   "Peste"
-  ],
-  "p": 7.5,
-  "se": "2026-40",
-  "r": "Following the reported death of a laboratory worker in Irkutsk, Russia, from pneumonia that is suspected to be pneumonic plague, ECDC is closely monitoring the situation.",
-  "i": "bacteria"
- },
- {
   "t": "Africa CDC exprime sa solidarité avec le Kenya et appelle à renforcer la préparation régionale face à Ebola",
   "u": "https://africacdc.org/news-item/africa-cdc-exprime-sa-solidarite-avec-le-kenya-et-appelle-a-renforcer-la-preparation-regionale-face-a-ebola/",
   "d": "2026-10-06",
@@ -361,6 +308,22 @@
   "se": "2026-40",
   "r": "Addis-Abeba, Éthiopie, 6 octobre 2026 Les Centres africains de contrôle et de prévention des maladies (Africa CDC) ont réaffirmé leur soutien au Kenya à la suite de la confirmation du premier cas importé de maladie à virus Ebola de souche Bundibugyo dans le…",
   "i": "virus"
+ },
+ {
+  "t": "ECDC closely monitoring situation following case of pneumonia of unknown origin in Russia",
+  "u": "https://www.ecdc.europa.eu/en/news-events/ecdc-closely-monitoring-situation-following-case-pneumonia-unknown-origin-russia",
+  "d": "2026-10-06",
+  "df": "06 out 2026",
+  "f": "ECDC",
+  "fn": "ECDC | News",
+  "e": "Internacional",
+  "a": [
+   "Peste"
+  ],
+  "p": 5.0,
+  "se": "2026-40",
+  "r": "Following the reported death of a laboratory worker in Irkutsk, Russia, from pneumonia that is suspected to be pneumonic plague, ECDC is closely monitoring the situation.",
+  "i": "bacteria"
  },
  {
   "t": "Chikungunya virus disease worldwide overview",
@@ -453,7 +416,7 @@
    "Influenza por novo subtipo",
    "Doença pelo vírus Ebola"
   ],
-  "p": 8.0,
+  "p": 5.5,
   "se": "2026-39",
   "r": "This issue of the Communicable disease threats report (CDTR) covers the period 26 September - 2 October 2026, and includes updates on Crimean Congo haemorrhagic fever, Chikungunya virus disease, cholera, COVID-19, dengue, Ebola, avian influenza, seasonal…",
   "i": "virus"
@@ -662,7 +625,7 @@
    "Doença pelo vírus Ebola",
    "Febre do Nilo Ocidental"
   ],
-  "p": 8.0,
+  "p": 5.5,
   "se": "2026-38",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 19-25 September, and includes updates on respiratory virus epidemiology in the EU/EEA Ebola, ECDC expert deployment, West Nile Virus, Crimean-Congo haemorrhagic fever, dengue…",
   "i": "virus"
@@ -742,7 +705,7 @@
    "Influenza por novo subtipo",
    "Febres hemorrágicas virais"
   ],
-  "p": 8.0,
+  "p": 5.5,
   "se": "2026-37",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 12-18 September, and includes updates on Ebola, malaria, botulism, avian influenza A(H9N2), influenza A(H5), respiratory virus epidemiology in the EU/.EEA, West Nile virus…",
   "i": "virus"
@@ -776,7 +739,7 @@
    "Doença pelo vírus Ebola",
    "Febre do Nilo Ocidental"
   ],
-  "p": 8.0,
+  "p": 5.5,
   "se": "2026-36",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 5 -12 September, and includes updates on Ebola, an overview of respiratory virus epidemiology in the EU/EEA, West Nile virus, Crimean-Congo haemorrhagic fever, dengue…",
   "i": "virus"
@@ -856,7 +819,7 @@
    "Febres hemorrágicas virais",
    "Doença pelo vírus Ebola"
   ],
-  "p": 8.0,
+  "p": 5.5,
   "se": "2026-35",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 29 August - 4 September, and includes updates on Ebola, SARS-CoV-2 variant classification, West Nile virus, Crimean-Congo haemorrhagic fever, dengue, chikungunya, vibrio…",
   "i": "virus"
@@ -906,7 +869,7 @@
    "Febres hemorrágicas virais",
    "Doença pelo vírus Ebola"
   ],
-  "p": 8.0,
+  "p": 5.5,
   "se": "2026-34",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 22 - 28 August, and includes updates on diphtheria, Ebola, swine influenza A(H1N2), respiratory virus epidemiology, Crimean-Congo haemorrhagic fever, dengue, chikungunya virus…",
   "i": "virus"
@@ -957,7 +920,7 @@
    "Febres hemorrágicas virais",
    "Doença pelo vírus Ebola"
   ],
-  "p": 8.0,
+  "p": 5.5,
   "se": "2026-33",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 15-21 August 2026, and includes updates on Ebola, respiratory virus epidemiology in the EU/EEA, swine flu, West Nile virus, Crimean-Congo haemorrhagic fever, dengue…",
   "i": "virus"
@@ -1040,7 +1003,7 @@
    "Febres hemorrágicas virais",
    "Doença pelo vírus Ebola"
   ],
-  "p": 8.0,
+  "p": 5.5,
   "se": "2026-32",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 8 - 14 August 2026, and includes updates on Ebola, chikungunya, dengue, West Nile Virus infection, Crimean-Congo haemorrhagic fever, Vibrio, respiratory virus epidemiology in…",
   "i": "virus"
@@ -1090,7 +1053,7 @@
    "Doença pelo vírus Ebola",
    "Febre do Nilo Ocidental"
   ],
-  "p": 8.0,
+  "p": 5.5,
   "se": "2026-31",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 1 - 7 August 2026, and includes updates on Ebola, chikungunya, dengue, West Nile Virus infection, Crimean-Congo haemorrhagic fever, Vibrio, respiratory virus epidemiology in…",
   "i": "virus"

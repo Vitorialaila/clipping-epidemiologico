@@ -82,7 +82,7 @@ a { color: inherit; text-decoration: none; }
 .mapa-semana .rotulo-mini { font-size: 6.6pt; letter-spacing: 0.2em; text-transform: uppercase; font-weight: 700; color: var(--navy); }
 .mapa-semana .exp { flex: 1; }
 .mapa-semana .leg { display: flex; gap: 3mm; }
-.fundo-DF { background: var(--df); } .fundo-Brasil { background: var(--brasil); } .fundo-Américas { background: var(--americas); } .fundo-Internacional { background: var(--internacional); }
+.fundo-DF, .fundo-Brasil, .fundo-Américas, .fundo-Internacional { background: var(--navy); }
 
 /* Visuais dos destaques */
 .visual { position: relative; margin: 0 0 3mm; border-radius: 1.2mm; overflow: hidden; }
@@ -179,12 +179,13 @@ a { color: inherit; text-decoration: none; }
 .mapa-escuro figcaption { display: flex; align-items: baseline; gap: 3mm; margin-top: 2mm; font-size: 7pt; color: rgba(255,255,255,0.75); }
 .mapa-escuro .rotulo-mini { font-size: 6.6pt; letter-spacing: 0.2em; text-transform: uppercase; font-weight: 700; color: #fff; }
 .mapa-escuro .exp { flex: 1; }
-.mapa-escuro .leg { display: flex; gap: 3mm; }
+.mapa-escuro .leg { display: flex; gap: 3mm; white-space: nowrap; }
 .c-DF { color: #E2BE4A; } .c-Brasil { color: #3DBA6B; } .c-Américas { color: #6FA3E8; } .c-Internacional { color: #A9B6C9; }
 .realizacao { margin-top: 6mm; display: flex; align-items: center; gap: 6mm; padding: 5mm; border-top: 2.2pt solid var(--navy); break-inside: avoid; }
 .realizacao img { height: 16mm; }
 .realizacao .rot { display: block; font-size: 6.6pt; letter-spacing: 0.22em; text-transform: uppercase; color: var(--ouro); font-weight: 700; margin-bottom: 1mm; }
 .realizacao strong { display: block; font-family: "Serif"; font-weight: 400; font-size: 12pt; color: var(--navy); line-height: 1.2; }
+.mapa-escuro .leg-area { display: inline-block; width: 3mm; height: 2.2mm; margin-right: 1.5mm; vertical-align: -0.2mm; background: rgba(255,255,255,0.45); border: 0.2mm solid rgba(255,255,255,0.6); }
 </style>
 </head>
 <body>
@@ -225,7 +226,7 @@ a { color: inherit; text-decoration: none; }
     <figcaption>
       <span class="rotulo-mini">Mapa da semana</span>
       <span class="exp">Os números indicam os destaques desta edição.</span>
-      <span class="leg">{% for e in ordem_escopo %}<span class="selo c-{{ e }}">{{ nome_escopo[e] }}</span>{% endfor %}</span>
+      <span class="leg"><span class="leg-area"></span>País ou UF com evento em destaque</span>
     </figcaption>
   </figure>
   {% endif %}

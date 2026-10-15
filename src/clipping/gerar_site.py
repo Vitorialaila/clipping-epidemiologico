@@ -9,7 +9,7 @@ from datetime import date, datetime, timedelta, timezone
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
-from . import icones, mapas
+from . import icones, mapas, semana
 from .pontuar import limiares
 from .util import (ARQ_NOTICIAS, ASSETS, DIR_EDICOES_DADOS, DOCS, NOME_ESCOPO, ORDEM_ESCOPO, TEMPLATES,
                    carregar_yaml, data_curta, data_extenso, ler_json, log, para_data, salvar_json, truncar)
@@ -39,6 +39,15 @@ def gerar() -> None:
     } for n in noticias if n["pontuacao"] >= limiar_feed and n["data"] >= corte]
     feed.sort(key=lambda x: (x["d"], x["p"]), reverse=True)
 
+    # Semanas epidemiológicas presentes no feed, da mais recente para a mais antiga
+    semanas = []
+    for cod in sorted({x["se"] for x in feed if x.get("se")}, reverse=True):
+        try:
+            w = semana.de_codigo(cod)
+        except ValueError:
+            continue
+        ini, fim = w.startdate(), w.enddate()
+        semanas.append((cod, f"{semana.rotulo(w)} ({ini.day:02d}/{ini.month:02d} a {fim.day:02d}/{fim.month:02d})"))
     agravos = Counter(a for x in feed for a in x["a"])
     fontes = sorted({x["f"] for x in feed})
     edicoes = _edicoes()
@@ -54,7 +63,7 @@ def gerar() -> None:
         rodape=cfg["publicacao"].get("rodape", ""),
         ultima=edicoes[0] if edicoes else None, arquivo=por_se,
         feed_json=json.dumps(feed, ensure_ascii=False).replace("</", "<\\/"),
-        agravos=[a for a, _ in agravos.most_common()], fontes=fontes,
+        agravos=[a for a, _ in agravos.most_common()], fontes=fontes, semanas=semanas,
         ordem_escopo=ORDEM_ESCOPO, nome_escopo=NOME_ESCOPO, dias=dias, total_feed=len(feed),
         atualizado=data_extenso(date.today()),
         atualizado_iso=datetime.now(timezone.utc).isoformat(timespec="minutes"),

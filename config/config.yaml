@@ -180,6 +180,35 @@ fontes:
     escopo_padrao: "Brasil"
     idioma: pt
 
+  - id: agencia-brasil-geral
+    nome: "Agência Brasil | Geral"
+    sigla: "Agência Brasil"
+    tipo: rss
+    url: "https://agenciabrasil.ebc.com.br/rss/geral/feed.xml"
+    peso: 1
+    escopo_padrao: "Brasil"
+    idioma: pt
+
+  # Fontes do DF em teste: incêndios florestais, qualidade do ar e emergências locais.
+  # Se o portal bloquear o acesso automatizado, a coleta segue com as demais fontes.
+  - id: cbmdf
+    nome: "CBMDF | Notícias"
+    sigla: "CBMDF"
+    tipo: rss
+    url: "https://www.cbm.df.gov.br/feed/"
+    peso: 1.5
+    escopo_padrao: "DF"
+    idioma: pt
+
+  - id: brasilia-ambiental
+    nome: "Brasília Ambiental (Ibram) | Notícias"
+    sigla: "Ibram-DF"
+    tipo: rss
+    url: "https://www.ibram.df.gov.br/feed/"
+    peso: 1.5
+    escopo_padrao: "DF"
+    idioma: pt
+
   # Fonte experimental: o portal pode bloquear acessos automatizados.
   # Se falhar, a coleta continua normalmente com as demais fontes.
   - id: agencia-brasilia-saude

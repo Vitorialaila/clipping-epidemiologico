@@ -10,7 +10,7 @@
   "data": "2026-10-15",
   "data_estimada": false,
   "se": "2026-41",
-  "descricao": "InfoGripe: apenas Sergipe tem SRAG em nível de alerta e tendência de aumento ricardo.valverde Qui, 15/10/2026 - 10:48",
+  "descricao": "InfoGripe: apenas Sergipe tem SRAG em nível de alerta e tendência de aumento",
   "coletado_em": "2026-10-15T16:45:38+00:00",
   "pontuacao": 7.5,
   "agravos": [
@@ -90,7 +90,7 @@
   "data": "2026-10-15",
   "data_estimada": false,
   "se": "2026-41",
-  "descricao": "Fiocruz reforça a gratuidade da 3° Conferência de Promoção da Saúde De forma gratuita, a Fiocruz vai promover, nos dias 24 e 25 de novembro, a 3° Conferência de Promoção da Saúde . O evento ocorrerá na Escola Nacional de Saúde Pública (Ensp/Fiocruz). A instituição recebeu diversas denúncias sobre uma página falsa que solicita dados pessoais e pagamento para a participação na Conferência. Trata-se de uma tentativa de golpe e as providências cabíveis já estão em andamento. Visite a página oficial do evento para obter informações seguras. renata.moehlecke Qui, 15/10/2026 - 09:29",
+  "descricao": "Fiocruz reforça a gratuidade da 3° Conferência de Promoção da Saúde De forma gratuita, a Fiocruz vai promover, nos dias 24 e 25 de novembro, a 3° Conferência de Promoção da Saúde . O evento ocorrerá na Escola Nacional de Saúde Pública (Ensp/Fiocruz). A instituição recebeu diversas denúncias sobre uma página falsa que solicita dados pessoais e pagamento para a participação na Conferência. Trata-se de uma tentativa de golpe e as providências cabíveis já estão em andamento. Visite a página oficial do evento para obter informações seguras.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
   "pontuacao": 0.0,
   "agravos": [],
@@ -108,7 +108,7 @@
   "data": "2026-10-15",
   "data_estimada": false,
   "se": "2026-41",
-  "descricao": "O Ministério da Saúde aprovou protocolo para uso do medicamento emicizumabe no tratamento de crianças até 6 anos com hemofilia A que não apresentam inibidores do fator VIII da coagulação sanguínea. A medida consta de portaria publicada na edição desta quinta-feira (15) do Diário Oficial da União . Notícias relacionadas: Crianças com hemofilia terão terapia menos invasiva pelo SUS. O documento estabelece critérios de diagnóstico, inclusão e exclusão de pacientes, além das condições de tratamento e dos mecanismos de regulação, controle e avaliação. O protocolo tem abrangência nacional e deverá ser usado pelas secretarias de Saúde dos estados, do Distrito Federal e dos municípios para regular o acesso ao tratamento. Benefícios O tratamento é considerado menos invasivo . Ao contrário da terapia tradicional com fator VIII, que exige infusões nas veias, o emicizumabe é aplicado por via subcutânea, de forma menos invasiva. O tratamento, de acordo com o ministério, diminuiria também a frequência dos sangramentos. Informação De acordo com a portaria, o paciente ou o responsável legal deverá ser informado sobre os potenciais riscos, efeitos colaterais e eventos adversos relacionados ao uso do emicizumabe. O protocolo completo ficará disponível no site do Ministério da Saúde, na área destinada aos Protocolos Clínicos e Diretrizes Terapêuticas (PCDT). Atendimento Os gestores estaduais, distrital e municipais do Sistema Único de Saúde (SUS) deverão organizar a rede assistencial, definir…",
+  "descricao": "O Ministério da Saúde aprovou protocolo para uso do medicamento emicizumabe no tratamento de crianças até 6 anos com hemofilia A que não apresentam inibidores do fator VIII da coagulação sanguínea. A medida consta de portaria publicada na edição desta quinta-feira (15) do Diário Oficial da União .",
   "coletado_em": "2026-10-15T16:45:38+00:00",
   "pontuacao": 0.0,
   "agravos": [],
@@ -126,15 +126,12 @@
   "data": "2026-10-14",
   "data_estimada": false,
   "se": "2026-41",
-  "descricao": "O medicamento Gazyva (obinutuzumabe), indicado para alguns casos de câncer , pode ser usado a partir de agora no tratamento do lúpus . A Agência Nacional de Vigilância Sanitária (Anvisa) passou a recomendar a substância para pacientes adultos com lúpus ativo moderado a grave, positivos para autoanticorpos, em uso de tratamento padrão. Em nota, a Anvisa informou que o obinutuzumabe é um anticorpo monoclonal humanizado que promove eliminação massiva e prolongada dos linfócitos B, células que desempenham papel central nos processos fisiológicos anormais que levam ao desenvolvimento do lúpus. Notícias relacionadas: Malária: Anvisa autoriza teste em humanos de vacina 100% brasileira. Anvisa libera fabricação de produtos de limpeza da Unilever. A doença, segundo a agência, figura como uma condição autoimune, crônica e potencialmente grave, caracterizada pela produção desregulada de autoanticorpos que provocam inflamações em múltiplos órgãos e sistemas. Entre as áreas mais afetadas estão pele, articulações, rins, sistema sanguíneo e sistema nervoso central. “Os benefícios demonstrados da nova indicação incluem redução da atividade da doença, menor ocorrência de exacerbações e redução sustentada da exposição a corticosteroides.” A agência ressaltou ainda que, apesar da disponibilidade de terapias convencionais e biológicas para o tratamento da doença, existe uma parcela significativa de pacientes que permanece em estágio ativo constante. “Essas pessoas sofrem com surtos recorrentes…",
+  "descricao": "O medicamento Gazyva (obinutuzumabe), indicado para alguns casos de câncer , pode ser usado a partir de agora no tratamento do lúpus . A Agência Nacional de Vigilância Sanitária (Anvisa) passou a recomendar a substância para pacientes adultos com lúpus ativo moderado a grave, positivos para autoanticorpos, em uso de tratamento padrão. Em nota, a Anvisa informou que o obinutuzumabe é um anticorpo monoclonal humanizado que promove eliminação massiva e prolongada dos linfócitos B, células que desempenham papel central nos processos fisiológicos anormais que levam ao desenvolvimento do lúpus.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 12.0,
-  "agravos": [
-   "Malária"
-  ],
+  "pontuacao": 0.0,
+  "agravos": [],
   "escopo": "Brasil",
   "termos_evento": [
-   "surtos",
    "vigilancia"
   ]
  },
@@ -171,12 +168,10 @@
   "data": "2026-10-14",
   "data_estimada": false,
   "se": "2026-41",
-  "descricao": "A Agência Nacional de Vigilância Sanitária (Anvisa) determinou nesta quarta-feira (14) a apreensão de produtos sujeitos à vigilância sanitária à venda no site https://zyntrashop.site – incluindo a retatrutida, a tirzepatida, popularmente conhecidas como canetas emagrecedoras . A decisão também se aplica aos produtos Retatrutude 120 mg, Caneta Retatrutide 60 mg, Tirzepatide 150mg e Caneta Tirzepatide 75 mg, comercializados na página https://www.zphcstore.com.br/, sob responsabilidade da ZPH Contabilidade. Notícias relacionadas: Anvisa proíbe suplementos alimentares de origem desconhecida. Anvisa aprova novo medicamento para tratar lúpus. Malária: Anvisa autoriza teste em humanos de vacina 100% brasileira. A medida atinge ainda produtos com tirzepatida e retatrutida, sem o devido registro, comercializados por meio do endereço eletrônico https://peptideosdobrasil.com.br/, além de itens vendidos por meio do site oxygenkwpharmabrasil, incluindo Retagen 40 mg (retatrutida). Em nota, a Anvisa informou que os produtos não podem ser fabricados, importados, distribuídos, divulgados nem utilizados. “A medida visa a prevenir a utilização pela população, com fundamento no risco sanitário decorrente da disponibilização ao consumo de produtos sem comprovação de regularidade, qualidade, segurança e eficácia.” Sem autorização A resolução da Anvisa também proíbe os seguintes produtos, anunciados e vendidos por empresa de origem desconhecida: NAD+ Liberty Pharma Retatrutida Liberty Pharma Glow…",
+  "descricao": "A Agência Nacional de Vigilância Sanitária (Anvisa) determinou nesta quarta-feira (14) a apreensão de produtos sujeitos à vigilância sanitária à venda no site https://zyntrashop.site – incluindo a retatrutida, a tirzepatida, popularmente conhecidas como canetas emagrecedoras . A decisão também se aplica aos produtos Retatrutude 120 mg, Caneta Retatrutide 60 mg, Tirzepatide 150mg e Caneta Tirzepatide 75 mg, comercializados na página https://www.zphcstore.com.br/, sob responsabilidade da ZPH Contabilidade.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 9.5,
-  "agravos": [
-   "Malária"
-  ],
+  "pontuacao": 0.0,
+  "agravos": [],
   "escopo": "Brasil",
   "termos_evento": [
    "vigilancia"
@@ -237,12 +232,10 @@
   "data": "2026-10-14",
   "data_estimada": false,
   "se": "2026-41",
-  "descricao": "O linfoma não Hodgkin tipo B, doença que tirou a vida do cantor Netinho na terça-feira (13) , é um câncer do sangue que começa no sistema linfático ─ uma rede de vasos, gânglios e órgãos, como as amígdalas e o baço, que faz parte das defesas do organismo. Esse sistema coleta e redireciona para o sistema circulatório um líquido claro, chamado linfa, que contém células de defesa, os linfócitos, que exercem um papel vital no sistema imunológico e na proteção contra infecções. Notícias relacionadas: Cantor de axé Netinho morre em Salvador aos 60 anos. Saiba o que é adenocarcinoma pulmonar, câncer que atinge o papa. Homens costumam descobrir câncer de mama em estágio mais avançado. Os linfócitos ficam nos gânglios, também chamados de linfonodos, em regiões como o pescoço, axilas e virilhas. Nas pessoas acometidas pelo linfoma não Hodgkin, essas células de defesa sofrem mutações e se acumulam de forma desordenada nos linfonodos e em outros órgãos . Quando os linfócitos que se acumulam são do tipo B, caracteriza-se um linfoma não Hodgkin como o diagnosticado no cantor Netinho e em 85% dos casos da doença. Há ainda os linfomas de células T (ou de linfócitos T) e os linfomas de células NK (células natural killer ou exterminadoras naturais), que são menos comuns. A hematologista do Hospital A.C. Camargo Cancer Center Talita Maira Bueno da Silveira explica que, no caso específico do cantor, o linfoma não Hodgkin, apesar de ser do tipo B, era bem raro , por se caracterizar como um…",
+  "descricao": "O linfoma não Hodgkin tipo B, doença que tirou a vida do cantor Netinho na terça-feira (13) , é um câncer do sangue que começa no sistema linfático ─ uma rede de vasos, gânglios e órgãos, como as amígdalas e o baço, que faz parte das defesas do organismo. Esse sistema coleta e redireciona para o sistema circulatório um líquido claro, chamado linfa, que contém células de defesa, os linfócitos, que exercem um papel vital no sistema imunológico e na proteção contra infecções.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 6.5,
-  "agravos": [
-   "HIV/aids e IST"
-  ],
+  "pontuacao": 0.0,
+  "agravos": [],
   "escopo": "Brasil",
   "termos_evento": []
  },
@@ -365,7 +358,7 @@
   "data": "2026-10-14",
   "data_estimada": false,
   "se": "2026-41",
-  "descricao": "Os participantes do Exame Nacional de Avaliação da Formação Médica (Enamed) 2026 que tiveram a solicitação de reaplicação autorizada pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) podem consultar o local onde farão a prova, neste domingo (18) em todo o país. A informação do endereço está no Cartão de Confirmação da reaplicação do exame, disponível na Página do Participante dentro do Sistema Enamed. Notícias relacionadas: Enamed: candidatos podem checar se pedido de reaplicação foi aprovado. A reaplicação é destinada somente aos candidatos que faltaram à aplicação regular do Enamed 2026, em 13 de setembro, porque foram comprovadamente afetados por problemas logísticos no dia da prova ou que estavam infectados por uma das doenças contagiosas listas no edital . Cronograma Após a reaplicação, em 18 de outubro, o gabarito preliminar da reaplicação do exame será divulgado em 20 de outubro. Os participantes poderão apresentar recursos entre 20 e 22 de outubro. O resultado dos recursos, o gabarito definitivo e o resultado final do exame estão previstos para 4 de dezembro. Enamed Criado pelo Ministério da Educação, o Enamed tem duas funções principais: avaliar a formação dos estudantes de medicina no Brasil e servir de critério para processos seletivos de residência médica de acesso direto, como no processo unificado do Exame Nacional de Residências (Enare) . O exame será aplicado obrigatoriamente a cada seis meses a partir de 2027 a todos os…",
+  "descricao": "Os participantes do Exame Nacional de Avaliação da Formação Médica (Enamed) 2026 que tiveram a solicitação de reaplicação autorizada pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) podem consultar o local onde farão a prova, neste domingo (18) em todo o país. A informação do endereço está no Cartão de Confirmação da reaplicação do exame, disponível na Página do Participante dentro do Sistema Enamed.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
   "pontuacao": 0.0,
   "agravos": [],
@@ -383,7 +376,7 @@
   "data": "2026-10-14",
   "data_estimada": false,
   "se": "2026-41",
-  "descricao": "A Agência Nacional de Vigilância Sanitária (Anvisa) determinou a apreensão de todos os produtos fabricados pela empresa PSM Pennaforte Produtos Naturais, incluindo suplementos alimentares. >> Clique aqui e leia a publicação da Resolução no Diário Oficial da União . Notícias relacionadas: Anvisa aprova novo medicamento para tratar lúpus. Em nota, a Anvisa informou que uma ação da vigilância sanitária de Marataízes (ES) constatou que o endereço constante no cadastro da empresa é um endereço residencial, “não sendo identificada nenhuma empresa ou estabelecimento comercial em funcionamento no espaço”. “Os produtos não podem ser fabricados, importados, distribuídos, divulgados nem utilizados”, informou a agência no comunicado. A Agência Brasil não conseguiu contato com a PSM Pennaforte Produtos Naturais Ltda. O espaço segue aberto para manifestação.",
+  "descricao": "A Agência Nacional de Vigilância Sanitária (Anvisa) determinou a apreensão de todos os produtos fabricados pela empresa PSM Pennaforte Produtos Naturais, incluindo suplementos alimentares. >> Clique aqui e leia a publicação da Resolução no Diário Oficial da União .",
   "coletado_em": "2026-10-15T16:45:38+00:00",
   "pontuacao": 0.0,
   "agravos": [],
@@ -403,7 +396,7 @@
   "data": "2026-10-14",
   "data_estimada": false,
   "se": "2026-41",
-  "descricao": "O Papa Leão XIV passou nesta terça-feira (13) por uma cirurgia para retirada de um nódulo no pulmão direito após os médicos detectarem adenocarcinoma pulmonar, que é o subtipo mais comum de câncer de pulmão. Esse tipo de câncer se desenvolve na região periférica dos pulmões e cresce mais lentamente do que outros tipos de câncer pulmonar. O adenocarcinoma de pulmão surge em glândulas que produzem muco e formam-se, em sua maioria, nos alvéolos (onde ocorre a entrada e saída de ar dos pulmões). É do tipo não pequenas células (CPNPC). Notícias relacionadas: Papa teve parte do pulmão removido após médicos detectarem câncer. Cirurgia do papa foi bem-sucedida e conforme o planejado, diz Vaticano. Há maior probabilidade de ser detectado antes de se espalhar para outros órgãos em comparação a outros tipos de câncer de pulmão de não pequenas células. Sintomas Os principais sintomas são: Tosse persistente Falta de ar Dor no peito Voz rouca Fadiga Dificuldade para respirar ou engolir Chiado no peito Tosse com muco e sangue Perda de apetite Inchaço no rosto ou nas veias do pescoço Perda de peso sem motivo aparente Especialistas alertam que o adenocarcinoma de pulmão é silencioso e muitos sinais são confundidos com sintomas de outras doenças. Por isso, a recomendação é procurar uma consulta médica quando os sintomas surgirem. Causas O tabagismo é a principal causa de câncer de pulmão. No entanto, o adenocarcinoma de pulmão também é detectado em pessoas não fumantes. A doença afeta mais…",
+  "descricao": "O Papa Leão XIV passou nesta terça-feira (13) por uma cirurgia para retirada de um nódulo no pulmão direito após os médicos detectarem adenocarcinoma pulmonar, que é o subtipo mais comum de câncer de pulmão. Esse tipo de câncer se desenvolve na região periférica dos pulmões e cresce mais lentamente do que outros tipos de câncer pulmonar. O adenocarcinoma de pulmão surge em glândulas que produzem muco e formam-se, em sua maioria, nos alvéolos (onde ocorre a entrada e saída de ar dos pulmões). É do tipo não pequenas células (CPNPC).",
   "coletado_em": "2026-10-15T16:45:38+00:00",
   "pontuacao": 0.0,
   "agravos": [],
@@ -513,18 +506,14 @@
   "data": "2026-10-13",
   "data_estimada": false,
   "se": "2026-41",
-  "descricao": "A poluição do ar provocada por queimadas e incêndios florestais no Amazonas representa um risco à saúde da população, especialmente das comunidades indígenas, que enfrentam dificuldades de acesso aos serviços de saúde. O alerta faze parte de levantamento apresentado por pesquisadores do Observatório de Clima e Saúde da Fundação Oswaldo Cruz (Fiocruz), que reúne dados sobre a concentração de poluentes e a distribuição dos focos de incêndio no estado. Notícias relacionadas: Homens costumam descobrir câncer de mama em estágio mais avançado. Malária: Anvisa autoriza teste em humanos de vacina 100% brasileira. Meningite: quatro cidades do Rio ofertam vacina a pessoas até 24 anos. O documento reúne informações sobre as concentrações de material particulado fino (PM2.5), a distribuição dos focos de incêndio e as previsões de qualidade do ar para diferentes localidades do estado. A publicação também aborda os possíveis efeitos da intensificação do fenômeno El Niño em 2026 e 2027 sobre as condições climáticas na região amazônica. Nos primeiros dias de outubro deste ano, Manaus registrou episódios de poluição atmosférica intensa, com concentrações de PM2.5 muito superiores aos valores recomendados pela Organização Mundial da Saúde (OMS). Composto por partículas capazes de penetrar profundamente nos pulmões e, em determinadas condições, alcançar a circulação sanguínea, o poluente está associado ao aumento do risco de doenças respiratórias e cardiovasculares, incluindo agravamento da…",
+  "descricao": "A poluição do ar provocada por queimadas e incêndios florestais no Amazonas representa um risco à saúde da população, especialmente das comunidades indígenas, que enfrentam dificuldades de acesso aos serviços de saúde. O alerta faze parte de levantamento apresentado por pesquisadores do Observatório de Clima e Saúde da Fundação Oswaldo Cruz (Fiocruz), que reúne dados sobre a concentração de poluentes e a distribuição dos focos de incêndio no estado.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 10.5,
+  "pontuacao": 7.0,
   "agravos": [
-   "Malária",
-   "Doença meningocócica e meningites",
    "Saúde ambiental e clima"
   ],
   "escopo": "Brasil",
-  "termos_evento": [
-   "vigilancia"
-  ]
+  "termos_evento": []
  },
  {
   "id": "87a34c55d97156",
@@ -537,7 +526,7 @@
   "data": "2026-10-13",
   "data_estimada": false,
   "se": "2026-41",
-  "descricao": "Nota técnica aborda impactos das queimadas na qualidade do ar e riscos à saúde indígena no Amazonas renata.moehlecke Ter, 13/10/2026 - 13:46",
+  "descricao": "Nota técnica aborda impactos das queimadas na qualidade do ar e riscos à saúde indígena no Amazonas",
   "coletado_em": "2026-10-15T16:45:38+00:00",
   "pontuacao": 6.5,
   "agravos": [
@@ -809,7 +798,7 @@
   "data": "2026-10-13",
   "data_estimada": false,
   "se": "2026-41",
-  "descricao": "Estudo destaca benefícios de alternativa não hormonal para o climatério renata.moehlecke Ter, 13/10/2026 - 12:21",
+  "descricao": "Estudo destaca benefícios de alternativa não hormonal para o climatério",
   "coletado_em": "2026-10-15T16:45:38+00:00",
   "pontuacao": 0.0,
   "agravos": [],
@@ -827,7 +816,7 @@
   "data": "2026-10-13",
   "data_estimada": false,
   "se": "2026-41",
-  "descricao": "Fiocruz pra Você vai oferecer vacinação a crianças e adultos ricardo.valverde Ter, 13/10/2026 - 11:33",
+  "descricao": "Fiocruz pra Você vai oferecer vacinação a crianças e adultos",
   "coletado_em": "2026-10-15T16:45:38+00:00",
   "pontuacao": 0.0,
   "agravos": [],
@@ -845,14 +834,12 @@
   "data": "2026-10-13",
   "data_estimada": false,
   "se": "2026-41",
-  "descricao": "Os homens também são afetados pelo câncer de mama e normalmente o descobrem em estágios mais avançados. O alerta é da Sociedade Brasileira de Radioterapia (SBRT) e faz parte da conscientização sobre a doença neste Outubro Rosa. Um levantamento da sociedade com dados dos Registros Hospitalares de Câncer (RHC), do Instituto Nacional de Câncer (Inca), identificou mais de 163 mil registros de câncer de mama entre 2020 e 2023, dos quais 2.126 foram em homens. Notícias relacionadas: Outubro Rosa: tratamento termina, mas medo do câncer pode permanecer. Anvisa manda apreender medicamento falsificado para câncer de mama. Anvisa aprova novas indicações para remédio que trata câncer de mama. De acordo com as estimativas do Inca, são esperados 781 mil novos casos de câncer por ano no Brasil entre 2026 e 2028 . Desse total, 78.610 correspondem ao câncer de mama, o equivalente a cerca de 10% de todos os novos casos estimados no país a cada ano. Entre as mulheres, o câncer de mama é o tipo mais incidente, representando 30% dos casos novos estimados, sem considerar os tumores de pele não melanoma. Já entre os homens, o percentual foi de 1,3% nos registros analisados pela SBRT no RHC entre 2020 e 2023. “A população precisa saber que o câncer de mama pode acometer homens e, inclusive, ser também letal nesse público nos casos mais avançados”, disse o rádio-oncologista e presidente da SBRT, Wilson José de Almeida Jr. Metástase A metástase é proporcionalmente mais frequente entre homens. O…",
+  "descricao": "Os homens também são afetados pelo câncer de mama e normalmente o descobrem em estágios mais avançados. O alerta é da Sociedade Brasileira de Radioterapia (SBRT) e faz parte da conscientização sobre a doença neste Outubro Rosa. Um levantamento da sociedade com dados dos Registros Hospitalares de Câncer (RHC), do Instituto Nacional de Câncer (Inca), identificou mais de 163 mil registros de câncer de mama entre 2020 e 2023, dos quais 2.126 foram em homens.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": [
-   "letalidade"
-  ]
+  "termos_evento": []
  },
  {
   "id": "7f8e378aaa35dc",
@@ -995,18 +982,15 @@
   "se": "2026-40",
   "descricao": "On 2 October 2026, WHO became aware through media reports of the death of an employee of the Irkutsk Antiplague Research Institute (APRI) of Siberia and the Far East, the Russian Federation. According to these reports, the individual died on 2 October following hospitalization for severe pneumonia on 29 September, and pneumonic plague was suspected as the cause of death, following occupational exposure in laboratory settings. Following requests for verification from WHO, the National Focal Point for the International Health Regulations (2005) (NFP) of the Russian Federation confirmed the death and informed WHO that no case of plague had been registered recently in Irkutsk Oblast, that preventive and control measures had been implemented in accordance with national sanitary legislation, and that the laboratory testing of contacts detected no high-threat pathogens. The authorities also reported that no biosecurity incidents had occurred in the laboratory, contrary to reports in the media, and that there were no further case of severe pneumonia linked to this case. The NFP informed WHO that the case and all contacts had been tested for a range of microorganisms, including high-threat pathogens. Test results were negative for the tested high-threat pathogens. All contacts had been medically followed up in healthcare facilities or at home, and all remained asymptomatic throughout. Quarantine measures were instituted in the hospital where the patient was being treated. Based on…",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 15.5,
+  "pontuacao": 13.5,
   "agravos": [
    "Síndrome respiratória e coronavírus emergentes",
-   "Peste",
-   "Influenza e vírus respiratórios"
+   "Peste"
   ],
   "escopo": "Internacional",
   "termos_evento": [
    "international health regulations",
-   "epidemic",
-   "death",
-   "investigation"
+   "death"
   ]
  },
  {
@@ -1020,17 +1004,14 @@
   "data": "2026-10-10",
   "data_estimada": false,
   "se": "2026-40",
-  "descricao": "A Agência Nacional de Vigilância Sanitária (Anvisa) autorizou o início de testes em humanos da primeira vacina do mundo contra a malária causada pelo Plasmodium vivax , parasita responsável pela maioria dos casos da doença no país. O imunizante é feito com tecnologia 100% nacional. Em nota, o Ministério da Saúde detalhou que a dose, chamada Vivaxin, é fruto de pesquisas conduzidas pelo Centro de Tecnologia de Vacinas (CTVacinas) da Universidade Federal de Minas Gerais (UFMG). A tecnologia tem incentivo previsto de R$ 12 milhões da pasta para ensaios clínicos de fases I, II e III. Notícias relacionadas: Meningite: quatro cidades do Rio ofertam vacina a pessoas até 24 anos. José Sarney é internado em UTI após procedimento abdominal. Vírus respiratórios ainda estão em alta no país, alerta Fiocruz. De acordo com o ministério, o estudo clínico de fase I vai avaliar a segurança da vacina, possíveis reações à aplicação e a capacidade de estimular uma resposta imunológica em um total de 48 participantes sem infecção prévia, com idades entre 18 e 59 anos. O acompanhamento clínico será feito por 360 dias. “O avanço na pesquisa da tecnologia representa um marco e abre a possibilidade de uma nova forma de prevenção contra a doença que, em 2025, registrou 118.037 casos no território nacional”, avaliou a pasta no comunicado. As duas vacinas contra malária atualmente recomendadas por autoridades sanitárias foram desenvolvidas para outra espécie de parasita causador da doença, o Plasmodium…",
+  "descricao": "A Agência Nacional de Vigilância Sanitária (Anvisa) autorizou o início de testes em humanos da primeira vacina do mundo contra a malária causada pelo Plasmodium vivax , parasita responsável pela maioria dos casos da doença no país. O imunizante é feito com tecnologia 100% nacional. Em nota, o Ministério da Saúde detalhou que a dose, chamada Vivaxin, é fruto de pesquisas conduzidas pelo Centro de Tecnologia de Vacinas (CTVacinas) da Universidade Federal de Minas Gerais (UFMG). A tecnologia tem incentivo previsto de R$ 12 milhões da pasta para ensaios clínicos de fases I, II e III.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 12.5,
+  "pontuacao": 10.0,
   "agravos": [
-   "Malária",
-   "Doença meningocócica e meningites",
-   "Influenza e vírus respiratórios"
+   "Malária"
   ],
   "escopo": "Brasil",
   "termos_evento": [
-   "letalidade",
    "vigilancia"
   ]
  },
@@ -1125,7 +1106,7 @@
   "se": "2026-40",
   "descricao": "This issue of the Communicable disease threats report (CDTR) covers the period 3 - 9October 2026, and includes updates on respiratory virus epidemiology in the EU/EEA, pneumonia of unknown aetiology, Ebola, expert deployment, West Nile Virus, Crimean-Congo haemorrhagic fever, dengue, chikungunya, symptomatic Sindbis case in Germany, measles, and Salmonella Strathcona .",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.0,
+  "pontuacao": 5.5,
   "agravos": [
    "Sarampo",
    "Febres hemorrágicas virais",
@@ -1235,7 +1216,7 @@
   "data": "2026-10-09",
   "data_estimada": false,
   "se": "2026-40",
-  "descricao": "Novo observatório amplia o conhecimento sobre os sistemas de saúde do Brics ricardo.valverde Sex, 09/10/2026 - 16:33",
+  "descricao": "Novo observatório amplia o conhecimento sobre os sistemas de saúde do Brics",
   "coletado_em": "2026-10-15T16:45:38+00:00",
   "pontuacao": 0.0,
   "agravos": [],
@@ -1253,7 +1234,7 @@
   "data": "2026-10-09",
   "data_estimada": false,
   "se": "2026-40",
-  "descricao": "Fiocruz assina Declaração de Barcelona e Iniciativa de Helsinki ricardo.valverde Sex, 09/10/2026 - 14:35",
+  "descricao": "Fiocruz assina Declaração de Barcelona e Iniciativa de Helsinki",
   "coletado_em": "2026-10-15T16:45:38+00:00",
   "pontuacao": 0.0,
   "agravos": [],
@@ -1281,8 +1262,7 @@
   "termos_evento": [
    "disease outbreak news",
    "imported case",
-   "deaths",
-   "notification"
+   "deaths"
   ]
  },
  {
@@ -1296,7 +1276,7 @@
   "data": "2026-10-08",
   "data_estimada": false,
   "se": "2026-40",
-  "descricao": "InfoGripe alerta para a importância da vacinação contra Covid-19 e VSR ricardo.valverde Qui, 08/10/2026 - 10:58",
+  "descricao": "InfoGripe alerta para a importância da vacinação contra Covid-19 e VSR",
   "coletado_em": "2026-10-15T16:45:38+00:00",
   "pontuacao": 8.0,
   "agravos": [
@@ -1393,10 +1373,12 @@
   "data": "2026-10-08",
   "data_estimada": false,
   "se": "2026-40",
-  "descricao": "Fiocruz expressa solidariedade à UFPE após incêndios A Fiocruz expressa solidariedade a toda a comunidade da Universidade Federal de Pernambuco (UFPE) diante dos recentes incêndios ocorridos em prédios da instituição, com danos materiais relevantes. As perdas ultrapassam os muros da UFPE e afetam toda a sociedade, beneficiada pela atuação no campo da educação e pela produção de conhecimento das instituições públicas. Além de manifestar apoio aos docentes, pesquisadores, estudantes e toda a comunidade acadêmica da UFPE neste momento de consternação e de reconstrução, a Fiocruz se põe à disposição para, no que for possível, ajudar na continuidade das atividades afetadas. Período eleitoral Durante o período eleitoral (de 4 de julho até 25 de outubro), os conteúdos digitais publicados e disponibilizados pela Agência Fiocruz de Notícias (AFN) acompanham as orientações da Advocacia-Geral da União (AGU) e da Secretaria de Comunicação Social da Presidência da República (Secom). O documento esclarece que é permitida a divulgação de \"conteúdo meramente informativo ou de serviço ao cidadão\". ricardo.valverde Qui, 08/10/2026 - 16:43",
+  "descricao": "Fiocruz expressa solidariedade à UFPE após incêndios A Fiocruz expressa solidariedade a toda a comunidade da Universidade Federal de Pernambuco (UFPE) diante dos recentes incêndios ocorridos em prédios da instituição, com danos materiais relevantes. As perdas ultrapassam os muros da UFPE e afetam toda a sociedade, beneficiada pela atuação no campo da educação e pela produção de conhecimento das instituições públicas. Além de manifestar apoio aos docentes, pesquisadores, estudantes e toda a comunidade acadêmica da UFPE neste momento de consternação e de reconstrução, a Fiocruz se põe à disposição para, no que for possível, ajudar na continuidade das atividades afetadas. Período eleitoral Durante o período eleitoral (de 4 de julho até 25 de outubro), os conteúdos digitais publicados e disponibilizados pela Agência Fiocruz de Notícias (AFN) acompanham as orientações da Advocacia-Geral da União (AGU) e da Secretaria de Comunicação Social da Presidência da República (Secom). O documento esclarece que é permitida a divulgação de \"conteúdo meramente informativo ou de serviço ao cidadão\".",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 0.0,
-  "agravos": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
   "escopo": "Brasil",
   "termos_evento": []
  },
@@ -1483,7 +1465,7 @@
   "data": "2026-10-07",
   "data_estimada": false,
   "se": "2026-40",
-  "descricao": "Pesquisadores debatem sobre savanas com foco na COP31 renata.moehlecke Qua, 07/10/2026 - 14:48",
+  "descricao": "Pesquisadores debatem sobre savanas com foco na COP31",
   "coletado_em": "2026-10-15T16:45:38+00:00",
   "pontuacao": 0.0,
   "agravos": [],
@@ -1526,7 +1508,7 @@
   "se": "2026-40",
   "descricao": "Following the reported death of a laboratory worker in Irkutsk, Russia, from pneumonia that is suspected to be pneumonic plague, ECDC is closely monitoring the situation.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.5,
+  "pontuacao": 5.0,
   "agravos": [
    "Peste"
   ],
@@ -1778,7 +1760,7 @@
   "se": "2026-39",
   "descricao": "This issue of the Communicable disease threats report (CDTR) covers the period 26 September - 2 October 2026, and includes updates on Crimean Congo haemorrhagic fever, Chikungunya virus disease, cholera, COVID-19, dengue, Ebola, avian influenza, seasonal influenza, Middle Eastern Respiratory Syndrome (MERS), respiratory syncytial infection, Vibriosis and West Nile virus infection.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.0,
+  "pontuacao": 5.5,
   "agravos": [
    "Síndrome respiratória e coronavírus emergentes",
    "Influenza por novo subtipo",
@@ -2290,8 +2272,7 @@
   "termos_evento": [
    "disease outbreak news",
    "confirmed cases",
-   "deaths",
-   "surveillance"
+   "deaths"
   ]
  },
  {
@@ -2307,7 +2288,7 @@
   "se": "2026-38",
   "descricao": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 19-25 September, and includes updates on respiratory virus epidemiology in the EU/EEA Ebola, ECDC expert deployment, West Nile Virus, Crimean-Congo haemorrhagic fever, dengue, chikungunya, and vibrio risk in coastal waters.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.0,
+  "pontuacao": 5.5,
   "agravos": [
    "Febres hemorrágicas virais",
    "Doença pelo vírus Ebola",
@@ -2632,7 +2613,7 @@
   "se": "2026-37",
   "descricao": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 12-18 September, and includes updates on Ebola, malaria, botulism, avian influenza A(H9N2), influenza A(H5), respiratory virus epidemiology in the EU/.EEA, West Nile virus infections, chikungunya, dengue, Crimean-Congo haemorrhagic fever, Vibrio, measles, and expert deployments.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.0,
+  "pontuacao": 5.5,
   "agravos": [
    "Sarampo",
    "Influenza por novo subtipo",
@@ -2674,7 +2655,7 @@
   "se": "2026-37",
   "descricao": "This report describes higher emergency department visits for heat-related illnesses during extreme heat during June and July 2026.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 3.5,
+  "pontuacao": 2.5,
   "agravos": [
    "Saúde ambiental e clima"
   ],
@@ -2694,7 +2675,7 @@
   "se": "2026-36",
   "descricao": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 5 -12 September, and includes updates on Ebola, an overview of respiratory virus epidemiology in the EU/EEA, West Nile virus, Crimean-Congo haemorrhagic fever, dengue, chikungunya, and vibrio.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.0,
+  "pontuacao": 5.5,
   "agravos": [
    "Febres hemorrágicas virais",
    "Doença pelo vírus Ebola",
@@ -2725,8 +2706,7 @@
    "disease outbreak news",
    "confirmed cases",
    "deaths",
-   "increase in cases",
-   "surveillance"
+   "increase in cases"
   ]
  },
  {
@@ -2827,7 +2807,7 @@
   "se": "2026-35",
   "descricao": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 29 August - 4 September, and includes updates on Ebola, SARS-CoV-2 variant classification, West Nile virus, Crimean-Congo haemorrhagic fever, dengue, chikungunya, vibrio, Middle East respiratory syndrome, malaria, influenza A (H9N2), and an overview of respiratory virus epidemiology in the EU/EEA.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.0,
+  "pontuacao": 5.5,
   "agravos": [
    "Influenza por novo subtipo",
    "Febres hemorrágicas virais",
@@ -2917,10 +2897,8 @@
   "termos_evento": [
    "public health emergency",
    "disease outbreak news",
-   "risk assessment",
    "confirmed cases",
-   "deaths",
-   "surveillance"
+   "deaths"
   ]
  },
  {
@@ -2936,7 +2914,7 @@
   "se": "2026-34",
   "descricao": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 22 - 28 August, and includes updates on diphtheria, Ebola, swine influenza A(H1N2), respiratory virus epidemiology, Crimean-Congo haemorrhagic fever, dengue, chikungunya virus disease, Vibrio growth, West Nile virus, cholera, poliovirus and expert deployments.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.0,
+  "pontuacao": 5.5,
   "agravos": [
    "Poliomielite",
    "Febres hemorrágicas virais",
@@ -3021,7 +2999,7 @@
   "se": "2026-33",
   "descricao": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 15-21 August 2026, and includes updates on Ebola, respiratory virus epidemiology in the EU/EEA, swine flu, West Nile virus, Crimean-Congo haemorrhagic fever, dengue, chikungunya, vibrio, influenza, Dermatophilosis congolensis, Salmonella Enteritidis, and measles.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.0,
+  "pontuacao": 5.5,
   "agravos": [
    "Sarampo",
    "Febres hemorrágicas virais",
@@ -3140,8 +3118,7 @@
    "public health emergency",
    "outbreak",
    "confirmed case",
-   "deaths",
-   "surveillance"
+   "deaths"
   ]
  },
  {
@@ -3157,7 +3134,7 @@
   "se": "2026-32",
   "descricao": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 8 - 14 August 2026, and includes updates on Ebola, chikungunya, dengue, West Nile Virus infection, Crimean-Congo haemorrhagic fever, Vibrio, respiratory virus epidemiology in the EU/EEA, World Pride, mpox, and expert deployments.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.0,
+  "pontuacao": 5.5,
   "agravos": [
    "Mpox",
    "Febres hemorrágicas virais",
@@ -3241,7 +3218,7 @@
   "se": "2026-31",
   "descricao": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 1 - 7 August 2026, and includes updates on Ebola, chikungunya, dengue, West Nile Virus infection, Crimean-Congo haemorrhagic fever, Vibrio, respiratory virus epidemiology in the EU/EEA, World Pride, Middle East respiratory syndrome coronavirus, and expert deployments.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.0,
+  "pontuacao": 5.5,
   "agravos": [
    "Febres hemorrágicas virais",
    "Doença pelo vírus Ebola",
@@ -3313,8 +3290,7 @@
    "outbreak",
    "confirmed cases",
    "deaths",
-   "increase in cases",
-   "surveillance"
+   "increase in cases"
   ]
  },
  {
@@ -3458,7 +3434,6 @@
   "escopo": "Américas",
   "termos_evento": [
    "outbreak",
-   "risk assessment",
    "confirmed cases",
    "deaths",
    "surveillance"
@@ -3607,8 +3582,7 @@
   "termos_evento": [
    "outbreak",
    "confirmed cases",
-   "deaths",
-   "surveillance"
+   "deaths"
   ]
  },
  {
@@ -3624,12 +3598,12 @@
   "se": "2026-26",
   "descricao": "This is the fifth Disease Outbreak News posting on the Andes hantavirus (ANDV) outbreak linked to the cruise ship M/V Hondius. The outbreak identification followed the notification to the World Health Organization (WHO) on 2 May 2026 of severe acute respiratory illness cases onboard. Since the previous Disease Outbreak News was published on 28 May 2026, one of the probable cases from Tristan da Cunha, an Overseas Territory of the United Kingdom of Great Britain and Northern Ireland (hereafter referred to as the United Kingdom), was laboratory confirmed. As of 2 July, a total of 13 cases, including three deaths, have been notified (case fatality ratio 23%). Twelve cases have been laboratory-confirmed for ANDV infection, and one is a probable case. All confirmed cases are among individuals who travelled onboard the M/V Hondius. Among the ten cases admitted to hospitals, eight have recovered and have been discharged, while two are still undergoing medical treatment. All identified contacts have completed the 42 day follow-up period by local health authorities in line with WHO guidance. The completion of the contact follow up without detection of additional secondary cases demonstrates effective interruption of transmission and confirms outbreak containment. This outbreak no longer poses a public health risk and no further related transmission is expected. On 2 May 2026, in accordance with the International Health Regulations (2005) (IHR), WHO received a notification from the…",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 16.0,
+  "pontuacao": 14.0,
   "agravos": [
    "Hantavirose",
    "Influenza e vírus respiratórios"
   ],
-  "escopo": "Américas",
+  "escopo": "Internacional",
   "termos_evento": [
    "international health regulations",
    "outbreak",
@@ -3751,13 +3725,12 @@
   "se": "2026-25",
   "descricao": "On 11 June 2026, the Kerala State Health Department confirmed one laboratory confirmed case of Nipah virus (NiV) infection in Kozhikode district, Kerala State, India. The case is an adult male who developed symptoms on 30 May 2026 and was hospitalized on 10 June 2026. He presented with neurological manifestations and at the time of reporting is on ventilatory support in an intensive care unit (ICU). As of 18 June 2026, a total of 104 contacts had been identified and were under monitoring, including health and care workers, with no reported secondary cases to date. NiV is a zoonotic disease transmitted to humans through infected animals, or through consumption of fruits or fruit products, such as raw date palm juice contaminated with the saliva, urine, or excreta of infected bats, as well as close contact with infected individuals. The current event involves a single confirmed case, with no secondary transmission identified to date. Public health measures are in place, including isolation, contact tracing, and enhanced surveillance. However, as the source of infection has not yet been identified and given the known presence of animal reservoirs, additional cases cannot be excluded. On 11 June 2026, WHO was informed of a laboratory-confirmed case of Nipah virus infection reported in Kozhikode district, Kerala State. Initial positive results were obtained through PCR testing at local laboratories and were subsequently confirmed by RT‑PCR at the National Institute of Virology…",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 14.0,
+  "pontuacao": 11.5,
   "agravos": [
    "Nipah"
   ],
   "escopo": "Internacional",
   "termos_evento": [
-   "outbreaks",
    "confirmed case",
    "surveillance"
   ]
@@ -3836,17 +3809,15 @@
   "se": "2026-25",
   "descricao": "Yellow fever is a viral disease found in areas of Africa and the Americas, spread by infected mosquitoes. Following an increase of cases in the Americas in 2025, transmission activity remained into 2026. From 1 January to 26 May 2026, six countries reported a total of 79 human infections along with multiple epizootics, indicating active sylvatic circulation. In Africa, sustained activity continued across parts of the region, affecting 13 high-risk countries (as per classification in the Eliminate Yellow fever Epidemics (EYE) Strategy). From January to May 2026, three countries in Africa reported 16 confirmed human cases, with an additional 32 suspected cases under investigation in five other countries. The recent rapid risk assessment assessed geographical variations in vaccination coverage, evidence of viral circulation, and the presence of competent vectors, concluding that unvaccinated populations in countries or areas with a history of yellow fever transmission remain at greatest risk. Transmission dynamics are further influenced by seasonal ecological factors, particularly rainfall, temperature, and mosquito abundance. Outbreaks reported from October 2025 through May 2026 in countries or areas with a history of yellow fever transmission were generally consistent with seasonal patterns or reflected gaps in immunization coverage. In contrast, cases detected in previously unaffected areas suggest viral introduction and an increased risk of urban transmission. No imported…",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 18.0,
+  "pontuacao": 16.5,
   "agravos": [
    "Febre amarela",
    "Imunização"
   ],
-  "escopo": "Brasil",
+  "escopo": "Américas",
   "termos_evento": [
    "outbreaks",
    "rapid risk assessment",
-   "confirmed cases",
-   "deaths",
    "investigation"
   ]
  },
@@ -3871,8 +3842,7 @@
   "termos_evento": [
    "outbreak",
    "confirmed cases",
-   "deaths",
-   "investigation"
+   "deaths"
   ]
  },
  {
@@ -4002,8 +3972,7 @@
   "termos_evento": [
    "outbreak",
    "confirmed cases",
-   "deaths",
-   "investigation"
+   "deaths"
   ]
  },
  {
@@ -4041,7 +4010,7 @@
   "se": "2026-23",
   "descricao": "This report describes a large outbreak of Bundibugyo virus disease identified in the Democratic Republic of the Congo and Uganda.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 12.5,
+  "pontuacao": 10.0,
   "agravos": [
    "Doença pelo vírus Ebola"
   ],
@@ -4064,7 +4033,7 @@
   "se": "2026-23",
   "descricao": "This report describes the risk posed by the current Ebola outbreak to the general U.S. population.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 11.0,
+  "pontuacao": 8.5,
   "agravos": [
    "Doença pelo vírus Ebola"
   ],
@@ -4086,10 +4055,10 @@
   "se": "2026-23",
   "descricao": "This report describes using a transmission model to project Ebola outbreak growth over three months.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 9.5,
+  "pontuacao": 8.0,
   "agravos": [
-   "Doença pelo vírus Ebola",
-   "Legionelose"
+   "Legionelose",
+   "Doença pelo vírus Ebola"
   ],
   "escopo": "Internacional",
   "termos_evento": [
@@ -4201,12 +4170,9 @@
   ],
   "escopo": "Internacional",
   "termos_evento": [
-   "international health regulations",
    "outbreak",
-   "risk assessment",
    "confirmed cases",
-   "deaths",
-   "investigation"
+   "deaths"
   ]
  },
  {
@@ -4244,7 +4210,7 @@
   "se": "2026-22",
   "descricao": "This report describes an outbreak of 39 cases of amatoxin mushroom poisoning in Northern California.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.0,
+  "pontuacao": 5.5,
   "agravos": [
    "Intoxicações"
   ],
@@ -4336,10 +4302,9 @@
   "se": "2026-21",
   "descricao": "This is the fourth Disease Outbreak News report on the Andes hantavirus outbreak linked to cruise ship travel, following the notification to the World Health Organization (WHO) on 2 May 2026 of severe respiratory illness cases aboard M/V Hondius, a cruise ship. Since the last DON was published on 13 May, three additional confirmed cases were reported, from Canada, the Netherlands, and Spain. The previously reported inconclusive case from the United States of America was subsequently determined to be negative following further laboratory testing and has been removed from the total case count. All cases to date have been passengers or crew members on the ship. As of 27 May, a total of 13 cases, including three deaths, have been reported (case fatality ratio 23%). Eleven cases have been laboratory-confirmed for Andes virus (ANDV) infection, and two are probable cases. Given the long incubation period of up to six weeks, it is not unexpected that cases continue to be reported until the end of the six weeks since last exposure. Through the International Health Regulations (2005) (IHR) channels, National IHR Focal Points (NFPs) have all been informed and are supporting international contact tracing and monitoring efforts. WHO has assessed the risk posed by this event to the global population as low and will continue to monitor the epidemiological situation and update the risk assessment as needed. On 2 May 2026, WHO received notification from the IHR NFP of the United Kingdom of…",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 16.0,
+  "pontuacao": 15.5,
   "agravos": [
-   "Hantavirose",
-   "Influenza e vírus respiratórios"
+   "Hantavirose"
   ],
   "escopo": "Américas",
   "termos_evento": [
@@ -4386,7 +4351,7 @@
   "se": "2026-21",
   "descricao": "This report describes an outbreak of 39 cases of amatoxin mushroom poisoning in Northern California.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.0,
+  "pontuacao": 5.5,
   "agravos": [
    "Intoxicações"
   ],
@@ -4439,8 +4404,7 @@
    "public health emergency",
    "outbreak",
    "confirmed cases",
-   "deaths",
-   "surveillance"
+   "deaths"
   ]
  },
  {
@@ -4597,8 +4561,7 @@
    "public health emergency",
    "outbreak",
    "imported case",
-   "deaths",
-   "surveillance"
+   "deaths"
   ]
  },
  {
@@ -4741,12 +4704,12 @@
   "se": "2026-18",
   "descricao": "On 2 May 2026, a cluster of passengers with severe respiratory illness aboard a cruise ship was reported to the World Health Organization (WHO). At that time, according to the ship operator, 147 passengers and crew were onboard, and 34 passengers and crew had previously disembarked. Since the last Disease Outbreak News published on 4 May, three of the suspected cases were confirmed, and one additional confirmed case was reported. As of 8 May, a total of eight cases, including three deaths (case fatality ratio 38%), have been reported. Six cases have been laboratory-confirmed as hantavirus infections, with all identified as Andes virus (ANDV). Through the International Health Regulations (2005) (IHR) channel, National IHR Focal Points (NFPs) have all been informed and are supporting international contact tracing. WHO assesses the risk to the global population posed by this event as low and will continue to monitor the epidemiological situation and update the risk assessment. The risk for passengers and crew on the ship is considered moderate. On 2 May 2026, WHO received notification from the National IHR Focal Point of the United Kingdom of Great Britain and Northern Ireland (hereafter referred to as the United Kingdom) regarding a cluster of severe acute respiratory illness, including two deaths and one critically ill passenger, aboard a Dutch-flagged cruise ship. Since the last Disease Outbreak News was published on 4 May, three of the suspected cases were confirmed, and…",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 16.0,
+  "pontuacao": 14.0,
   "agravos": [
    "Hantavirose",
    "Influenza e vírus respiratórios"
   ],
-  "escopo": "Américas",
+  "escopo": "Internacional",
   "termos_evento": [
    "international health regulations",
    "cluster",
@@ -4837,12 +4800,11 @@
   "se": "2026-18",
   "descricao": "On 2 May 2026, a cluster of passengers with severe respiratory illness aboard a cruise ship was reported to the World Health Organization. The ship is carrying 147 passengers and crew. As of 4 May 2026, seven cases (two laboratory confirmed cases of hantavirus and five suspected cases) have been identified, including three deaths, one critically ill patient and three individuals reporting mild symptoms. Illness onset occurred between 6 and 28 April 2026 and was characterized by fever, gastrointestinal symptoms, rapid progression to pneumonia, acute respiratory distress syndrome and shock. Further investigations are ongoing. The outbreak is being managed through coordinated international response, and includes in-depth investigations, case isolation and care, medical evacuation and laboratory investigations. Human hantavirus infection is primarily acquired through contact with the urine, faeces, or saliva of infected rodents. It is a rare but severe disease that can be deadly. Although uncommon, limited human to human transmission has been reported in previous outbreaks of Andes virus (a specific species of hantavirus). WHO currently assesses the risk to the global population from this event as low and will continue to monitor the epidemiological situation and update the risk assessment. On 2 May 2026, WHO received notification from the National International Health Regulations (2005) (IHR) Focal Point of the United Kingdom of Great Britain and Northern Ireland (hereafter…",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 16.0,
+  "pontuacao": 13.5,
   "agravos": [
-   "Hantavirose",
-   "Influenza e vírus respiratórios"
+   "Hantavirose"
   ],
-  "escopo": "Américas",
+  "escopo": "Internacional",
   "termos_evento": [
    "international health regulations",
    "cluster",
@@ -5074,11 +5036,10 @@
   "se": "2026-14",
   "descricao": "On 21 March 2026, the National International Health Regulations (IHR) Focal Point for Italy notified the World Health Organization (WHO) of the identification of a human case of avian influenza A(H9) in an adult male returning from Senegal. Next generation sequencing confirmed Influenza A(H9N2). According to epidemiological investigations, the patient had no known history of exposure to poultry or any person with similar symptoms prior to the onset of symptoms. Authorities in Italy have implemented a series of measures aimed at monitoring, preventing and controlling the situation. According to the IHR (2005), a human infection caused by a novel influenza A virus subtype is an event that has the potential for high public health impact and must be notified to the WHO. This is the first imported human case of avian Influenza A(H9N2) reported in the European Region. Based on currently available information, WHO assesses the current risk to the general population posed by A(H9N2) viruses as low but continues to monitor these viruses and the situation globally. On 21 March 2026, the National IHR Focal Point for Italy notified WHO of the identification of a human case of avian influenza A(H9) in an adult male. The patient had been in Senegal for more than six months and traveled to Italy in mid-March. Upon arrival, he visited the emergency department with a fever and a persistent cough. On 16 March, a bronchoalveolar lavage specimen was collected, which showed a positive…",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 12.5,
+  "pontuacao": 12.0,
   "agravos": [
    "Influenza por novo subtipo",
-   "Influenza e vírus respiratórios",
-   "Tuberculose"
+   "Influenza e vírus respiratórios"
   ],
   "escopo": "Internacional",
   "termos_evento": [
@@ -5693,9 +5654,7 @@
   "termos_evento": [
    "international health regulations",
    "outbreaks",
-   "confirmed case",
-   "fatal",
-   "surveillance"
+   "confirmed case"
   ]
  },
  {
@@ -5799,7 +5758,7 @@
   "se": "2026-04",
   "descricao": "On 26 January 2026, the Ministry of Health of Ethiopia declared the end of the Marburg virus disease (MVD) outbreak. This declaration came after two consecutive incubation periods (a total of 42 days) since the last person confirmed with MVD died and was given a safe and dignified burial, in accordance with WHO recommendations on 14 December 2025. As of 25 January 2026, a cumulative total of 19 cases, including 14 confirmed (including nine deaths) and five probable cases (all deaths), were reported. A total of 857 contacts listed for monitoring all had completed their 21-day follow-up as of 25 January 2026. WHO, through its country office and partners, provided technical, operational and financial support to the government to contain this outbreak. On 14 November 2025, after the laboratory confirmation of suspected viral hemorrhagic fever (VHF) cases in Jinka town, South Ethiopia Regional State, Ethiopia, the Ministry of Health of Ethiopia declared an outbreak of Marburg Virus Disease (MVD). Molecular testing conducted by the National Reference Laboratory at the Ethiopian Public Health Institute (EPHI) identified Marburg virus (MARV) in patient samples. This was the first time Ethiopia was reporting a MVD outbreak . The first known case was an adult from Jinka town who developed symptoms on 23 October. The patient presented to the General Hospital the following day with vomiting, loss of appetite, and abdominal cramps. As of 25 January 2026, a cumulative total of 14…",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 15.0,
+  "pontuacao": 13.0,
   "agravos": [
    "Doença de Marburg",
    "Febres hemorrágicas virais"
@@ -5807,7 +5766,6 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak",
-   "confirmed cases",
    "deaths"
   ]
  },
@@ -6048,13 +6006,12 @@
   "se": "2025-52",
   "descricao": "Since the beginning of 2025 and as of 21 December 2025, a total of 19 cases of Middle East respiratory syndrome coronavirus (MERS- CoV), including four deaths have been reported to WHO globally. Of the 19 cases, 17 were reported by the Kingdom of Saudi Arabia (KSA), and two were reported from France. Between 4 June and 21 December 2025, the Ministry of Health (MoH) of KSA reported a total of seven cases of MERS-CoV infection, including two deaths. In addition, at the beginning of December 2025, the National IHR Focal Point (IHR NFP) for France also reported two MERS-CoV travel – associated cases; involving individuals with recent travel to countries in the Arabian Peninsula. The notification of these latest cases does not change the overall risk assessment, which remains moderate at both the global and regional levels. These cases show that the virus continues to pose a threat in countries where it is circulating in dromedary camels, with regular spillover into the human population. WHO recommends implementation of targeted infection, prevention and control (IPC) measures to prevent the spread of health care-associated infections of MERS-CoV and onward human transmission. Since the first report of MERS-CoV in the KSA and Jordan in 2012, a total 2635 laboratory-confirmed cases of MERS-CoV infection, with 964 associated deaths (Case Fatality Ratio (CFR) of 37%), have been reported to WHO from 27 countries, across all six WHO regions (Figure 1). The majority of cases (84%…",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 14.0,
+  "pontuacao": 10.0,
   "agravos": [
    "Síndrome respiratória e coronavírus emergentes"
   ],
   "escopo": "Internacional",
   "termos_evento": [
-   "disease outbreak news",
    "risk assessment",
    "deaths",
    "notification"
@@ -6191,7 +6148,7 @@
   "se": "2025-48",
   "descricao": "This report describes CDC's multistate investigation to confirm the genetic relatedness of infections in an E. coli outbreak linked to walnuts and identify additional cases.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.0,
+  "pontuacao": 6.5,
   "agravos": [
    "Doenças transmitidas por alimentos e água"
   ],
@@ -6298,7 +6255,7 @@
   "se": "2025-40",
   "descricao": "CDC updates HIV nonoccupational postexposure prophylaxis recommendationsMeta Keywords:",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.5,
+  "pontuacao": 4.5,
   "agravos": [
    "HIV/aids e IST"
   ],

@@ -13,7 +13,8 @@ from functools import lru_cache
 from .util import ASSETS, normalizar
 
 COR_ESCOPO = {"DF": "#B8921A", "Brasil": "#0B7A32", "Américas": "#1E4E8C", "Internacional": "#5C6B82"}
-TERRA, BORDA, MAR, TINTA = "#ECE7DA", "#FFFFFF", "#F7F4EC", "#0A3570"
+TERRA, BORDA, MAR, TINTA = "#E3E6EB", "#FFFFFF", "#F6F7F9", "#0A3570"
+DESTAQUE = "#9FB2CC"  # países e UFs com evento: um único tom, sem cores por escopo
 
 
 @lru_cache(maxsize=1)
@@ -104,11 +105,11 @@ def _caminho(poligonos, proj) -> str:
     return "".join(partes)
 
 
-def _marcador(x, y, rotulo, cor, r=11.0) -> str:
+def _marcador(x, y, rotulo, cor, r=11.0, texto="#fff") -> str:
     return (f'<g><circle cx="{x:.1f}" cy="{y:.1f}" r="{r + 2.2:.1f}" fill="#fff" opacity=".9"/>'
             f'<circle cx="{x:.1f}" cy="{y:.1f}" r="{r}" fill="{cor}"/>'
             f'<text x="{x:.1f}" y="{y + r * 0.42:.1f}" text-anchor="middle" font-family="IBM Plex Sans, sans-serif" '
-            f'font-weight="700" font-size="{r * 1.15:.1f}" fill="#fff">{rotulo}</text></g>')
+            f'font-weight="700" font-size="{r * 1.15:.1f}" fill="{texto}">{rotulo}</text></g>')
 
 
 def _afastar(pontos: list[list[float]], dist: float) -> None:
@@ -134,13 +135,15 @@ def _afastar(pontos: list[list[float]], dist: float) -> None:
 # ---------------------------------------------------------------- mapa da semana
 
 TEMAS = {
-    "claro": {"mar": MAR, "terra": TERRA, "borda": BORDA, "grade": "#E4DECF", "opac": ".38",
-              "quadro": "#fff", "quadro_borda": "#D9C17A", "uf": TERRA, "uf_borda": "#fff", "rotulo": "#6A7282"},
-    "escuro": {"mar": "none", "terra": "rgba(255,255,255,0.10)", "borda": "rgba(255,255,255,0.22)",
-               "grade": "rgba(255,255,255,0.07)", "opac": ".75", "quadro": "rgba(6,27,63,0.72)",
-               "quadro_borda": "rgba(217,193,122,0.7)", "uf": "rgba(255,255,255,0.12)",
-               "uf_borda": "rgba(255,255,255,0.28)", "rotulo": "rgba(255,255,255,0.7)",
-               "cores": {"DF": "#E2BE4A", "Brasil": "#3DBA6B", "Américas": "#6FA3E8", "Internacional": "#A9B6C9"}},
+    "claro": {"mar": MAR, "terra": TERRA, "borda": BORDA, "grade": "#ECEEF2", "opac": "1",
+              "quadro": "#fff", "quadro_borda": "#CBD2DC", "uf": TERRA, "uf_borda": "#fff", "rotulo": "#6A7282",
+              "cores": {e: DESTAQUE for e in COR_ESCOPO}, "marcador": TINTA, "texto_marcador": "#fff"},
+    "escuro": {"mar": "none", "terra": "rgba(255,255,255,0.08)", "borda": "rgba(255,255,255,0.16)",
+               "grade": "rgba(255,255,255,0.05)", "opac": "1", "quadro": "rgba(6,27,63,0.6)",
+               "quadro_borda": "rgba(255,255,255,0.25)", "uf": "rgba(255,255,255,0.10)",
+               "uf_borda": "rgba(255,255,255,0.22)", "rotulo": "rgba(255,255,255,0.7)",
+               "cores": {e: "rgba(255,255,255,0.45)" for e in COR_ESCOPO}, "marcador": "#FFFFFF",
+               "texto_marcador": TINTA},
 }
 
 
@@ -190,7 +193,7 @@ def mapa_semana(eventos: list[dict], largura: int = 1000, tema: str = "claro") -
         pontos.append([x, y])
         rotulos.append((e["n"], cores.get(e["escopo"], TINTA)))
     _afastar(pontos, 27)
-    marcas = [_marcador(x, y, n, cor) for (x, y), (n, cor) in zip(pontos, rotulos)]
+    marcas = [_marcador(x, y, n, t["marcador"], texto=t["texto_marcador"]) for (x, y), (n, cor) in zip(pontos, rotulos)]
     if tem_brasil:
         marcas.append(insercao)
         marcas.extend(pts_br)
@@ -234,7 +237,7 @@ def _insercao_brasil(eventos, x0, y0, lado, t=None):
         pontos.append([x, y])
         rot.append((e["n"], cores.get(e["escopo"], TINTA)))
     _afastar(pontos, 22)
-    return "".join(partes), [_marcador(x, y, n, c, r=9.5) for (x, y), (n, c) in zip(pontos, rot)]
+    return "".join(partes), [_marcador(x, y, n, t["marcador"], r=9.5, texto=t["texto_marcador"]) for (x, y), (n, c) in zip(pontos, rot)]
 
 
 # ---------------------------------------------------------------- mapa de localização
@@ -245,7 +248,7 @@ def mapa_local(paises: list[str], uf: str, escopo: str, largura: int = 640, altu
     paises = [p for p in paises if p in mundo]
     if not paises and not uf:
         return None
-    cor = COR_ESCOPO.get(escopo, TINTA)
+    cor = DESTAQUE
     usar_ufs = bool(uf) or paises == ["BRA"]
 
     if usar_ufs:
@@ -280,21 +283,21 @@ def mapa_local(paises: list[str], uf: str, escopo: str, largura: int = 640, altu
         if not visivel(p["b"]) or (usar_ufs and cod == "BRA"):
             continue
         destaque = cod in paises and not usar_ufs
-        estilo = f'fill="{cor}" fill-opacity=".55"' if destaque else f'fill="{TERRA}"'
+        estilo = f'fill="{cor}"' if destaque else f'fill="{TERRA}"'
         camadas.append(f'<path d="{_caminho(p["p"], proj)}" {estilo} stroke="#fff" stroke-width=".8"/>')
     if usar_ufs:
         for s, p in ufs.items():
-            estilo = f'fill="{cor}" fill-opacity=".6"' if s == uf or (not uf) else 'fill="#E2DCCB"'
+            estilo = f'fill="{cor}"' if s == uf or (not uf) else f'fill="{TERRA}"'
             camadas.append(f'<path d="{_caminho(p["p"], proj)}" {estilo} stroke="#fff" stroke-width=".8"/>')
         if uf:
             x, y = proj(*ufs[uf]["c"])
-            camadas.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="16" fill="none" stroke="{cor}" stroke-width="2"/>'
-                           f'<circle cx="{x:.1f}" cy="{y:.1f}" r="6" fill="{cor}" stroke="#fff" stroke-width="2"/>')
+            camadas.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="16" fill="none" stroke="{TINTA}" stroke-width="1.5"/>'
+                           f'<circle cx="{x:.1f}" cy="{y:.1f}" r="6" fill="{TINTA}" stroke="#fff" stroke-width="2"/>')
     else:
         for p in paises:
             x, y = proj(*mundo[p]["c"])
             if 0 < x < largura and 0 < y < altura:
-                camadas.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="5" fill="{cor}" stroke="#fff" stroke-width="2"/>')
+                camadas.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="5" fill="{TINTA}" stroke="#fff" stroke-width="2"/>')
     return (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {largura} {altura}" width="{largura}" '
             f'height="{altura}" preserveAspectRatio="xMidYMid slice">{"".join(camadas)}</svg>')
 

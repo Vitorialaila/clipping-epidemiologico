@@ -36,8 +36,11 @@ def pontuar(titulo: str, descricao: str, fonte: dict) -> dict:
     achados = []
     for nome, peso, padrao in agravos:
         no_titulo = bool(padrao.search(titulo_n))
-        if no_titulo or padrao.search(texto):
-            achados.append((peso + (0.5 if no_titulo else 0), nome))
+        if no_titulo:
+            achados.append((peso + 0.5, nome))
+        elif padrao.search(texto):
+            # Citado só no corpo do texto: pesa menos (evita falsos positivos, como menções de passagem)
+            achados.append((peso * 0.5, nome))
     achados.sort(reverse=True)
     nomes_agravos = [n for _, n in achados]
 

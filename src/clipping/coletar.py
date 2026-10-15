@@ -20,6 +20,13 @@ MESES_EN = {m: i for i, m in enumerate(
      "october", "november", "december"], start=1)}
 
 
+def limpar_descricao(texto: str) -> str:
+    """Remove trechos que não são da notícia (links de 'notícias relacionadas', assinatura e data do autor)."""
+    texto = re.split(r"\bNot[ií]cias relacionadas\s*:", texto or "", maxsplit=1)[0]
+    texto = re.sub(r"\b[\w.]+\s+(Seg|Ter|Qua|Qui|Sex|S[áa]b|Dom),\s*\d{2}/\d{2}/\d{4}\s*-\s*\d{2}:\d{2}", "", texto)
+    return re.sub(r"\s+", " ", texto).strip()
+
+
 def _data_struct(struct) -> date | None:
     if not struct:
         return None
@@ -161,7 +168,7 @@ def coletar() -> dict:
                 d, estimada = hoje, True
             if d < hoje - timedelta(days=retencao) or d > hoje + timedelta(days=1):
                 continue
-            p = pontuar(it["titulo"], it["descricao"], fonte)
+            p = pontuar(it["titulo"], limpar_descricao(it["descricao"]), fonte)
             base[nid] = {
                 "id": nid,
                 "titulo": truncar(it["titulo"], 300),
@@ -173,7 +180,7 @@ def coletar() -> dict:
                 "data": d.isoformat(),
                 "data_estimada": estimada,
                 "se": semana.codigo(semana.se_da_data(d)),
-                "descricao": truncar(it["descricao"], 1500),
+                "descricao": truncar(limpar_descricao(it["descricao"]), 1500),
                 "coletado_em": agora,
                 **p,
             }
@@ -195,6 +202,7 @@ def repontuar() -> None:
     fontes = {f["id"]: f for f in cfg["fontes"]}
     noticias = ler_json(ARQ_NOTICIAS, [])
     for n in noticias:
-        n.update(pontuar(n["titulo"], n.get("descricao", ""), fontes.get(n["fonte_id"], {})))
+        n["descricao"] = limpar_descricao(n.get("descricao", ""))
+        n.update(pontuar(n["titulo"], n["descricao"], fontes.get(n["fonte_id"], {})))
     salvar_json(ARQ_NOTICIAS, noticias)
     log.info("Base repontuada: %d notícias.", len(noticias))
