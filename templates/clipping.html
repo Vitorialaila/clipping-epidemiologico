@@ -171,8 +171,12 @@ a { color: inherit; text-decoration: none; }
 .faixa-capa .inst strong { font-family: "Serif"; font-weight: 400; font-size: 15pt; line-height: 1.1; color: #0A3570; }
 .kicker-claro { margin: 16mm 0 2.5mm; font-size: 7.2pt; letter-spacing: 0.22em; text-transform: uppercase; color: #D9C17A; font-weight: 700; }
 .kicker-claro span { color: rgba(255,255,255,0.7); font-weight: 500; letter-spacing: 0.08em; }
-.faixa-capa .titulo-capa .se-num { color: #D9B23C; font-size: 66pt; }
-.faixa-capa .titulo-capa .se-txt h1 { color: #fff; font-size: 25pt; }
+.faixa-capa .titulo-capa { align-items: center; gap: 7mm; }
+.faixa-capa .se-bloco { display: flex; flex-direction: column; align-items: center; padding-right: 7mm; border-right: 0.4mm solid rgba(217,193,122,0.7); }
+.faixa-capa .se-rot { font-size: 7.5pt; letter-spacing: 0.32em; font-weight: 700; color: #D9C17A; padding-left: 0.32em; }
+.faixa-capa .se-bloco .se-num { font-family: "Serif"; font-size: 50pt; line-height: 0.95; color: #D9B23C; }
+.faixa-capa .se-ano { font-size: 7.5pt; letter-spacing: 0.28em; font-weight: 600; color: rgba(255,255,255,0.75); padding-left: 0.28em; }
+.faixa-capa .titulo-capa .se-txt h1 { color: #fff; font-size: 30pt; line-height: 1.05; }
 .faixa-capa .titulo-capa .se-txt p em { color: rgba(255,255,255,0.88); }
 .mapa-escuro { margin: 4mm 0 0; }
 .mapa-escuro img { width: 100%; display: block; border-radius: 1.6mm; border: 0.3mm solid rgba(255,255,255,0.12); }
@@ -214,9 +218,9 @@ a { color: inherit; text-decoration: none; }
   </div>
   <div class="kicker-claro">{{ titulo }}<span> | Publicado em {{ data_geracao }}</span></div>
   <div class="titulo-capa">
-    <div class="se-num">{{ se_numero }}</div>
+    <div class="se-bloco"><span class="se-rot">SE</span><span class="se-num">{{ se_numero }}</span><span class="se-ano">{{ se_ano }}</span></div>
     <div class="se-txt">
-      <h1>Semana Epidemiológica<br>{{ se_numero }} de {{ se_ano }}</h1>
+      <h1>Semana Epidemiológica</h1>
       <p><em>{{ periodo }}</em></p>
     </div>
   </div>

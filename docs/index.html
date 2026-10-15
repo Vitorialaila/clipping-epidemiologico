@@ -242,6 +242,11 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
 @media (max-width: 700px) { .capa .mapa-fundo { top: auto; bottom: 20px; right: -20%; width: 140%; opacity: .35; } }
 .mapa-semana .leg { align-items: center; }
 .leg-area { display: inline-block; width: 16px; height: 11px; margin-right: 8px; vertical-align: -1px; background: #9FB2CC; border-radius: 2px; }
+.se-titulo { align-items: center; gap: 26px; }
+.se-bloco { display: flex; flex-direction: column; align-items: center; padding-right: 26px; border-right: 2px solid var(--ouro-2); }
+.se-bloco .se-rot { font-size: 12px; letter-spacing: .32em; font-weight: 700; color: var(--ouro); padding-left: .32em; }
+.se-bloco .se-num { font-family: var(--serif); font-size: clamp(56px, 8vw, 76px); line-height: .95; color: var(--ouro); }
+.se-bloco .se-ano { font-size: 12px; letter-spacing: .28em; font-weight: 600; color: var(--cinza); padding-left: .28em; }
 </style>
 </head>
 <body>
@@ -255,7 +260,7 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
     <span class="kicker">Clipping Epidemiológico</span>
     <h1 class="titulo-site">Notícias de relevância epidemiológica</h1>
     <p class="vazio-claro">Acompanhe as notícias de relevância epidemiológica publicadas por fontes oficiais nacionais e internacionais, atualizadas diariamente. A cada semana epidemiológica, os principais destaques são reunidos em um clipping disponível para download.</p>
-    <div class="acoes"><a class="btn primario" href="edicoes/clipping-SE40-2026-v4.pdf" download>Baixar o clipping da SE 40/2026</a></div>
+    <div class="acoes"><a class="btn primario" href="edicoes/clipping-SE40-2026-v5.pdf" download>Baixar o clipping da SE 40/2026</a></div>
   </div>
 </section>
 
@@ -316,16 +321,16 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
   <div class="wrap">
     
     <div class="se-cabecalho">
-      <div class="hero-titulo">
-        <span class="num">40</span>
-        <div><h2>Semana Epidemiológica<br>40 de 2026</h2><p class="periodo">4 a 10 de outubro de 2026</p></div>
+      <div class="hero-titulo se-titulo">
+        <div class="se-bloco"><span class="se-rot">SE</span><span class="se-num">40</span><span class="se-ano">2026</span></div>
+        <div><h2>Semana Epidemiológica</h2><p class="periodo">4 a 10 de outubro de 2026</p></div>
       </div>
-      <a class="btn primario" href="edicoes/clipping-SE40-2026-v4.pdf" download>Baixar clipping em PDF</a>
+      <a class="btn primario" href="edicoes/clipping-SE40-2026-v5.pdf" download>Baixar clipping em PDF</a>
     </div>
     <div class="filete"></div>
     
     <figure class="mapa-semana">
-      <img src="edicoes/img/SE40-2026-v4/mapa-semana.svg" alt="Mapa dos destaques da semana">
+      <img src="edicoes/img/SE40-2026-v5/mapa-semana.svg" alt="Mapa dos destaques da semana">
       <figcaption><span class="rotulo">Mapa da semana</span><span>Os números indicam os destaques abaixo.</span>
         <span class="leg"><span class="selo e-DF">Distrito Federal</span><span class="selo e-Brasil">Brasil</span><span class="selo e-Américas">Américas</span><span class="selo e-Internacional">Internacional</span></span></figcaption>
     </figure>
@@ -334,7 +339,7 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
       <div><p class="rotulo">Panorama da semana</p><p class="panorama">A semana foi marcada pela expansão internacional do surto de doença pelo vírus Bundibugyo na República Democrática do Congo, que ultrapassou 8,7 mil casos confirmados e registrou o primeiro caso importado no Quênia. A OMS notificou óbito por pneumonia de etiologia indeterminada em trabalhador de laboratório na Rússia. Nas Américas, a OPAS classificou como muito alto o risco de disseminação do sarampo diante de eventos religiosos de massa, em um ano com mais de 55 mil casos confirmados na região, e o Panamá declarou emergência nacional após terremoto de magnitude 7,5. No Brasil, a Anvisa autorizou o primeiro ensaio em humanos de uma vacina nacional contra a malária vivax, e o InfoGripe aponta alta de SRAG por rinovírus, com sinal de aumento também no Distrito Federal.</p></div>
       <div class="kpis">
         <div class="kpi"><span class="v">7</span><span class="l neutro">destaques</span></div>
-        <div class="kpi"><span class="v">39</span><span class="l neutro">publicações monitoradas</span></div>
+        <div class="kpi"><span class="v">40</span><span class="l neutro">publicações monitoradas</span></div>
         <div class="kpi e-DF"><span class="v">0</span><span class="l">Distrito Federal</span></div><div class="kpi e-Brasil"><span class="v">2</span><span class="l">Brasil</span></div><div class="kpi e-Américas"><span class="v">2</span><span class="l">Américas</span></div><div class="kpi e-Internacional"><span class="v">3</span><span class="l">Internacional</span></div>
       </div>
     </div>
@@ -343,7 +348,7 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
       <article class="card principal" id="d1">
         
         
-        <figure class="visual mapa"><img src="edicoes/img/SE40-2026-v4/n1.svg" alt="Localização do evento" loading="lazy"><span class="num fundo-Internacional">1</span></figure>
+        <figure class="visual mapa"><img src="edicoes/img/SE40-2026-v5/n1.svg" alt="Localização do evento" loading="lazy"><span class="num fundo-Internacional">1</span></figure>
         
         <div class="topo-card">
           <span class="selo e-Internacional">Internacional</span>
@@ -362,7 +367,7 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
       <article class="card" id="d2">
         
         
-        <figure class="visual mapa"><img src="edicoes/img/SE40-2026-v4/n2.svg" alt="Localização do evento" loading="lazy"><span class="num fundo-Internacional">2</span></figure>
+        <figure class="visual mapa"><img src="edicoes/img/SE40-2026-v5/n2.svg" alt="Localização do evento" loading="lazy"><span class="num fundo-Internacional">2</span></figure>
         
         <div class="topo-card">
           <span class="selo e-Internacional">Internacional</span>
@@ -380,7 +385,7 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
       <article class="card" id="d3">
         
         
-        <figure class="visual mapa"><img src="edicoes/img/SE40-2026-v4/n3.svg" alt="Localização do evento" loading="lazy"><span class="num fundo-Américas">3</span></figure>
+        <figure class="visual mapa"><img src="edicoes/img/SE40-2026-v5/n3.svg" alt="Localização do evento" loading="lazy"><span class="num fundo-Américas">3</span></figure>
         
         <div class="topo-card">
           <span class="selo e-Américas">Américas</span>
@@ -399,7 +404,7 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
       <article class="card" id="d4">
         
         
-        <figure class="visual mapa"><img src="edicoes/img/SE40-2026-v4/n4.svg" alt="Localização do evento" loading="lazy"><span class="num fundo-Internacional">4</span></figure>
+        <figure class="visual mapa"><img src="edicoes/img/SE40-2026-v5/n4.svg" alt="Localização do evento" loading="lazy"><span class="num fundo-Internacional">4</span></figure>
         
         <div class="topo-card">
           <span class="selo e-Internacional">Internacional</span>
@@ -418,7 +423,7 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
       <article class="card" id="d5">
         
         
-        <figure class="visual mapa"><img src="edicoes/img/SE40-2026-v4/n5.svg" alt="Localização do evento" loading="lazy"><span class="num fundo-Brasil">5</span></figure>
+        <figure class="visual mapa"><img src="edicoes/img/SE40-2026-v5/n5.svg" alt="Localização do evento" loading="lazy"><span class="num fundo-Brasil">5</span></figure>
         
         <div class="topo-card">
           <span class="selo e-Brasil">Brasil</span>
@@ -436,7 +441,7 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
       <article class="card" id="d6">
         
         
-        <figure class="visual mapa"><img src="edicoes/img/SE40-2026-v4/n6.svg" alt="Localização do evento" loading="lazy"><span class="num fundo-Brasil">6</span></figure>
+        <figure class="visual mapa"><img src="edicoes/img/SE40-2026-v5/n6.svg" alt="Localização do evento" loading="lazy"><span class="num fundo-Brasil">6</span></figure>
         
         <div class="topo-card">
           <span class="selo e-Brasil">Brasil</span>
@@ -454,7 +459,7 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
       <article class="card" id="d7">
         
         
-        <figure class="visual mapa"><img src="edicoes/img/SE40-2026-v4/n7.svg" alt="Localização do evento" loading="lazy"><span class="num fundo-Américas">7</span></figure>
+        <figure class="visual mapa"><img src="edicoes/img/SE40-2026-v5/n7.svg" alt="Localização do evento" loading="lazy"><span class="num fundo-Américas">7</span></figure>
         
         <div class="topo-card">
           <span class="selo e-Américas">Américas</span>
@@ -481,7 +486,7 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
       <li>
         <div><div class="se">SE 40/2026</div><div class="per">4 a 10 de outubro de 2026</div></div>
         <div class="links">
-          <a href="edicoes/clipping-SE40-2026-v4.pdf" download>Baixar PDF</a>
+          <a href="edicoes/clipping-SE40-2026-v5.pdf" download>Baixar PDF</a>
         </div>
       </li>
       
@@ -574,7 +579,8 @@ function mostrarAba(id, rolar) {
   document.querySelectorAll(".painel").forEach((p) => { p.hidden = p.id !== id; });
   document.querySelectorAll(".lista-abas [data-aba]").forEach((a) => a.setAttribute("aria-selected", String(a.dataset.aba === id)));
   const barra = document.getElementById("abas");
-  if (rolar) window.scrollTo({ top: barra.offsetTop, behavior: "smooth" });
+  const capa = document.querySelector(".capa");
+  if (rolar) window.scrollTo({ top: capa.offsetTop + capa.offsetHeight, behavior: "smooth" });
 }
 document.querySelectorAll("[data-aba]").forEach((a) => a.addEventListener("click", (e) => {
   e.preventDefault();
