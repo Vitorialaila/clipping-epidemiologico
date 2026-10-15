@@ -211,6 +211,8 @@ def coletar() -> dict:
             if d < hoje - timedelta(days=retencao) or d > hoje + timedelta(days=1):
                 continue
             p = pontuar(it["titulo"], limpar_descricao(it["descricao"]), fonte)
+            if fonte["tipo"] == "google_news" and p["pontuacao"] <= 0:
+                continue  # buscas amplas em portais oficiais: guarda só o que tem relevância epidemiológica
             base[nid] = {
                 "id": nid,
                 "titulo": truncar(it["titulo"], 300),
