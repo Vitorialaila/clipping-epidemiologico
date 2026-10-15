@@ -94,6 +94,25 @@ section.bloco + section.bloco { border-top: 1px solid var(--linha); }
 .credito a { color: var(--navy-2); text-decoration: none; border-bottom: 1px solid var(--ouro-2); }
 .credito a:hover { border-color: var(--navy-2); }
 
+/* Mapa e visuais */
+.mapa-semana { margin: 0 0 32px; }
+.mapa-semana img { width: 100%; height: auto; display: block; border-radius: 10px; }
+.mapa-semana figcaption { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 16px; margin-top: 10px; font-size: 13px; color: var(--cinza); }
+.mapa-semana figcaption .rotulo { margin: 0; }
+.mapa-semana .leg { display: flex; flex-wrap: wrap; gap: 6px 14px; margin-left: auto; }
+.fundo-DF { background: var(--df); } .fundo-Brasil { background: var(--brasil); } .fundo-Américas { background: var(--americas); } .fundo-Internacional { background: var(--internacional); }
+.visual { position: relative; margin: 0 0 16px; border-radius: 10px; overflow: hidden; }
+.visual.mapa img { width: 100%; aspect-ratio: 32 / 15; object-fit: cover; display: block; }
+.card.principal .visual.mapa img { aspect-ratio: 32 / 11; }
+.visual.foto .moldura { background: var(--creme); text-align: center; }
+.visual.foto img { max-width: 100%; max-height: 420px; width: auto; display: inline-block; vertical-align: top; }
+.visual.foto figcaption { font-size: 12px; color: var(--cinza); padding-top: 6px; }
+.visual.icone { background: var(--creme); aspect-ratio: 32 / 15; display: flex; align-items: center; justify-content: center; border-top: 4px solid currentColor; }
+.card.principal .visual.icone { aspect-ratio: 32 / 9; }
+.visual .num { position: absolute; left: 12px; top: 12px; width: 30px; height: 30px; border-radius: 50%; color: #fff; font-weight: 700; font-size: 14px; display: flex; align-items: center; justify-content: center; border: 2px solid #fff; }
+.pict { display: inline-flex; vertical-align: -2px; margin-right: 6px; }
+.item .ic { display: inline-flex; width: 22px; height: 22px; margin-bottom: 4px; }
+
 /* Feed */
 .filtros { display: grid; gap: 12px; margin-bottom: 18px; }
 @media (min-width: 820px) { .filtros { grid-template-columns: 1.4fr 1fr 1fr; } }
@@ -160,6 +179,13 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
     </div>
     <p class="periodo">{{ ultima.periodo }}</p>
     <div class="filete"></div>
+    {% if ultima.mapa %}
+    <figure class="mapa-semana">
+      <img src="{{ ultima.mapa }}" alt="Mapa dos destaques da semana">
+      <figcaption><span class="rotulo">Mapa da semana</span><span>Os números indicam os destaques abaixo.</span>
+        <span class="leg">{% for e in ordem_escopo %}<span class="selo e-{{ e }}">{{ nome_escopo[e] }}</span>{% endfor %}</span></figcaption>
+    </figure>
+    {% endif %}
     <div class="hero-corpo">
       <div>
         {% if ultima.panorama %}<p class="rotulo">Panorama da semana</p><p class="panorama">{{ ultima.panorama }}</p>{% endif %}
@@ -188,10 +214,18 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
     <div class="cab-secao"><h2>Destaques da semana</h2><p>{{ ultima.rotulo }} | {{ ultima.periodo }}</p></div>
     <div class="grade">
       {% for d in ultima.destaques %}
-      <article class="card{% if loop.first %} principal{% endif %}">
+      <article class="card{% if loop.first %} principal{% endif %}" id="d{{ d.n or loop.index }}">
+        {% set v = d.visual or {'tipo': 'icone'} %}
+        {% if v.tipo == 'foto' %}
+        <figure class="visual foto"><div class="moldura"><img src="{{ v.src }}" alt="" loading="lazy"></div><figcaption>{{ v.credito }}</figcaption><span class="num fundo-{{ d.escopo }}">{{ d.n or loop.index }}</span></figure>
+        {% elif v.tipo == 'mapa' %}
+        <figure class="visual mapa"><img src="{{ v.src }}" alt="Localização do evento" loading="lazy"><span class="num fundo-{{ d.escopo }}">{{ d.n or loop.index }}</span></figure>
+        {% else %}
+        <div class="visual icone e-{{ d.escopo }}">{{ icone(d.icone or 'alerta', 64)|safe }}<span class="num fundo-{{ d.escopo }}">{{ d.n or loop.index }}</span></div>
+        {% endif %}
         <div class="topo-card">
           <span class="selo e-{{ d.escopo }}">{{ nome_escopo[d.escopo] }}</span>
-          <span class="agravo">{{ d.agravo }}</span>
+          <span class="agravo"><span class="pict">{{ icone(d.icone or 'alerta', 14)|safe }}</span>{{ d.agravo }}</span>
           {% if d.local %}<span class="local">{{ d.local }}</span>{% endif %}
         </div>
         <h3>{{ d.titulo }}</h3>
@@ -262,6 +296,8 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
 <script>
 const FEED = {{ feed_json|safe }};
 const NOMES = {{ nome_escopo|tojson }};
+const ICONES = {{ icones_json|safe }};
+const svgIcone = (n) => `<svg viewBox="0 0 48 48" width="22" height="22" aria-hidden="true">${ICONES[n] || ICONES.alerta}</svg>`;
 const POR_PAGINA = 40;
 const estado = { busca: "", agravo: "", fonte: "", escopo: "", limite: POR_PAGINA };
 const $ = (id) => document.getElementById(id);
@@ -288,7 +324,7 @@ function render() {
   $("contagem").textContent = itens.length === 1 ? "1 notícia" : `${itens.length.toLocaleString("pt-BR")} notícias`;
   $("lista").innerHTML = itens.slice(0, estado.limite).map((x) => `
     <li class="item">
-      <div class="data"><b>${esc(x.f)}</b>${esc(x.df)}</div>
+      <div class="data"><span class="ic e-${esc(x.e)}">${svgIcone(x.i)}</span><b>${esc(x.f)}</b>${esc(x.df)}</div>
       <div>
         <div class="meta"><span class="selo e-${esc(x.e)}">${esc(NOMES[x.e] || x.e)}</span>${x.a.slice(0, 2).map((a) => `<span class="tag">${esc(a)}</span>`).join("")}</div>
         <a class="titulo" href="${esc(x.u)}" target="_blank" rel="noopener">${esc(x.t)}</a>

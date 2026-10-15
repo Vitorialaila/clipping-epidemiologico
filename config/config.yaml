@@ -8,11 +8,16 @@ publicacao:
   rodape: ""
 
 ia:
-  # Modelos da API da Anthropic (Claude)
-  modelo_triagem: "claude-haiku-5-5"
-  modelo_resumo: "claude-sonnet-5-5"
+  # Provedor: gemini (plano gratuito do Google, chave GEMINI_API_KEY)
+  # ou anthropic (API paga do Claude, chave ANTHROPIC_API_KEY)
+  provedor: gemini
+  # Modelos em ordem de preferência: se um estiver indisponível ou sem cota, usa o seguinte
+  modelos_triagem: [gemini-3.5-flash-lite, gemini-3.1-flash-lite, gemini-flash-lite-latest]
+  modelos_resumo: [gemini-3.8-flash, gemini-3.6-flash, gemini-flash-latest, gemini-3.5-flash-lite]
+  # Intervalo mínimo entre chamadas, para respeitar o limite por minuto do plano gratuito
+  pausa_segundos: 7
   # Quantas notícias da semana passam pela triagem da IA
-  candidatos_triagem: 45
+  candidatos_triagem: 40
   # Nota mínima da IA (0 a 10) para uma notícia entrar nos destaques
   nota_minima: 5
 
@@ -23,6 +28,16 @@ clipping:
   max_por_agravo: 2
   # Notícias adicionais listadas sem resumo, ao final do PDF
   outras_noticias: 12
+
+imagens:
+  # Fotos das notícias só são usadas quando a fonte publica sob licença que permite reutilização.
+  # As licenças abaixo foram verificadas no rodapé de cada portal. A licença SemDerivações (ND)
+  # exige crédito e proíbe alterações, por isso a foto é exibida inteira, sem recorte.
+  # Para incluir outra fonte, confirme a licença antes de acrescentá-la aqui.
+  fotos_licenciadas:
+    - {dominio: "gov.br/saude", licenca: "CC BY-ND 3.0", credito: "Ministério da Saúde"}
+    - {dominio: "gov.br/anvisa", licenca: "CC BY-ND 3.0", credito: "Anvisa"}
+  # Sem foto liberada, o destaque recebe um mapa de localização ou, se não houver local, um pictograma.
 
 site:
   # Dias de notícias exibidos no feed do site
@@ -140,6 +155,24 @@ fontes:
     tipo: rss
     url: "https://agencia.fiocruz.br/rss.xml"
     peso: 1
+    escopo_padrao: "Brasil"
+    idioma: pt
+
+  - id: agencia-brasil-saude
+    nome: "Agência Brasil | Saúde"
+    sigla: "Agência Brasil"
+    tipo: rss
+    url: "https://agenciabrasil.ebc.com.br/rss/saude/feed.xml"
+    peso: 1.5
+    escopo_padrao: "Brasil"
+    idioma: pt
+
+  - id: ses-go
+    nome: "SES-GO | Notícias"
+    sigla: "SES-GO"
+    tipo: rss
+    url: "https://goias.gov.br/saude/feed/"
+    peso: 1.5
     escopo_padrao: "Brasil"
     idioma: pt
 

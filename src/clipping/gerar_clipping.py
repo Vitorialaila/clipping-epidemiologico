@@ -8,22 +8,23 @@ from urllib.parse import urlsplit
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
-from . import ia, semana
+from . import fotos, ia, icones, mapas, semana
 from .pontuar import limiares
-from .util import (ARQ_NOTICIAS, DIR_EDICOES_DADOS, DIR_EDICOES_PDF, NOME_ESCOPO, ORDEM_ESCOPO, RAIZ,
+from .util import (ARQ_NOTICIAS, DIR_EDICOES_DADOS, DIR_EDICOES_PDF, DOCS, NOME_ESCOPO, ORDEM_ESCOPO, RAIZ,
                    TEMPLATES, carregar_yaml, data_curta, data_extenso, ler_json, log, para_data,
                    salvar_json, sem_travessao, sessao_http)
 
 
-def _texto_completo(url: str, s) -> str:
+def _texto_completo(url: str, s) -> tuple[str, str]:
+    """Retorna (texto extraído, HTML bruto) da página da notícia."""
     try:
         import trafilatura
         r = s.get(url, timeout=40)
         r.raise_for_status()
-        return trafilatura.extract(r.text, include_comments=False, include_tables=True) or ""
+        return trafilatura.extract(r.text, include_comments=False, include_tables=True) or "", r.text
     except Exception as erro:  # noqa: BLE001
         log.warning("Não foi possível ler o texto de %s: %s", url, erro)
-        return ""
+        return "", ""
 
 
 def _dominio(url: str) -> str:
@@ -88,11 +89,12 @@ def _caminho_pdf(se, forcar: bool):
     return DIR_EDICOES_PDF / f"{base}-v{v}.pdf", None
 
 
-def renderizar_pdf(edicao: dict, caminho) -> None:
+def renderizar_pdf(edicao: dict, caminho, base_img: str = "docs/") -> None:
     from weasyprint import HTML
 
     env = Environment(loader=FileSystemLoader(TEMPLATES), autoescape=select_autoescape(["html"]))
-    html = env.get_template("clipping.html").render(**edicao, ordem_escopo=ORDEM_ESCOPO, nome_escopo=NOME_ESCOPO)
+    html = env.get_template("clipping.html").render(**edicao, ordem_escopo=ORDEM_ESCOPO, nome_escopo=NOME_ESCOPO,
+                                                    icone=icones.svg, base_img=base_img)
     caminho.parent.mkdir(parents=True, exist_ok=True)
     HTML(string=html, base_url=str(RAIZ)).write_pdf(str(caminho))
 
@@ -115,8 +117,10 @@ def gerar(codigo_se: str | None = None, forcar: bool = False, hoje: date | None 
 
     s = sessao_http()
     usou_ia_resumo = False
-    for d in destaques:
-        texto = _texto_completo(d["url"], s)
+    id_edicao = caminho.stem.replace("clipping-", "")
+    dir_img = DIR_EDICOES_PDF / "img" / id_edicao
+    for i, d in enumerate(destaques, start=1):
+        texto, html = _texto_completo(d["url"], s)
         resumo = None
         if ia.disponivel():
             try:
@@ -126,13 +130,38 @@ def gerar(codigo_se: str | None = None, forcar: bool = False, hoje: date | None 
                 log.warning("Resumo por IA falhou para %s: %s", d["url"], erro)
         if not resumo or not resumo.get("resumo"):
             resumo = {"titulo": d["titulo"], "resumo": ia.resumo_extrativo(texto or d.get("descricao", "")),
-                      "local": "", "agravo": d["agravo_final"]}
+                      "local": "", "agravo": d["agravo_final"], "paises": [], "uf": ""}
         d.update({
             "titulo_clipping": resumo["titulo"] or d["titulo"],
             "resumo": resumo["resumo"],
             "local": resumo.get("local", ""),
             "agravo_final": resumo.get("agravo") or d["agravo_final"],
         })
+        # Localização (países ISO3 e UF): informada pela IA ou identificada no texto
+        paises, uf = mapas.validar(resumo.get("paises"), resumo.get("uf"))
+        if not paises and not uf:
+            paises, uf = mapas.localizar(" ".join([d["titulo"], d.get("descricao", ""), resumo.get("local", ""),
+                                                   (texto or "")[:1500]]), d["escopo_final"])
+        if uf and "BRA" not in paises:
+            paises.insert(0, "BRA")
+        d["paises"], d["uf"] = paises, uf
+        if not d.get("local"):
+            d["local"] = mapas.nome_pais(paises[0]) if len(paises) == 1 else ""
+        # Imagem: foto com licença verificada > mapa de localização > pictograma
+        d["icone"] = icones.icone_para(d["agravo_final"], d["titulo"])
+        foto = fotos.obter(d["url"], html, dir_img / f"n{i}", s)
+        if foto:
+            d["visual"] = {"tipo": "foto", "src": foto["arquivo"].relative_to(DOCS).as_posix(),
+                           "credito": foto["credito"], "proporcao": foto["proporcao"]}
+        else:
+            svg = mapas.mapa_local(paises, uf, d["escopo_final"])
+            if svg:
+                arq = dir_img / f"n{i}.svg"
+                arq.parent.mkdir(parents=True, exist_ok=True)
+                arq.write_text(svg, encoding="utf-8")
+                d["visual"] = {"tipo": "mapa", "src": arq.relative_to(DOCS).as_posix()}
+            else:
+                d["visual"] = {"tipo": "icone"}
         time.sleep(0.5)
 
     periodo = semana.periodo_extenso(se)
@@ -153,10 +182,17 @@ def gerar(codigo_se: str | None = None, forcar: bool = False, hoje: date | None 
             "agravo": d.get("agravo_final") or (d["agravos"][0] if d.get("agravos") else ""),
             "escopo": d.get("escopo_final", d["escopo"]), "fonte": d["fonte"], "sigla": d["sigla"],
             "data": d["data"], "data_fmt": data_curta(dt), "url": d["url"], "dominio": _dominio(d["url"]),
-            "nota_ia": d.get("nota_ia"), "pontuacao": d["pontuacao"],
+            "nota_ia": d.get("nota_ia"), "pontuacao": d["pontuacao"], "n": i,
+            "paises": d.get("paises", []), "uf": d.get("uf", ""), "icone": d.get("icone", "alerta"),
+            "visual": d.get("visual", {"tipo": "icone"}),
         }
 
     itens_dest = [_item(d, i) for i, d in enumerate(destaques, start=1)]
+    mapa = mapas.mapa_semana([{"n": x["n"], "paises": x["paises"], "uf": x["uf"], "escopo": x["escopo"]}
+                              for x in itens_dest])
+    arq_mapa = dir_img / "mapa-semana.svg"
+    arq_mapa.parent.mkdir(parents=True, exist_ok=True)
+    arq_mapa.write_text(mapa, encoding="utf-8")
     principal = itens_dest[0]
     secoes = []
     for esc in ORDEM_ESCOPO:
@@ -181,6 +217,7 @@ def gerar(codigo_se: str | None = None, forcar: bool = False, hoje: date | None 
         "fontes": sorted({f["nome"].split(" | ")[0] for f in fontes_cfg}),
         "ia": usou_ia or usou_ia_resumo,
         "contagem_escopo": {e: sum(1 for x in itens_dest if x["escopo"] == e) for e in ORDEM_ESCOPO},
+        "mapa": arq_mapa.relative_to(DOCS).as_posix(),
     }
 
     renderizar_pdf(edicao, caminho)

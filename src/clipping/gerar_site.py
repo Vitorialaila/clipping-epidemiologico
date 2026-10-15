@@ -2,12 +2,14 @@
 from __future__ import annotations
 
 import json
+import re
 import shutil
 from collections import Counter
 from datetime import date, datetime, timedelta, timezone
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
+from . import icones
 from .pontuar import limiares
 from .util import (ARQ_NOTICIAS, ASSETS, DIR_EDICOES_DADOS, DOCS, NOME_ESCOPO, ORDEM_ESCOPO, TEMPLATES,
                    carregar_yaml, data_curta, data_extenso, ler_json, log, para_data, salvar_json, truncar)
@@ -33,6 +35,7 @@ def gerar() -> None:
         "t": n["titulo"], "u": n["url"], "d": n["data"], "df": data_curta(para_data(n["data"])),
         "f": n.get("sigla") or n["fonte"], "fn": n["fonte"], "e": n["escopo"], "a": n.get("agravos", []),
         "p": n["pontuacao"], "se": n.get("se", ""), "r": truncar(n.get("descricao", ""), 260),
+        "i": icones.icone_para(*(n.get("agravos") or [n["titulo"]])),
     } for n in noticias if n["pontuacao"] >= limiar_feed and n["data"] >= corte]
     feed.sort(key=lambda x: (x["d"], x["p"]), reverse=True)
 
@@ -55,6 +58,8 @@ def gerar() -> None:
         atualizado=data_extenso(date.today()),
         atualizado_iso=datetime.now(timezone.utc).isoformat(timespec="minutes"),
         fontes_monitoradas=sorted({f["nome"].split(" | ")[0] for f in cfg["fontes"]}),
+        icone=icones.svg,
+        icones_json=json.dumps({k: re.sub(r"\s+", " ", v) for k, v in icones.ICONES.items()}).replace("</", "<\\/"),
     )
     DOCS.mkdir(parents=True, exist_ok=True)
     (DOCS / "index.html").write_text(html, encoding="utf-8")

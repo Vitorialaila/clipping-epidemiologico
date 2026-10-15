@@ -4,21 +4,22 @@ Buscador automático de notícias de relevância epidemiológica em fontes ofici
 
 ## O que o sistema faz
 
-1. **Coleta diária (6h, horário de Brasília).** Lê as publicações de OMS, OPAS, ECDC, CDC, Africa CDC, Ministério da Saúde, Agência Fiocruz e Agência Brasília.
+1. **Coleta diária (6h, horário de Brasília).** Lê as publicações de OMS, OPAS, ECDC, CDC, Africa CDC, Ministério da Saúde, Agência Brasil, Agência Fiocruz, SES-GO e Agência Brasília.
 2. **Triagem por regras.** Cada notícia recebe uma pontuação de relevância com base no agravo (pesos alinhados à lista de notificação compulsória), na natureza do evento (surto, alerta, ESPII, primeiro caso, óbitos), na proximidade geográfica (DF > Brasil > Américas > internacional) e no peso da fonte.
-3. **Clipping semanal (domingo).** Ao fim de cada SE, as notícias mais pontuadas passam por uma triagem com IA (API do Claude), que elimina repetições do mesmo evento e escolhe os destaques. Cada destaque recebe título no padrão quem, quando e onde e um resumo técnico em português, redigido a partir do texto original. O resultado é um PDF com cabeçalho institucional.
-4. **Site (GitHub Pages).** Exibe a edição mais recente, o feed completo com filtros (agravo, fonte, escopo e busca livre) e o arquivo de todas as edições em PDF.
+3. **Clipping semanal (domingo).** Ao fim de cada SE, as notícias mais pontuadas passam por uma triagem com IA (Google Gemini, plano gratuito), que elimina repetições do mesmo evento e escolhe os destaques. Cada destaque recebe título no padrão quem, quando e onde e um resumo técnico em português, redigido a partir do texto original. O resultado é um PDF com cabeçalho institucional.
+4. **Imagens.** A capa traz o mapa da semana, com os destaques numerados por localização e um quadro do Brasil por UF. Cada destaque recebe uma imagem, nesta ordem de preferência: foto da própria notícia, somente quando a fonte tem licença de reutilização verificada (hoje, portais gov.br do Ministério da Saúde e da Anvisa, CC BY-ND 3.0, exibida inteira e com crédito); mapa de localização do evento; ou pictograma do grupo de agravo. Mapas e pictogramas são desenhados pelo próprio sistema.
+5. **Site (GitHub Pages).** Exibe a edição mais recente com o mapa da semana, o feed completo com filtros (agravo, fonte, escopo e busca livre) e o arquivo de todas as edições em PDF.
 
 Nenhuma edição é sobrescrita: se uma SE for gerada novamente, o sistema cria uma nova versão (`-v2`, `-v3`) e mantém as anteriores.
 
 ## Configuração inicial (uma única vez)
 
-1. **Chave da API.** Crie uma chave em <https://console.anthropic.com> e cadastre no repositório em *Settings > Secrets and variables > Actions > New repository secret*, com o nome `ANTHROPIC_API_KEY`.
+1. **Chave gratuita do Gemini.** Acesse <https://aistudio.google.com/apikey> com uma conta Google, clique em *Create API key* e copie a chave. No repositório, vá em *Settings > Secrets and variables > Actions > New repository secret*, use o nome `GEMINI_API_KEY` e cole a chave.
 2. **Permissão de escrita das Actions.** Em *Settings > Actions > General > Workflow permissions*, marque *Read and write permissions* e salve.
 3. **GitHub Pages.** Em *Settings > Pages*, escolha *Deploy from a branch*, ramo `main` e pasta `/docs`. O endereço do site aparece nessa mesma tela após a primeira publicação.
 4. **Primeira execução.** Em *Actions > Clipping epidemiológico > Run workflow*, mantenha a etapa `tudo` e clique em *Run workflow*. A primeira execução coleta as notícias disponíveis nos feeds e já gera a edição da última SE encerrada.
 
-Sem a chave da API o sistema continua funcionando, mas os destaques são escolhidos apenas pelas regras e os resumos passam a ser trechos iniciais do texto original.
+O plano gratuito do Gemini tem limites de requisições por minuto e por dia. O sistema faz cerca de 12 chamadas por semana, espaçadas, e tenta modelos alternativos se um deles estiver sem cota. Se a IA ficar indisponível (sem chave, cota esgotada ou fim do plano gratuito), o clipping continua sendo gerado: os destaques passam a ser escolhidos apenas pelas regras e os resumos viram trechos iniciais do texto original. Para usar a API paga do Claude no lugar do Gemini, troque `provedor` para `anthropic` no `config/config.yaml` e cadastre o segredo `ANTHROPIC_API_KEY`.
 
 ## Uso no dia a dia
 
@@ -51,7 +52,7 @@ Inclua um bloco em `fontes` no `config/config.yaml`. Para feeds RSS basta a URL 
 config/            configuração geral, fontes e critérios de relevância
 src/clipping/      código (coleta, pontuação, IA, PDF, site)
 templates/         layout do PDF e do site
-assets/            logos e fontes tipográficas (licença OFL)
+assets/            logos, fontes tipográficas (licença OFL) e bases cartográficas
 data/noticias.json base de notícias coletadas
 data/edicoes/      dados de cada edição (destaques e resumos)
 docs/              site publicado no GitHub Pages, com os PDFs em docs/edicoes/
@@ -69,6 +70,8 @@ O PDF exige as bibliotecas do sistema usadas pelo WeasyPrint (Pango). Em Linux: 
 
 ## Observações
 
+- Bases cartográficas: Natural Earth 1:50m (domínio público) e malha das unidades federativas derivada do IBGE (repositório click_that_hood), simplificadas em `assets/geo/`.
+- Para liberar fotos de outra fonte, confirme a licença de reutilização no portal e acrescente o domínio em `imagens > fotos_licenciadas` no `config/config.yaml`.
 - A semana epidemiológica segue a regra adotada pelo Ministério da Saúde: começa no domingo e termina no sábado.
 - Alguns portais podem bloquear acessos automatizados de forma intermitente. Quando isso ocorre, a falha é registrada no log da execução e a coleta segue com as demais fontes. A Agência Brasília está marcada como fonte experimental por esse motivo.
 - Os resumos são gerados a partir do texto das fontes oficiais, com instruções para não acrescentar dados. Para uso técnico, consulte sempre a publicação de origem, indicada em cada item.

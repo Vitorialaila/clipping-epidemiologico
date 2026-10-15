@@ -62,10 +62,9 @@ a { color: inherit; text-decoration: none; }
 .rotulo { font-size: 7pt; letter-spacing: 0.22em; text-transform: uppercase; color: var(--navy); font-weight: 700; margin: 0 0 2.5mm; display: flex; align-items: center; gap: 2.5mm; }
 .rotulo::after { content: ""; flex: 1; border-top: 0.5pt solid var(--linha); }
 
-/* Panorama + Nesta edição */
-.abertura { display: flex; gap: 7mm; margin-top: 8mm; }
-.panorama { flex: 1.15; background: var(--creme); border-left: 1.2mm solid var(--ouro); padding: 4.5mm 5mm 4.5mm 5.5mm; }
-.panorama p { margin: 0; font-size: 9.6pt; line-height: 1.55; color: var(--tinta); text-align: justify; hyphens: auto; }
+/* Panorama */
+.panorama { margin-top: 5mm; background: var(--creme); border-left: 1.2mm solid var(--ouro); padding: 4.5mm 5mm 4.5mm 5.5mm; }
+.panorama p { margin: 0; column-count: 2; column-gap: 7mm; font-size: 9.4pt; line-height: 1.55; color: var(--tinta); text-align: justify; hyphens: auto; }
 
 /* Página de capa */
 .capa-pagina { height: 257mm; position: relative; break-after: page; }
@@ -76,10 +75,33 @@ a { color: inherit; text-decoration: none; }
 .capa-rodape .l { display: block; margin-top: 1.4mm; font-size: 6.4pt; letter-spacing: 0.14em; text-transform: uppercase; font-weight: 700; }
 .capa-rodape .kpi.e-DF .v, .capa-rodape .kpi.e-Brasil .v, .capa-rodape .kpi.e-Américas .v, .capa-rodape .kpi.e-Internacional .v { color: currentColor; }
 .capa-rodape .kpi .l.neutro { color: var(--cinza); }
-.indice { flex: 1; }
-.indice ol { list-style: none; margin: 0; padding: 0; }
-.indice li { display: flex; gap: 2.5mm; padding: 1.6mm 0; border-bottom: 0.4pt solid var(--linha); font-size: 8pt; line-height: 1.32; }
-.indice li .n { font-family: "Serif"; color: var(--ouro); font-size: 10.5pt; width: 5mm; flex: none; line-height: 1.1; }
+/* Mapa da semana */
+.mapa-semana { margin: 7mm 0 0; }
+.mapa-semana img { width: 100%; display: block; border-radius: 1.2mm; }
+.mapa-semana figcaption { display: flex; align-items: baseline; gap: 3mm; margin-top: 2mm; font-size: 7pt; color: var(--cinza); }
+.mapa-semana .rotulo-mini { font-size: 6.6pt; letter-spacing: 0.2em; text-transform: uppercase; font-weight: 700; color: var(--navy); }
+.mapa-semana .exp { flex: 1; }
+.mapa-semana .leg { display: flex; gap: 3mm; }
+.fundo-DF { background: var(--df); } .fundo-Brasil { background: var(--brasil); } .fundo-Américas { background: var(--americas); } .fundo-Internacional { background: var(--internacional); }
+
+/* Visuais dos destaques */
+.visual { position: relative; margin: 0 0 3mm; border-radius: 1.2mm; overflow: hidden; }
+.visual.mapa img { width: 100%; height: 38mm; object-fit: cover; display: block; }
+.visual.mapa.grande img { height: 64mm; object-fit: cover; }
+.visual.foto .moldura { background: var(--creme); text-align: center; }
+.visual.foto img { max-width: 100%; display: inline-block; vertical-align: top; }
+.visual.foto.grande img { max-height: 82mm; width: auto; }
+.visual.foto figcaption { font-size: 6.2pt; color: var(--cinza); margin-top: 1mm; }
+.visual.icone { background: var(--creme); height: 30mm; display: flex; align-items: center; justify-content: center; border-top: 0.8mm solid currentColor; }
+.visual.icone.grande { height: 44mm; }
+.num-mapa { position: absolute; left: 2.5mm; top: 2.5mm; width: 6.5mm; height: 6.5mm; border-radius: 50%; color: #fff; font-weight: 700; font-size: 8pt; line-height: 6.5mm; text-align: center; border: 0.5mm solid #fff; }
+.pict { display: inline-block; vertical-align: -0.15em; margin-right: 1.2mm; }
+.pict svg { display: block; }
+
+.indice { margin-bottom: 8mm; }
+.indice ol { list-style: none; margin: 0; padding: 0; column-count: 2; column-gap: 8mm; }
+.indice li { break-inside: avoid; display: flex; gap: 2.5mm; padding: 1.8mm 0; border-bottom: 0.4pt solid var(--linha); font-size: 8pt; line-height: 1.32; }
+.indice li .n { flex: none; width: 5mm; height: 5mm; border-radius: 50%; color: #fff; font-weight: 700; font-size: 7pt; line-height: 5mm; text-align: center; margin-top: 0.5mm; }
 .indice li .t { flex: 1; color: var(--tinta); }
 .indice li .t small { display: block; font-size: 6.4pt; letter-spacing: 0.12em; text-transform: uppercase; color: var(--cinza); font-weight: 600; margin-bottom: 0.4mm; }
 .indice li .p { flex: none; color: var(--navy); font-weight: 600; font-size: 7.5pt; }
@@ -94,7 +116,7 @@ a { color: inherit; text-decoration: none; }
 .principal { margin-top: 0; border-top: 2.2pt solid var(--navy); padding-top: 4.5mm; break-inside: avoid; }
 .principal .faixa { display: flex; justify-content: space-between; align-items: center; margin-bottom: 2mm; }
 .principal .faixa .kicker { letter-spacing: 0.24em; }
-.topo-principal { display: flex; gap: 3mm; align-items: baseline; }
+.topo-principal { display: flex; gap: 3mm; align-items: baseline; margin-top: 1mm; }
 .topo-principal .agravo { font-size: 7pt; letter-spacing: 0.16em; text-transform: uppercase; font-weight: 700; color: var(--ouro); }
 .topo-principal .local { font-size: 7pt; color: var(--cinza); letter-spacing: 0.06em; text-transform: uppercase; }
 .principal h2 { font-family: "Serif"; font-weight: 400; font-size: 19pt; line-height: 1.12; color: var(--navy); margin: 1mm 0 3mm; }
@@ -107,6 +129,10 @@ a { color: inherit; text-decoration: none; }
 .secao-titulo .qtd { font-size: 7.5pt; color: var(--cinza); letter-spacing: 0.08em; text-transform: uppercase; }
 .secao-titulo .barra { display: inline-block; width: 3.2mm; height: 3.2mm; background: currentColor; align-self: center; }
 .grade { column-count: 2; column-gap: 8mm; column-rule: 0.4pt solid var(--linha); }
+.grade.unica { column-count: 1; column-rule: none; }
+.grade.unica .noticia { display: flex; gap: 7mm; align-items: flex-start; }
+.grade.unica .noticia > .visual { flex: none; width: 78mm; margin: 0; }
+.grade.unica .noticia > .corpo { flex: 1; }
 .noticia { break-inside: avoid; padding-bottom: 5mm; margin-bottom: 4.5mm; border-bottom: 0.4pt solid var(--linha); }
 .noticia .topo { display: flex; justify-content: space-between; gap: 2mm; align-items: center; }
 .noticia .agravo { font-size: 6.6pt; letter-spacing: 0.16em; text-transform: uppercase; font-weight: 700; color: var(--ouro); }
@@ -141,6 +167,16 @@ a { color: inherit; text-decoration: none; }
   <div class="cab-txt">{{ titulo }} <span>| {{ rotulo }}</span></div>
 </div>
 
+{% macro visual(d, grande=False) -%}
+  {% if d.visual.tipo == 'foto' -%}
+  <figure class="visual foto{% if grande %} grande{% endif %}"><div class="moldura"><img src="{{ base_img }}{{ d.visual.src }}" alt=""></div><figcaption>{{ d.visual.credito }}</figcaption></figure>
+  {%- elif d.visual.tipo == 'mapa' -%}
+  <figure class="visual mapa{% if grande %} grande{% endif %}"><img src="{{ base_img }}{{ d.visual.src }}" alt="Localização do evento"><span class="num-mapa fundo-{{ d.escopo }}">{{ d.n }}</span></figure>
+  {%- else -%}
+  <div class="visual icone e-{{ d.escopo }}{% if grande %} grande{% endif %}">{{ icone(d.icone, 72 if grande else 54)|safe }}<span class="num-mapa fundo-{{ d.escopo }}">{{ d.n }}</span></div>
+  {%- endif %}
+{%- endmacro %}
+
 <section class="capa-pagina">
 <header class="capa">
   <div class="capa-topo">
@@ -160,26 +196,24 @@ a { color: inherit; text-decoration: none; }
   </div>
 </header>
 
-<div class="abertura">
-  {% if panorama %}
-  <section class="panorama">
-    <div class="rotulo">Panorama da semana</div>
-    <p>{{ panorama }}</p>
-  </section>
-  {% endif %}
-  <section class="indice">
-    <div class="rotulo">Nesta edição</div>
-    <ol>
-      {% for d in destaques %}
-      <li>
-        <span class="n">{{ loop.index }}</span>
-        <span class="t"><small class="e-{{ d.escopo }}">{{ nome_escopo[d.escopo] }} | {{ d.agravo }}</small>{{ d.titulo }}</span>
-        <span class="p"><a href="#{{ d.ancora }}"></a></span>
-      </li>
-      {% endfor %}
-    </ol>
-  </section>
-  </div>
+{% if mapa %}
+<figure class="mapa-semana">
+  <img src="{{ base_img }}{{ mapa }}" alt="Mapa dos destaques da semana">
+  <figcaption>
+    <span class="rotulo-mini">Mapa da semana</span>
+    <span class="exp">Os números indicam os destaques desta edição.</span>
+    <span class="leg">{% for e in ordem_escopo %}<span class="selo e-{{ e }}">{{ nome_escopo[e] }}</span>{% endfor %}</span>
+  </figcaption>
+</figure>
+{% endif %}
+
+{% if panorama %}
+<section class="panorama">
+  <div class="rotulo">Panorama da semana</div>
+  <p>{{ panorama }}</p>
+</section>
+{% endif %}
+
   <div class="capa-rodape">
     <div class="kpi"><span class="v">{{ destaques|length }}</span><span class="l neutro">destaques</span></div>
     {% for e in ordem_escopo %}<div class="kpi e-{{ e }}"><span class="v">{{ contagem_escopo[e] }}</span><span class="l">{{ nome_escopo[e] }}</span></div>{% endfor %}
@@ -187,12 +221,26 @@ a { color: inherit; text-decoration: none; }
   </div>
 </section>
 
+<section class="indice">
+  <div class="rotulo">Nesta edição</div>
+  <ol>
+    {% for d in destaques %}
+    <li>
+      <span class="n fundo-{{ d.escopo }}">{{ d.n }}</span>
+      <span class="t"><small class="e-{{ d.escopo }}"><span class="pict">{{ icone(d.icone, 10)|safe }}</span>{{ nome_escopo[d.escopo] }} | {{ d.agravo }}</small>{{ d.titulo }}</span>
+      <span class="p"><a href="#{{ d.ancora }}"></a></span>
+    </li>
+    {% endfor %}
+  </ol>
+</section>
+
 <article class="principal" id="{{ principal.ancora }}">
   <div class="faixa">
     <span class="kicker">Destaque da semana</span>
     <span class="selo e-{{ principal.escopo }}">{{ nome_escopo[principal.escopo] }}</span>
   </div>
-  <div class="topo-principal"><span class="agravo">{{ principal.agravo }}</span>{% if principal.local %}<span class="local">{{ principal.local }}</span>{% endif %}</div>
+  {{ visual(principal, True) }}
+  <div class="topo-principal"><span class="agravo"><span class="pict">{{ icone(principal.icone, 12)|safe }}</span>{{ principal.agravo }}</span>{% if principal.local %}<span class="local">{{ principal.local }}</span>{% endif %}</div>
   <h2>{{ principal.titulo }}</h2>
   <p class="resumo">{{ principal.resumo }}</p>
   <div class="credito"><b>{{ principal.fonte }}</b><span>{{ principal.data_fmt }}</span><a href="{{ principal.url }}">{{ principal.dominio }}</a></div>
@@ -205,13 +253,16 @@ a { color: inherit; text-decoration: none; }
     <h2>{{ s.nome }}</h2>
     <span class="qtd">{{ s.itens|length }} {{ 'destaque' if s.itens|length == 1 else 'destaques' }}</span>
   </div>
-  <div class="grade">
+  <div class="grade{% if s.itens|length == 1 %} unica{% endif %}">
     {% for d in s.itens %}
     <article class="noticia" id="{{ d.ancora }}">
-      <div class="topo"><span class="agravo">{{ d.agravo }}</span>{% if d.local %}<span class="local">{{ d.local }}</span>{% endif %}</div>
+      {{ visual(d) }}
+      <div class="corpo">
+      <div class="topo"><span class="agravo"><span class="pict e-{{ d.escopo }}">{{ icone(d.icone, 11)|safe }}</span>{{ d.agravo }}</span>{% if d.local %}<span class="local">{{ d.local }}</span>{% endif %}</div>
       <h3>{{ d.titulo }}</h3>
       <p>{{ d.resumo }}</p>
       <div class="credito"><b>{{ d.fonte }}</b><span>{{ d.data_fmt }}</span><a href="{{ d.url }}">{{ d.dominio }}</a></div>
+    </div>
     </article>
     {% endfor %}
   </div>

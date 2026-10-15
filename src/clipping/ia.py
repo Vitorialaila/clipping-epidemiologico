@@ -1,7 +1,9 @@
-"""Triagem e resumos com a API do Claude (Anthropic).
+"""Triagem e resumos com IA.
 
-Sem a variável ANTHROPIC_API_KEY, o pipeline continua funcionando com a
-pontuação por regras e resumos extrativos (primeiras frases do texto original).
+Provedor padrão: Google Gemini, no plano gratuito (variável GEMINI_API_KEY).
+Também aceita a API do Claude (ANTHROPIC_API_KEY), escolhendo `provedor: anthropic`
+no config.yaml. Sem chave, ou se a cota acabar, o pipeline segue com a pontuação
+por regras e resumos extrativos (primeiras frases do texto original).
 """
 from __future__ import annotations
 
@@ -10,9 +12,12 @@ import os
 import re
 import time
 
+import requests
+
 from .util import carregar_yaml, log, sem_travessao, truncar
 
 ESCOPOS = ("DF", "Brasil", "Américas", "Internacional")
+URL_GEMINI = "https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
 
 CONTEXTO = (
     "Você apoia a equipe de uma Residência Multiprofissional em Vigilância em Saúde no Distrito Federal, "
@@ -28,29 +33,104 @@ REGRAS_TEXTO = (
 )
 
 
-def disponivel() -> bool:
-    return bool(os.environ.get("ANTHROPIC_API_KEY"))
+class CotaEsgotada(RuntimeError):
+    """A cota gratuita do dia acabou: o restante da edição segue sem IA."""
+
+
+_ultima_chamada = 0.0
+_cota_esgotada = False
 
 
 def _cfg() -> dict:
     return carregar_yaml("config.yaml").get("ia", {})
 
 
-def _chamar(modelo: str, sistema: str, usuario: str, max_tokens: int = 1500) -> str:
+def _provedor() -> str:
+    return str(_cfg().get("provedor", "gemini")).lower()
+
+
+def disponivel() -> bool:
+    if _cota_esgotada:
+        return False
+    chave = "ANTHROPIC_API_KEY" if _provedor() == "anthropic" else "GEMINI_API_KEY"
+    return bool(os.environ.get(chave))
+
+
+def _modelos(tipo: str) -> list[str]:
+    valor = _cfg().get(f"modelos_{tipo}") or _cfg().get(f"modelo_{tipo}")
+    return [valor] if isinstance(valor, str) else list(valor or [])
+
+
+def _pausa() -> None:
+    """Respeita o limite de requisições por minuto do plano gratuito."""
+    global _ultima_chamada
+    intervalo = float(_cfg().get("pausa_segundos", 7))
+    espera = _ultima_chamada + intervalo - time.time()
+    if espera > 0:
+        time.sleep(espera)
+    _ultima_chamada = time.time()
+
+
+def _gemini(modelo: str, sistema: str, usuario: str, max_tokens: int, json_saida: bool) -> str:
+    corpo = {
+        "systemInstruction": {"parts": [{"text": sistema}]},
+        "contents": [{"role": "user", "parts": [{"text": usuario}]}],
+        "generationConfig": {"temperature": 0.2, "maxOutputTokens": max_tokens},
+    }
+    if json_saida:
+        corpo["generationConfig"]["responseMimeType"] = "application/json"
+    r = requests.post(URL_GEMINI.format(modelo=modelo), json=corpo, timeout=120,
+                      headers={"x-goog-api-key": os.environ["GEMINI_API_KEY"]})
+    if r.status_code == 429:
+        raise PermissionError(f"429: {r.text[:300]}")
+    if r.status_code in (400, 404):
+        raise LookupError(f"{r.status_code}: {r.text[:300]}")
+    r.raise_for_status()
+    dados = r.json()
+    partes = dados.get("candidates", [{}])[0].get("content", {}).get("parts", [])
+    texto = "".join(p.get("text", "") for p in partes if not p.get("thought"))
+    if not texto:
+        raise RuntimeError(f"Resposta vazia: {json.dumps(dados)[:300]}")
+    return texto
+
+
+def _anthropic(modelo: str, sistema: str, usuario: str, max_tokens: int, json_saida: bool) -> str:
     import anthropic
 
-    cliente = anthropic.Anthropic()
-    for tentativa in range(3):
-        try:
-            resp = cliente.messages.create(
-                model=modelo, max_tokens=max_tokens, system=sistema,
-                messages=[{"role": "user", "content": usuario}],
-            )
-            return "".join(b.text for b in resp.content if getattr(b, "type", "") == "text")
-        except Exception as erro:  # noqa: BLE001
-            log.warning("API (tentativa %d) falhou: %s", tentativa + 1, erro)
-            time.sleep(4 * (tentativa + 1))
-    raise RuntimeError("API indisponível após 3 tentativas")
+    resp = anthropic.Anthropic().messages.create(
+        model=modelo, max_tokens=max_tokens, system=sistema, messages=[{"role": "user", "content": usuario}])
+    return "".join(b.text for b in resp.content if getattr(b, "type", "") == "text")
+
+
+def _chamar(tipo: str, sistema: str, usuario: str, max_tokens: int = 2000, json_saida: bool = True) -> str:
+    """Tenta cada modelo configurado; em limite por minuto, aguarda e repete."""
+    global _cota_esgotada
+    chamar = _anthropic if _provedor() == "anthropic" else _gemini
+    ultimo_erro = None
+    for modelo in _modelos(tipo):
+        for tentativa in range(3):
+            _pausa()
+            try:
+                return chamar(modelo, sistema, usuario, max_tokens, json_saida)
+            except LookupError as erro:  # modelo inexistente ou requisição recusada: próximo modelo
+                log.warning("Modelo %s indisponível: %s", modelo, erro)
+                ultimo_erro = erro
+                break
+            except PermissionError as erro:  # limite atingido
+                ultimo_erro = erro
+                if "PerDay" in str(erro) or "per day" in str(erro).lower():
+                    log.warning("Cota diária do modelo %s esgotada.", modelo)
+                    break
+                log.warning("Limite por minuto em %s; aguardando.", modelo)
+                time.sleep(30 * (tentativa + 1))
+            except Exception as erro:  # noqa: BLE001
+                ultimo_erro = erro
+                log.warning("Falha em %s (tentativa %d): %s", modelo, tentativa + 1, erro)
+                time.sleep(5 * (tentativa + 1))
+    if isinstance(ultimo_erro, PermissionError):
+        _cota_esgotada = True
+        raise CotaEsgotada(str(ultimo_erro))
+    raise RuntimeError(f"IA indisponível: {ultimo_erro}")
 
 
 def _extrair_json(texto: str):
@@ -88,7 +168,7 @@ def triar(candidatos: list[dict]) -> dict[str, dict]:
         '[{"id": "...", "nota": 0, "agravo": "...", "escopo": "...", "evento": "..."}].\n\n'
         "Notícias:\n" + json.dumps(lista, ensure_ascii=False)
     )
-    resposta = _chamar(_cfg().get("modelo_triagem", "claude-haiku-5-5"), sistema, usuario, 4000)
+    resposta = _chamar("triagem", sistema, usuario, 6000)
     saida = {}
     for r in _extrair_json(resposta):
         if not isinstance(r, dict) or "id" not in r:
@@ -113,14 +193,20 @@ def resumir(item: dict, texto: str) -> dict:
         "Resumo: um único parágrafo de 70 a 110 palavras com os fatos centrais: situação epidemiológica, "
         "números de casos e óbitos quando houver, local, período e a medida ou posicionamento oficial "
         "descrito na fonte. Se o texto disponível for insuficiente, resuma apenas o que estiver nele.\n"
-        "Informe também 'local' (país, estado ou município do evento, em português) e 'agravo' "
-        "(nome curto em português).\n"
-        'Responda somente com JSON: {"titulo": "...", "resumo": "...", "local": "...", "agravo": "..."}\n\n'
+        "Informe também 'local' (país, estado ou município do evento, em português), 'agravo' "
+        "(nome curto em português), 'paises' (lista de códigos ISO 3166-1 alfa-3 dos países onde o evento "
+        "ocorre, no máximo seis, por exemplo [\"COD\", \"UGA\"]) e 'uf' (sigla da unidade federativa "
+        "quando o evento for no Brasil e restrito a uma UF, por exemplo \"DF\"; caso contrário, vazio).\n"
+        'Responda somente com JSON: {"titulo": "...", "resumo": "...", "local": "...", "agravo": "...", '
+        '"paises": ["..."], "uf": ""}\n\n'
         f"Fonte: {item['fonte']}\nData de publicação: {item['data']}\nTítulo original: {item['titulo']}\n"
-        f"URL: {item['url']}\n\nTexto:\n{truncar(texto or item.get('descricao', ''), 14000)}"
+        f"URL: {item['url']}\n\nTexto:\n{truncar(texto or item.get('descricao', ''), 16000)}"
     )
-    r = _extrair_json(_chamar(_cfg().get("modelo_resumo", "claude-sonnet-5-5"), sistema, usuario, 1200))
-    return {k: sem_travessao(str(r.get(k, "")).strip()) for k in ("titulo", "resumo", "local", "agravo")}
+    r = _extrair_json(_chamar("resumo", sistema, usuario, 4000))
+    saida = {k: sem_travessao(str(r.get(k, "")).strip()) for k in ("titulo", "resumo", "local", "agravo")}
+    saida["paises"] = r.get("paises") if isinstance(r.get("paises"), list) else []
+    saida["uf"] = str(r.get("uf") or "")
+    return saida
 
 
 def panorama(destaques: list[dict], rotulo_se: str, periodo: str) -> str:
@@ -134,7 +220,7 @@ def panorama(destaques: list[dict], rotulo_se: str, periodo: str) -> str:
         "listas, não cite o próprio clipping e não faça recomendações. Responda apenas com o parágrafo.\n\n"
         + itens
     )
-    texto = _chamar(_cfg().get("modelo_resumo", "claude-sonnet-5-5"), sistema, usuario, 600)
+    texto = _chamar("resumo", sistema, usuario, 3000, json_saida=False)
     return sem_travessao(texto.strip().strip('"'))
 
 
