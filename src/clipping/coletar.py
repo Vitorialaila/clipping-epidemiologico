@@ -99,14 +99,16 @@ def _who_api(fonte: dict, s, timeout: int) -> list[dict]:
 def _html(fonte: dict, s, timeout: int) -> list[dict]:
     r = s.get(fonte["url"], timeout=timeout)
     r.raise_for_status()
-    sopa = BeautifulSoup(r.text, "html.parser")
+    sopa = BeautifulSoup(r.content, "html.parser")  # bytes: o parser detecta a codificação da página
     padrao = re.compile(fonte["padrao_link"], re.I)
     vistos: dict[str, dict] = {}
     for a in sopa.find_all("a", href=True):
         link = urljoin(fonte["url"], a["href"]).split("#")[0]
         if not padrao.search(link):
             continue
-        titulo = a.get_text(" ", strip=True)
+        cab = a.find(["h1", "h2", "h3", "h4"])
+        titulo = (cab or a).get_text(" ", strip=True)
+        titulo = re.split(r"\s+postado em\s+\d", titulo, maxsplit=1)[0].strip()
         atual = vistos.get(link)
         if atual is None or len(titulo) > len(atual["titulo"]):
             # Data próxima ao link (ex.: listagens da OPAS e do gov.br)
