@@ -68,5 +68,6 @@ jobs:
             echo "Sem alterações."
           else
             git commit -m "Atualização automática $(TZ=America/Sao_Paulo date +%Y-%m-%d)"
+            git pull --rebase -X theirs origin main || true
             git push
           fi
