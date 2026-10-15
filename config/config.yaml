@@ -1,0 +1,155 @@
+# Configuração geral do Clipping Epidemiológico
+# Edite este arquivo diretamente no GitHub para ajustar o comportamento.
+
+publicacao:
+  titulo: "Clipping Epidemiológico"
+  subtitulo: "Residência Multiprofissional em Vigilância em Saúde"
+  # Texto exibido no rodapé do PDF e do site (deixe vazio para omitir)
+  rodape: ""
+
+ia:
+  # Modelos da API da Anthropic (Claude)
+  modelo_triagem: "claude-haiku-5-5"
+  modelo_resumo: "claude-sonnet-5-5"
+  # Quantas notícias da semana passam pela triagem da IA
+  candidatos_triagem: 45
+  # Nota mínima da IA (0 a 10) para uma notícia entrar nos destaques
+  nota_minima: 5
+
+clipping:
+  # Número de notícias resumidas por edição
+  destaques: 10
+  # Máximo de destaques sobre o mesmo agravo (evita repetir o mesmo evento)
+  max_por_agravo: 2
+  # Notícias adicionais listadas sem resumo, ao final do PDF
+  outras_noticias: 12
+
+site:
+  # Dias de notícias exibidos no feed do site
+  dias_feed: 90
+
+coleta:
+  # Dias de histórico mantidos na base (data/noticias.json)
+  dias_retencao: 400
+  timeout_segundos: 30
+
+# Fontes oficiais monitoradas
+# tipo: rss | who_api | html
+# peso: relevância da fonte na pontuação (0 a 3)
+# escopo_padrao: usado quando o texto não indica a localidade
+# padrao_link (somente html): expressão regular que identifica links de notícias
+fontes:
+  - id: oms-don
+    nome: "OMS | Disease Outbreak News"
+    sigla: "OMS"
+    tipo: who_api
+    url: "https://www.who.int/api/news/diseaseoutbreaknews?sf_culture=en&$orderby=PublicationDateAndTime%20desc&$top=30"
+    base_link: "https://www.who.int/emergencies/disease-outbreak-news/item/"
+    peso: 3
+    idioma: en
+
+  - id: oms-noticias
+    nome: "OMS | Notícias"
+    sigla: "OMS"
+    tipo: who_api
+    url: "https://www.who.int/api/news/newsitems?sf_culture=en&$orderby=PublicationDateAndTime%20desc&$top=40"
+    base_link: "https://www.who.int/news/item"
+    peso: 1
+    idioma: en
+
+  - id: opas-alertas
+    nome: "OPAS | Alertas e atualizações epidemiológicas"
+    sigla: "OPAS"
+    tipo: html
+    url: "https://www.paho.org/en/epidemiological-alerts-and-updates"
+    padrao_link: "paho\\.org/en/documents/epidemiological-(alert|update)"
+    peso: 3
+    escopo_padrao: "Américas"
+    idioma: en
+
+  - id: opas-noticias
+    nome: "OPAS | Notícias"
+    sigla: "OPAS"
+    tipo: rss
+    url: "https://www.paho.org/en/rss.xml"
+    peso: 1.5
+    escopo_padrao: "Américas"
+    idioma: en
+
+  - id: ecdc-cdtr
+    nome: "ECDC | Communicable Disease Threats Report"
+    sigla: "ECDC"
+    tipo: rss
+    url: "https://www.ecdc.europa.eu/en/taxonomy/term/1505/feed"
+    peso: 2
+    idioma: en
+
+  - id: ecdc-atualizacoes
+    nome: "ECDC | Epidemiological updates"
+    sigla: "ECDC"
+    tipo: rss
+    url: "https://www.ecdc.europa.eu/en/taxonomy/term/1310/feed"
+    peso: 2
+    idioma: en
+
+  - id: ecdc-avaliacoes
+    nome: "ECDC | Risk assessments"
+    sigla: "ECDC"
+    tipo: rss
+    url: "https://www.ecdc.europa.eu/en/taxonomy/term/1295/feed"
+    peso: 2
+    idioma: en
+
+  - id: ecdc-noticias
+    nome: "ECDC | News"
+    sigla: "ECDC"
+    tipo: rss
+    url: "https://www.ecdc.europa.eu/en/taxonomy/term/1307/feed"
+    peso: 1
+    idioma: en
+
+  - id: cdc-mmwr
+    nome: "CDC | MMWR"
+    sigla: "CDC"
+    tipo: rss
+    url: "https://tools.cdc.gov/api/v2/resources/media/342778.rss"
+    peso: 1.5
+    idioma: en
+
+  - id: africa-cdc
+    nome: "Africa CDC | Notícias"
+    sigla: "Africa CDC"
+    tipo: rss
+    url: "https://africacdc.org/news-item/feed/"
+    peso: 1.5
+    idioma: en
+
+  - id: ms-noticias
+    nome: "Ministério da Saúde | Notícias"
+    sigla: "MS"
+    tipo: html
+    url: "https://www.gov.br/saude/pt-br/assuntos/noticias"
+    padrao_link: "gov\\.br/saude/pt-br/assuntos/noticias(-ms)?/\\d{4}/[a-z-]+/[a-z0-9-]{12,}"
+    peso: 1.5
+    escopo_padrao: "Brasil"
+    idioma: pt
+
+  - id: fiocruz
+    nome: "Agência Fiocruz de Notícias"
+    sigla: "Fiocruz"
+    tipo: rss
+    url: "https://agencia.fiocruz.br/rss.xml"
+    peso: 1
+    escopo_padrao: "Brasil"
+    idioma: pt
+
+  # Fonte experimental: o portal pode bloquear acessos automatizados.
+  # Se falhar, a coleta continua normalmente com as demais fontes.
+  - id: agencia-brasilia-saude
+    nome: "Agência Brasília | Saúde"
+    sigla: "GDF"
+    tipo: rss
+    url: "https://www.agenciabrasilia.df.gov.br/category/saude/feed/"
+    peso: 1.5
+    escopo_padrao: "DF"
+    idioma: pt

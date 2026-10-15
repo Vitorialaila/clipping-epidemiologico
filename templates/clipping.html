@@ -1,0 +1,243 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>{{ titulo }} | {{ rotulo }}</title>
+<style>
+@font-face { font-family: "Serif"; src: url("assets/fonts/DMSerifDisplay-Regular.ttf"); font-weight: 400; font-style: normal; }
+@font-face { font-family: "Serif"; src: url("assets/fonts/DMSerifDisplay-Italic.ttf"); font-weight: 400; font-style: italic; }
+@font-face { font-family: "Plex"; src: url("assets/fonts/IBMPlexSans-Regular.ttf"); font-weight: 400; font-style: normal; }
+@font-face { font-family: "Plex"; src: url("assets/fonts/IBMPlexSans-Italic.ttf"); font-weight: 400; font-style: italic; }
+@font-face { font-family: "Plex"; src: url("assets/fonts/IBMPlexSans-Medium.ttf"); font-weight: 500; }
+@font-face { font-family: "Plex"; src: url("assets/fonts/IBMPlexSans-SemiBold.ttf"); font-weight: 600; }
+@font-face { font-family: "Plex"; src: url("assets/fonts/IBMPlexSans-Bold.ttf"); font-weight: 700; }
+
+:root {
+  --navy: #0A3570; --navy-2: #1E4E8C; --ouro: #B8921A; --ouro-2: #D9C17A; --ouro-3: #F4ECD3;
+  --verde: #0B7A32; --tinta: #1B2230; --texto: #343C4B; --cinza: #6A7282; --linha: #E2DED2; --creme: #FBF8F0;
+  --df: #B8921A; --brasil: #0B7A32; --americas: #1E4E8C; --internacional: #5C6B82;
+}
+
+@page {
+  size: A4;
+  margin: 24mm 17mm 19mm 17mm;
+  @top-left { content: element(cabecalho); width: 176mm; vertical-align: bottom; padding-bottom: 4mm; }
+  @bottom-left { content: string(edicao); font-family: "Plex"; font-size: 7pt; color: #6A7282; letter-spacing: 0.06em; text-transform: uppercase; }
+  @bottom-right { content: counter(page) " / " counter(pages); font-family: "Plex"; font-size: 7.5pt; color: #6A7282; }
+}
+@page :first {
+  margin-top: 13mm;
+  @top-left { content: none; }
+}
+
+* { box-sizing: border-box; }
+html { font-family: "Plex"; font-size: 9.4pt; line-height: 1.5; color: var(--texto); }
+body { margin: 0; }
+a { color: inherit; text-decoration: none; }
+.marca { string-set: edicao content(); height: 0; overflow: hidden; font-size: 0; }
+
+/* Cabeçalho corrente (páginas 2 em diante) */
+.cabecalho { position: running(cabecalho); display: flex; align-items: flex-end; justify-content: space-between;
+  border-bottom: 0.6pt solid var(--ouro-2); padding-bottom: 2.2mm; width: 176mm; }
+.cabecalho img { height: 8.5mm; }
+.cabecalho .cab-txt { font-size: 7pt; letter-spacing: 0.14em; text-transform: uppercase; color: var(--navy); font-weight: 600; }
+.cabecalho .cab-txt span { color: var(--ouro); font-weight: 500; }
+
+/* Capa */
+.capa-topo { display: flex; align-items: center; justify-content: space-between; }
+.capa-topo img { height: 19mm; }
+.capa-edicao { text-align: right; }
+.kicker { display: block; font-size: 7.2pt; letter-spacing: 0.22em; text-transform: uppercase; color: var(--ouro); font-weight: 600; }
+.capa-edicao .num { display: block; font-size: 8pt; color: var(--cinza); margin-top: 1mm; letter-spacing: 0.04em; }
+.filete { margin: 6mm 0 7mm; height: 1.4mm; position: relative; }
+.filete::before { content: ""; position: absolute; left: 0; top: 0; width: 22mm; height: 1.4mm; background: var(--navy); }
+.filete::after { content: ""; position: absolute; left: 22mm; right: 0; top: 0.45mm; height: 0.5mm; background: var(--ouro); }
+.titulo-capa { display: flex; align-items: flex-end; gap: 6mm; }
+.titulo-capa .se-num { font-family: "Serif"; font-size: 72pt; line-height: 0.8; color: var(--ouro); }
+.titulo-capa .se-txt h1 { font-family: "Serif"; font-weight: 400; font-size: 27pt; line-height: 1.02; color: var(--navy); margin: 0; }
+.titulo-capa .se-txt p { margin: 2mm 0 0; font-size: 10.5pt; color: var(--cinza); }
+.titulo-capa .se-txt p em { font-family: "Serif"; font-style: italic; color: var(--tinta); font-size: 12.5pt; }
+
+/* Rótulos de seção */
+.rotulo { font-size: 7pt; letter-spacing: 0.22em; text-transform: uppercase; color: var(--navy); font-weight: 700; margin: 0 0 2.5mm; display: flex; align-items: center; gap: 2.5mm; }
+.rotulo::after { content: ""; flex: 1; border-top: 0.5pt solid var(--linha); }
+
+/* Panorama + Nesta edição */
+.abertura { display: flex; gap: 7mm; margin-top: 8mm; }
+.panorama { flex: 1.15; background: var(--creme); border-left: 1.2mm solid var(--ouro); padding: 4.5mm 5mm 4.5mm 5.5mm; }
+.panorama p { margin: 0; font-size: 9.6pt; line-height: 1.55; color: var(--tinta); text-align: justify; hyphens: auto; }
+
+/* Página de capa */
+.capa-pagina { height: 257mm; position: relative; break-after: page; }
+.capa-rodape { position: absolute; left: 0; right: 0; bottom: 0; display: flex; border-top: 2.2pt solid var(--navy); padding-top: 4mm; }
+.capa-rodape .kpi { flex: 1; padding: 0 3.5mm; border-left: 0.5pt solid var(--linha); }
+.capa-rodape .kpi:first-child { border-left: none; padding-left: 0; }
+.capa-rodape .v { display: block; font-family: "Serif"; font-size: 24pt; line-height: 1; color: var(--navy); }
+.capa-rodape .l { display: block; margin-top: 1.4mm; font-size: 6.4pt; letter-spacing: 0.14em; text-transform: uppercase; font-weight: 700; }
+.capa-rodape .kpi.e-DF .v, .capa-rodape .kpi.e-Brasil .v, .capa-rodape .kpi.e-Américas .v, .capa-rodape .kpi.e-Internacional .v { color: currentColor; }
+.capa-rodape .kpi .l.neutro { color: var(--cinza); }
+.indice { flex: 1; }
+.indice ol { list-style: none; margin: 0; padding: 0; }
+.indice li { display: flex; gap: 2.5mm; padding: 1.6mm 0; border-bottom: 0.4pt solid var(--linha); font-size: 8pt; line-height: 1.32; }
+.indice li .n { font-family: "Serif"; color: var(--ouro); font-size: 10.5pt; width: 5mm; flex: none; line-height: 1.1; }
+.indice li .t { flex: 1; color: var(--tinta); }
+.indice li .t small { display: block; font-size: 6.4pt; letter-spacing: 0.12em; text-transform: uppercase; color: var(--cinza); font-weight: 600; margin-bottom: 0.4mm; }
+.indice li .p { flex: none; color: var(--navy); font-weight: 600; font-size: 7.5pt; }
+.indice li .p a::after { content: target-counter(attr(href), page); }
+
+/* Selos de escopo */
+.selo { display: inline-block; white-space: nowrap; font-size: 6.4pt; letter-spacing: 0.14em; text-transform: uppercase; font-weight: 700; }
+.selo::before { content: ""; display: inline-block; vertical-align: 0.1em; width: 1.6mm; height: 1.6mm; margin-right: 1.2mm; border-radius: 0.8mm; background: currentColor; }
+.e-DF { color: var(--df); } .e-Brasil { color: var(--brasil); } .e-Américas { color: var(--americas); } .e-Internacional { color: var(--internacional); }
+
+/* Destaque principal */
+.principal { margin-top: 0; border-top: 2.2pt solid var(--navy); padding-top: 4.5mm; break-inside: avoid; }
+.principal .faixa { display: flex; justify-content: space-between; align-items: center; margin-bottom: 2mm; }
+.principal .faixa .kicker { letter-spacing: 0.24em; }
+.topo-principal { display: flex; gap: 3mm; align-items: baseline; }
+.topo-principal .agravo { font-size: 7pt; letter-spacing: 0.16em; text-transform: uppercase; font-weight: 700; color: var(--ouro); }
+.topo-principal .local { font-size: 7pt; color: var(--cinza); letter-spacing: 0.06em; text-transform: uppercase; }
+.principal h2 { font-family: "Serif"; font-weight: 400; font-size: 19pt; line-height: 1.12; color: var(--navy); margin: 1mm 0 3mm; }
+.principal .resumo { font-size: 10.2pt; line-height: 1.6; color: var(--tinta); column-count: 2; column-gap: 7mm; text-align: justify; hyphens: auto; margin: 0; }
+
+/* Seções */
+.secao { margin-top: 9mm; }
+.secao-titulo { display: flex; align-items: baseline; gap: 3mm; border-bottom: 0.6pt solid var(--ouro-2); padding-bottom: 1.8mm; margin-bottom: 4.5mm; break-after: avoid; }
+.secao-titulo h2 { font-family: "Serif"; font-weight: 400; font-size: 17pt; margin: 0; color: var(--navy); }
+.secao-titulo .qtd { font-size: 7.5pt; color: var(--cinza); letter-spacing: 0.08em; text-transform: uppercase; }
+.secao-titulo .barra { display: inline-block; width: 3.2mm; height: 3.2mm; background: currentColor; align-self: center; }
+.grade { column-count: 2; column-gap: 8mm; column-rule: 0.4pt solid var(--linha); }
+.noticia { break-inside: avoid; padding-bottom: 5mm; margin-bottom: 4.5mm; border-bottom: 0.4pt solid var(--linha); }
+.noticia .topo { display: flex; justify-content: space-between; gap: 2mm; align-items: center; }
+.noticia .agravo { font-size: 6.6pt; letter-spacing: 0.16em; text-transform: uppercase; font-weight: 700; color: var(--ouro); }
+.noticia .local { font-size: 6.6pt; color: var(--cinza); letter-spacing: 0.06em; text-transform: uppercase; }
+.noticia h3 { font-family: "Serif"; font-weight: 400; font-size: 12.6pt; line-height: 1.18; color: var(--navy); margin: 1.6mm 0 2mm; }
+.noticia p { margin: 0; font-size: 8.9pt; line-height: 1.52; text-align: justify; hyphens: auto; }
+.credito { margin-top: 2.2mm; font-size: 7pt; color: var(--cinza); display: flex; flex-wrap: wrap; gap: 0 1.8mm; align-items: baseline; }
+.credito b { color: var(--tinta); font-weight: 600; }
+.credito a { color: var(--navy-2); border-bottom: 0.4pt solid var(--ouro-2); }
+
+/* Outras notícias */
+.outras { margin-top: 9mm; break-inside: auto; }
+.outras table { width: 100%; border-collapse: collapse; font-size: 7.8pt; }
+.outras td { padding: 1.7mm 1.5mm; border-bottom: 0.4pt solid var(--linha); vertical-align: top; }
+.outras tr { break-inside: avoid; }
+.outras td.d { white-space: nowrap; color: var(--cinza); width: 18mm; }
+.outras td.f { white-space: nowrap; font-weight: 600; color: var(--tinta); width: 18mm; }
+.outras td.s { width: 24mm; }
+.outras td.t a { color: var(--tinta); }
+
+/* Nota metodológica */
+.nota { margin-top: 8mm; padding: 4mm 5mm; background: var(--creme); font-size: 7.4pt; line-height: 1.5; color: var(--cinza); break-inside: avoid; }
+.nota b { color: var(--navy); letter-spacing: 0.14em; text-transform: uppercase; font-size: 6.6pt; display: block; margin-bottom: 1mm; }
+.nota p { margin: 0 0 1.2mm; }
+</style>
+</head>
+<body>
+<div class="marca">{{ titulo }}  |  {{ rotulo }}{% if rodape %}  |  {{ rodape }}{% endif %}</div>
+
+<div class="cabecalho">
+  <img src="assets/img/logos.png" alt="">
+  <div class="cab-txt">{{ titulo }} <span>| {{ rotulo }}</span></div>
+</div>
+
+<section class="capa-pagina">
+<header class="capa">
+  <div class="capa-topo">
+    <img src="assets/img/logos.png" alt="{{ subtitulo }}">
+    <div class="capa-edicao">
+      <span class="kicker">{{ titulo }}</span>
+      <span class="num">Publicado em {{ data_geracao }}</span>
+    </div>
+  </div>
+  <div class="filete"></div>
+  <div class="titulo-capa">
+    <div class="se-num">{{ se_numero }}</div>
+    <div class="se-txt">
+      <h1>Semana Epidemiológica<br>{{ se_numero }} de {{ se_ano }}</h1>
+      <p><em>{{ periodo }}</em></p>
+    </div>
+  </div>
+</header>
+
+<div class="abertura">
+  {% if panorama %}
+  <section class="panorama">
+    <div class="rotulo">Panorama da semana</div>
+    <p>{{ panorama }}</p>
+  </section>
+  {% endif %}
+  <section class="indice">
+    <div class="rotulo">Nesta edição</div>
+    <ol>
+      {% for d in destaques %}
+      <li>
+        <span class="n">{{ loop.index }}</span>
+        <span class="t"><small class="e-{{ d.escopo }}">{{ nome_escopo[d.escopo] }} | {{ d.agravo }}</small>{{ d.titulo }}</span>
+        <span class="p"><a href="#{{ d.ancora }}"></a></span>
+      </li>
+      {% endfor %}
+    </ol>
+  </section>
+  </div>
+  <div class="capa-rodape">
+    <div class="kpi"><span class="v">{{ destaques|length }}</span><span class="l neutro">destaques</span></div>
+    {% for e in ordem_escopo %}<div class="kpi e-{{ e }}"><span class="v">{{ contagem_escopo[e] }}</span><span class="l">{{ nome_escopo[e] }}</span></div>{% endfor %}
+    {% if total_coletado %}<div class="kpi"><span class="v">{{ total_coletado }}</span><span class="l neutro">publicações monitoradas</span></div>{% endif %}
+  </div>
+</section>
+
+<article class="principal" id="{{ principal.ancora }}">
+  <div class="faixa">
+    <span class="kicker">Destaque da semana</span>
+    <span class="selo e-{{ principal.escopo }}">{{ nome_escopo[principal.escopo] }}</span>
+  </div>
+  <div class="topo-principal"><span class="agravo">{{ principal.agravo }}</span>{% if principal.local %}<span class="local">{{ principal.local }}</span>{% endif %}</div>
+  <h2>{{ principal.titulo }}</h2>
+  <p class="resumo">{{ principal.resumo }}</p>
+  <div class="credito"><b>{{ principal.fonte }}</b><span>{{ principal.data_fmt }}</span><a href="{{ principal.url }}">{{ principal.dominio }}</a></div>
+</article>
+
+{% for s in secoes %}
+<section class="secao">
+  <div class="secao-titulo">
+    <span class="barra e-{{ s.escopo }}"></span>
+    <h2>{{ s.nome }}</h2>
+    <span class="qtd">{{ s.itens|length }} {{ 'destaque' if s.itens|length == 1 else 'destaques' }}</span>
+  </div>
+  <div class="grade">
+    {% for d in s.itens %}
+    <article class="noticia" id="{{ d.ancora }}">
+      <div class="topo"><span class="agravo">{{ d.agravo }}</span>{% if d.local %}<span class="local">{{ d.local }}</span>{% endif %}</div>
+      <h3>{{ d.titulo }}</h3>
+      <p>{{ d.resumo }}</p>
+      <div class="credito"><b>{{ d.fonte }}</b><span>{{ d.data_fmt }}</span><a href="{{ d.url }}">{{ d.dominio }}</a></div>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+{% endfor %}
+
+{% if outras %}
+<section class="outras">
+  <div class="secao-titulo"><h2>Outras notícias monitoradas</h2><span class="qtd">sem resumo</span></div>
+  <table>
+    {% for o in outras %}
+    <tr>
+      <td class="d">{{ o.data_fmt }}</td>
+      <td class="f">{{ o.fonte }}</td>
+      <td class="s"><span class="selo e-{{ o.escopo }}">{{ nome_escopo[o.escopo] }}</span></td>
+      <td class="t"><a href="{{ o.url }}">{{ o.titulo }}</a></td>
+    </tr>
+    {% endfor %}
+  </table>
+</section>
+{% endif %}
+
+<section class="nota">
+  <b>Nota metodológica</b>
+  <p>Edição referente à {{ rotulo }} ({{ periodo }}). {% if total_coletado %}Foram monitoradas {{ total_coletado }} publicações das seguintes fontes oficiais{% else %}Fontes oficiais monitoradas{% endif %}: {{ fontes|join(', ') }}.</p>
+  <p>As notícias são selecionadas por critérios de relevância epidemiológica (agravo, natureza do evento, proximidade geográfica e tipo de comunicado){% if ia %} e os títulos e resumos são elaborados com apoio de inteligência artificial a partir do texto original{% else %}; os resumos reproduzem trechos iniciais do texto original{% endif %}. Para uso técnico, consulte sempre a publicação de origem no link indicado.</p>
+</section>
+</body>
+</html>

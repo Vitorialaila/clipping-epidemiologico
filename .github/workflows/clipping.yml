@@ -1,0 +1,71 @@
+name: Clipping epidemiológico
+
+on:
+  schedule:
+    # Todos os dias às 6h (horário de Brasília). Aos domingos, gera a edição da SE que terminou no sábado.
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+    inputs:
+      etapa:
+        description: "Etapa a executar"
+        type: choice
+        default: tudo
+        options: [tudo, coletar, clipping, site, repontuar]
+      se:
+        description: "Semana epidemiológica (AAAASS, ex.: 202640). Vazio = última SE fechada"
+        required: false
+        default: ""
+      forcar:
+        description: "Gerar nova versão mesmo se a edição já existir (a anterior é mantida)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: clipping
+  cancel-in-progress: false
+
+jobs:
+  executar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Dependências do sistema (PDF)
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq libpango-1.0-0 libpangoft2-1.0-0 libharfbuzz-subset0
+
+      - name: Dependências Python
+        run: pip install -r requirements.txt
+
+      - name: Executar pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PYTHONPATH: src
+          TZ: America/Sao_Paulo
+          ETAPA: ${{ inputs.etapa || 'tudo' }}
+          SE: ${{ inputs.se }}
+          FORCAR: ${{ inputs.forcar && '--forcar' || '' }}
+        run: |
+          ARGS="$ETAPA"
+          if [ -n "$SE" ]; then ARGS="$ARGS --se $SE"; fi
+          python -m clipping $ARGS $FORCAR
+
+      - name: Salvar resultados no repositório
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data docs
+          if git diff --cached --quiet; then
+            echo "Sem alterações."
+          else
+            git commit -m "Atualização automática $(TZ=America/Sao_Paulo date +%Y-%m-%d)"
+            git push
+          fi

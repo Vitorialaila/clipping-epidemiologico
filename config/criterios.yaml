@@ -1,0 +1,89 @@
+# Critérios de relevância epidemiológica (pontuação por regras)
+# A pontuação final soma: peso da fonte + agravo + eventos + localidade + ajustes.
+# Os termos são comparados sem acentos e sem diferenciar maiúsculas.
+# Pesos dos agravos: 5 = notificação imediata ou evento de potencial internacional,
+# 3 a 4 = notificação compulsória com relevância de surto, 2 = interesse em saúde pública.
+
+limiar_feed: 4            # pontuação mínima para aparecer no feed do site
+limiar_clipping: 5        # pontuação mínima para concorrer aos destaques
+
+agravos:
+  - {nome: "Doença pelo vírus Ebola", peso: 5, termos: [ebola, bundibugyo, "sudan virus", "virus sudao"]}
+  - {nome: "Doença de Marburg", peso: 5, termos: [marburg]}
+  - {nome: "Febres hemorrágicas virais", peso: 5, termos: [lassa, "febre hemorragica", "hemorrhagic fever", "crimean-congo", cchf, "fiebre hemorragica"]}
+  - {nome: "Sarampo", peso: 5, termos: [sarampo, measles, sarampion]}
+  - {nome: "Rubéola", peso: 4, termos: [rubeola, rubella, "sindrome da rubeola congenita"]}
+  - {nome: "Poliomielite", peso: 5, termos: [poliomielite, polio, poliovirus, "paralisia flacida aguda", "acute flaccid paralysis", cvdpv, wpv1]}
+  - {nome: "Mpox", peso: 5, termos: [mpox, monkeypox, "variola dos macacos", "clade ib", "clado ib"]}
+  - {nome: "Varíola", peso: 5, termos: [smallpox, "variola humana"]}
+  - {nome: "Influenza por novo subtipo", peso: 5, termos: ["influenza aviaria", "avian influenza", "bird flu", "gripe aviaria", h5n1, h5n2, h5n5, h5n6, h7n9, h9n2, h3n8, "influenza a(h5)", "influenza a(h5n1)", "novo subtipo", "novel influenza", "swine influenza variant", h1n2v, h3n2v]}
+  - {nome: "Síndrome respiratória e coronavírus emergentes", peso: 5, termos: [mers, "mers-cov", "novo coronavirus", "novel coronavirus", "pneumonia de etiologia desconhecida", "undetermined etiology", "unknown etiology", "unknown disease", "doenca desconhecida", "disease x", "doenca x"]}
+  - {nome: "COVID-19", peso: 3, termos: ["covid-19", covid, "sars-cov-2"]}
+  - {nome: "Influenza e vírus respiratórios", peso: 3, termos: [influenza, gripe, srag, "sindrome respiratoria aguda grave", "severe acute respiratory", "virus sincicial", vsr, rsv, "respiratory syncytial", "virus respiratorios", "respiratory viruses", infogripe, "sivep-gripe"]}
+  - {nome: "Cólera", peso: 5, termos: [colera, cholera]}
+  - {nome: "Difteria", peso: 5, termos: [difteria, diphtheria]}
+  - {nome: "Coqueluche", peso: 4, termos: [coqueluche, pertussis, "whooping cough", "tos ferina"]}
+  - {nome: "Febre amarela", peso: 5, termos: ["febre amarela", "yellow fever", "fiebre amarilla"]}
+  - {nome: "Dengue", peso: 3, termos: [dengue, denv, "denv-3", "denv-4"]}
+  - {nome: "Chikungunya", peso: 3, termos: [chikungunya, chikv]}
+  - {nome: "Zika", peso: 3, termos: [zika, zikv]}
+  - {nome: "Oropouche", peso: 4, termos: [oropouche, orov]}
+  - {nome: "Arboviroses", peso: 3, termos: [arbovirose, arboviroses, arbovirus, arboviral, "aedes aegypti", "aedes albopictus", wolbachia]}
+  - {nome: "Febre do Nilo Ocidental", peso: 4, termos: ["west nile", "nilo ocidental", "febre do nilo", wnv]}
+  - {nome: "Encefalites virais", peso: 3, termos: [encefalite, encephalitis, "encefalite japonesa", "tick-borne encephalitis", eee, "equine encephalitis"]}
+  - {nome: "Nipah", peso: 5, termos: [nipah, hendra]}
+  - {nome: "Hantavirose", peso: 4, termos: [hantavirus, hantavirose, "sindrome cardiopulmonar por hantavirus"]}
+  - {nome: "Raiva", peso: 5, termos: ["raiva humana", "raiva animal", "virus da raiva", rabies, rabia, antirrabica]}
+  - {nome: "Peste", peso: 5, termos: [plague, "peste bubonica", "peste pneumonica", "yersinia pestis"]}
+  - {nome: "Antraz", peso: 5, termos: [antraz, anthrax, carbunculo]}
+  - {nome: "Botulismo", peso: 5, termos: [botulismo, botulism]}
+  - {nome: "Doença meningocócica e meningites", peso: 4, termos: [meningococica, meningococcal, meningite, meningitis, "neisseria meningitidis"]}
+  - {nome: "Febre maculosa e riquetsioses", peso: 4, termos: ["febre maculosa", "spotted fever", rickettsia, riquetsiose, rickettsiosis]}
+  - {nome: "Malária", peso: 4, termos: [malaria, plasmodium]}
+  - {nome: "Doença de Chagas aguda", peso: 4, termos: [chagas, "trypanosoma cruzi"]}
+  - {nome: "Leptospirose", peso: 3, termos: [leptospirose, leptospirosis]}
+  - {nome: "Leishmanioses", peso: 2, termos: [leishmaniose, leishmaniasis, calazar, "kala-azar"]}
+  - {nome: "Esquistossomose", peso: 2, termos: [esquistossomose, schistosomiasis]}
+  - {nome: "Tuberculose", peso: 2, termos: [tuberculose, tuberculosis, "tb-mdr", "mdr-tb", "xdr-tb"]}
+  - {nome: "Hanseníase", peso: 2, termos: [hanseniase, leprosy, hansen]}
+  - {nome: "Sífilis", peso: 2, termos: [sifilis, syphilis, "sifilis congenita", "congenital syphilis"]}
+  - {nome: "HIV/aids e IST", peso: 2, termos: [hiv, aids, "infeccoes sexualmente transmissiveis", "sexually transmitted", gonorreia, gonorrhoea, gonorrhea, prep]}
+  - {nome: "Hepatites virais", peso: 2, termos: [hepatite, hepatitis]}
+  - {nome: "Micoses endêmicas", peso: 3, termos: [esporotricose, sporotrichosis, histoplasmose, histoplasmosis, paracoccidioidomicose, criptococose, cryptococcosis, coccidioidomicose, "micoses endemicas", "fungal disease", "doenca fungica"]}
+  - {nome: "Candida auris", peso: 4, termos: ["candida auris", "candidozyma auris", "c. auris"]}
+  - {nome: "Resistência antimicrobiana", peso: 3, termos: ["resistencia antimicrobiana", "antimicrobial resistance", amr, superbacteria, superbug, carbapenemase, "kpc", "ndm", "multirresistente", "multidrug-resistant"]}
+  - {nome: "Infecções relacionadas à assistência", peso: 2, termos: [iras, "infeccao hospitalar", "healthcare-associated infection", "hospital-acquired", "surto hospitalar"]}
+  - {nome: "Doenças transmitidas por alimentos e água", peso: 3, termos: ["surto alimentar", "doenca transmitida por alimentos", "foodborne", salmonella, salmonelose, "e. coli", stec, listeria, listeriose, shigella, shigelose, "febre tifoide", typhoid, norovirus, rotavirus, "hepatite a", "intoxicacao alimentar", "food poisoning"]}
+  - {nome: "Legionelose", peso: 3, termos: [legionella, legionelose, legionnaires]}
+  - {nome: "Intoxicações", peso: 3, termos: [metanol, methanol, "intoxicacao exogena", envenenamento, poisoning, agrotoxico, pesticide]}
+  - {nome: "Acidentes por animais peçonhentos", peso: 2, termos: [escorpiao, escorpionismo, "animais peconhentos", snakebite, "acidente ofidico"]}
+  - {nome: "Varicela e caxumba", peso: 2, termos: [varicela, chickenpox, caxumba, mumps, parotidite]}
+  - {nome: "Doença de Creutzfeldt-Jakob", peso: 3, termos: [creutzfeldt, "doenca da vaca louca", "prion"]}
+  - {nome: "Imunização", peso: 2, termos: ["cobertura vacinal", "vaccination coverage", "campanha de vacinacao", "vaccination campaign", esavi, "evento adverso pos-vacinacao", "vaccine-derived", imunizacao, immunization]}
+  - {nome: "Emergências e desastres", peso: 2, termos: [terremoto, earthquake, sismo, inundacao, enchente, flood, furacao, hurricane, deslizamento, "desastre", disaster, "crise humanitaria", "humanitarian crisis"]}
+  - {nome: "Saúde ambiental e clima", peso: 2, termos: ["onda de calor", "heat wave", heatwave, "calor extremo", "extreme heat", queimadas, wildfire, "qualidade do ar", "air quality", "fumaca", "el nino", "la nina", seca, drought]}
+
+eventos:
+  - {peso: 3, termos: ["emergencia de saude publica", "public health emergency", pheic, espii, "emergency committee", "comite de emergencia", "regulamento sanitario internacional", "international health regulations"]}
+  - {peso: 2.5, termos: [surto, surtos, outbreak, outbreaks, brote, brotes, epidemia, epidemic, "disease outbreak news", cluster, conglomerado]}
+  - {peso: 2, termos: ["alerta epidemiologico", "epidemiological alert", "health alert", "atualizacao epidemiologica", "epidemiological update", "alerta sanitario", "rapid risk assessment", "avaliacao de risco", "risk assessment", "threat assessment"]}
+  - {peso: 2, termos: ["primeiro caso", "primeiros casos", "first case", "first cases", "primer caso", autoctone, autochthonous, "caso importado", "imported case", "transmissao local", "local transmission", reintroducao, reintroduction, "caso confirmado", "confirmed case", "casos confirmados", "confirmed cases"]}
+  - {peso: 1.5, termos: [obito, obitos, death, deaths, fatal, fatalities, muertes, letalidade, "case fatality"]}
+  - {peso: 1, termos: ["aumento de casos", "increase in cases", "rising cases", surge, "alta de casos", "estado de emergencia", "situacao de emergencia", "emergencia em saude publica"]}
+  - {peso: 1, termos: [vigilancia, surveillance, notificacao, notification, investigacao, investigation, "boletim epidemiologico"]}
+
+localidades:
+  DF:
+    peso: 4
+    termos: ["distrito federal", brasilia, "ses-df", "ride-df", "entorno do df", ceilandia, taguatinga, samambaia, planaltina, "aguas lindas", "valparaiso de goias", "luziania", "formosa"]
+  Brasil:
+    peso: 3
+    termos: [brasil, brazil, brasileiro, brasileira, "ministerio da saude", "sistema unico de saude", fiocruz, anvisa, acre, alagoas, amapa, amazonas, bahia, ceara, "espirito santo", goias, maranhao, "mato grosso", "minas gerais", "estado do para", belem, paraiba, parana, pernambuco, piaui, "rio de janeiro", "rio grande do norte", "rio grande do sul", rondonia, roraima, "santa catarina", "sao paulo", sergipe, tocantins]
+  Américas:
+    peso: 2
+    termos: [americas, "regiao das americas", "region of the americas", opas, paho, argentina, bolivia, chile, colombia, ecuador, guyana, guiana, paraguay, paraguai, peru, suriname, uruguay, uruguai, venezuela, mexico, "united states", "estados unidos", canada, guatemala, honduras, "el salvador", nicaragua, "costa rica", panama, cuba, haiti, "dominican republic", "republica dominicana", jamaica, "puerto rico", caribbean, caribe]
+
+# Termos que indicam conteúdo institucional sem interesse epidemiológico
+ajustes:
+  - {peso: -4, termos: [licitacao, "call for tenders", procurement, vacancy, vacancies, "job opening", concurso, "processo seletivo", edital]}
+  - {peso: -2, termos: [webinar, podcast, premio, award, "prize", nomeacao, appointed, "director-general candidates", posse, inauguracao, inaugura, aniversario, anniversary, curso, course, "toolkit", "save the date"]}
