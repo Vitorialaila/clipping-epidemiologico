@@ -116,24 +116,78 @@
   "termos_evento": []
  },
  {
-  "id": "7b04918efc06e1",
-  "titulo": "Anvisa aprova novo medicamento para tratar lúpus",
-  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-aprova-novo-medicamento-para-tratar-lupus",
-  "fonte_id": "agencia-brasil-saude",
-  "fonte": "Agência Brasil | Saúde",
+  "id": "cd5de916976353",
+  "titulo": "São Paulo terá mais chuvas fortes no fim da tarde desta quinta (15)",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/sao-paulo-tera-mais-chuvas-fortes-no-fim-da-tarde-desta-quinta-15",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
   "sigla": "Agência Brasil",
   "idioma": "pt",
-  "data": "2026-10-14",
+  "data": "2026-10-15",
   "data_estimada": false,
   "se": "2026-41",
-  "descricao": "O medicamento Gazyva (obinutuzumabe), indicado para alguns casos de câncer , pode ser usado a partir de agora no tratamento do lúpus . A Agência Nacional de Vigilância Sanitária (Anvisa) passou a recomendar a substância para pacientes adultos com lúpus ativo moderado a grave, positivos para autoanticorpos, em uso de tratamento padrão. Em nota, a Anvisa informou que o obinutuzumabe é um anticorpo monoclonal humanizado que promove eliminação massiva e prolongada dos linfócitos B, células que desempenham papel central nos processos fisiológicos anormais que levam ao desenvolvimento do lúpus.",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "descricao": "Segundo o Centro de Gerenciamento de Emergências Climática da Prefeitura de São Paulo (CGE), a cidade deve enfrentar nesta quinta-feira (14) situação parecida com a desta quarta (13), graças à aproximação de uma frente fria. Entre o final da tarde e início da noite devem ocorrer pancadas de chuva e rajadas de vento em várias regiões da cidade. Além disso, o solo encharcado pela chuva de ontem, mantém elevado o potencial para alagamentos, queda de árvores e deslizamentos de terra.",
+  "coletado_em": "2026-10-15T17:33:28+00:00",
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "bcc09829a9292c",
+  "titulo": "Polícia Federal e MPSP fazem operação contra tráfico de drogas",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/policia-federal-e-mpsp-fazem-operacao-contra-trafico-de-drogas",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-15",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "O Ministério Público de São Paulo (MPSP), por meio do Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco), e a Polícia Federal (PF) fazem, na manhã desta quinta-feira (15), em São Paulo e no Paraná, a Operação YellowCode. O objetivo é combater organização criminosa suspeita de tráfico de drogas interestadual e de lavagem de dinheiro. Segundo a investigação, os criminosos traficavam drogas dentro de eletrodomésticos. Moradores de São Paulo recebiam encomendas compradas pela internet que traziam entorpecentes em seu interior. Os envios eram feitos sempre pela mesma vendedora e eram postados a partir de Foz do Iguaçu, no Paraná. Foram identificadas 120 remessas suspeitas.",
+  "coletado_em": "2026-10-15T17:33:28+00:00",
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
   "termos_evento": [
-   "vigilancia"
+   "investigacao"
   ]
+ },
+ {
+  "id": "31c6744c67e404",
+  "titulo": "PF faz nova ação contra suspeitos de lavagem de dinheiro em postos",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/pf-faz-nova-acao-contra-suspeitos-de-lavagem-de-dinheiro-em-postos",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-15",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "A Polícia Federal cumpriu, nesta quinta-feira (15), seis mandados de prisão preventiva contra acusados de integrar organização criminosa armada envolvida com lavagem de dinheiro em postos de combustível. Entre os alvos presos na operação estão o ex-secretário de Polícia Civil, Marcus Amim, e o ex-prefeito de Belford Roxo e deputado estadual eleito Márcio Canella. A Justiça também determinou o cumprimento de 16 mandados de busca e apreensão, sequestro de bens e valores e suspensão das atividades econômicas de 112 empresas suspeitas de integrarem o esquema de lavagem de dinheiro. Os mandados estão sendo cumpridos na capital fluminense e em mais seis municípios do estado.",
+  "coletado_em": "2026-10-15T17:33:28+00:00",
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "8e5e306c8c31f5",
+  "titulo": "Mega-Sena acumula para R$ 170 milhões; confira os números sorteados",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/mega-sena-acumula-para-r-170-milhoes-confira-os-numeros-sorteados",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-15",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "Ninguém acertou as seis dezenas da Mega-Sena do Concurso 3.070, que foram sorteadas nesta quarta-feira (14) no Espaço da Sorte, em São Paulo (SP). O prêmio acumulou e está estimado em R$ 170 milhões para o próximo sorteio. Os números sorteados são: 19 - 27 - 29 - 43 - 54 - 60 91 apostas acertaram cinco dezenas e irão receber R$ 52.767,96 cada 7.384 apostas acertaram quatro dezenas e irão receber R$ 1.071,93 cada Apostas O próximo concurso acontece domingo (18). As apostas podem ser feitas até as 22h (horário de Brasília) de sábado (17), em qualquer lotérica do país ou pela internet, no site ou aplicativo da Caixa. A aposta simples, com seis dezenas, custa R$ 6. Mega Semana ​Entre os dias 26 e 30 de outubro de 2026, acontecerá a Mega Semana da Mega Sena. A ação promoverá cinco sorteios consecutivos correspondentes aos concursos 3076, 3077, 3078, 3079 e 3080.",
+  "coletado_em": "2026-10-15T17:33:28+00:00",
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
  },
  {
   "id": "a3f78573815eff",
@@ -155,26 +209,6 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
-  ]
- },
- {
-  "id": "150fd98172e17b",
-  "titulo": "Anvisa proíbe canetas emagrecedoras sem registro vendidas na internet",
-  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-proibe-canetas-emagrecedoras-sem-registro-vendidas-na-internet",
-  "fonte_id": "agencia-brasil-saude",
-  "fonte": "Agência Brasil | Saúde",
-  "sigla": "Agência Brasil",
-  "idioma": "pt",
-  "data": "2026-10-14",
-  "data_estimada": false,
-  "se": "2026-41",
-  "descricao": "A Agência Nacional de Vigilância Sanitária (Anvisa) determinou nesta quarta-feira (14) a apreensão de produtos sujeitos à vigilância sanitária à venda no site https://zyntrashop.site – incluindo a retatrutida, a tirzepatida, popularmente conhecidas como canetas emagrecedoras . A decisão também se aplica aos produtos Retatrutude 120 mg, Caneta Retatrutide 60 mg, Tirzepatide 150mg e Caneta Tirzepatide 75 mg, comercializados na página https://www.zphcstore.com.br/, sob responsabilidade da ZPH Contabilidade.",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 0.0,
-  "agravos": [],
-  "escopo": "Brasil",
-  "termos_evento": [
-   "vigilancia"
   ]
  },
  {
@@ -216,6 +250,46 @@
   "agravos": [
    "Sífilis"
   ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "vigilancia"
+  ]
+ },
+ {
+  "id": "7b04918efc06e1",
+  "titulo": "Anvisa aprova novo medicamento para tratar lúpus",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-aprova-novo-medicamento-para-tratar-lupus",
+  "fonte_id": "agencia-brasil-saude",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-14",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "O medicamento Gazyva (obinutuzumabe), indicado para alguns casos de câncer , pode ser usado a partir de agora no tratamento do lúpus . A Agência Nacional de Vigilância Sanitária (Anvisa) passou a recomendar a substância para pacientes adultos com lúpus ativo moderado a grave, positivos para autoanticorpos, em uso de tratamento padrão. Em nota, a Anvisa informou que o obinutuzumabe é um anticorpo monoclonal humanizado que promove eliminação massiva e prolongada dos linfócitos B, células que desempenham papel central nos processos fisiológicos anormais que levam ao desenvolvimento do lúpus.",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "vigilancia"
+  ]
+ },
+ {
+  "id": "150fd98172e17b",
+  "titulo": "Anvisa proíbe canetas emagrecedoras sem registro vendidas na internet",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-proibe-canetas-emagrecedoras-sem-registro-vendidas-na-internet",
+  "fonte_id": "agencia-brasil-saude",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-14",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "A Agência Nacional de Vigilância Sanitária (Anvisa) determinou nesta quarta-feira (14) a apreensão de produtos sujeitos à vigilância sanitária à venda no site https://zyntrashop.site – incluindo a retatrutida, a tirzepatida, popularmente conhecidas como canetas emagrecedoras . A decisão também se aplica aos produtos Retatrutude 120 mg, Caneta Retatrutide 60 mg, Tirzepatide 150mg e Caneta Tirzepatide 75 mg, comercializados na página https://www.zphcstore.com.br/, sob responsabilidade da ZPH Contabilidade.",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 0.0,
+  "agravos": [],
   "escopo": "Brasil",
   "termos_evento": [
    "vigilancia"
@@ -490,6 +564,60 @@
   "se": "2026-41",
   "descricao": "PORTARIA SES Nº 2394, DE 23 DEJULHO DE 2026. O SECRETÁRIO DE ESTADO DA SAÚDE, usando das atribuições que lhe são legalmente conferidas e considerando a necessidade de cumprir o preceito do Art. 117 da Lei federal nº 14.133/2021, e Art. 11, inciso IV, do Decreto Estadual nº 10.248/2023, conforme disposto no Processo SEI nº […]",
   "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "e701a34d8483e8",
+  "titulo": "Parte do teto de túnel da Câmara desabou nesta quarta-feira",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/parte-do-teto-de-tunel-da-camara-desabou-nesta-quarta-feira",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-14",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "Uma parte do reboco do teto do chamado Túnel do Tempo, da Câmara dos Deputados, desabou durante a madrugada desta quarta-feira (14). O túnel forma um corredor que liga o Anexo II da Câmara, onde ficam as comissões permanentes, até o Salão Verde, que é o espaço que dá acesso ao plenário. Não houve feridos e a passagem para funcionários ou visitantes pelo corredor foi fechada. Equipes de engenharia da Câmara estão no local para reparar o dano. Não foi detectado qualquer dano à estrutura do prédio, segundo informou a assessoria de imprensa da Câmara dos Deputados. “A circulação entre o Edifício Principal e o Anexo II deverá ser feita pela área externa. Para facilitar o acesso, o fluxo de pessoas na Chapelaria estará liberado para todos os públicos nesta quarta-feira”, informou a Câmara. O plenário da Câmara dos Deputados tem sessão deliberativa marcada para as 13h55 para debater projetos de lei e decreto legislativo. Confira mais informações sobre o desabamento no Repórter Brasil, da TV Brasil",
+  "coletado_em": "2026-10-15T17:33:28+00:00",
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "b13bd1003539ce",
+  "titulo": "CCJ do Senado conclui votação da PEC da Segurança Pública",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/ccj-do-senado-conclui-votacao-da-pec-da-seguranca-publica",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-14",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "A Comissão de Constituição e Justiça (CCJ) do Senado concluiu, nesta quarta-feira (14), a votação da proposta de emenda à Constituição (PEC) da Segurança Pública. O texto agora está pronto para análise no plenário do Senado. Se aprovada sem alterações, a PEC 18 de 2025 será promulgada uma vez que já foi aprovada na Câmara.",
+  "coletado_em": "2026-10-15T17:33:28+00:00",
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "bf5e8991be2974",
+  "titulo": "Mega-Sena sorteia hoje prêmio acumulado de R$ 150 milhões",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/mega-sena-sorteia-hoje-premio-acumulado-de-r-150-milhoes",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-14",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "A Mega-Sena sorteia nesta quarta-feira (14) prêmio estimado em R$ 150 milhões . As seis dezenas do concurso 3.070 serão sorteadas a partir das 21h (horário de Brasília) no Espaço da Sorte, em São Paulo. As apostas podem ser feitas até às 20h (horário de Brasília) de hoje em casas lotéricas credenciadas pela Caixa em todo o país ou pela internet, no site ou aplicativo da Caixa. A aposta simples, com seis dezenas, custa R$ 6.",
+  "coletado_em": "2026-10-15T17:33:28+00:00",
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
@@ -896,6 +1024,60 @@
   "termos_evento": []
  },
  {
+  "id": "bb22b6427c2f25",
+  "titulo": "Feriadão de Nossa Senhora Aparecida teve 68 mortes nas estradas",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/feriadao-de-nossa-senhora-aparecida-teve-68-mortes-nas-estradas",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-13",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "As estradas brasileiras registraram 68 mortes no feriado prolongado de Nossa Senhora de Aparecida, entre sexta (9) e segunda-feira (12). O balanço foi divulgado nesta terça (13) pela Polícia Rodoviária Federal e informa que 969 pessoas se feriram em 926 ocorrências. Durante o feriadão, os policiais prenderam 356 pessoas e apreenderam 2,2 toneladas de maconha e 34 kg de cocaína. Ao todo, foram fiscalizadas 124.899 pessoas e veículos. Os dados são considerados preliminares e podem ser revisados.",
+  "coletado_em": "2026-10-15T17:33:28+00:00",
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "69c18c57ddfbaf",
+  "titulo": "Prefeitura de SP começa a fiscalizar bicicletas e patinetes elétricos",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/prefeitura-de-sp-comeca-fiscalizar-bicicletas-e-patinetes-eletricos",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-13",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "As novas regras de trânsito para a circulação de bicicletas elétricas e equipamentos de mobilidade individual chamados de autopropelidos, como patinetes elétricos, entram em vigor nesta terça-feira (13), na cidade de São Paulo. Os equipamentos autopropelidos são veículos elétricos de pequeno porte, com rodas e motor próprio, considerados de baixo risco e baixa velocidade. A fiscalização desses veículos será feita pela Secretaria Executiva de Mobilidade e Trânsito e pela Companhia de Engenharia de Tráfego (CET). Conforme as normas do Conselho Nacional de Trânsito, conduzir bicicleta em passeio onde não seja permitida a circulação, ou ainda de forma agressiva, configura multa no valor de R$ 130,16. As infrações serão vinculadas ao CPF do condutor. Nas ciclovias e ciclofaixas exclusivas para bicicletas (sem compartilhamento com pedestres), o limite máximo de velocidade permitido para esses veículos é de 20 quilômetros por hora (km/h). As bicicletas e bicicletas elétricas são proibidas de circular em vias de trânsito rápido e rodovias sem acostamento. A legislação também define os limites para outros trechos. A velocidade máxima autorizada para esses veículos em ciclofaixas situadas em calçadas e que dividem o espaço com pedestres passa a ser de 6 km/h. É proibida a circulação de patinetes e outros equipamentos autopropelidos em calçadas, canteiros centrais com trânsito compartilhado e demais vias destinadas a pedestres . Por outro lado, as bicicletas elétricas têm permissão…",
+  "coletado_em": "2026-10-15T17:33:28+00:00",
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "00c64e819487bc",
+  "titulo": "Aena assume Galeão e propõe aumentar destinos e frequência de voos",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/aena-assume-galeao-e-propoe-aumentar-destinos-e-frequencia-de-voos",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-13",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "A concessionária espanhola Aena informou, nesta terça-feira (13), que buscará aumentar o número de destinos a partir do Aeroporto Internacional do Rio de Janeiro (Tom Jobim/Galeão) e aumentar a frequência de voos no terminal. A empresa assumiu a concessão do aeroporto carioca na semana passada. O contrato vale até 2039.",
+  "coletado_em": "2026-10-15T17:33:28+00:00",
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
   "id": "334a3a13e22de8",
   "titulo": "WHO Pandemic Hub sets ambitious goal to detect new outbreaks within 24 hours",
   "url": "https://www.who.int/news/item/12-10-2026-who-pandemic-hub-sets-ambitious-goal-to-detect-new-outbreaks-within-24-hours",
@@ -1287,6 +1469,26 @@
   "termos_evento": []
  },
  {
+  "id": "de150213e6c2a7",
+  "titulo": "Fiocruz expressa solidariedade à UFPE após incêndios",
+  "url": "https://agencia.fiocruz.br/fiocruz-expressa-solidariedade-ufpe-apos-incendios",
+  "fonte_id": "fiocruz",
+  "fonte": "Agência Fiocruz de Notícias",
+  "sigla": "Fiocruz",
+  "idioma": "pt",
+  "data": "2026-10-08",
+  "data_estimada": false,
+  "se": "2026-40",
+  "descricao": "Fiocruz expressa solidariedade à UFPE após incêndios A Fiocruz expressa solidariedade a toda a comunidade da Universidade Federal de Pernambuco (UFPE) diante dos recentes incêndios ocorridos em prédios da instituição, com danos materiais relevantes. As perdas ultrapassam os muros da UFPE e afetam toda a sociedade, beneficiada pela atuação no campo da educação e pela produção de conhecimento das instituições públicas. Além de manifestar apoio aos docentes, pesquisadores, estudantes e toda a comunidade acadêmica da UFPE neste momento de consternação e de reconstrução, a Fiocruz se põe à disposição para, no que for possível, ajudar na continuidade das atividades afetadas. Período eleitoral Durante o período eleitoral (de 4 de julho até 25 de outubro), os conteúdos digitais publicados e disponibilizados pela Agência Fiocruz de Notícias (AFN) acompanham as orientações da Advocacia-Geral da União (AGU) e da Secretaria de Comunicação Social da Presidência da República (Secom). O documento esclarece que é permitida a divulgação de \"conteúdo meramente informativo ou de serviço ao cidadão\".",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 6.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
   "id": "227eea796ebe37",
   "titulo": "New global roadmap launched to tackle hypertension in pregnancy, a leading cause of maternal and newborn deaths",
   "url": "https://www.who.int/news/item/08-10-2026-new-global-roadmap-launched-to-tackle-hypertension-in-pregnancy-a-leading-cause-of-maternal-and-newborn-deaths",
@@ -1360,26 +1562,6 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
- },
- {
-  "id": "de150213e6c2a7",
-  "titulo": "Fiocruz expressa solidariedade à UFPE após incêndios",
-  "url": "https://agencia.fiocruz.br/fiocruz-expressa-solidariedade-ufpe-apos-incendios",
-  "fonte_id": "fiocruz",
-  "fonte": "Agência Fiocruz de Notícias",
-  "sigla": "Fiocruz",
-  "idioma": "pt",
-  "data": "2026-10-08",
-  "data_estimada": false,
-  "se": "2026-40",
-  "descricao": "Fiocruz expressa solidariedade à UFPE após incêndios A Fiocruz expressa solidariedade a toda a comunidade da Universidade Federal de Pernambuco (UFPE) diante dos recentes incêndios ocorridos em prédios da instituição, com danos materiais relevantes. As perdas ultrapassam os muros da UFPE e afetam toda a sociedade, beneficiada pela atuação no campo da educação e pela produção de conhecimento das instituições públicas. Além de manifestar apoio aos docentes, pesquisadores, estudantes e toda a comunidade acadêmica da UFPE neste momento de consternação e de reconstrução, a Fiocruz se põe à disposição para, no que for possível, ajudar na continuidade das atividades afetadas. Período eleitoral Durante o período eleitoral (de 4 de julho até 25 de outubro), os conteúdos digitais publicados e disponibilizados pela Agência Fiocruz de Notícias (AFN) acompanham as orientações da Advocacia-Geral da União (AGU) e da Secretaria de Comunicação Social da Presidência da República (Secom). O documento esclarece que é permitida a divulgação de \"conteúdo meramente informativo ou de serviço ao cidadão\".",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 6.5,
-  "agravos": [
-   "Saúde ambiental e clima"
-  ],
-  "escopo": "Brasil",
   "termos_evento": []
  },
  {
@@ -1496,6 +1678,26 @@
   ]
  },
  {
+  "id": "7ca4d68312b3e4",
+  "titulo": "Africa CDC exprime sa solidarité avec le Kenya et appelle à renforcer la préparation régionale face à Ebola",
+  "url": "https://africacdc.org/news-item/africa-cdc-exprime-sa-solidarite-avec-le-kenya-et-appelle-a-renforcer-la-preparation-regionale-face-a-ebola/",
+  "fonte_id": "africa-cdc",
+  "fonte": "Africa CDC | Notícias",
+  "sigla": "Africa CDC",
+  "idioma": "en",
+  "data": "2026-10-06",
+  "data_estimada": false,
+  "se": "2026-40",
+  "descricao": "Addis-Abeba, Éthiopie, 6 octobre 2026 Les Centres africains de contrôle et de prévention des maladies (Africa CDC) ont réaffirmé leur soutien au Kenya à la suite de la confirmation du premier cas importé de maladie à virus Ebola de souche Bundibugyo dans le pays et du décès du patient. S.E. Dr Jean Kaseya, Directeur général […] The post Africa CDC exprime sa solidarité avec le Kenya et appelle à renforcer la préparation régionale face à Ebola appeared first on Africa CDC .",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 7.0,
+  "agravos": [
+   "Doença pelo vírus Ebola"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": []
+ },
+ {
   "id": "8db90569526b0a",
   "titulo": "ECDC closely monitoring situation following case of pneumonia of unknown origin in Russia",
   "url": "https://www.ecdc.europa.eu/en/news-events/ecdc-closely-monitoring-situation-following-case-pneumonia-unknown-origin-russia",
@@ -1516,26 +1718,6 @@
   "termos_evento": [
    "death"
   ]
- },
- {
-  "id": "7ca4d68312b3e4",
-  "titulo": "Africa CDC exprime sa solidarité avec le Kenya et appelle à renforcer la préparation régionale face à Ebola",
-  "url": "https://africacdc.org/news-item/africa-cdc-exprime-sa-solidarite-avec-le-kenya-et-appelle-a-renforcer-la-preparation-regionale-face-a-ebola/",
-  "fonte_id": "africa-cdc",
-  "fonte": "Africa CDC | Notícias",
-  "sigla": "Africa CDC",
-  "idioma": "en",
-  "data": "2026-10-06",
-  "data_estimada": false,
-  "se": "2026-40",
-  "descricao": "Addis-Abeba, Éthiopie, 6 octobre 2026 Les Centres africains de contrôle et de prévention des maladies (Africa CDC) ont réaffirmé leur soutien au Kenya à la suite de la confirmation du premier cas importé de maladie à virus Ebola de souche Bundibugyo dans le pays et du décès du patient. S.E. Dr Jean Kaseya, Directeur général […] The post Africa CDC exprime sa solidarité avec le Kenya et appelle à renforcer la préparation régionale face à Ebola appeared first on Africa CDC .",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.0,
-  "agravos": [
-   "Doença pelo vírus Ebola"
-  ],
-  "escopo": "Internacional",
-  "termos_evento": []
  },
  {
   "id": "1450e7279e1273",
@@ -4021,51 +4203,6 @@
   ]
  },
  {
-  "id": "aa42a14f2731cf",
-  "titulo": "Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years - United States, 2021-2024",
-  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814",
-  "fonte_id": "cdc-mmwr",
-  "fonte": "CDC | MMWR",
-  "sigla": "CDC",
-  "idioma": "en",
-  "data": "2026-06-11",
-  "data_estimada": false,
-  "se": "2026-23",
-  "descricao": "This report describes the risk posed by the current Ebola outbreak to the general U.S. population.",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.5,
-  "agravos": [
-   "Doença pelo vírus Ebola"
-  ],
-  "escopo": "Américas",
-  "termos_evento": [
-   "outbreak"
-  ]
- },
- {
-  "id": "0a82b588ff850d",
-  "titulo": "Legionnaires Disease Associated with a Private-Use Hot Tub in a Vacation Rental Property - New York, October 2024-April 2025",
-  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765813",
-  "fonte_id": "cdc-mmwr",
-  "fonte": "CDC | MMWR",
-  "sigla": "CDC",
-  "idioma": "en",
-  "data": "2026-06-11",
-  "data_estimada": false,
-  "se": "2026-23",
-  "descricao": "This report describes using a transmission model to project Ebola outbreak growth over three months.",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.0,
-  "agravos": [
-   "Legionelose",
-   "Doença pelo vírus Ebola"
-  ],
-  "escopo": "Internacional",
-  "termos_evento": [
-   "outbreak"
-  ]
- },
- {
   "id": "3b19225689a868",
   "titulo": "Modeled Scenario Projections for the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026",
   "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765739",
@@ -4124,6 +4261,51 @@
   "coletado_em": "2026-10-15T16:45:38+00:00",
   "pontuacao": 9.5,
   "agravos": [
+   "Doença pelo vírus Ebola"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [
+   "outbreak"
+  ]
+ },
+ {
+  "id": "aa42a14f2731cf",
+  "titulo": "Alcohol Consumption During Pregnancy Among Women Aged 18-49 Years - United States, 2021-2024",
+  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765814",
+  "fonte_id": "cdc-mmwr",
+  "fonte": "CDC | MMWR",
+  "sigla": "CDC",
+  "idioma": "en",
+  "data": "2026-06-11",
+  "data_estimada": false,
+  "se": "2026-23",
+  "descricao": "This report describes the risk posed by the current Ebola outbreak to the general U.S. population.",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 8.5,
+  "agravos": [
+   "Doença pelo vírus Ebola"
+  ],
+  "escopo": "Américas",
+  "termos_evento": [
+   "outbreak"
+  ]
+ },
+ {
+  "id": "0a82b588ff850d",
+  "titulo": "Legionnaires Disease Associated with a Private-Use Hot Tub in a Vacation Rental Property - New York, October 2024-April 2025",
+  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765813",
+  "fonte_id": "cdc-mmwr",
+  "fonte": "CDC | MMWR",
+  "sigla": "CDC",
+  "idioma": "en",
+  "data": "2026-06-11",
+  "data_estimada": false,
+  "se": "2026-23",
+  "descricao": "This report describes using a transmission model to project Ebola outbreak growth over three months.",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 8.0,
+  "agravos": [
+   "Legionelose",
    "Doença pelo vírus Ebola"
   ],
   "escopo": "Internacional",
