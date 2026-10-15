@@ -19,12 +19,16 @@ from .util import configurar_log, log
 def main() -> int:
     configurar_log()
     p = argparse.ArgumentParser(prog="clipping", description="Clipping epidemiológico automático")
-    p.add_argument("etapa", choices=["tudo", "coletar", "clipping", "site", "repontuar"], nargs="?", default="tudo")
+    p.add_argument("etapa", choices=["tudo", "coletar", "clipping", "site", "repontuar", "testar-ia"], nargs="?", default="tudo")
     p.add_argument("--se", help="Semana epidemiológica no formato AAAASS (ex.: 202640)")
     p.add_argument("--forcar", action="store_true", help="Gera nova versão mesmo se a edição já existir")
     a = p.parse_args()
 
     from . import coletar, gerar_clipping, gerar_site
+
+    if a.etapa == "testar-ia":
+        from . import ia
+        return 0 if ia.testar() else 1
 
     if a.etapa in ("tudo", "coletar"):
         resumo = coletar.coletar()

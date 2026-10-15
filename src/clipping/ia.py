@@ -252,3 +252,25 @@ def resumo_extrativo(texto: str, limite: int = 620) -> str:
             break
         saida += (" " if saida else "") + f
     return sem_travessao(saida or truncar(texto, limite))
+
+
+def testar() -> bool:
+    """Faz uma chamada mínima a cada modelo configurado e mostra o resultado no log."""
+    chave = "ANTHROPIC_API_KEY" if _provedor() == "anthropic" else "GEMINI_API_KEY"
+    valor = os.environ.get(chave, "")
+    if not valor:
+        log.error("O segredo %s não está cadastrado no repositório.", chave)
+        return False
+    log.info("Chave %s encontrada (%d caracteres, começa com %s...).", chave, len(valor), valor[:4])
+    chamar = _anthropic if _provedor() == "anthropic" else _gemini
+    ok = False
+    for tipo in ("triagem", "resumo"):
+        for modelo in _modelos(tipo):
+            try:
+                resp = chamar(modelo, "Responda apenas com a palavra OK.", "Teste de conexão.", 50, False)
+                log.info("Modelo %s: funcionando (resposta: %s)", modelo, resp.strip()[:20])
+                ok = True
+            except Exception as erro:  # noqa: BLE001
+                log.error("Modelo %s: falhou. %s", modelo, erro)
+            time.sleep(2)
+    return ok

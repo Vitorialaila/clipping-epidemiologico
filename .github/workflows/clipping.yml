@@ -10,7 +10,7 @@ on:
         description: "Etapa a executar"
         type: choice
         default: tudo
-        options: [tudo, coletar, clipping, site, repontuar]
+        options: [tudo, coletar, clipping, site, repontuar, testar-ia]
       se:
         description: "Semana epidemiológica (AAAASS, ex.: 202640). Vazio = última SE fechada"
         required: false
