@@ -34,7 +34,7 @@ def main() -> int:
         coletar.repontuar()
     if a.etapa in ("tudo", "clipping"):
         gerar_clipping.gerar(a.se, a.forcar)
-    if a.etapa in ("tudo", "clipping", "site", "repontuar"):
+    if a.etapa in ("tudo", "coletar", "clipping", "site", "repontuar"):
         gerar_site.gerar()
     return 0
 
