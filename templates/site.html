@@ -29,9 +29,12 @@ a { color: inherit; }
 @media (min-width: 720px) { .wrap { padding: 0 32px; } }
 
 /* Topo */
-.topo { position: sticky; top: 0; z-index: 10; background: rgba(255,255,255,.94); backdrop-filter: blur(8px); border-bottom: 1px solid var(--linha); }
-.topo .wrap { display: flex; align-items: center; justify-content: space-between; height: 76px; gap: 16px; }
-.topo img { height: 52px; display: block; }
+.topo { position: sticky; top: 0; z-index: 10; background: rgba(255,255,255,.94); backdrop-filter: blur(8px); border-bottom: 1px solid transparent; transition: border-color .25s; }
+.topo .marca { opacity: 0; visibility: hidden; transform: translateY(-6px); transition: opacity .25s, transform .25s, visibility .25s; }
+.topo.compacto { border-bottom-color: var(--linha); }
+.topo.compacto .marca { opacity: 1; visibility: visible; transform: none; }
+.topo .wrap { display: flex; align-items: center; justify-content: space-between; height: 64px; gap: 16px; }
+.topo img { height: 44px; display: block; }
 .topo .marca { display: flex; align-items: center; gap: 16px; text-decoration: none; }
 .topo .marca-txt { border-left: 1px solid var(--linha); padding-left: 16px; font-size: 12.5px; line-height: 1.35; color: var(--navy); font-weight: 600; }
 .topo .marca-txt span { display: block; }
@@ -167,7 +170,12 @@ section.bloco + section.bloco { border-top: 1px solid var(--linha); }
 
 /* Feed */
 .filtros { display: grid; gap: 12px; margin-bottom: 18px; }
-@media (min-width: 820px) { .filtros { grid-template-columns: 1.4fr 1fr 1fr; } }
+@media (min-width: 640px) { .filtros { grid-template-columns: 1fr 1fr; } .filtros #busca { grid-column: 1 / -1; } }
+@media (min-width: 980px) { .filtros { grid-template-columns: 1.6fr 1fr 1fr 1fr 1fr; } .filtros #busca { grid-column: auto; } }
+.legenda-relev { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 14px; font-size: 13px; color: var(--cinza); margin: -4px 0 18px; }
+.legenda-relev .relev { padding: 0; }
+.relev-rot { display: block; text-align: right; font-size: 11px; font-weight: 600; letter-spacing: .04em; color: var(--cinza); margin-top: 4px; }
+@media (max-width: 719px) { .relev-rot { text-align: left; } }
 .filtros input, .filtros select { width: 100%; font: inherit; font-size: 15px; padding: 11px 14px; border: 1px solid var(--linha); border-radius: 10px; background: #fff; color: var(--tinta); }
 .filtros input:focus, .filtros select:focus { outline: 2px solid var(--ouro-2); border-color: var(--ouro); }
 .chips { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 22px; }
@@ -315,7 +323,20 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
         <option value="">Todas as fontes</option>
         {% for f in fontes %}<option>{{ f }}</option>{% endfor %}
       </select>
+      <select id="relevancia" aria-label="Relevância epidemiológica">
+        <option value="1">Qualquer relevância</option>
+        <option value="2">Relevância moderada ou maior</option>
+        <option value="3">Relevância alta ou maior</option>
+        <option value="4">Relevância muito alta ou maior</option>
+        <option value="5">Relevância máxima</option>
+      </select>
+      <select id="ordem" aria-label="Ordenar">
+        <option value="data">Mais recentes primeiro</option>
+        <option value="relevancia">Mais relevantes primeiro</option>
+      </select>
     </div>
+    <p class="legenda-relev"><span class="relev"><i class="on"></i><i class="on"></i><i class="on"></i><i></i><i></i></span>
+      Relevância epidemiológica estimada pela gravidade do agravo, natureza do evento (surto, alerta, óbitos), proximidade do DF e tipo de fonte.</p>
     <div class="chips" role="group" aria-label="Escopo geográfico">
       <button class="chip" data-escopo="" aria-pressed="true">Todos</button>
       {% for e in ordem_escopo %}<button class="chip e-{{ e }}" data-escopo="{{ e }}" aria-pressed="false"><span class="ponto"></span><span style="color:var(--tinta)">{{ nome_escopo[e] }}</span></button>{% endfor %}
@@ -364,24 +385,28 @@ const NOMES = {{ nome_escopo|tojson }};
 const ICONES = {{ icones_json|safe }};
 const svgIcone = (n) => `<svg viewBox="0 0 48 48" width="22" height="22" aria-hidden="true">${ICONES[n] || ICONES.alerta}</svg>`;
 const POR_PAGINA = 40;
-const estado = { busca: "", agravo: "", fonte: "", escopo: "", limite: POR_PAGINA };
+const estado = { busca: "", agravo: "", fonte: "", escopo: "", nivel: 1, ordem: "data", limite: POR_PAGINA };
+const NIVEIS = ["", "Baixa", "Moderada", "Alta", "Muito alta", "Máxima"];
+const nivelDe = (p) => Math.max(1, Math.min(5, Math.round((p - 3) / 2.5)));
 const $ = (id) => document.getElementById(id);
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const norm = (s) => String(s ?? "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
-FEED.forEach((x) => { x._b = norm([x.t, x.r, x.fn, x.a.join(" "), NOMES[x.e]].join(" ")); });
+FEED.forEach((x) => { x._b = norm([x.t, x.r, x.fn, x.a.join(" "), NOMES[x.e]].join(" ")); x.n = nivelDe(x.p); });
 
-function relevancia(p) {
-  const n = Math.max(1, Math.min(5, Math.round((p - 3) / 2.5)));
+function relevancia(n) {
   return Array.from({ length: 5 }, (_, i) => `<i class="${i < n ? "on" : ""}"></i>`).join("");
 }
 
 function filtrar() {
   const termos = norm(estado.busca).split(/\s+/).filter(Boolean);
-  return FEED.filter((x) =>
+  const lista = FEED.filter((x) =>
+    x.n >= estado.nivel &&
     (!estado.escopo || x.e === estado.escopo) &&
     (!estado.agravo || x.a.includes(estado.agravo)) &&
     (!estado.fonte || x.f === estado.fonte) &&
     termos.every((t) => x._b.includes(t)));
+  if (estado.ordem === "relevancia") lista.sort((a, b) => b.p - a.p || b.d.localeCompare(a.d));
+  return lista;
 }
 
 function render() {
@@ -395,7 +420,7 @@ function render() {
         <a class="titulo" href="${esc(x.u)}" target="_blank" rel="noopener">${esc(x.t)}</a>
         ${x.r ? `<p class="resumo">${esc(x.r)}</p>` : ""}
       </div>
-      <div class="relev" title="Relevância estimada por critérios epidemiológicos">${relevancia(x.p)}</div>
+      <div title="Relevância epidemiológica: ${NIVEIS[x.n]}"><div class="relev">${relevancia(x.n)}</div><span class="relev-rot">${NIVEIS[x.n]}</span></div>
     </li>`).join("") || '<li class="item"><div></div><div>Nenhuma notícia encontrada com esses filtros.</div></li>';
   $("mais").hidden = itens.length <= estado.limite;
 }
@@ -403,6 +428,14 @@ function render() {
 $("busca").addEventListener("input", (e) => { estado.busca = e.target.value; estado.limite = POR_PAGINA; render(); });
 $("agravo").addEventListener("change", (e) => { estado.agravo = e.target.value; estado.limite = POR_PAGINA; render(); });
 $("fonte").addEventListener("change", (e) => { estado.fonte = e.target.value; estado.limite = POR_PAGINA; render(); });
+$("relevancia").addEventListener("change", (e) => { estado.nivel = Number(e.target.value); estado.limite = POR_PAGINA; render(); });
+$("ordem").addEventListener("change", (e) => { estado.ordem = e.target.value; estado.limite = POR_PAGINA; render(); });
+// A marca no topo só aparece depois que o bloco institucional sai da tela
+(() => {
+  const topo = document.querySelector(".topo"), inst = document.querySelector(".institucional");
+  if (!inst || !("IntersectionObserver" in window)) { topo.classList.add("compacto"); return; }
+  new IntersectionObserver(([e]) => topo.classList.toggle("compacto", !e.isIntersecting), { rootMargin: "-64px 0px 0px 0px" }).observe(inst);
+})();
 document.querySelectorAll(".chip").forEach((b) => b.addEventListener("click", () => {
   document.querySelectorAll(".chip").forEach((c) => c.setAttribute("aria-pressed", String(c === b)));
   estado.escopo = b.dataset.escopo; estado.limite = POR_PAGINA; render();
