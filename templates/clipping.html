@@ -293,21 +293,7 @@ a { color: inherit; text-decoration: none; }
 </section>
 {% endfor %}
 
-{% if outras %}
-<section class="outras">
-  <div class="secao-titulo"><h2>Outras notícias monitoradas</h2><span class="qtd">sem resumo</span></div>
-  <table>
-    {% for o in outras %}
-    <tr>
-      <td class="d">{{ o.data_fmt }}</td>
-      <td class="f">{{ o.fonte }}</td>
-      <td class="s"><span class="selo e-{{ o.escopo }}">{{ nome_escopo[o.escopo] }}</span></td>
-      <td class="t"><a href="{{ o.url }}">{{ o.titulo }}</a></td>
-    </tr>
-    {% endfor %}
-  </table>
-</section>
-{% endif %}
+
 
 <section class="nota">
   <b>Nota metodológica</b>

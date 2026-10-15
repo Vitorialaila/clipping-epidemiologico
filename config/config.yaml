@@ -30,7 +30,7 @@ clipping:
   destaques: 10
   # Máximo de destaques sobre o mesmo agravo (evita repetir o mesmo evento)
   max_por_agravo: 2
-  # Notícias adicionais listadas sem resumo, ao final do PDF
+  # Notícias adicionais sem resumo (não aparecem no PDF; ficam só nos dados da edição)
   outras_noticias: 12
 
 imagens:
