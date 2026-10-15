@@ -12,7 +12,7 @@ from functools import lru_cache
 
 from .util import ASSETS, normalizar
 
-COR_ESCOPO = {"DF": "#B8921A", "Brasil": "#0B7A32", "Américas": "#1E4E8C", "Internacional": "#5C6B82"}
+COR_ESCOPO = {"DF": "#B8921A", "RIDE": "#2F7F7A", "Brasil": "#0B7A32", "Américas": "#1E4E8C", "Internacional": "#5C6B82"}
 TERRA, BORDA, MAR, TINTA = "#E3E6EB", "#FFFFFF", "#F6F7F9", "#0A3570"
 DESTAQUE = "#9FB2CC"  # países e UFs com evento: um único tom, sem cores por escopo
 
@@ -68,7 +68,7 @@ def localizar(texto: str, escopo: str = "") -> tuple[list[str], str]:
         if cod not in paises:
             paises.append(cod)
     uf = ""
-    if escopo in ("DF", "Brasil") or "BRA" in paises:
+    if escopo in ("DF", "RIDE", "Brasil") or "BRA" in paises:
         n_uf, p_uf = _indice_ufs()
         m = p_uf.search(alvo)
         uf = n_uf[m.group(1)] if m else ("DF" if escopo == "DF" else "")
@@ -176,14 +176,14 @@ def mapa_semana(eventos: list[dict], largura: int = 1000, tema: str = "claro") -
         estilo = f'fill="{cor}" fill-opacity="{t["opac"]}"' if cor else f'fill="{t["terra"]}"'
         camadas.append(f'<path d="{_caminho(p["p"], proj)}" {estilo} stroke="{t["borda"]}" stroke-width=".5"/>')
 
-    tem_brasil = any(e["escopo"] in ("DF", "Brasil") or e.get("uf") for e in eventos)
+    tem_brasil = any(e["escopo"] in ("DF", "RIDE", "Brasil") or e.get("uf") for e in eventos)
     pontos, rotulos = [], []
     insercao = ""
     if tem_brasil:
-        insercao, pts_br = _insercao_brasil([e for e in eventos if e["escopo"] in ("DF", "Brasil") or e.get("uf")],
+        insercao, pts_br = _insercao_brasil([e for e in eventos if e["escopo"] in ("DF", "RIDE", "Brasil") or e.get("uf")],
                                             x0=12, y0=altura * 0.50, lado=altura * 0.47, t=t)
     for e in eventos:
-        if e["escopo"] in ("DF", "Brasil") or e.get("uf"):
+        if e["escopo"] in ("DF", "RIDE", "Brasil") or e.get("uf"):
             continue
         cods = [c for c in e.get("paises", []) if c in mundo]
         if not cods:

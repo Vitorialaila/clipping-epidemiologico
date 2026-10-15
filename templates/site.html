@@ -18,7 +18,7 @@
   --navy: #0A3570; --navy-2: #1E4E8C; --ouro: #B8921A; --ouro-2: #D9C17A; --ouro-3: #F4ECD3;
   --verde: #0B7A32; --tinta: #1B2230; --texto: #3A4352; --cinza: #6A7282; --linha: #E5E1D6;
   --creme: #FBF8F0; --fundo: #FFFFFF;
-  --df: #B8921A; --brasil: #0B7A32; --americas: #1E4E8C; --internacional: #5C6B82;
+  --df: #B8921A; --ride: #2F7F7A; --brasil: #0B7A32; --americas: #1E4E8C; --internacional: #5C6B82;
   --serif: "DM Serif Display", Georgia, serif; --sans: "IBM Plex Sans", system-ui, sans-serif;
 }
 * { box-sizing: border-box; }
@@ -80,7 +80,7 @@ a { color: inherit; }
 .mapa-capa figcaption .rot { font-size: 11px; letter-spacing: .2em; text-transform: uppercase; font-weight: 700; color: #fff; }
 .mapa-capa .leg { display: flex; flex-wrap: wrap; gap: 6px 14px; margin-left: auto; }
 .capa .selo.e-DF { color: #E2BE4A; } .capa .selo.e-Brasil { color: #3DBA6B; }
-.capa .selo.e-Américas { color: #6FA3E8; } .capa .selo.e-Internacional { color: #A9B6C9; }
+.capa .selo.e-RIDE { color: #5FC2B8; } .capa .selo.e-Américas { color: #6FA3E8; } .capa .selo.e-Internacional { color: #A9B6C9; }
 .capa .acoes { margin-top: 30px; }
 .capa .btn.primario { background: #D9B23C; border-color: #D9B23C; color: #061B3F; }
 .capa .btn.primario:hover { background: #E7C55A; border-color: #E7C55A; }
@@ -116,11 +116,11 @@ a { color: inherit; }
 .kpi { padding: 14px 12px 14px 0; border-bottom: 1px solid var(--linha); }
 .kpi .v { display: block; font-family: var(--serif); font-size: 36px; line-height: 1; color: var(--navy); }
 .kpi .l { display: block; margin-top: 6px; font-size: 11px; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; }
-.kpi.e-DF .v, .kpi.e-Brasil .v, .kpi.e-Américas .v, .kpi.e-Internacional .v { color: currentColor; }
+.kpi.e-DF .v, .kpi.e-RIDE .v, .kpi.e-Brasil .v, .kpi.e-Américas .v, .kpi.e-Internacional .v { color: currentColor; }
 .kpi .l.neutro { color: var(--cinza); }
 .vazio { background: var(--creme); border-left: 4px solid var(--ouro); padding: 18px 20px; font-size: 16px; color: var(--tinta); }
 
-.e-DF { color: var(--df); } .e-Brasil { color: var(--brasil); } .e-Américas { color: var(--americas); } .e-Internacional { color: var(--internacional); }
+.e-DF { color: var(--df); } .e-RIDE { color: var(--ride); } .e-Brasil { color: var(--brasil); } .e-Américas { color: var(--americas); } .e-Internacional { color: var(--internacional); }
 .selo { display: inline-flex; align-items: center; gap: 7px; font-size: 11px; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; white-space: nowrap; }
 .selo::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: currentColor; }
 
@@ -155,7 +155,7 @@ section.bloco + section.bloco { border-top: 1px solid var(--linha); }
 .mapa-semana figcaption { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 16px; margin-top: 10px; font-size: 13px; color: var(--cinza); }
 .mapa-semana figcaption .rotulo { margin: 0; }
 .mapa-semana .leg { display: flex; flex-wrap: wrap; gap: 6px 14px; margin-left: auto; }
-.fundo-DF, .fundo-Brasil, .fundo-Américas, .fundo-Internacional { background: var(--navy); }
+.fundo-DF, .fundo-RIDE, .fundo-Brasil, .fundo-Américas, .fundo-Internacional { background: var(--navy); }
 .visual { position: relative; margin: 0 0 16px; border-radius: 10px; overflow: hidden; }
 .visual.mapa img { width: 100%; aspect-ratio: 32 / 15; object-fit: cover; display: block; }
 .card.principal .visual.mapa img { aspect-ratio: 32 / 11; }
@@ -171,7 +171,7 @@ section.bloco + section.bloco { border-top: 1px solid var(--linha); }
 /* Feed */
 .filtros { display: grid; gap: 12px; margin-bottom: 18px; }
 @media (min-width: 640px) { .filtros { grid-template-columns: 1fr 1fr; } .filtros #busca { grid-column: 1 / -1; } }
-@media (min-width: 980px) { .filtros { grid-template-columns: repeat(3, 1fr); } .filtros #busca { grid-column: auto; } }
+@media (min-width: 980px) { .filtros { grid-template-columns: repeat(4, 1fr); } .filtros #busca { grid-column: span 2; } }
 .legenda-relev { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 14px; font-size: 13px; color: var(--cinza); margin: -4px 0 18px; }
 .legenda-relev .relev { padding: 0; }
 .relev-rot { display: block; text-align: right; font-size: 11px; font-weight: 600; letter-spacing: .04em; color: var(--cinza); margin-top: 4px; }
@@ -283,6 +283,10 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
       <select id="fonte" aria-label="Fonte">
         <option value="">Todas as fontes</option>
         {% for f in fontes %}<option>{{ f }}</option>{% endfor %}
+      </select>
+      <select id="municipio" aria-label="DF e municípios da RIDE-DF">
+        <option value="">DF e RIDE-DF: todos</option>
+        {% for m in municipios %}<option>{{ m }}</option>{% endfor %}
       </select>
       <select id="semana" aria-label="Semana epidemiológica">
         <option value="">Todas as semanas</option>
@@ -406,13 +410,13 @@ const NOMES = {{ nome_escopo|tojson }};
 const ICONES = {{ icones_json|safe }};
 const svgIcone = (n) => `<svg viewBox="0 0 48 48" width="22" height="22" aria-hidden="true">${ICONES[n] || ICONES.alerta}</svg>`;
 const POR_PAGINA = 40;
-const estado = { busca: "", agravo: "", fonte: "", escopo: "", se: "", nivel: 1, ordem: "data", limite: POR_PAGINA };
+const estado = { busca: "", agravo: "", fonte: "", escopo: "", se: "", municipio: "", nivel: 1, ordem: "data", limite: POR_PAGINA };
 const NIVEIS = ["", "Baixa", "Moderada", "Alta", "Muito alta", "Máxima"];
 const nivelDe = (p) => Math.max(1, Math.min(5, Math.round((p - 3) / 2.5)));
 const $ = (id) => document.getElementById(id);
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const norm = (s) => String(s ?? "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
-FEED.forEach((x) => { x._b = norm([x.t, x.r, x.fn, x.a.join(" "), NOMES[x.e]].join(" ")); x.n = nivelDe(x.p); });
+FEED.forEach((x) => { x.m = x.m || []; x._b = norm([x.t, x.r, x.fn, x.a.join(" "), NOMES[x.e], x.m.join(" ")].join(" ")); x.n = nivelDe(x.p); });
 
 function relevancia(n) {
   return Array.from({ length: 5 }, (_, i) => `<i class="${i < n ? "on" : ""}"></i>`).join("");
@@ -423,6 +427,7 @@ function filtrar() {
   const lista = FEED.filter((x) =>
     x.n >= estado.nivel &&
     (!estado.se || x.se === estado.se) &&
+    (!estado.municipio || x.m.includes(estado.municipio)) &&
     (!estado.escopo || x.e === estado.escopo) &&
     (!estado.agravo || x.a.includes(estado.agravo)) &&
     (!estado.fonte || x.f === estado.fonte) &&
@@ -450,6 +455,7 @@ function render() {
 $("busca").addEventListener("input", (e) => { estado.busca = e.target.value; estado.limite = POR_PAGINA; render(); });
 $("agravo").addEventListener("change", (e) => { estado.agravo = e.target.value; estado.limite = POR_PAGINA; render(); });
 $("fonte").addEventListener("change", (e) => { estado.fonte = e.target.value; estado.limite = POR_PAGINA; render(); });
+$("municipio").addEventListener("change", (e) => { estado.municipio = e.target.value; estado.limite = POR_PAGINA; render(); });
 $("semana").addEventListener("change", (e) => { estado.se = e.target.value; estado.limite = POR_PAGINA; render(); });
 $("relevancia").addEventListener("change", (e) => { estado.nivel = Number(e.target.value); estado.limite = POR_PAGINA; render(); });
 $("ordem").addEventListener("change", (e) => { estado.ordem = e.target.value; estado.limite = POR_PAGINA; render(); });

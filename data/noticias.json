@@ -17,7 +17,8 @@
    "Influenza e vírus respiratórios"
   ],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "784353cd2bdb19",
@@ -39,7 +40,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "surveillance"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "8586dd9a6562e5",
@@ -59,7 +61,8 @@
    "Intoxicações"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "ea0674188119d6",
@@ -77,7 +80,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "483cf695287b46",
@@ -95,7 +99,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "0cec7e097c8894",
@@ -113,7 +118,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "cd5de916976353",
@@ -131,7 +137,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "bcc09829a9292c",
@@ -151,7 +158,8 @@
   "escopo": "Brasil",
   "termos_evento": [
    "investigacao"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "31c6744c67e404",
@@ -169,7 +177,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "8e5e306c8c31f5",
@@ -187,7 +196,10 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": [
+   "Distrito Federal"
+  ]
  },
  {
   "id": "a3f78573815eff",
@@ -209,7 +221,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "354d57eb163dde",
@@ -231,7 +244,8 @@
    "Arboviroses"
   ],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "7f84ffc8d0d66b",
@@ -253,7 +267,8 @@
   "escopo": "Brasil",
   "termos_evento": [
    "vigilancia"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "7b04918efc06e1",
@@ -273,7 +288,8 @@
   "escopo": "Brasil",
   "termos_evento": [
    "vigilancia"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "150fd98172e17b",
@@ -293,7 +309,8 @@
   "escopo": "Brasil",
   "termos_evento": [
    "vigilancia"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "0f8f1fe2a09c29",
@@ -311,7 +328,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "9e01a5bb30bfe0",
@@ -329,7 +347,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "de8df59832a7e3",
@@ -347,7 +366,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "d8eeea301a9174",
@@ -365,7 +385,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "78f8288d1174b9",
@@ -383,7 +404,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "13b3613d12b16b",
@@ -401,7 +423,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "ea3bbbb78312f7",
@@ -419,7 +442,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "3d9519bc2d4cef",
@@ -437,7 +461,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "6996d5464a707c",
@@ -457,7 +482,8 @@
   "escopo": "Brasil",
   "termos_evento": [
    "vigilancia"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "444f45091f8c00",
@@ -477,7 +503,8 @@
   "escopo": "Brasil",
   "termos_evento": [
    "surge"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "ffbb85d7791cc4",
@@ -495,7 +522,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "fdd67c645e66d4",
@@ -513,7 +541,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "7ace693970904f",
@@ -531,7 +560,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "8c3f3ea87726ee",
@@ -549,7 +579,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "3223f15a0d3640",
@@ -567,7 +598,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "e701a34d8483e8",
@@ -585,7 +617,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "b13bd1003539ce",
@@ -603,7 +636,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "bf5e8991be2974",
@@ -621,7 +655,10 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": [
+   "Distrito Federal"
+  ]
  },
  {
   "id": "1c13c35a5d943b",
@@ -641,7 +678,8 @@
    "Saúde ambiental e clima"
   ],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "87a34c55d97156",
@@ -661,7 +699,8 @@
    "Saúde ambiental e clima"
   ],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "585cd4e9f6d06c",
@@ -679,7 +718,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "d77d76866ba89e",
@@ -697,7 +737,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "7c412a86ec5810",
@@ -715,7 +756,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "504611079fa1c2",
@@ -733,7 +775,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "18630d0b176d42",
@@ -751,7 +794,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "a12580ef110aab",
@@ -769,7 +813,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "3a534d1503e652",
@@ -787,7 +832,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "fb9994a8650c13",
@@ -805,7 +851,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "e815170211894e",
@@ -823,7 +870,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "e2a3e4acc21339",
@@ -841,7 +889,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "6dbbcd282ff222",
@@ -859,7 +908,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "20e840b6e583db",
@@ -877,7 +927,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "961615cc9b96cb",
@@ -895,7 +946,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "8a3feeafd8b65b",
@@ -913,7 +965,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "cb5c33a1030290",
@@ -931,7 +984,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "9d704f1ce8c0ea",
@@ -949,7 +1003,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "11d020e274c76b",
@@ -967,7 +1022,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "7f8e378aaa35dc",
@@ -985,7 +1041,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "de554aee478d43",
@@ -1003,7 +1060,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "da853a04de2cb3",
@@ -1021,7 +1079,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "bb22b6427c2f25",
@@ -1039,7 +1098,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "69c18c57ddfbaf",
@@ -1057,7 +1117,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "00c64e819487bc",
@@ -1075,7 +1136,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "334a3a13e22de8",
@@ -1095,7 +1157,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreaks"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "c17311d539e641",
@@ -1113,7 +1176,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "b3ed883cdfc66b",
@@ -1131,7 +1195,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "41290be641b58d",
@@ -1149,7 +1214,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "8022336bc29dcd",
@@ -1173,7 +1239,8 @@
   "termos_evento": [
    "international health regulations",
    "death"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "d1038f88d5be6f",
@@ -1195,7 +1262,8 @@
   "escopo": "Brasil",
   "termos_evento": [
    "vigilancia"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "eefe939cf644be",
@@ -1215,7 +1283,8 @@
    "Malária"
   ],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "eaa3871d571417",
@@ -1235,7 +1304,8 @@
    "Emergências e desastres"
   ],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "f59d9cd1de9877",
@@ -1253,7 +1323,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "4a6a953e2fbe01",
@@ -1273,7 +1344,8 @@
    "Sarampo"
   ],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "558790e1fd37f1",
@@ -1295,7 +1367,8 @@
    "Doença pelo vírus Ebola"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "67f3e1af89909c",
@@ -1313,7 +1386,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "1085b48e24feed",
@@ -1331,7 +1405,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "57ac92ee030f2b",
@@ -1349,7 +1424,10 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": [
+   "Cavalcante (GO)"
+  ]
  },
  {
   "id": "0851abe4e83182",
@@ -1367,7 +1445,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "e8567c263b501a",
@@ -1385,7 +1464,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "e8caacfc430bfa",
@@ -1403,7 +1483,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "fef2b92c856293",
@@ -1421,7 +1502,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "003a6aae4a1c12",
@@ -1445,7 +1527,8 @@
    "disease outbreak news",
    "imported case",
    "deaths"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "7ec1c4bea23918",
@@ -1466,7 +1549,8 @@
    "COVID-19"
   ],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "de150213e6c2a7",
@@ -1484,7 +1568,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "227eea796ebe37",
@@ -1504,7 +1589,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "deaths"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "b572d7cd19215d",
@@ -1524,7 +1610,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "investigation"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "1eac167db8554b",
@@ -1542,7 +1629,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "cb80697fc9204b",
@@ -1560,7 +1648,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "f1847b7db5a8d8",
@@ -1578,7 +1667,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "37ba6a0811a386",
@@ -1596,7 +1686,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "d8341640ef4b0b",
@@ -1614,7 +1705,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "12368f9b3521e9",
@@ -1632,7 +1724,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "8f8627caa05daf",
@@ -1650,7 +1743,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "06da789bb39fb1",
@@ -1673,7 +1767,8 @@
   "termos_evento": [
    "imported case",
    "death"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "7ca4d68312b3e4",
@@ -1693,7 +1788,8 @@
    "Doença pelo vírus Ebola"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "8db90569526b0a",
@@ -1715,7 +1811,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "death"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "1450e7279e1273",
@@ -1735,7 +1832,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "surveillance"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "4b0107fff1418c",
@@ -1753,7 +1851,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "4a5c1c7dac0f86",
@@ -1771,7 +1870,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "00e062786d39b9",
@@ -1791,7 +1891,8 @@
    "Chikungunya"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "536ff8de353db7",
@@ -1811,7 +1912,8 @@
    "Resistência antimicrobiana"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "03ca9a0f54f313",
@@ -1829,7 +1931,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "29d70c28a4cf83",
@@ -1847,7 +1950,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "37ab9fcfe99bf0",
@@ -1865,7 +1969,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "51ab4f502e47f7",
@@ -1885,7 +1990,8 @@
    "Doença pelo vírus Ebola"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "4c519eb686ab0a",
@@ -1905,7 +2011,8 @@
    "Doença pelo vírus Ebola"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "f2e053642903ba",
@@ -1925,7 +2032,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "public health emergency"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "4b0e96aa1506d6",
@@ -1947,7 +2055,8 @@
    "Doença pelo vírus Ebola"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "c3280633153284",
@@ -1965,7 +2074,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "5ddfb32e8ee84a",
@@ -1983,7 +2093,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "578a629e4d17d8",
@@ -2005,7 +2116,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "fatal"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "a0499f2f5019bc",
@@ -2026,7 +2138,8 @@
    "Arboviroses"
   ],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "19b61ffed46693",
@@ -2046,7 +2159,8 @@
    "Doença pelo vírus Ebola"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "76a92ed20c087b",
@@ -2068,7 +2182,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "surveillance"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "f48204c71a7597",
@@ -2088,7 +2203,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreaks"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "3a245e7cb5455e",
@@ -2106,7 +2222,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "811de711dc18fc",
@@ -2124,7 +2241,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "ddecc3b13ba4c8",
@@ -2144,7 +2262,8 @@
    "Doenças transmitidas por alimentos e água"
   ],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "0ffeb3c4f85df6",
@@ -2162,7 +2281,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "050c71a02d595b",
@@ -2180,7 +2300,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "3c4ce1fbd22be1",
@@ -2198,7 +2319,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "fe95068d0d1355",
@@ -2216,7 +2338,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "fda917748b6e2c",
@@ -2236,7 +2359,8 @@
   "escopo": "Américas",
   "termos_evento": [
    "deaths"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "a17e4752c519f8",
@@ -2254,7 +2378,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "7611b9473155a1",
@@ -2272,7 +2397,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "2a062cc409b134",
@@ -2294,7 +2420,8 @@
    "Doença meningocócica e meningites"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "b3d6c1435fda73",
@@ -2314,7 +2441,8 @@
    "Síndrome respiratória e coronavírus emergentes"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "dd0e63ace64303",
@@ -2335,7 +2463,8 @@
   "termos_evento": [
    "deaths",
    "surveillance"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "c01fb9675640b2",
@@ -2353,7 +2482,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "23bdbe2afef8f1",
@@ -2371,7 +2501,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "96bbaebbd68b80",
@@ -2391,7 +2522,8 @@
    "Cólera"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "a3d82677148351",
@@ -2411,7 +2543,8 @@
    "Dengue"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "055c01c2ea9a19",
@@ -2429,7 +2562,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "54e8cfac7b9f8e",
@@ -2453,7 +2587,8 @@
    "disease outbreak news",
    "confirmed cases",
    "deaths"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "3c6392072f80f0",
@@ -2475,7 +2610,8 @@
    "Febre do Nilo Ocidental"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "16fef2a9a6066a",
@@ -2495,7 +2631,8 @@
    "Influenza e vírus respiratórios"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "f21067b1e206f8",
@@ -2513,7 +2650,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "d4079b524685aa",
@@ -2531,7 +2669,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "e16e97e5b5708f",
@@ -2549,7 +2688,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "85c13df082a1a9",
@@ -2571,7 +2711,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreaks"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "8ac053df2fb1a3",
@@ -2593,7 +2734,8 @@
   "escopo": "Américas",
   "termos_evento": [
    "outbreak"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "72f41a0931ebb3",
@@ -2614,7 +2756,8 @@
   "termos_evento": [
    "outbreak",
    "investigation"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "e5947acfa9b990",
@@ -2632,7 +2775,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "82e085c44cecbd",
@@ -2650,7 +2794,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "ad0b2900554e69",
@@ -2668,7 +2813,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "f43fa66c63e7ee",
@@ -2688,7 +2834,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "death"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "5f1ef91a0836b0",
@@ -2706,7 +2853,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "60d117796e08b2",
@@ -2724,7 +2872,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "9a6447d846140b",
@@ -2742,7 +2891,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "4b4f1d0cb19613",
@@ -2760,7 +2910,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "cd6a7f69853ee9",
@@ -2778,7 +2929,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "8ff993fd857a52",
@@ -2800,7 +2952,8 @@
    "Febres hemorrágicas virais"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "2d8e47acc2afdf",
@@ -2820,7 +2973,8 @@
    "Sífilis"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "ef5a9ce898c59b",
@@ -2840,7 +2994,8 @@
    "Saúde ambiental e clima"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "67dacb60832547",
@@ -2862,7 +3017,8 @@
    "Febre do Nilo Ocidental"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "a131366160f4a1",
@@ -2887,7 +3043,8 @@
    "confirmed cases",
    "deaths",
    "increase in cases"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "6b5dfee977b539",
@@ -2909,7 +3066,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "5d92dd10e1791a",
@@ -2931,7 +3089,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "8b91759419cf72",
@@ -2951,7 +3110,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "deaths"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "d0366e3ad0143e",
@@ -2972,7 +3132,8 @@
   "termos_evento": [
    "death",
    "surveillance"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "c0e31bfdfb8d81",
@@ -2994,7 +3155,8 @@
    "Doença pelo vírus Ebola"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "1f48276a2e8495",
@@ -3014,7 +3176,8 @@
    "Imunização"
   ],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "aaa719dfcbfb5b",
@@ -3034,7 +3197,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "deaths"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "4833901b90c0df",
@@ -3054,7 +3218,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "deaths"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "2b81df1fcde039",
@@ -3079,7 +3244,8 @@
    "disease outbreak news",
    "confirmed cases",
    "deaths"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "ecef5d8481a2ea",
@@ -3101,7 +3267,8 @@
    "Doença pelo vírus Ebola"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "97def1cecc1454",
@@ -3123,7 +3290,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "5ffdf0a2028fce",
@@ -3141,7 +3309,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "a2795bd9c359f9",
@@ -3164,7 +3333,8 @@
   "escopo": "Américas",
   "termos_evento": [
    "epidemiological update"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "bf708f1dd111d0",
@@ -3186,7 +3356,8 @@
    "Doença pelo vírus Ebola"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "0e7b211e4e036c",
@@ -3209,7 +3380,8 @@
   "termos_evento": [
    "epidemiological update",
    "imported case"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "8b4dde5b3b950a",
@@ -3231,7 +3403,8 @@
   "escopo": "Américas",
   "termos_evento": [
    "surveillance"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "5772881c30f42d",
@@ -3253,7 +3426,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "a49d9b1cfb177c",
@@ -3273,7 +3447,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "death"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "cf7fedaca5439d",
@@ -3299,7 +3474,8 @@
    "outbreak",
    "confirmed case",
    "deaths"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "df675c669733b8",
@@ -3321,7 +3497,8 @@
    "Doença pelo vírus Ebola"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "9c8a3ae28d5920",
@@ -3341,7 +3518,8 @@
    "HIV/aids e IST"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "d57c399cae2128",
@@ -3361,7 +3539,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "surveillance"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "8a66600168b428",
@@ -3383,7 +3562,8 @@
   "escopo": "Américas",
   "termos_evento": [
    "epidemiological alert"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "78b1a0e0e76c1c",
@@ -3405,7 +3585,8 @@
    "Febre do Nilo Ocidental"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "71d879d29114ac",
@@ -3427,7 +3608,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "deaths"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "eba1acd51a8416",
@@ -3445,7 +3627,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "3bfa829676563f",
@@ -3471,7 +3654,8 @@
    "confirmed cases",
    "deaths",
    "increase in cases"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "6bb6c8565cf2ae",
@@ -3492,7 +3676,8 @@
    "Arboviroses"
   ],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "c9c51a2b84e7f6",
@@ -3514,7 +3699,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "surveillance"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "1c87e230c3dbe3",
@@ -3534,7 +3720,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "surveillance"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "84fc7d700f5449",
@@ -3554,7 +3741,8 @@
    "Doença meningocócica e meningites"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "c383fa6b966aec",
@@ -3574,7 +3762,8 @@
    "Rubéola"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "a0f9672769ef0e",
@@ -3592,7 +3781,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "75d465aa366f64",
@@ -3617,7 +3807,8 @@
    "confirmed cases",
    "deaths",
    "surveillance"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "3da68338f79598",
@@ -3639,7 +3830,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "surveillance"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "16db85278b237b",
@@ -3657,7 +3849,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "7bf569891e9dd1",
@@ -3675,7 +3868,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "401bd450152d09",
@@ -3699,7 +3893,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreaks"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "636815b2953ade",
@@ -3719,7 +3914,8 @@
   "escopo": "Américas",
   "termos_evento": [
    "epidemiological alert"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "4d9d4afe532e9c",
@@ -3739,7 +3935,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "surveillance"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "9b8b4c381cb56a",
@@ -3763,7 +3960,8 @@
    "outbreak",
    "confirmed cases",
    "deaths"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "ef5662d2a82033",
@@ -3790,7 +3988,8 @@
    "confirmed cases",
    "deaths",
    "notification"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "616469ada288b7",
@@ -3810,7 +4009,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreaks"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "dac6078d90f440",
@@ -3828,7 +4028,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "bcaec43154a6dc",
@@ -3846,7 +4047,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "b485e87f4a93ae",
@@ -3868,7 +4070,8 @@
   "escopo": "Américas",
   "termos_evento": [
    "epidemiological alert"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "3891223afb825e",
@@ -3890,7 +4093,8 @@
   "escopo": "Américas",
   "termos_evento": [
    "surveillance"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "8898a0bf403713",
@@ -3913,7 +4117,8 @@
   "termos_evento": [
    "confirmed case",
    "surveillance"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "e19d211a52cd88",
@@ -3936,7 +4141,8 @@
   "termos_evento": [
    "outbreak",
    "confirmed cases"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "a434f5eee04a48",
@@ -3956,7 +4162,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "deaths"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "656e67ab8b1416",
@@ -3974,7 +4181,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "9add3cc171f681",
@@ -3999,7 +4207,8 @@
    "outbreaks",
    "rapid risk assessment",
    "investigation"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "d51cca4b9907bb",
@@ -4023,7 +4232,8 @@
    "outbreak",
    "confirmed cases",
    "deaths"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "1e685749cf45cd",
@@ -4045,7 +4255,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "79e1d41165b9ee",
@@ -4065,7 +4276,8 @@
    "Legionelose"
   ],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "6b4631b786acbb",
@@ -4085,7 +4297,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "rapid risk assessment"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "a8c734200d98e5",
@@ -4109,7 +4322,8 @@
    "outbreaks",
    "death",
    "surveillance"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "80f7deb70a5af1",
@@ -4129,7 +4343,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "surveillance"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "8f4f4ed5785df9",
@@ -4153,7 +4368,8 @@
    "outbreak",
    "confirmed cases",
    "deaths"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "b5cf078f7ab28a",
@@ -4175,7 +4391,8 @@
   "escopo": "Américas",
   "termos_evento": [
    "epidemiological alert"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "4f5961dd404328",
@@ -4198,7 +4415,8 @@
   "termos_evento": [
    "outbreak",
    "death"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "3b19225689a868",
@@ -4220,7 +4438,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "bb211f7d6bdcfb",
@@ -4242,7 +4461,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "7aeab5c05b33d4",
@@ -4264,7 +4484,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "aa42a14f2731cf",
@@ -4286,7 +4507,8 @@
   "escopo": "Américas",
   "termos_evento": [
    "outbreak"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "0a82b588ff850d",
@@ -4309,7 +4531,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "2e0a2d796cd285",
@@ -4329,7 +4552,8 @@
    "Doença pelo vírus Ebola"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "afe63c27b7bf62",
@@ -4353,7 +4577,8 @@
    "outbreak",
    "confirmed cases",
    "deaths"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "35e0f3b9ccf185",
@@ -4375,7 +4600,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "2ce5d6d3b55923",
@@ -4397,7 +4623,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "f70e50d290df69",
@@ -4420,7 +4647,8 @@
   "termos_evento": [
    "outbreak",
    "risk assessment"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "d8a2a97413f28e",
@@ -4445,7 +4673,8 @@
    "confirmed cases",
    "deaths",
    "surveillance"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "6f4efd08389363",
@@ -4467,7 +4696,8 @@
   "escopo": "Américas",
   "termos_evento": [
    "epidemiological alert"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "1963550c041a51",
@@ -4494,7 +4724,8 @@
    "confirmed cases",
    "deaths",
    "notification"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "1f12ce7bff7f72",
@@ -4516,7 +4747,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "905f8eceb4ff9d",
@@ -4538,7 +4770,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "3691f4a914201d",
@@ -4560,7 +4793,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "a6b42d5a291488",
@@ -4585,7 +4819,8 @@
    "outbreak",
    "confirmed cases",
    "deaths"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "f0bbf66e0be04d",
@@ -4610,7 +4845,8 @@
    "outbreak",
    "threat assessment",
    "case fatality"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "b68aec5207c439",
@@ -4632,7 +4868,8 @@
   "escopo": "Américas",
   "termos_evento": [
    "epidemiological alert"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "b142eafb4b82b0",
@@ -4654,7 +4891,8 @@
   "escopo": "Américas",
   "termos_evento": [
    "outbreak"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "583c956b0bd5d7",
@@ -4672,7 +4910,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "87465658e8d05c",
@@ -4695,7 +4934,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "epidemiological update"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "afbad4421dd253",
@@ -4717,7 +4957,8 @@
   "escopo": "Américas",
   "termos_evento": [
    "investigation"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "6faf236844dbdf",
@@ -4742,7 +4983,8 @@
    "outbreak",
    "imported case",
    "deaths"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "32715f9a9360ff",
@@ -4760,7 +5002,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "73c7d9ee1e3265",
@@ -4781,7 +5024,8 @@
    "Influenza e vírus respiratórios"
   ],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "a25caf0fefe694",
@@ -4801,7 +5045,8 @@
    "Dengue"
   ],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "6accd1a2f5839c",
@@ -4829,7 +5074,8 @@
    "confirmed cases",
    "deaths",
    "notification"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "4aedb5044ae58d",
@@ -4849,7 +5095,8 @@
    "Mpox"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "2b1c50a21418dd",
@@ -4869,7 +5116,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "56e03357f71cf1",
@@ -4897,7 +5145,8 @@
    "confirmed case",
    "deaths",
    "notification"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "ea8504c2d36a8a",
@@ -4920,7 +5169,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "fatal"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "e3637e97738c24",
@@ -4941,7 +5191,8 @@
    "Influenza e vírus respiratórios"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "fc341c9b35b02b",
@@ -4965,7 +5216,8 @@
    "cluster",
    "threat assessment",
    "deaths"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "817e1c132cc307",
@@ -4992,7 +5244,8 @@
    "confirmed cases",
    "deaths",
    "notification"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "ece191dfdd4eff",
@@ -5014,7 +5267,8 @@
   "escopo": "Américas",
   "termos_evento": [
    "outbreaks"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "b197a08136f361",
@@ -5034,7 +5288,8 @@
    "Encefalites virais"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "3b2dd38dea96fc",
@@ -5056,7 +5311,8 @@
   "escopo": "Américas",
   "termos_evento": [
    "epidemiological alert"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "3f47bd94ac9d27",
@@ -5082,7 +5338,8 @@
    "outbreak",
    "deaths",
    "surveillance"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "2be8ab9b1f8418",
@@ -5104,7 +5361,8 @@
   "escopo": "Américas",
   "termos_evento": [
    "epidemiological update"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "b2f808430ed1af",
@@ -5124,7 +5382,8 @@
    "Mpox"
   ],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "a048218155ff03",
@@ -5145,7 +5404,8 @@
    "Imunização"
   ],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "3366de8a9411c7",
@@ -5163,7 +5423,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "3f964951c7dce6",
@@ -5181,7 +5442,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "512f6be83e9795",
@@ -5201,7 +5463,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "surveillance"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "0de439517d7623",
@@ -5224,7 +5487,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "international health regulations"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "02a38751b6dcca",
@@ -5242,7 +5506,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "f0519ea5a3fd56",
@@ -5260,7 +5525,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "2a27bed6ae1253",
@@ -5282,7 +5548,8 @@
    "Imunização"
   ],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "0ba404a5d57652",
@@ -5300,7 +5567,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "39b9522ce2da42",
@@ -5320,7 +5588,8 @@
    "Imunização"
   ],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "5fc528ca6898a2",
@@ -5338,7 +5607,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "a4ea83c71a66b9",
@@ -5360,7 +5630,8 @@
   "escopo": "Américas",
   "termos_evento": [
    "epidemiological update"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "74149d7d8bfc12",
@@ -5382,7 +5653,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "surveillance"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "c796e6f441cc89",
@@ -5402,7 +5674,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "epidemiological update"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "df26179d6c4b8d",
@@ -5424,7 +5697,8 @@
   "escopo": "Américas",
   "termos_evento": [
    "epidemiological alert"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "5dced1d0a77735",
@@ -5445,7 +5719,8 @@
   "termos_evento": [
    "confirmed cases",
    "investigation"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "082aae5a5b893e",
@@ -5467,7 +5742,8 @@
   "escopo": "Américas",
   "termos_evento": [
    "outbreak"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "24d595ec476a5e",
@@ -5487,7 +5763,8 @@
    "Influenza e vírus respiratórios"
   ],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "48b8f5ee33d01e",
@@ -5507,7 +5784,8 @@
    "Influenza e vírus respiratórios"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "989850b68a3800",
@@ -5530,7 +5808,8 @@
   "escopo": "Américas",
   "termos_evento": [
    "epidemiological update"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "211640c06c2088",
@@ -5550,7 +5829,8 @@
    "Rubéola"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "114e5c008aabc6",
@@ -5568,7 +5848,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "6bfd9620ca47ee",
@@ -5586,7 +5867,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "2e99bc53bac9c2",
@@ -5606,7 +5888,8 @@
   "escopo": "Américas",
   "termos_evento": [
    "epidemiological alert"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "7a7cc8517aa913",
@@ -5628,7 +5911,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "089ea3e0f52219",
@@ -5648,7 +5932,8 @@
    "COVID-19"
   ],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "07bfb600fe81d8",
@@ -5668,7 +5953,8 @@
    "Doenças transmitidas por alimentos e água"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "88134fd64480d6",
@@ -5686,7 +5972,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "ba8af1fc36ef36",
@@ -5704,7 +5991,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "e2d9efacdfc9f7",
@@ -5726,7 +6014,8 @@
   "escopo": "Américas",
   "termos_evento": [
    "epidemiological update"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "0e0d1a8d005a7e",
@@ -5749,7 +6038,8 @@
   "termos_evento": [
    "risk assessment",
    "first case"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "fc2589ec1611c7",
@@ -5769,7 +6059,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "386f25a4a45050",
@@ -5789,7 +6080,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "546c8951dc698f",
@@ -5811,7 +6103,8 @@
   "escopo": "Américas",
   "termos_evento": [
    "epidemiological alert"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "d3f069fcc2c9db",
@@ -5835,7 +6128,8 @@
    "international health regulations",
    "outbreaks",
    "confirmed case"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "dc34017ab49801",
@@ -5857,7 +6151,8 @@
   "escopo": "Américas",
   "termos_evento": [
    "epidemiological alert"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "086044b16000fe",
@@ -5881,7 +6176,8 @@
    "outbreak",
    "confirmed cases",
    "surveillance"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "8dce2a0009be4d",
@@ -5903,7 +6199,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "9d81882cdc117c",
@@ -5923,7 +6220,8 @@
    "Tuberculose"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "f4ae4f34cadead",
@@ -5947,7 +6245,8 @@
   "termos_evento": [
    "outbreak",
    "deaths"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "0bf3374cd1f18b",
@@ -5967,7 +6266,8 @@
    "Tuberculose"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "85063a66e2697d",
@@ -5985,7 +6285,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "53183af1b71f52",
@@ -6008,7 +6309,8 @@
   "termos_evento": [
    "outbreak",
    "surveillance"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "70a39113b9a1af",
@@ -6030,7 +6332,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "257b42d29c0c22",
@@ -6052,7 +6355,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "deaths"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "64e393667511fd",
@@ -6072,7 +6376,8 @@
    "Raiva"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "9b74c46e6d1f2c",
@@ -6090,7 +6395,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "8dfefb4cabbc06",
@@ -6111,7 +6417,8 @@
    "Imunização"
   ],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "4b822015248210",
@@ -6133,7 +6440,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "8c4554a2624c22",
@@ -6153,7 +6461,8 @@
    "Antraz"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "87d486ab9df972",
@@ -6171,7 +6480,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "0c4c3022245ac3",
@@ -6195,7 +6505,8 @@
    "risk assessment",
    "deaths",
    "notification"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "3045d620016960",
@@ -6213,7 +6524,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "58867afe48d274",
@@ -6233,7 +6545,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "deaths"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "9b17abf149d4c6",
@@ -6255,7 +6568,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "cluster"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "19dc8b56aaa52e",
@@ -6275,7 +6589,8 @@
    "COVID-19"
   ],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "16458e002e69aa",
@@ -6293,7 +6608,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "71f6a8fd035f5e",
@@ -6313,7 +6629,8 @@
    "Raiva"
   ],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "cb68a4771d0b17",
@@ -6336,7 +6653,8 @@
   "termos_evento": [
    "outbreak",
    "investigation"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "7819e03194d67c",
@@ -6354,7 +6672,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "b312316936dd02",
@@ -6377,7 +6696,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "threat assessment"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "a0648bcb802f28",
@@ -6398,7 +6718,8 @@
    "Imunização"
   ],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "d08261c5222058",
@@ -6420,7 +6741,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "investigation"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "7bd11ecbde6e38",
@@ -6440,7 +6762,8 @@
    "HIV/aids e IST"
   ],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "c80036e0621c6e",
@@ -6462,7 +6785,8 @@
   "escopo": "Américas",
   "termos_evento": [
    "deaths"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "298814003b2e3d",
@@ -6482,7 +6806,8 @@
    "Influenza e vírus respiratórios"
   ],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "2258abff25251a",
@@ -6502,7 +6827,8 @@
    "Influenza e vírus respiratórios"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "adb7a97b4cd562",
@@ -6522,7 +6848,8 @@
    "HIV/aids e IST"
   ],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "4f58d21e21ac79",
@@ -6540,7 +6867,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "ffb45c01ff8d86",
@@ -6558,7 +6886,8 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "79cb226161a9d8",
@@ -6580,7 +6909,8 @@
   "escopo": "Américas",
   "termos_evento": [
    "surveillance"
-  ]
+  ],
+  "municipios": []
  },
  {
   "id": "62ab8e9e18d335",
@@ -6600,6 +6930,7 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
-  ]
+  ],
+  "municipios": []
  }
 ]

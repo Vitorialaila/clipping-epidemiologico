@@ -17,7 +17,14 @@ def _criterios():
     c = carregar_yaml("criterios.yaml")
     agravos = [(a["nome"], float(a["peso"]), _padrao(a["termos"])) for a in c["agravos"]]
     eventos = [(float(e["peso"]), _padrao(e["termos"])) for e in c["eventos"]]
-    locais = [(nome, float(v["peso"]), _padrao(v["termos"])) for nome, v in c["localidades"].items()]
+    ride = c.get("ride_df", [])
+    locais = []
+    for nome, v in c["localidades"].items():
+        termos = list(v["termos"])
+        if nome == "RIDE":
+            for m in ride:
+                termos += [m["nome"]] + m.get("termos", [])
+        locais.append((nome, float(v["peso"]), _padrao(termos)))
     ajustes = [(float(a["peso"]), _padrao(a["termos"])) for a in c.get("ajustes", [])]
     return c, agravos, eventos, locais, ajustes
 
@@ -75,3 +82,19 @@ def pontuar(titulo: str, descricao: str, fonte: dict) -> dict:
 
     return {"pontuacao": round(max(pts, 0.0), 2), "agravos": nomes_agravos[:3], "escopo": escopo,
             "termos_evento": termos_evento}
+
+
+@lru_cache(maxsize=1)
+def _municipios():
+    c = _criterios()[0]
+    df = next(v for n, v in c["localidades"].items() if n == "DF")
+    lista = [("Distrito Federal", _padrao(df["termos"]))]
+    for m in c.get("ride_df", []):
+        lista.append((f'{m["nome"]} ({m["uf"]})', _padrao([m["nome"]] + m.get("termos", []))))
+    return lista
+
+
+def municipios(titulo: str, descricao: str = "") -> list[str]:
+    """Municípios da RIDE-DF (incluindo o Distrito Federal) citados na notícia."""
+    texto = normalizar(titulo) + " " + normalizar(descricao)
+    return [nome for nome, padrao in _municipios() if padrao.search(texto)]

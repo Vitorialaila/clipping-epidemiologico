@@ -15,7 +15,7 @@
 :root {
   --navy: #0A3570; --navy-2: #1E4E8C; --ouro: #B8921A; --ouro-2: #D9C17A; --ouro-3: #F4ECD3;
   --verde: #0B7A32; --tinta: #1B2230; --texto: #343C4B; --cinza: #6A7282; --linha: #E2DED2; --creme: #FBF8F0;
-  --df: #B8921A; --brasil: #0B7A32; --americas: #1E4E8C; --internacional: #5C6B82;
+  --df: #B8921A; --ride: #2F7F7A; --brasil: #0B7A32; --americas: #1E4E8C; --internacional: #5C6B82;
 }
 
 @page {
@@ -73,7 +73,7 @@ a { color: inherit; text-decoration: none; }
 .capa-rodape .kpi:first-child { border-left: none; padding-left: 0; }
 .capa-rodape .v { display: block; font-family: "Serif"; font-size: 24pt; line-height: 1; color: var(--navy); }
 .capa-rodape .l { display: block; margin-top: 1.4mm; font-size: 6.4pt; letter-spacing: 0.14em; text-transform: uppercase; font-weight: 700; }
-.capa-rodape .kpi.e-DF .v, .capa-rodape .kpi.e-Brasil .v, .capa-rodape .kpi.e-Américas .v, .capa-rodape .kpi.e-Internacional .v { color: currentColor; }
+.capa-rodape .kpi.e-DF .v, .capa-rodape .kpi.e-RIDE .v, .capa-rodape .kpi.e-Brasil .v, .capa-rodape .kpi.e-Américas .v, .capa-rodape .kpi.e-Internacional .v { color: currentColor; }
 .capa-rodape .kpi .l.neutro { color: var(--cinza); }
 /* Mapa da semana */
 .mapa-semana { margin: 7mm 0 0; }
@@ -82,7 +82,7 @@ a { color: inherit; text-decoration: none; }
 .mapa-semana .rotulo-mini { font-size: 6.6pt; letter-spacing: 0.2em; text-transform: uppercase; font-weight: 700; color: var(--navy); }
 .mapa-semana .exp { flex: 1; }
 .mapa-semana .leg { display: flex; gap: 3mm; }
-.fundo-DF, .fundo-Brasil, .fundo-Américas, .fundo-Internacional { background: var(--navy); }
+.fundo-DF, .fundo-RIDE, .fundo-Brasil, .fundo-Américas, .fundo-Internacional { background: var(--navy); }
 
 /* Visuais dos destaques */
 .visual { position: relative; margin: 0 0 3mm; border-radius: 1.2mm; overflow: hidden; }
@@ -110,7 +110,7 @@ a { color: inherit; text-decoration: none; }
 /* Selos de escopo */
 .selo { display: inline-block; white-space: nowrap; font-size: 6.4pt; letter-spacing: 0.14em; text-transform: uppercase; font-weight: 700; }
 .selo::before { content: ""; display: inline-block; vertical-align: 0.1em; width: 1.6mm; height: 1.6mm; margin-right: 1.2mm; border-radius: 0.8mm; background: currentColor; }
-.e-DF { color: var(--df); } .e-Brasil { color: var(--brasil); } .e-Américas { color: var(--americas); } .e-Internacional { color: var(--internacional); }
+.e-DF { color: var(--df); } .e-RIDE { color: var(--ride); } .e-Brasil { color: var(--brasil); } .e-Américas { color: var(--americas); } .e-Internacional { color: var(--internacional); }
 
 /* Destaque principal */
 .principal { margin-top: 0; border-top: 2.2pt solid var(--navy); padding-top: 4.5mm; break-inside: avoid; }
@@ -180,7 +180,7 @@ a { color: inherit; text-decoration: none; }
 .mapa-escuro .rotulo-mini { font-size: 6.6pt; letter-spacing: 0.2em; text-transform: uppercase; font-weight: 700; color: #fff; }
 .mapa-escuro .exp { flex: 1; }
 .mapa-escuro .leg { display: flex; gap: 3mm; white-space: nowrap; }
-.c-DF { color: #E2BE4A; } .c-Brasil { color: #3DBA6B; } .c-Américas { color: #6FA3E8; } .c-Internacional { color: #A9B6C9; }
+.c-DF { color: #E2BE4A; } .c-RIDE { color: #5FC2B8; } .c-Brasil { color: #3DBA6B; } .c-Américas { color: #6FA3E8; } .c-Internacional { color: #A9B6C9; }
 .realizacao { margin-top: 6mm; display: flex; align-items: center; gap: 6mm; padding: 5mm; border-top: 2.2pt solid var(--navy); break-inside: avoid; }
 .realizacao img { height: 16mm; }
 .realizacao .rot { display: block; font-size: 6.6pt; letter-spacing: 0.22em; text-transform: uppercase; color: var(--ouro); font-weight: 700; margin-bottom: 1mm; }

@@ -189,33 +189,47 @@ fontes:
     escopo_padrao: "Brasil"
     idioma: pt
 
-  # Fontes do DF em teste: incêndios florestais, qualidade do ar e emergências locais.
-  # Se o portal bloquear o acesso automatizado, a coleta segue com as demais fontes.
-  - id: cbmdf
-    nome: "CBMDF | Notícias"
-    sigla: "CBMDF"
-    tipo: rss
-    url: "https://www.cbm.df.gov.br/feed/"
+  # Portais oficiais que bloqueiam o acesso automatizado direto: busca pelo índice do Google Notícias,
+  # mantendo apenas notícias publicadas pelos domínios listados em dominios_permitidos (sites .gov.br).
+  - id: df-oficial
+    nome: Portais oficiais do GDF
+    sigla: GDF
+    tipo: google_news
     peso: 1.5
-    escopo_padrao: "DF"
+    escopo_padrao: DF
     idioma: pt
-
-  - id: brasilia-ambiental
-    nome: "Brasília Ambiental (Ibram) | Notícias"
-    sigla: "Ibram-DF"
-    tipo: rss
-    url: "https://www.ibram.df.gov.br/feed/"
+    dias: 14
+    dominios_permitidos:
+    - .df.gov.br
+    nomes_fontes:
+      agenciabrasilia.df.gov.br: Agência Brasília
+      saude.df.gov.br: SES-DF
+      cbm.df.gov.br: CBMDF
+      ibram.df.gov.br: Brasília Ambiental
+      defesacivil.df.gov.br: Defesa Civil DF
+      sema.df.gov.br: SEMA-DF
+    consultas:
+    - site:df.gov.br (saúde OR dengue OR chikungunya OR surto OR vacinação OR vigilância OR epidemiológico OR casos)
+    - site:df.gov.br (incêndio OR queimadas OR "focos de calor" OR fumaça OR "qualidade do ar" OR "baixa umidade" OR "Defesa Civil")
+  - id: ride-oficial
+    nome: Portais oficiais da RIDE-DF
+    sigla: RIDE-DF
+    tipo: google_news
     peso: 1.5
-    escopo_padrao: "DF"
+    escopo_padrao: RIDE
     idioma: pt
-
-  # Fonte experimental: o portal pode bloquear acessos automatizados.
-  # Se falhar, a coleta continua normalmente com as demais fontes.
-  - id: agencia-brasilia-saude
-    nome: "Agência Brasília | Saúde"
-    sigla: "GDF"
-    tipo: rss
-    url: "https://www.agenciabrasilia.df.gov.br/category/saude/feed/"
-    peso: 1.5
-    escopo_padrao: "DF"
-    idioma: pt
+    dias: 14
+    dominios_permitidos:
+    - .go.gov.br
+    - goias.gov.br
+    - .mg.gov.br
+    consultas:
+    - (site:go.gov.br OR site:goias.gov.br) (saúde OR dengue OR chikungunya OR surto OR vacinação OR casos OR incêndio OR queimadas) (Abadiânia OR "Água Fria de Goiás" OR "Águas Lindas" OR Alexânia OR "Alto
+      Paraíso" OR "Alvorada do Norte" OR "Barro Alto" OR Cabeceiras)
+    - (site:go.gov.br OR site:goias.gov.br) (saúde OR dengue OR chikungunya OR surto OR vacinação OR casos OR incêndio OR queimadas) (Cavalcante OR "Cidade Ocidental" OR Cocalzinho OR "Corumbá de Goiás" OR
+      Cristalina OR "Flores de Goiás" OR Formosa OR Goianésia)
+    - (site:go.gov.br OR site:goias.gov.br) (saúde OR dengue OR chikungunya OR surto OR vacinação OR casos OR incêndio OR queimadas) (Luziânia OR "Mimoso de Goiás" OR Niquelândia OR "Novo Gama" OR "Padre
+      Bernardo" OR Pirenópolis OR "Planaltina de Goiás" OR "Santo Antônio do Descoberto")
+    - (site:go.gov.br OR site:goias.gov.br) (saúde OR dengue OR chikungunya OR surto OR vacinação OR casos OR incêndio OR queimadas) ("São João d'Aliança" OR Simolândia OR "Valparaíso de Goiás" OR "Vila Boa"
+      OR "Vila Propício")
+    - site:mg.gov.br (saúde OR dengue OR chikungunya OR surto OR vacinação OR casos OR incêndio OR queimadas) (Unaí OR Buritis OR Arinos OR "Cabeceira Grande")

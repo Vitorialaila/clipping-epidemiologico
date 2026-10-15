@@ -36,6 +36,7 @@ def gerar() -> None:
         "f": n.get("sigla") or n["fonte"], "fn": n["fonte"], "e": n["escopo"], "a": n.get("agravos", []),
         "p": n["pontuacao"], "se": n.get("se", ""), "r": truncar(n.get("descricao", ""), 260),
         "i": icones.icone_para(*(n.get("agravos") or [n["titulo"]])),
+        "m": n.get("municipios", []),
     } for n in noticias if n["pontuacao"] >= limiar_feed and n["data"] >= corte]
     feed.sort(key=lambda x: (x["d"], x["p"]), reverse=True)
 
@@ -48,6 +49,9 @@ def gerar() -> None:
             continue
         ini, fim = w.startdate(), w.enddate()
         semanas.append((cod, f"{semana.rotulo(w)} ({ini.day:02d}/{ini.month:02d} a {fim.day:02d}/{fim.month:02d})"))
+    presentes = {m for x in feed for m in x["m"]}
+    municipios = (["Distrito Federal"] if "Distrito Federal" in presentes else []) + sorted(
+        m for m in presentes if m != "Distrito Federal")
     agravos = Counter(a for x in feed for a in x["a"])
     fontes = sorted({x["f"] for x in feed})
     edicoes = _edicoes()
@@ -63,7 +67,7 @@ def gerar() -> None:
         rodape=cfg["publicacao"].get("rodape", ""),
         ultima=edicoes[0] if edicoes else None, arquivo=por_se,
         feed_json=json.dumps(feed, ensure_ascii=False).replace("</", "<\\/"),
-        agravos=[a for a, _ in agravos.most_common()], fontes=fontes, semanas=semanas,
+        agravos=[a for a, _ in agravos.most_common()], fontes=fontes, semanas=semanas, municipios=municipios,
         ordem_escopo=ORDEM_ESCOPO, nome_escopo=NOME_ESCOPO, dias=dias, total_feed=len(feed),
         atualizado=data_extenso(date.today()),
         atualizado_iso=datetime.now(timezone.utc).isoformat(timespec="minutes"),

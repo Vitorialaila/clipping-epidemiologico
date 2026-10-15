@@ -13,7 +13,8 @@
   "p": 7.5,
   "se": "2026-41",
   "r": "InfoGripe: apenas Sergipe tem SRAG em nível de alerta e tendência de aumento",
-  "i": "respiratorio"
+  "i": "respiratorio",
+  "m": []
  },
  {
   "t": "Record-high West Nile virus infections reported amid spread to new parts of Europe",
@@ -29,7 +30,8 @@
   "p": 6.5,
   "se": "2026-41",
   "r": "With the EU experiencing its most intense West Nile virus season to date and detections of the virus in new areas further north in Europe, ECDC calls for sustained prevention, surveillance and mosquito control.",
-  "i": "mosquito"
+  "i": "mosquito",
+  "m": []
  },
  {
   "t": "Countries move to accelerate action against lead poisoning",
@@ -45,7 +47,8 @@
   "p": 4.5,
   "se": "2026-41",
   "r": "",
-  "i": "quimico"
+  "i": "quimico",
+  "m": []
  },
  {
   "t": "Ebola disease outbreak in the Democratic Republic of the Congo",
@@ -61,7 +64,8 @@
   "p": 10.0,
   "se": "2026-41",
   "r": "Since May 2026, an Ebola virus disease outbreak caused by Bundibugyo virus has been ongoing in the Democratic Republic of the Congo (DRC).",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "Saúde acompanha implantação em Anápolis da metodologia que reduz dengue e chikungunya",
@@ -79,7 +83,8 @@
   "p": 9.0,
   "se": "2026-41",
   "r": "Quando infectado pela bactéria Wolbachia, o mosquito Aedes aegypti perde a capacidade de transmitir essas doenças e repassa a bactéria para seus descendentes, substituindo gradualmente a população de mosquitos",
-  "i": "mosquito"
+  "i": "mosquito",
+  "m": []
  },
  {
   "t": "Seminário Estadual de Sífilis capacita profissionais para fortalecer diagnóstico, tratamento e prevenção da doença",
@@ -95,7 +100,8 @@
   "p": 8.0,
   "se": "2026-41",
   "r": "Encontro promovido na Escola de Saúde Pública reúne profissionais da atenção primária e da vigilância epidemiológica para qualificar assistência e prevenir casos de sífilis congênita",
-  "i": "bacteria"
+  "i": "bacteria",
+  "m": []
  },
  {
   "t": "Fiocruz analisa impacto das queimadas na saúde indígena no Amazonas",
@@ -111,7 +117,8 @@
   "p": 7.0,
   "se": "2026-41",
   "r": "A poluição do ar provocada por queimadas e incêndios florestais no Amazonas representa um risco à saúde da população, especialmente das comunidades indígenas, que enfrentam dificuldades de acesso aos serviços de saúde. O alerta faze parte de levantamento…",
-  "i": "clima"
+  "i": "clima",
+  "m": []
  },
  {
   "t": "Nota técnica aborda impactos das queimadas na qualidade do ar e riscos à saúde indígena no Amazonas",
@@ -127,7 +134,8 @@
   "p": 6.5,
   "se": "2026-41",
   "r": "Nota técnica aborda impactos das queimadas na qualidade do ar e riscos à saúde indígena no Amazonas",
-  "i": "clima"
+  "i": "clima",
+  "m": []
  },
  {
   "t": "Pneumonia of undetermined etiology - the Russian Federation",
@@ -144,7 +152,8 @@
   "p": 13.5,
   "se": "2026-40",
   "r": "On 2 October 2026, WHO became aware through media reports of the death of an employee of the Irkutsk Antiplague Research Institute (APRI) of Siberia and the Far East, the Russian Federation. According to these reports, the individual died on 2 October…",
-  "i": "respiratorio"
+  "i": "respiratorio",
+  "m": []
  },
  {
   "t": "Malária: Anvisa autoriza teste em humanos de vacina 100% brasileira",
@@ -160,7 +169,8 @@
   "p": 10.0,
   "se": "2026-40",
   "r": "A Agência Nacional de Vigilância Sanitária (Anvisa) autorizou o início de testes em humanos da primeira vacina do mundo contra a malária causada pelo Plasmodium vivax , parasita responsável pela maioria dos casos da doença no país. O imunizante é feito com…",
-  "i": "mosquito"
+  "i": "mosquito",
+  "m": []
  },
  {
   "t": "Brasil avança no desenvolvimento da primeira vacina do mundo contra malária vivax",
@@ -176,7 +186,8 @@
   "p": 9.0,
   "se": "2026-40",
   "r": "",
-  "i": "mosquito"
+  "i": "mosquito",
+  "m": []
  },
  {
   "t": "La OPS/OMS coordina con el Ministerio de Salud el apoyo a la respuesta en salud tras el terremoto en Panamá",
@@ -192,7 +203,8 @@
   "p": 6.0,
   "se": "2026-40",
   "r": "PAHO/WHO coordinates with Ministry of Health to support health response following earthquake in Panama Cristina Mitchell 10 Oct 2026",
-  "i": "desastre"
+  "i": "desastre",
+  "m": []
  },
  {
   "t": "PAHO assesses risk of measles spread as very high ahead of religious mass gatherings in the Americas",
@@ -208,7 +220,8 @@
   "p": 9.0,
   "se": "2026-40",
   "r": "PAHO assesses risk of measles spread as very high ahead of religious mass gatherings in the Americas Oscar Reyes 9 Oct 2026",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "Communicable disease threats report, 3 - 9 October, week 41",
@@ -226,7 +239,8 @@
   "p": 5.5,
   "se": "2026-40",
   "r": "This issue of the Communicable disease threats report (CDTR) covers the period 3 - 9October 2026, and includes updates on respiratory virus epidemiology in the EU/EEA, pneumonia of unknown aetiology, Ebola, expert deployment, West Nile Virus, Crimean-Congo…",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo",
@@ -242,7 +256,8 @@
   "p": 14.5,
   "se": "2026-40",
   "r": "On 5 October 2026, WHO was informed about a laboratory-confirmed imported case of Bundibugyo virus disease (BVD) in Kenya with travel history from the Democratic Republic of the Congo. The patient travelled from the Democratic Republic of the Congo to Kenya…",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "InfoGripe alerta para a importância da vacinação contra Covid-19 e VSR",
@@ -259,7 +274,8 @@
   "p": 8.0,
   "se": "2026-40",
   "r": "InfoGripe alerta para a importância da vacinação contra Covid-19 e VSR",
-  "i": "respiratorio"
+  "i": "respiratorio",
+  "m": []
  },
  {
   "t": "Africa CDC Expresses Solidarity with Kenya and Calls for Stronger Regional Ebola Preparedness",
@@ -275,7 +291,8 @@
   "p": 10.5,
   "se": "2026-40",
   "r": "Addis Ababa, Ethiopia, 6 October 2026 The Africa Centres for Disease Control and Prevention (Africa CDC) has reaffirmed its support to Kenya following confirmation of the country’s first imported case of Bundibugyo Ebola Virus Disease and the subsequent death…",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "Africa CDC exprime sa solidarité avec le Kenya et appelle à renforcer la préparation régionale face à Ebola",
@@ -291,7 +308,8 @@
   "p": 7.0,
   "se": "2026-40",
   "r": "Addis-Abeba, Éthiopie, 6 octobre 2026 Les Centres africains de contrôle et de prévention des maladies (Africa CDC) ont réaffirmé leur soutien au Kenya à la suite de la confirmation du premier cas importé de maladie à virus Ebola de souche Bundibugyo dans le…",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "ECDC closely monitoring situation following case of pneumonia of unknown origin in Russia",
@@ -307,7 +325,8 @@
   "p": 5.0,
   "se": "2026-40",
   "r": "Following the reported death of a laboratory worker in Irkutsk, Russia, from pneumonia that is suspected to be pneumonic plague, ECDC is closely monitoring the situation.",
-  "i": "bacteria"
+  "i": "bacteria",
+  "m": []
  },
  {
   "t": "Chikungunya virus disease worldwide overview",
@@ -323,7 +342,8 @@
   "p": 5.5,
   "se": "2026-40",
   "r": "Every month ECDC provides detailed epidemiological overview of the worldwide transmission of chikungunya virus disease in its weekly threat report (Communicable Diseases Threat Report).",
-  "i": "mosquito"
+  "i": "mosquito",
+  "m": []
  },
  {
   "t": "EU-led assessment to Albania will strengthen cross-sector response to antimicrobial resistance",
@@ -339,7 +359,8 @@
   "p": 4.5,
   "se": "2026-40",
   "r": "An EU-led mission of experts to Albania this week will identify priority gaps, define areas for further action and support the strengthening of national responses to antimicrobial resistance (AMR) in the country.",
-  "i": "bacteria"
+  "i": "bacteria",
+  "m": []
  },
  {
   "t": "Africa CDC soutient le Gouvernement de la République démocratique du Congo dans le renforcement de la transparence et de la redevabilité du financement de la riposte à Ebola",
@@ -355,7 +376,8 @@
   "p": 7.0,
   "se": "2026-40",
   "r": "Kinshasa, République démocratique du Congo, le 4 octobre 2026 Le Centre africain de contrôle et de prévention des maladies (Africa CDC) salue et soutient la position du Gouvernement de la République démocratique du Congo, exprimée par l’intermédiaire du…",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "Africa CDC Supports the Government of the Democratic Republic of the Congo in Strengthening Transparency and Accountability in Ebola Response Funding",
@@ -371,7 +393,8 @@
   "p": 7.0,
   "se": "2026-40",
   "r": "Kinshasa, Democratic Republic of the Congo, 4 October 2026 The Africa Centres for Disease Control and Prevention (Africa CDC) welcomes and supports the position of the Government of the Democratic Republic of the Congo, expressed through the Ministry of…",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "Ghana Steps Up Emergency Preparedness with Africa CDC Support",
@@ -385,7 +408,8 @@
   "p": 4.5,
   "se": "2026-39",
   "r": "Accra, Ghana, 2 October 2026 – The Africa Centres for Disease Control and Prevention (Africa CDC) is supporting Ghana to strengthen its Public Health Emergency Operations Centres (PHEOCs), which coordinate information, expertise and resources during health…",
-  "i": "alerta"
+  "i": "alerta",
+  "m": []
  },
  {
   "t": "Communicable disease threats report, 26 September - 2 October, week 40",
@@ -403,7 +427,8 @@
   "p": 5.5,
   "se": "2026-39",
   "r": "This issue of the Communicable disease threats report (CDTR) covers the period 26 September - 2 October 2026, and includes updates on Crimean Congo haemorrhagic fever, Chikungunya virus disease, cholera, COVID-19, dengue, Ebola, avian influenza, seasonal…",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "Notes from the Field: Fatal Pneumonic Plague - Coconino County, Arizona, July 2025",
@@ -419,7 +444,8 @@
   "p": 8.5,
   "se": "2026-39",
   "r": "This report describes a case of fatal pneumonic plague reported in Arizona during 2025.",
-  "i": "bacteria"
+  "i": "bacteria",
+  "m": []
  },
  {
   "t": "Health Ministers approve new regional strategy to prevent and control dengue and other arboviral diseases in the Americas",
@@ -436,7 +462,8 @@
   "p": 7.5,
   "se": "2026-39",
   "r": "Health Ministers approve new regional strategy to prevent and control dengue and other arboviral diseases in the Americas Oscar Reyes 1 Oct 2026",
-  "i": "mosquito"
+  "i": "mosquito",
+  "m": []
  },
  {
   "t": "Risk to general population remains very low following fourth imported Ebola case in Europe",
@@ -452,7 +479,8 @@
   "p": 6.5,
   "se": "2026-39",
   "r": "A healthcare worker from Europe based in the DRC who tested positive for Bundibugyo virus on 29 September has been medically evacuated to receive specialised care.",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "New hepatitis surveillance report shows strengthened public health cooperation with EU candidate countries",
@@ -468,7 +496,8 @@
   "p": 4.5,
   "se": "2026-39",
   "r": "The report brings together surveillance data on hepatitis A from EU candidate countries.",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "Unannounced Drills Using Patient Actors to Evaluate Health Care Facility Readiness for Infectious Disease Outbreaks - New Jersey, New York, and U.S. Virgin Islands, January-June 2026",
@@ -482,7 +511,8 @@
   "p": 4.0,
   "se": "2026-39",
   "r": "This report describes mystery patient drills conducted in health care facilities in New Jersey, New York, and the U.S. Virgin Islands to simulate response to an infectious disease outbreak.",
-  "i": "alerta"
+  "i": "alerta",
+  "m": []
  },
  {
   "t": "New food safety strategy aims to reduce the burden of foodborne diseases affecting 43 million people in the Americas",
@@ -498,7 +528,8 @@
   "p": 7.0,
   "se": "2026-39",
   "r": "New food safety strategy aims to reduce the burden of foodborne diseases affecting 43 million people in the Americas Oscar Reyes 30 Sep 2026",
-  "i": "agua"
+  "i": "agua",
+  "m": []
  },
  {
   "t": "WHO reports latest global trends in cholera, meningitis and plague",
@@ -516,7 +547,8 @@
   "p": 7.5,
   "se": "2026-39",
   "r": "",
-  "i": "agua"
+  "i": "agua",
+  "m": []
  },
  {
   "t": "MERS-CoV worldwide overview",
@@ -532,7 +564,8 @@
   "p": 7.5,
   "se": "2026-39",
   "r": "Summary Since the beginning of 2026, and as of 31 August 2026, two MERS cases, including one fatality, have been reported in Saudi Arabia.",
-  "i": "respiratorio"
+  "i": "respiratorio",
+  "m": []
  },
  {
   "t": "Surveillance Summaries: Surveillance for Violent Deaths - National Violent Death Reporting System, 50 States, the District of Columbia, and Puerto Rico, 2023",
@@ -546,7 +579,8 @@
   "p": 6.0,
   "se": "2026-39",
   "r": "This report summarizes 2023 data from CDC's National Violent Death Reporting System on violent deaths and suicides that occurred in the U.S., District of Columbia, and Puerto Rico.",
-  "i": "alerta"
+  "i": "alerta",
+  "m": []
  },
  {
   "t": "Cholera worldwide overview",
@@ -562,7 +596,8 @@
   "p": 7.5,
   "se": "2026-39",
   "r": "A worldwide epidemiological summary of the countries most affected by cholera.",
-  "i": "agua"
+  "i": "agua",
+  "m": []
  },
  {
   "t": "Dengue worldwide overview",
@@ -578,7 +613,8 @@
   "p": 5.5,
   "se": "2026-39",
   "r": "Every month ECDC provides detailed epidemiological overview of the worldwide transmission of dengue in its weekly threat report (Communicable Diseases Threat Report).",
-  "i": "mosquito"
+  "i": "mosquito",
+  "m": []
  },
  {
   "t": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo",
@@ -594,7 +630,8 @@
   "p": 14.5,
   "se": "2026-38",
   "r": "Since the last Disease Outbreak News was published on 11 September 2026, the Bundibugyo virus outbreak in the Democratic Republic of the Congo has expanded further, with two additional health zones affected. These include Bulu health zone in a new province…",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "Communicable disease threats report, 19-25 September, week 39",
@@ -612,7 +649,8 @@
   "p": 5.5,
   "se": "2026-38",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 19-25 September, and includes updates on respiratory virus epidemiology in the EU/EEA Ebola, ECDC expert deployment, West Nile Virus, Crimean-Congo haemorrhagic fever, dengue…",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "Recommendations announced for influenza vaccine composition for the 2027 southern hemisphere influenza season",
@@ -628,7 +666,8 @@
   "p": 4.5,
   "se": "2026-38",
   "r": "",
-  "i": "respiratorio"
+  "i": "respiratorio",
+  "m": []
  },
  {
   "t": "Notes from the Field: The First 100 Days of Five Ebola Outbreaks - Democratic Republic of the Congo, Uganda, and West Africa, 2007-2026",
@@ -644,7 +683,8 @@
   "p": 9.5,
   "se": "2026-38",
   "r": "This report describes the first 100 days of the 2026 Ebola outbreak in the Democratic Republic of the Congo compared to other Ebola outbreaks.",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "Hepatitis A Outbreak Associated with Cuba - Florida, June 2024-February 2026",
@@ -660,7 +700,8 @@
   "p": 8.5,
   "se": "2026-38",
   "r": "This report describes an unusually high number of hepatitis A cases among Florida travelers who had recently been to Cuba.",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "Environmental Investigation of a Campylobacteriosis Outbreak Among Wedding Attendees - York County, Pennsylvania, 2025",
@@ -674,7 +715,8 @@
   "p": 5.0,
   "se": "2026-38",
   "r": "This report describes a Campylobacter jejuni outbreak among wedding attendees in Pennsylvania who drank untreated spring water.",
-  "i": "bacteria"
+  "i": "bacteria",
+  "m": []
  },
  {
   "t": "Communicable disease threats report, 12-18 September, week 38",
@@ -692,7 +734,8 @@
   "p": 5.5,
   "se": "2026-37",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 12-18 September, and includes updates on Ebola, malaria, botulism, avian influenza A(H9N2), influenza A(H5), respiratory virus epidemiology in the EU/.EEA, West Nile virus…",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "Syphilis Screening in Correctional Facilities - Alaska, October 2023-September 2025",
@@ -708,7 +751,8 @@
   "p": 4.0,
   "se": "2026-37",
   "r": "This report describes results from opt-out syphilis screenings in Alaska correctional facilities during October 2023-September 2025.",
-  "i": "bacteria"
+  "i": "bacteria",
+  "m": []
  },
  {
   "t": "Communicable disease threats report, 5 - 11 September, week 37",
@@ -726,7 +770,8 @@
   "p": 5.5,
   "se": "2026-36",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 5 -12 September, and includes updates on Ebola, an overview of respiratory virus epidemiology in the EU/EEA, West Nile virus, Crimean-Congo haemorrhagic fever, dengue…",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo",
@@ -742,7 +787,8 @@
   "p": 14.5,
   "se": "2026-36",
   "r": "Since the last Disease Outbreak News was published on 28 August 2026, the Bundibugyo virus outbreak in the Democratic Republic of the Congo has expanded to one additional health zone, Kayna, in North Kivu. This increase brings the total number of affected…",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "Notes from the Field: Clinical Characteristics of Patients with Ebola Disease Caused by Bundibugyo Virus - Uganda, 2026",
@@ -758,7 +804,8 @@
   "p": 9.5,
   "se": "2026-36",
   "r": "This report describes characteristics of Ebola cases reported in Uganda during the 2025 outbreak.",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "Notes from the Field: Characteristics and Monitoring of the 2026 Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo, August 2026",
@@ -774,7 +821,8 @@
   "p": 9.5,
   "se": "2026-36",
   "r": "This report describes the ongoing Ebola outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo.",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "Surveillance Summaries: Causes of Death Among Stillbirths and Children Aged 5 Years in Africa and South Asia - Child Health and Mortality Prevention Surveillance, Seven Countries, 2016-2024",
@@ -788,7 +836,8 @@
   "p": 4.0,
   "se": "2026-36",
   "r": "This report escribes data from the child Health and Mortality Prevention Surveillance network during December 2016-December 2024",
-  "i": "alerta"
+  "i": "alerta",
+  "m": []
  },
  {
   "t": "Communicable disease threats report, 29 August - 4 September, week 36",
@@ -806,7 +855,8 @@
   "p": 5.5,
   "se": "2026-35",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 29 August - 4 September, and includes updates on Ebola, SARS-CoV-2 variant classification, West Nile virus, Crimean-Congo haemorrhagic fever, dengue, chikungunya, vibrio…",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "Vaccination Coverage Among Adolescents Aged 13-17 Years - National Immunization Survey-Teen, United States, 2025",
@@ -822,7 +872,8 @@
   "p": 6.0,
   "se": "2026-35",
   "r": "This report describes vaccination coverage among U.S. adolescents aged 13-17 years.",
-  "i": "vacina"
+  "i": "vacina",
+  "m": []
  },
  {
   "t": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo",
@@ -838,7 +889,8 @@
   "p": 14.5,
   "se": "2026-34",
   "r": "Since the last Disease Outbreak News was published on 14 August 2026, the outbreak has spread from 54 to 60 health zones. The number of affected provinces stands at six out of 26 provinces of the country: Bas-Uélé, Haut-Uélé, Ituri, North Kivu, South Kivu…",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "Communicable disease threats report, 22 - 28 August, week 35",
@@ -856,7 +908,8 @@
   "p": 5.5,
   "se": "2026-34",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 22 - 28 August, and includes updates on diphtheria, Ebola, swine influenza A(H1N2), respiratory virus epidemiology, Crimean-Congo haemorrhagic fever, dengue, chikungunya virus…",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "Use of Nowcasting to Estimate Real-Time Transmission Trends During a Measles Outbreak - South Carolina, October 2025-March 2026",
@@ -872,7 +925,8 @@
   "p": 9.5,
   "se": "2026-34",
   "r": "This report describes CDC's nowcast model that provided real-time estimates of measles case counts during outbreaks in South Carolina.",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "Epidemiological Update Avian Influenza A(H5) in the Americas Region - 26 August 2026",
@@ -889,7 +943,8 @@
   "p": 13.0,
   "se": "2026-34",
   "r": "",
-  "i": "respiratorio"
+  "i": "respiratorio",
+  "m": []
  },
  {
   "t": "Communicable disease threats report, 15 - 21 August 2026, week 34",
@@ -907,7 +962,8 @@
   "p": 5.5,
   "se": "2026-33",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 15-21 August 2026, and includes updates on Ebola, respiratory virus epidemiology in the EU/EEA, swine flu, West Nile virus, Crimean-Congo haemorrhagic fever, dengue…",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "Epidemiological update – 11 August 2026: Imported case of Andes hantavirus in the EU/EEA",
@@ -923,7 +979,8 @@
   "p": 12.5,
   "se": "2026-33",
   "r": "On 6 August 2026, French public health authorities reported an imported case of Andes hantavirus infection in a traveller from Argentina.",
-  "i": "animal"
+  "i": "animal",
+  "m": []
  },
  {
   "t": "Monkeypox Virus Surveillance - United States, 2024-2025",
@@ -939,7 +996,8 @@
   "p": 10.0,
   "se": "2026-33",
   "r": "This report describes cases of monkeypox virus infection reported during 2024-2025.",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "Notes from the Field: Dengue Outbreak - Naoero, 2025",
@@ -955,7 +1013,8 @@
   "p": 7.5,
   "se": "2026-33",
   "r": "This report describes dengue cases reported in Naoero during 2025.",
-  "i": "mosquito"
+  "i": "mosquito",
+  "m": []
  },
  {
   "t": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo",
@@ -972,7 +1031,8 @@
   "p": 15.0,
   "se": "2026-32",
   "r": "The Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo is in a phase of intense transmission. It is the largest Ebola outbreak ever reported in the country and expanding faster than any previous Ebola outbreak. The epidemic is…",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "Communicable disease threats report, 8 - 14 August 2026, week 33",
@@ -990,7 +1050,8 @@
   "p": 5.5,
   "se": "2026-32",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 8 - 14 August 2026, and includes updates on Ebola, chikungunya, dengue, West Nile Virus infection, Crimean-Congo haemorrhagic fever, Vibrio, respiratory virus epidemiology in…",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "Notes from the Field: Potential Infant HIV Exposure from Donated Breast Milk Received Through Social Media - Santa Clara County, California, May 2025-January 2026",
@@ -1006,7 +1067,8 @@
   "p": 4.0,
   "se": "2026-32",
   "r": "This report describes a possible HIV exposure from donated breast milk received through social media.",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "Epidemiological Alert Measles in the Americas Region - 7 August 2026",
@@ -1022,7 +1084,8 @@
   "p": 12.5,
   "se": "2026-31",
   "r": "",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "Communicable disease threats report, 1 - 7 August 2026, week 32",
@@ -1040,7 +1103,8 @@
   "p": 5.5,
   "se": "2026-31",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 1 - 7 August 2026, and includes updates on Ebola, chikungunya, dengue, West Nile Virus infection, Crimean-Congo haemorrhagic fever, Vibrio, respiratory virus epidemiology in…",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "Poisoning Deaths in a Workshop for Ceremonial Papermaking - China, May 2025",
@@ -1056,7 +1120,8 @@
   "p": 6.5,
   "se": "2026-31",
   "r": "This report describes four poisoning deaths at an unlicensed ceremonial papermaking workshop in China.",
-  "i": "quimico"
+  "i": "quimico",
+  "m": []
  },
  {
   "t": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo",
@@ -1072,7 +1137,8 @@
   "p": 14.5,
   "se": "2026-30",
   "r": "The Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo is intensifying, with sustained transmission and continued increases in reported cases and deaths. Initially confined to the Mongbwalu health zone in Ituri Province, over the…",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "West Nile Virus and Other Nationally Notifiable Arboviral Diseases - United States, 2024",
@@ -1089,7 +1155,8 @@
   "p": 8.5,
   "se": "2026-30",
   "r": "The Morbidity and Mortality Weekly Report (MMWR) Series is prepared by the Centers for Disease Control and Prevention (CDC).",
-  "i": "mosquito"
+  "i": "mosquito",
+  "m": []
  },
  {
   "t": "Effect of Diagnostic Test Type on Detection of Salmonella Infections - Foodborne Diseases Active Surveillance Network, 2004-2024",
@@ -1105,7 +1172,8 @@
   "p": 6.0,
   "se": "2026-30",
   "r": "The Morbidity and Mortality Weekly Report (MMWR) Series is prepared by the Centers for Disease Control and Prevention (CDC).",
-  "i": "agua"
+  "i": "agua",
+  "m": []
  },
  {
   "t": "Notes from the Field: Misidentification of a Specimen as Neisseria meningitidis During a University Classroom Laboratory Exercise - Utah, 2025",
@@ -1121,7 +1189,8 @@
   "p": 6.0,
   "se": "2026-29",
   "r": "This report describes a suspected exposure to Neisseria meningitidis during a university laboratory exercise.",
-  "i": "bacteria"
+  "i": "bacteria",
+  "m": []
  },
  {
   "t": "Progress Toward Rubella and Congenital Rubella Syndrome Elimination - Worldwide, 2012-2024",
@@ -1137,7 +1206,8 @@
   "p": 6.0,
   "se": "2026-29",
   "r": "This report describes progress towards worldwide rubella elimination during 2012-2024.",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  },
  {
   "t": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda",
@@ -1153,6 +1223,7 @@
   "p": 16.5,
   "se": "2026-28",
   "r": "The Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo remains active, with sustained transmission driving increases in reported cases and deaths. As of 15 July 2026, a cumulative total of 2124 confirmed cases, including 828…",
-  "i": "virus"
+  "i": "virus",
+  "m": []
  }
 ]

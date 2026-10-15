@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 from dateutil import parser as dtparser
 
 from . import semana
-from .pontuar import pontuar
+from .pontuar import municipios, pontuar
 from .util import (ARQ_NOTICIAS, carregar_yaml, id_noticia, ler_json, log, para_data, salvar_json,
                    sem_html, sessao_http, truncar)
 
@@ -25,6 +25,13 @@ def limpar_descricao(texto: str) -> str:
     texto = re.split(r"\bNot[ií]cias relacionadas\s*:", texto or "", maxsplit=1)[0]
     texto = re.sub(r"\b[\w.]+\s+(Seg|Ter|Qua|Qui|Sex|S[áa]b|Dom),\s*\d{2}/\d{2}/\d{4}\s*-\s*\d{2}:\d{2}", "", texto)
     return re.sub(r"\s+", " ", texto).strip()
+
+
+def _municipios_item(titulo: str, descricao: str, escopo: str) -> list[str]:
+    lista = municipios(titulo, descricao)
+    if escopo == "DF" and "Distrito Federal" not in lista:
+        lista.insert(0, "Distrito Federal")
+    return lista
 
 
 def _data_struct(struct) -> date | None:
@@ -131,7 +138,42 @@ def _data_da_pagina(url: str, s, timeout: int) -> date | None:
         return None
 
 
-COLETORES = {"rss": _rss, "who_api": _who_api, "html": _html}
+def _google_news(fonte: dict, s, timeout: int) -> list[dict]:
+    """Busca no índice do Google Notícias, mantendo apenas itens publicados por domínios oficiais.
+
+    Usado para portais oficiais que bloqueiam o acesso automatizado direto (ex.: portais do GDF).
+    """
+    from urllib.parse import quote, urlsplit
+
+    permitidos = tuple(d.lower() for d in fonte.get("dominios_permitidos", [".gov.br"]))
+    nomes = fonte.get("nomes_fontes", {})
+    itens, vistos = [], set()
+    for consulta in fonte["consultas"]:
+        url = ("https://news.google.com/rss/search?q=" + quote(consulta + " when:" + str(fonte.get("dias", 14)) + "d")
+               + "&hl=pt-BR&gl=BR&ceid=BR:pt-419")
+        r = s.get(url, timeout=timeout)
+        r.raise_for_status()
+        for e in feedparser.parse(r.content).entries:
+            origem = (e.get("source") or {}).get("href", "")
+            dominio = urlsplit(origem).netloc.lower()
+            if not dominio or not dominio.endswith(permitidos):
+                continue
+            titulo = sem_html(e.get("title", ""))
+            nome_origem = (e.get("source") or {}).get("title", "")
+            if nome_origem and titulo.endswith(" - " + nome_origem):
+                titulo = titulo[: -len(nome_origem) - 3]
+            link = e.get("link")
+            if not link or titulo in vistos:
+                continue
+            vistos.add(titulo)
+            sigla = next((v for k, v in nomes.items() if dominio.endswith(k)), nome_origem or dominio)
+            itens.append({"titulo": titulo, "url": link, "data": _data_struct(e.get("published_parsed")),
+                          "descricao": "", "sigla": sigla, "fonte_nome": nome_origem or sigla})
+        time.sleep(1.5)
+    return itens
+
+
+COLETORES = {"rss": _rss, "who_api": _who_api, "html": _html, "google_news": _google_news}
 
 
 def coletar() -> dict:
@@ -174,14 +216,15 @@ def coletar() -> dict:
                 "titulo": truncar(it["titulo"], 300),
                 "url": it["url"],
                 "fonte_id": fonte["id"],
-                "fonte": fonte["nome"],
-                "sigla": fonte.get("sigla", ""),
+                "fonte": it.get("fonte_nome") or fonte["nome"],
+                "sigla": it.get("sigla") or fonte.get("sigla", ""),
                 "idioma": fonte.get("idioma", "en"),
                 "data": d.isoformat(),
                 "data_estimada": estimada,
                 "se": semana.codigo(semana.se_da_data(d)),
                 "descricao": truncar(limpar_descricao(it["descricao"]), 1500),
                 "coletado_em": agora,
+                "municipios": _municipios_item(it["titulo"], limpar_descricao(it["descricao"]), p["escopo"]),
                 **p,
             }
             novas_fonte += 1
@@ -204,5 +247,6 @@ def repontuar() -> None:
     for n in noticias:
         n["descricao"] = limpar_descricao(n.get("descricao", ""))
         n.update(pontuar(n["titulo"], n["descricao"], fontes.get(n["fonte_id"], {})))
+        n["municipios"] = _municipios_item(n["titulo"], n["descricao"], n["escopo"])
     salvar_json(ARQ_NOTICIAS, noticias)
     log.info("Base repontuada: %d notícias.", len(noticias))

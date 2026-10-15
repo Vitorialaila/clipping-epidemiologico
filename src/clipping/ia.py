@@ -16,7 +16,7 @@ import requests
 
 from .util import carregar_yaml, log, sem_travessao, truncar
 
-ESCOPOS = ("DF", "Brasil", "Américas", "Internacional")
+ESCOPOS = ("DF", "RIDE", "Brasil", "Américas", "Internacional")
 URL_GEMINI = "https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
 
 CONTEXTO = (
@@ -179,7 +179,8 @@ def triar(candidatos: list[dict]) -> dict[str, dict]:
         "a notícias institucionais, parcerias, eventos, capacitações, prêmios, campanhas genéricas de "
         "promoção da saúde e publicações sem um evento epidemiológico concreto.\n\n"
         "Para cada notícia, informe também: agravo (nome curto em português), escopo (um entre DF, "
-        "Brasil, Américas, Internacional, conforme o local do evento) e evento (uma chave curta, em "
+        "RIDE, Brasil, Américas, Internacional, conforme o local do evento; use RIDE para os municípios de "
+        "Goiás e Minas Gerais que integram a Região Integrada de Desenvolvimento do Distrito Federal e Entorno) e evento (uma chave curta, em "
         "minúsculas e com hífens, que seja idêntica para notícias que tratam do mesmo evento, por "
         "exemplo 'ebola-rdc' ou 'sarampo-americas').\n\n"
         "Responda somente com um array JSON no formato "
