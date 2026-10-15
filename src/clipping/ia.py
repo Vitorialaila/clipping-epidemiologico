@@ -260,8 +260,10 @@ def testar() -> bool:
     valor = os.environ.get(chave, "")
     if not valor:
         log.error("O segredo %s não está cadastrado no repositório.", chave)
+        print(f"::error::O segredo {chave} não está cadastrado no repositório.")
         return False
     log.info("Chave %s encontrada (%d caracteres, começa com %s...).", chave, len(valor), valor[:4])
+    print(f"::notice::Chave {chave} encontrada ({len(valor)} caracteres, começa com {valor[:4]}...)")
     chamar = _anthropic if _provedor() == "anthropic" else _gemini
     ok = False
     for tipo in ("triagem", "resumo"):
@@ -269,8 +271,10 @@ def testar() -> bool:
             try:
                 resp = chamar(modelo, "Responda apenas com a palavra OK.", "Teste de conexão.", 50, False)
                 log.info("Modelo %s: funcionando (resposta: %s)", modelo, resp.strip()[:20])
+                print(f"::notice::Modelo {modelo}: funcionando")
                 ok = True
             except Exception as erro:  # noqa: BLE001
                 log.error("Modelo %s: falhou. %s", modelo, erro)
+                print(f"::error::Modelo {modelo}: {str(erro)[:300]}")
             time.sleep(2)
     return ok
