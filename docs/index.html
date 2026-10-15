@@ -46,23 +46,23 @@ a { color: inherit; }
 
 /* Faixa institucional em degradê */
 .capa { position: relative; overflow: hidden; color: #fff;
-  background: linear-gradient(180deg, #FFFFFF 0, #FFFFFF 150px, #E6EDF6 205px, #7C9DC9 255px, #2B5A97 300px,
-    #0A3570 360px, #061B3F 100%); }
+  background: linear-gradient(180deg, #FFFFFF 0, #FFFFFF 128px, #E6EDF6 152px, #7C9DC9 178px, #2B5A97 200px,
+    #0A3570 236px, #061B3F 100%); }
 .capa::before { content: ""; position: absolute; inset: 0; pointer-events: none;
   background: radial-gradient(70% 60% at 90% 45%, rgba(42,95,163,.45), transparent 70%),
               radial-gradient(55% 45% at 6% 100%, rgba(184,146,26,.16), transparent 70%); }
 .capa::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 5px;
   background: linear-gradient(90deg, #B8921A 0 45%, #0B7A32 45% 72%, #1E4E8C 72%); }
-.capa .wrap { position: relative; z-index: 1; padding-top: 30px; padding-bottom: 56px; }
-.institucional { display: flex; flex-wrap: wrap; align-items: center; gap: 18px 32px; height: 120px; margin-bottom: 150px; }
-.institucional .logos-grandes { height: 96px; display: block; }
+.capa .wrap { position: relative; z-index: 1; padding-top: 24px; padding-bottom: 40px; }
+.institucional { display: flex; flex-wrap: wrap; align-items: center; gap: 18px 32px; height: 100px; margin-bottom: 72px; }
+.institucional .logos-grandes { height: 84px; display: block; }
 .inst-nomes { display: flex; flex-direction: column; gap: 6px; }
 .inst-nomes { border-left: 2px solid #D9C17A; padding-left: 22px; }
 .inst-nomes .rot { font-size: 11px; letter-spacing: .24em; text-transform: uppercase; color: #B8921A; font-weight: 700; }
 .inst-nomes strong { font-family: var(--serif); font-weight: 400; font-size: clamp(20px, 2.4vw, 27px); line-height: 1.12; color: #0A3570; }
 @media (max-width: 700px) {
-  .capa { background: linear-gradient(180deg, #FFFFFF 0, #FFFFFF 250px, #E6EDF6 300px, #7C9DC9 350px, #2B5A97 395px, #0A3570 450px, #061B3F 100%); }
-  .institucional { height: auto; margin-bottom: 150px; }
+  .capa { background: linear-gradient(180deg, #FFFFFF 0, #FFFFFF 220px, #E6EDF6 242px, #7C9DC9 264px, #2B5A97 284px, #0A3570 312px, #061B3F 100%); }
+  .institucional { height: auto; margin-bottom: 90px; }
   .institucional .logos-grandes { height: 70px; }
   .inst-nomes { border-left: none; padding-left: 0; }
 }
@@ -89,8 +89,8 @@ a { color: inherit; }
 .capa .vazio-claro { max-width: 760px; font-size: 18px; line-height: 1.6; color: rgba(255,255,255,.88); margin: 0 0 28px; }
 .realizacao { display: flex; flex-wrap: wrap; align-items: center; gap: 18px 28px; }
 .realizacao .logos-rodape img { height: 64px; display: block; }
-.realizacao .nomes { border-left: 1px solid rgba(217,193,122,.6); padding-left: 22px; }
-.realizacao .nomes { display: flex; flex-direction: column; gap: 2px; color: #fff; font-size: 15px; }
+.realizacao .nomes { border-left: 1px solid var(--ouro-2); padding-left: 22px; }
+.realizacao .nomes { display: flex; flex-direction: column; gap: 2px; color: var(--navy); font-size: 15px; font-weight: 600; }
 
 /* Abertura */
 .hero { padding: 48px 0 40px; border-bottom: 1px solid var(--linha); background: linear-gradient(180deg, var(--creme), #fff 70%); }
@@ -210,26 +210,34 @@ section.bloco + section.bloco { border-top: 1px solid var(--linha); }
 .edicoes .links a { font-size: 14px; font-weight: 600; text-decoration: none; color: var(--navy); border: 1.5px solid var(--navy); border-radius: 999px; padding: 6px 14px; white-space: nowrap; }
 .edicoes .links a.antiga { border-color: var(--linha); color: var(--cinza); font-weight: 500; }
 
-footer { background: var(--navy); color: #DCE4F0; padding: 40px 0; font-size: 14px; }
+footer { background: var(--creme); color: var(--texto); padding: 40px 0; font-size: 14px; border-top: 4px solid var(--navy); }
 footer .wrap { display: grid; gap: 18px; }
-footer b { color: #fff; letter-spacing: .14em; text-transform: uppercase; font-size: 12px; display: block; margin-bottom: 6px; }
+footer b { color: var(--navy); letter-spacing: .14em; text-transform: uppercase; font-size: 12px; display: block; margin-bottom: 6px; }
 footer p { margin: 0; max-width: 820px; }
 footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
+
+/* Abas */
+.abas { position: sticky; top: 0; z-index: 10; background: rgba(255,255,255,.96); backdrop-filter: blur(8px); border-bottom: 1px solid var(--linha); }
+.abas .wrap { display: flex; align-items: center; gap: 20px; height: 64px; }
+.abas .marca { display: block; width: 0; opacity: 0; overflow: hidden; transition: width .25s, opacity .25s; }
+.abas .marca img { height: 40px; display: block; }
+.abas.compacto .marca { width: 118px; opacity: 1; }
+.lista-abas { display: flex; gap: 4px; height: 100%; overflow-x: auto; scrollbar-width: none; }
+.lista-abas a { display: flex; align-items: center; padding: 0 16px; text-decoration: none; white-space: nowrap; font-size: 15px; font-weight: 600; color: var(--cinza); border-bottom: 3px solid transparent; margin-bottom: -1px; }
+.lista-abas a:hover { color: var(--navy); }
+.lista-abas a[aria-selected="true"] { color: var(--navy); border-bottom-color: var(--ouro); }
+@media (max-width: 560px) { .lista-abas a { padding: 0 10px; font-size: 14px; } .abas.compacto .marca { width: 0; opacity: 0; } }
+.painel { padding: 48px 0 64px; min-height: 60vh; }
+.painel[hidden] { display: none; }
+.titulo-site { font-family: var(--serif); font-weight: 400; font-size: clamp(32px, 5vw, 50px); line-height: 1.05; color: #fff; margin: 10px 0 14px; }
+.se-cabecalho { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 20px; }
+.se-cabecalho .hero-titulo { margin: 0; }
+.se-cabecalho h2 { font-family: var(--serif); font-weight: 400; font-size: clamp(28px, 4.4vw, 44px); line-height: 1.04; color: var(--navy); margin: 0; }
+.se-cabecalho .periodo { font-family: var(--serif); font-style: italic; font-size: 19px; color: var(--tinta); margin: 6px 0 0; }
+.resumo-semana { margin: 8px 0 48px; }
 </style>
 </head>
 <body>
-<header class="topo">
-  <div class="wrap">
-    <a class="marca" href="#"><img src="assets/logos.png" alt="Sala de Situação de Saúde - UnB | Residência de Vigilância em Saúde">
-      <span class="marca-txt"><span>Sala de Situação de Saúde - UnB</span><span>Residência de Vigilância em Saúde</span></span></a>
-    <nav>
-      <a href="#destaques">Destaques</a>
-      <a href="#feed">Feed</a>
-      <a href="#edicoes">Edições</a>
-    </nav>
-  </div>
-</header>
-
 <section class="capa">
   <div class="wrap">
     <div class="institucional">
@@ -237,47 +245,87 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
       <div class="inst-nomes"><span class="rot">Realização</span><strong>Sala de Situação de Saúde - UnB</strong><strong>Residência de Vigilância em Saúde</strong></div>
     </div>
     <span class="kicker">Clipping Epidemiológico</span>
-    
-    <div class="hero-titulo">
-      <span class="num">40</span>
-      <h1>Semana Epidemiológica<br>40 de 2026</h1>
-    </div>
-    <p class="periodo">4 a 10 de outubro de 2026</p>
-    <div class="filete"></div>
-    <figure class="mapa-capa">
-      <img src="assets/mapa-hero.svg" alt="Mapa dos destaques da semana">
-      <figcaption><span class="rot">Mapa da semana</span><span>Os números indicam os destaques abaixo.</span>
-        <span class="leg"><span class="selo e-DF">Distrito Federal</span><span class="selo e-Brasil">Brasil</span><span class="selo e-Américas">Américas</span><span class="selo e-Internacional">Internacional</span></span></figcaption>
-    </figure>
-    <div class="acoes">
-      <a class="btn primario" href="edicoes/clipping-SE40-2026.pdf" download>Baixar clipping em PDF</a>
-      <a class="btn secundario" href="#feed">Ver todas as notícias</a>
-    </div>
-    
+    <h1 class="titulo-site">Notícias de relevância epidemiológica</h1>
+    <p class="vazio-claro">Acompanhe as notícias de relevância epidemiológica publicadas por fontes oficiais nacionais e internacionais, atualizadas diariamente. A cada semana epidemiológica, os principais destaques são reunidos em um clipping disponível para download.</p>
+    <div class="acoes"><a class="btn primario" href="edicoes/clipping-SE40-2026.pdf" download>Baixar o clipping da SE 40/2026</a></div>
   </div>
 </section>
 
-
-<section class="hero">
+<nav class="abas" id="abas" aria-label="Seções do site">
   <div class="wrap">
-    <div class="hero-corpo">
-      <div>
-        <p class="rotulo">Panorama da semana</p><p class="panorama">A semana foi marcada pela expansão internacional do surto de doença pelo vírus Bundibugyo na República Democrática do Congo, que ultrapassou 8,7 mil casos confirmados e registrou o primeiro caso importado no Quênia. A OMS notificou óbito por pneumonia de etiologia indeterminada em trabalhador de laboratório na Rússia. Nas Américas, a OPAS classificou como muito alto o risco de disseminação do sarampo diante de eventos religiosos de massa, em um ano com mais de 55 mil casos confirmados na região, e o Panamá declarou emergência nacional após terremoto de magnitude 7,5. No Brasil, a Anvisa autorizou o primeiro ensaio em humanos de uma vacina nacional contra a malária vivax, e o InfoGripe aponta alta de SRAG por rinovírus, com sinal de aumento também no Distrito Federal.</p>
+    <a class="marca" href="#noticias" data-aba="noticias"><img src="assets/logos.png" alt="Sala de Situação de Saúde - UnB | Residência de Vigilância em Saúde"></a>
+    <div class="lista-abas" role="tablist">
+      <a role="tab" href="#noticias" data-aba="noticias">Notícias</a>
+      <a role="tab" href="#destaques" data-aba="destaques">Destaques da semana</a>
+      <a role="tab" href="#edicoes" data-aba="edicoes">Edições</a>
+    </div>
+  </div>
+</nav>
+
+<main>
+<section class="painel" id="noticias" role="tabpanel">
+  <div class="wrap">
+    <div class="cab-secao"><h2>Notícias</h2><p>Últimos 90 dias | atualizado em 15 de outubro de 2026</p></div>
+    <div class="filtros">
+      <input id="busca" type="search" placeholder="Buscar notícias" aria-label="Buscar">
+      <select id="agravo" aria-label="Agravo">
+        <option value="">Todos os agravos</option>
+        <option>Doença pelo vírus Ebola</option><option>Febres hemorrágicas virais</option><option>Influenza e vírus respiratórios</option><option>Sarampo</option><option>Febre do Nilo Ocidental</option><option>Malária</option><option>Dengue</option><option>Doença meningocócica e meningites</option><option>Peste</option><option>Influenza por novo subtipo</option><option>Arboviroses</option><option>Síndrome respiratória e coronavírus emergentes</option><option>Intoxicações</option><option>Chikungunya</option><option>Sífilis</option><option>HIV/aids e IST</option><option>Saúde ambiental e clima</option><option>Emergências e desastres</option><option>Hepatites virais</option><option>Doenças transmitidas por alimentos e água</option><option>Cólera</option><option>Mpox</option><option>COVID-19</option><option>Resistência antimicrobiana</option><option>Imunização</option><option>Poliomielite</option><option>Hantavirose</option><option>Rubéola</option>
+      </select>
+      <select id="fonte" aria-label="Fonte">
+        <option value="">Todas as fontes</option>
+        <option>Africa CDC</option><option>Agência Brasil</option><option>CDC</option><option>ECDC</option><option>Fiocruz</option><option>MS</option><option>OMS</option><option>OPAS</option><option>SES-GO</option>
+      </select>
+      <select id="relevancia" aria-label="Relevância epidemiológica">
+        <option value="1">Toda relevância</option>
+        <option value="2">Moderada ou mais</option>
+        <option value="3">Alta ou mais</option>
+        <option value="4">Muito alta ou mais</option>
+        <option value="5">Máxima</option>
+      </select>
+      <select id="ordem" aria-label="Ordenar">
+        <option value="data">Mais recentes</option>
+        <option value="relevancia">Mais relevantes</option>
+      </select>
+    </div>
+    <p class="legenda-relev"><span class="relev"><i class="on"></i><i class="on"></i><i class="on"></i><i></i><i></i></span>
+      Relevância epidemiológica estimada pela gravidade do agravo, natureza do evento (surto, alerta, óbitos), proximidade do DF e tipo de fonte.</p>
+    <div class="chips" role="group" aria-label="Escopo geográfico">
+      <button class="chip" data-escopo="" aria-pressed="true">Todos</button>
+      <button class="chip e-DF" data-escopo="DF" aria-pressed="false"><span class="ponto"></span><span style="color:var(--tinta)">Distrito Federal</span></button><button class="chip e-Brasil" data-escopo="Brasil" aria-pressed="false"><span class="ponto"></span><span style="color:var(--tinta)">Brasil</span></button><button class="chip e-Américas" data-escopo="Américas" aria-pressed="false"><span class="ponto"></span><span style="color:var(--tinta)">Américas</span></button><button class="chip e-Internacional" data-escopo="Internacional" aria-pressed="false"><span class="ponto"></span><span style="color:var(--tinta)">Internacional</span></button>
+    </div>
+    <div class="contagem" id="contagem"></div>
+    <ul class="lista" id="lista"></ul>
+    <button class="btn secundario mais" id="mais" hidden>Carregar mais</button>
+  </div>
+</section>
+
+<section class="painel" id="destaques" role="tabpanel" hidden>
+  <div class="wrap">
+    
+    <div class="se-cabecalho">
+      <div class="hero-titulo">
+        <span class="num">40</span>
+        <div><h2>Semana Epidemiológica<br>40 de 2026</h2><p class="periodo">4 a 10 de outubro de 2026</p></div>
       </div>
+      <a class="btn primario" href="edicoes/clipping-SE40-2026.pdf" download>Baixar clipping em PDF</a>
+    </div>
+    <div class="filete"></div>
+    
+    <figure class="mapa-semana">
+      <img src="edicoes/img/SE40-2026/mapa-semana.svg" alt="Mapa dos destaques da semana">
+      <figcaption><span class="rotulo">Mapa da semana</span><span>Os números indicam os destaques abaixo.</span>
+        <span class="leg"><span class="selo e-DF">Distrito Federal</span><span class="selo e-Brasil">Brasil</span><span class="selo e-Américas">Américas</span><span class="selo e-Internacional">Internacional</span></span></figcaption>
+    </figure>
+    
+    <div class="hero-corpo resumo-semana">
+      <div><p class="rotulo">Panorama da semana</p><p class="panorama">A semana foi marcada pela expansão internacional do surto de doença pelo vírus Bundibugyo na República Democrática do Congo, que ultrapassou 8,7 mil casos confirmados e registrou o primeiro caso importado no Quênia. A OMS notificou óbito por pneumonia de etiologia indeterminada em trabalhador de laboratório na Rússia. Nas Américas, a OPAS classificou como muito alto o risco de disseminação do sarampo diante de eventos religiosos de massa, em um ano com mais de 55 mil casos confirmados na região, e o Panamá declarou emergência nacional após terremoto de magnitude 7,5. No Brasil, a Anvisa autorizou o primeiro ensaio em humanos de uma vacina nacional contra a malária vivax, e o InfoGripe aponta alta de SRAG por rinovírus, com sinal de aumento também no Distrito Federal.</p></div>
       <div class="kpis">
         <div class="kpi"><span class="v">7</span><span class="l neutro">destaques</span></div>
         <div class="kpi"><span class="v">39</span><span class="l neutro">publicações monitoradas</span></div>
         <div class="kpi e-DF"><span class="v">0</span><span class="l">Distrito Federal</span></div><div class="kpi e-Brasil"><span class="v">2</span><span class="l">Brasil</span></div><div class="kpi e-Américas"><span class="v">2</span><span class="l">Américas</span></div><div class="kpi e-Internacional"><span class="v">3</span><span class="l">Internacional</span></div>
       </div>
     </div>
-  </div>
-</section>
-
-
-
-<section class="bloco" id="destaques">
-  <div class="wrap">
-    <div class="cab-secao"><h2>Destaques da semana</h2><p>SE 40/2026 | 4 a 10 de outubro de 2026</p></div>
     <div class="grade">
       
       <article class="card principal" id="d1">
@@ -407,50 +455,13 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
       </article>
       
     </div>
+    
   </div>
 </section>
 
-
-<section class="bloco" id="feed">
+<section class="painel" id="edicoes" role="tabpanel" hidden>
   <div class="wrap">
-    <div class="cab-secao"><h2>Feed de notícias</h2><p>Últimos 90 dias | atualizado em 15 de outubro de 2026</p></div>
-    <div class="filtros">
-      <input id="busca" type="search" placeholder="Buscar por agravo, país, palavra-chave..." aria-label="Buscar">
-      <select id="agravo" aria-label="Agravo">
-        <option value="">Todos os agravos</option>
-        <option>Doença pelo vírus Ebola</option><option>Febres hemorrágicas virais</option><option>Influenza e vírus respiratórios</option><option>Sarampo</option><option>Febre do Nilo Ocidental</option><option>Malária</option><option>Dengue</option><option>Doença meningocócica e meningites</option><option>Peste</option><option>Influenza por novo subtipo</option><option>Arboviroses</option><option>Síndrome respiratória e coronavírus emergentes</option><option>Intoxicações</option><option>Chikungunya</option><option>Sífilis</option><option>HIV/aids e IST</option><option>Saúde ambiental e clima</option><option>Emergências e desastres</option><option>Hepatites virais</option><option>Doenças transmitidas por alimentos e água</option><option>Cólera</option><option>Mpox</option><option>COVID-19</option><option>Resistência antimicrobiana</option><option>Imunização</option><option>Poliomielite</option><option>Hantavirose</option><option>Rubéola</option>
-      </select>
-      <select id="fonte" aria-label="Fonte">
-        <option value="">Todas as fontes</option>
-        <option>Africa CDC</option><option>Agência Brasil</option><option>CDC</option><option>ECDC</option><option>Fiocruz</option><option>MS</option><option>OMS</option><option>OPAS</option><option>SES-GO</option>
-      </select>
-      <select id="relevancia" aria-label="Relevância epidemiológica">
-        <option value="1">Qualquer relevância</option>
-        <option value="2">Relevância moderada ou maior</option>
-        <option value="3">Relevância alta ou maior</option>
-        <option value="4">Relevância muito alta ou maior</option>
-        <option value="5">Relevância máxima</option>
-      </select>
-      <select id="ordem" aria-label="Ordenar">
-        <option value="data">Mais recentes primeiro</option>
-        <option value="relevancia">Mais relevantes primeiro</option>
-      </select>
-    </div>
-    <p class="legenda-relev"><span class="relev"><i class="on"></i><i class="on"></i><i class="on"></i><i></i><i></i></span>
-      Relevância epidemiológica estimada pela gravidade do agravo, natureza do evento (surto, alerta, óbitos), proximidade do DF e tipo de fonte.</p>
-    <div class="chips" role="group" aria-label="Escopo geográfico">
-      <button class="chip" data-escopo="" aria-pressed="true">Todos</button>
-      <button class="chip e-DF" data-escopo="DF" aria-pressed="false"><span class="ponto"></span><span style="color:var(--tinta)">Distrito Federal</span></button><button class="chip e-Brasil" data-escopo="Brasil" aria-pressed="false"><span class="ponto"></span><span style="color:var(--tinta)">Brasil</span></button><button class="chip e-Américas" data-escopo="Américas" aria-pressed="false"><span class="ponto"></span><span style="color:var(--tinta)">Américas</span></button><button class="chip e-Internacional" data-escopo="Internacional" aria-pressed="false"><span class="ponto"></span><span style="color:var(--tinta)">Internacional</span></button>
-    </div>
-    <div class="contagem" id="contagem"></div>
-    <ul class="lista" id="lista"></ul>
-    <button class="btn secundario mais" id="mais" hidden>Carregar mais</button>
-  </div>
-</section>
-
-<section class="bloco" id="edicoes">
-  <div class="wrap">
-    <div class="cab-secao"><h2>Edições anteriores</h2><p>Clipping semanal por semana epidemiológica</p></div>
+    <div class="cab-secao"><h2>Edições</h2><p>Clipping semanal por semana epidemiológica</p></div>
     
     <ul class="edicoes">
       
@@ -467,11 +478,12 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
     
   </div>
 </section>
+</main>
 
 <footer>
   <div class="wrap">
     <div class="linha-ouro"></div>
-    <div><b>Realização</b><div class="realizacao"><div class="logos-rodape"><img src="assets/logos-fundo-escuro.png" alt="Sala de Situação de Saúde - UnB | Residência de Vigilância em Saúde"></div><div class="nomes"><span>Sala de Situação de Saúde - UnB</span><span>Residência de Vigilância em Saúde</span></div></div></div>
+    <div><b>Realização</b><div class="realizacao"><div class="logos-rodape"><img src="assets/logos.png" alt="Sala de Situação de Saúde - UnB | Residência de Vigilância em Saúde"></div><div class="nomes"><span>Sala de Situação de Saúde - UnB</span><span>Residência de Vigilância em Saúde</span></div></div></div>
     <div><b>Fontes oficiais monitoradas</b><p>Africa CDC, Agência Brasil, Agência Brasília, Agência Fiocruz de Notícias, CDC, ECDC, Ministério da Saúde, OMS, OPAS, SES-GO.</p></div>
     <div><b>Método</b><p>As publicações são coletadas diariamente e classificadas por critérios de relevância epidemiológica (agravo, natureza do evento, proximidade geográfica e tipo de comunicado). Os destaques semanais têm títulos e resumos elaborados com apoio de inteligência artificial a partir do texto original. Para uso técnico, consulte sempre a publicação de origem.</p></div>
     
@@ -531,9 +543,9 @@ $("relevancia").addEventListener("change", (e) => { estado.nivel = Number(e.targ
 $("ordem").addEventListener("change", (e) => { estado.ordem = e.target.value; estado.limite = POR_PAGINA; render(); });
 // A marca no topo só aparece depois que o bloco institucional sai da tela
 (() => {
-  const topo = document.querySelector(".topo"), inst = document.querySelector(".institucional");
-  if (!inst || !("IntersectionObserver" in window)) { topo.classList.add("compacto"); return; }
-  new IntersectionObserver(([e]) => topo.classList.toggle("compacto", !e.isIntersecting), { rootMargin: "-64px 0px 0px 0px" }).observe(inst);
+  const abas = document.querySelector(".abas"), capa = document.querySelector(".capa");
+  if (!capa || !("IntersectionObserver" in window)) { abas.classList.add("compacto"); return; }
+  new IntersectionObserver(([e]) => abas.classList.toggle("compacto", !e.isIntersecting), { rootMargin: "-64px 0px 0px 0px" }).observe(capa);
 })();
 document.querySelectorAll(".chip").forEach((b) => b.addEventListener("click", () => {
   document.querySelectorAll(".chip").forEach((c) => c.setAttribute("aria-pressed", String(c === b)));
@@ -541,6 +553,23 @@ document.querySelectorAll(".chip").forEach((b) => b.addEventListener("click", ()
 }));
 $("mais").addEventListener("click", () => { estado.limite += POR_PAGINA; render(); });
 render();
+
+// Abas: Notícias (padrão), Destaques da semana e Edições
+const ABAS = ["noticias", "destaques", "edicoes"];
+function mostrarAba(id, rolar) {
+  if (!ABAS.includes(id)) id = "noticias";
+  document.querySelectorAll(".painel").forEach((p) => { p.hidden = p.id !== id; });
+  document.querySelectorAll(".lista-abas [data-aba]").forEach((a) => a.setAttribute("aria-selected", String(a.dataset.aba === id)));
+  const barra = document.getElementById("abas");
+  if (rolar) window.scrollTo({ top: barra.offsetTop, behavior: "smooth" });
+}
+document.querySelectorAll("[data-aba]").forEach((a) => a.addEventListener("click", (e) => {
+  e.preventDefault();
+  history.replaceState(null, "", "#" + a.dataset.aba);
+  mostrarAba(a.dataset.aba, true);
+}));
+window.addEventListener("hashchange", () => mostrarAba(location.hash.slice(1), true));
+mostrarAba(location.hash.slice(1).replace("feed", "noticias"), false);
 </script>
 </body>
 </html>
