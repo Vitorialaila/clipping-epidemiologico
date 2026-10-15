@@ -1728,6 +1728,29 @@
   "municipios": []
  },
  {
+  "id": "660b42ac13e45c",
+  "titulo": "DF registra 39 incêndios em vegetação somente neste sábado (10/10), diz CBMDF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7518760-df-registra-39-incendios-em-vegetacao-somente-neste-sabado-10-10-diz-cbmdf.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-10",
+  "data_estimada": false,
+  "se": "2026-40",
+  "descricao": "",
+  "coletado_em": "2026-10-15T17:57:56+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
   "id": "eaa3871d571417",
   "titulo": "La OPS/OMS coordina con el Ministerio de Salud el apoyo a la respuesta en salud tras el terremoto en Panamá",
   "url": "https://www.paho.org/es/noticias/10-10-2026-opsoms-coordina-con-ministerio-salud-apoyo-respuesta-salud-tras-terremoto",
