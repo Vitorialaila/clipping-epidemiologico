@@ -127,7 +127,7 @@ a { color: inherit; text-decoration: none; }
 .secao-titulo { display: flex; align-items: baseline; gap: 3mm; border-bottom: 0.6pt solid var(--ouro-2); padding-bottom: 1.8mm; margin-bottom: 4.5mm; break-after: avoid; }
 .secao-titulo h2 { font-family: "Serif"; font-weight: 400; font-size: 17pt; margin: 0; color: var(--navy); }
 .secao-titulo .qtd { font-size: 7.5pt; color: var(--cinza); letter-spacing: 0.08em; text-transform: uppercase; }
-.secao-titulo .barra { display: inline-block; width: 3.2mm; height: 3.2mm; background: currentColor; align-self: center; }
+.secao-titulo .barra { display: inline-block; width: 3.2mm; height: 3.2mm; background: currentColor; margin-right: 2.5mm; vertical-align: 0.12em; }
 .grade { column-count: 2; column-gap: 8mm; column-rule: 0.4pt solid var(--linha); }
 .grade.unica { column-count: 1; column-rule: none; }
 .grade.unica .noticia { display: flex; gap: 7mm; align-items: flex-start; }
@@ -273,8 +273,7 @@ a { color: inherit; text-decoration: none; }
 {% for s in secoes %}
 <section class="secao">
   <div class="secao-titulo">
-    <span class="barra e-{{ s.escopo }}"></span>
-    <h2>{{ s.nome }}</h2>
+    <h2><span class="barra e-{{ s.escopo }}"></span>{{ s.nome }}</h2>
     <span class="qtd">{{ s.itens|length }} {{ 'destaque' if s.itens|length == 1 else 'destaques' }}</span>
   </div>
   <div class="grade{% if s.itens|length == 1 %} unica{% endif %}">
