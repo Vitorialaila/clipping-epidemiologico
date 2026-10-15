@@ -76,5 +76,7 @@ def gerar() -> None:
                for i, d in enumerate(ultima["destaques"], start=1)] if ultima else []
     (DOCS / "assets" / "mapa-hero.svg").write_text(mapas.mapa_semana(eventos, tema="escuro"),
                                                    encoding="utf-8")
+    # Mapa-múndi decorativo (sem marcadores) para o fundo azul da abertura
+    (DOCS / "assets" / "mapa-decorativo.svg").write_text(mapas.mapa_semana([], tema="escuro"), encoding="utf-8")
     salvar_json(DOCS / "dados" / "feed.json", feed)
     log.info("Site gerado: %d notícias no feed, %d edições.", len(feed), len(edicoes))
