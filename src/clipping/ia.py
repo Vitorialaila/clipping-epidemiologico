@@ -33,6 +33,10 @@ REGRAS_TEXTO = (
 )
 
 
+class AcessoNegado(RuntimeError):
+    """Chave recusada pelo provedor (inválida, restrita ou com a API desativada)."""
+
+
 class CotaEsgotada(RuntimeError):
     """A cota gratuita do dia acabou: o restante da edição segue sem IA."""
 
@@ -81,6 +85,15 @@ def _gemini(modelo: str, sistema: str, usuario: str, max_tokens: int, json_saida
         corpo["generationConfig"]["responseMimeType"] = "application/json"
     r = requests.post(URL_GEMINI.format(modelo=modelo), json=corpo, timeout=120,
                       headers={"x-goog-api-key": os.environ["GEMINI_API_KEY"]})
+    if r.status_code in (401, 403):
+        try:
+            err = r.json().get("error", {})
+            motivo = err.get("message", "")
+            detalhes = [d.get("reason", "") for d in err.get("details", []) if isinstance(d, dict)]
+            motivo = f"{err.get('status', '')} {' '.join(x for x in detalhes if x)}: {motivo}".strip()
+        except ValueError:
+            motivo = r.text[:400]
+        raise AcessoNegado(f"{r.status_code} {motivo}")
     if r.status_code == 429:
         raise PermissionError(f"429: {r.text[:300]}")
     if r.status_code in (400, 404):
@@ -112,6 +125,11 @@ def _chamar(tipo: str, sistema: str, usuario: str, max_tokens: int = 2000, json_
             _pausa()
             try:
                 return chamar(modelo, sistema, usuario, max_tokens, json_saida)
+            except AcessoNegado as erro:  # chave recusada: não adianta repetir nem trocar de modelo
+                _cota_esgotada = True
+                log.error("A chave GEMINI_API_KEY foi recusada pelo Google. Motivo informado: %s", erro)
+                log.error("A edição segue sem IA. Verifique a chave em https://aistudio.google.com/apikey.")
+                raise
             except LookupError as erro:  # modelo inexistente ou requisição recusada: próximo modelo
                 log.warning("Modelo %s indisponível: %s", modelo, erro)
                 ultimo_erro = erro
