@@ -159,22 +159,22 @@ a { color: inherit; text-decoration: none; }
 .nota p { margin: 0 0 1.2mm; }
 
 /* Faixa da capa em degradê */
-.faixa-capa { margin: -13mm -17mm 0; padding: 11mm 17mm 7mm; color: #fff; position: relative;
-  background: linear-gradient(160deg, #1F4F8E 0%, #0A3570 38%, #061B3F 100%); }
+.faixa-capa { margin: -13mm -17mm 0; padding: 8mm 17mm 6mm; color: #fff; position: relative;
+  background: linear-gradient(180deg, #FFFFFF 0mm, #FFFFFF 31mm, #E6EDF6 35mm, #7C9DC9 39mm, #2B5A97 43mm,
+    #0A3570 48mm, #061B3F 100%); }
 .faixa-capa::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 1.6mm;
   background: linear-gradient(90deg, #B8921A 0 45%, #0B7A32 45% 72%, #1E4E8C 72%); }
 .faixa-capa .capa-topo { display: flex; align-items: center; justify-content: flex-start; gap: 7mm; }
-.faixa-capa .cartao-logos { background: #fff; border-radius: 2.5mm; padding: 3mm 4.5mm; }
-.faixa-capa .cartao-logos img { height: 21mm; display: block; }
-.faixa-capa .inst { display: flex; flex-direction: column; gap: 1.2mm; }
-.faixa-capa .inst .rot { font-size: 6.6pt; letter-spacing: 0.24em; text-transform: uppercase; color: #D9C17A; font-weight: 700; }
-.faixa-capa .inst strong { font-family: "Serif"; font-weight: 400; font-size: 15pt; line-height: 1.1; color: #fff; }
-.kicker-claro { margin: 8mm 0 3mm; font-size: 7.2pt; letter-spacing: 0.22em; text-transform: uppercase; color: #D9C17A; font-weight: 700; }
+.faixa-capa .logos-grandes { height: 22mm; display: block; }
+.faixa-capa .inst { display: flex; flex-direction: column; gap: 1.2mm; border-left: 0.5mm solid #D9C17A; padding-left: 5mm; }
+.faixa-capa .inst .rot { font-size: 6.6pt; letter-spacing: 0.24em; text-transform: uppercase; color: #B8921A; font-weight: 700; }
+.faixa-capa .inst strong { font-family: "Serif"; font-weight: 400; font-size: 15pt; line-height: 1.1; color: #0A3570; }
+.kicker-claro { margin: 16mm 0 2.5mm; font-size: 7.2pt; letter-spacing: 0.22em; text-transform: uppercase; color: #D9C17A; font-weight: 700; }
 .kicker-claro span { color: rgba(255,255,255,0.7); font-weight: 500; letter-spacing: 0.08em; }
 .faixa-capa .titulo-capa .se-num { color: #D9B23C; font-size: 66pt; }
 .faixa-capa .titulo-capa .se-txt h1 { color: #fff; font-size: 25pt; }
 .faixa-capa .titulo-capa .se-txt p em { color: rgba(255,255,255,0.88); }
-.mapa-escuro { margin: 6mm 0 0; }
+.mapa-escuro { margin: 4mm 0 0; }
 .mapa-escuro img { width: 100%; display: block; border-radius: 1.6mm; border: 0.3mm solid rgba(255,255,255,0.12); }
 .mapa-escuro figcaption { display: flex; align-items: baseline; gap: 3mm; margin-top: 2mm; font-size: 7pt; color: rgba(255,255,255,0.75); }
 .mapa-escuro .rotulo-mini { font-size: 6.6pt; letter-spacing: 0.2em; text-transform: uppercase; font-weight: 700; color: #fff; }
@@ -208,7 +208,7 @@ a { color: inherit; text-decoration: none; }
 <section class="capa-pagina">
 <div class="faixa-capa">
   <div class="capa-topo">
-    <div class="cartao-logos"><img src="assets/img/logos.png" alt="{{ subtitulo }}"></div>
+    <img class="logos-grandes" src="assets/img/logos.png" alt="{{ subtitulo }}">
     {% if instituicoes %}<div class="inst"><span class="rot">Realização</span>{% for n in instituicoes %}<strong>{{ n }}</strong>{% endfor %}</div>{% endif %}
   </div>
   <div class="kicker-claro">{{ titulo }}<span> | Publicado em {{ data_geracao }}</span></div>

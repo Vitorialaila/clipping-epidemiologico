@@ -43,19 +43,26 @@ a { color: inherit; }
 
 /* Faixa institucional em degradê */
 .capa { position: relative; overflow: hidden; color: #fff;
-  background: radial-gradient(120% 150% at 88% 0%, #2A5FA3 0%, #0A3570 36%, #061B3F 100%); }
+  background: linear-gradient(180deg, #FFFFFF 0, #FFFFFF 150px, #E6EDF6 205px, #7C9DC9 255px, #2B5A97 300px,
+    #0A3570 360px, #061B3F 100%); }
 .capa::before { content: ""; position: absolute; inset: 0; pointer-events: none;
-  background: radial-gradient(60% 80% at 8% 100%, rgba(184,146,26,.20), transparent 70%); }
+  background: radial-gradient(70% 60% at 90% 45%, rgba(42,95,163,.45), transparent 70%),
+              radial-gradient(55% 45% at 6% 100%, rgba(184,146,26,.16), transparent 70%); }
 .capa::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 5px;
   background: linear-gradient(90deg, #B8921A 0 45%, #0B7A32 45% 72%, #1E4E8C 72%); }
-.capa .wrap { position: relative; z-index: 1; padding-top: 40px; padding-bottom: 56px; }
-.institucional { display: flex; flex-wrap: wrap; align-items: center; gap: 18px 28px; margin-bottom: 44px; }
-.cartao-logos { background: #fff; border-radius: 16px; padding: 14px 22px; box-shadow: 0 14px 40px rgba(0,0,0,.30); }
-.cartao-logos img { height: 84px; display: block; }
+.capa .wrap { position: relative; z-index: 1; padding-top: 30px; padding-bottom: 56px; }
+.institucional { display: flex; flex-wrap: wrap; align-items: center; gap: 18px 32px; height: 120px; margin-bottom: 150px; }
+.institucional .logos-grandes { height: 96px; display: block; }
 .inst-nomes { display: flex; flex-direction: column; gap: 6px; }
-.inst-nomes .rot { font-size: 11px; letter-spacing: .24em; text-transform: uppercase; color: #D9C17A; font-weight: 700; }
-.inst-nomes strong { font-family: var(--serif); font-weight: 400; font-size: clamp(20px, 2.4vw, 26px); line-height: 1.12; color: #fff; }
-@media (max-width: 560px) { .cartao-logos img { height: 58px; } .cartao-logos { padding: 10px 14px; } }
+.inst-nomes { border-left: 2px solid #D9C17A; padding-left: 22px; }
+.inst-nomes .rot { font-size: 11px; letter-spacing: .24em; text-transform: uppercase; color: #B8921A; font-weight: 700; }
+.inst-nomes strong { font-family: var(--serif); font-weight: 400; font-size: clamp(20px, 2.4vw, 27px); line-height: 1.12; color: #0A3570; }
+@media (max-width: 700px) {
+  .capa { background: linear-gradient(180deg, #FFFFFF 0, #FFFFFF 250px, #E6EDF6 300px, #7C9DC9 350px, #2B5A97 395px, #0A3570 450px, #061B3F 100%); }
+  .institucional { height: auto; margin-bottom: 150px; }
+  .institucional .logos-grandes { height: 70px; }
+  .inst-nomes { border-left: none; padding-left: 0; }
+}
 .capa .kicker { color: #D9C17A; }
 .capa .hero-titulo h1 { color: #fff; }
 .capa .hero-titulo .num { color: #D9B23C; text-shadow: 0 6px 30px rgba(0,0,0,.25); }
@@ -78,7 +85,8 @@ a { color: inherit; }
 .capa .btn.secundario:hover { background: rgba(255,255,255,.08); }
 .capa .vazio-claro { max-width: 760px; font-size: 18px; line-height: 1.6; color: rgba(255,255,255,.88); margin: 0 0 28px; }
 .realizacao { display: flex; flex-wrap: wrap; align-items: center; gap: 18px 28px; }
-.realizacao .cartao-logos img { height: 64px; }
+.realizacao .logos-rodape { background: linear-gradient(90deg, #fff 70%, rgba(255,255,255,0)); padding: 12px 60px 12px 18px; border-radius: 12px 0 0 12px; }
+.realizacao .logos-rodape img { height: 60px; display: block; }
 .realizacao .nomes { display: flex; flex-direction: column; gap: 2px; color: #fff; font-size: 15px; }
 
 /* Abertura */
@@ -217,7 +225,7 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
 <section class="capa">
   <div class="wrap">
     <div class="institucional">
-      <div class="cartao-logos"><img src="assets/logos.png" alt="{{ subtitulo }}"></div>
+      <img class="logos-grandes" src="assets/logos.png" alt="{{ subtitulo }}">
       {% if instituicoes %}<div class="inst-nomes"><span class="rot">Realização</span>{% for n in instituicoes %}<strong>{{ n }}</strong>{% endfor %}</div>{% endif %}
     </div>
     <span class="kicker">{{ titulo }}</span>
@@ -343,7 +351,7 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
 <footer>
   <div class="wrap">
     <div class="linha-ouro"></div>
-    {% if instituicoes %}<div><b>Realização</b><div class="realizacao"><div class="cartao-logos"><img src="assets/logos.png" alt="{{ subtitulo }}"></div><div class="nomes">{% for n in instituicoes %}<span>{{ n }}</span>{% endfor %}</div></div></div>{% endif %}
+    {% if instituicoes %}<div><b>Realização</b><div class="realizacao"><div class="logos-rodape"><img src="assets/logos.png" alt="{{ subtitulo }}"></div><div class="nomes">{% for n in instituicoes %}<span>{{ n }}</span>{% endfor %}</div></div></div>{% endif %}
     <div><b>Fontes oficiais monitoradas</b><p>{{ fontes_monitoradas|join(', ') }}.</p></div>
     <div><b>Método</b><p>As publicações são coletadas diariamente e classificadas por critérios de relevância epidemiológica (agravo, natureza do evento, proximidade geográfica e tipo de comunicado). Os destaques semanais têm títulos e resumos elaborados com apoio de inteligência artificial a partir do texto original. Para uso técnico, consulte sempre a publicação de origem.</p></div>
     {% if rodape %}<p>{{ rodape }}</p>{% endif %}
