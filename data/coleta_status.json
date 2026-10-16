@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-10-16T18:02:51+00:00",
+  "em": "2026-10-16T21:06:09+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,9 +10,9 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-10-16T18:02:51+00:00",
+  "em": "2026-10-16T21:06:09+00:00",
   "lidos": 40,
-  "novos": 3,
+  "novos": 0,
   "exemplos": [
    "WHO and ADVANCE-ID strengthen clinical trial capacity through workshop",
    "Group of Friends of Traditional Medicine highlights growing global cooperation and priorities",
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-10-16T18:02:51+00:00",
+  "em": "2026-10-16T21:06:09+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-10-16T18:02:51+00:00",
+  "em": "2026-10-16T21:06:09+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,9 +40,9 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-10-16T18:02:51+00:00",
+  "em": "2026-10-16T21:06:09+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Communicable disease threats report, 10 - 16 October, week 42",
    "Communicable disease threats report, 3 - 9 October, week 41",
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-10-16T18:02:51+00:00",
+  "em": "2026-10-16T21:06:09+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-10-16T18:02:51+00:00",
+  "em": "2026-10-16T21:06:09+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-10-16T18:02:51+00:00",
+  "em": "2026-10-16T21:06:09+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-10-16T18:02:51+00:00",
+  "em": "2026-10-16T21:06:09+00:00",
   "lidos": 2343,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-10-16T18:02:51+00:00",
+  "em": "2026-10-16T21:06:09+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,9 +100,9 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-10-16T18:02:51+00:00",
+  "em": "2026-10-16T21:06:09+00:00",
   "lidos": 15,
-  "novos": 2,
+  "novos": 0,
   "exemplos": [
    "Ministério da Saúde, estados e municípios promovem Circuito de Cuidado da Mulher neste sábado",
    "Hospital São Paulo volta a integrar programa de reestruturação de hospitais universitários",
@@ -110,9 +110,9 @@
   ]
  },
  "fiocruz": {
-  "em": "2026-10-16T18:02:51+00:00",
+  "em": "2026-10-16T21:06:09+00:00",
   "lidos": 10,
-  "novos": 2,
+  "novos": 0,
   "exemplos": [
    "Método Wolbachia contra arboviroses começa a ser implantado no Ceará",
    "Nav. ed. pt Carta Aberta Eleicoes 2026 Compromisso 6",
@@ -120,9 +120,9 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-10-16T18:02:51+00:00",
+  "em": "2026-10-16T21:06:09+00:00",
   "lidos": 10,
-  "novos": 2,
+  "novos": 0,
   "exemplos": [
    "Governo monitora saúde de amazonenses em locais afetados por queimadas",
    "A cada 72 segundos, uma pessoa morre por doença cardiovascular no país",
@@ -130,9 +130,9 @@
   ]
  },
  "ses-go": {
-  "em": "2026-10-16T18:02:51+00:00",
+  "em": "2026-10-16T21:06:09+00:00",
   "lidos": 10,
-  "novos": 10,
+  "novos": 0,
   "exemplos": [
    "SES intensifica ações de combate ao Aedes aegypti em todo o Estado e pede apoio da população para eliminar criadouros",
    "Superintendente de Controle Interno e Correição",
@@ -140,17 +140,17 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-10-16T18:02:51+00:00",
+  "em": "2026-10-16T21:06:09+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
-   "Do trabalho sem limite ao fim da 6x1: veja avanço da jornada no Brasil",
    "Professora aposentada da UFRJ é baleada em assalto na zona sul do Rio",
-   "Três suspeitos são mortos pela polícia militar em assalto a casa em SP"
+   "Três suspeitos são mortos pela polícia militar em assalto a casa em SP",
+   "São Paulo terá mais chuvas fortes no fim da tarde desta quinta (15)"
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-10-16T18:02:51+00:00",
+  "em": "2026-10-16T21:06:09+00:00",
   "lidos": 26,
   "novos": 0,
   "exemplos": [
@@ -160,19 +160,19 @@
   ]
  },
  "cnn-saude": {
-  "em": "2026-10-16T18:02:51+00:00",
-  "lidos": 18,
+  "em": "2026-10-16T21:06:09+00:00",
+  "lidos": 17,
   "novos": 0,
   "exemplos": [
+   "Roller coaster death and injuries leave fans asking whether the thrill is worth the risk",
    "For more parents, ‘vaccine refusal’ is becoming vaccine delay, but it’s no less dangerous",
-   "About 1 in 8 cancer cases worldwide are tied to these infections — most of them preventable",
-   "Respiratory virus season has arrived. Here’s what to know about flu, Covid-19 and RSV vaccines this fall"
+   "About 1 in 8 cancer cases worldwide are tied to these infections — most of them preventable"
   ]
  },
  "cnn-busca": {
-  "em": "2026-10-16T18:02:51+00:00",
+  "em": "2026-10-16T21:06:09+00:00",
   "lidos": 28,
-  "novos": 0,
+  "novos": 2,
   "exemplos": [
    "Qantas plane grounded after reported bedbug outbreak",
    "Kenya prepared for Ebola. It still slipped through — a warning of wider cross-border spread",
@@ -180,17 +180,17 @@
   ]
  },
  "inmet": {
-  "em": "2026-10-16T18:02:51+00:00",
+  "em": "2026-10-16T21:06:09+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
+   "Previsão para sábado (17), domingo (18) e segunda-feira (19)",
    "Previsão para sexta-feira (16) e sábado (17)",
-   "Inmet participa da XXI Conferência dos Serviços Meteorológicos e Hidrológicos Ibero-Americanos, em Córdoba",
-   "Previsão para quinta-feira (15) e sexta-feira (16)"
+   "Inmet participa da XXI Conferência dos Serviços Meteorológicos e Hidrológicos Ibero-Americanos, em Córdoba"
   ]
  },
  "cemaden": {
-  "em": "2026-10-16T18:02:51+00:00",
+  "em": "2026-10-16T21:06:09+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -200,23 +200,23 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-10-16T18:02:51+00:00",
-  "lidos": 23,
-  "novos": 0,
+  "em": "2026-10-16T21:06:09+00:00",
+  "lidos": 25,
+  "novos": 1,
   "exemplos": [
+   "Autorizado repasse de R$ 1,8 milhão para ações de defesa civil",
    "Autorizado repasse de R$ 4,7 milhões para ações de defesa civil",
-   "Candeias: Defesa Civil de Candeias participou de encontro nacional das defesas civís do País",
-   "Nova Laranjeiras, no Paraná, recebe R$ 87 mil para ações de resposta"
+   "Candeias: Defesa Civil de Candeias participou de encontro nacional das defesas civís do País"
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-10-16T18:02:51+00:00",
+  "em": "2026-10-16T21:06:09+00:00",
   "lidos": 20,
-  "novos": 7,
+  "novos": 6,
   "exemplos": [
-   "Réu é condenado por matar vizinho após briga por estacionamento no DF",
    "Veja quem é o suspeito de balear mulher na cabeça na Candangolândia",
-   "Em Ceilândia, Grass promete endurecer ações contra agressores de mulheres"
+   "Réu é condenado por matar vizinho após briga por estacionamento no DF",
+   "\"Pena foi muito leve\", diz viúva de motorista morto em Samambaia"
   ]
  }
 }

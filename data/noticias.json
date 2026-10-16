@@ -88,6 +88,27 @@
   "termos_evento": []
  },
  {
+  "id": "b7aade0dd775b5",
+  "titulo": "Operação El Niño: Governo de SP monitora os impactos da chuva e alerta para novos temporais",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSjF3Sy1UNkJjc1BLSUExWHQ3RXJiRHByNlhuZFp1dFpDLWVKSWJkNUxQaHBkdE9xRzRCd0pTUm5PYW1iNWJwa2FlblcwbU5hT1BZcVpQVHIySjAwQXdDWVZ2NlQwZzZOSUxFT1k2Y1E2NGN2SElGY1BORGZSRlJmRDczZ1J0ZkhkOExSSDZYdFhMVFA4WlBPNU5ndEQwR2dRaVBhRE5Nek1EcmU5dHNncnpzSEQxZDJZRDdJV1ZwS3FJTFhhMF9fNU41dnRHVUVuQkE?oc=5",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "agenciasp.sp.gov.br",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-16T21:06:09+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
   "id": "402851d47548b8",
   "titulo": "Communicable disease threats report, 10 - 16 October, week 42",
   "url": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-10-16-october-week-42",
@@ -1020,6 +1041,132 @@
   "se": "2026-41",
   "descricao": "",
   "coletado_em": "2026-10-16T18:02:51+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "2e0cc3f45353fa",
+  "titulo": "\"Pena foi muito leve\", diz viúva de motorista morto em Samambaia",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522282-pena-foi-muito-leve-diz-viuva-de-motorista-morto-em-samambaia.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-16T21:06:09+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "5ee46cc6842363",
+  "titulo": "Celina anuncia ato em defesa do Fundo Constitucional do DF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522041-celina-anuncia-ato-em-defesa-do-fundo-constitucional-do-df.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-16T21:06:09+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "61f30d9553adef",
+  "titulo": "Celina Leão e senadoras convocam ato em apoio a Flávio Bolsonaro no DF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522237-celina-leao-e-senadoras-convocam-ato-em-apoio-a-flavio-bolsonaro-no-df.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-16T21:06:09+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "0c9f2be61f2695",
+  "titulo": "Casa pega fogo na Candangolândia; mulher e criança escapam",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522249-casa-pega-fogo-na-candangolandia-mulher-e-crianca-escapam.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-16T21:06:09+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "9752ea2ccba8fa",
+  "titulo": "Fiéis se reúnem em devoção a Santa Edwiges",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522228-fieis-se-reunem-em-devocao-a-santa-edwiges.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-16T21:06:09+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "dd7db2cc6b3e2f",
+  "titulo": "MP quer pena maior para condenado por matar motorista após discussão",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522236-mp-quer-pena-maior-para-condenado-por-matar-motorista-apos-discussao.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-16T21:06:09+00:00",
   "municipios": [
    "Distrito Federal"
   ],
@@ -2816,6 +2963,27 @@
   ]
  },
  {
+  "id": "35f9f8f90336ff",
+  "titulo": "Qantas plane grounded after reported bedbug outbreak",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2Q255RFlNSXhSZXpmQWVhXzNPMnBXRFhYdXVRbDZBeEEzRGdfTU5oeXpDMFZjZGRRekt1MzBRME81WFM4SGVCT1ZxRGFrSVBCQ0dHMGRsaElWbXFyM3d2WTNlcnB0ZzNsZE9KaThQdE1xcmJIb1ZqaC1ub25mQUU?oc=5",
+  "fonte_id": "cnn-busca",
+  "fonte": "CNN",
+  "sigla": "CNN",
+  "idioma": "en",
+  "data": "2026-10-13",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-16T21:06:09+00:00",
+  "municipios": [],
+  "pontuacao": 3.5,
+  "agravos": [],
+  "escopo": "Internacional",
+  "termos_evento": [
+   "outbreak"
+  ]
+ },
+ {
   "id": "585cd4e9f6d06c",
   "titulo": "WHO and partners drive improved alignment for effective NTD and supply chain delivery",
   "url": "https://www.who.int/news/item/13-10-2026-who-and-partners-drive-improved-alignment-for-effective-ntd-and-supply-chain-delivery",
@@ -3519,6 +3687,27 @@
   "se": "2026-40",
   "descricao": "",
   "coletado_em": "2026-10-16T13:28:10+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Doença pelo vírus Ebola"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": []
+ },
+ {
+  "id": "4e71b75323facc",
+  "titulo": "Kenya prepared for Ebola. It still slipped through — a warning of wider cross-border spread",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPSGdxVlloZzI0RHBReUo5ZFZDSFZQZjdtWWhqUVFSeWZva2U4YTZvY0RoSVRJLUhCTVhzbWVFUlVha1RXQkhfS0xVNHNUVmkxeUJYb2FTclBNanVBU1JjU1BFRU1Pb0N2TC1TdmFOVk81MW1tZTNfRjdmd1BPY28?oc=5",
+  "fonte_id": "cnn-busca",
+  "fonte": "CNN",
+  "sigla": "CNN",
+  "idioma": "en",
+  "data": "2026-10-10",
+  "data_estimada": false,
+  "se": "2026-40",
+  "descricao": "",
+  "coletado_em": "2026-10-16T21:06:09+00:00",
   "municipios": [],
   "pontuacao": 6.5,
   "agravos": [
