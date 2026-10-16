@@ -1,0 +1,53 @@
+{
+ "edicao": "2026-40",
+ "se_codigo": "2026-40",
+ "rotulo": "SE 40/2026",
+ "se_numero": "40",
+ "se_ano": 2026,
+ "periodo": "4 a 10 de outubro de 2026",
+ "pdf": "boletins/boletim-SE40-2026.pdf",
+ "resumo": "A SE 40 de 2026 foi marcada pela intensificação do El Niño, que deve atingir o pico em dezembro, e por seus efeitos sobre a qualidade do ar e os recursos hídricos, com fumaça de queimadas em Manaus e incêndio em vegetação na Asa Norte, no Distrito Federal. No cenário respiratório, o InfoGripe aponta crescimento de curto prazo de SRAG no país, com predomínio do rinovírus e alta de metapneumovírus e SARS-CoV-2, e sinal de aumento de casos graves de covid-19 no Distrito Federal. As arboviroses seguem em patamar baixo no DF, com 3.540 casos prováveis de dengue no ano. Nas Américas, o sarampo soma 56.038 casos e 77 óbitos, e o Brasil registra 52 casos confirmados. A epidemia de doença pelo vírus Bundibugyo na República Democrática do Congo chegou a 8.728 casos confirmados e teve o primeiro caso importado no Quênia, enquanto a Zâmbia enfrenta epidemia de cólera em ascensão.",
+ "secoes": [
+  {
+   "nome": "Alerta ambiental",
+   "risco": "Risco 2",
+   "itens": 6
+  },
+  {
+   "nome": "Síndrome gripal e SRAG",
+   "risco": "Risco 2",
+   "itens": 7
+  },
+  {
+   "nome": "Cobertura vacinal",
+   "risco": "Risco 0",
+   "itens": 1
+  },
+  {
+   "nome": "Arboviroses e malária",
+   "risco": "Risco 2",
+   "itens": 8
+  },
+  {
+   "nome": "Sarampo",
+   "risco": "Risco 4",
+   "itens": 7
+  },
+  {
+   "nome": "Ebola",
+   "risco": "Risco 4",
+   "itens": 3
+  },
+  {
+   "nome": "Cólera",
+   "risco": "Risco 4",
+   "itens": 1
+  },
+  {
+   "nome": "Atualidades",
+   "risco": "",
+   "itens": 3
+  }
+ ],
+ "gerado_em": "2026-10-16T12:53:16+00:00"
+}

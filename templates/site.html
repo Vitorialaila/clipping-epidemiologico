@@ -210,6 +210,24 @@ section.bloco + section.bloco { border-top: 1px solid var(--linha); }
 .edicoes .links a { font-size: 14px; font-weight: 600; text-decoration: none; color: var(--navy); border: 1.5px solid var(--navy); border-radius: 999px; padding: 6px 14px; white-space: nowrap; }
 .edicoes .links a.antiga { border-color: var(--linha); color: var(--cinza); font-weight: 500; }
 
+/* Boletim epidemiológico */
+.bol-destaque { display: grid; grid-template-columns: 200px 1fr; gap: 32px; padding: 28px 0 32px; border-top: 3px solid var(--navy); border-bottom: 1px solid var(--linha); }
+.bol-se { background: linear-gradient(160deg, #fff 0%, #EAF0F8 30%, var(--navy) 100%); border-radius: 4px; padding: 20px; color: #fff; display: flex; flex-direction: column; justify-content: flex-end; min-height: 230px; }
+.bol-se small { font-size: 11px; letter-spacing: .2em; text-transform: uppercase; color: var(--ouro-2); font-weight: 600; }
+.bol-se b { font-family: var(--serif); font-weight: 400; font-size: 72px; line-height: 1; }
+.bol-se span { font-size: 14px; opacity: .85; }
+.bol-info .kicker { font-size: 12px; letter-spacing: .18em; text-transform: uppercase; color: var(--ouro); font-weight: 700; }
+.bol-info h3 { font-family: var(--serif); font-weight: 400; font-size: 30px; color: var(--navy); margin: 6px 0 4px; line-height: 1.15; }
+.bol-info .per { color: var(--cinza); font-size: 14px; margin-bottom: 14px; }
+.bol-info p.resumo { margin: 0 0 18px; line-height: 1.65; max-width: 820px; }
+.bol-eixos { list-style: none; margin: 0 0 22px; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 0 24px; }
+.bol-eixos li { display: flex; justify-content: space-between; align-items: center; gap: 10px; padding: 9px 0; border-bottom: 1px solid var(--linha); font-size: 14px; }
+.bol-eixos .rk { font-size: 10px; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; padding: 3px 8px; border-radius: 3px; color: #fff; white-space: nowrap; }
+.rk.r4, .rk.r3 { background: #A3262A; } .rk.r2 { background: var(--ouro); } .rk.r1, .rk.r0 { background: #2E7D4F; }
+.bol-ant { margin-top: 28px; }
+.bol-ant h4 { font-size: 12px; letter-spacing: .18em; text-transform: uppercase; color: var(--cinza); margin: 0 0 4px; }
+@media (max-width: 720px) { .bol-destaque { grid-template-columns: 1fr; gap: 20px; } .bol-se { min-height: 0; background: linear-gradient(120deg, var(--navy-2) 0%, var(--navy) 100%); } .bol-se b { font-size: 56px; } }
+
 footer { background: var(--creme); color: var(--texto); padding: 40px 0; font-size: 14px; border-top: 4px solid var(--navy); }
 footer .wrap { display: grid; gap: 18px; }
 footer b { color: var(--navy); letter-spacing: .14em; text-transform: uppercase; font-size: 12px; display: block; margin-bottom: 6px; }
@@ -270,7 +288,8 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
     <div class="lista-abas" role="tablist">
       <a role="tab" href="#noticias" data-aba="noticias">Notícias</a>
       <a role="tab" href="#destaques" data-aba="destaques">Destaques da semana</a>
-      <a role="tab" href="#edicoes" data-aba="edicoes">Edições</a>
+      <a role="tab" href="#boletim" data-aba="boletim">Boletim epidemiológico</a>
+      <a role="tab" href="#edicoes" data-aba="edicoes">Edições do clipping</a>
     </div>
   </div>
 </nav>
@@ -372,9 +391,45 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
   </div>
 </section>
 
+<section class="painel" id="boletim" role="tabpanel" hidden>
+  <div class="wrap">
+    <div class="cab-secao"><h2>Boletim epidemiológico</h2><p>Análise semanal da situação epidemiológica, por semana epidemiológica</p></div>
+    {% if boletins %}{% set b = boletins[0] %}
+    <article class="bol-destaque">
+      <div class="bol-se"><small>Semana epidemiológica</small><b>{{ b.se_numero }}</b><span>{{ b.se_ano }}</span></div>
+      <div class="bol-info">
+        <div class="kicker">Edição mais recente</div>
+        <h3>Boletim Epidemiológico | {{ b.rotulo }}</h3>
+        <div class="per">{{ b.periodo }}</div>
+        {% if b.resumo %}<p class="resumo">{{ b.resumo }}</p>{% endif %}
+        <ul class="bol-eixos">
+          {% for s in b.secoes %}<li><span>{{ s.nome }}</span>{% if s.risco %}<span class="rk r{{ s.risco[-1] }}">{{ s.risco }}</span>{% endif %}</li>{% endfor %}
+        </ul>
+        <a class="btn primario" href="{{ b.pdf }}" download>Baixar boletim (PDF)</a>
+      </div>
+    </article>
+    {% if boletins|length > 1 %}
+    <div class="bol-ant">
+      <h4>Edições anteriores</h4>
+      <ul class="edicoes">
+        {% for e in boletins[1:] %}
+        <li>
+          <div><div class="se">{{ e.rotulo }}</div><div class="per">{{ e.periodo }}</div></div>
+          <div class="links"><a href="{{ e.pdf }}" download>Baixar PDF</a></div>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+    {% else %}
+    <p class="vazio">Nenhum boletim publicado ainda.</p>
+    {% endif %}
+  </div>
+</section>
+
 <section class="painel" id="edicoes" role="tabpanel" hidden>
   <div class="wrap">
-    <div class="cab-secao"><h2>Edições</h2><p>Clipping semanal por semana epidemiológica</p></div>
+    <div class="cab-secao"><h2>Edições do clipping</h2><p>Clipping semanal por semana epidemiológica</p></div>
     {% if arquivo %}
     <ul class="edicoes">
       {% for se, versoes in arquivo.items() %}
@@ -470,8 +525,8 @@ document.querySelectorAll(".chip").forEach((b) => b.addEventListener("click", ()
 $("mais").addEventListener("click", () => { estado.limite += POR_PAGINA; render(); });
 render();
 
-// Abas: Notícias (padrão), Destaques da semana e Edições
-const ABAS = ["noticias", "destaques", "edicoes"];
+// Abas: Notícias (padrão), Destaques da semana, Boletim epidemiológico e Edições do clipping
+const ABAS = ["noticias", "destaques", "boletim", "edicoes"];
 function mostrarAba(id, rolar) {
   if (!ABAS.includes(id)) id = "noticias";
   document.querySelectorAll(".painel").forEach((p) => { p.hidden = p.id !== id; });

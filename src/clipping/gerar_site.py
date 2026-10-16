@@ -9,7 +9,7 @@ from datetime import date, datetime, timedelta, timezone
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
-from . import icones, mapas, semana
+from . import boletim, icones, mapas, semana
 from .pontuar import limiares
 from .util import (ARQ_NOTICIAS, ASSETS, DIR_EDICOES_DADOS, DOCS, NOME_ESCOPO, ORDEM_ESCOPO, TEMPLATES,
                    carregar_yaml, data_curta, data_extenso, ler_json, log, para_data, salvar_json, truncar)
@@ -22,6 +22,16 @@ def _edicoes() -> list[dict]:
         if e.get("pdf"):
             lista.append(e)
     return sorted(lista, key=lambda e: (e["se_codigo"], e.get("gerado_em", "")), reverse=True)
+
+
+def _boletins() -> list[dict]:
+    """Boletins epidemiológicos publicados, uma entrada por SE (a versão mais recente)."""
+    vistos, lista = set(), []
+    for b in boletim.listar():
+        if b["se_codigo"] not in vistos:
+            vistos.add(b["se_codigo"])
+            lista.append(b)
+    return lista
 
 
 def gerar() -> None:
@@ -65,7 +75,7 @@ def gerar() -> None:
         titulo=cfg["publicacao"]["titulo"], subtitulo=cfg["publicacao"].get("subtitulo", ""),
         instituicoes=cfg["publicacao"].get("instituicoes", []), mapa_hero="assets/mapa-hero.svg",
         rodape=cfg["publicacao"].get("rodape", ""),
-        ultima=edicoes[0] if edicoes else None, arquivo=por_se,
+        ultima=edicoes[0] if edicoes else None, arquivo=por_se, boletins=_boletins(),
         feed_json=json.dumps(feed, ensure_ascii=False).replace("</", "<\\/"),
         agravos=[a for a, _ in agravos.most_common()], fontes=fontes, semanas=semanas, municipios=municipios,
         ordem_escopo=ORDEM_ESCOPO, nome_escopo=NOME_ESCOPO, dias=dias, total_feed=len(feed),
