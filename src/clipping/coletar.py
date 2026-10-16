@@ -114,9 +114,20 @@ def _html(fonte: dict, s, timeout: int) -> list[dict]:
             # Data próxima ao link (ex.: listagens da OPAS e do gov.br)
             contexto = a.find_parent(["li", "article", "div"])
             texto_ctx = contexto.get_text(" ", strip=True)[:400] if contexto else ""
-            d = _data_texto(titulo) or _data_texto(texto_ctx) or _data_br(texto_ctx)
+            d = _data_texto(titulo) or _data_texto(texto_ctx) or _data_br(texto_ctx) or _data_url(link)
             vistos[link] = {"titulo": titulo, "url": link, "data": d, "descricao": ""}
     return [v for v in vistos.values() if len(v["titulo"]) >= 15][:40]
+
+
+def _data_url(url: str) -> date | None:
+    """Data no caminho do link (ex.: cnn.com/2026/10/14/health/...)."""
+    m = re.search(r"/(20\d{2})/(\d{2})/(\d{2})/", url)
+    if m:
+        try:
+            return date(int(m.group(1)), int(m.group(2)), int(m.group(3)))
+        except ValueError:
+            return None
+    return None
 
 
 def _data_br(texto: str) -> date | None:
@@ -213,8 +224,8 @@ def coletar() -> dict:
             if d < hoje - timedelta(days=retencao) or d > hoje + timedelta(days=1):
                 continue
             p = pontuar(it["titulo"], limpar_descricao(it["descricao"]), fonte)
-            if fonte["tipo"] == "google_news" and p["pontuacao"] <= 0:
-                continue  # buscas amplas em portais oficiais: guarda só o que tem relevância epidemiológica
+            if (fonte["tipo"] == "google_news" or fonte.get("apenas_relevantes")) and p["pontuacao"] <= 0:
+                continue  # fontes amplas (imprensa, meteorologia, buscas): guarda só o que tem relevância epidemiológica
             base[nid] = {
                 "id": nid,
                 "titulo": truncar(it["titulo"], 300),

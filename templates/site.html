@@ -453,7 +453,7 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
   <div class="wrap">
     <div class="linha-ouro"></div>
     {% if instituicoes %}<div><b>Realização</b><div class="realizacao"><div class="logos-rodape"><img src="assets/logos.png" alt="{{ subtitulo }}"></div><div class="nomes">{% for n in instituicoes %}<span>{{ n }}</span>{% endfor %}</div></div></div>{% endif %}
-    <div><b>Fontes oficiais monitoradas</b><p>{{ fontes_monitoradas|join(', ') }}.</p></div>
+    <div><b>Fontes monitoradas</b><p>{{ fontes_monitoradas|join(', ') }}.</p></div>
     <div><b>Método</b><p>As publicações são coletadas diariamente e classificadas por critérios de relevância epidemiológica (agravo, natureza do evento, proximidade geográfica e tipo de comunicado). Os destaques semanais têm títulos e resumos elaborados com apoio de inteligência artificial a partir do texto original. Para uso técnico, consulte sempre a publicação de origem.</p></div>
     {% if rodape %}<p>{{ rodape }}</p>{% endif %}
   </div>
