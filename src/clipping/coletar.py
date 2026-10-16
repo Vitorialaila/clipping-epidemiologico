@@ -198,6 +198,7 @@ def coletar() -> dict:
     hoje = date.today()
     agora = datetime.now(timezone.utc).isoformat(timespec="seconds")
     resumo = {"novas": 0, "fontes_ok": [], "fontes_erro": {}}
+    status = {}  # diagnóstico por fonte, salvo em data/coleta_status.json
 
     for fonte in cfg["fontes"]:
         if fonte.get("ativo", True) is False:
@@ -207,6 +208,7 @@ def coletar() -> dict:
         except Exception as erro:  # noqa: BLE001
             log.warning("Falha na fonte %s: %s", fonte["id"], erro)
             resumo["fontes_erro"][fonte["id"]] = str(erro)[:200]
+            status[fonte["id"]] = {"em": agora, "erro": str(erro)[:300]}
             continue
         resumo["fontes_ok"].append(fonte["id"])
         novas_fonte = 0
@@ -244,12 +246,15 @@ def coletar() -> dict:
             }
             novas_fonte += 1
         resumo["novas"] += novas_fonte
+        status[fonte["id"]] = {"em": agora, "lidos": len(itens), "novos": novas_fonte,
+                               "exemplos": [it["titulo"][:120] for it in itens[:3]]}
         log.info("%-24s %3d itens lidos, %3d novos", fonte["id"], len(itens), novas_fonte)
 
     limite = (hoje - timedelta(days=retencao)).isoformat()
     noticias = sorted((n for n in base.values() if n["data"] >= limite),
                       key=lambda n: (n["data"], n["pontuacao"]), reverse=True)
     salvar_json(ARQ_NOTICIAS, noticias)
+    salvar_json(ARQ_NOTICIAS.parent / "coleta_status.json", status)
     log.info("Coleta concluída: %d novas notícias, %d na base.", resumo["novas"], len(noticias))
     return resumo
 
@@ -264,4 +269,5 @@ def repontuar() -> None:
         n.update(pontuar(n["titulo"], n["descricao"], fontes.get(n["fonte_id"], {})))
         n["municipios"] = _municipios_item(n["titulo"], n["descricao"], n["escopo"])
     salvar_json(ARQ_NOTICIAS, noticias)
+    salvar_json(ARQ_NOTICIAS.parent / "coleta_status.json", status)
     log.info("Base repontuada: %d notícias.", len(noticias))
