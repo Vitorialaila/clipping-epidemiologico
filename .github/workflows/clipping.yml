@@ -10,9 +10,13 @@ on:
         description: "Etapa a executar"
         type: choice
         default: tudo
-        options: [tudo, coletar, clipping, site, repontuar, testar-ia]
+        options: [tudo, coletar, clipping, site, repontuar, testar-ia, boletim-baixar, boletim]
       se:
         description: "Semana epidemiológica (AAAASS, ex.: 202640). Vazio = última SE fechada"
+        required: false
+        default: ""
+      edicao:
+        description: "Boletim: edição no formato AAAA-SS (ex.: 2026-40)"
         required: false
         default: ""
       forcar:
@@ -53,10 +57,12 @@ jobs:
           TZ: America/Sao_Paulo
           ETAPA: ${{ inputs.etapa || 'tudo' }}
           SE: ${{ inputs.se }}
+          EDICAO: ${{ inputs.edicao }}
           FORCAR: ${{ inputs.forcar && '--forcar' || '' }}
         run: |
           ARGS="$ETAPA"
           if [ -n "$SE" ]; then ARGS="$ARGS --se $SE"; fi
+          if [ -n "$EDICAO" ]; then ARGS="$ARGS --edicao $EDICAO"; fi
           python -m clipping $ARGS $FORCAR
 
       - name: Salvar resultados no repositório

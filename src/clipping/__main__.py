@@ -19,12 +19,22 @@ from .util import configurar_log, log
 def main() -> int:
     configurar_log()
     p = argparse.ArgumentParser(prog="clipping", description="Clipping epidemiológico automático")
-    p.add_argument("etapa", choices=["tudo", "coletar", "clipping", "site", "repontuar", "testar-ia"], nargs="?", default="tudo")
+    p.add_argument("etapa", choices=["tudo", "coletar", "clipping", "site", "repontuar", "testar-ia", "boletim-baixar", "boletim"], nargs="?", default="tudo")
     p.add_argument("--se", help="Semana epidemiológica no formato AAAASS (ex.: 202640)")
+    p.add_argument("--edicao", help="Edição do boletim no formato AAAA-SS (ex.: 2026-40)")
     p.add_argument("--forcar", action="store_true", help="Gera nova versão mesmo se a edição já existir")
     a = p.parse_args()
 
     from . import coletar, gerar_clipping, gerar_site
+
+    if a.etapa in ("boletim-baixar", "boletim"):
+        from . import boletim_slides
+        boletim_slides.baixar(a.edicao)
+        if a.etapa == "boletim":
+            from . import boletim
+            boletim.gerar(a.edicao, a.forcar)
+            gerar_site.gerar()
+        return 0
 
     if a.etapa == "testar-ia":
         from . import ia
