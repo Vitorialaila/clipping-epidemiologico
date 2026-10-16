@@ -1,5 +1,39 @@
 [
  {
+  "t": "Governo monitora saúde de amazonenses em locais afetados por queimadas",
+  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/governo-monitora-saude-de-amazonenses-em-locais-afetados-por-queimadas",
+  "d": "2026-10-16",
+  "df": "16 out 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 8.0,
+  "se": "2026-41",
+  "r": "O Ministério da Saúde vem monitorando os impactos das queimadas na saúde dos amazonenses e sobre o Sistema Único de Saúde (SUS) na região. A medida ocorre depois que o governo do Amazonas decretou situação de emergência em 36 municípios, no último dia 10, em…",
+  "i": "clima",
+  "m": []
+ },
+ {
+  "t": "SES intensifica ações de combate ao Aedes aegypti em todo o Estado e pede apoio da população para eliminar criadouros",
+  "u": "https://goias.gov.br/saude/ses-intensifica-acoes-de-combate-ao-aedes-aegypti-em-todo-o-estado-e-pede-apoio-da-populacao-para-eliminar-criadouros/",
+  "d": "2026-10-16",
+  "df": "16 out 2026",
+  "f": "SES-GO",
+  "fn": "SES-GO | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Arboviroses"
+  ],
+  "p": 8.0,
+  "se": "2026-41",
+  "r": "Secretaria reforça combate ao mosquito com monitoramento, uso de novas tecnologias, controle químico, distribuição de insumos/equipamentos e qualificação dos profissionais dos municípios goianos",
+  "i": "mosquito",
+  "m": []
+ },
+ {
   "t": "Inmet prevê chuvas acompanhadas de vento, raios e granizo",
   "u": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7521416-inmet-preve-chuvas-acompanhadas-de-vento-raios-e-granizo.html",
   "d": "2026-10-16",
@@ -17,6 +51,42 @@
   "m": [
    "Distrito Federal"
   ]
+ },
+ {
+  "t": "Método Wolbachia contra arboviroses começa a ser implantado no Ceará",
+  "u": "https://agencia.fiocruz.br/metodo-wolbachia-contra-arboviroses-comeca-ser-implantado-no-ceara",
+  "d": "2026-10-16",
+  "df": "16 out 2026",
+  "f": "Fiocruz",
+  "fn": "Agência Fiocruz de Notícias",
+  "e": "Brasil",
+  "a": [
+   "Arboviroses"
+  ],
+  "p": 7.5,
+  "se": "2026-41",
+  "r": "Método Wolbachia contra arboviroses começa a ser implantado no Ceará",
+  "i": "mosquito",
+  "m": []
+ },
+ {
+  "t": "Communicable disease threats report, 10 - 16 October, week 42",
+  "u": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-10-16-october-week-42",
+  "d": "2026-10-16",
+  "df": "16 out 2026",
+  "f": "ECDC",
+  "fn": "ECDC | Communicable Disease Threats Report",
+  "e": "Internacional",
+  "a": [
+   "Mpox",
+   "Febres hemorrágicas virais",
+   "Doença pelo vírus Ebola"
+  ],
+  "p": 5.5,
+  "se": "2026-41",
+  "r": "This issue of the Communicable disease threats report (CDTR) covers the period 10 - 16 October 2026, and includes updates on respiratory virus epidemiology in the EU/EEA, Ebola, expert deployment, pneumonia of unknown aetiology, mpox in the EU/EEA, West Nile…",
+  "i": "virus",
+  "m": []
  },
  {
   "t": "Strengthening public health emergency operations centres in Europe through exchange of good practices",
