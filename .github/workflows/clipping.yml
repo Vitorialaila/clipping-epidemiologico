@@ -2,11 +2,10 @@ name: Clipping epidemiológico
 
 on:
   schedule:
-    # Todos os dias às 6h17 e 18h17 (horário de Brasília). Minutos fora da hora cheia, quando o GitHub
-    # costuma atrasar ou descartar execuções agendadas. Aos domingos, gera a edição da SE que terminou no sábado
-    # (a segunda execução do dia não duplica: a edição só é gerada se ainda não existir).
-    - cron: "17 9 * * *"
-    - cron: "17 21 * * *"
+    # De hora em hora, no minuto 17 (fora da hora cheia, quando o GitHub costuma atrasar ou descartar
+    # execuções agendadas). A edição da SE que terminou no sábado sai no domingo a partir das 6h (Brasília),
+    # uma única vez: as execuções seguintes não duplicam, pois a edição só é gerada se ainda não existir.
+    - cron: "17 * * * *"
   workflow_dispatch:
     inputs:
       etapa:

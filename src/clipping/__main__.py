@@ -16,6 +16,16 @@ import sys
 from .util import configurar_log, log
 
 
+def _pode_gerar_edicao() -> bool:
+    """Na execução automática (de hora em hora), a edição da semana só sai a partir de domingo às 6h
+    (Brasília), para dar tempo de as fontes publicarem as notícias de sábado."""
+    from datetime import datetime
+    from zoneinfo import ZoneInfo
+
+    agora = datetime.now(ZoneInfo("America/Sao_Paulo"))
+    return not (agora.weekday() == 6 and agora.hour < 6)
+
+
 def main() -> int:
     configurar_log()
     p = argparse.ArgumentParser(prog="clipping", description="Clipping epidemiológico automático")
@@ -46,7 +56,7 @@ def main() -> int:
             log.warning("Fontes com falha nesta execução: %s", ", ".join(resumo["fontes_erro"]))
     if a.etapa == "repontuar":
         coletar.repontuar()
-    if a.etapa in ("tudo", "clipping"):
+    if a.etapa == "clipping" or (a.etapa == "tudo" and _pode_gerar_edicao()):
         gerar_clipping.gerar(a.se, a.forcar)
     if a.etapa in ("tudo", "coletar", "clipping", "site", "repontuar"):
         gerar_site.gerar()
