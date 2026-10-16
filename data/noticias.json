@@ -624,6 +624,27 @@
   "municipios": []
  },
  {
+  "id": "97c420723f25d6",
+  "titulo": "A super El Niño winter is coming and the first official forecast is in",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MMkplWjNqMnNic2hGZWF0VmJaektiTDZOSE5QRzRPNEpoUzltRGYtZXJxNC1SYmFoektfRnVQMVYwQ2NIUUl1MzJGWjg2QmltZnJzdnZIOERUZ1hsZHlqOUp1bTdZR1VFUXJKZFBfeXhIdld4NEE?oc=5",
+  "fonte_id": "cnn-busca",
+  "fonte": "CNN",
+  "sigla": "CNN",
+  "idioma": "en",
+  "data": "2026-10-15",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-16T13:28:10+00:00",
+  "municipios": [],
+  "pontuacao": 3.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": []
+ },
+ {
   "id": "ea0674188119d6",
   "titulo": "WHO formalize partnership with the largest organization for physicians and oncology professionals",
   "url": "https://www.who.int/news/item/15-10-2026-who-formalize-partnership-with-the-largest-organization-for-physicians-and-oncology-professionals",
@@ -2088,6 +2109,27 @@
   "termos_evento": []
  },
  {
+  "id": "2076d657eebc3c",
+  "titulo": "Qantas plane grounded after reported bedbug outbreak",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hQTZjZEpiODFrWmRfX3o5SmpWUS1adkNZRnFSSU1MUldmRkdmY0ltN3B5amk3VVZmd04xUHRoNDgxcVotbGo1UUtRLUV0eHJHT2VQbms1X3c2Qjk0TmdPYmEzQkhITEtxMVlqY0FzSEpLMTRpcXVpVWlR?oc=5",
+  "fonte_id": "cnn-busca",
+  "fonte": "CNN",
+  "sigla": "CNN",
+  "idioma": "en",
+  "data": "2026-10-13",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-16T13:28:10+00:00",
+  "municipios": [],
+  "pontuacao": 3.5,
+  "agravos": [],
+  "escopo": "Internacional",
+  "termos_evento": [
+   "outbreak"
+  ]
+ },
+ {
   "id": "585cd4e9f6d06c",
   "titulo": "WHO and partners drive improved alignment for effective NTD and supply chain delivery",
   "url": "https://www.who.int/news/item/13-10-2026-who-and-partners-drive-improved-alignment-for-effective-ntd-and-supply-chain-delivery",
@@ -2603,6 +2645,27 @@
   "municipios": []
  },
  {
+  "id": "9606cbb42c8d65",
+  "titulo": "Hurricane Simon weakens to Category 2 as it continues to lash Mexico’s Pacific coast",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObnZfZzFpZTg4UzRBbnF6TkdYcnl3OEM4VFJkRDJFeGlmUWJ4WUxxOFhNY0Z0dkRQZDVvR2xpUGNPTU9reEdEZGVGWjZwcVhydDU2Y3pFOTJxZHhRSDU5SjNKN3BDVUw1MC1SSkswSmVYSTV4azRONU45V0g2cmE5QWZhZw?oc=5",
+  "fonte_id": "cnn-busca",
+  "fonte": "CNN",
+  "sigla": "CNN",
+  "idioma": "en",
+  "data": "2026-10-11",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-16T13:28:10+00:00",
+  "municipios": [],
+  "pontuacao": 5.5,
+  "agravos": [
+   "Emergências e desastres"
+  ],
+  "escopo": "Américas",
+  "termos_evento": []
+ },
+ {
   "id": "8022336bc29dcd",
   "titulo": "Pneumonia of undetermined etiology - the Russian Federation",
   "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON620",
@@ -2695,6 +2758,27 @@
   "termos_evento": []
  },
  {
+  "id": "dc425428ed05b6",
+  "titulo": "Kenya prepared for Ebola. It still slipped through — a warning of wider cross-border spread",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd0FkREQxSmZmWEt5SjIwNmhNV0FzM0lmbWhhaHlGZmlmZXJYNnAtaWNEVzhhYUx3cGdoTjNNRVJybnpqbkVwNTBuaFVLcklINGR4bTJreDJ2VnBORWhRbVViUGdpWldxTzBHMndpRzNpN1JPc3dpemZOZDFDYVBRdEdCNFk?oc=5",
+  "fonte_id": "cnn-busca",
+  "fonte": "CNN",
+  "sigla": "CNN",
+  "idioma": "en",
+  "data": "2026-10-10",
+  "data_estimada": false,
+  "se": "2026-40",
+  "descricao": "",
+  "coletado_em": "2026-10-16T13:28:10+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Doença pelo vírus Ebola"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": []
+ },
+ {
   "id": "eaa3871d571417",
   "titulo": "La OPS/OMS coordina con el Ministerio de Salud el apoyo a la respuesta en salud tras el terremoto en Panamá",
   "url": "https://www.paho.org/es/noticias/10-10-2026-opsoms-coordina-con-ministerio-salud-apoyo-respuesta-salud-tras-terremoto",
@@ -2777,6 +2861,27 @@
   "escopo": "Internacional",
   "termos_evento": [],
   "municipios": []
+ },
+ {
+  "id": "1daa53843d6690",
+  "titulo": "Powerful earthquake shakes Panama, followed by large aftershocks",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lSmliX0hjeTJTSFJYcVhmMlBXZFo4VFlDSmZtT3RxLWh1WmhkaXJUcG03UG43UGMtbER6XzNDcDFCYVRvMXN2dk1CcFdtUnRyYml1bXdQV0tpSE9yNjVZOWtKYjlJd011eGhLZXNDT0hkNE1WNXVv?oc=5",
+  "fonte_id": "cnn-busca",
+  "fonte": "CNN",
+  "sigla": "CNN",
+  "idioma": "en",
+  "data": "2026-10-09",
+  "data_estimada": false,
+  "se": "2026-40",
+  "descricao": "",
+  "coletado_em": "2026-10-16T13:28:10+00:00",
+  "municipios": [],
+  "pontuacao": 5.5,
+  "agravos": [
+   "Emergências e desastres"
+  ],
+  "escopo": "Américas",
+  "termos_evento": []
  },
  {
   "id": "67f3e1af89909c",
