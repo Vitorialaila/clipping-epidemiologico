@@ -5,7 +5,7 @@ publicacao:
   titulo: "Clipping Epidemiológico"
   subtitulo: "Sala de Situação de Saúde - UnB | Residência de Vigilância em Saúde"
   # Instituições responsáveis, exibidas no cabeçalho e no bloco "Realização"
-  # Autoria: aparece apenas no rodapé do site; nunca nos PDFs nem no topo do site
+  # Autoria: aparece apenas no rodapé do site, como "Elaboração"; nunca nos PDFs nem no topo do site
   autoria: "Vitória Laila Ferreira Mendes Chagas"
   instituicoes:
     - "Sala de Situação de Saúde - UnB"
