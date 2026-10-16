@@ -250,24 +250,6 @@ fontes:
     escopo_padrao: "Brasil"
     idioma: pt
 
-  # ReliefWeb (OCHA/ONU): desastres, epidemias e crises humanitárias, com relatórios de agências e governos.
-  # O site recusa a leitura direta dos feeds RSS por robôs (devolve página vazia), então a busca passa pelo
-  # índice do Google Notícias, aceitando só links do próprio reliefweb.int.
-  - id: reliefweb-busca
-    nome: "ReliefWeb | Epidemias e desastres"
-    sigla: "ReliefWeb"
-    tipo: google_news
-    regiao: "hl=en-US&gl=US&ceid=US:en"
-    dominios_permitidos: ["reliefweb.int"]
-    nomes_fontes: {"reliefweb.int": "ReliefWeb"}
-    consultas:
-      - "site:reliefweb.int epidemic OR outbreak OR cholera OR measles"
-      - "site:reliefweb.int dengue OR ebola OR mpox OR diphtheria OR yellow fever"
-      - "site:reliefweb.int flood OR drought OR cyclone OR earthquake"
-    dias: 7
-    peso: 1.5
-    idioma: en
-
   # Defesa Civil: nacional (MIDR) e dos estados e do DF. Os portais bloqueiam parte do acesso automatizado,
   # por isso a busca também passa pelo Google Notícias, aceitando só domínios .gov.br.
   - id: defesa-civil-nacional
