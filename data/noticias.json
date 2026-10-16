@@ -465,6 +465,27 @@
   "termos_evento": []
  },
  {
+  "id": "d6f4d0341e0ecb",
+  "titulo": "Foragido ligado ao Comboio do Cão é preso com identidade falsa na Estrutural",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7521966-foragido-ligado-ao-comboio-do-cao-e-preso-com-identidade-falsa-na-estrutural.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-16T13:37:44+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
   "id": "88ae4793542a36",
   "titulo": "Effectiveness of Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine in Children Aged 6 Months-6 Years During a Statewide Pertussis Outbreak - Alaska, May-November 2024",
   "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766649",
