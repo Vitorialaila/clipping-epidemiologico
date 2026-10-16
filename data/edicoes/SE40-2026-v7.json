@@ -1,0 +1,517 @@
+{
+ "titulo": "Clipping Epidemiológico",
+ "subtitulo": "Sala de Situação de Saúde - UnB | Residência de Vigilância em Saúde",
+ "instituicoes": [
+  "Sala de Situação de Saúde - UnB",
+  "Residência de Vigilância em Saúde"
+ ],
+ "rodape": "",
+ "se_codigo": "2026-40",
+ "se_numero": "40",
+ "se_ano": 2026,
+ "rotulo": "SE 40/2026",
+ "periodo": "4 a 10 de outubro de 2026",
+ "data_geracao": "15 de outubro de 2026",
+ "gerado_em": "2026-10-16T17:19:21+00:00",
+ "panorama": "A semana foi marcada pela expansão internacional do surto de doença pelo vírus Bundibugyo na República Democrática do Congo, que ultrapassou 8,7 mil casos confirmados e registrou o primeiro caso importado no Quênia. A OMS notificou óbito por pneumonia de etiologia indeterminada em trabalhador de laboratório na Rússia. Nas Américas, a OPAS classificou como muito alto o risco de disseminação do sarampo diante de eventos religiosos de massa, em um ano com mais de 55 mil casos confirmados na região, e o Panamá declarou emergência nacional após terremoto de magnitude 7,5. No Brasil, a Anvisa autorizou o primeiro ensaio em humanos de uma vacina nacional contra a malária vivax, e o InfoGripe aponta alta de SRAG por rinovírus, com sinal de aumento também no Distrito Federal.",
+ "principal": {
+  "ancora": "n1",
+  "titulo": "OMS atualiza surto de doença pelo vírus Bundibugyo na RDC, com 8.728 casos confirmados até 6 de outubro de 2026",
+  "titulo_original": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo",
+  "resumo": "A Organização Mundial da Saúde publicou, em 8 de outubro de 2026, atualização sobre o surto de doença pelo vírus Bundibugyo na República Democrática do Congo. Até 6 de outubro, foram registrados 8.728 casos confirmados e 4.205 óbitos, com letalidade bruta de 48,2%, sendo 775 novos casos e 379 óbitos desde a atualização de 25 de setembro. O evento atinge sete províncias e 64 zonas de saúde, com maior concentração em Ituri (6.480 casos) e Kivu do Norte (1.755 casos). O seguimento de contatos alcançou 80,4%, abaixo da meta de 85%. A OMS mantém o risco muito alto no país, alto para os países fronteiriços e baixo no nível global.",
+  "local": "República Democrática do Congo",
+  "agravo": "Doença pelo vírus Ebola",
+  "escopo": "Internacional",
+  "fonte": "OMS | Disease Outbreak News",
+  "sigla": "OMS",
+  "data": "2026-10-08",
+  "data_fmt": "08 out 2026",
+  "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON619",
+  "dominio": "who.int",
+  "nota_ia": 9.6,
+  "pontuacao": 14.5,
+  "n": 1,
+  "paises": [
+   "COD"
+  ],
+  "uf": "",
+  "icone": "virus",
+  "visual": {
+   "tipo": "mapa",
+   "src": "edicoes/img/SE40-2026-v5/n1.svg"
+  }
+ },
+ "secoes": [
+  {
+   "escopo": "Brasil",
+   "nome": "Brasil",
+   "itens": [
+    {
+     "ancora": "n5",
+     "titulo": "Anvisa autoriza ensaio de fase I da vacina brasileira Vivaxin contra malária vivax em outubro de 2026",
+     "titulo_original": "Brasil avança no desenvolvimento da primeira vacina do mundo contra malária vivax",
+     "resumo": "O Ministério da Saúde anunciou, em 10 de outubro de 2026, que a Anvisa autorizou testes em humanos da Vivaxin, vacina contra a malária causada por Plasmodium vivax desenvolvida pelo Centro de Tecnologia de Vacinas da Universidade Federal de Minas Gerais. O ensaio de fase I avaliará segurança, reações e resposta imunológica em 48 pessoas sem infecção prévia, com idades entre 18 e 59 anos, acompanhadas por 360 dias. O ministério destinou R$ 12 milhões aos ensaios das fases I, II e III. Em 2025, o Brasil registrou 118.037 casos de malária, a maioria causada por P. vivax.",
+     "local": "Brasil",
+     "agravo": "Malária",
+     "escopo": "Brasil",
+     "fonte": "Ministério da Saúde | Notícias",
+     "sigla": "MS",
+     "data": "2026-10-10",
+     "data_fmt": "10 out 2026",
+     "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/brasil-avanca-no-desenvolvimento-da-primeira-vacina-do-mundo-contra-malaria-vivax",
+     "dominio": "gov.br",
+     "nota_ia": 8.0,
+     "pontuacao": 9.0,
+     "n": 5,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "",
+     "icone": "mosquito",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE40-2026-v5/n5.svg"
+     }
+    },
+    {
+     "ancora": "n6",
+     "titulo": "Fiocruz aponta alta de SRAG por rinovírus, metapneumovírus e SARS-CoV-2 no Brasil até a SE 39 de 2026",
+     "titulo_original": "InfoGripe alerta para a importância da vacinação contra Covid-19 e VSR",
+     "resumo": "O Boletim InfoGripe divulgado pela Fiocruz em 8 de outubro de 2026, com dados até a SE 39, indica crescimento de curto prazo dos casos de SRAG no país, com tendência de alta para rinovírus, metapneumovírus e SARS-CoV-2 e queda para VSR e influenza B. Alagoas, Roraima e Sergipe apresentam incidência em nível de alerta ou superior com crescimento, sobretudo entre crianças e adolescentes. No Distrito Federal, há aumento de SRAG por rinovírus e leve aumento de casos graves de Covid-19, em níveis baixos. Em 2026, foram notificados 161.053 casos de SRAG, com 53,7% positivos para vírus respiratórios.",
+     "local": "Brasil",
+     "agravo": "Influenza e vírus respiratórios",
+     "escopo": "Brasil",
+     "fonte": "Agência Fiocruz de Notícias",
+     "sigla": "Fiocruz",
+     "data": "2026-10-08",
+     "data_fmt": "08 out 2026",
+     "url": "https://agencia.fiocruz.br/infogripe-alerta-para-importancia-da-vacinacao-contra-covid-19-e-vsr",
+     "dominio": "agencia.fiocruz.br",
+     "nota_ia": 7.8,
+     "pontuacao": 8.0,
+     "n": 6,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "",
+     "icone": "respiratorio",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE40-2026-v5/n6.svg"
+     }
+    }
+   ]
+  },
+  {
+   "escopo": "Américas",
+   "nome": "Américas",
+   "itens": [
+    {
+     "ancora": "n3",
+     "titulo": "OPAS classifica como muito alto o risco de disseminação do sarampo nas Américas em outubro de 2026",
+     "titulo_original": "PAHO assesses risk of measles spread as very high ahead of religious mass gatherings in the Americas",
+     "resumo": "A Organização Pan-Americana da Saúde avaliou, em 9 de outubro de 2026, como muito alto o risco de disseminação do sarampo na Região das Américas diante de eventos religiosos de massa previstos na América do Sul. Entre 4 de janeiro e 3 de outubro de 2026, foram confirmados 55.792 casos e 77 óbitos em 17 países e territórios, aumento de 4,8 vezes em relação ao mesmo período de 2025. Guatemala, México, Estados Unidos, Peru e Canadá concentram 99,5% dos casos, e o Brasil está entre os demais países com registros. Em 2025, a cobertura regional foi de 88% para a primeira dose e de 85% para a segunda dose da tríplice viral.",
+     "local": "Região das Américas",
+     "agravo": "Sarampo",
+     "escopo": "Américas",
+     "fonte": "OPAS | Notícias",
+     "sigla": "OPAS",
+     "data": "2026-10-09",
+     "data_fmt": "09 out 2026",
+     "url": "https://www.paho.org/en/news/9-10-2026-paho-assesses-risk-measles-spread-very-high-ahead-religious-mass-gatherings-americas",
+     "dominio": "paho.org",
+     "nota_ia": 8.8,
+     "pontuacao": 9.0,
+     "n": 3,
+     "paises": [
+      "GTM",
+      "MEX",
+      "USA",
+      "PER",
+      "CAN"
+     ],
+     "uf": "",
+     "icone": "virus",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE40-2026-v5/n3.svg"
+     }
+    },
+    {
+     "ancora": "n7",
+     "titulo": "Terremoto de magnitude 7,5 atinge o Panamá em 9 de outubro de 2026 e afeta 29 estabelecimentos de saúde",
+     "titulo_original": "La OPS/OMS coordina con el Ministerio de Salud el apoyo a la respuesta en salud tras el terremoto en Panamá",
+     "resumo": "A Organização Pan-Americana da Saúde informou que um terremoto de magnitude 7,5 atingiu o Panamá em 9 de outubro de 2026, com impacto em oito províncias e na comarca Ngäbe-Buglé. Dados preliminares do Ministério da Saúde panamenho apontam 29 estabelecimentos de saúde afetados, alguns com danos estruturais, evacuações preventivas ou interrupção de serviços básicos, além de falhas no abastecimento de água e energia. O governo declarou estado de emergência nacional em 10 de outubro. A representação da OPAS ativou seus mecanismos de resposta a emergências e coordena com o ministério a avaliação de danos e necessidades.",
+     "local": "Panamá",
+     "agravo": "Emergências e desastres",
+     "escopo": "Américas",
+     "fonte": "OPAS | Notícias",
+     "sigla": "OPAS",
+     "data": "2026-10-10",
+     "data_fmt": "10 out 2026",
+     "url": "https://www.paho.org/es/noticias/10-10-2026-opsoms-coordina-con-ministerio-salud-apoyo-respuesta-salud-tras-terremoto",
+     "dominio": "paho.org",
+     "nota_ia": 7.0,
+     "pontuacao": 6.0,
+     "n": 7,
+     "paises": [
+      "PAN"
+     ],
+     "uf": "",
+     "icone": "desastre",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE40-2026-v5/n7.svg"
+     }
+    }
+   ]
+  },
+  {
+   "escopo": "Internacional",
+   "nome": "Internacional",
+   "itens": [
+    {
+     "ancora": "n2",
+     "titulo": "OMS notifica óbito por pneumonia de etiologia indeterminada em trabalhador de laboratório em Irkutsk, Rússia, em outubro de 2026",
+     "titulo_original": "Pneumonia of undetermined etiology - the Russian Federation",
+     "resumo": "A Organização Mundial da Saúde publicou, em 10 de outubro de 2026, comunicado sobre o óbito de um trabalhador do Instituto de Pesquisa Antipeste da Sibéria e do Extremo Oriente, em Irkutsk, Federação Russa. O paciente foi hospitalizado em 29 de setembro com pneumonia grave e morreu em 2 de outubro. Peste e outros patógenos de alta ameaça foram descartados, sem identificação do agente etiológico. Foram realizados mais de 5.500 exames laboratoriais, sem detecção de patógenos de alta ameaça entre os contatos. A OMS não identificou evidência de transmissão em curso, não exclui exposição laboral e não recomenda restrições a viagens ou comércio.",
+     "local": "Irkutsk, Rússia",
+     "agravo": "Pneumonia de etiologia indeterminada",
+     "escopo": "Internacional",
+     "fonte": "OMS | Disease Outbreak News",
+     "sigla": "OMS",
+     "data": "2026-10-10",
+     "data_fmt": "10 out 2026",
+     "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON620",
+     "dominio": "who.int",
+     "nota_ia": 9.0,
+     "pontuacao": 13.5,
+     "n": 2,
+     "paises": [
+      "RUS"
+     ],
+     "uf": "",
+     "icone": "respiratorio",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE40-2026-v5/n2.svg"
+     }
+    },
+    {
+     "ancora": "n4",
+     "titulo": "Quênia confirma primeiro caso importado de doença pelo vírus Bundibugyo, procedente da RDC, em outubro de 2026",
+     "titulo_original": "Africa CDC Expresses Solidarity with Kenya and Calls for Stronger Regional Ebola Preparedness",
+     "resumo": "O Centro Africano de Controle e Prevenção de Doenças informou, em 6 de outubro de 2026, que o Quênia confirmou o primeiro caso importado de doença pelo vírus Bundibugyo. O paciente viajou por via terrestre da República Democrática do Congo a Uganda e seguiu de avião para o Quênia, evoluindo a óbito. As autoridades quenianas identificaram 28 contatos, entre familiares e profissionais de saúde, e rastreiam outros 23 passageiros e tripulantes. A instituição destacou que mais de 70% dos novos casos na RDC surgem entre pessoas não listadas previamente como contatos e enviou equipe técnica ao país.",
+     "local": "Quênia",
+     "agravo": "Doença pelo vírus Ebola",
+     "escopo": "Internacional",
+     "fonte": "Africa CDC | Notícias",
+     "sigla": "Africa CDC",
+     "data": "2026-10-06",
+     "data_fmt": "06 out 2026",
+     "url": "https://africacdc.org/news-item/africa-cdc-expresses-solidarity-with-kenya-and-calls-for-stronger-regional-ebola-preparedness/",
+     "dominio": "africacdc.org",
+     "nota_ia": 8.6,
+     "pontuacao": 10.5,
+     "n": 4,
+     "paises": [
+      "KEN",
+      "COD",
+      "UGA"
+     ],
+     "uf": "",
+     "icone": "virus",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE40-2026-v5/n4.svg"
+     }
+    }
+   ]
+  }
+ ],
+ "destaques": [
+  {
+   "ancora": "n1",
+   "titulo": "OMS atualiza surto de doença pelo vírus Bundibugyo na RDC, com 8.728 casos confirmados até 6 de outubro de 2026",
+   "titulo_original": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo",
+   "resumo": "A Organização Mundial da Saúde publicou, em 8 de outubro de 2026, atualização sobre o surto de doença pelo vírus Bundibugyo na República Democrática do Congo. Até 6 de outubro, foram registrados 8.728 casos confirmados e 4.205 óbitos, com letalidade bruta de 48,2%, sendo 775 novos casos e 379 óbitos desde a atualização de 25 de setembro. O evento atinge sete províncias e 64 zonas de saúde, com maior concentração em Ituri (6.480 casos) e Kivu do Norte (1.755 casos). O seguimento de contatos alcançou 80,4%, abaixo da meta de 85%. A OMS mantém o risco muito alto no país, alto para os países fronteiriços e baixo no nível global.",
+   "local": "República Democrática do Congo",
+   "agravo": "Doença pelo vírus Ebola",
+   "escopo": "Internacional",
+   "fonte": "OMS | Disease Outbreak News",
+   "sigla": "OMS",
+   "data": "2026-10-08",
+   "data_fmt": "08 out 2026",
+   "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON619",
+   "dominio": "who.int",
+   "nota_ia": 9.6,
+   "pontuacao": 14.5,
+   "n": 1,
+   "paises": [
+    "COD"
+   ],
+   "uf": "",
+   "icone": "virus",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE40-2026-v5/n1.svg"
+   }
+  },
+  {
+   "ancora": "n2",
+   "titulo": "OMS notifica óbito por pneumonia de etiologia indeterminada em trabalhador de laboratório em Irkutsk, Rússia, em outubro de 2026",
+   "titulo_original": "Pneumonia of undetermined etiology - the Russian Federation",
+   "resumo": "A Organização Mundial da Saúde publicou, em 10 de outubro de 2026, comunicado sobre o óbito de um trabalhador do Instituto de Pesquisa Antipeste da Sibéria e do Extremo Oriente, em Irkutsk, Federação Russa. O paciente foi hospitalizado em 29 de setembro com pneumonia grave e morreu em 2 de outubro. Peste e outros patógenos de alta ameaça foram descartados, sem identificação do agente etiológico. Foram realizados mais de 5.500 exames laboratoriais, sem detecção de patógenos de alta ameaça entre os contatos. A OMS não identificou evidência de transmissão em curso, não exclui exposição laboral e não recomenda restrições a viagens ou comércio.",
+   "local": "Irkutsk, Rússia",
+   "agravo": "Pneumonia de etiologia indeterminada",
+   "escopo": "Internacional",
+   "fonte": "OMS | Disease Outbreak News",
+   "sigla": "OMS",
+   "data": "2026-10-10",
+   "data_fmt": "10 out 2026",
+   "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON620",
+   "dominio": "who.int",
+   "nota_ia": 9.0,
+   "pontuacao": 13.5,
+   "n": 2,
+   "paises": [
+    "RUS"
+   ],
+   "uf": "",
+   "icone": "respiratorio",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE40-2026-v5/n2.svg"
+   }
+  },
+  {
+   "ancora": "n3",
+   "titulo": "OPAS classifica como muito alto o risco de disseminação do sarampo nas Américas em outubro de 2026",
+   "titulo_original": "PAHO assesses risk of measles spread as very high ahead of religious mass gatherings in the Americas",
+   "resumo": "A Organização Pan-Americana da Saúde avaliou, em 9 de outubro de 2026, como muito alto o risco de disseminação do sarampo na Região das Américas diante de eventos religiosos de massa previstos na América do Sul. Entre 4 de janeiro e 3 de outubro de 2026, foram confirmados 55.792 casos e 77 óbitos em 17 países e territórios, aumento de 4,8 vezes em relação ao mesmo período de 2025. Guatemala, México, Estados Unidos, Peru e Canadá concentram 99,5% dos casos, e o Brasil está entre os demais países com registros. Em 2025, a cobertura regional foi de 88% para a primeira dose e de 85% para a segunda dose da tríplice viral.",
+   "local": "Região das Américas",
+   "agravo": "Sarampo",
+   "escopo": "Américas",
+   "fonte": "OPAS | Notícias",
+   "sigla": "OPAS",
+   "data": "2026-10-09",
+   "data_fmt": "09 out 2026",
+   "url": "https://www.paho.org/en/news/9-10-2026-paho-assesses-risk-measles-spread-very-high-ahead-religious-mass-gatherings-americas",
+   "dominio": "paho.org",
+   "nota_ia": 8.8,
+   "pontuacao": 9.0,
+   "n": 3,
+   "paises": [
+    "GTM",
+    "MEX",
+    "USA",
+    "PER",
+    "CAN"
+   ],
+   "uf": "",
+   "icone": "virus",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE40-2026-v5/n3.svg"
+   }
+  },
+  {
+   "ancora": "n4",
+   "titulo": "Quênia confirma primeiro caso importado de doença pelo vírus Bundibugyo, procedente da RDC, em outubro de 2026",
+   "titulo_original": "Africa CDC Expresses Solidarity with Kenya and Calls for Stronger Regional Ebola Preparedness",
+   "resumo": "O Centro Africano de Controle e Prevenção de Doenças informou, em 6 de outubro de 2026, que o Quênia confirmou o primeiro caso importado de doença pelo vírus Bundibugyo. O paciente viajou por via terrestre da República Democrática do Congo a Uganda e seguiu de avião para o Quênia, evoluindo a óbito. As autoridades quenianas identificaram 28 contatos, entre familiares e profissionais de saúde, e rastreiam outros 23 passageiros e tripulantes. A instituição destacou que mais de 70% dos novos casos na RDC surgem entre pessoas não listadas previamente como contatos e enviou equipe técnica ao país.",
+   "local": "Quênia",
+   "agravo": "Doença pelo vírus Ebola",
+   "escopo": "Internacional",
+   "fonte": "Africa CDC | Notícias",
+   "sigla": "Africa CDC",
+   "data": "2026-10-06",
+   "data_fmt": "06 out 2026",
+   "url": "https://africacdc.org/news-item/africa-cdc-expresses-solidarity-with-kenya-and-calls-for-stronger-regional-ebola-preparedness/",
+   "dominio": "africacdc.org",
+   "nota_ia": 8.6,
+   "pontuacao": 10.5,
+   "n": 4,
+   "paises": [
+    "KEN",
+    "COD",
+    "UGA"
+   ],
+   "uf": "",
+   "icone": "virus",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE40-2026-v5/n4.svg"
+   }
+  },
+  {
+   "ancora": "n5",
+   "titulo": "Anvisa autoriza ensaio de fase I da vacina brasileira Vivaxin contra malária vivax em outubro de 2026",
+   "titulo_original": "Brasil avança no desenvolvimento da primeira vacina do mundo contra malária vivax",
+   "resumo": "O Ministério da Saúde anunciou, em 10 de outubro de 2026, que a Anvisa autorizou testes em humanos da Vivaxin, vacina contra a malária causada por Plasmodium vivax desenvolvida pelo Centro de Tecnologia de Vacinas da Universidade Federal de Minas Gerais. O ensaio de fase I avaliará segurança, reações e resposta imunológica em 48 pessoas sem infecção prévia, com idades entre 18 e 59 anos, acompanhadas por 360 dias. O ministério destinou R$ 12 milhões aos ensaios das fases I, II e III. Em 2025, o Brasil registrou 118.037 casos de malária, a maioria causada por P. vivax.",
+   "local": "Brasil",
+   "agravo": "Malária",
+   "escopo": "Brasil",
+   "fonte": "Ministério da Saúde | Notícias",
+   "sigla": "MS",
+   "data": "2026-10-10",
+   "data_fmt": "10 out 2026",
+   "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/brasil-avanca-no-desenvolvimento-da-primeira-vacina-do-mundo-contra-malaria-vivax",
+   "dominio": "gov.br",
+   "nota_ia": 8.0,
+   "pontuacao": 9.0,
+   "n": 5,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "",
+   "icone": "mosquito",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE40-2026-v5/n5.svg"
+   }
+  },
+  {
+   "ancora": "n6",
+   "titulo": "Fiocruz aponta alta de SRAG por rinovírus, metapneumovírus e SARS-CoV-2 no Brasil até a SE 39 de 2026",
+   "titulo_original": "InfoGripe alerta para a importância da vacinação contra Covid-19 e VSR",
+   "resumo": "O Boletim InfoGripe divulgado pela Fiocruz em 8 de outubro de 2026, com dados até a SE 39, indica crescimento de curto prazo dos casos de SRAG no país, com tendência de alta para rinovírus, metapneumovírus e SARS-CoV-2 e queda para VSR e influenza B. Alagoas, Roraima e Sergipe apresentam incidência em nível de alerta ou superior com crescimento, sobretudo entre crianças e adolescentes. No Distrito Federal, há aumento de SRAG por rinovírus e leve aumento de casos graves de Covid-19, em níveis baixos. Em 2026, foram notificados 161.053 casos de SRAG, com 53,7% positivos para vírus respiratórios.",
+   "local": "Brasil",
+   "agravo": "Influenza e vírus respiratórios",
+   "escopo": "Brasil",
+   "fonte": "Agência Fiocruz de Notícias",
+   "sigla": "Fiocruz",
+   "data": "2026-10-08",
+   "data_fmt": "08 out 2026",
+   "url": "https://agencia.fiocruz.br/infogripe-alerta-para-importancia-da-vacinacao-contra-covid-19-e-vsr",
+   "dominio": "agencia.fiocruz.br",
+   "nota_ia": 7.8,
+   "pontuacao": 8.0,
+   "n": 6,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "",
+   "icone": "respiratorio",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE40-2026-v5/n6.svg"
+   }
+  },
+  {
+   "ancora": "n7",
+   "titulo": "Terremoto de magnitude 7,5 atinge o Panamá em 9 de outubro de 2026 e afeta 29 estabelecimentos de saúde",
+   "titulo_original": "La OPS/OMS coordina con el Ministerio de Salud el apoyo a la respuesta en salud tras el terremoto en Panamá",
+   "resumo": "A Organização Pan-Americana da Saúde informou que um terremoto de magnitude 7,5 atingiu o Panamá em 9 de outubro de 2026, com impacto em oito províncias e na comarca Ngäbe-Buglé. Dados preliminares do Ministério da Saúde panamenho apontam 29 estabelecimentos de saúde afetados, alguns com danos estruturais, evacuações preventivas ou interrupção de serviços básicos, além de falhas no abastecimento de água e energia. O governo declarou estado de emergência nacional em 10 de outubro. A representação da OPAS ativou seus mecanismos de resposta a emergências e coordena com o ministério a avaliação de danos e necessidades.",
+   "local": "Panamá",
+   "agravo": "Emergências e desastres",
+   "escopo": "Américas",
+   "fonte": "OPAS | Notícias",
+   "sigla": "OPAS",
+   "data": "2026-10-10",
+   "data_fmt": "10 out 2026",
+   "url": "https://www.paho.org/es/noticias/10-10-2026-opsoms-coordina-con-ministerio-salud-apoyo-respuesta-salud-tras-terremoto",
+   "dominio": "paho.org",
+   "nota_ia": 7.0,
+   "pontuacao": 6.0,
+   "n": 7,
+   "paises": [
+    "PAN"
+   ],
+   "uf": "",
+   "icone": "desastre",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE40-2026-v5/n7.svg"
+   }
+  }
+ ],
+ "outras": [
+  {
+   "titulo": "Malária: Anvisa autoriza teste em humanos de vacina 100% brasileira",
+   "fonte": "Agência Brasil",
+   "data_fmt": "10 out 2026",
+   "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/malaria-anvisa-autoriza-teste-em-humanos-de-vacina-100-brasileira",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "DF registra 39 incêndios em vegetação somente neste sábado (10/10), diz CBMDF",
+   "fonte": "Correio Braziliense",
+   "data_fmt": "10 out 2026",
+   "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7518760-df-registra-39-incendios-em-vegetacao-somente-neste-sabado-10-10-diz-cbmdf.html",
+   "escopo": "DF"
+  },
+  {
+   "titulo": "Africa CDC exprime sa solidarité avec le Kenya et appelle à renforcer la préparation régionale face à Ebola",
+   "fonte": "Africa CDC",
+   "data_fmt": "06 out 2026",
+   "url": "https://africacdc.org/news-item/africa-cdc-exprime-sa-solidarite-avec-le-kenya-et-appelle-a-renforcer-la-preparation-regionale-face-a-ebola/",
+   "escopo": "Internacional"
+  },
+  {
+   "titulo": "Africa CDC soutient le Gouvernement de la République démocratique du Congo dans le renforcement de la transparence et de la redevabilité du financement de la riposte à Ebola",
+   "fonte": "Africa CDC",
+   "data_fmt": "04 out 2026",
+   "url": "https://africacdc.org/news-item/africa-cdc-soutient-le-gouvernement-de-la-republique-democratique-du-congo-dans-le-renforcement-de-la-transparence-et-de-la-redevabilite-du-financement-de-la-riposte-a-ebola/",
+   "escopo": "Internacional"
+  },
+  {
+   "titulo": "Africa CDC Supports the Government of the Democratic Republic of the Congo in Strengthening Transparency and Accountability in Ebola Response Funding",
+   "fonte": "Africa CDC",
+   "data_fmt": "04 out 2026",
+   "url": "https://africacdc.org/news-item/africa-cdc-supports-the-government-of-the-democratic-republic-of-the-congo-in-strengthening-transparency-and-accountability-in-ebola-response-funding/",
+   "escopo": "Internacional"
+  },
+  {
+   "titulo": "Communicable disease threats report, 3 - 9 October, week 41",
+   "fonte": "ECDC",
+   "data_fmt": "09 out 2026",
+   "url": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-3-9-october-week-41",
+   "escopo": "Internacional"
+  },
+  {
+   "titulo": "Chikungunya virus disease worldwide overview",
+   "fonte": "ECDC",
+   "data_fmt": "05 out 2026",
+   "url": "https://www.ecdc.europa.eu/en/chikungunya-monthly",
+   "escopo": "Internacional"
+  },
+  {
+   "titulo": "ECDC closely monitoring situation following case of pneumonia of unknown origin in Russia",
+   "fonte": "ECDC",
+   "data_fmt": "06 out 2026",
+   "url": "https://www.ecdc.europa.eu/en/news-events/ecdc-closely-monitoring-situation-following-case-pneumonia-unknown-origin-russia",
+   "escopo": "Internacional"
+  },
+  {
+   "titulo": "EU-led assessment to Albania will strengthen cross-sector response to antimicrobial resistance",
+   "fonte": "ECDC",
+   "data_fmt": "05 out 2026",
+   "url": "https://www.ecdc.europa.eu/en/news-events/eu-led-assessment-albania-will-strengthen-cross-sector-response-antimicrobial",
+   "escopo": "Internacional"
+  }
+ ],
+ "total_coletado": 40,
+ "fontes": [
+  "Africa CDC",
+  "Agência Brasil",
+  "Agência Fiocruz de Notícias",
+  "CDC",
+  "Correio Braziliense",
+  "ECDC",
+  "Ministério da Saúde",
+  "OMS",
+  "OPAS",
+  "SES-GO"
+ ],
+ "ia": true,
+ "contagem_escopo": {
+  "DF": 0,
+  "Brasil": 2,
+  "Américas": 2,
+  "Internacional": 3
+ },
+ "mapa": "edicoes/img/SE40-2026-v5/mapa-semana.svg",
+ "mapa_escuro": "edicoes/img/SE40-2026-v5/mapa-semana-escuro.svg",
+ "pdf": "edicoes/clipping-SE40-2026-v7.pdf"
+}
