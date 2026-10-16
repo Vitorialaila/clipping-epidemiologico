@@ -153,6 +153,27 @@
   ]
  },
  {
+  "id": "1fe186c880da91",
+  "titulo": "New wildfire in Southern California explodes in size, burning multiple homes",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYjBzTXRtUGh4ekhuX1JER1lZYnNuN0E3YXp2amU4ZHBuQ3d6eFhiNmQydmN6ZWczUmJLUXRVV1BoWWlwNFBuT3p1VTItMmduOWJNbW9neWNiQWdUS1VwdlQwUzhfWHNJMDlkUmVXNFVxM0xLWjlWM3pDTm1HbWdWYkpKd2ZJZVlyWkloTWJJOC0?oc=5",
+  "fonte_id": "cnn-busca",
+  "fonte": "CNN",
+  "sigla": "CNN",
+  "idioma": "en",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-16T23:34:40+00:00",
+  "municipios": [],
+  "pontuacao": 3.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": []
+ },
+ {
   "id": "f57a0c8cbf65b5",
   "titulo": "Early menopause: Why better research and global guidance matter for women’s health",
   "url": "https://www.who.int/news/item/16-10-2026-early-menopause--why-better-research-and-global-guidance-matter-for-women-s-health",
@@ -1167,6 +1188,109 @@
   "se": "2026-41",
   "descricao": "",
   "coletado_em": "2026-10-16T21:06:09+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "f8e10c9062d7a3",
+  "titulo": "Epidemiological Alert:  Myiasis caused by Cochliomyia hominivorax in the Americas Region, 16 October 2026",
+  "url": "https://www.paho.org/en/documents/epidemiological-alert-myiasis-caused-cochliomyia-hominivorax-americas-region-16-october",
+  "fonte_id": "opas-alertas",
+  "fonte": "OPAS | Alertas e atualizações epidemiológicas",
+  "sigla": "OPAS",
+  "idioma": "en",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-16T23:34:40+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Américas",
+  "termos_evento": [
+   "epidemiological alert"
+  ]
+ },
+ {
+  "id": "6e11fcf07c68c5",
+  "titulo": "Ministério da Saúde apoia estados e municípios para ampliar a proteção da população",
+  "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/ministerio-da-saude-apoia-estados-e-municipios-para-ampliar-a-protecao-da-populacao",
+  "fonte_id": "ms-noticias",
+  "fonte": "Ministério da Saúde | Notícias",
+  "sigla": "MS",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-16T23:34:40+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "8205b77c8c644d",
+  "titulo": "Vítima de feminicídio na Candangolândia será enterrada neste sábado (17/10)",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522397-vitima-de-feminicidio-na-candangolandia-sera-enterrada-neste-sabado-17-10.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-16T23:34:40+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "651120e4bdf843",
+  "titulo": "Celina exalta presença nas RAs e mantém foco no 2º turno",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522387-celina-exalta-presenca-nas-ras-e-mantem-foco-no-2-turno.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-16T23:34:40+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "a8a2aae7b81297",
+  "titulo": "Vídeo: Funcionários de cemitério detêm suspeito por furtar lápides",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522275-video-funcionarios-de-cemiterio-detem-suspeito-por-furtar-lapides.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-16T23:34:40+00:00",
   "municipios": [
    "Distrito Federal"
   ],
@@ -3433,6 +3557,27 @@
   "se": "2026-41",
   "descricao": "",
   "coletado_em": "2026-10-16T13:34:20+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "34bded025058c3",
+  "titulo": "Defesa Civil renova alerta para chuvas fortes em São Paulo até quinta-feira (15)",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUDNUY3d1ZU5NcVdsRlBfUzVuUEZlZDhETnBPcFpCclp6dkZjWTViSHlYYVFZMjRoUk44M1V5T3RnN0ZIZE1Bb1hod08wbFRiSktpeUE2dmI1Q1g4UEc1cHF2dWY5dXhCNUdBN182Z09vTVJ2TE5RZ2I5SUh6dXBlUUhvdXBlZm9uT1U3cXFSLWszb2luUTExS0RraERjWkloSWJxdlJWX1h4V3BORWdxSzRXbW54QWMyUTQ0NmtLYXVYTHBRT0oxbzNVb0RGSW4yQ0F1RW04amNRU2M?oc=5",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "agenciasp.sp.gov.br",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-12",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-16T23:34:40+00:00",
   "municipios": [],
   "pontuacao": 6.5,
   "agravos": [
