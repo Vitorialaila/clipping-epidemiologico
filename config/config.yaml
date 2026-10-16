@@ -250,6 +250,33 @@ fontes:
     escopo_padrao: "Brasil"
     idioma: pt
 
+  # Defesa Civil: nacional (MIDR) e dos estados e do DF. Os portais bloqueiam parte do acesso automatizado,
+  # por isso a busca também passa pelo Google Notícias, aceitando só domínios .gov.br.
+  - id: defesa-civil-nacional
+    nome: "Defesa Civil Nacional | MIDR"
+    sigla: "Defesa Civil"
+    tipo: rss
+    url: "https://www.gov.br/mdr/pt-br/noticias/RSS"
+    peso: 1
+    apenas_relevantes: true
+    escopo_padrao: "Brasil"
+    idioma: pt
+
+  - id: defesa-civil-busca
+    nome: "Defesa Civil | Alertas e ocorrências"
+    sigla: "Defesa Civil"
+    tipo: google_news
+    dominios_permitidos: [".gov.br"]
+    nomes_fontes: {"df.gov.br": "Defesa Civil DF", "gov.br": "Defesa Civil"}
+    consultas:
+      - "\"Defesa Civil\" Distrito Federal"
+      - "\"Defesa Civil\" alerta chuvas OR calor OR seca OR incêndio"
+      - "\"Defesa Civil Nacional\""
+    dias: 7
+    peso: 1
+    escopo_padrao: "Brasil"
+    idioma: pt
+
   # Notícias locais do Distrito Federal (os portais do GDF bloqueiam o acesso automatizado)
   - id: correio-braziliense-df
     nome: "Correio Braziliense | Cidades DF"

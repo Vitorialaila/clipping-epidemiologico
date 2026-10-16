@@ -77,7 +77,7 @@ eventos:
 localidades:
   DF:
     peso: 4
-    termos: ["distrito federal", brasilia, "ses-df", "gdf", ceilandia, taguatinga, samambaia, planaltina, "recanto das emas", brazlandia, paranoa, "riacho fundo", "vicente pires", "aguas claras", "sol nascente", "lago norte", "lago sul", "nucleo bandeirante", "park way", fercal, arniqueira]
+    termos: ["distrito federal", brasilia, "do df", "no df", "da df", "ses-df", "gdf", ceilandia, taguatinga, samambaia, planaltina, "recanto das emas", brazlandia, paranoa, "riacho fundo", "vicente pires", "aguas claras", "sol nascente", "lago norte", "lago sul", "nucleo bandeirante", "park way", fercal, arniqueira]
   Brasil:
     peso: 3
     termos: [brasil, brazil, brasileiro, brasileira, "ministerio da saude", "sistema unico de saude", fiocruz, anvisa, acre, alagoas, amapa, amazonas, bahia, ceara, "espirito santo", goias, maranhao, "mato grosso", "minas gerais", "estado do para", belem, paraiba, parana, pernambuco, piaui, "rio de janeiro", "rio grande do norte", "rio grande do sul", rondonia, roraima, "santa catarina", "sao paulo", sergipe, tocantins]
