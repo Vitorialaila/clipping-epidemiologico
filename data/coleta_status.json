@@ -1,0 +1,246 @@
+{
+ "oms-don": {
+  "em": "2026-10-16T13:40:02+00:00",
+  "lidos": 30,
+  "novos": 0,
+  "exemplos": [
+   "Middle East respiratory syndrome coronavirus - Kingdom of Saudi Arabia",
+   "Pneumonia of undetermined etiology - the Russian Federation",
+   "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo"
+  ]
+ },
+ "oms-noticias": {
+  "em": "2026-10-16T13:40:02+00:00",
+  "lidos": 40,
+  "novos": 0,
+  "exemplos": [
+   "Early menopause: Why better research and global guidance matter for women’s health",
+   "INTERPOL and WHO sign agreement to strengthen global health and security protection",
+   "Countries move to accelerate action against lead poisoning"
+  ]
+ },
+ "opas-alertas": {
+  "em": "2026-10-16T13:40:02+00:00",
+  "lidos": 16,
+  "novos": 0,
+  "exemplos": [
+   "Epidemiological Update Avian Influenza A(H5) in the Americas Region - 26 August 2026",
+   "Epidemiological Alert Measles in the Americas Region - 7 August 2026",
+   "Epidemiological Alert: Dermatophilosis by Dermatophilus congolensis - 9 July 2026"
+  ]
+ },
+ "opas-noticias": {
+  "em": "2026-10-16T13:40:02+00:00",
+  "lidos": 10,
+  "novos": 0,
+  "exemplos": [
+   "PAHO Director calls for country ownership and regional solidarity in reshaping global health architecture",
+   "La OPS entrega insumos críticos para reforzar la atención de emergencia en comunidades afectadas por el terremoto en Pan",
+   "La OPS/OMS coordina con el Ministerio de Salud el apoyo a la respuesta en salud tras el terremoto en Panamá"
+  ]
+ },
+ "ecdc-cdtr": {
+  "em": "2026-10-16T13:40:02+00:00",
+  "lidos": 10,
+  "novos": 0,
+  "exemplos": [
+   "Communicable disease threats report, 3 - 9 October, week 41",
+   "Communicable disease threats report, 26 September - 2 October, week 40",
+   "Communicable disease threats report, 19-25 September, week 39"
+  ]
+ },
+ "ecdc-atualizacoes": {
+  "em": "2026-10-16T13:40:02+00:00",
+  "lidos": 10,
+  "novos": 0,
+  "exemplos": [
+   "Ebola disease outbreak in the Democratic Republic of the Congo",
+   "Chikungunya virus disease worldwide overview",
+   "MERS-CoV worldwide overview"
+  ]
+ },
+ "ecdc-avaliacoes": {
+  "em": "2026-10-16T13:40:02+00:00",
+  "lidos": 10,
+  "novos": 0,
+  "exemplos": [
+   "Rapid outbreak assessment – Multi-country outbreak of Salmonella Bovismorbificans ST377 infections linked to the consump",
+   "Rapid risk assessment – Clusters of dermatophilosis in five EU/EEA countries in 2025–2026",
+   "Rapid scientific advice – Risk of Bundibugyo virus transmission through substances of human origin in the European Union"
+  ]
+ },
+ "ecdc-noticias": {
+  "em": "2026-10-16T13:40:02+00:00",
+  "lidos": 10,
+  "novos": 0,
+  "exemplos": [
+   "Strengthening public health emergency operations centres in Europe through exchange of good practices",
+   "Record-high West Nile virus infections reported amid spread to new parts of Europe",
+   "Ebola disease outbreak in the Democratic Republic of the Congo"
+  ]
+ },
+ "cdc-mmwr": {
+  "em": "2026-10-16T13:40:02+00:00",
+  "lidos": 2343,
+  "novos": 0,
+  "exemplos": [
+   "Notes from the Field: Molecular Detections of Cladophialophora bantiana at a Clinical Reference Laboratory - United Stat",
+   "Effectiveness of Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine in Children Aged 6 Months-6 Years During",
+   "Notes from the Field: Dengue Outbreak - U.S. Virgin Islands, January 2024-June 2025"
+  ]
+ },
+ "africa-cdc": {
+  "em": "2026-10-16T13:40:02+00:00",
+  "lidos": 10,
+  "novos": 0,
+  "exemplos": [
+   "Communiqué d’Africa CDC sur le financement de la riposte à l’épidémie d’Ebola en RDC.",
+   "Africa CDC Introduces New Public Health Training Accreditation Framework",
+   "Primary Health Care Continental Coordination Mechanism (PHC-CCM) Outcome Statement"
+  ]
+ },
+ "ms-noticias": {
+  "em": "2026-10-16T13:40:02+00:00",
+  "lidos": 15,
+  "novos": 0,
+  "exemplos": [
+   "Ministério da Saúde, em conjunto com o estado e os municípios, monitora a assistência em saúde à população no Amazonas",
+   "Aprovada MP que torna obrigatória a avaliação dos estudantes de medicina durante a graduação",
+   "Hospital Geral de Bonsucesso tem segundo tomógrafo e chega a 450 leitos para atendimento do SUS"
+  ]
+ },
+ "fiocruz": {
+  "em": "2026-10-16T13:40:02+00:00",
+  "lidos": 10,
+  "novos": 0,
+  "exemplos": [
+   "Contribuições da Fiocruz para as eleições 2026: Compromisso 6 - Enfrentamento à desinformação",
+   "InfoGripe: apenas Sergipe tem SRAG em nível de alerta e tendência de aumento",
+   "Fiocruz reforça a gratuidade da 3° Conferência de Promoção da Saúde"
+  ]
+ },
+ "agencia-brasil-saude": {
+  "em": "2026-10-16T13:40:02+00:00",
+  "lidos": 10,
+  "novos": 0,
+  "exemplos": [
+   "Congresso aprova exame obrigatório para exercício da medicina",
+   "Hospital Geral de Bonsucesso chegou à marca de 450 leitos para o SUS",
+   "Participação do Brasil em pesquisas clínicas cresce após marco legal"
+  ]
+ },
+ "ses-go": {
+  "em": "2026-10-16T13:40:02+00:00",
+  "lidos": 10,
+  "novos": 0,
+  "exemplos": [
+   "Extrato do 7º Apostilamento ao Contrato n.º 213/2014 – SES/GO",
+   "Hemocentro de Jataí precisa de doações de sangue para reforçar estoques",
+   "HGG realiza mutirão de mamografias no Outubro Rosa, em parceria com o Cora"
+  ]
+ },
+ "agencia-brasil-geral": {
+  "em": "2026-10-16T13:40:02+00:00",
+  "lidos": 10,
+  "novos": 0,
+  "exemplos": [
+   "Professora aposentada da UFRJ é baleada em assalto na zona sul do Rio",
+   "Três suspeitos são mortos pela polícia militar em assalto a casa em SP",
+   "São Paulo terá mais chuvas fortes no fim da tarde desta quinta (15)"
+  ]
+ },
+ "cnn-brasil-saude": {
+  "em": "2026-10-16T13:40:02+00:00",
+  "lidos": 26,
+  "novos": 0,
+  "exemplos": [
+   "Anvisa libera uso de produtos da Ypê com lote a partir de novembro de 2025",
+   "Médicos dizem que coçar os olhos pode indicar avanço de doenças crônicas",
+   "Uso de IA em colonoscopia para síndrome de Lynch pode aumentar diagnóstico"
+  ]
+ },
+ "cnn-saude": {
+  "em": "2026-10-16T13:40:02+00:00",
+  "lidos": 18,
+  "novos": 0,
+  "exemplos": [
+   "For more parents, ‘vaccine refusal’ is becoming vaccine delay, but it’s no less dangerous",
+   "About 1 in 8 cancer cases worldwide are tied to these infections — most of them preventable",
+   "Respiratory virus season has arrived. Here’s what to know about flu, Covid-19 and RSV vaccines this fall"
+  ]
+ },
+ "cnn-busca": {
+  "em": "2026-10-16T13:40:02+00:00",
+  "lidos": 30,
+  "novos": 0,
+  "exemplos": [
+   "Qantas plane grounded after reported bedbug outbreak",
+   "AI is among 17 potentially ‘catastrophic threats’ that researchers say require targeted action",
+   "Kenya prepared for Ebola. It still slipped through — a warning of wider cross-border spread"
+  ]
+ },
+ "inmet": {
+  "em": "2026-10-16T13:40:02+00:00",
+  "lidos": 10,
+  "novos": 0,
+  "exemplos": [
+   "Previsão para sexta-feira (16) e sábado (17)",
+   "Inmet participa da XXI Conferência dos Serviços Meteorológicos e Hidrológicos Ibero-Americanos, em Córdoba",
+   "Previsão para quinta-feira (15) e sexta-feira (16)"
+  ]
+ },
+ "cemaden": {
+  "em": "2026-10-16T13:40:02+00:00",
+  "lidos": 10,
+  "novos": 0,
+  "exemplos": [
+   "Boletim de Impactos de Extremos de Origem Hidro-Geo-Climático em Atividades Estratégicas para o Brasil",
+   "Estado do Clima, Extremos de Clima e Desastres no Brasil",
+   "5. Agrometeorologia e Incêndios Florestais"
+  ]
+ },
+ "reliefweb-desastres": {
+  "em": "2026-10-16T13:40:02+00:00",
+  "lidos": 0,
+  "novos": 0,
+  "exemplos": []
+ },
+ "reliefweb-epidemias": {
+  "em": "2026-10-16T13:40:02+00:00",
+  "lidos": 0,
+  "novos": 0,
+  "exemplos": []
+ },
+ "reliefweb-destaques": {
+  "em": "2026-10-16T13:40:02+00:00",
+  "lidos": 0,
+  "novos": 0,
+  "exemplos": []
+ },
+ "defesa-civil-nacional": {
+  "em": "2026-10-16T13:40:02+00:00",
+  "lidos": 0,
+  "novos": 0,
+  "exemplos": []
+ },
+ "defesa-civil-busca": {
+  "em": "2026-10-16T13:40:02+00:00",
+  "lidos": 24,
+  "novos": 0,
+  "exemplos": [
+   "Autorizado repasse de R$ 4,7 milhões para ações de defesa civil",
+   "Candeias: Defesa Civil de Candeias participou de encontro nacional das defesas civís do País",
+   "Nova Laranjeiras, no Paraná, recebe R$ 87 mil para ações de resposta"
+  ]
+ },
+ "correio-braziliense-df": {
+  "em": "2026-10-16T13:40:02+00:00",
+  "lidos": 20,
+  "novos": 0,
+  "exemplos": [
+   "Réu é condenado por matar vizinho após briga por estacionamento no DF",
+   "Inmet prevê chuvas acompanhadas de vento, raios e granizo",
+   "Foragido ligado ao Comboio do Cão é preso com identidade falsa na Estrutural"
+  ]
+ }
+}
