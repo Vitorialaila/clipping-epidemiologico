@@ -11,7 +11,7 @@ Modelo completo de referência: `data/boletins/2026-40/boletim.json` e o PDF `do
 - O texto corrido de cada análise sai dos **comentários do Canva** daquele slide, reescrito em prosa técnica, com erros de digitação corrigidos.
   As anotações do apresentador (presenter notes) estão desatualizadas: **ignorar sempre**.
 - Quando o número do comentário divergir do slide, usar o valor do slide e anotar a divergência para o relatório final.
-- Não incluir o slide de autores/equipe.
+- Não incluir o slide de autores/equipe nem o nome de nenhuma pessoa como autoria no PDF (a autoria aparece só no rodapé do site).
 - Nunca sobrescrever nem apagar arquivos entregues: o gerador cria `-v2`, `-v3` com `--forcar`.
 - Nunca alterar cores nem identidade das logos.
 - Nada de colar o slide inteiro: entram só as figuras (mapas, gráficos, fotos). Números viram `indicadores`,
