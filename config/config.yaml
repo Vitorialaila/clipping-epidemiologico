@@ -211,6 +211,22 @@ fontes:
     apenas_relevantes: true
     idioma: en
 
+  # Busca na CNN internacional pelo índice do Google Notícias (a página de saúde da CNN traz poucos links por vez)
+  - id: cnn-busca
+    nome: "CNN | Busca de surtos"
+    sigla: "CNN"
+    tipo: google_news
+    regiao: "hl=en-US&gl=US&ceid=US:en"
+    dominios_permitidos: ["cnn.com"]
+    nomes_fontes: {"cnn.com": "CNN"}
+    consultas:
+      - "site:cnn.com measles OR outbreak OR epidemic"
+      - "site:cnn.com bird flu OR H5N1 OR mpox OR ebola OR dengue OR cholera"
+      - "site:cnn.com CDC cases OR virus OR infections"
+    dias: 7
+    peso: 1
+    idioma: en
+
   # Clima e desastres (alertas de chuvas, calor, seca e El Niño)
   - id: inmet
     nome: "INMET | Notícias"

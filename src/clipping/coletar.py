@@ -163,7 +163,7 @@ def _google_news(fonte: dict, s, timeout: int) -> list[dict]:
     itens, vistos = [], set()
     for consulta in fonte["consultas"]:
         url = ("https://news.google.com/rss/search?q=" + quote(consulta + " when:" + str(fonte.get("dias", 14)) + "d")
-               + "&hl=pt-BR&gl=BR&ceid=BR:pt-419")
+               + "&" + fonte.get("regiao", "hl=pt-BR&gl=BR&ceid=BR:pt-419"))
         r = s.get(url, timeout=timeout)
         r.raise_for_status()
         for e in feedparser.parse(r.content).entries:
