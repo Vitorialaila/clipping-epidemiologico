@@ -58,7 +58,7 @@ a { color: inherit; }
 .institucional .logos-grandes { height: 84px; display: block; }
 .inst-nomes { display: flex; flex-direction: column; gap: 6px; }
 .inst-nomes { border-left: 2px solid #D9C17A; padding-left: 22px; }
-.inst-nomes .rot-vinc { margin-top: 10px; }
+.inst-nomes strong + .vinc { margin-top: 6px; }
 .inst-nomes .vinc { font-size: 15px; font-weight: 600; color: #0A3570; line-height: 1.35; }
 .inst-nomes .rot { font-size: 11px; letter-spacing: .24em; text-transform: uppercase; color: #B8921A; font-weight: 700; }
 .inst-nomes strong { font-family: var(--serif); font-weight: 400; font-size: clamp(20px, 2.4vw, 27px); line-height: 1.12; color: #0A3570; }
@@ -90,7 +90,7 @@ a { color: inherit; }
 .capa .btn.secundario:hover { background: rgba(255,255,255,.08); }
 .capa .vazio-claro { max-width: 760px; font-size: 18px; line-height: 1.6; color: rgba(255,255,255,.88); margin: 0 0 28px; }
 .realizacao { display: flex; flex-wrap: wrap; align-items: center; gap: 18px 28px; }
-.realizacao .nomes .autoria { font-family: var(--serif); font-weight: 400; font-size: 20px; margin-bottom: 4px; }
+.realizacao .nomes .autoria { font-family: var(--serif); font-weight: 400; font-size: 20px; margin-bottom: 6px; }
 .realizacao .nomes small { font-size: 11px; letter-spacing: .2em; text-transform: uppercase; color: var(--ouro); font-weight: 700; }
 .realizacao .logos-rodape img { height: 64px; display: block; }
 .realizacao .nomes { border-left: 1px solid var(--ouro-2); padding-left: 22px; }
@@ -277,7 +277,7 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
   <div class="wrap">
     <div class="institucional">
       <img class="logos-grandes" src="assets/logos.png" alt="Sala de Situação de Saúde - UnB | Residência de Vigilância em Saúde">
-      <div class="inst-nomes"><span class="rot">Realização</span><strong>Vitória Laila Ferreira Mendes Chagas</strong><span class="rot rot-vinc">Vínculo institucional</span><span class="vinc">Sala de Situação de Saúde - UnB</span><span class="vinc">Residência de Vigilância em Saúde</span></div>
+      <div class="inst-nomes"><span class="rot">Realização</span><strong>Vitória Laila Ferreira Mendes Chagas</strong><span class="vinc">Sala de Situação de Saúde - UnB</span><span class="vinc">Residência de Vigilância em Saúde</span></div>
     </div>
     <span class="kicker">Clipping Epidemiológico</span>
     <h1 class="titulo-site">Notícias de relevância epidemiológica</h1>
@@ -544,7 +544,7 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
 <footer>
   <div class="wrap">
     <div class="linha-ouro"></div>
-    <div><b>Realização</b><div class="realizacao"><div class="logos-rodape"><img src="assets/logos.png" alt="Sala de Situação de Saúde - UnB | Residência de Vigilância em Saúde"></div><div class="nomes"><span class="autoria">Vitória Laila Ferreira Mendes Chagas</span><small>Vínculo institucional</small><span>Sala de Situação de Saúde - UnB</span><span>Residência de Vigilância em Saúde</span></div></div></div>
+    <div><b>Realização</b><div class="realizacao"><div class="logos-rodape"><img src="assets/logos.png" alt="Sala de Situação de Saúde - UnB | Residência de Vigilância em Saúde"></div><div class="nomes"><span class="autoria">Vitória Laila Ferreira Mendes Chagas</span><span>Sala de Situação de Saúde - UnB</span><span>Residência de Vigilância em Saúde</span></div></div></div>
     <div><b>Fontes monitoradas</b><p>Africa CDC, Agência Brasil, Agência Fiocruz de Notícias, CDC, CNN, CNN Brasil, Cemaden, Correio Braziliense, Defesa Civil, ECDC, INMET, Ministério da Saúde, OMS, OPAS, SES-GO.</p></div>
     <div><b>Método</b><p>As publicações são coletadas de hora em hora e classificadas por critérios de relevância epidemiológica (agravo, natureza do evento, proximidade geográfica e tipo de comunicado). Os destaques semanais têm títulos e resumos elaborados com apoio de inteligência artificial a partir do texto original. Para uso técnico, consulte sempre a publicação de origem.</p></div>
     
