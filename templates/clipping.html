@@ -301,7 +301,7 @@ a { color: inherit; text-decoration: none; }
 
 <section class="nota">
   <b>Nota metodológica</b>
-  <p>Edição referente à {{ rotulo }} ({{ periodo }}). {% if total_coletado %}Foram monitoradas {{ total_coletado }} publicações das seguintes fontes oficiais{% else %}Fontes oficiais monitoradas{% endif %}: {{ fontes|join(', ') }}.</p>
+  <p>Edição referente à {{ rotulo }} ({{ periodo }}). {% if total_coletado %}Foram monitoradas {{ total_coletado }} publicações das seguintes fontes{% else %}Fontes monitoradas{% endif %}: {{ fontes|join(', ') }}.</p>
   <p>As notícias são selecionadas por critérios de relevância epidemiológica (agravo, natureza do evento, proximidade geográfica e tipo de comunicado){% if ia %} e os títulos e resumos são elaborados com apoio de inteligência artificial a partir do texto original{% else %}; os resumos reproduzem trechos iniciais do texto original{% endif %}. Para uso técnico, consulte sempre a publicação de origem no link indicado.</p>
 </section>
 
