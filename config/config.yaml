@@ -250,6 +250,34 @@ fontes:
     escopo_padrao: "Brasil"
     idioma: pt
 
+  # ReliefWeb (OCHA/ONU): desastres, epidemias e crises humanitárias, com relatórios de agências e governos
+  - id: reliefweb-desastres
+    nome: "ReliefWeb | Desastres"
+    sigla: "ReliefWeb"
+    tipo: rss
+    url: "https://reliefweb.int/disasters/rss.xml"
+    peso: 1.5
+    apenas_relevantes: true
+    idioma: en
+
+  - id: reliefweb-epidemias
+    nome: "ReliefWeb | Epidemias"
+    sigla: "ReliefWeb"
+    tipo: rss
+    url: "https://reliefweb.int/updates/rss.xml?advanced-search=%28DT4642%29"
+    peso: 1.5
+    apenas_relevantes: true
+    idioma: en
+
+  - id: reliefweb-destaques
+    nome: "ReliefWeb | Headlines"
+    sigla: "ReliefWeb"
+    tipo: rss
+    url: "https://reliefweb.int/headlines/rss.xml"
+    peso: 1
+    apenas_relevantes: true
+    idioma: en
+
   # Defesa Civil: nacional (MIDR) e dos estados e do DF. Os portais bloqueiam parte do acesso automatizado,
   # por isso a busca também passa pelo Google Notícias, aceitando só domínios .gov.br.
   - id: defesa-civil-nacional
