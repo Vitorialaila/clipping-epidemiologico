@@ -1,5 +1,74 @@
 [
  {
+  "t": "Inmet prevê chuvas acompanhadas de vento, raios e granizo",
+  "u": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7521416-inmet-preve-chuvas-acompanhadas-de-vento-raios-e-granizo.html",
+  "d": "2026-10-16",
+  "df": "16 out 2026",
+  "f": "Correio Braziliense",
+  "fn": "Correio Braziliense | Cidades DF",
+  "e": "DF",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-41",
+  "r": "",
+  "i": "clima",
+  "m": [
+   "Distrito Federal"
+  ]
+ },
+ {
+  "t": "Strengthening public health emergency operations centres in Europe through exchange of good practices",
+  "u": "https://www.ecdc.europa.eu/en/news-events/strengthening-public-health-emergency-operations-centres-europe-through-exchange-good",
+  "d": "2026-10-16",
+  "df": "16 out 2026",
+  "f": "ECDC",
+  "fn": "ECDC | News",
+  "e": "Internacional",
+  "a": [],
+  "p": 4.0,
+  "se": "2026-41",
+  "r": "A three-day training workshop organised by ECDC and WHO/Europe and hosted by the Slovenian National Institute of Public Health (NIPH) brought together participants from the EU and a number of accession countries to strengthen their national Public Health…",
+  "i": "alerta",
+  "m": []
+ },
+ {
+  "t": "Effectiveness of Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine in Children Aged 6 Months-6 Years During a Statewide Pertussis Outbreak - Alaska, May-November 2024",
+  "u": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766649",
+  "d": "2026-10-15",
+  "df": "15 out 2026",
+  "f": "CDC",
+  "fn": "CDC | MMWR",
+  "e": "Internacional",
+  "a": [
+   "Difteria",
+   "Coqueluche"
+  ],
+  "p": 10.0,
+  "se": "2026-41",
+  "r": "This report describes effectiveness of the diphtheria and tetanus toxoids and acellular pertussis vaccination series during a statewide pertussis outbreak in Alaska during 2024.",
+  "i": "bacteria",
+  "m": []
+ },
+ {
+  "t": "Middle East respiratory syndrome coronavirus - Kingdom of Saudi Arabia",
+  "u": "https://www.who.int/emergencies/disease-outbreak-news/item/middle-east-respiratory-syndrome-coronavirus---kingdom-of-saudi-arabia",
+  "d": "2026-10-15",
+  "df": "15 out 2026",
+  "f": "OMS",
+  "fn": "OMS | Disease Outbreak News",
+  "e": "Internacional",
+  "a": [
+   "Síndrome respiratória e coronavírus emergentes"
+  ],
+  "p": 9.5,
+  "se": "2026-41",
+  "r": "Between 1 January and 5 October 2026, the Kingdom of Saudi Arabia reported eight laboratory-confirmed cases of Middle East Respiratory Syndrome Coronavirus (MERS-CoV) infection, including one death. Cases were detected across six locations: Al Jouf (1), Arar…",
+  "i": "respiratorio",
+  "m": []
+ },
+ {
   "t": "InfoGripe: apenas Sergipe tem SRAG em nível de alerta e tendência de aumento",
   "u": "https://agencia.fiocruz.br/infogripe-apenas-sergipe-tem-srag-em-nivel-de-alerta-e-tendencia-de-aumento",
   "d": "2026-10-15",
@@ -14,6 +83,23 @@
   "se": "2026-41",
   "r": "InfoGripe: apenas Sergipe tem SRAG em nível de alerta e tendência de aumento",
   "i": "respiratorio",
+  "m": []
+ },
+ {
+  "t": "Notes from the Field: Dengue Outbreak - U.S. Virgin Islands, January 2024-June 2025",
+  "u": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766650",
+  "d": "2026-10-15",
+  "df": "15 out 2026",
+  "f": "CDC",
+  "fn": "CDC | MMWR",
+  "e": "Internacional",
+  "a": [
+   "Dengue"
+  ],
+  "p": 7.5,
+  "se": "2026-41",
+  "r": "This report describes the response to a dengue virus outbreak in the U.S. Virgin Islands during 2024-2025.",
+  "i": "mosquito",
   "m": []
  },
  {
@@ -51,6 +137,23 @@
   "m": []
  },
  {
+  "t": "La OPS entrega insumos críticos para reforzar la atención de emergencia en comunidades afectadas por el terremoto en Panamá",
+  "u": "https://www.paho.org/es/noticias/14-10-2026-ops-entrega-insumos-criticos-para-reforzar-atencion-emergencia-comunidades",
+  "d": "2026-10-15",
+  "df": "15 out 2026",
+  "f": "OPAS",
+  "fn": "OPAS | Notícias",
+  "e": "Américas",
+  "a": [
+   "Emergências e desastres"
+  ],
+  "p": 6.0,
+  "se": "2026-41",
+  "r": "PAHO delivers critical supplies to strengthen emergency care in communities affected by the earthquake in Panama Cristina Mitchell 14 Oct 2026",
+  "i": "desastre",
+  "m": []
+ },
+ {
   "t": "Countries move to accelerate action against lead poisoning",
   "u": "https://www.who.int/news/item/15-10-2026-countries-move-to-accelerate-action-against-lead-poisoning",
   "d": "2026-10-15",
@@ -81,6 +184,23 @@
   "p": 10.0,
   "se": "2026-41",
   "r": "Since May 2026, an Ebola virus disease outbreak caused by Bundibugyo virus has been ongoing in the Democratic Republic of the Congo (DRC).",
+  "i": "virus",
+  "m": []
+ },
+ {
+  "t": "Aumento do sarampo no Brasil: doença pode levar à morte; entenda riscos",
+  "u": "https://www.cnnbrasil.com.br/saude/aumento-do-sarampo-no-brasil-doenca-pode-levar-a-morte-entenda-riscos/",
+  "d": "2026-10-14",
+  "df": "14 out 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 9.5,
+  "se": "2026-41",
+  "r": "",
   "i": "virus",
   "m": []
  },
@@ -121,6 +241,23 @@
   "m": []
  },
  {
+  "t": "Estudo analisa exposição de CRAS a riscos de inundação e deslizamento em 806 municípios brasileiros",
+  "u": "https://www.gov.br/cemaden/pt-br/estudo-analisa-exposicao-de-cras-a-riscos-de-inundacao-e-deslizamento-em-806-municipios-brasileiros",
+  "d": "2026-10-14",
+  "df": "14 out 2026",
+  "f": "Cemaden",
+  "fn": "Cemaden | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres"
+  ],
+  "p": 6.5,
+  "se": "2026-41",
+  "r": "",
+  "i": "desastre",
+  "m": []
+ },
+ {
   "t": "Fiocruz analisa impacto das queimadas na saúde indígena no Amazonas",
   "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/fiocruz-analisa-impacto-das-queimadas-na-saude-indigena-no-amazonas",
   "d": "2026-10-13",
@@ -151,6 +288,23 @@
   "p": 6.5,
   "se": "2026-41",
   "r": "Nota técnica aborda impactos das queimadas na qualidade do ar e riscos à saúde indígena no Amazonas",
+  "i": "clima",
+  "m": []
+ },
+ {
+  "t": "EL NIÑO ganha intensidade e registra a segunda maior anomalia para setembro desde 1950",
+  "u": "https://portal.inmet.gov.br/noticias/el-niño-ganha-intensidade-e-registra-a-segunda-maior-anomalia-para-setembro-desde-1950",
+  "d": "2026-10-13",
+  "df": "13 out 2026",
+  "f": "INMET",
+  "fn": "INMET | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 6.5,
+  "se": "2026-41",
+  "r": "",
   "i": "clima",
   "m": []
  },
@@ -909,6 +1063,24 @@
   "se": "2026-35",
   "r": "This report describes vaccination coverage among U.S. adolescents aged 13-17 years.",
   "i": "vacina",
+  "m": []
+ },
+ {
+  "t": "Respiratory virus season has arrived. Here’s what to know about flu, Covid-19 and RSV vaccines this fall",
+  "u": "https://edition.cnn.com/2026/09/02/health/cdc-vaccine-guidance-gap",
+  "d": "2026-09-02",
+  "df": "02 set 2026",
+  "f": "CNN",
+  "fn": "CNN | Health",
+  "e": "Internacional",
+  "a": [
+   "Influenza e vírus respiratórios",
+   "COVID-19"
+  ],
+  "p": 5.0,
+  "se": "2026-35",
+  "r": "",
+  "i": "respiratorio",
   "m": []
  },
  {
