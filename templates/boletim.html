@@ -172,7 +172,7 @@ a { color: inherit; text-decoration: none; }
   <div class="faixa-capa">
     <div class="capa-topo">
       <img class="logos-grandes" src="assets/img/logos.png" alt="{{ subtitulo }}">
-      {% if instituicoes %}<div class="inst">{% if autoria %}<span class="rot">Realização</span><strong>{{ autoria }}</strong>{% for n in instituicoes %}<span class="vinc">{{ n }}</span>{% endfor %}{% else %}<span class="rot">Realização</span>{% for n in instituicoes %}<strong>{{ n }}</strong>{% endfor %}{% endif %}</div>{% endif %}
+      {% if instituicoes %}<div class="inst"><span class="rot">Realização</span>{% for n in instituicoes %}<strong>{{ n }}</strong>{% endfor %}</div>{% endif %}
     </div>
     <div class="kicker-claro">{{ titulo }}<span> | Publicado em {{ data_geracao }}</span></div>
     <div class="titulo-capa">
@@ -285,7 +285,7 @@ a { color: inherit; text-decoration: none; }
 {% if instituicoes %}
 <section class="realizacao">
   <img src="assets/img/logos.png" alt="{{ subtitulo }}">
-  <div>{% if autoria %}<span class="rot">Realização</span><strong>{{ autoria }}</strong>{% for n in instituicoes %}<span class="vinc">{{ n }}</span>{% endfor %}{% else %}<span class="rot">Realização</span>{% for n in instituicoes %}<strong>{{ n }}</strong>{% endfor %}{% endif %}</div>
+  <div><span class="rot">Realização</span>{% for n in instituicoes %}<strong>{{ n }}</strong>{% endfor %}</div>
 </section>
 {% endif %}
 </div>

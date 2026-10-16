@@ -277,7 +277,7 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
   <div class="wrap">
     <div class="institucional">
       <img class="logos-grandes" src="assets/logos.png" alt="{{ subtitulo }}">
-      {% if instituicoes %}<div class="inst-nomes">{% if autoria %}<span class="rot">Realização</span><strong>{{ autoria }}</strong>{% for n in instituicoes %}<span class="vinc">{{ n }}</span>{% endfor %}{% else %}<span class="rot">Realização</span>{% for n in instituicoes %}<strong>{{ n }}</strong>{% endfor %}{% endif %}</div>{% endif %}
+      {% if instituicoes %}<div class="inst-nomes"><span class="rot">Realização</span>{% for n in instituicoes %}<strong>{{ n }}</strong>{% endfor %}</div>{% endif %}
     </div>
     <span class="kicker">{{ titulo }}</span>
     <h1 class="titulo-site">Notícias de relevância epidemiológica</h1>
