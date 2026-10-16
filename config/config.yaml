@@ -250,32 +250,22 @@ fontes:
     escopo_padrao: "Brasil"
     idioma: pt
 
-  # ReliefWeb (OCHA/ONU): desastres, epidemias e crises humanitárias, com relatórios de agências e governos
-  - id: reliefweb-desastres
-    nome: "ReliefWeb | Desastres"
+  # ReliefWeb (OCHA/ONU): desastres, epidemias e crises humanitárias, com relatórios de agências e governos.
+  # O site recusa a leitura direta dos feeds RSS por robôs (devolve página vazia), então a busca passa pelo
+  # índice do Google Notícias, aceitando só links do próprio reliefweb.int.
+  - id: reliefweb-busca
+    nome: "ReliefWeb | Epidemias e desastres"
     sigla: "ReliefWeb"
-    tipo: rss
-    url: "https://reliefweb.int/disasters/rss.xml"
+    tipo: google_news
+    regiao: "hl=en-US&gl=US&ceid=US:en"
+    dominios_permitidos: ["reliefweb.int"]
+    nomes_fontes: {"reliefweb.int": "ReliefWeb"}
+    consultas:
+      - "site:reliefweb.int epidemic OR outbreak OR cholera OR measles"
+      - "site:reliefweb.int dengue OR ebola OR mpox OR diphtheria OR yellow fever"
+      - "site:reliefweb.int flood OR drought OR cyclone OR earthquake"
+    dias: 7
     peso: 1.5
-    apenas_relevantes: true
-    idioma: en
-
-  - id: reliefweb-epidemias
-    nome: "ReliefWeb | Epidemias"
-    sigla: "ReliefWeb"
-    tipo: rss
-    url: "https://reliefweb.int/updates/rss.xml?advanced-search=%28DT4642%29"
-    peso: 1.5
-    apenas_relevantes: true
-    idioma: en
-
-  - id: reliefweb-destaques
-    nome: "ReliefWeb | Headlines"
-    sigla: "ReliefWeb"
-    tipo: rss
-    url: "https://reliefweb.int/headlines/rss.xml"
-    peso: 1
-    apenas_relevantes: true
     idioma: en
 
   # Defesa Civil: nacional (MIDR) e dos estados e do DF. Os portais bloqueiam parte do acesso automatizado,
@@ -285,6 +275,7 @@ fontes:
     sigla: "Defesa Civil"
     tipo: rss
     url: "https://www.gov.br/mdr/pt-br/noticias/RSS"
+    ativo: false  # o feed não devolve itens para robôs; as notícias do MIDR chegam pela busca abaixo
     peso: 1
     apenas_relevantes: true
     escopo_padrao: "Brasil"
