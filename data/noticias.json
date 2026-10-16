@@ -446,6 +446,25 @@
   "termos_evento": []
  },
  {
+  "id": "f5f1a82adf4d68",
+  "titulo": "Contribuições da Fiocruz para as eleições 2026: Compromisso 6 - Enfrentamento à desinformação",
+  "url": "https://agencia.fiocruz.br/contribuicoes-da-fiocruz-para-eleicoes-2026-compromisso-6-enfrentamento-desinformacao",
+  "fonte_id": "fiocruz",
+  "fonte": "Agência Fiocruz de Notícias",
+  "sigla": "Fiocruz",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "Contribuições da Fiocruz para as eleições 2026: Compromisso 6 - Enfrentamento à desinformação",
+  "coletado_em": "2026-10-16T13:34:20+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
   "id": "88ae4793542a36",
   "titulo": "Effectiveness of Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine in Children Aged 6 Months-6 Years During a Statewide Pertussis Outbreak - Alaska, May-November 2024",
   "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766649",
@@ -1656,6 +1675,48 @@
   "termos_evento": []
  },
  {
+  "id": "7ef12f59ac386a",
+  "titulo": "Reconhecida emergência em 82 cidades potiguares afetadas pela seca",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPazF4Y20zbVRRcXZOT1k2YXljUjBDYnNJRFBzVm1yYVVoU3NNeVBNVFlDcTZFZlplMTNLd1JtSkVWWkdKVUYzT0RwaExLd3JkYTRqSm13aHc5djBNV1NCT3ZMcFpfcTNnTC1Lemt2U1RaM1lSOXR3WGdOOUpjNUlZMUl0QUtMZUM0QlQ4THhlMHZ1bHg5NHNxRk9wVnZINE9uZHZUYVNJWFM3cFVoTkE?oc=5",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "www.gov.br",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-14",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-16T13:34:20+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "2728e3f9a837d0",
+  "titulo": "Defesa Civil de São Paulo alerta para chuva intensa nesta quinta-feira (15), com acumulados que podem chegar a 80 mm",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVnQ1UDRrR0VCT0xhcjhTNFo2WlN1ZUVuNWl2ZkNSZFlLNUktNG9teURDcy1ZSndDbENGNWhTRS1nS3lkZWZlNExfQUVENkpKYlI2YUM3TDV3R2oxT0Z2WXRyUmd5a1BxeGh2YkwxekRHN1JUX0JCQU1rODVzTHc2MVBkR253ZkVZUE5wckMxYU9JMVZxZDlZV3E3OXl6Z1pKUTg0S3hHVmtXcWV4UlFkSkFjWmJsM0hKR2VhVTBTYzNzQ2dHdnlUaXhWOU9fclpNcXQyaktWMnRlZm43N3A4?oc=5",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "agenciasp.sp.gov.br",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-14",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-16T13:34:20+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
   "id": "7b04918efc06e1",
   "titulo": "Anvisa aprova novo medicamento para tratar lúpus",
   "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-aprova-novo-medicamento-para-tratar-lupus",
@@ -2100,6 +2161,48 @@
   "se": "2026-41",
   "descricao": "",
   "coletado_em": "2026-10-16T13:26:18+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "006bee2c686140",
+  "titulo": "Defesa Civil alerta para chuvas fortes entre essa terça-feira (13) e quinta-feira (15)",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMHJoVTE0cVd1b3dhZWZ5dll4QURESFU5bmtGcmQzUXV2R29Ib0JyU0cwU1g2WUxKeVBYd1JRNzZYMWlDdXRVOU9WQjVGUnFQc0l3eE1zTGR2eWdob1psMThWRjZnbTUtZnUxSGROcjR5ZU5PMFZvajNqVWtxY0c4NG1yNGJSek56cTQwcUNEMkN4REJSVmF0QWRLNmg3UFRfcVJKUXp1TS15ekdYYVREWGpGUQ?oc=5",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Prefeitura Municipal de Jacareí",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-13",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-16T13:34:20+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "b9277eaa90042e",
+  "titulo": "Defesa Civil do Estado alerta para chuvas fortes entre terça (13) e quinta-feira (15)",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTUVRTVp1SjUzSW1aa2JWQnBVdDNOeFctWm95amtoTW5XSTA5YVBOZWZTNjFzenU2enZxY1YwSEh1LWRyQTQxWS04NFV3TjMtcmpVUWh4c0p3U2tGWDlOWTJrdnVvV0NvdlJZS1R2MTBvZnYtbmJMVkxSTG56V2libmlEczNMeXNCUW85QW4zNHFTemRJMHBwUHh0NlZyOFM3SmQ2dGVYU1hzSkxpWnMxMnBCeHNFNWs?oc=5",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Prefeitura de Capivari",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-13",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-16T13:34:20+00:00",
   "municipios": [],
   "pontuacao": 6.5,
   "agravos": [
@@ -2567,6 +2670,27 @@
   "municipios": []
  },
  {
+  "id": "0d3d26d08a7197",
+  "titulo": "Defesa Civil renova alerta para chuvas fortes em São Paulo até quinta-feira (15)",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObkZWR0xpU3QxN0pTYTdpd29TbTEtZ1pQTXQ3TURtNGpwUnh0ZWdLVlhkamYtV24zbUJxaEo5UlA3Q3MwMXBxRW1QTEJ6c3NJTkljWU5PUEpLcWdUTGN1TkoyVnRXWWVGaFBmcllEM1R6cXpWRW9QMmM4cXBZLWVDQnV1R000OG1DSE1UNkJSUUxYM19lOTlRbjBBMW9RdGR3aDJoQjIzX0RoM296ZFZxQVdKQm5xWTNKaTdZcDV5S0dBTmY3T1kzY3R3?oc=5",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "agenciasp.sp.gov.br",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-12",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-16T13:34:20+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
   "id": "334a3a13e22de8",
   "titulo": "WHO Pandemic Hub sets ambitious goal to detect new outbreaks within 24 hours",
   "url": "https://www.who.int/news/item/12-10-2026-who-pandemic-hub-sets-ambitious-goal-to-detect-new-outbreaks-within-24-hours",
@@ -2643,6 +2767,48 @@
   "escopo": "Brasil",
   "termos_evento": [],
   "municipios": []
+ },
+ {
+  "id": "cbf271d301ad37",
+  "titulo": "Chuvas fortes levam Defesa Civil a emitir 29 alertas no estado de São Paulo",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdVZjZFZ1ck9ycmFOYm9VR3hIWlZGMExMcnlLRTZQVnhEM2EzOGVnN2phOV82a1FsY3g3UTE5RVljZFVtUFZxVmYwUlM1VDdrcmFrdzIzYU9nU2hUNTM1OVRFTXFFVEg0bDY3QkxpZEY4ZkxCa21mem83RUdUQ1FudXZnNFN3cWlhdS16QjUtcUV6cjNIbTJIYUVTLWkyU19vYzBLcWxLQkw5R1kw?oc=5",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "agenciasp.sp.gov.br",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-11",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-16T13:34:20+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "8511cc09179cea",
+  "titulo": "Governo Federal acelera socorro aos incêndios florestais no Amazonas",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdVpQNG1zU1Y3Ul95c3NYNHV5SkVmMk5fZzNDVEdDVTFGNldzS093NE1ndFMyMkdtTXI3YU9qNWR4SnVoTUtuUEhQSURJR0Y0NVR6aEZGYXlFTmk5alc1Uzk4eHVFSUVkc3N1VWNpVDBic1o4MEFLRVZfa3FIWEZRbEsxWUo5WktEeEdsaXh6akFQT0R0WFBIWjlDZGxqbzF0Y19WN3JvWktzRFVXSEtFSw?oc=5",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Governo Federal",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-11",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-16T13:34:20+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
  },
  {
   "id": "9606cbb42c8d65",
@@ -2875,6 +3041,27 @@
   "se": "2026-40",
   "descricao": "",
   "coletado_em": "2026-10-16T13:28:10+00:00",
+  "municipios": [],
+  "pontuacao": 5.5,
+  "agravos": [
+   "Emergências e desastres"
+  ],
+  "escopo": "Américas",
+  "termos_evento": []
+ },
+ {
+  "id": "93dd5f2905fceb",
+  "titulo": "Powerful earthquake shakes Panama, followed by large aftershocks",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JMVY0Vkg5VmRjYlNRdThGNVpGeEVZMXNNVndBNE1fZ2JTb2JXbkNXam9naHNiSEhGWmtRMkw5RHRCeDBpMmN4UUViT1lyRzdfTmM1aG9oYS1tWFZ4T2owTl9LanowZTFCZXRJR1h5dU5XUkp5ZlE?oc=5",
+  "fonte_id": "cnn-busca",
+  "fonte": "CNN",
+  "sigla": "CNN",
+  "idioma": "en",
+  "data": "2026-10-09",
+  "data_estimada": false,
+  "se": "2026-40",
+  "descricao": "",
+  "coletado_em": "2026-10-16T13:34:20+00:00",
   "municipios": [],
   "pontuacao": 5.5,
   "agravos": [
