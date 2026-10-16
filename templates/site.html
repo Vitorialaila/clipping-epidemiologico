@@ -58,6 +58,8 @@ a { color: inherit; }
 .institucional .logos-grandes { height: 84px; display: block; }
 .inst-nomes { display: flex; flex-direction: column; gap: 6px; }
 .inst-nomes { border-left: 2px solid #D9C17A; padding-left: 22px; }
+.inst-nomes .rot-vinc { margin-top: 10px; }
+.inst-nomes .vinc { font-size: 15px; font-weight: 600; color: #0A3570; line-height: 1.35; }
 .inst-nomes .rot { font-size: 11px; letter-spacing: .24em; text-transform: uppercase; color: #B8921A; font-weight: 700; }
 .inst-nomes strong { font-family: var(--serif); font-weight: 400; font-size: clamp(20px, 2.4vw, 27px); line-height: 1.12; color: #0A3570; }
 @media (max-width: 700px) {
@@ -88,6 +90,8 @@ a { color: inherit; }
 .capa .btn.secundario:hover { background: rgba(255,255,255,.08); }
 .capa .vazio-claro { max-width: 760px; font-size: 18px; line-height: 1.6; color: rgba(255,255,255,.88); margin: 0 0 28px; }
 .realizacao { display: flex; flex-wrap: wrap; align-items: center; gap: 18px 28px; }
+.realizacao .nomes .autoria { font-family: var(--serif); font-weight: 400; font-size: 20px; margin-bottom: 4px; }
+.realizacao .nomes small { font-size: 11px; letter-spacing: .2em; text-transform: uppercase; color: var(--ouro); font-weight: 700; }
 .realizacao .logos-rodape img { height: 64px; display: block; }
 .realizacao .nomes { border-left: 1px solid var(--ouro-2); padding-left: 22px; }
 .realizacao .nomes { display: flex; flex-direction: column; gap: 2px; color: var(--navy); font-size: 15px; font-weight: 600; }
@@ -273,11 +277,11 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
   <div class="wrap">
     <div class="institucional">
       <img class="logos-grandes" src="assets/logos.png" alt="{{ subtitulo }}">
-      {% if instituicoes %}<div class="inst-nomes"><span class="rot">Realização</span>{% for n in instituicoes %}<strong>{{ n }}</strong>{% endfor %}</div>{% endif %}
+      {% if instituicoes %}<div class="inst-nomes">{% if autoria %}<span class="rot">Realização</span><strong>{{ autoria }}</strong><span class="rot rot-vinc">Vínculo institucional</span>{% for n in instituicoes %}<span class="vinc">{{ n }}</span>{% endfor %}{% else %}<span class="rot">Realização</span>{% for n in instituicoes %}<strong>{{ n }}</strong>{% endfor %}{% endif %}</div>{% endif %}
     </div>
     <span class="kicker">{{ titulo }}</span>
     <h1 class="titulo-site">Notícias de relevância epidemiológica</h1>
-    <p class="vazio-claro">Acompanhe as notícias de relevância epidemiológica publicadas por fontes oficiais nacionais e internacionais, atualizadas diariamente. A cada semana epidemiológica, os principais destaques são reunidos em um clipping disponível para download.</p>
+    <p class="vazio-claro">Acompanhe as notícias de relevância epidemiológica publicadas por fontes oficiais nacionais e internacionais e por fontes de sinal precoce, atualizadas de hora em hora. A cada semana epidemiológica, os principais destaques são reunidos em um clipping disponível para download.</p>
     {% if ultima %}<div class="acoes"><a class="btn primario" href="{{ ultima.pdf }}" download>Baixar o clipping da {{ ultima.rotulo }}</a></div>{% endif %}
   </div>
 </section>
@@ -452,9 +456,9 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
 <footer>
   <div class="wrap">
     <div class="linha-ouro"></div>
-    {% if instituicoes %}<div><b>Realização</b><div class="realizacao"><div class="logos-rodape"><img src="assets/logos.png" alt="{{ subtitulo }}"></div><div class="nomes">{% for n in instituicoes %}<span>{{ n }}</span>{% endfor %}</div></div></div>{% endif %}
+    {% if instituicoes %}<div><b>Realização</b><div class="realizacao"><div class="logos-rodape"><img src="assets/logos.png" alt="{{ subtitulo }}"></div><div class="nomes">{% if autoria %}<span class="autoria">{{ autoria }}</span><small>Vínculo institucional</small>{% endif %}{% for n in instituicoes %}<span>{{ n }}</span>{% endfor %}</div></div></div>{% endif %}
     <div><b>Fontes monitoradas</b><p>{{ fontes_monitoradas|join(', ') }}.</p></div>
-    <div><b>Método</b><p>As publicações são coletadas diariamente e classificadas por critérios de relevância epidemiológica (agravo, natureza do evento, proximidade geográfica e tipo de comunicado). Os destaques semanais têm títulos e resumos elaborados com apoio de inteligência artificial a partir do texto original. Para uso técnico, consulte sempre a publicação de origem.</p></div>
+    <div><b>Método</b><p>As publicações são coletadas de hora em hora e classificadas por critérios de relevância epidemiológica (agravo, natureza do evento, proximidade geográfica e tipo de comunicado). Os destaques semanais têm títulos e resumos elaborados com apoio de inteligência artificial a partir do texto original. Para uso técnico, consulte sempre a publicação de origem.</p></div>
     {% if rodape %}<p>{{ rodape }}</p>{% endif %}
   </div>
 </footer>

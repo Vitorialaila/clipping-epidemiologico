@@ -205,7 +205,7 @@ def gerar(codigo_se: str | None = None, forcar: bool = False, hoje: date | None 
     edicao = {
         "titulo": cfg["publicacao"]["titulo"],
         "subtitulo": cfg["publicacao"].get("subtitulo", ""),
-        "instituicoes": cfg["publicacao"].get("instituicoes", []),
+        "instituicoes": cfg["publicacao"].get("instituicoes", []), "autoria": cfg["publicacao"].get("autoria", ""),
         "rodape": cfg["publicacao"].get("rodape", ""),
         "se_codigo": semana.codigo(se), "se_numero": f"{se.week:02d}", "se_ano": se.year,
         "rotulo": semana.rotulo(se), "periodo": periodo,

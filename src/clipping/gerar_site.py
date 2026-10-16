@@ -73,7 +73,7 @@ def gerar() -> None:
     env = Environment(loader=FileSystemLoader(TEMPLATES), autoescape=select_autoescape(["html"]))
     html = env.get_template("site.html").render(
         titulo=cfg["publicacao"]["titulo"], subtitulo=cfg["publicacao"].get("subtitulo", ""),
-        instituicoes=cfg["publicacao"].get("instituicoes", []), mapa_hero="assets/mapa-hero.svg",
+        instituicoes=cfg["publicacao"].get("instituicoes", []), autoria=cfg["publicacao"].get("autoria", ""), mapa_hero="assets/mapa-hero.svg",
         rodape=cfg["publicacao"].get("rodape", ""),
         ultima=edicoes[0] if edicoes else None, arquivo=por_se, boletins=_boletins(),
         feed_json=json.dumps(feed, ensure_ascii=False).replace("</", "<\\/"),
@@ -81,7 +81,7 @@ def gerar() -> None:
         ordem_escopo=ORDEM_ESCOPO, nome_escopo=NOME_ESCOPO, dias=dias, total_feed=len(feed),
         atualizado=data_extenso(date.today()),
         atualizado_iso=datetime.now(timezone.utc).isoformat(timespec="minutes"),
-        fontes_monitoradas=sorted({f["nome"].split(" | ")[0] for f in cfg["fontes"]}),
+        fontes_monitoradas=sorted({f["nome"].split(" | ")[0] for f in cfg["fontes"] if f.get("ativo", True)}),
         icone=icones.svg,
         icones_json=json.dumps({k: re.sub(r"\s+", " ", v) for k, v in icones.ICONES.items()}).replace("</", "<\\/"),
     )

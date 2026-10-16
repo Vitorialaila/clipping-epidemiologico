@@ -118,7 +118,7 @@ def gerar(edicao: str, forcar: bool = False) -> dict | None:
     contexto = {
         "titulo": "Boletim Epidemiológico",
         "subtitulo": cfg["publicacao"].get("subtitulo", ""),
-        "instituicoes": cfg["publicacao"].get("instituicoes", []),
+        "instituicoes": cfg["publicacao"].get("instituicoes", []), "autoria": cfg["publicacao"].get("autoria", ""),
         "rotulo": semana.rotulo(se), "se_numero": f"{se.week:02d}", "se_ano": se.year,
         "periodo": semana.periodo_extenso(se), "data_geracao": data_extenso(date.today()),
         "resumo": sem_travessao(dados.get("resumo", "")), "secoes": secoes,
