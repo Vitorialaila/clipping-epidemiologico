@@ -1,5 +1,29 @@
 [
  {
+  "id": "75c82d79b59760",
+  "titulo": "Africa CDC Reaffirms Support to Kenya Following Confirmation of Four Additional Ebola Cases",
+  "url": "https://africacdc.org/news-item/africa-cdc-reaffirms-support-to-kenya-following-confirmation-of-four-additional-ebola-cases/",
+  "fonte_id": "africa-cdc",
+  "fonte": "Africa CDC | Notícias",
+  "sigla": "Africa CDC",
+  "idioma": "en",
+  "data": "2026-10-17",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "Addis Ababa, Ethiopia, 17 October 2026 The Africa Centres for Disease Control and Prevention (Africa CDC) acknowledges the announcement by the Ministry of Health of the Republic of Kenya confirming four additional cases of Ebola Virus Disease (Bundibugyo virus), bringing the total number of confirmed cases in the country to seven, including one death. According […] The post Africa CDC Reaffirms Support to Kenya Following Confirmation of Four Additional Ebola Cases appeared first on Africa CDC .",
+  "coletado_em": "2026-10-17T19:23:40+00:00",
+  "municipios": [],
+  "pontuacao": 10.5,
+  "agravos": [
+   "Doença pelo vírus Ebola"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [
+   "confirmed cases",
+   "death"
+  ]
+ },
+ {
   "id": "327119b3367edc",
   "titulo": "Dengue grave: estudo identifica fatores de risco para mortes no Brasil",
   "url": "https://www.cnnbrasil.com.br/saude/dengue-grave-estudo-identifica-fatores-de-risco-para-mortes-no-brasil/",
@@ -18,6 +42,27 @@
    "Dengue"
   ],
   "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "21fac1013f1f42",
+  "titulo": "Sarampo é uma das doenças mais facilmente transmissíveis, diz especialista",
+  "url": "https://www.cnnbrasil.com.br/saude/sarampo-e-uma-das-doencas-mais-facilmente-transmissiveis-diz-especialista/",
+  "fonte_id": "cnn-brasil-saude",
+  "fonte": "CNN Brasil | Saúde",
+  "sigla": "CNN Brasil",
+  "idioma": "pt",
+  "data": "2026-10-17",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-17T19:23:40+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Sarampo"
+  ],
+  "escopo": "Internacional",
   "termos_evento": []
  },
  {
@@ -241,6 +286,69 @@
   "se": "2026-41",
   "descricao": "",
   "coletado_em": "2026-10-17T17:09:34+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "04f243ae1b2610",
+  "titulo": "Isaac Vilhena é homenageado em missa após um ano do seu assassinato",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522696-isaac-vilhena-e-homenageado-em-missa-apos-um-ano-do-seu-assassinato.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-17",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-17T19:23:40+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "81be61247fe6f1",
+  "titulo": "Marido esfaqueia companheira em Ceilândia e é preso em flagrante",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522694-marido-esfaqueia-companheira-em-ceilandia-e-e-preso-em-flagrante.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-17",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-17T19:23:40+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "8782f14375836f",
+  "titulo": "Após prisão de líder do tráfico, PCDF prende outros dois em São Sebastião",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522673-apos-prisao-de-lider-do-trafico-pcdf-prende-outros-dois-em-sao-sebastiao.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-17",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-17T19:23:40+00:00",
   "municipios": [
    "Distrito Federal"
   ],
@@ -1673,6 +1781,25 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "c3d4e4853827b7",
+  "titulo": "Fiocruz pra Você 2026 reforça importância da vacina como prevenção",
+  "url": "https://agencia.fiocruz.br/fiocruz-pra-voce-2026-reforca-importancia-da-vacina-como-prevencao",
+  "fonte_id": "fiocruz",
+  "fonte": "Agência Fiocruz de Notícias",
+  "sigla": "Fiocruz",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "Fiocruz pra Você 2026 reforça importância da vacina como prevenção",
+  "coletado_em": "2026-10-17T19:23:40+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
   "termos_evento": []
  },
  {
@@ -3454,6 +3581,27 @@
   "se": "2026-41",
   "descricao": "",
   "coletado_em": "2026-10-16T13:34:20+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "591ef29ac343b9",
+  "titulo": "Reconhecida emergência na cidade de Filadélfia, em Tocantins, afetada pela estiagem",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPejlpWFRWQ2V3eDc1MFY3NmhGX25YdUZUYnRNcEQ1bzFlQUx0eWFUQUxfMklxdkc1Z3ROQ2xoVTJXNzFnaEUxSmYybHBUS3NzZ0d5TTdDd3ZfdzRiMld0dFdVazc0S3dtWWZqbTNkcWhGb2VjQjI2OEgyRDV3YV9KbHVGbW9oMnd4MWU1T25QLXQxS3B4VmNEd0EwWmR4cUN2ZXlkMm1SdEJoQ21FRXZqZFEtbnQtTzlWRUxmcHc3LS1aQQ?oc=5",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "www.gov.br",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-13",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-17T19:23:40+00:00",
   "municipios": [],
   "pontuacao": 6.5,
   "agravos": [
