@@ -1,5 +1,110 @@
 [
  {
+  "id": "327119b3367edc",
+  "titulo": "Dengue grave: estudo identifica fatores de risco para mortes no Brasil",
+  "url": "https://www.cnnbrasil.com.br/saude/dengue-grave-estudo-identifica-fatores-de-risco-para-mortes-no-brasil/",
+  "fonte_id": "cnn-brasil-saude",
+  "fonte": "CNN Brasil | Saúde",
+  "sigla": "CNN Brasil",
+  "idioma": "pt",
+  "data": "2026-10-17",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-17T09:19:59+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Dengue"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "f875bbe878558f",
+  "titulo": "Desaparecimento de ferida não significa cura da sífilis; entenda riscos",
+  "url": "https://www.cnnbrasil.com.br/saude/desaparecimento-de-ferida-nao-significa-cura-da-sifilis-entenda-riscos/",
+  "fonte_id": "cnn-brasil-saude",
+  "fonte": "CNN Brasil | Saúde",
+  "sigla": "CNN Brasil",
+  "idioma": "pt",
+  "data": "2026-10-17",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-17T09:19:59+00:00",
+  "municipios": [],
+  "pontuacao": 3.5,
+  "agravos": [
+   "Sífilis"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": []
+ },
+ {
+  "id": "7ad097be7b81ef",
+  "titulo": "Caso Samambaia: Ministério Público quer aumentar pena",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522232-caso-samambaia-ministerio-publico-quer-aumentar-pena.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-17",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-17T09:19:59+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "b783645a013f4f",
+  "titulo": "Como a segurança pública está na pauta de campanha dos candidatos ao GDF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7518380-como-a-seguranca-publica-esta-na-pauta-de-campanha-dos-candidatos-ao-gdf.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-17",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-17T09:19:59+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "21dea9054d02ff",
+  "titulo": "Flamboyants levam sombra e beleza para as ruas do DF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7521442-flamboyants-levam-sombra-e-beleza-para-as-ruas-do-df.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-17",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-17T09:19:59+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
   "id": "24c4076a21fd19",
   "titulo": "Governo monitora saúde de amazonenses em locais afetados por queimadas",
   "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/governo-monitora-saude-de-amazonenses-em-locais-afetados-por-queimadas",
@@ -2697,6 +2802,27 @@
   "termos_evento": []
  },
  {
+  "id": "8705fbf0ece2c6",
+  "titulo": "Defesa Civil de São Paulo alerta para chuva intensa nesta quinta-feira (15), com acumulados que podem chegar a 80 mm",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMHc5ajF3ZlZlek5BaUlDZzZvdFpSYnJWZnNWNUFtRnd1a0tCWk5EQUE4WElvOGllN3JTc2xUM09SVnR1d2dlM1hMT1dMRjY0MW8xT0tqWHZ5SUw3MmRwT0Y1RE9SMDF4SlZEVjVtT1NKRFNBbW5Jcm5Da1A2RWZZbnpwVGxuQnM4WHdwZ3hSZ2tMak1DMkZVU0k3QTBoNEl4ZVBpZmxrQVZ1ZmRLU3MzdzVCS05oOUluMXhWY3pwYkw3X293ZmhXR0VHNG9uZFhEOWVVSW0xSVlGS085akl6X2tYaUtGenJmLTAwRWd2V1Q?oc=5",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "agenciasp.sp.gov.br",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-14",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-17T09:19:59+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
   "id": "7b04918efc06e1",
   "titulo": "Anvisa aprova novo medicamento para tratar lúpus",
   "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-aprova-novo-medicamento-para-tratar-lupus",
@@ -3845,6 +3971,27 @@
   "se": "2026-41",
   "descricao": "",
   "coletado_em": "2026-10-16T13:28:10+00:00",
+  "municipios": [],
+  "pontuacao": 5.5,
+  "agravos": [
+   "Emergências e desastres"
+  ],
+  "escopo": "Américas",
+  "termos_evento": []
+ },
+ {
+  "id": "feb6c1ee2a3b91",
+  "titulo": "Hurricane Simon weakens to Category 2 as it continues to lash Mexico’s Pacific coast",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBuWTVER2tjenZJeW8zTThDRktqcXRFU2NZcWQ1QUJFMGZvQUtYOFdESlFBMVZ1OHFjVEpoVW1JUXk4ZHFia09STGNMSVNYYU9KS05vRndyM2JubnVodloyN0I4cklNWTI3SjFMdXFYTnp2a2dENl9iNjBHTmFPUQ?oc=5",
+  "fonte_id": "cnn-busca",
+  "fonte": "CNN",
+  "sigla": "CNN",
+  "idioma": "en",
+  "data": "2026-10-11",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-17T09:19:59+00:00",
   "municipios": [],
   "pontuacao": 5.5,
   "agravos": [
