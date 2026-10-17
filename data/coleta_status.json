@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-10-17T09:19:59+00:00",
+  "em": "2026-10-17T13:43:02+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,7 +10,7 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-10-17T09:19:59+00:00",
+  "em": "2026-10-17T13:43:02+00:00",
   "lidos": 40,
   "novos": 0,
   "exemplos": [
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-10-17T09:19:59+00:00",
+  "em": "2026-10-17T13:43:02+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-10-17T09:19:59+00:00",
+  "em": "2026-10-17T13:43:02+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-10-17T09:19:59+00:00",
+  "em": "2026-10-17T13:43:02+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-10-17T09:19:59+00:00",
+  "em": "2026-10-17T13:43:02+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-10-17T09:19:59+00:00",
+  "em": "2026-10-17T13:43:02+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-10-17T09:19:59+00:00",
+  "em": "2026-10-17T13:43:02+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-10-17T09:19:59+00:00",
+  "em": "2026-10-17T13:43:02+00:00",
   "lidos": 2343,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-10-17T09:19:59+00:00",
+  "em": "2026-10-17T13:43:02+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,7 +100,7 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-10-17T09:19:59+00:00",
+  "em": "2026-10-17T13:43:02+00:00",
   "lidos": 15,
   "novos": 0,
   "exemplos": [
@@ -110,7 +110,7 @@
   ]
  },
  "fiocruz": {
-  "em": "2026-10-17T09:19:59+00:00",
+  "em": "2026-10-17T13:43:02+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -120,7 +120,7 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-10-17T09:19:59+00:00",
+  "em": "2026-10-17T13:43:02+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -130,7 +130,7 @@
   ]
  },
  "ses-go": {
-  "em": "2026-10-17T09:19:59+00:00",
+  "em": "2026-10-17T13:43:02+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -140,28 +140,28 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-10-17T09:19:59+00:00",
+  "em": "2026-10-17T13:43:02+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "Mega-Sena sorteia prêmio acumulado em R$ 170 milhões neste domingo",
    "Professora aposentada da UFRJ é baleada em assalto na zona sul do Rio",
-   "Três suspeitos são mortos pela polícia militar em assalto a casa em SP",
-   "São Paulo terá mais chuvas fortes no fim da tarde desta quinta (15)"
+   "Três suspeitos são mortos pela polícia militar em assalto a casa em SP"
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-10-17T09:19:59+00:00",
+  "em": "2026-10-17T13:43:02+00:00",
   "lidos": 26,
-  "novos": 2,
+  "novos": 0,
   "exemplos": [
+   "Robô cirúrgico deve chegar a 22 hospitais brasileiros até dezembro",
    "Câncer de Pulmão: idade do papa pode afetar o tratamento e a recuperação?",
-   "O que são os cânceres do sangue? Dr. Kalil e especialistas explicam quadros",
-   "Dengue grave: estudo identifica fatores de risco para mortes no Brasil"
+   "O que são os cânceres do sangue? Dr. Kalil e especialistas explicam quadros"
   ]
  },
  "cnn-saude": {
-  "em": "2026-10-17T09:19:59+00:00",
-  "lidos": 17,
+  "em": "2026-10-17T13:43:02+00:00",
+  "lidos": 18,
   "novos": 0,
   "exemplos": [
    "Roller coaster death and injuries leave fans asking whether the thrill is worth the risk",
@@ -170,17 +170,17 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-10-17T09:19:59+00:00",
-  "lidos": 19,
-  "novos": 1,
+  "em": "2026-10-17T13:43:02+00:00",
+  "lidos": 24,
+  "novos": 0,
   "exemplos": [
    "Qantas plane grounded after reported bedbug outbreak",
-   "AI is among 17 potentially ‘catastrophic threats’ that researchers say require targeted action",
-   "‘Who, us? We’re not anti-vaccine,’ parents tell me. ‘Today just doesn’t work for us’"
+   "‘Who, us? We’re not anti-vaccine,’ parents tell me. ‘Today just doesn’t work for us’",
+   "New wildfire in Southern California explodes in size, burning multiple homes"
   ]
  },
  "inmet": {
-  "em": "2026-10-17T09:19:59+00:00",
+  "em": "2026-10-17T13:43:02+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -190,7 +190,7 @@
   ]
  },
  "cemaden": {
-  "em": "2026-10-17T09:19:59+00:00",
+  "em": "2026-10-17T13:43:02+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -200,9 +200,9 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-10-17T09:19:59+00:00",
-  "lidos": 28,
-  "novos": 1,
+  "em": "2026-10-17T13:43:02+00:00",
+  "lidos": 26,
+  "novos": 0,
   "exemplos": [
    "Autorizado repasse de R$ 1,8 milhão para ações de defesa civil",
    "Autorizado repasse de R$ 4,7 milhões para ações de defesa civil",
@@ -210,12 +210,12 @@
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-10-17T09:19:59+00:00",
+  "em": "2026-10-17T13:43:02+00:00",
   "lidos": 20,
-  "novos": 3,
+  "novos": 0,
   "exemplos": [
-   "Vídeo: Funcionários de cemitério detêm suspeito por furtar lápides",
    "Sabatina de Flávio é marcada por panelaços pró-Lula em regiões do DF",
+   "Vítima de feminicídio na Candangolândia será enterrada neste sábado (17/10)",
    "Caso Samambaia: Ministério Público quer aumentar pena"
   ]
  }

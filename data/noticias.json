@@ -105,6 +105,27 @@
   "termos_evento": []
  },
  {
+  "id": "96df2785546909",
+  "titulo": "Mega-Sena sorteia prêmio acumulado em R$ 170 milhões neste domingo",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/mega-sena-sorteia-premio-acumulado-em-r-170-milhoes-neste-domingo",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-17",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "A Mega-Sena sorteia neste domingo (18) prêmio estimado em R$ 170 milhões. As seis dezenas do concurso 3.071 serão sorteadas a partir das 11h (horário de Brasília) no Espaço da Sorte, em São Paulo. As apostas podem ser feitas até às 22h (horário de Brasília) de sábado (17) em casas lotéricas credenciadas pela Caixa em todo o país ou pela internet . A aposta simples, com seis dezenas, custa R$ 6.",
+  "coletado_em": "2026-10-17T13:43:02+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
   "id": "24c4076a21fd19",
   "titulo": "Governo monitora saúde de amazonenses em locais afetados por queimadas",
   "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/governo-monitora-saude-de-amazonenses-em-locais-afetados-por-queimadas",
