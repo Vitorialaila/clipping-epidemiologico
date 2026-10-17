@@ -109,6 +109,27 @@
   "termos_evento": []
  },
  {
+  "id": "c59065b16cb567",
+  "titulo": "Inema emite alerta para chuvas intensas na Bahia nas próximas 72 horas",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSmxoNzBfMXNvOU13TXJ3TGdTU3BhUnAxTklPNmdHVGh0T0RIdGxVN1M4SmtzSWtsdmdreEFBVnozN2YzYkVRN0d3Z00zS2wyaTM3TC14V0xaNks4aWJpRUtpMzBWd0tMdC1KcHk3QlJVY3NoY0tMWG92Rll4U0k0S1U0TmQyanhjVnJ2cWRaMGhGNklMSi1YQmxuRlF4VkkyMUpUWVNzUnNwZG90NWRLcm5UN1oxVWxzQUhPaA?oc=5",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "ba.gov.br",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-17T04:23:32+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
   "id": "402851d47548b8",
   "titulo": "Communicable disease threats report, 10 - 16 October, week 42",
   "url": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-10-16-october-week-42",
@@ -165,6 +186,27 @@
   "se": "2026-41",
   "descricao": "",
   "coletado_em": "2026-10-16T23:34:40+00:00",
+  "municipios": [],
+  "pontuacao": 3.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": []
+ },
+ {
+  "id": "a21024766ccb8d",
+  "titulo": "New wildfire in Southern California explodes in size, burning multiple homes",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZkc1NDhnMkUyTlV6UndVN3BRd090LWphS2Q3WFo5cGl0dDVrc1BZTWVBVjhXME1NQ25rekZDRUZmOTR2WXNGV0g3Y0ZOaEJmeEVaU203TFhRaW1zaDhsUThBVFV4QWIxWldZeWFKTlBmSDhyOWtlSWJHeGhLYVZVQ2RENXJ3LVgya25R?oc=5",
+  "fonte_id": "cnn-busca",
+  "fonte": "CNN",
+  "sigla": "CNN",
+  "idioma": "en",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-17T04:23:32+00:00",
   "municipios": [],
   "pontuacao": 3.5,
   "agravos": [
@@ -1291,6 +1333,90 @@
   "se": "2026-41",
   "descricao": "",
   "coletado_em": "2026-10-16T23:34:40+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "e8baa364d2997b",
+  "titulo": "Agentes de saúde do DF são investigadas por venda ilegal de Mounjaro",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522529-agentes-de-saude-do-df-sao-investigadas-por-venda-ilegal-de-mounjaro.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-17T04:23:32+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "11efe311512820",
+  "titulo": "Feminicida tira a própria vida durante abordagem policial no Riacho Fundo",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522548-feminicida-tira-a-propria-vida-durante-abordagem-policial-no-riacho-fundo-i.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-17T04:23:32+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "f81ac6cb6d5e88",
+  "titulo": "Polícia Civil fecha sétima casa de prostituição no ano na Asa Norte",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522538-policia-civil-fecha-setima-casa-de-prostituicao-no-ano-na-asa-norte.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-17T04:23:32+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "a4e46300894edc",
+  "titulo": "Sabatina de Flávio é marcada por panelaços pró-Lula em regiões do DF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522502-sabatina-de-flavio-e-marcada-por-panelacos-pro-lula-em-regioes-do-df.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-17T04:23:32+00:00",
   "municipios": [
    "Distrito Federal"
   ],
@@ -9524,50 +9650,6 @@
   "agravos": [],
   "escopo": "Internacional",
   "termos_evento": [],
-  "municipios": []
- },
- {
-  "id": "79cb226161a9d8",
-  "titulo": "Influenza-Associated Hospitalizations During a High Severity Season - Influenza Hospitalization Surveillance Network, United States, 2024-25 Influenza Season",
-  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=760218",
-  "fonte_id": "cdc-mmwr",
-  "fonte": "CDC | MMWR",
-  "sigla": "CDC",
-  "idioma": "en",
-  "data": "2025-09-11",
-  "data_estimada": false,
-  "se": "2025-37",
-  "descricao": "This report describes the severity of the 2024-25 flu season and flu-associated hospitalizations. The Morbidity and Mortality Weekly Report (MMWR) Series is prepared by the Centers for Disease Control and Prevention (CDC).",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.0,
-  "agravos": [
-   "Influenza e vírus respiratórios"
-  ],
-  "escopo": "Américas",
-  "termos_evento": [
-   "surveillance"
-  ],
-  "municipios": []
- },
- {
-  "id": "62ab8e9e18d335",
-  "titulo": "Notes from the Field: Invasive Group G β-Hemolytic Streptococcus Outbreak at a Long-Term Care Facility - Pennsylvania, 2024",
-  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=760219",
-  "fonte_id": "cdc-mmwr",
-  "fonte": "CDC | MMWR",
-  "sigla": "CDC",
-  "idioma": "en",
-  "data": "2025-09-11",
-  "data_estimada": false,
-  "se": "2025-37",
-  "descricao": "This report describes two residents of a long-term care facility (both older than age 85) who developed Group G β-hemolytic Streptococcus in a long-term care facility.",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.0,
-  "agravos": [],
-  "escopo": "Internacional",
-  "termos_evento": [
-   "outbreak"
-  ],
   "municipios": []
  }
 ]
