@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-10-18T20:40:43+00:00",
+  "em": "2026-10-18T23:10:43+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,7 +10,7 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-10-18T20:40:43+00:00",
+  "em": "2026-10-18T23:10:43+00:00",
   "lidos": 40,
   "novos": 0,
   "exemplos": [
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-10-18T20:40:43+00:00",
+  "em": "2026-10-18T23:10:43+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-10-18T20:40:43+00:00",
+  "em": "2026-10-18T23:10:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-10-18T20:40:43+00:00",
+  "em": "2026-10-18T23:10:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-10-18T20:40:43+00:00",
+  "em": "2026-10-18T23:10:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-10-18T20:40:43+00:00",
+  "em": "2026-10-18T23:10:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-10-18T20:40:43+00:00",
+  "em": "2026-10-18T23:10:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-10-18T20:40:43+00:00",
+  "em": "2026-10-18T23:10:43+00:00",
   "lidos": 2343,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-10-18T20:40:43+00:00",
+  "em": "2026-10-18T23:10:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,11 +100,17 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-10-18T20:40:43+00:00",
-  "erro": "HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /saude/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+  "em": "2026-10-18T23:10:43+00:00",
+  "lidos": 15,
+  "novos": 0,
+  "exemplos": [
+   "Santos (SP) passa a contar com dois aceleradores lineares para tratar pacientes com câncer",
+   "Ministério da Saúde apoia estados e municípios para ampliar a proteção da população",
+   "Ministério da Saúde, estados e municípios promovem Circuito de Cuidado da Mulher neste sábado"
+  ]
  },
  "fiocruz": {
-  "em": "2026-10-18T20:40:43+00:00",
+  "em": "2026-10-18T23:10:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -114,7 +120,7 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-10-18T20:40:43+00:00",
+  "em": "2026-10-18T23:10:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -124,7 +130,7 @@
   ]
  },
  "ses-go": {
-  "em": "2026-10-18T20:40:43+00:00",
+  "em": "2026-10-18T23:10:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -134,9 +140,9 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-10-18T20:40:43+00:00",
+  "em": "2026-10-18T23:10:43+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Mega-Sena acumula; prêmio pode chegar a R$ 185 milhões na terça-feira",
    "Mega-Sena sorteia prêmio acumulado em R$ 170 milhões neste domingo",
@@ -144,9 +150,9 @@
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-10-18T20:40:43+00:00",
+  "em": "2026-10-18T23:10:43+00:00",
   "lidos": 26,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Casos de câncer estão aumentando entre os mais jovens, aponta relatório",
    "Pesquisa revela como as mulheres escolhem métodos contraceptivos no Brasil",
@@ -154,7 +160,7 @@
   ]
  },
  "cnn-saude": {
-  "em": "2026-10-18T20:40:43+00:00",
+  "em": "2026-10-18T23:10:43+00:00",
   "lidos": 18,
   "novos": 0,
   "exemplos": [
@@ -164,17 +170,17 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-10-18T20:40:43+00:00",
-  "lidos": 19,
+  "em": "2026-10-18T23:10:43+00:00",
+  "lidos": 21,
   "novos": 0,
   "exemplos": [
-   "Qantas plane grounded after reported bedbug outbreak",
    "‘Who, us? We’re not anti-vaccine,’ parents tell me. ‘Today just doesn’t work for us’",
+   "Qantas plane grounded after reported bedbug outbreak",
    "New wildfire in Southern California explodes in size, burning multiple homes"
   ]
  },
  "inmet": {
-  "em": "2026-10-18T20:40:43+00:00",
+  "em": "2026-10-18T23:10:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -184,27 +190,33 @@
   ]
  },
  "cemaden": {
-  "em": "2026-10-18T20:40:43+00:00",
-  "erro": "HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /cemaden/pt-br (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+  "em": "2026-10-18T23:10:43+00:00",
+  "lidos": 10,
+  "novos": 0,
+  "exemplos": [
+   "Boletim de Impactos de Extremos de Origem Hidro-Geo-Climático em Atividades Estratégicas para o Brasil",
+   "Estado do Clima, Extremos de Clima e Desastres no Brasil",
+   "5. Agrometeorologia e Incêndios Florestais"
+  ]
  },
  "defesa-civil-busca": {
-  "em": "2026-10-18T20:40:43+00:00",
+  "em": "2026-10-18T23:10:43+00:00",
   "lidos": 23,
   "novos": 0,
   "exemplos": [
    "Autorizado repasse de R$ 1,8 milhão para ações de defesa civil",
    "Autorizado repasse de R$ 4,7 milhões para ações de defesa civil",
-   "Nova Laranjeiras, no Paraná, recebe R$ 87 mil para ações de resposta"
+   "Candeias: Defesa Civil de Candeias participou de encontro nacional das defesas civís do País"
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-10-18T20:40:43+00:00",
+  "em": "2026-10-18T23:10:43+00:00",
   "lidos": 20,
-  "novos": 5,
+  "novos": 3,
   "exemplos": [
    "Ato pró-Lula no Museu Nacional busca virar votos a uma semana do 2º turno",
    "Leandro Grass pede união além do PT em ato pró-Lula no Museu Nacional",
-   "Moradores da 26 de Setembro voltam a enfrentar alagamentos após obra na Rua 2"
+   "Em Planaltina, Grass cobra presença de Celina Leão em debates"
   ]
  }
 }
