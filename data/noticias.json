@@ -45,6 +45,29 @@
   "termos_evento": []
  },
  {
+  "id": "b16bee9afb32e3",
+  "titulo": "Chuva forte provoca alagamentos na 26 de Setembro neste sábado (17/10)",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522774-chuva-forte-provoca-alagamentos-na-26-de-setembro-neste-sabado-17-10.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-17",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-18T00:05:16+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
   "id": "21fac1013f1f42",
   "titulo": "Sarampo é uma das doenças mais facilmente transmissíveis, diz especialista",
   "url": "https://www.cnnbrasil.com.br/saude/sarampo-e-uma-das-doencas-mais-facilmente-transmissiveis-diz-especialista/",
@@ -496,6 +519,27 @@
   "se": "2026-41",
   "descricao": "",
   "coletado_em": "2026-10-17T22:17:22+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "2f5860e9625969",
+  "titulo": "Carona fica em pé sobre moto em ato de Flávio Bolsonaro e Celina Leão no DF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522758-carona-fica-em-pe-sobre-moto-em-ato-de-flavio-bolsonaro-e-celina-leao-no-df.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-17",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-18T00:05:16+00:00",
   "municipios": [
    "Distrito Federal"
   ],
