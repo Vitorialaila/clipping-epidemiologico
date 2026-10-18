@@ -1,5 +1,47 @@
 [
  {
+  "id": "fb3caaaddc3c6d",
+  "titulo": "Grupos de guardiões do Cerrado protagonizam a conservação da natureza.",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7515186-grupos-de-guardioes-do-cerrado-protagonizam-a-conservacao-da-natureza.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-18",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-18T09:36:33+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "3f6271b56dbf75",
+  "titulo": "DF tem sete dias decisivos para o segundo turno da corrida ao Palácio do Buriti",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7521651-df-tem-sete-dias-decisivos-para-o-segundo-turno-da-corrida-ao-palacio-do-buriti.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-18",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-18T09:36:33+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
   "id": "75c82d79b59760",
   "titulo": "Africa CDC Reaffirms Support to Kenya Following Confirmation of Four Additional Ebola Cases",
   "url": "https://africacdc.org/news-item/africa-cdc-reaffirms-support-to-kenya-following-confirmation-of-four-additional-ebola-cases/",
@@ -540,6 +582,27 @@
   "se": "2026-41",
   "descricao": "",
   "coletado_em": "2026-10-18T00:05:16+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "4e4bba3a4e079d",
+  "titulo": "Lula pede votos para Leandro Grass pelas redes sociais",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522804-lula-pede-votos-para-leandro-grass-pelas-redes-sociais.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-17",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-18T09:36:33+00:00",
   "municipios": [
    "Distrito Federal"
   ],

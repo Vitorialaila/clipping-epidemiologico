@@ -1,0 +1,686 @@
+{
+ "titulo": "Clipping Epidemiológico",
+ "subtitulo": "Sala de Situação de Saúde - UnB | Residência de Vigilância em Saúde",
+ "instituicoes": [
+  "Sala de Situação de Saúde - UnB",
+  "Residência de Vigilância em Saúde"
+ ],
+ "rodape": "",
+ "se_codigo": "2026-41",
+ "se_numero": "41",
+ "se_ano": 2026,
+ "rotulo": "SE 41/2026",
+ "periodo": "11 a 17 de outubro de 2026",
+ "data_geracao": "18 de outubro de 2026",
+ "gerado_em": "2026-10-18T09:37:50+00:00",
+ "panorama": "",
+ "principal": {
+  "ancora": "n1",
+  "titulo": "Africa CDC Reaffirms Support to Kenya Following Confirmation of Four Additional Ebola Cases",
+  "titulo_original": "Africa CDC Reaffirms Support to Kenya Following Confirmation of Four Additional Ebola Cases",
+  "resumo": "Addis Ababa, Ethiopia, 17 October 2026 The Africa Centres for Disease Control and Prevention (Africa CDC) acknowledges the announcement by the Ministry of Health of the Republic of Kenya confirming four additional cases of Ebola Virus Disease (Bundibugyo virus), bringing the total number of confirmed cases in the country to seven, including one death. According to the Ministry of Health, all four new cases were detected among individuals already under quarantine following exposure to the initial case. They include three healthcare workers and one family member.",
+  "local": "",
+  "agravo": "Doença pelo vírus Ebola",
+  "escopo": "Internacional",
+  "fonte": "Africa CDC | Notícias",
+  "sigla": "Africa CDC",
+  "data": "2026-10-17",
+  "data_fmt": "17 out 2026",
+  "url": "https://africacdc.org/news-item/africa-cdc-reaffirms-support-to-kenya-following-confirmation-of-four-additional-ebola-cases/",
+  "dominio": "africacdc.org",
+  "nota_ia": null,
+  "pontuacao": 10.5,
+  "n": 1,
+  "paises": [
+   "KEN",
+   "ETH"
+  ],
+  "uf": "",
+  "icone": "virus",
+  "visual": {
+   "tipo": "mapa",
+   "src": "edicoes/img/SE41-2026/n1.svg"
+  }
+ },
+ "secoes": [
+  {
+   "escopo": "Brasil",
+   "nome": "Brasil",
+   "itens": [
+    {
+     "ancora": "n5",
+     "titulo": "Aumento do sarampo no Brasil: doença pode levar à morte; entenda riscos",
+     "titulo_original": "Aumento do sarampo no Brasil: doença pode levar à morte; entenda riscos",
+     "resumo": "Aumento do sarampo no Brasil: doença pode levar à morte; entenda riscos Doença infecciosa é uma das mais contagiosas do mundo; vacinação é a principal ação para conter o aumento do vírus e é oferecido pelo SUS O Ministério da Saúde confirmou ao menos 52 casos de sarampo no Brasil em outubro, sendo 41 em São Paulo, dez no Amazonas e um no Rio de Janeiro. As ocorrências chamam atenção visto que a doença infecciosa é uma das mais contagiosas do mundo, e o diagnóstico pode evoluir para quadros mais graves e levar ao óbito.",
+     "local": "Brasil",
+     "agravo": "Sarampo",
+     "escopo": "Brasil",
+     "fonte": "CNN Brasil | Saúde",
+     "sigla": "CNN Brasil",
+     "data": "2026-10-14",
+     "data_fmt": "14 out 2026",
+     "url": "https://www.cnnbrasil.com.br/saude/aumento-do-sarampo-no-brasil-doenca-pode-levar-a-morte-entenda-riscos/",
+     "dominio": "cnnbrasil.com.br",
+     "nota_ia": null,
+     "pontuacao": 9.5,
+     "n": 5,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "SP",
+     "icone": "virus",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE41-2026/n5.svg"
+     }
+    },
+    {
+     "ancora": "n6",
+     "titulo": "Saúde acompanha implantação em Anápolis da metodologia que reduz dengue e chikungunya",
+     "titulo_original": "Saúde acompanha implantação em Anápolis da metodologia que reduz dengue e chikungunya",
+     "resumo": "Saúde acompanha implantação em Anápolis da metodologia que reduz dengue e chikungunya Quando infectado pela bactéria Wolbachia, o mosquito Aedes aegypti perde a capacidade de transmitir essas doenças e repassa a bactéria para seus descendentes, substituindo gradualmente a população de mosquitos A Secretaria de Estado da Saúde de Goiás (SES-GO) participou da cerimônia de implantação da metodologia Wolbachia em Anápolis no Teatro Municipal, com a participação de representantes do Ministério da Saúde, da Fundação Oswaldo Cruz (Fiocruz) e Wolbito do Brasil, no último dia 5 de outubro.",
+     "local": "Brasil",
+     "agravo": "Dengue",
+     "escopo": "Brasil",
+     "fonte": "SES-GO | Notícias",
+     "sigla": "SES-GO",
+     "data": "2026-10-14",
+     "data_fmt": "14 out 2026",
+     "url": "https://goias.gov.br/saude/saude-acompanha-implantacao-em-anapolis-da-metodologia-que-reduz-dengue-e-chikungunya/",
+     "dominio": "goias.gov.br",
+     "nota_ia": null,
+     "pontuacao": 9.0,
+     "n": 6,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "GO",
+     "icone": "mosquito",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE41-2026/n6.svg"
+     }
+    },
+    {
+     "ancora": "n7",
+     "titulo": "Governo monitora saúde de amazonenses em locais afetados por queimadas",
+     "titulo_original": "Governo monitora saúde de amazonenses em locais afetados por queimadas",
+     "resumo": "Governo monitora saúde de amazonenses em locais afetados por queimadas O Ministério da Saúde vem monitorando os impactos das queimadas na saúde dos amazonenses e sobre o Sistema Único de Saúde (SUS) na região. A medida ocorre depois que o governo do Amazonas decretou situação de emergência em 36 municípios, no último dia 10, em razão dos incêndios florestais. A pasta atua em conjunto com o governo estadual e dos municípios afetados pela estiagem severa, fogo e fumaça, com a realização de visitas técnicas e apoio à gestão.",
+     "local": "Brasil",
+     "agravo": "Saúde ambiental e clima",
+     "escopo": "Brasil",
+     "fonte": "Agência Brasil | Saúde",
+     "sigla": "Agência Brasil",
+     "data": "2026-10-16",
+     "data_fmt": "16 out 2026",
+     "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/governo-monitora-saude-de-amazonenses-em-locais-afetados-por-queimadas",
+     "dominio": "agenciabrasil.ebc.com.br",
+     "nota_ia": null,
+     "pontuacao": 8.0,
+     "n": 7,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "AM",
+     "icone": "clima",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE41-2026/n7.svg"
+     }
+    },
+    {
+     "ancora": "n8",
+     "titulo": "SES intensifica ações de combate ao Aedes aegypti em todo o Estado e pede apoio da população para eliminar criadouros",
+     "titulo_original": "SES intensifica ações de combate ao Aedes aegypti em todo o Estado e pede apoio da população para eliminar criadouros",
+     "resumo": "SES intensifica ações de combate ao Aedes aegypti em todo o Estado e pede apoio da população para eliminar criadouros Secretaria reforça combate ao mosquito com monitoramento, uso de novas tecnologias, controle químico, distribuição de insumos/equipamentos e qualificação dos profissionais dos municípios goianos A Secretaria de Estado da Saúde de Goiás (SES-GO) executa um conjunto de ações estratégicas para reduzir a infestação do Aedes aegypti e fortalecer a prevenção de doenças como dengue, chikungunya e zika em parceria com os municípios.",
+     "local": "Brasil",
+     "agravo": "Arboviroses",
+     "escopo": "Brasil",
+     "fonte": "SES-GO | Notícias",
+     "sigla": "SES-GO",
+     "data": "2026-10-16",
+     "data_fmt": "16 out 2026",
+     "url": "https://goias.gov.br/saude/ses-intensifica-acoes-de-combate-ao-aedes-aegypti-em-todo-o-estado-e-pede-apoio-da-populacao-para-eliminar-criadouros/",
+     "dominio": "goias.gov.br",
+     "nota_ia": null,
+     "pontuacao": 8.0,
+     "n": 8,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "GO",
+     "icone": "mosquito",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE41-2026/n8.svg"
+     }
+    },
+    {
+     "ancora": "n9",
+     "titulo": "Seminário Estadual de Sífilis capacita profissionais para fortalecer diagnóstico, tratamento e prevenção da doença",
+     "titulo_original": "Seminário Estadual de Sífilis capacita profissionais para fortalecer diagnóstico, tratamento e prevenção da doença",
+     "resumo": "Seminário Estadual de Sífilis capacita profissionais para fortalecer diagnóstico, tratamento e prevenção da doença Encontro promovido na Escola de Saúde Pública reúne profissionais da atenção primária e da vigilância epidemiológica para qualificar assistência e prevenir casos de sífilis congênita A Secretaria de Estado da Saúde de Goiás (SES-GO) realiza, nesta quarta-feira (14/10), o Seminário Estadual de Sífilis, na Escola de Saúde Pública de Goiás. O evento reúne médicos, enfermeiros da atenção primária e profissionais da vigilância epidemiológica dos municípios e das regionais de saúde.",
+     "local": "Brasil",
+     "agravo": "Sífilis",
+     "escopo": "Brasil",
+     "fonte": "SES-GO | Notícias",
+     "sigla": "SES-GO",
+     "data": "2026-10-14",
+     "data_fmt": "14 out 2026",
+     "url": "https://goias.gov.br/saude/seminario-estadual-de-sifilis-capacita-profissionais-para-fortalecer-diagnostico-tratamento-e-prevencao-da-doenca/",
+     "dominio": "goias.gov.br",
+     "nota_ia": null,
+     "pontuacao": 8.0,
+     "n": 9,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "GO",
+     "icone": "bacteria",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE41-2026/n9.svg"
+     }
+    },
+    {
+     "ancora": "n10",
+     "titulo": "Dengue grave: estudo identifica fatores de risco para mortes no Brasil",
+     "titulo_original": "Dengue grave: estudo identifica fatores de risco para mortes no Brasil",
+     "resumo": "Dengue grave: estudo identifica fatores de risco para mortes no Brasil Pesquisa analisou mais de 40 mil internações em UTIs brasileiras entre 2015 e 2024 e aponta maior risco entre idosos e pacientes que precisam de medicamentos para elevar a pressão arterial Um estudo conduzido por pesquisadores do Einstein Hospital Israelita identificou fatores associados ao risco de morte por dengue grave em pacientes internados em Unidades de Terapia Intensiva (UTIs) no Brasil.",
+     "local": "Brasil",
+     "agravo": "Dengue",
+     "escopo": "Brasil",
+     "fonte": "CNN Brasil | Saúde",
+     "sigla": "CNN Brasil",
+     "data": "2026-10-17",
+     "data_fmt": "17 out 2026",
+     "url": "https://www.cnnbrasil.com.br/saude/dengue-grave-estudo-identifica-fatores-de-risco-para-mortes-no-brasil/",
+     "dominio": "cnnbrasil.com.br",
+     "nota_ia": null,
+     "pontuacao": 7.5,
+     "n": 10,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "",
+     "icone": "mosquito",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE41-2026/n10.svg"
+     }
+    }
+   ]
+  },
+  {
+   "escopo": "Internacional",
+   "nome": "Internacional",
+   "itens": [
+    {
+     "ancora": "n2",
+     "titulo": "Effectiveness of Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine in Children Aged 6 Months-6 Years During a Statewide Pertussis Outbreak - Alaska, May-November 2024",
+     "titulo_original": "Effectiveness of Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine in Children Aged 6 Months-6 Years During a Statewide Pertussis Outbreak - Alaska, May-November 2024",
+     "resumo": "This report describes effectiveness of the diphtheria and tetanus toxoids and acellular pertussis vaccination series during a statewide pertussis outbreak in Alaska during 2024.",
+     "local": "",
+     "agravo": "Difteria",
+     "escopo": "Internacional",
+     "fonte": "CDC | MMWR",
+     "sigla": "CDC",
+     "data": "2026-10-15",
+     "data_fmt": "15 out 2026",
+     "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766649",
+     "dominio": "tools.cdc.gov",
+     "nota_ia": null,
+     "pontuacao": 10.0,
+     "n": 2,
+     "paises": [],
+     "uf": "",
+     "icone": "bacteria",
+     "visual": {
+      "tipo": "icone"
+     }
+    },
+    {
+     "ancora": "n3",
+     "titulo": "Ebola disease outbreak in the Democratic Republic of the Congo",
+     "titulo_original": "Ebola disease outbreak in the Democratic Republic of the Congo",
+     "resumo": "Ebola disease outbreak in the Democratic Republic of the Congo This page is updated every weekday. It was last updated on 16 October at 16:11. As of 15 October 2026, the Democratic Republic of the Congo (DRC) reported a total of 9 277 confirmed cases, including 4 478 related deaths (from data up until 14 October). A total of 924 patients are hospitalised in isolation. On 14 October, 65 new confirmed cases and 37 deaths were reported. The 65 new cases have been reported from Ituri (31 cases), North Kivu (28 cases), Haut-Uele (5 cases), and Tshopo (1 case).",
+     "local": "",
+     "agravo": "Doença pelo vírus Ebola",
+     "escopo": "Internacional",
+     "fonte": "ECDC | Epidemiological updates",
+     "sigla": "ECDC",
+     "data": "2026-10-14",
+     "data_fmt": "14 out 2026",
+     "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+     "dominio": "ecdc.europa.eu",
+     "nota_ia": null,
+     "pontuacao": 10.0,
+     "n": 3,
+     "paises": [
+      "COG",
+      "COD"
+     ],
+     "uf": "",
+     "icone": "virus",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE41-2026/n3.svg"
+     }
+    },
+    {
+     "ancora": "n4",
+     "titulo": "Middle East respiratory syndrome coronavirus - Kingdom of Saudi Arabia",
+     "titulo_original": "Middle East respiratory syndrome coronavirus - Kingdom of Saudi Arabia",
+     "resumo": "Situation at a glance Description of the situation Between 1 January and 5 October 2026, a total of eight cases of MERS-CoV, including one death, was reported from six locations in the Kingdom of Saudi Arabia. Of the eight reported cases, five occurred among persons aged 70 years and older, two among adults aged 50-59 years, and one among an adult aged 30-39 years. Seven cases had underlying comorbidities, two reported direct camel contact, and one death was reported in an older adult (>65 year old) with comorbidities. There was no known epidemiological link identified among cases.",
+     "local": "Arábia Saudita",
+     "agravo": "Síndrome respiratória e coronavírus emergentes",
+     "escopo": "Internacional",
+     "fonte": "OMS | Disease Outbreak News",
+     "sigla": "OMS",
+     "data": "2026-10-15",
+     "data_fmt": "15 out 2026",
+     "url": "https://www.who.int/emergencies/disease-outbreak-news/item/middle-east-respiratory-syndrome-coronavirus---kingdom-of-saudi-arabia",
+     "dominio": "who.int",
+     "nota_ia": null,
+     "pontuacao": 9.5,
+     "n": 4,
+     "paises": [
+      "SAU"
+     ],
+     "uf": "",
+     "icone": "respiratorio",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE41-2026/n4.svg"
+     }
+    }
+   ]
+  }
+ ],
+ "destaques": [
+  {
+   "ancora": "n1",
+   "titulo": "Africa CDC Reaffirms Support to Kenya Following Confirmation of Four Additional Ebola Cases",
+   "titulo_original": "Africa CDC Reaffirms Support to Kenya Following Confirmation of Four Additional Ebola Cases",
+   "resumo": "Addis Ababa, Ethiopia, 17 October 2026 The Africa Centres for Disease Control and Prevention (Africa CDC) acknowledges the announcement by the Ministry of Health of the Republic of Kenya confirming four additional cases of Ebola Virus Disease (Bundibugyo virus), bringing the total number of confirmed cases in the country to seven, including one death. According to the Ministry of Health, all four new cases were detected among individuals already under quarantine following exposure to the initial case. They include three healthcare workers and one family member.",
+   "local": "",
+   "agravo": "Doença pelo vírus Ebola",
+   "escopo": "Internacional",
+   "fonte": "Africa CDC | Notícias",
+   "sigla": "Africa CDC",
+   "data": "2026-10-17",
+   "data_fmt": "17 out 2026",
+   "url": "https://africacdc.org/news-item/africa-cdc-reaffirms-support-to-kenya-following-confirmation-of-four-additional-ebola-cases/",
+   "dominio": "africacdc.org",
+   "nota_ia": null,
+   "pontuacao": 10.5,
+   "n": 1,
+   "paises": [
+    "KEN",
+    "ETH"
+   ],
+   "uf": "",
+   "icone": "virus",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE41-2026/n1.svg"
+   }
+  },
+  {
+   "ancora": "n2",
+   "titulo": "Effectiveness of Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine in Children Aged 6 Months-6 Years During a Statewide Pertussis Outbreak - Alaska, May-November 2024",
+   "titulo_original": "Effectiveness of Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine in Children Aged 6 Months-6 Years During a Statewide Pertussis Outbreak - Alaska, May-November 2024",
+   "resumo": "This report describes effectiveness of the diphtheria and tetanus toxoids and acellular pertussis vaccination series during a statewide pertussis outbreak in Alaska during 2024.",
+   "local": "",
+   "agravo": "Difteria",
+   "escopo": "Internacional",
+   "fonte": "CDC | MMWR",
+   "sigla": "CDC",
+   "data": "2026-10-15",
+   "data_fmt": "15 out 2026",
+   "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766649",
+   "dominio": "tools.cdc.gov",
+   "nota_ia": null,
+   "pontuacao": 10.0,
+   "n": 2,
+   "paises": [],
+   "uf": "",
+   "icone": "bacteria",
+   "visual": {
+    "tipo": "icone"
+   }
+  },
+  {
+   "ancora": "n3",
+   "titulo": "Ebola disease outbreak in the Democratic Republic of the Congo",
+   "titulo_original": "Ebola disease outbreak in the Democratic Republic of the Congo",
+   "resumo": "Ebola disease outbreak in the Democratic Republic of the Congo This page is updated every weekday. It was last updated on 16 October at 16:11. As of 15 October 2026, the Democratic Republic of the Congo (DRC) reported a total of 9 277 confirmed cases, including 4 478 related deaths (from data up until 14 October). A total of 924 patients are hospitalised in isolation. On 14 October, 65 new confirmed cases and 37 deaths were reported. The 65 new cases have been reported from Ituri (31 cases), North Kivu (28 cases), Haut-Uele (5 cases), and Tshopo (1 case).",
+   "local": "",
+   "agravo": "Doença pelo vírus Ebola",
+   "escopo": "Internacional",
+   "fonte": "ECDC | Epidemiological updates",
+   "sigla": "ECDC",
+   "data": "2026-10-14",
+   "data_fmt": "14 out 2026",
+   "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+   "dominio": "ecdc.europa.eu",
+   "nota_ia": null,
+   "pontuacao": 10.0,
+   "n": 3,
+   "paises": [
+    "COG",
+    "COD"
+   ],
+   "uf": "",
+   "icone": "virus",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE41-2026/n3.svg"
+   }
+  },
+  {
+   "ancora": "n4",
+   "titulo": "Middle East respiratory syndrome coronavirus - Kingdom of Saudi Arabia",
+   "titulo_original": "Middle East respiratory syndrome coronavirus - Kingdom of Saudi Arabia",
+   "resumo": "Situation at a glance Description of the situation Between 1 January and 5 October 2026, a total of eight cases of MERS-CoV, including one death, was reported from six locations in the Kingdom of Saudi Arabia. Of the eight reported cases, five occurred among persons aged 70 years and older, two among adults aged 50-59 years, and one among an adult aged 30-39 years. Seven cases had underlying comorbidities, two reported direct camel contact, and one death was reported in an older adult (>65 year old) with comorbidities. There was no known epidemiological link identified among cases.",
+   "local": "Arábia Saudita",
+   "agravo": "Síndrome respiratória e coronavírus emergentes",
+   "escopo": "Internacional",
+   "fonte": "OMS | Disease Outbreak News",
+   "sigla": "OMS",
+   "data": "2026-10-15",
+   "data_fmt": "15 out 2026",
+   "url": "https://www.who.int/emergencies/disease-outbreak-news/item/middle-east-respiratory-syndrome-coronavirus---kingdom-of-saudi-arabia",
+   "dominio": "who.int",
+   "nota_ia": null,
+   "pontuacao": 9.5,
+   "n": 4,
+   "paises": [
+    "SAU"
+   ],
+   "uf": "",
+   "icone": "respiratorio",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE41-2026/n4.svg"
+   }
+  },
+  {
+   "ancora": "n5",
+   "titulo": "Aumento do sarampo no Brasil: doença pode levar à morte; entenda riscos",
+   "titulo_original": "Aumento do sarampo no Brasil: doença pode levar à morte; entenda riscos",
+   "resumo": "Aumento do sarampo no Brasil: doença pode levar à morte; entenda riscos Doença infecciosa é uma das mais contagiosas do mundo; vacinação é a principal ação para conter o aumento do vírus e é oferecido pelo SUS O Ministério da Saúde confirmou ao menos 52 casos de sarampo no Brasil em outubro, sendo 41 em São Paulo, dez no Amazonas e um no Rio de Janeiro. As ocorrências chamam atenção visto que a doença infecciosa é uma das mais contagiosas do mundo, e o diagnóstico pode evoluir para quadros mais graves e levar ao óbito.",
+   "local": "Brasil",
+   "agravo": "Sarampo",
+   "escopo": "Brasil",
+   "fonte": "CNN Brasil | Saúde",
+   "sigla": "CNN Brasil",
+   "data": "2026-10-14",
+   "data_fmt": "14 out 2026",
+   "url": "https://www.cnnbrasil.com.br/saude/aumento-do-sarampo-no-brasil-doenca-pode-levar-a-morte-entenda-riscos/",
+   "dominio": "cnnbrasil.com.br",
+   "nota_ia": null,
+   "pontuacao": 9.5,
+   "n": 5,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "SP",
+   "icone": "virus",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE41-2026/n5.svg"
+   }
+  },
+  {
+   "ancora": "n6",
+   "titulo": "Saúde acompanha implantação em Anápolis da metodologia que reduz dengue e chikungunya",
+   "titulo_original": "Saúde acompanha implantação em Anápolis da metodologia que reduz dengue e chikungunya",
+   "resumo": "Saúde acompanha implantação em Anápolis da metodologia que reduz dengue e chikungunya Quando infectado pela bactéria Wolbachia, o mosquito Aedes aegypti perde a capacidade de transmitir essas doenças e repassa a bactéria para seus descendentes, substituindo gradualmente a população de mosquitos A Secretaria de Estado da Saúde de Goiás (SES-GO) participou da cerimônia de implantação da metodologia Wolbachia em Anápolis no Teatro Municipal, com a participação de representantes do Ministério da Saúde, da Fundação Oswaldo Cruz (Fiocruz) e Wolbito do Brasil, no último dia 5 de outubro.",
+   "local": "Brasil",
+   "agravo": "Dengue",
+   "escopo": "Brasil",
+   "fonte": "SES-GO | Notícias",
+   "sigla": "SES-GO",
+   "data": "2026-10-14",
+   "data_fmt": "14 out 2026",
+   "url": "https://goias.gov.br/saude/saude-acompanha-implantacao-em-anapolis-da-metodologia-que-reduz-dengue-e-chikungunya/",
+   "dominio": "goias.gov.br",
+   "nota_ia": null,
+   "pontuacao": 9.0,
+   "n": 6,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "GO",
+   "icone": "mosquito",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE41-2026/n6.svg"
+   }
+  },
+  {
+   "ancora": "n7",
+   "titulo": "Governo monitora saúde de amazonenses em locais afetados por queimadas",
+   "titulo_original": "Governo monitora saúde de amazonenses em locais afetados por queimadas",
+   "resumo": "Governo monitora saúde de amazonenses em locais afetados por queimadas O Ministério da Saúde vem monitorando os impactos das queimadas na saúde dos amazonenses e sobre o Sistema Único de Saúde (SUS) na região. A medida ocorre depois que o governo do Amazonas decretou situação de emergência em 36 municípios, no último dia 10, em razão dos incêndios florestais. A pasta atua em conjunto com o governo estadual e dos municípios afetados pela estiagem severa, fogo e fumaça, com a realização de visitas técnicas e apoio à gestão.",
+   "local": "Brasil",
+   "agravo": "Saúde ambiental e clima",
+   "escopo": "Brasil",
+   "fonte": "Agência Brasil | Saúde",
+   "sigla": "Agência Brasil",
+   "data": "2026-10-16",
+   "data_fmt": "16 out 2026",
+   "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/governo-monitora-saude-de-amazonenses-em-locais-afetados-por-queimadas",
+   "dominio": "agenciabrasil.ebc.com.br",
+   "nota_ia": null,
+   "pontuacao": 8.0,
+   "n": 7,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "AM",
+   "icone": "clima",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE41-2026/n7.svg"
+   }
+  },
+  {
+   "ancora": "n8",
+   "titulo": "SES intensifica ações de combate ao Aedes aegypti em todo o Estado e pede apoio da população para eliminar criadouros",
+   "titulo_original": "SES intensifica ações de combate ao Aedes aegypti em todo o Estado e pede apoio da população para eliminar criadouros",
+   "resumo": "SES intensifica ações de combate ao Aedes aegypti em todo o Estado e pede apoio da população para eliminar criadouros Secretaria reforça combate ao mosquito com monitoramento, uso de novas tecnologias, controle químico, distribuição de insumos/equipamentos e qualificação dos profissionais dos municípios goianos A Secretaria de Estado da Saúde de Goiás (SES-GO) executa um conjunto de ações estratégicas para reduzir a infestação do Aedes aegypti e fortalecer a prevenção de doenças como dengue, chikungunya e zika em parceria com os municípios.",
+   "local": "Brasil",
+   "agravo": "Arboviroses",
+   "escopo": "Brasil",
+   "fonte": "SES-GO | Notícias",
+   "sigla": "SES-GO",
+   "data": "2026-10-16",
+   "data_fmt": "16 out 2026",
+   "url": "https://goias.gov.br/saude/ses-intensifica-acoes-de-combate-ao-aedes-aegypti-em-todo-o-estado-e-pede-apoio-da-populacao-para-eliminar-criadouros/",
+   "dominio": "goias.gov.br",
+   "nota_ia": null,
+   "pontuacao": 8.0,
+   "n": 8,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "GO",
+   "icone": "mosquito",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE41-2026/n8.svg"
+   }
+  },
+  {
+   "ancora": "n9",
+   "titulo": "Seminário Estadual de Sífilis capacita profissionais para fortalecer diagnóstico, tratamento e prevenção da doença",
+   "titulo_original": "Seminário Estadual de Sífilis capacita profissionais para fortalecer diagnóstico, tratamento e prevenção da doença",
+   "resumo": "Seminário Estadual de Sífilis capacita profissionais para fortalecer diagnóstico, tratamento e prevenção da doença Encontro promovido na Escola de Saúde Pública reúne profissionais da atenção primária e da vigilância epidemiológica para qualificar assistência e prevenir casos de sífilis congênita A Secretaria de Estado da Saúde de Goiás (SES-GO) realiza, nesta quarta-feira (14/10), o Seminário Estadual de Sífilis, na Escola de Saúde Pública de Goiás. O evento reúne médicos, enfermeiros da atenção primária e profissionais da vigilância epidemiológica dos municípios e das regionais de saúde.",
+   "local": "Brasil",
+   "agravo": "Sífilis",
+   "escopo": "Brasil",
+   "fonte": "SES-GO | Notícias",
+   "sigla": "SES-GO",
+   "data": "2026-10-14",
+   "data_fmt": "14 out 2026",
+   "url": "https://goias.gov.br/saude/seminario-estadual-de-sifilis-capacita-profissionais-para-fortalecer-diagnostico-tratamento-e-prevencao-da-doenca/",
+   "dominio": "goias.gov.br",
+   "nota_ia": null,
+   "pontuacao": 8.0,
+   "n": 9,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "GO",
+   "icone": "bacteria",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE41-2026/n9.svg"
+   }
+  },
+  {
+   "ancora": "n10",
+   "titulo": "Dengue grave: estudo identifica fatores de risco para mortes no Brasil",
+   "titulo_original": "Dengue grave: estudo identifica fatores de risco para mortes no Brasil",
+   "resumo": "Dengue grave: estudo identifica fatores de risco para mortes no Brasil Pesquisa analisou mais de 40 mil internações em UTIs brasileiras entre 2015 e 2024 e aponta maior risco entre idosos e pacientes que precisam de medicamentos para elevar a pressão arterial Um estudo conduzido por pesquisadores do Einstein Hospital Israelita identificou fatores associados ao risco de morte por dengue grave em pacientes internados em Unidades de Terapia Intensiva (UTIs) no Brasil.",
+   "local": "Brasil",
+   "agravo": "Dengue",
+   "escopo": "Brasil",
+   "fonte": "CNN Brasil | Saúde",
+   "sigla": "CNN Brasil",
+   "data": "2026-10-17",
+   "data_fmt": "17 out 2026",
+   "url": "https://www.cnnbrasil.com.br/saude/dengue-grave-estudo-identifica-fatores-de-risco-para-mortes-no-brasil/",
+   "dominio": "cnnbrasil.com.br",
+   "nota_ia": null,
+   "pontuacao": 7.5,
+   "n": 10,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "",
+   "icone": "mosquito",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE41-2026/n10.svg"
+   }
+  }
+ ],
+ "outras": [
+  {
+   "titulo": "Chuva forte provoca alagamentos na 26 de Setembro neste sábado (17/10)",
+   "fonte": "Correio Braziliense",
+   "data_fmt": "17 out 2026",
+   "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522774-chuva-forte-provoca-alagamentos-na-26-de-setembro-neste-sabado-17-10.html",
+   "escopo": "DF"
+  },
+  {
+   "titulo": "Inmet prevê chuvas acompanhadas de vento, raios e granizo",
+   "fonte": "Correio Braziliense",
+   "data_fmt": "16 out 2026",
+   "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7521416-inmet-preve-chuvas-acompanhadas-de-vento-raios-e-granizo.html",
+   "escopo": "DF"
+  },
+  {
+   "titulo": "Método Wolbachia contra arboviroses começa a ser implantado no Ceará",
+   "fonte": "Fiocruz",
+   "data_fmt": "16 out 2026",
+   "url": "https://agencia.fiocruz.br/metodo-wolbachia-contra-arboviroses-comeca-ser-implantado-no-ceara",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "InfoGripe: apenas Sergipe tem SRAG em nível de alerta e tendência de aumento",
+   "fonte": "Fiocruz",
+   "data_fmt": "15 out 2026",
+   "url": "https://agencia.fiocruz.br/infogripe-apenas-sergipe-tem-srag-em-nivel-de-alerta-e-tendencia-de-aumento",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Notes from the Field: Dengue Outbreak - U.S. Virgin Islands, January 2024-June 2025",
+   "fonte": "CDC",
+   "data_fmt": "15 out 2026",
+   "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766650",
+   "escopo": "Internacional"
+  },
+  {
+   "titulo": "Communiqué d’Africa CDC sur le financement de la riposte à l’épidémie d’Ebola en RDC.",
+   "fonte": "Africa CDC",
+   "data_fmt": "15 out 2026",
+   "url": "https://africacdc.org/news-item/communique-dafrica-cdc-sur-le-financement-de-la-riposte-a-lepidemie-debola-en-rdc/",
+   "escopo": "Internacional"
+  },
+  {
+   "titulo": "Fiocruz analisa impacto das queimadas na saúde indígena no Amazonas",
+   "fonte": "Agência Brasil",
+   "data_fmt": "13 out 2026",
+   "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/fiocruz-analisa-impacto-das-queimadas-na-saude-indigena-no-amazonas",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Sarampo é uma das doenças mais facilmente transmissíveis, diz especialista",
+   "fonte": "CNN Brasil",
+   "data_fmt": "17 out 2026",
+   "url": "https://www.cnnbrasil.com.br/saude/sarampo-e-uma-das-doencas-mais-facilmente-transmissiveis-diz-especialista/",
+   "escopo": "Internacional"
+  },
+  {
+   "titulo": "Operação El Niño: Governo de SP monitora os impactos da chuva e alerta para novos temporais",
+   "fonte": "Defesa Civil",
+   "data_fmt": "16 out 2026",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSjF3Sy1UNkJjc1BLSUExWHQ3RXJiRHByNlhuZFp1dFpDLWVKSWJkNUxQaHBkdE9xRzRCd0pTUm5PYW1iNWJwa2FlblcwbU5hT1BZcVpQVHIySjAwQXdDWVZ2NlQwZzZOSUxFT1k2Y1E2NGN2SElGY1BORGZSRlJmRDczZ1J0ZkhkOExSSDZYdFhMVFA4WlBPNU5ndEQwR2dRaVBhRE5Nek1EcmU5dHNncnpzSEQxZDJZRDdJV1ZwS3FJTFhhMF9fNU41dnRHVUVuQkE?oc=5",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Inema emite alerta para chuvas intensas na Bahia nas próximas 72 horas",
+   "fonte": "Defesa Civil",
+   "data_fmt": "16 out 2026",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSmxoNzBfMXNvOU13TXJ3TGdTU3BhUnAxTklPNmdHVGh0T0RIdGxVN1M4SmtzSWtsdmdreEFBVnozN2YzYkVRN0d3Z00zS2wyaTM3TC14V0xaNks4aWJpRUtpMzBWd0tMdC1KcHk3QlJVY3NoY0tMWG92Rll4U0k0S1U0TmQyanhjVnJ2cWRaMGhGNklMSi1YQmxuRlF4VkkyMUpUWVNzUnNwZG90NWRLcm5UN1oxVWxzQUhPaA?oc=5",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Record-high West Nile virus infections reported amid spread to new parts of Europe",
+   "fonte": "ECDC",
+   "data_fmt": "15 out 2026",
+   "url": "https://www.ecdc.europa.eu/en/news-events/record-high-west-nile-virus-infections-reported-amid-spread-new-parts-europe",
+   "escopo": "Internacional"
+  },
+  {
+   "titulo": "Serra está sob alerta de chuvas e possibilidade de tempestades",
+   "fonte": "Defesa Civil",
+   "data_fmt": "15 out 2026",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaEpZcnExN2I4Q0FpWm12cmVYZTZuZWlMNzRhM1JQaEhnVG1MWWpFQVZKZy10TlVXVnNVOGM5NHg2eG1HOTNxeWc3YTlldHJ4QWFDT2hBakJKYmpybVBKWm9DalpiVnR1cERoQ1gtNGl6WW9iWlUyMGhzM0xwbkxxQ2dubzdDN2JRc3l3akFMTFlwa1FiSmpTdmhIUkRUWEtlTE5CdE5lWHRtemN4d2JyektBWTFOZ0NtOEdaR2k0UXFvc1JVS19VdHUzVk8?oc=5",
+   "escopo": "Brasil"
+  }
+ ],
+ "total_coletado": 223,
+ "fontes": [
+  "Africa CDC",
+  "Agência Brasil",
+  "Agência Fiocruz de Notícias",
+  "CDC",
+  "CNN",
+  "CNN Brasil",
+  "Cemaden",
+  "Correio Braziliense",
+  "Defesa Civil",
+  "Defesa Civil Nacional",
+  "ECDC",
+  "INMET",
+  "Ministério da Saúde",
+  "OMS",
+  "OPAS",
+  "SES-GO"
+ ],
+ "ia": false,
+ "contagem_escopo": {
+  "DF": 0,
+  "Brasil": 6,
+  "Américas": 0,
+  "Internacional": 4
+ },
+ "mapa": "edicoes/img/SE41-2026/mapa-semana.svg",
+ "mapa_escuro": "edicoes/img/SE41-2026/mapa-semana-escuro.svg",
+ "pdf": "edicoes/clipping-SE41-2026.pdf"
+}
