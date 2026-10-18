@@ -84,6 +84,48 @@
   "termos_evento": []
  },
  {
+  "id": "dfb65ce9829d41",
+  "titulo": "Celina Leão ouve reivindicações de moradores rurais do Recanto das Emas",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522885-celina-leao-ouve-reivindicacoes-de-moradores-rurais-do-recanto-das-emas.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-18",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-18T17:22:18+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "44ef77bbc95d30",
+  "titulo": "Leandro Grass pede união além do PT em ato pró-Lula no Museu Nacional",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522876-grass-pede-uniao-alem-do-pt-em-ato-pro-lula-no-museu-nacional.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-18",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-18T17:22:18+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
   "id": "75c82d79b59760",
   "titulo": "Africa CDC Reaffirms Support to Kenya Following Confirmation of Four Additional Ebola Cases",
   "url": "https://africacdc.org/news-item/africa-cdc-reaffirms-support-to-kenya-following-confirmation-of-four-additional-ebola-cases/",
