@@ -42,6 +42,48 @@
   "termos_evento": []
  },
  {
+  "id": "064a1b6051a964",
+  "titulo": "Celina Leão participa de corrida e defende incentivo ao esporte",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522847-celina-leao-participa-de-corrida-e-defende-incentivo-ao-esporte.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-18",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-18T14:00:50+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "9b2e8489c454bd",
+  "titulo": "Ato pró-Lula no Museu Nacional busca virar votos a uma semana do 2º turno",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522850-ato-pro-lula-no-museu-nacional-busca-virar-votos-a-uma-semana-do-2-turno.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-18",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-18T14:00:50+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
   "id": "75c82d79b59760",
   "titulo": "Africa CDC Reaffirms Support to Kenya Following Confirmation of Four Additional Ebola Cases",
   "url": "https://africacdc.org/news-item/africa-cdc-reaffirms-support-to-kenya-following-confirmation-of-four-additional-ebola-cases/",
@@ -733,6 +775,27 @@
   "se": "2026-41",
   "descricao": "",
   "coletado_em": "2026-10-17T04:23:32+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "f8e041adf68434",
+  "titulo": "Defesa Civil reforça cuidados após alerta para tempestades em Vitória da Conquista até segunda-feira, 19",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNblpDcjlWVVk0UjdFV1BYZjBseGNFZ3NSRzE3NVVwa0o0QVpsVkNCS19VZ3VEVnp4UEhmSi1KVlZFbi02WHF5cmlFU1psem5VbzBzazhOOHpGV2FscUlMY2lBZkJ5SnR6N3ZyMUVFM2NvcGoxMnIxLVF2TS1VLVAyTEpIallBWUdWNUFzalRZUUEtTG1ZMjhRQWwzS2tWSXYtOTlPdTA5c003WDl4d1ZtS3B4Wl93RkZPSmxnTUZLWU1JdEJhc3hVN21hNA?oc=5",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Prefeitura Municipal de Vitória da Conquista - PMVC",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-18T14:00:50+00:00",
   "municipios": [],
   "pontuacao": 6.5,
   "agravos": [
@@ -3208,6 +3271,25 @@
   "se": "2026-41",
   "descricao": "",
   "coletado_em": "2026-10-16T18:02:51+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Internacional",
+  "termos_evento": []
+ },
+ {
+  "id": "0ff422e576b061",
+  "titulo": "Africa’s Pooled Procurement Mechanism Seeks to Lower Medical Product Costs",
+  "url": "https://africacdc.org/news-item/africas-pooled-procurement-mechanism-seeks-to-lower-medical-product-costs/",
+  "fonte_id": "africa-cdc",
+  "fonte": "Africa CDC | Notícias",
+  "sigla": "Africa CDC",
+  "idioma": "en",
+  "data": "2026-10-15",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "Addis Ababa, Ethiopia, 15 October 2026 – The African Pooled Procurement Mechanism (APPM) has moved from its pilot phase to a fully-fledged continental programme, with eight African Union Member States having signed the Memorandum of Understanding (MoU) to participate in the initiative. Another 15 countries have expressed intent to join the initiative, and the Africa […] The post Africa’s Pooled Procurement Mechanism Seeks to Lower Medical Product Costs appeared first on Africa CDC .",
+  "coletado_em": "2026-10-18T14:00:50+00:00",
   "municipios": [],
   "pontuacao": 0.0,
   "agravos": [],
