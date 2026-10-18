@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-10-18T17:22:18+00:00",
+  "em": "2026-10-18T20:40:43+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,7 +10,7 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-10-18T17:22:18+00:00",
+  "em": "2026-10-18T20:40:43+00:00",
   "lidos": 40,
   "novos": 0,
   "exemplos": [
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-10-18T17:22:18+00:00",
+  "em": "2026-10-18T20:40:43+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-10-18T17:22:18+00:00",
+  "em": "2026-10-18T20:40:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-10-18T17:22:18+00:00",
+  "em": "2026-10-18T20:40:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-10-18T17:22:18+00:00",
+  "em": "2026-10-18T20:40:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-10-18T17:22:18+00:00",
+  "em": "2026-10-18T20:40:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-10-18T17:22:18+00:00",
+  "em": "2026-10-18T20:40:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-10-18T17:22:18+00:00",
+  "em": "2026-10-18T20:40:43+00:00",
   "lidos": 2343,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-10-18T17:22:18+00:00",
+  "em": "2026-10-18T20:40:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,17 +100,11 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-10-18T17:22:18+00:00",
-  "lidos": 15,
-  "novos": 0,
-  "exemplos": [
-   "Santos (SP) passa a contar com dois aceleradores lineares para tratar pacientes com câncer",
-   "Ministério da Saúde apoia estados e municípios para ampliar a proteção da população",
-   "Ministério da Saúde, estados e municípios promovem Circuito de Cuidado da Mulher neste sábado"
-  ]
+  "em": "2026-10-18T20:40:43+00:00",
+  "erro": "HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /saude/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
  },
  "fiocruz": {
-  "em": "2026-10-18T17:22:18+00:00",
+  "em": "2026-10-18T20:40:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -120,7 +114,7 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-10-18T17:22:18+00:00",
+  "em": "2026-10-18T20:40:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -130,7 +124,7 @@
   ]
  },
  "ses-go": {
-  "em": "2026-10-18T17:22:18+00:00",
+  "em": "2026-10-18T20:40:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -140,27 +134,27 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-10-18T17:22:18+00:00",
+  "em": "2026-10-18T20:40:43+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "Mega-Sena acumula; prêmio pode chegar a R$ 185 milhões na terça-feira",
    "Mega-Sena sorteia prêmio acumulado em R$ 170 milhões neste domingo",
-   "Professora aposentada da UFRJ é baleada em assalto na zona sul do Rio",
-   "Três suspeitos são mortos pela polícia militar em assalto a casa em SP"
+   "Professora aposentada da UFRJ é baleada em assalto na zona sul do Rio"
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-10-18T17:22:18+00:00",
+  "em": "2026-10-18T20:40:43+00:00",
   "lidos": 26,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
-   "Espirrar várias vezes seguidas é normal? Especialista diz quando investigar",
-   "Novos tratamentos para doenças do sangue: Kalil e hematologistas comentam",
-   "Por que é tão difícil dizer \"não\"? Veja explicação da neurociência"
+   "Casos de câncer estão aumentando entre os mais jovens, aponta relatório",
+   "Pesquisa revela como as mulheres escolhem métodos contraceptivos no Brasil",
+   "Queimadas no Amazonas: quais são os riscos de inalar fumaça?"
   ]
  },
  "cnn-saude": {
-  "em": "2026-10-18T17:22:18+00:00",
+  "em": "2026-10-18T20:40:43+00:00",
   "lidos": 18,
   "novos": 0,
   "exemplos": [
@@ -170,17 +164,17 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-10-18T17:22:18+00:00",
+  "em": "2026-10-18T20:40:43+00:00",
   "lidos": 19,
   "novos": 0,
   "exemplos": [
    "Qantas plane grounded after reported bedbug outbreak",
-   "New wildfire in Southern California explodes in size, burning multiple homes",
-   "‘Who, us? We’re not anti-vaccine,’ parents tell me. ‘Today just doesn’t work for us’"
+   "‘Who, us? We’re not anti-vaccine,’ parents tell me. ‘Today just doesn’t work for us’",
+   "New wildfire in Southern California explodes in size, burning multiple homes"
   ]
  },
  "inmet": {
-  "em": "2026-10-18T17:22:18+00:00",
+  "em": "2026-10-18T20:40:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -190,17 +184,11 @@
   ]
  },
  "cemaden": {
-  "em": "2026-10-18T17:22:18+00:00",
-  "lidos": 10,
-  "novos": 0,
-  "exemplos": [
-   "Boletim de Impactos de Extremos de Origem Hidro-Geo-Climático em Atividades Estratégicas para o Brasil",
-   "Estado do Clima, Extremos de Clima e Desastres no Brasil",
-   "5. Agrometeorologia e Incêndios Florestais"
-  ]
+  "em": "2026-10-18T20:40:43+00:00",
+  "erro": "HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /cemaden/pt-br (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
  },
  "defesa-civil-busca": {
-  "em": "2026-10-18T17:22:18+00:00",
+  "em": "2026-10-18T20:40:43+00:00",
   "lidos": 23,
   "novos": 0,
   "exemplos": [
@@ -210,13 +198,13 @@
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-10-18T17:22:18+00:00",
+  "em": "2026-10-18T20:40:43+00:00",
   "lidos": 20,
-  "novos": 2,
+  "novos": 5,
   "exemplos": [
    "Ato pró-Lula no Museu Nacional busca virar votos a uma semana do 2º turno",
-   "Celina Leão participa de corrida e defende incentivo ao esporte",
-   "Celina Leão ouve reivindicações de moradores rurais do Recanto das Emas"
+   "Leandro Grass pede união além do PT em ato pró-Lula no Museu Nacional",
+   "Moradores da 26 de Setembro voltam a enfrentar alagamentos após obra na Rua 2"
   ]
  }
 }

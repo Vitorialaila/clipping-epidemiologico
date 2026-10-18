@@ -1,5 +1,49 @@
 [
  {
+  "id": "b2e5edd7c56e94",
+  "titulo": "Moradores da 26 de Setembro voltam a enfrentar alagamentos após obra na Rua 2",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522924-moradores-da-26-de-setembro-voltam-a-enfrentar-alagamentos-apos-obra-na-rua-2.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-18",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-18T20:40:43+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "3f0e10f1d977ab",
+  "titulo": "Queimadas no Amazonas: quais são os riscos de inalar fumaça?",
+  "url": "https://www.cnnbrasil.com.br/saude/queimadas-no-amazonas-quais-sao-os-riscos-de-inalar-fumaca/",
+  "fonte_id": "cnn-brasil-saude",
+  "fonte": "CNN Brasil | Saúde",
+  "sigla": "CNN Brasil",
+  "idioma": "pt",
+  "data": "2026-10-18",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-18T20:40:43+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
   "id": "fb3caaaddc3c6d",
   "titulo": "Grupos de guardiões do Cerrado protagonizam a conservação da natureza.",
   "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7515186-grupos-de-guardioes-do-cerrado-protagonizam-a-conservacao-da-natureza.html",
@@ -117,6 +161,111 @@
   "se": "2026-42",
   "descricao": "",
   "coletado_em": "2026-10-18T17:22:18+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "d93eedfafd8796",
+  "titulo": "Mega-Sena acumula; prêmio pode chegar a R$ 185 milhões na terça-feira",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/mega-sena-acumula-premio-pode-chegar-r-185-milhoes-na-terca-feira",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-18",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "O concurso 3.071 da Mega-sena acumulou já que nenhuma aposta acertou as seis dezenas sorteadas na manhã deste domingo (18). Com isso, o prêmio estimado para o concurso de terça-feira (20) deve chegar a R$ 185 milhões. Os números sorteados no Espaço da Sorte, em São Paulo foram: 12, 22, 41, 45, 51 e 52. Nesta edição, 102 apostas acertaram cinco dezenas e levarão prêmio de R$ 58.806 cada. Já as 7.381 apostas vencedoras da quadra (quatro acertos) receberão R$ 1.339 cada. Prêmio O resgate de prêmios da Mega-Sena depende do valor e de como a aposta foi realizada. Para prêmios até R$ 2.428, o valor pode ser retirado em qualquer casa lotérica credenciada, mediante apresentação do bilhete impresso. O pagamento de prêmios de apostas realizadas no site da Caixa, independentemente do valor, deve ser feito nas agências bancárias da instituição O resgate deve ser feito pelo titular indicado no comprovante de aposta ou por seu procurador, mediante apresentação de comprovante de identidade com Cadastro de Pessoa Física (CPF) e o recibo da aposta emitido pelo Internet Banking CAIXA. Se não forem resgatados, os prêmios prescrevem 90 dias após a data do sorteio. Próximo concurso O concurso 3.072 corre daqui a dois dias, nesta terça-feira, às 21h. As apostas podem ser feitas até as 20 horas do dia do sorteio, no horário de Brasília, nas lotéricas de todo o país, no portal Loterias Caixa e no app Loterias Caixa, além do banco para clientes do banco. Uma aposta simples custa R$ 6. Bolão Caixa Os…",
+  "coletado_em": "2026-10-18T20:40:43+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "dd88fa7688470d",
+  "titulo": "Mulher é presa por tentativa de homicídio com picador de gelo em Águas Claras",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522920-mulher-e-presa-por-tentativa-de-homicidio-com-picador-de-gelo-em-aguas-claras.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-18",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-18T20:40:43+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "0f6e221d234741",
+  "titulo": "Vítima de violência doméstica denuncia agressor e PMDF apreende R$ 100 mil em maconha",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522880-vitima-de-violencia-domestica-denuncia-agressor-e-pmdf-apreende-rs-100-mil-em-maconha.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-18",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-18T20:40:43+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "a80e06531ac75d",
+  "titulo": "Chuva forte pega apoiadores de Lula após ato até o Congresso",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522898-chuva-forte-pega-apoiadores-de-lula-apos-ato-ate-o-congresso.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-18",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-18T20:40:43+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "a561d3013e62fb",
+  "titulo": "Alexandre Carlo, do Natiruts, canta para apoiadores de Lula em Brasília",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522897-alexandre-carlo-do-natiruts-canta-para-apoiadores-de-lula-em-brasilia.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-18",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-18T20:40:43+00:00",
   "municipios": [
    "Distrito Federal"
   ],
