@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-10-18T00:05:16+00:00",
+  "em": "2026-10-18T04:30:30+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,7 +10,7 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-10-18T00:05:16+00:00",
+  "em": "2026-10-18T04:30:30+00:00",
   "lidos": 40,
   "novos": 0,
   "exemplos": [
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-10-18T00:05:16+00:00",
+  "em": "2026-10-18T04:30:30+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-10-18T00:05:16+00:00",
+  "em": "2026-10-18T04:30:30+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-10-18T00:05:16+00:00",
+  "em": "2026-10-18T04:30:30+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-10-18T00:05:16+00:00",
+  "em": "2026-10-18T04:30:30+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-10-18T00:05:16+00:00",
+  "em": "2026-10-18T04:30:30+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-10-18T00:05:16+00:00",
+  "em": "2026-10-18T04:30:30+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-10-18T00:05:16+00:00",
+  "em": "2026-10-18T04:30:30+00:00",
   "lidos": 2343,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-10-18T00:05:16+00:00",
+  "em": "2026-10-18T04:30:30+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,7 +100,7 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-10-18T00:05:16+00:00",
+  "em": "2026-10-18T04:30:30+00:00",
   "lidos": 15,
   "novos": 0,
   "exemplos": [
@@ -110,7 +110,7 @@
   ]
  },
  "fiocruz": {
-  "em": "2026-10-18T00:05:16+00:00",
+  "em": "2026-10-18T04:30:30+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -120,7 +120,7 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-10-18T00:05:16+00:00",
+  "em": "2026-10-18T04:30:30+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -130,7 +130,7 @@
   ]
  },
  "ses-go": {
-  "em": "2026-10-18T00:05:16+00:00",
+  "em": "2026-10-18T04:30:30+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -140,7 +140,7 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-10-18T00:05:16+00:00",
+  "em": "2026-10-18T04:30:30+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -150,7 +150,7 @@
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-10-18T00:05:16+00:00",
+  "em": "2026-10-18T04:30:30+00:00",
   "lidos": 26,
   "novos": 0,
   "exemplos": [
@@ -160,7 +160,7 @@
   ]
  },
  "cnn-saude": {
-  "em": "2026-10-18T00:05:16+00:00",
+  "em": "2026-10-18T04:30:30+00:00",
   "lidos": 18,
   "novos": 0,
   "exemplos": [
@@ -170,8 +170,8 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-10-18T00:05:16+00:00",
-  "lidos": 23,
+  "em": "2026-10-18T04:30:30+00:00",
+  "lidos": 21,
   "novos": 0,
   "exemplos": [
    "Qantas plane grounded after reported bedbug outbreak",
@@ -180,7 +180,7 @@
   ]
  },
  "inmet": {
-  "em": "2026-10-18T00:05:16+00:00",
+  "em": "2026-10-18T04:30:30+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -190,7 +190,7 @@
   ]
  },
  "cemaden": {
-  "em": "2026-10-18T00:05:16+00:00",
+  "em": "2026-10-18T04:30:30+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -200,19 +200,19 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-10-18T00:05:16+00:00",
-  "lidos": 26,
+  "em": "2026-10-18T04:30:30+00:00",
+  "lidos": 24,
   "novos": 0,
   "exemplos": [
    "Autorizado repasse de R$ 1,8 milhão para ações de defesa civil",
    "Autorizado repasse de R$ 4,7 milhões para ações de defesa civil",
-   "Candeias: Defesa Civil de Candeias participou de encontro nacional das defesas civís do País"
+   "Reconhecida emergência em oito cidades gaúchas afetadas por desastres"
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-10-18T00:05:16+00:00",
+  "em": "2026-10-18T04:30:30+00:00",
   "lidos": 20,
-  "novos": 2,
+  "novos": 0,
   "exemplos": [
    "'Megacarreata' em apoio a Flávio e Celina toma conta de ruas de Brasília",
    "Apoiadores de Lula e de Flávio Bolsonaro se encontram na Rodoviária do Plano",
