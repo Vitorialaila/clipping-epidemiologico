@@ -473,23 +473,6 @@
   "m": []
  },
  {
-  "t": "Notes from the Field: Dengue Outbreak - U.S. Virgin Islands, January 2024-June 2025",
-  "u": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766650",
-  "d": "2026-10-15",
-  "df": "15 out 2026",
-  "f": "CDC",
-  "fn": "CDC | MMWR",
-  "e": "Internacional",
-  "a": [
-   "Dengue"
-  ],
-  "p": 6.5,
-  "se": "2026-41",
-  "r": "This report describes the response to a dengue virus outbreak in the U.S. Virgin Islands during 2024-2025.",
-  "i": "mosquito",
-  "m": []
- },
- {
   "t": "Record-high West Nile virus infections reported amid spread to new parts of Europe",
   "u": "https://www.ecdc.europa.eu/en/news-events/record-high-west-nile-virus-infections-reported-amid-spread-new-parts-europe",
   "d": "2026-10-15",
@@ -504,24 +487,6 @@
   "se": "2026-41",
   "r": "With the EU experiencing its most intense West Nile virus season to date and detections of the virus in new areas further north in Europe, ECDC calls for sustained prevention, surveillance and mosquito control.",
   "i": "mosquito",
-  "m": []
- },
- {
-  "t": "Effectiveness of Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine in Children Aged 6 Months-6 Years During a Statewide Pertussis Outbreak - Alaska, May-November 2024",
-  "u": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766649",
-  "d": "2026-10-15",
-  "df": "15 out 2026",
-  "f": "CDC",
-  "fn": "CDC | MMWR",
-  "e": "Internacional",
-  "a": [
-   "Difteria",
-   "Coqueluche"
-  ],
-  "p": 6.0,
-  "se": "2026-41",
-  "r": "This report describes effectiveness of the diphtheria and tetanus toxoids and acellular pertussis vaccination series during a statewide pertussis outbreak in Alaska during 2024.",
-  "i": "bacteria",
   "m": []
  },
  {
@@ -1298,23 +1263,6 @@
   "m": []
  },
  {
-  "t": "Notes from the Field: Fatal Pneumonic Plague - Coconino County, Arizona, July 2025",
-  "u": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766556",
-  "d": "2026-10-01",
-  "df": "01 out 2026",
-  "f": "CDC",
-  "fn": "CDC | MMWR",
-  "e": "Internacional",
-  "a": [
-   "Peste"
-  ],
-  "p": 7.5,
-  "se": "2026-39",
-  "r": "This report describes a case of fatal pneumonic plague reported in Arizona during 2025.",
-  "i": "bacteria",
-  "m": []
- },
- {
   "t": "Health Ministers approve new regional strategy to prevent and control dengue and other arboviral diseases in the Americas",
   "u": "https://www.paho.org/en/news/1-10-2026-health-ministers-approve-new-regional-strategy-prevent-and-control-dengue-and-other",
   "d": "2026-10-01",
@@ -1420,21 +1368,6 @@
   "m": []
  },
  {
-  "t": "Surveillance Summaries: Surveillance for Violent Deaths - National Violent Death Reporting System, 50 States, the District of Columbia, and Puerto Rico, 2023",
-  "u": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766545",
-  "d": "2026-09-29",
-  "df": "29 set 2026",
-  "f": "CDC",
-  "fn": "CDC | MMWR",
-  "e": "Américas",
-  "a": [],
-  "p": 5.0,
-  "se": "2026-39",
-  "r": "This report summarizes 2023 data from CDC's National Violent Death Reporting System on violent deaths and suicides that occurred in the U.S., District of Columbia, and Puerto Rico.",
-  "i": "alerta",
-  "m": []
- },
- {
   "t": "Cholera worldwide overview",
   "u": "https://www.ecdc.europa.eu/en/all-topics-z/cholera/surveillance-and-disease-data/cholera-monthly",
   "d": "2026-09-28",
@@ -1522,23 +1455,6 @@
   "m": []
  },
  {
-  "t": "Notes from the Field: The First 100 Days of Five Ebola Outbreaks - Democratic Republic of the Congo, Uganda, and West Africa, 2007-2026",
-  "u": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766447",
-  "d": "2026-09-24",
-  "df": "24 set 2026",
-  "f": "CDC",
-  "fn": "CDC | MMWR",
-  "e": "Internacional",
-  "a": [
-   "Doença pelo vírus Ebola"
-  ],
-  "p": 8.5,
-  "se": "2026-38",
-  "r": "This report describes the first 100 days of the 2026 Ebola outbreak in the Democratic Republic of the Congo compared to other Ebola outbreaks.",
-  "i": "virus",
-  "m": []
- },
- {
   "t": "Hepatitis A Outbreak Associated with Cuba - Florida, June 2024-February 2026",
   "u": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766503",
   "d": "2026-09-24",
@@ -1556,18 +1472,20 @@
   "m": []
  },
  {
-  "t": "Environmental Investigation of a Campylobacteriosis Outbreak Among Wedding Attendees - York County, Pennsylvania, 2025",
-  "u": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766504",
+  "t": "Notes from the Field: The First 100 Days of Five Ebola Outbreaks - Democratic Republic of the Congo, Uganda, and West Africa, 2007-2026",
+  "u": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766447",
   "d": "2026-09-24",
   "df": "24 set 2026",
   "f": "CDC",
   "fn": "CDC | MMWR",
   "e": "Internacional",
-  "a": [],
-  "p": 4.0,
+  "a": [
+   "Doença pelo vírus Ebola"
+  ],
+  "p": 4.5,
   "se": "2026-38",
-  "r": "This report describes a Campylobacter jejuni outbreak among wedding attendees in Pennsylvania who drank untreated spring water.",
-  "i": "bacteria",
+  "r": "This report describes the first 100 days of the 2026 Ebola outbreak in the Democratic Republic of the Congo compared to other Ebola outbreaks.",
+  "i": "virus",
   "m": []
  },
  {
@@ -1636,7 +1554,7 @@
   "a": [
    "Doença pelo vírus Ebola"
   ],
-  "p": 8.5,
+  "p": 4.5,
   "se": "2026-36",
   "r": "This report describes characteristics of Ebola cases reported in Uganda during the 2025 outbreak.",
   "i": "virus",
@@ -1653,7 +1571,7 @@
   "a": [
    "Doença pelo vírus Ebola"
   ],
-  "p": 8.5,
+  "p": 4.5,
   "se": "2026-36",
   "r": "This report describes the ongoing Ebola outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo.",
   "i": "virus",
@@ -1676,23 +1594,6 @@
   "se": "2026-35",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 29 August - 4 September, and includes updates on Ebola, SARS-CoV-2 variant classification, West Nile virus, Crimean-Congo haemorrhagic fever, dengue, chikungunya, vibrio…",
   "i": "virus",
-  "m": []
- },
- {
-  "t": "Vaccination Coverage Among Adolescents Aged 13-17 Years - National Immunization Survey-Teen, United States, 2025",
-  "u": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766355",
-  "d": "2026-09-03",
-  "df": "03 set 2026",
-  "f": "CDC",
-  "fn": "CDC | MMWR",
-  "e": "Américas",
-  "a": [
-   "Imunização"
-  ],
-  "p": 5.0,
-  "se": "2026-35",
-  "r": "This report describes vaccination coverage among U.S. adolescents aged 13-17 years.",
-  "i": "vacina",
   "m": []
  },
  {
@@ -1813,27 +1714,10 @@
   "a": [
    "Mpox"
   ],
-  "p": 9.0,
+  "p": 5.0,
   "se": "2026-33",
   "r": "This report describes cases of monkeypox virus infection reported during 2024-2025.",
   "i": "virus",
-  "m": []
- },
- {
-  "t": "Notes from the Field: Dengue Outbreak - Naoero, 2025",
-  "u": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766284",
-  "d": "2026-08-20",
-  "df": "20 ago 2026",
-  "f": "CDC",
-  "fn": "CDC | MMWR",
-  "e": "Internacional",
-  "a": [
-   "Dengue"
-  ],
-  "p": 6.5,
-  "se": "2026-33",
-  "r": "This report describes dengue cases reported in Naoero during 2025.",
-  "i": "mosquito",
   "m": []
  },
  {
@@ -1910,23 +1794,6 @@
   "m": []
  },
  {
-  "t": "Poisoning Deaths in a Workshop for Ceremonial Papermaking - China, May 2025",
-  "u": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766161",
-  "d": "2026-08-06",
-  "df": "06 ago 2026",
-  "f": "CDC",
-  "fn": "CDC | MMWR",
-  "e": "Internacional",
-  "a": [
-   "Intoxicações"
-  ],
-  "p": 5.5,
-  "se": "2026-31",
-  "r": "This report describes four poisoning deaths at an unlicensed ceremonial papermaking workshop in China.",
-  "i": "quimico",
-  "m": []
- },
- {
   "t": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo",
   "u": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON614",
   "d": "2026-08-01",
@@ -1940,75 +1807,6 @@
   "p": 14.5,
   "se": "2026-30",
   "r": "The Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo is intensifying, with sustained transmission and continued increases in reported cases and deaths. Initially confined to the Mongbwalu health zone in Ituri Province, over the…",
-  "i": "virus",
-  "m": []
- },
- {
-  "t": "West Nile Virus and Other Nationally Notifiable Arboviral Diseases - United States, 2024",
-  "u": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766110",
-  "d": "2026-07-30",
-  "df": "30 jul 2026",
-  "f": "CDC",
-  "fn": "CDC | MMWR",
-  "e": "Américas",
-  "a": [
-   "Febre do Nilo Ocidental",
-   "Arboviroses"
-  ],
-  "p": 7.5,
-  "se": "2026-30",
-  "r": "The Morbidity and Mortality Weekly Report (MMWR) Series is prepared by the Centers for Disease Control and Prevention (CDC).",
-  "i": "mosquito",
-  "m": []
- },
- {
-  "t": "Effect of Diagnostic Test Type on Detection of Salmonella Infections - Foodborne Diseases Active Surveillance Network, 2004-2024",
-  "u": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766111",
-  "d": "2026-07-30",
-  "df": "30 jul 2026",
-  "f": "CDC",
-  "fn": "CDC | MMWR",
-  "e": "Internacional",
-  "a": [
-   "Doenças transmitidas por alimentos e água"
-  ],
-  "p": 5.0,
-  "se": "2026-30",
-  "r": "The Morbidity and Mortality Weekly Report (MMWR) Series is prepared by the Centers for Disease Control and Prevention (CDC).",
-  "i": "agua",
-  "m": []
- },
- {
-  "t": "Notes from the Field: Misidentification of a Specimen as Neisseria meningitidis During a University Classroom Laboratory Exercise - Utah, 2025",
-  "u": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766071",
-  "d": "2026-07-23",
-  "df": "23 jul 2026",
-  "f": "CDC",
-  "fn": "CDC | MMWR",
-  "e": "Internacional",
-  "a": [
-   "Doença meningocócica e meningites"
-  ],
-  "p": 5.0,
-  "se": "2026-29",
-  "r": "This report describes a suspected exposure to Neisseria meningitidis during a university laboratory exercise.",
-  "i": "bacteria",
-  "m": []
- },
- {
-  "t": "Progress Toward Rubella and Congenital Rubella Syndrome Elimination - Worldwide, 2012-2024",
-  "u": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766070",
-  "d": "2026-07-23",
-  "df": "23 jul 2026",
-  "f": "CDC",
-  "fn": "CDC | MMWR",
-  "e": "Internacional",
-  "a": [
-   "Rubéola"
-  ],
-  "p": 5.0,
-  "se": "2026-29",
-  "r": "This report describes progress towards worldwide rubella elimination during 2012-2024.",
   "i": "virus",
   "m": []
  }

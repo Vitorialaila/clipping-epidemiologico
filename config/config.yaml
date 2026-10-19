@@ -32,6 +32,9 @@ clipping:
   destaques: 10
   # Máximo de destaques sobre o mesmo agravo (evita repetir o mesmo evento)
   max_por_agravo: 2
+  # Nota mínima para as vagas sem garantia de tema: se nenhuma notícia alcançar, o clipping sai com menos
+  # destaques em vez de completar com notícias fracas (vale para a seleção por regras, sem IA)
+  nota_minima_livre: 8
   # Notícias adicionais sem resumo (não aparecem no PDF; ficam só nos dados da edição)
   outras_noticias: 12
   # Vagas garantidas: o clipping responde "com o que devo me preocupar?". Se houver notícia com nota

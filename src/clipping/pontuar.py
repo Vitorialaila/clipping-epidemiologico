@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import re
+from datetime import date
 from functools import lru_cache
 
 from .util import carregar_yaml, normalizar
@@ -34,7 +35,7 @@ def limiares() -> tuple[float, float]:
     return float(c.get("limiar_feed", 4)), float(c.get("limiar_clipping", 5))
 
 
-def pontuar(titulo: str, descricao: str, fonte: dict) -> dict:
+def pontuar(titulo: str, descricao: str, fonte: dict, ano_referencia: int | None = None) -> dict:
     """Retorna pontuação, agravos identificados, escopo geográfico e termos de evento."""
     _, agravos, eventos, locais, ajustes = _criterios()
     titulo_n = normalizar(titulo)
@@ -79,6 +80,11 @@ def pontuar(titulo: str, descricao: str, fonte: dict) -> dict:
     for peso, padrao in ajustes:
         if padrao.search(texto):
             pts += peso
+
+    # Relato retrospectivo: o título cita apenas anos já encerrados (ex.: "January 2024-June 2025" em 2026)
+    anos = [int(a) for a in re.findall(r"(?<!\d)(20\d{2})(?!\d)", titulo)]
+    if anos and max(anos) < (ano_referencia or date.today().year):
+        pts += float(_criterios()[0].get("penalidade_retrospectivo", -4))
 
     return {"pontuacao": round(max(pts, 0.0), 2), "agravos": nomes_agravos[:3], "escopo": escopo,
             "termos_evento": termos_evento}

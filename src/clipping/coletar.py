@@ -250,7 +250,7 @@ def coletar() -> dict:
                 d, estimada = hoje, True
             if d < hoje - timedelta(days=retencao) or d > hoje + timedelta(days=1):
                 continue
-            p = pontuar(it["titulo"], limpar_descricao(it["descricao"]), fonte)
+            p = pontuar(it["titulo"], limpar_descricao(it["descricao"]), fonte, d.year)
             if (fonte["tipo"] == "google_news" or fonte.get("apenas_relevantes")) and p["pontuacao"] <= 0:
                 continue  # fontes amplas (imprensa, meteorologia, buscas): guarda só o que tem relevância epidemiológica
             base[nid] = {
@@ -291,7 +291,7 @@ def repontuar() -> None:
     noticias = ler_json(ARQ_NOTICIAS, [])
     for n in noticias:
         n["descricao"] = limpar_descricao(n.get("descricao", ""))
-        n.update(pontuar(n["titulo"], n["descricao"], fontes.get(n["fonte_id"], {})))
+        n.update(pontuar(n["titulo"], n["descricao"], fontes.get(n["fonte_id"], {}), int(n["data"][:4])))
         n["municipios"] = _municipios_item(n["titulo"], n["descricao"], n["escopo"])
     salvar_json(ARQ_NOTICIAS, noticias)
     log.info("Base repontuada: %d notícias.", len(noticias))

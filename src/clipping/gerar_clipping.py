@@ -123,11 +123,12 @@ def _selecionar(itens: list[dict], cfg: dict) -> tuple[list[dict], list[dict], b
             if _na_cota(c, escopos, agravos, termos) and _cabe(c):
                 _incluir(c)
                 atendidos += 1
-    # 2) Demais vagas pela ordem de relevância
+    # 2) Demais vagas pela ordem de relevância, só com notícias fortes (sem completar com enchimento)
+    minimo_livre = 0.0 if usou_ia else float(c_clip.get("nota_minima_livre", 0))
     for c in candidatos:
         if len(destaques) >= n_dest:
             break
-        if _cabe(c):
+        if c["pontuacao"] >= minimo_livre and _cabe(c):
             _incluir(c)
     ordem = {id(c): i for i, c in enumerate(candidatos)}
     destaques.sort(key=lambda c: ordem[id(c)])
@@ -178,6 +179,7 @@ def gerar(codigo_se: str | None = None, forcar: bool = False, hoje: date | None 
         return None
 
     s = sessao_http()
+    traducoes = ler_json(DIR_EDICOES_DADOS / "traducoes.json", {})
     usou_ia_resumo = False
     id_edicao = caminho.stem.replace("clipping-", "")
     dir_img = DIR_EDICOES_PDF / "img" / id_edicao
@@ -193,7 +195,11 @@ def gerar(codigo_se: str | None = None, forcar: bool = False, hoje: date | None 
         if not resumo or not resumo.get("resumo"):
             resumo = {"titulo": d["titulo"], "resumo": ia.resumo_extrativo(texto or d.get("descricao", ""), titulo=d["titulo"]),
                       "local": "", "agravo": d["agravo_final"], "paises": [], "uf": ""}
-            if d.get("idioma", "pt") != "pt":
+            revisada = traducoes.get(d["titulo"])
+            if revisada:
+                # Tradução revisada manualmente (data/edicoes/traducoes.json), pelo título original
+                resumo["titulo"], resumo["resumo"] = revisada["titulo"], revisada["resumo"]
+            elif d.get("idioma", "pt") != "pt":
                 # Sem IA, notícias em outro idioma passam por tradução automática para o português
                 resumo["titulo"] = ia.traduzir(resumo["titulo"])
                 resumo["resumo"] = ia.traduzir(resumo["resumo"])

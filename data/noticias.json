@@ -3361,7 +3361,7 @@
   "descricao": "This report describes the response to a dengue virus outbreak in the U.S. Virgin Islands during 2024-2025.",
   "coletado_em": "2026-10-16T13:26:18+00:00",
   "municipios": [],
-  "pontuacao": 6.5,
+  "pontuacao": 0.0,
   "agravos": [
    "Dengue"
   ],
@@ -3407,7 +3407,7 @@
   "descricao": "This report describes effectiveness of the diphtheria and tetanus toxoids and acellular pertussis vaccination series during a statewide pertussis outbreak in Alaska during 2024.",
   "coletado_em": "2026-10-16T13:26:18+00:00",
   "municipios": [],
-  "pontuacao": 6.0,
+  "pontuacao": 2.0,
   "agravos": [
    "Difteria",
    "Coqueluche"
@@ -6768,7 +6768,7 @@
   "se": "2026-39",
   "descricao": "This report describes a case of fatal pneumonic plague reported in Arizona during 2025.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.5,
+  "pontuacao": 0.0,
   "agravos": [
    "Peste"
   ],
@@ -7116,7 +7116,7 @@
   "se": "2026-39",
   "descricao": "This report summarizes 2023 data from CDC's National Violent Death Reporting System on violent deaths and suicides that occurred in the U.S., District of Columbia, and Puerto Rico.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.0,
+  "pontuacao": 1.0,
   "agravos": [],
   "escopo": "Américas",
   "termos_evento": [
@@ -7363,7 +7363,7 @@
   "se": "2026-38",
   "descricao": "This report describes the first 100 days of the 2026 Ebola outbreak in the Democratic Republic of the Congo compared to other Ebola outbreaks.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.5,
+  "pontuacao": 4.5,
   "agravos": [
    "Doença pelo vírus Ebola"
   ],
@@ -7409,7 +7409,7 @@
   "se": "2026-38",
   "descricao": "This report describes a Campylobacter jejuni outbreak among wedding attendees in Pennsylvania who drank untreated spring water.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.0,
+  "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
   "termos_evento": [
@@ -7627,7 +7627,7 @@
   "se": "2026-37",
   "descricao": "This report describes results from opt-out syphilis screenings in Alaska correctional facilities during October 2023-September 2025.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 3.0,
+  "pontuacao": 0.0,
   "agravos": [
    "Sífilis"
   ],
@@ -7648,7 +7648,7 @@
   "se": "2026-37",
   "descricao": "This report describes higher emergency department visits for heat-related illnesses during extreme heat during June and July 2026.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 2.0,
+  "pontuacao": 0.0,
   "agravos": [
    "Saúde ambiental e clima"
   ],
@@ -7718,7 +7718,7 @@
   "se": "2026-36",
   "descricao": "This report describes characteristics of Ebola cases reported in Uganda during the 2025 outbreak.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.5,
+  "pontuacao": 4.5,
   "agravos": [
    "Doença pelo vírus Ebola"
   ],
@@ -7741,7 +7741,7 @@
   "se": "2026-36",
   "descricao": "This report describes the ongoing Ebola outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.5,
+  "pontuacao": 4.5,
   "agravos": [
    "Doença pelo vírus Ebola"
   ],
@@ -7785,7 +7785,7 @@
   "se": "2026-36",
   "descricao": "This report escribes data from the child Health and Mortality Prevention Surveillance network during December 2016-December 2024",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 3.0,
+  "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
   "termos_evento": [
@@ -7830,7 +7830,7 @@
   "se": "2026-35",
   "descricao": "This report describes vaccination coverage among U.S. adolescents aged 13-17 years.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.0,
+  "pontuacao": 1.0,
   "agravos": [
    "Imunização"
   ],
@@ -8077,7 +8077,7 @@
   "se": "2026-33",
   "descricao": "This report describes cases of monkeypox virus infection reported during 2024-2025.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 9.0,
+  "pontuacao": 5.0,
   "agravos": [
    "Mpox"
   ],
@@ -8100,7 +8100,7 @@
   "se": "2026-33",
   "descricao": "This report describes dengue cases reported in Naoero during 2025.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 6.5,
+  "pontuacao": 0.0,
   "agravos": [
    "Dengue"
   ],
@@ -8194,7 +8194,7 @@
   "se": "2026-32",
   "descricao": "This report describes a possible HIV exposure from donated breast milk received through social media.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 3.0,
+  "pontuacao": 0.0,
   "agravos": [
    "HIV/aids e IST"
   ],
@@ -8282,7 +8282,7 @@
   "se": "2026-31",
   "descricao": "This report describes four poisoning deaths at an unlicensed ceremonial papermaking workshop in China.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.5,
+  "pontuacao": 1.5,
   "agravos": [
    "Intoxicações"
   ],
@@ -8351,7 +8351,7 @@
   "se": "2026-30",
   "descricao": "The Morbidity and Mortality Weekly Report (MMWR) Series is prepared by the Centers for Disease Control and Prevention (CDC).",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.5,
+  "pontuacao": 3.5,
   "agravos": [
    "Febre do Nilo Ocidental",
    "Arboviroses"
@@ -8373,7 +8373,7 @@
   "se": "2026-30",
   "descricao": "The Morbidity and Mortality Weekly Report (MMWR) Series is prepared by the Centers for Disease Control and Prevention (CDC).",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.0,
+  "pontuacao": 1.0,
   "agravos": [
    "Doenças transmitidas por alimentos e água"
   ],
@@ -8417,7 +8417,7 @@
   "se": "2026-29",
   "descricao": "This report describes a suspected exposure to Neisseria meningitidis during a university laboratory exercise.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.0,
+  "pontuacao": 0.0,
   "agravos": [
    "Doença meningocócica e meningites"
   ],
@@ -8438,7 +8438,7 @@
   "se": "2026-29",
   "descricao": "This report describes progress towards worldwide rubella elimination during 2012-2024.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.0,
+  "pontuacao": 1.0,
   "agravos": [
    "Rubéola"
   ],
@@ -8565,7 +8565,7 @@
   "se": "2026-27",
   "descricao": "This report describes illnesses and infection prevention and control protocols at a wildfire evacuation shelter during the Eaton wildfire in Pasadena, California.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.5,
+  "pontuacao": 3.5,
   "agravos": [
    "Saúde ambiental e clima",
    "Influenza e vírus respiratórios",
@@ -8685,7 +8685,7 @@
   "se": "2026-26",
   "descricao": "This report describes two outbreaks of legionellosis at two hotels in the U.S. Virgin Islands.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 3.0,
+  "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
   "termos_evento": [
@@ -8767,7 +8767,7 @@
   "se": "2026-26",
   "descricao": "During 2022-2024, a total of 13,507 clinical C. auris cases were reported to CDC, increasing from 2,882 in 2022 to 4,428 in 2023 and 6,197 in 2024, with smaller annual percentage increases over time.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.0,
+  "pontuacao": 4.0,
   "agravos": [
    "Candida auris"
   ],
@@ -8929,7 +8929,7 @@
   "se": "2026-24",
   "descricao": "This report describes the public health response to a measles outbreak in a Texas community.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.5,
+  "pontuacao": 0.5,
   "agravos": [
    "Sarampo"
   ],
@@ -8952,7 +8952,7 @@
   "se": "2026-24",
   "descricao": "This report describes a case of Legionnaires disease in an infant who drank formula prepared using a formula mixing device and tap water.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 6.0,
+  "pontuacao": 0.0,
   "agravos": [
    "Legionelose"
   ],
@@ -8994,7 +8994,7 @@
   "se": "2026-24",
   "descricao": "This report describes 402 foodborne disease outbreaks caused by marine toxins were reported to FDOSS. These outbreaks resulted in 1,280 illnesses, 96 hospitalizations, and one death.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 11.0,
+  "pontuacao": 7.0,
   "agravos": [
    "Doenças transmitidas por alimentos e água"
   ],
@@ -9088,7 +9088,7 @@
   "se": "2026-23",
   "descricao": "This report describes a large outbreak of Bundibugyo virus disease identified in the Democratic Republic of the Congo and Uganda.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 9.0,
+  "pontuacao": 5.0,
   "agravos": [
    "Doença pelo vírus Ebola"
   ],
@@ -9158,7 +9158,7 @@
   "se": "2026-23",
   "descricao": "This report describes a large outbreak of Bundibugyo virus disease identified in the Democratic Republic of the Congo and Uganda.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.5,
+  "pontuacao": 4.5,
   "agravos": [
    "Doença pelo vírus Ebola"
   ],
@@ -9181,7 +9181,7 @@
   "se": "2026-23",
   "descricao": "This report describes the risk posed by the current Ebola outbreak to the general U.S. population.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.5,
+  "pontuacao": 3.5,
   "agravos": [
    "Doença pelo vírus Ebola"
   ],
@@ -9225,7 +9225,7 @@
   "se": "2026-23",
   "descricao": "This report describes using a transmission model to project Ebola outbreak growth over three months.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.0,
+  "pontuacao": 3.0,
   "agravos": [
    "Legionelose",
    "Doença pelo vírus Ebola"
@@ -9274,7 +9274,7 @@
   "se": "2026-22",
   "descricao": "This report describes characteristics of patients who were hospitalized during a large measles outbreak in west Texas.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.5,
+  "pontuacao": 4.5,
   "agravos": [
    "Sarampo"
   ],
@@ -9297,7 +9297,7 @@
   "se": "2026-22",
   "descricao": "This report describes an outbreak of 39 cases of amatoxin mushroom poisoning in Northern California.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.5,
+  "pontuacao": 0.0,
   "agravos": [
    "Intoxicações"
   ],
@@ -9421,7 +9421,7 @@
   "se": "2026-21",
   "descricao": "This report describes characteristics of patients who were hospitalized during a large measles outbreak in west Texas.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.5,
+  "pontuacao": 4.5,
   "agravos": [
    "Sarampo"
   ],
@@ -9565,7 +9565,7 @@
   "se": "2026-20",
   "descricao": "This report describes an 8-month outbreak of carbapenemase-producing Enterobacterales in a long-term care facility in Ontario, Canada.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.5,
+  "pontuacao": 4.5,
   "agravos": [
    "Resistência antimicrobiana"
   ],
@@ -9699,7 +9699,7 @@
   "se": "2026-19",
   "descricao": "This report describes survey results from backyard flock owners' attitudes towards avian influenza.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.5,
+  "pontuacao": 4.5,
   "agravos": [
    "Influenza por novo subtipo",
    "Influenza e vírus respiratórios"
@@ -9721,7 +9721,7 @@
   "se": "2026-19",
   "descricao": "This report describes an increase in dengue cases reported during 2024.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 6.0,
+  "pontuacao": 2.0,
   "agravos": [
    "Dengue"
   ],
@@ -9842,7 +9842,7 @@
   "se": "2026-18",
   "descricao": "This report describes a fatal human case of highly pathogenic avian influenza in Washington.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.0,
+  "pontuacao": 4.0,
   "agravos": [
    "Influenza por novo subtipo",
    "Influenza e vírus respiratórios"
@@ -9866,7 +9866,7 @@
   "se": "2026-18",
   "descricao": "This report describes 139 human exposures to cats infected with A(H5N1) in Los Angeles, California.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 6.5,
+  "pontuacao": 2.5,
   "agravos": [
    "Influenza por novo subtipo",
    "Influenza e vírus respiratórios"
@@ -9941,7 +9941,7 @@
   "se": "2026-17",
   "descricao": "This report describes 50 large tuberculosis outbreaks in 23 states during 2017-2023.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.5,
+  "pontuacao": 3.5,
   "agravos": [
    "Tuberculose"
   ],
@@ -9964,7 +9964,7 @@
   "se": "2026-17",
   "descricao": "This report describes an increase in eastern equine encephalitis in northern Vermont during 2023-2024.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.0,
+  "pontuacao": 0.0,
   "agravos": [
    "Encefalites virais"
   ],
@@ -10058,7 +10058,7 @@
   "se": "2026-16",
   "descricao": "This report describes contact tracing following mpox exposures during commercial air travel.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.0,
+  "pontuacao": 0.0,
   "agravos": [
    "Mpox"
   ],
@@ -10079,7 +10079,7 @@
   "se": "2026-16",
   "descricao": "This report describes flu vaccination coverage among nursing home residents and health care providers working in nursing homes.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 6.5,
+  "pontuacao": 2.5,
   "agravos": [
    "Influenza e vírus respiratórios",
    "Imunização"
@@ -10222,7 +10222,7 @@
   "se": "2026-13",
   "descricao": "This report describes influenza and COVID-19 vaccination coverage among health care providers in the United States during the 2024-25 respiratory virus season.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.0,
+  "pontuacao": 3.0,
   "agravos": [
    "Influenza e vírus respiratórios",
    "COVID-19",
@@ -10264,7 +10264,7 @@
   "se": "2026-12",
   "descricao": "This report describes vaccination coverage by age 2 among children born in 2021 and 2022.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.0,
+  "pontuacao": 1.0,
   "agravos": [
    "Imunização"
   ],
@@ -10416,7 +10416,7 @@
   "se": "2026-10",
   "descricao": "This report describes a measles outbreak in New Mexico in 2025.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 10.5,
+  "pontuacao": 6.5,
   "agravos": [
    "Sarampo"
   ],
@@ -10505,7 +10505,7 @@
   "se": "2026-09",
   "descricao": "This report describes cases of congenital rubella in Florida.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.0,
+  "pontuacao": 0.0,
   "agravos": [
    "Rubéola"
   ],
@@ -10585,7 +10585,7 @@
   "se": "2026-08",
   "descricao": "This report describes a 2024 Salmonella outbreak linked to ice in a cooler at a county fair in Illinois",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 6.5,
+  "pontuacao": 2.5,
   "agravos": [
    "Doenças transmitidas por alimentos e água"
   ],
@@ -10608,7 +10608,7 @@
   "se": "2026-07",
   "descricao": "This report describes receipt of COVID-19 antiviral prescriptions among outpatients aged 65 and older from June 1, 2023-September 30, 2025.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 6.0,
+  "pontuacao": 2.0,
   "agravos": [
    "COVID-19"
   ],
@@ -10735,7 +10735,7 @@
   "se": "2026-06",
   "descricao": "This report describes an outbreak of Purpureocillium lilacinum fungal skin infections associated with a dermatology clinic in Washington.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 3.0,
+  "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
   "termos_evento": [
@@ -10756,7 +10756,7 @@
   "se": "2026-06",
   "descricao": "This report describes the public health response to a Purpureocillium lilacinum keratitis outbreak in New York City associated with an ophthalmology clinic.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 3.0,
+  "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
   "termos_evento": [
@@ -10873,7 +10873,7 @@
   "se": "2026-04",
   "descricao": "This report describes the public health response to a measles outbreak in Colorado among people exposed to an infectious traveler who arrived in Colorado in May 2025 on an international flight.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.5,
+  "pontuacao": 4.5,
   "agravos": [
    "Sarampo"
   ],
@@ -10896,7 +10896,7 @@
   "se": "2026-04",
   "descricao": "This report describes the prevalence of physical and sexual violence perpetration by young men and associations of these events with their exposure to violence during childhood.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 3.0,
+  "pontuacao": 0.0,
   "agravos": [
    "Tuberculose"
   ],
@@ -10942,7 +10942,7 @@
   "se": "2026-03",
   "descricao": "This report evaluates CureTB program performance during 2016-2023.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 3.0,
+  "pontuacao": 0.0,
   "agravos": [
    "Tuberculose"
   ],
@@ -10982,7 +10982,7 @@
   "se": "2026-02",
   "descricao": "This report describes a measles outbreak in Colorado in August 2025.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 9.5,
+  "pontuacao": 1.5,
   "agravos": [
    "Sarampo"
   ],
@@ -11006,7 +11006,7 @@
   "se": "2026-02",
   "descricao": "This report describes a measles outbreak in Oregon in 2024.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.5,
+  "pontuacao": 0.5,
   "agravos": [
    "Sarampo"
   ],
@@ -11029,7 +11029,7 @@
   "se": "2026-02",
   "descricao": "This report describes a human rabies case with a delayed diagnosis that led to health care provider exposures in two states: Kentucky and Ohio.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.5,
+  "pontuacao": 3.5,
   "agravos": [
    "Raiva"
   ],
@@ -11052,7 +11052,7 @@
   "se": "2026-02",
   "descricao": "This report describes a human rabies case with a delayed diagnosis that led to health care provider exposures in two states: Kentucky and Ohio.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 6.0,
+  "pontuacao": 2.0,
   "agravos": [
    "Raiva"
   ],
@@ -11092,7 +11092,7 @@
   "se": "2026-01",
   "descricao": "This report updates recommendations for the use meningococcal vaccine among people 10 years of age and older.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.5,
+  "pontuacao": 3.5,
   "agravos": [
    "Doença meningocócica e meningites",
    "Imunização"
@@ -11114,7 +11114,7 @@
   "se": "2026-01",
   "descricao": "This report describes a Zika outbreak in Dhaka, Bangladesh, during September-December 2024",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 6.5,
+  "pontuacao": 2.5,
   "agravos": [
    "Zika"
   ],
@@ -11137,7 +11137,7 @@
   "se": "2025-53",
   "descricao": "This report describes the public health response to a patient who was identified with welder's anthrax following occupational exposure.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 6.0,
+  "pontuacao": 2.0,
   "agravos": [
    "Antraz"
   ],
@@ -11242,7 +11242,7 @@
   "se": "2025-50",
   "descricao": "This report describes a cluster of rabid steers on a Minnesota dairy farm infected by a single skunk.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.5,
+  "pontuacao": 4.5,
   "agravos": [
    "Raiva"
   ],
@@ -11326,7 +11326,7 @@
   "se": "2025-48",
   "descricao": "This report describes CDC's multistate investigation to confirm the genetic relatedness of infections in an E. coli outbreak linked to walnuts and identify additional cases.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.5,
+  "pontuacao": 0.0,
   "agravos": [
    "Doenças transmitidas por alimentos e água"
   ],
@@ -11393,7 +11393,7 @@
   "se": "2025-47",
   "descricao": "This report describes a CDC collaboration with professional organizations and health departments to enroll birthing hospitals in the Vaccines for Children Program to increase infant immunization against respiratory syncytial virus.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 6.5,
+  "pontuacao": 2.5,
   "agravos": [
    "Influenza e vírus respiratórios",
    "Imunização"
@@ -11459,7 +11459,7 @@
   "se": "2025-39",
   "descricao": "This report describes pediatric deaths during the 2024-25 influenza season.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.5,
+  "pontuacao": 3.5,
   "agravos": [
    "Influenza e vírus respiratórios"
   ],
@@ -11482,7 +11482,7 @@
   "se": "2025-39",
   "descricao": "This report describes 109 U.S. cases of pediatric influenza-associated encephalopathy during the 2024-25 flu season - a high-severity season.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 6.0,
+  "pontuacao": 2.0,
   "agravos": [
    "Influenza e vírus respiratórios"
   ],

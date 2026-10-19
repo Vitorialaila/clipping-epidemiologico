@@ -8,6 +8,7 @@
 
 limiar_feed: 4            # pontuação mínima para aparecer no feed do site
 limiar_clipping: 5        # pontuação mínima para concorrer aos destaques
+penalidade_retrospectivo: -4   # título que cita só anos já encerrados (relato de evento passado)
 
 agravos:
   - {nome: "Doença pelo vírus Ebola", icone: virus, peso: 5, termos: [ebola, bundibugyo, "sudan virus", "virus sudao"]}
@@ -92,6 +93,8 @@ localidades:
 # Termos que indicam conteúdo sem ocorrência nova (institucional, estudos, programas, explicativos)
 ajustes:
   - {peso: -3, termos: [estudo, estudos, pesquisa, pesquisas, pesquisadores, study, studies, researchers, artigo, "ensaio clinico", "clinical trial", efetividade, effectiveness, metodologia, seminario, capacitacao, capacita, capacitar, oficina, treinamento, "dia mundial", "dia nacional", mutirao, implantacao, implanta, implantada, implantado, lancamento, lanca, intensifica, "pede apoio", mobilizacao]}
+  # Relatos retrospectivos do MMWR (CDC)
+  - {peso: -4, termos: ["notes from the field"]}
   # Matérias explicativas: perdem menos, porque às vezes trazem um dado novo no título
   - {peso: -1.5, termos: [entenda, saiba, "tire duvidas", mitos, "diz especialista", "dizem especialistas", "what to know", explainer]}
   - {peso: -4, termos: [licitacao, "call for tenders", procurement, vacancy, vacancies, "job opening", concurso, "processo seletivo", edital]}
