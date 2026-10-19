@@ -25,7 +25,7 @@
  {
   "id": "653240bc35b89c",
   "titulo": "Defesa Civil de Barra do Piraí alerta para possíveis impactos do El Niño e reforça medidas de prevenção",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNFBadkwwWDA2Nk9NdVRuQ1hJcXp3Q3gtUEgxNHMyWWpjcGpDMzllc0k4QWM4NWVLd1VuN3pJRFFpeVV3cnR0LVhZZXY4cWZ3cUxUQ0Jfbk9kMnZrWFVlbzdNUEM5bDFKdU83WVYybG5aX3NhQ0pwek54YkthTTBXa2o5ZHRYNVQyRVdOOGJR?oc=5",
+  "url": "https://barradopirai.rj.gov.br/todas-as-noticias/21d86a60-5156-49f7-a146-d627ee99939a",
   "fonte_id": "defesa-civil-busca",
   "fonte": "Prefeitura Municipal de Barra do Piraí",
   "sigla": "Defesa Civil",
@@ -43,7 +43,8 @@
   "escopo": "Brasil",
   "termos_evento": [
    "alerta para"
-  ]
+  ],
+  "link_tentado": true
  },
  {
   "id": "2688af12a27045",
@@ -1735,7 +1736,7 @@
  {
   "id": "b7aade0dd775b5",
   "titulo": "Operação El Niño: Governo de SP monitora os impactos da chuva e alerta para novos temporais",
-  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSjF3Sy1UNkJjc1BLSUExWHQ3RXJiRHByNlhuZFp1dFpDLWVKSWJkNUxQaHBkdE9xRzRCd0pTUm5PYW1iNWJwa2FlblcwbU5hT1BZcVpQVHIySjAwQXdDWVZ2NlQwZzZOSUxFT1k2Y1E2NGN2SElGY1BORGZSRlJmRDczZ1J0ZkhkOExSSDZYdFhMVFA4WlBPNU5ndEQwR2dRaVBhRE5Nek1EcmU5dHNncnpzSEQxZDJZRDdJV1ZwS3FJTFhhMF9fNU41dnRHVUVuQkE?oc=5",
+  "url": "https://www.agenciasp.sp.gov.br/defesa-civil/operacao-el-nino-governo-de-sp-monitora-os-impactos-da-chuva-e-alerta-para-novos-temporais/",
   "fonte_id": "defesa-civil-busca",
   "fonte": "agenciasp.sp.gov.br",
   "sigla": "Defesa Civil",
@@ -1754,12 +1755,13 @@
   "escopo": "Brasil",
   "termos_evento": [
    "alerta para"
-  ]
+  ],
+  "link_tentado": true
  },
  {
   "id": "c59065b16cb567",
   "titulo": "Inema emite alerta para chuvas intensas na Bahia nas próximas 72 horas",
-  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSmxoNzBfMXNvOU13TXJ3TGdTU3BhUnAxTklPNmdHVGh0T0RIdGxVN1M4SmtzSWtsdmdreEFBVnozN2YzYkVRN0d3Z00zS2wyaTM3TC14V0xaNks4aWJpRUtpMzBWd0tMdC1KcHk3QlJVY3NoY0tMWG92Rll4U0k0S1U0TmQyanhjVnJ2cWRaMGhGNklMSi1YQmxuRlF4VkkyMUpUWVNzUnNwZG90NWRLcm5UN1oxVWxzQUhPaA?oc=5",
+  "url": "http://www.ba.gov.br/inema/noticias/2026-10/93832/inema-emite-alerta-para-chuvas-intensas-na-bahia-nas-proximas-72-horas",
   "fonte_id": "defesa-civil-busca",
   "fonte": "ba.gov.br",
   "sigla": "Defesa Civil",
@@ -1777,12 +1779,13 @@
   "escopo": "Brasil",
   "termos_evento": [
    "emite alerta"
-  ]
+  ],
+  "link_tentado": true
  },
  {
   "id": "f8e041adf68434",
   "titulo": "Defesa Civil reforça cuidados após alerta para tempestades em Vitória da Conquista até segunda-feira, 19",
-  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNblpDcjlWVVk0UjdFV1BYZjBseGNFZ3NSRzE3NVVwa0o0QVpsVkNCS19VZ3VEVnp4UEhmSi1KVlZFbi02WHF5cmlFU1psem5VbzBzazhOOHpGV2FscUlMY2lBZkJ5SnR6N3ZyMUVFM2NvcGoxMnIxLVF2TS1VLVAyTEpIallBWUdWNUFzalRZUUEtTG1ZMjhRQWwzS2tWSXYtOTlPdTA5c003WDl4d1ZtS3B4Wl93RkZPSmxnTUZLWU1JdEJhc3hVN21hNA?oc=5",
+  "url": "https://www.pmvc.ba.gov.br/defesa-civil-reforca-cuidados-apos-alerta-para-tempestades-em-vitoria-da-conquista-ate-segunda-feira-19/",
   "fonte_id": "defesa-civil-busca",
   "fonte": "Prefeitura Municipal de Vitória da Conquista - PMVC",
   "sigla": "Defesa Civil",
@@ -1800,7 +1803,8 @@
   "escopo": "Brasil",
   "termos_evento": [
    "alerta para"
-  ]
+  ],
+  "link_tentado": true
  },
  {
   "id": "402851d47548b8",
@@ -1870,7 +1874,7 @@
  {
   "id": "1fe186c880da91",
   "titulo": "New wildfire in Southern California explodes in size, burning multiple homes",
-  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYjBzTXRtUGh4ekhuX1JER1lZYnNuN0E3YXp2amU4ZHBuQ3d6eFhiNmQydmN6ZWczUmJLUXRVV1BoWWlwNFBuT3p1VTItMmduOWJNbW9neWNiQWdUS1VwdlQwUzhfWHNJMDlkUmVXNFVxM0xLWjlWM3pDTm1HbWdWYkpKd2ZJZVlyWkloTWJJOC0?oc=5",
+  "url": "https://edition.cnn.com/2026/10/16/weather/california-wildfires-santa-ana-winds-climate",
   "fonte_id": "cnn-busca",
   "fonte": "CNN",
   "sigla": "CNN",
@@ -1886,12 +1890,13 @@
    "Saúde ambiental e clima"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "link_tentado": true
  },
  {
   "id": "a21024766ccb8d",
   "titulo": "New wildfire in Southern California explodes in size, burning multiple homes",
-  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZkc1NDhnMkUyTlV6UndVN3BRd090LWphS2Q3WFo5cGl0dDVrc1BZTWVBVjhXME1NQ25rekZDRUZmOTR2WXNGV0g3Y0ZOaEJmeEVaU203TFhRaW1zaDhsUThBVFV4QWIxWldZeWFKTlBmSDhyOWtlSWJHeGhLYVZVQ2RENXJ3LVgya25R?oc=5",
+  "url": "https://www.cnn.com/2026/10/16/weather/california-wildfires-santa-ana-winds-climate",
   "fonte_id": "cnn-busca",
   "fonte": "CNN",
   "sigla": "CNN",
@@ -1907,7 +1912,8 @@
    "Saúde ambiental e clima"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "link_tentado": true
  },
  {
   "id": "06d1ce466081a2",
@@ -3301,7 +3307,7 @@
  {
   "id": "7982611036444f",
   "titulo": "Serra está sob alerta de chuvas e possibilidade de tempestades",
-  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaEpZcnExN2I4Q0FpWm12cmVYZTZuZWlMNzRhM1JQaEhnVG1MWWpFQVZKZy10TlVXVnNVOGM5NHg2eG1HOTNxeWc3YTlldHJ4QWFDT2hBakJKYmpybVBKWm9DalpiVnR1cERoQ1gtNGl6WW9iWlUyMGhzM0xwbkxxQ2dubzdDN2JRc3l3akFMTFlwa1FiSmpTdmhIUkRUWEtlTE5CdE5lWHRtemN4d2JyektBWTFOZ0NtOEdaR2k0UXFvc1JVS19VdHUzVk8?oc=5",
+  "url": "https://www.serra.es.gov.br/noticias/serra-esta-sob-alerta-de-chuvas-e-possibilidade-de-tempestades-nesta-quinta-15-e-sexta-feira-16",
   "fonte_id": "defesa-civil-busca",
   "fonte": "Prefeitura da Serra",
   "sigla": "Defesa Civil",
@@ -3317,7 +3323,8 @@
    "Saúde ambiental e clima"
   ],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "link_tentado": true
  },
  {
   "id": "3f278a61aa441c",
@@ -3434,7 +3441,7 @@
  {
   "id": "97c420723f25d6",
   "titulo": "A super El Niño winter is coming and the first official forecast is in",
-  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MMkplWjNqMnNic2hGZWF0VmJaektiTDZOSE5QRzRPNEpoUzltRGYtZXJxNC1SYmFoektfRnVQMVYwQ2NIUUl1MzJGWjg2QmltZnJzdnZIOERUZ1hsZHlqOUp1bTdZR1VFUXJKZFBfeXhIdld4NEE?oc=5",
+  "url": "https://www.cnn.com/2026/10/15/weather/winter-outlook-super-el-nino",
   "fonte_id": "cnn-busca",
   "fonte": "CNN",
   "sigla": "CNN",
@@ -3450,7 +3457,8 @@
    "Saúde ambiental e clima"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "link_tentado": true
  },
  {
   "id": "ea0674188119d6",
@@ -4376,7 +4384,7 @@
  {
   "id": "2728e3f9a837d0",
   "titulo": "Defesa Civil de São Paulo alerta para chuva intensa nesta quinta-feira (15), com acumulados que podem chegar a 80 mm",
-  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVnQ1UDRrR0VCT0xhcjhTNFo2WlN1ZUVuNWl2ZkNSZFlLNUktNG9teURDcy1ZSndDbENGNWhTRS1nS3lkZWZlNExfQUVENkpKYlI2YUM3TDV3R2oxT0Z2WXRyUmd5a1BxeGh2YkwxekRHN1JUX0JCQU1rODVzTHc2MVBkR253ZkVZUE5wckMxYU9JMVZxZDlZV3E3OXl6Z1pKUTg0S3hHVmtXcWV4UlFkSkFjWmJsM0hKR2VhVTBTYzNzQ2dHdnlUaXhWOU9fclpNcXQyaktWMnRlZm43N3A4?oc=5",
+  "url": "https://www.agenciasp.sp.gov.br/defesa-civil-de-sao-paulo-alerta-para-chuva-intensa-nesta-quinta-feira-15-com-acumulados-que-podem-chegar-a-80-mm/",
   "fonte_id": "defesa-civil-busca",
   "fonte": "agenciasp.sp.gov.br",
   "sigla": "Defesa Civil",
@@ -4394,12 +4402,13 @@
   "escopo": "Brasil",
   "termos_evento": [
    "alerta para"
-  ]
+  ],
+  "link_tentado": true
  },
  {
   "id": "8705fbf0ece2c6",
   "titulo": "Defesa Civil de São Paulo alerta para chuva intensa nesta quinta-feira (15), com acumulados que podem chegar a 80 mm",
-  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMHc5ajF3ZlZlek5BaUlDZzZvdFpSYnJWZnNWNUFtRnd1a0tCWk5EQUE4WElvOGllN3JTc2xUM09SVnR1d2dlM1hMT1dMRjY0MW8xT0tqWHZ5SUw3MmRwT0Y1RE9SMDF4SlZEVjVtT1NKRFNBbW5Jcm5Da1A2RWZZbnpwVGxuQnM4WHdwZ3hSZ2tMak1DMkZVU0k3QTBoNEl4ZVBpZmxrQVZ1ZmRLU3MzdzVCS05oOUluMXhWY3pwYkw3X293ZmhXR0VHNG9uZFhEOWVVSW0xSVlGS085akl6X2tYaUtGenJmLTAwRWd2V1Q?oc=5",
+  "url": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-de-sao-paulo-alerta-para-chuva-intensa-nesta-quinta-feira-15-com-acumulados-que-podem-chegar-a-80-mm/",
   "fonte_id": "defesa-civil-busca",
   "fonte": "agenciasp.sp.gov.br",
   "sigla": "Defesa Civil",
@@ -4417,7 +4426,8 @@
   "escopo": "Brasil",
   "termos_evento": [
    "alerta para"
-  ]
+  ],
+  "link_tentado": true
  },
  {
   "id": "e701a34d8483e8",
@@ -4489,7 +4499,7 @@
  {
   "id": "7ef12f59ac386a",
   "titulo": "Reconhecida emergência em 82 cidades potiguares afetadas pela seca",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPazF4Y20zbVRRcXZOT1k2YXljUjBDYnNJRFBzVm1yYVVoU3NNeVBNVFlDcTZFZlplMTNLd1JtSkVWWkdKVUYzT0RwaExLd3JkYTRqSm13aHc5djBNV1NCT3ZMcFpfcTNnTC1Lemt2U1RaM1lSOXR3WGdOOUpjNUlZMUl0QUtMZUM0QlQ4THhlMHZ1bHg5NHNxRk9wVnZINE9uZHZUYVNJWFM3cFVoTkE?oc=5",
+  "url": "https://www.gov.br/mdr/pt-br/noticias-midr/reconhecida-emergencia-em-82-cidades-potiguares-afetadas-pela-seca",
   "fonte_id": "defesa-civil-busca",
   "fonte": "www.gov.br",
   "sigla": "Defesa Civil",
@@ -4505,7 +4515,8 @@
    "Saúde ambiental e clima"
   ],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "link_tentado": true
  },
  {
   "id": "354d57eb163dde",
@@ -4950,7 +4961,7 @@
  {
   "id": "006bee2c686140",
   "titulo": "Defesa Civil alerta para chuvas fortes entre essa terça-feira (13) e quinta-feira (15)",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMHJoVTE0cVd1b3dhZWZ5dll4QURESFU5bmtGcmQzUXV2R29Ib0JyU0cwU1g2WUxKeVBYd1JRNzZYMWlDdXRVOU9WQjVGUnFQc0l3eE1zTGR2eWdob1psMThWRjZnbTUtZnUxSGROcjR5ZU5PMFZvajNqVWtxY0c4NG1yNGJSek56cTQwcUNEMkN4REJSVmF0QWRLNmg3UFRfcVJKUXp1TS15ekdYYVREWGpGUQ?oc=5",
+  "url": "https://www.jacarei.sp.gov.br/defesa-civil-alerta-para-chuvas-fortes-entre-essa-terca-feira-13-e-quinta-feira-15/",
   "fonte_id": "defesa-civil-busca",
   "fonte": "Prefeitura Municipal de Jacareí",
   "sigla": "Defesa Civil",
@@ -4968,12 +4979,13 @@
   "escopo": "Brasil",
   "termos_evento": [
    "alerta para"
-  ]
+  ],
+  "link_tentado": true
  },
  {
   "id": "b9277eaa90042e",
   "titulo": "Defesa Civil do Estado alerta para chuvas fortes entre terça (13) e quinta-feira (15)",
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTUVRTVp1SjUzSW1aa2JWQnBVdDNOeFctWm95amtoTW5XSTA5YVBOZWZTNjFzenU2enZxY1YwSEh1LWRyQTQxWS04NFV3TjMtcmpVUWh4c0p3U2tGWDlOWTJrdnVvV0NvdlJZS1R2MTBvZnYtbmJMVkxSTG56V2libmlEczNMeXNCUW85QW4zNHFTemRJMHBwUHh0NlZyOFM3SmQ2dGVYU1hzSkxpWnMxMnBCeHNFNWs?oc=5",
+  "url": "https://capivari.sp.gov.br/portal/defesa-civil-do-estado-alerta-para-chuvas-fortes-entre-terca-13-e-quinta-feira-15/",
   "fonte_id": "defesa-civil-busca",
   "fonte": "Prefeitura de Capivari",
   "sigla": "Defesa Civil",
@@ -4991,7 +5003,8 @@
   "escopo": "Brasil",
   "termos_evento": [
    "alerta para"
-  ]
+  ],
+  "link_tentado": true
  },
  {
   "id": "d8f4325315339c",
@@ -5017,7 +5030,7 @@
  {
   "id": "591ef29ac343b9",
   "titulo": "Reconhecida emergência na cidade de Filadélfia, em Tocantins, afetada pela estiagem",
-  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPejlpWFRWQ2V3eDc1MFY3NmhGX25YdUZUYnRNcEQ1bzFlQUx0eWFUQUxfMklxdkc1Z3ROQ2xoVTJXNzFnaEUxSmYybHBUS3NzZ0d5TTdDd3ZfdzRiMld0dFdVazc0S3dtWWZqbTNkcWhGb2VjQjI2OEgyRDV3YV9KbHVGbW9oMnd4MWU1T25QLXQxS3B4VmNEd0EwWmR4cUN2ZXlkMm1SdEJoQ21FRXZqZFEtbnQtTzlWRUxmcHc3LS1aQQ?oc=5",
+  "url": "https://www.gov.br/mdr/pt-br/noticias-midr/reconhecida-emergencia-na-cidade-de-filadelfia-em-tocantins-afetada-pela-estiagem",
   "fonte_id": "defesa-civil-busca",
   "fonte": "www.gov.br",
   "sigla": "Defesa Civil",
@@ -5033,7 +5046,8 @@
    "Saúde ambiental e clima"
   ],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "link_tentado": true
  },
  {
   "id": "1c13c35a5d943b",
@@ -5059,7 +5073,7 @@
  {
   "id": "2076d657eebc3c",
   "titulo": "Qantas plane grounded after reported bedbug outbreak",
-  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hQTZjZEpiODFrWmRfX3o5SmpWUS1adkNZRnFSSU1MUldmRkdmY0ltN3B5amk3VVZmd04xUHRoNDgxcVotbGo1UUtRLUV0eHJHT2VQbms1X3c2Qjk0TmdPYmEzQkhITEtxMVlqY0FzSEpLMTRpcXVpVWlR?oc=5",
+  "url": "https://www.cnn.com/2026/10/13/travel/qantas-flight-bed-bugs-scli-intl",
   "fonte_id": "cnn-busca",
   "fonte": "CNN",
   "sigla": "CNN",
@@ -5075,12 +5089,13 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
-  ]
+  ],
+  "link_tentado": true
  },
  {
   "id": "35f9f8f90336ff",
   "titulo": "Qantas plane grounded after reported bedbug outbreak",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2Q255RFlNSXhSZXpmQWVhXzNPMnBXRFhYdXVRbDZBeEEzRGdfTU5oeXpDMFZjZGRRekt1MzBRME81WFM4SGVCT1ZxRGFrSVBCQ0dHMGRsaElWbXFyM3d2WTNlcnB0ZzNsZE9KaThQdE1xcmJIb1ZqaC1ub25mQUU?oc=5",
+  "url": "https://edition.cnn.com/2026/10/13/travel/qantas-flight-bed-bugs-scli-intl",
   "fonte_id": "cnn-busca",
   "fonte": "CNN",
   "sigla": "CNN",
@@ -5096,7 +5111,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
-  ]
+  ],
+  "link_tentado": true
  },
  {
   "id": "585cd4e9f6d06c",
@@ -5538,7 +5554,7 @@
  {
   "id": "0d3d26d08a7197",
   "titulo": "Defesa Civil renova alerta para chuvas fortes em São Paulo até quinta-feira (15)",
-  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObkZWR0xpU3QxN0pTYTdpd29TbTEtZ1pQTXQ3TURtNGpwUnh0ZWdLVlhkamYtV24zbUJxaEo5UlA3Q3MwMXBxRW1QTEJ6c3NJTkljWU5PUEpLcWdUTGN1TkoyVnRXWWVGaFBmcllEM1R6cXpWRW9QMmM4cXBZLWVDQnV1R000OG1DSE1UNkJSUUxYM19lOTlRbjBBMW9RdGR3aDJoQjIzX0RoM296ZFZxQVdKQm5xWTNKaTdZcDV5S0dBTmY3T1kzY3R3?oc=5",
+  "url": "https://www.agenciasp.sp.gov.br/defesa-civil-renova-alerta-para-chuvas-fortes-em-sao-paulo-entre-terca-feira-13-e-quinta-feira-15/",
   "fonte_id": "defesa-civil-busca",
   "fonte": "agenciasp.sp.gov.br",
   "sigla": "Defesa Civil",
@@ -5556,12 +5572,13 @@
   "escopo": "Brasil",
   "termos_evento": [
    "alerta para"
-  ]
+  ],
+  "link_tentado": true
  },
  {
   "id": "34bded025058c3",
   "titulo": "Defesa Civil renova alerta para chuvas fortes em São Paulo até quinta-feira (15)",
-  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUDNUY3d1ZU5NcVdsRlBfUzVuUEZlZDhETnBPcFpCclp6dkZjWTViSHlYYVFZMjRoUk44M1V5T3RnN0ZIZE1Bb1hod08wbFRiSktpeUE2dmI1Q1g4UEc1cHF2dWY5dXhCNUdBN182Z09vTVJ2TE5RZ2I5SUh6dXBlUUhvdXBlZm9uT1U3cXFSLWszb2luUTExS0RraERjWkloSWJxdlJWX1h4V3BORWdxSzRXbW54QWMyUTQ0NmtLYXVYTHBRT0oxbzNVb0RGSW4yQ0F1RW04amNRU2M?oc=5",
+  "url": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-renova-alerta-para-chuvas-fortes-em-sao-paulo-entre-terca-feira-13-e-quinta-feira-15/",
   "fonte_id": "defesa-civil-busca",
   "fonte": "agenciasp.sp.gov.br",
   "sigla": "Defesa Civil",
@@ -5579,7 +5596,8 @@
   "escopo": "Brasil",
   "termos_evento": [
    "alerta para"
-  ]
+  ],
+  "link_tentado": true
  },
  {
   "id": "334a3a13e22de8",
@@ -5662,7 +5680,7 @@
  {
   "id": "cbf271d301ad37",
   "titulo": "Chuvas fortes levam Defesa Civil a emitir 29 alertas no estado de São Paulo",
-  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdVZjZFZ1ck9ycmFOYm9VR3hIWlZGMExMcnlLRTZQVnhEM2EzOGVnN2phOV82a1FsY3g3UTE5RVljZFVtUFZxVmYwUlM1VDdrcmFrdzIzYU9nU2hUNTM1OVRFTXFFVEg0bDY3QkxpZEY4ZkxCa21mem83RUdUQ1FudXZnNFN3cWlhdS16QjUtcUV6cjNIbTJIYUVTLWkyU19vYzBLcWxLQkw5R1kw?oc=5",
+  "url": "https://www.agenciasp.sp.gov.br/chuvas-fortes-levam-defesa-civil-a-emitir-29-alertas-no-estado-de-sao-paulo/",
   "fonte_id": "defesa-civil-busca",
   "fonte": "agenciasp.sp.gov.br",
   "sigla": "Defesa Civil",
@@ -5678,12 +5696,13 @@
    "Saúde ambiental e clima"
   ],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "link_tentado": true
  },
  {
   "id": "8511cc09179cea",
   "titulo": "Governo Federal acelera socorro aos incêndios florestais no Amazonas",
-  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdVpQNG1zU1Y3Ul95c3NYNHV5SkVmMk5fZzNDVEdDVTFGNldzS093NE1ndFMyMkdtTXI3YU9qNWR4SnVoTUtuUEhQSURJR0Y0NVR6aEZGYXlFTmk5alc1Uzk4eHVFSUVkc3N1VWNpVDBic1o4MEFLRVZfa3FIWEZRbEsxWUo5WktEeEdsaXh6akFQT0R0WFBIWjlDZGxqbzF0Y19WN3JvWktzRFVXSEtFSw?oc=5",
+  "url": "https://www.gov.br/mdr/pt-br/noticias-midr/governo-federal-acelera-socorro-aos-incendios-florestais-no-amazonas",
   "fonte_id": "defesa-civil-busca",
   "fonte": "Governo Federal",
   "sigla": "Defesa Civil",
@@ -5699,12 +5718,13 @@
    "Saúde ambiental e clima"
   ],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "link_tentado": true
  },
  {
   "id": "9606cbb42c8d65",
   "titulo": "Hurricane Simon weakens to Category 2 as it continues to lash Mexico’s Pacific coast",
-  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObnZfZzFpZTg4UzRBbnF6TkdYcnl3OEM4VFJkRDJFeGlmUWJ4WUxxOFhNY0Z0dkRQZDVvR2xpUGNPTU9reEdEZGVGWjZwcVhydDU2Y3pFOTJxZHhRSDU5SjNKN3BDVUw1MC1SSkswSmVYSTV4azRONU45V0g2cmE5QWZhZw?oc=5",
+  "url": "https://edition.cnn.com/2026/10/11/americas/mexico-hurricane-simon-intl-latam",
   "fonte_id": "cnn-busca",
   "fonte": "CNN",
   "sigla": "CNN",
@@ -5720,12 +5740,13 @@
    "Emergências e desastres"
   ],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "link_tentado": true
  },
  {
   "id": "feb6c1ee2a3b91",
   "titulo": "Hurricane Simon weakens to Category 2 as it continues to lash Mexico’s Pacific coast",
-  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBuWTVER2tjenZJeW8zTThDRktqcXRFU2NZcWQ1QUJFMGZvQUtYOFdESlFBMVZ1OHFjVEpoVW1JUXk4ZHFia09STGNMSVNYYU9KS05vRndyM2JubnVodloyN0I4cklNWTI3SjFMdXFYTnp2a2dENl9iNjBHTmFPUQ?oc=5",
+  "url": "https://www.cnn.com/2026/10/11/americas/mexico-hurricane-simon-intl-latam",
   "fonte_id": "cnn-busca",
   "fonte": "CNN",
   "sigla": "CNN",
@@ -5741,7 +5762,8 @@
    "Emergências e desastres"
   ],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "link_tentado": true
  },
  {
   "id": "8022336bc29dcd",
@@ -5859,7 +5881,7 @@
  {
   "id": "dc425428ed05b6",
   "titulo": "Kenya prepared for Ebola. It still slipped through — a warning of wider cross-border spread",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd0FkREQxSmZmWEt5SjIwNmhNV0FzM0lmbWhhaHlGZmlmZXJYNnAtaWNEVzhhYUx3cGdoTjNNRVJybnpqbkVwNTBuaFVLcklINGR4bTJreDJ2VnBORWhRbVViUGdpWldxTzBHMndpRzNpN1JPc3dpemZOZDFDYVBRdEdCNFk?oc=5",
+  "url": "https://edition.cnn.com/2026/10/10/africa/kenya-ebola-cross-border-spread-intl",
   "fonte_id": "cnn-busca",
   "fonte": "CNN",
   "sigla": "CNN",
@@ -5875,12 +5897,13 @@
    "Doença pelo vírus Ebola"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "link_tentado": true
  },
  {
   "id": "4e71b75323facc",
   "titulo": "Kenya prepared for Ebola. It still slipped through — a warning of wider cross-border spread",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPSGdxVlloZzI0RHBReUo5ZFZDSFZQZjdtWWhqUVFSeWZva2U4YTZvY0RoSVRJLUhCTVhzbWVFUlVha1RXQkhfS0xVNHNUVmkxeUJYb2FTclBNanVBU1JjU1BFRU1Pb0N2TC1TdmFOVk81MW1tZTNfRjdmd1BPY28?oc=5",
+  "url": "https://www.cnn.com/2026/10/10/africa/kenya-ebola-cross-border-spread-intl",
   "fonte_id": "cnn-busca",
   "fonte": "CNN",
   "sigla": "CNN",
@@ -5896,7 +5919,8 @@
    "Doença pelo vírus Ebola"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "link_tentado": true
  },
  {
   "id": "f59d9cd1de9877",
@@ -5941,7 +5965,7 @@
  {
   "id": "1daa53843d6690",
   "titulo": "Powerful earthquake shakes Panama, followed by large aftershocks",
-  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lSmliX0hjeTJTSFJYcVhmMlBXZFo4VFlDSmZtT3RxLWh1WmhkaXJUcG03UG43UGMtbER6XzNDcDFCYVRvMXN2dk1CcFdtUnRyYml1bXdQV0tpSE9yNjVZOWtKYjlJd011eGhLZXNDT0hkNE1WNXVv?oc=5",
+  "url": "https://www.cnn.com/2026/10/09/americas/panama-earthquake-latam-intl",
   "fonte_id": "cnn-busca",
   "fonte": "CNN",
   "sigla": "CNN",
@@ -5957,12 +5981,13 @@
    "Emergências e desastres"
   ],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "link_tentado": true
  },
  {
   "id": "93dd5f2905fceb",
   "titulo": "Powerful earthquake shakes Panama, followed by large aftershocks",
-  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JMVY0Vkg5VmRjYlNRdThGNVpGeEVZMXNNVndBNE1fZ2JTb2JXbkNXam9naHNiSEhGWmtRMkw5RHRCeDBpMmN4UUViT1lyRzdfTmM1aG9oYS1tWFZ4T2owTl9LanowZTFCZXRJR1h5dU5XUkp5ZlE?oc=5",
+  "url": "https://us.cnn.com/2026/10/09/americas/panama-earthquake-latam-intl",
   "fonte_id": "cnn-busca",
   "fonte": "CNN",
   "sigla": "CNN",
@@ -5978,7 +6003,8 @@
    "Emergências e desastres"
   ],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "link_tentado": true
  },
  {
   "id": "558790e1fd37f1",
