@@ -43,8 +43,7 @@
   "escopo": "Brasil",
   "termos_evento": [
    "alerta para"
-  ],
-  "link_tentado": true
+  ]
  },
  {
   "id": "2688af12a27045",
@@ -1755,8 +1754,7 @@
   "escopo": "Brasil",
   "termos_evento": [
    "alerta para"
-  ],
-  "link_tentado": true
+  ]
  },
  {
   "id": "c59065b16cb567",
@@ -1779,8 +1777,7 @@
   "escopo": "Brasil",
   "termos_evento": [
    "emite alerta"
-  ],
-  "link_tentado": true
+  ]
  },
  {
   "id": "f8e041adf68434",
@@ -1803,8 +1800,7 @@
   "escopo": "Brasil",
   "termos_evento": [
    "alerta para"
-  ],
-  "link_tentado": true
+  ]
  },
  {
   "id": "402851d47548b8",
@@ -1890,8 +1886,7 @@
    "Saúde ambiental e clima"
   ],
   "escopo": "Internacional",
-  "termos_evento": [],
-  "link_tentado": true
+  "termos_evento": []
  },
  {
   "id": "a21024766ccb8d",
@@ -1912,8 +1907,7 @@
    "Saúde ambiental e clima"
   ],
   "escopo": "Internacional",
-  "termos_evento": [],
-  "link_tentado": true
+  "termos_evento": []
  },
  {
   "id": "06d1ce466081a2",
@@ -3323,8 +3317,7 @@
    "Saúde ambiental e clima"
   ],
   "escopo": "Brasil",
-  "termos_evento": [],
-  "link_tentado": true
+  "termos_evento": []
  },
  {
   "id": "3f278a61aa441c",
@@ -3457,8 +3450,7 @@
    "Saúde ambiental e clima"
   ],
   "escopo": "Internacional",
-  "termos_evento": [],
-  "link_tentado": true
+  "termos_evento": []
  },
  {
   "id": "ea0674188119d6",
@@ -4402,8 +4394,7 @@
   "escopo": "Brasil",
   "termos_evento": [
    "alerta para"
-  ],
-  "link_tentado": true
+  ]
  },
  {
   "id": "8705fbf0ece2c6",
@@ -4426,8 +4417,7 @@
   "escopo": "Brasil",
   "termos_evento": [
    "alerta para"
-  ],
-  "link_tentado": true
+  ]
  },
  {
   "id": "e701a34d8483e8",
@@ -4515,8 +4505,7 @@
    "Saúde ambiental e clima"
   ],
   "escopo": "Brasil",
-  "termos_evento": [],
-  "link_tentado": true
+  "termos_evento": []
  },
  {
   "id": "354d57eb163dde",
@@ -4979,8 +4968,7 @@
   "escopo": "Brasil",
   "termos_evento": [
    "alerta para"
-  ],
-  "link_tentado": true
+  ]
  },
  {
   "id": "b9277eaa90042e",
@@ -5003,8 +4991,7 @@
   "escopo": "Brasil",
   "termos_evento": [
    "alerta para"
-  ],
-  "link_tentado": true
+  ]
  },
  {
   "id": "d8f4325315339c",
@@ -5046,8 +5033,7 @@
    "Saúde ambiental e clima"
   ],
   "escopo": "Brasil",
-  "termos_evento": [],
-  "link_tentado": true
+  "termos_evento": []
  },
  {
   "id": "1c13c35a5d943b",
@@ -5089,8 +5075,7 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
-  ],
-  "link_tentado": true
+  ]
  },
  {
   "id": "35f9f8f90336ff",
@@ -5111,8 +5096,7 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
-  ],
-  "link_tentado": true
+  ]
  },
  {
   "id": "585cd4e9f6d06c",
@@ -5572,8 +5556,7 @@
   "escopo": "Brasil",
   "termos_evento": [
    "alerta para"
-  ],
-  "link_tentado": true
+  ]
  },
  {
   "id": "34bded025058c3",
@@ -5596,8 +5579,7 @@
   "escopo": "Brasil",
   "termos_evento": [
    "alerta para"
-  ],
-  "link_tentado": true
+  ]
  },
  {
   "id": "334a3a13e22de8",
@@ -5696,8 +5678,7 @@
    "Saúde ambiental e clima"
   ],
   "escopo": "Brasil",
-  "termos_evento": [],
-  "link_tentado": true
+  "termos_evento": []
  },
  {
   "id": "8511cc09179cea",
@@ -5718,8 +5699,7 @@
    "Saúde ambiental e clima"
   ],
   "escopo": "Brasil",
-  "termos_evento": [],
-  "link_tentado": true
+  "termos_evento": []
  },
  {
   "id": "9606cbb42c8d65",
@@ -5740,8 +5720,7 @@
    "Emergências e desastres"
   ],
   "escopo": "Américas",
-  "termos_evento": [],
-  "link_tentado": true
+  "termos_evento": []
  },
  {
   "id": "feb6c1ee2a3b91",
@@ -5762,8 +5741,7 @@
    "Emergências e desastres"
   ],
   "escopo": "Américas",
-  "termos_evento": [],
-  "link_tentado": true
+  "termos_evento": []
  },
  {
   "id": "8022336bc29dcd",
@@ -5897,8 +5875,7 @@
    "Doença pelo vírus Ebola"
   ],
   "escopo": "Internacional",
-  "termos_evento": [],
-  "link_tentado": true
+  "termos_evento": []
  },
  {
   "id": "4e71b75323facc",
@@ -5919,8 +5896,7 @@
    "Doença pelo vírus Ebola"
   ],
   "escopo": "Internacional",
-  "termos_evento": [],
-  "link_tentado": true
+  "termos_evento": []
  },
  {
   "id": "f59d9cd1de9877",
@@ -5981,8 +5957,7 @@
    "Emergências e desastres"
   ],
   "escopo": "Américas",
-  "termos_evento": [],
-  "link_tentado": true
+  "termos_evento": []
  },
  {
   "id": "93dd5f2905fceb",
@@ -6003,8 +5978,7 @@
    "Emergências e desastres"
   ],
   "escopo": "Américas",
-  "termos_evento": [],
-  "link_tentado": true
+  "termos_evento": []
  },
  {
   "id": "558790e1fd37f1",

@@ -194,7 +194,7 @@ def _link_original(url: str) -> str:
     try:
         from googlenewsdecoder import gnewsdecoder
         r = gnewsdecoder(url, interval=1, timeout=15)
-        if r.get("status") and r.get("decoded_url"):
+        if (r.get("success") or r.get("status")) and r.get("decoded_url"):
             return r["decoded_url"]
     except Exception as erro:  # noqa: BLE001
         log.warning("Não foi possível obter o link original de %s: %s", url[:80], erro)
