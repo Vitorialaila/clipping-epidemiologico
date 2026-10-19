@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-10-19T19:55:15+00:00",
+  "em": "2026-10-19T23:39:46+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,7 +10,7 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-10-19T19:55:15+00:00",
+  "em": "2026-10-19T23:39:46+00:00",
   "lidos": 40,
   "novos": 0,
   "exemplos": [
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-10-19T19:55:15+00:00",
+  "em": "2026-10-19T23:39:46+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-10-19T19:55:15+00:00",
+  "em": "2026-10-19T23:39:46+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-10-19T19:55:15+00:00",
+  "em": "2026-10-19T23:39:46+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-10-19T19:55:15+00:00",
+  "em": "2026-10-19T23:39:46+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-10-19T19:55:15+00:00",
+  "em": "2026-10-19T23:39:46+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-10-19T19:55:15+00:00",
+  "em": "2026-10-19T23:39:46+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-10-19T19:55:15+00:00",
+  "em": "2026-10-19T23:39:46+00:00",
   "lidos": 2343,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-10-19T19:55:15+00:00",
+  "em": "2026-10-19T23:39:46+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,7 +100,7 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-10-19T19:55:15+00:00",
+  "em": "2026-10-19T23:39:46+00:00",
   "lidos": 15,
   "novos": 0,
   "exemplos": [
@@ -110,7 +110,7 @@
   ]
  },
  "fiocruz": {
-  "em": "2026-10-19T19:55:15+00:00",
+  "em": "2026-10-19T23:39:46+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -120,19 +120,19 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-10-19T19:55:15+00:00",
+  "em": "2026-10-19T23:39:46+00:00",
   "lidos": 10,
   "novos": 1,
   "exemplos": [
+   "Consultas por lesões pré-cancerígenas caem após vacina contra HPV",
    "Agricultura confirma foco de doença de Newcastle em Santa Catarina",
-   "Anvisa proíbe lotes de medicamento para tratar câncer",
-   "Anvisa determina apreensão de lote falsificado de toxina botulínica"
+   "Anvisa proíbe lotes de medicamento para tratar câncer"
   ]
  },
  "ses-go": {
-  "em": "2026-10-19T19:55:15+00:00",
+  "em": "2026-10-19T23:39:46+00:00",
   "lidos": 10,
-  "novos": 2,
+  "novos": 0,
   "exemplos": [
    "Outubro Rosa: Crer aborda importância do suporte emocional e inovações no diagnóstico e tratamento do câncer de mama",
    "Extrato do 1º Termo Aditivo ao Contrato n.º 107/2024 – SES/GO",
@@ -140,27 +140,27 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-10-19T19:55:15+00:00",
+  "em": "2026-10-19T23:39:46+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "Justiça bloqueia bens de empresa por queda de helicóptero, no Rio",
    "Motoristas de ônibus fazem paralisação na zona sul de São Paulo",
-   "Deputado estadual Marcelo Aguiar é detido após disparo em bar",
-   "Mega-Sena acumula; prêmio pode chegar a R$ 185 milhões na terça-feira"
+   "Deputado estadual Marcelo Aguiar é detido após disparo em bar"
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-10-19T19:55:15+00:00",
+  "em": "2026-10-19T23:39:46+00:00",
   "lidos": 26,
   "novos": 0,
   "exemplos": [
-   "Câncer de próstata já matou 11 mil homens em 2026; cerca de 46 por dia",
-   "Inca prevê 77 mil casos por ano de câncer que matou Benito di Paula",
-   "Andar de carro elétrico dá mais enjoo? Entenda o que é cinetose"
+   "Câncer de mama: aumento de casos reflete incidência e avanço no diagnóstico",
+   "Lua Blanco enfrentava câncer de intestino; entenda diagnóstico",
+   "Câncer de próstata já matou 11 mil homens em 2026; cerca de 46 por dia"
   ]
  },
  "cnn-saude": {
-  "em": "2026-10-19T19:55:15+00:00",
+  "em": "2026-10-19T23:39:46+00:00",
   "lidos": 19,
   "novos": 0,
   "exemplos": [
@@ -170,8 +170,8 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-10-19T19:55:15+00:00",
-  "lidos": 18,
+  "em": "2026-10-19T23:39:46+00:00",
+  "lidos": 17,
   "novos": 0,
   "exemplos": [
    "‘Who, us? We’re not anti-vaccine,’ parents tell me. ‘Today just doesn’t work for us’",
@@ -180,7 +180,7 @@
   ]
  },
  "inmet": {
-  "em": "2026-10-19T19:55:15+00:00",
+  "em": "2026-10-19T23:39:46+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -190,7 +190,7 @@
   ]
  },
  "cemaden": {
-  "em": "2026-10-19T19:55:15+00:00",
+  "em": "2026-10-19T23:39:46+00:00",
   "lidos": 11,
   "novos": 0,
   "exemplos": [
@@ -200,9 +200,9 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-10-19T19:55:15+00:00",
+  "em": "2026-10-19T23:39:46+00:00",
   "lidos": 24,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Autorizado repasse de R$ 1,8 milhão para ações de defesa civil",
    "Autorizado repasse de R$ 4,7 milhões para ações de defesa civil",
@@ -210,13 +210,13 @@
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-10-19T19:55:15+00:00",
+  "em": "2026-10-19T23:39:46+00:00",
   "lidos": 22,
-  "novos": 5,
+  "novos": 9,
   "exemplos": [
+   "Mega-Sena acumula, e prêmio chega a R$ 185 mi; aposta do DF leva quina",
    "Falta de funcionário atrasa abertura da estação do metrô em Samambaia",
-   "Pesquisadora da Embrapa Cerrados está entre as 100 Mulheres Poderosas do Agro",
-   "Seções eleitorais do DF não sofrem alterações para o 2º turno: veja o que muda nos estados"
+   "\"O caminho da sociedade é o diálogo\", diz Arcebispo Metropolitano de Brasília"
   ]
  }
 }
