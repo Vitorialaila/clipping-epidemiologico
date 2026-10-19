@@ -252,12 +252,14 @@ _RUIDO = re.compile(
     r"publicidade|assine|compartilhe|clique aqui|whatsapp|newsletter|read more|related:|sign up)", re.I)
 
 
-def resumo_extrativo(texto: str, limite: int = 620) -> str:
+def resumo_extrativo(texto: str, limite: int = 620, titulo: str = "") -> str:
     """Alternativa sem IA: primeiras frases do texto original, sem chamadas para outras matérias."""
     linhas = [l.strip() for l in (texto or "").splitlines()]
     # Descarta linhas de navegação ("Leia também", chamadas, créditos curtos) antes de juntar o texto
     linhas = [l for l in linhas if l and not _RUIDO.search(l) and len(l) > 40]
     texto = re.sub(r"\s+", " ", " ".join(linhas)).strip()
+    if titulo and texto.lower().startswith(titulo.strip().lower()):
+        texto = texto[len(titulo.strip()):].lstrip(" .:")  # o texto extraído costuma repetir o título
     frases = re.split(r"(?<=[.!?])\s+(?=[A-ZÀ-Ú0-9])", texto)
     saida = ""
     for f in frases:

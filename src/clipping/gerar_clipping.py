@@ -191,7 +191,7 @@ def gerar(codigo_se: str | None = None, forcar: bool = False, hoje: date | None 
             except Exception as erro:  # noqa: BLE001
                 log.warning("Resumo por IA falhou para %s: %s", d["url"], erro)
         if not resumo or not resumo.get("resumo"):
-            resumo = {"titulo": d["titulo"], "resumo": ia.resumo_extrativo(texto or d.get("descricao", "")),
+            resumo = {"titulo": d["titulo"], "resumo": ia.resumo_extrativo(texto or d.get("descricao", ""), titulo=d["titulo"]),
                       "local": "", "agravo": d["agravo_final"], "paises": [], "uf": ""}
         d.update({
             "titulo_clipping": resumo["titulo"] or d["titulo"],
