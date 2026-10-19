@@ -193,6 +193,10 @@ def gerar(codigo_se: str | None = None, forcar: bool = False, hoje: date | None 
         if not resumo or not resumo.get("resumo"):
             resumo = {"titulo": d["titulo"], "resumo": ia.resumo_extrativo(texto or d.get("descricao", ""), titulo=d["titulo"]),
                       "local": "", "agravo": d["agravo_final"], "paises": [], "uf": ""}
+            if d.get("idioma", "pt") != "pt":
+                # Sem IA, notícias em outro idioma passam por tradução automática para o português
+                resumo["titulo"] = ia.traduzir(resumo["titulo"])
+                resumo["resumo"] = ia.traduzir(resumo["resumo"])
         d.update({
             "titulo_clipping": resumo["titulo"] or d["titulo"],
             "resumo": resumo["resumo"],

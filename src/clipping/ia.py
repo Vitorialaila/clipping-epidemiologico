@@ -271,6 +271,19 @@ def resumo_extrativo(texto: str, limite: int = 620, titulo: str = "") -> str:
     return sem_travessao(saida or truncar(texto, limite))
 
 
+def traduzir(texto: str) -> str:
+    """Tradução automática para o português (Google Tradutor, sem chave), usada quando a IA não está
+    disponível. Em caso de falha, devolve o texto original."""
+    if not texto or not texto.strip():
+        return texto
+    try:
+        from deep_translator import GoogleTranslator
+        return sem_travessao(GoogleTranslator(source="auto", target="pt").translate(texto[:4800]) or texto)
+    except Exception as erro:  # noqa: BLE001
+        log.warning("Tradução automática indisponível: %s", erro)
+        return texto
+
+
 def testar() -> bool:
     """Faz uma chamada mínima a cada modelo configurado e mostra o resultado no log."""
     chave = "ANTHROPIC_API_KEY" if _provedor() == "anthropic" else "GEMINI_API_KEY"

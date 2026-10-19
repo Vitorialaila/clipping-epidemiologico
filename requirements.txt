@@ -1,5 +1,6 @@
 anthropic>=0.40
 beautifulsoup4>=4.12
+deep-translator>=1.11
 epiweeks>=2.3
 feedparser>=6.0
 googlenewsdecoder>=0.2
