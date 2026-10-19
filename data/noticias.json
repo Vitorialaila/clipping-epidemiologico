@@ -359,6 +359,48 @@
   "termos_evento": []
  },
  {
+  "id": "2f2a823895655a",
+  "titulo": "Capotagem deixa quatro pessoas feridas em Brazlândia",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7523041-capotagem-deixa-quatro-pessoas-feridas-em-brazlandia.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-18",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-19T06:14:42+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "f4faaca2ee01fd",
+  "titulo": "Motociclista morre após queda na Ponte JK",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7523037-motociclista-morre-apos-queda-na-ponte-jk.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-18",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-19T06:14:42+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
   "id": "75c82d79b59760",
   "titulo": "Africa CDC Reaffirms Support to Kenya Following Confirmation of Four Additional Ebola Cases",
   "url": "https://africacdc.org/news-item/africa-cdc-reaffirms-support-to-kenya-following-confirmation-of-four-additional-ebola-cases/",
