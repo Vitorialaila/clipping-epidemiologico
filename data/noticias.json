@@ -70,6 +70,51 @@
   ]
  },
  {
+  "id": "b7a72e8af40502",
+  "titulo": "Agricultura confirma foco de doença de Newcastle em Santa Catarina",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/agricultura-confirma-foco-de-doenca-de-newcastle-em-santa-catarina",
+  "fonte_id": "agencia-brasil-saude",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "O Ministério da Agricultura e Pecuária (Mapa) confirmou o registro de um foco da doença de Newcastle em um estabelecimento de avicultura comercial de corte de perus no município de Nova Itaberaba, em Santa Catarina. A existência do foco foi confirmada no domingo (18). O ministério informou que o estabelecimento foi interditado pelo Serviço Veterinário Oficial de Santa Catarina, com a suspensão da movimentação de aves. Além disso, a pasta esclareceu que medidas de controle, contenção e erradicação do foco serão executadas conforme as diretrizes do Plano de Contingência para Influenza Aviária e Doença de Newcastle. A doença de Newcastle afeta aves domésticas e silvestres e é causada por vírus virulento do paramixovírus aviário do sorotipo 1 (APMV-1), conforme os critérios estabelecidos pela Organização Mundial de Saúde Animal (OMSA). A ocorrência foi identificada durante investigação epidemiológica conduzida pelo Serviço Veterinário Oficial de Santa Catarina e confirmada por análise realizada no Laboratório Federal de Defesa Agropecuária de São Paulo (LFDA-SP). O laboratório é reconhecido pela OMSA como de referência internacional para o diagnóstico da doença. “O Mapa ressalta que, apesar da necessidade de adoção de medidas sanitárias para controlar a ocorrência, o consumo de produtos avícolas submetidos à inspeção oficial permanece seguro, sem contraindicações”, disse o ministério. O governo informou que notificou a OMSA e aos parceiros comerciais do Brasil, em cumprimento…",
+  "coletado_em": "2026-10-19T19:55:15+00:00",
+  "municipios": [],
+  "pontuacao": 8.5,
+  "agravos": [
+   "Influenza por novo subtipo",
+   "Influenza e vírus respiratórios"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "investigacao"
+  ]
+ },
+ {
+  "id": "2ea386d5148335",
+  "titulo": "Defesa Civil alerta sobre possibilidade de chuvas intensas nesta segunda (19) e terça-feira (20) em Linhares",
+  "url": "https://linhares.es.gov.br/2026/10/19/defesa-civil-alerta-sobre-possibilidade-de-chuvas-intensas-nesta-segunda-19-e-terca-feira-20-em-linhares/",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Prefeitura Municipal de Linhares",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-19T19:55:15+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
   "id": "38826de39396e8",
   "titulo": "2ª Edição do Prêmio das Ouvidorias das Unidades de Saúde da SES-GO",
   "url": "https://goias.gov.br/saude/2a-edicao-do-premio-das-ouvidorias-das-unidades-de-saude-da-ses-go/",
@@ -698,6 +743,149 @@
   "se": "2026-42",
   "descricao": "",
   "coletado_em": "2026-10-19T18:25:55+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "e51d0384b70605",
+  "titulo": "Outubro Rosa: Crer aborda importância do suporte emocional e inovações no diagnóstico e tratamento do câncer de mama",
+  "url": "https://goias.gov.br/saude/outubro-rosa-crer-aborda-importancia-do-suporte-emocional-e-inovacoes-no-diagnostico-e-tratamento-do-cancer-de-mama/",
+  "fonte_id": "ses-go",
+  "fonte": "SES-GO | Notícias",
+  "sigla": "SES-GO",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "Tira-dúvidas e palestra destacaram importância do cuidado contínuo com a paciente",
+  "coletado_em": "2026-10-19T19:55:15+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "eb1274e37a9528",
+  "titulo": "Extrato do 1º Termo Aditivo ao Contrato n.º 107/2024 – SES/GO",
+  "url": "https://goias.gov.br/saude/extrato-do-1o-termo-aditivo-ao-contrato-n-o-107-2024-ses-go/",
+  "fonte_id": "ses-go",
+  "fonte": "SES-GO | Notícias",
+  "sigla": "SES-GO",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "Processo nº: 202400010069922.Objeto: O presente Termo Aditivo tem por objeto: (i) a alteração da CONTRATADA, em razão da incorporação da GOIASTELECOM pela Planalto Solar Park S.A., futura GOIASTECNOLOGIA/GOTech; e (ii) a adequação da cláusula de pagamento, para fins de efetivação do pagamento diretamente à CONTRATADA, em conta bancária de sua titularidade. Contratada: Goiás Tecnologia S.A.- […]",
+  "coletado_em": "2026-10-19T19:55:15+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "86e1e027c1cd8e",
+  "titulo": "Seções eleitorais do DF não sofrem alterações para o 2º turno: veja o que muda nos estados",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7523542-secoes-eleitorais-do-df-nao-sofrem-alteracoes-para-o-2-turno-veja-o-que-muda-nos-estados.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-19T19:55:15+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "acd98867f21eff",
+  "titulo": "Santuário interrompe visitação de fiéis à relíquia de São Carlo Acutis",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7523543-santuario-interrompe-visitacao-de-fieis-a-reliquia-de-sao-carlo-acutis.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-19T19:55:15+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "a1e2559f69099f",
+  "titulo": "Homem é preso após usar dinheiro falso em uma loja em Santa Maria",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7523523-homem-e-preso-apos-usar-dinheiro-falso-em-uma-loja-em-santa-maria.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-19T19:55:15+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "3a734af5e8444a",
+  "titulo": "Homem é preso por suspeita de violência doméstica e tem arma apreendida",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7523522-homem-e-preso-por-suspeita-de-violencia-domestica-e-tem-arma-apreendida.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-19T19:55:15+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "0d396468ac56d1",
+  "titulo": "Celina promete não reajustar impostos e R$ 1 bi para área de tecnologia",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7523508-celina-promete-nao-reajustar-impostos-e-rs-1-bi-para-area-de-tecnologia.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-19T19:55:15+00:00",
   "municipios": [
    "Distrito Federal"
   ],
@@ -3348,29 +3536,6 @@
   "termos_evento": []
  },
  {
-  "id": "b5c9b8d2404286",
-  "titulo": "Notes from the Field: Dengue Outbreak - U.S. Virgin Islands, January 2024-June 2025",
-  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766650",
-  "fonte_id": "cdc-mmwr",
-  "fonte": "CDC | MMWR",
-  "sigla": "CDC",
-  "idioma": "en",
-  "data": "2026-10-15",
-  "data_estimada": false,
-  "se": "2026-41",
-  "descricao": "This report describes the response to a dengue virus outbreak in the U.S. Virgin Islands during 2024-2025.",
-  "coletado_em": "2026-10-16T13:26:18+00:00",
-  "municipios": [],
-  "pontuacao": 0.0,
-  "agravos": [
-   "Dengue"
-  ],
-  "escopo": "Internacional",
-  "termos_evento": [
-   "outbreak"
-  ]
- },
- {
   "id": "784353cd2bdb19",
   "titulo": "Record-high West Nile virus infections reported amid spread to new parts of Europe",
   "url": "https://www.ecdc.europa.eu/en/news-events/record-high-west-nile-virus-infections-reported-amid-spread-new-parts-europe",
@@ -3392,30 +3557,6 @@
    "surveillance"
   ],
   "municipios": []
- },
- {
-  "id": "88ae4793542a36",
-  "titulo": "Effectiveness of Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine in Children Aged 6 Months-6 Years During a Statewide Pertussis Outbreak - Alaska, May-November 2024",
-  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766649",
-  "fonte_id": "cdc-mmwr",
-  "fonte": "CDC | MMWR",
-  "sigla": "CDC",
-  "idioma": "en",
-  "data": "2026-10-15",
-  "data_estimada": false,
-  "se": "2026-41",
-  "descricao": "This report describes effectiveness of the diphtheria and tetanus toxoids and acellular pertussis vaccination series during a statewide pertussis outbreak in Alaska during 2024.",
-  "coletado_em": "2026-10-16T13:26:18+00:00",
-  "municipios": [],
-  "pontuacao": 2.0,
-  "agravos": [
-   "Difteria",
-   "Coqueluche"
-  ],
-  "escopo": "Internacional",
-  "termos_evento": [
-   "outbreak"
-  ]
  },
  {
   "id": "8586dd9a6562e5",
@@ -3459,6 +3600,53 @@
   "escopo": "Internacional",
   "termos_evento": [],
   "link_tentado": true
+ },
+ {
+  "id": "88ae4793542a36",
+  "titulo": "Effectiveness of Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine in Children Aged 6 Months-6 Years During a Statewide Pertussis Outbreak - Alaska, May-November 2024",
+  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766649",
+  "fonte_id": "cdc-mmwr",
+  "fonte": "CDC | MMWR",
+  "sigla": "CDC",
+  "idioma": "en",
+  "data": "2026-10-15",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "This report describes effectiveness of the diphtheria and tetanus toxoids and acellular pertussis vaccination series during a statewide pertussis outbreak in Alaska during 2024.",
+  "coletado_em": "2026-10-16T13:26:18+00:00",
+  "municipios": [],
+  "pontuacao": 2.0,
+  "agravos": [
+   "Difteria",
+   "Coqueluche"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [
+   "outbreak"
+  ]
+ },
+ {
+  "id": "b5c9b8d2404286",
+  "titulo": "Notes from the Field: Dengue Outbreak - U.S. Virgin Islands, January 2024-June 2025",
+  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766650",
+  "fonte_id": "cdc-mmwr",
+  "fonte": "CDC | MMWR",
+  "sigla": "CDC",
+  "idioma": "en",
+  "data": "2026-10-15",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "This report describes the response to a dengue virus outbreak in the U.S. Virgin Islands during 2024-2025.",
+  "coletado_em": "2026-10-16T13:26:18+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [
+   "Dengue"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [
+   "outbreak"
+  ]
  },
  {
   "id": "ea0674188119d6",
@@ -6756,29 +6944,6 @@
   "municipios": []
  },
  {
-  "id": "578a629e4d17d8",
-  "titulo": "Notes from the Field: Fatal Pneumonic Plague - Coconino County, Arizona, July 2025",
-  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766556",
-  "fonte_id": "cdc-mmwr",
-  "fonte": "CDC | MMWR",
-  "sigla": "CDC",
-  "idioma": "en",
-  "data": "2026-10-01",
-  "data_estimada": false,
-  "se": "2026-39",
-  "descricao": "This report describes a case of fatal pneumonic plague reported in Arizona during 2025.",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 0.0,
-  "agravos": [
-   "Peste"
-  ],
-  "escopo": "Internacional",
-  "termos_evento": [
-   "fatal"
-  ],
-  "municipios": []
- },
- {
   "id": "a0499f2f5019bc",
   "titulo": "Health Ministers approve new regional strategy to prevent and control dengue and other arboviral diseases in the Americas",
   "url": "https://www.paho.org/en/news/1-10-2026-health-ministers-approve-new-regional-strategy-prevent-and-control-dengue-and-other",
@@ -6862,6 +7027,29 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreaks"
+  ],
+  "municipios": []
+ },
+ {
+  "id": "578a629e4d17d8",
+  "titulo": "Notes from the Field: Fatal Pneumonic Plague - Coconino County, Arizona, July 2025",
+  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766556",
+  "fonte_id": "cdc-mmwr",
+  "fonte": "CDC | MMWR",
+  "sigla": "CDC",
+  "idioma": "en",
+  "data": "2026-10-01",
+  "data_estimada": false,
+  "se": "2026-39",
+  "descricao": "This report describes a case of fatal pneumonic plague reported in Arizona during 2025.",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 0.0,
+  "agravos": [
+   "Peste"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [
+   "fatal"
   ],
   "municipios": []
  },
@@ -7351,29 +7539,6 @@
   "municipios": []
  },
  {
-  "id": "85c13df082a1a9",
-  "titulo": "Notes from the Field: The First 100 Days of Five Ebola Outbreaks - Democratic Republic of the Congo, Uganda, and West Africa, 2007-2026",
-  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766447",
-  "fonte_id": "cdc-mmwr",
-  "fonte": "CDC | MMWR",
-  "sigla": "CDC",
-  "idioma": "en",
-  "data": "2026-09-24",
-  "data_estimada": false,
-  "se": "2026-38",
-  "descricao": "This report describes the first 100 days of the 2026 Ebola outbreak in the Democratic Republic of the Congo compared to other Ebola outbreaks.",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.5,
-  "agravos": [
-   "Doença pelo vírus Ebola"
-  ],
-  "escopo": "Internacional",
-  "termos_evento": [
-   "outbreaks"
-  ],
-  "municipios": []
- },
- {
   "id": "8ac053df2fb1a3",
   "titulo": "Hepatitis A Outbreak Associated with Cuba - Florida, June 2024-February 2026",
   "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766503",
@@ -7393,6 +7558,29 @@
   "escopo": "Américas",
   "termos_evento": [
    "outbreak"
+  ],
+  "municipios": []
+ },
+ {
+  "id": "85c13df082a1a9",
+  "titulo": "Notes from the Field: The First 100 Days of Five Ebola Outbreaks - Democratic Republic of the Congo, Uganda, and West Africa, 2007-2026",
+  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766447",
+  "fonte_id": "cdc-mmwr",
+  "fonte": "CDC | MMWR",
+  "sigla": "CDC",
+  "idioma": "en",
+  "data": "2026-09-24",
+  "data_estimada": false,
+  "se": "2026-38",
+  "descricao": "This report describes the first 100 days of the 2026 Ebola outbreak in the Democratic Republic of the Congo compared to other Ebola outbreaks.",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 4.5,
+  "agravos": [
+   "Doença pelo vírus Ebola"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [
+   "outbreaks"
   ],
   "municipios": []
  },
@@ -8405,27 +8593,6 @@
   "municipios": []
  },
  {
-  "id": "84fc7d700f5449",
-  "titulo": "Notes from the Field: Misidentification of a Specimen as Neisseria meningitidis During a University Classroom Laboratory Exercise - Utah, 2025",
-  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766071",
-  "fonte_id": "cdc-mmwr",
-  "fonte": "CDC | MMWR",
-  "sigla": "CDC",
-  "idioma": "en",
-  "data": "2026-07-23",
-  "data_estimada": false,
-  "se": "2026-29",
-  "descricao": "This report describes a suspected exposure to Neisseria meningitidis during a university laboratory exercise.",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 0.0,
-  "agravos": [
-   "Doença meningocócica e meningites"
-  ],
-  "escopo": "Internacional",
-  "termos_evento": [],
-  "municipios": []
- },
- {
   "id": "c383fa6b966aec",
   "titulo": "Progress Toward Rubella and Congenital Rubella Syndrome Elimination - Worldwide, 2012-2024",
   "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766070",
@@ -8441,6 +8608,27 @@
   "pontuacao": 1.0,
   "agravos": [
    "Rubéola"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [],
+  "municipios": []
+ },
+ {
+  "id": "84fc7d700f5449",
+  "titulo": "Notes from the Field: Misidentification of a Specimen as Neisseria meningitidis During a University Classroom Laboratory Exercise - Utah, 2025",
+  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766071",
+  "fonte_id": "cdc-mmwr",
+  "fonte": "CDC | MMWR",
+  "sigla": "CDC",
+  "idioma": "en",
+  "data": "2026-07-23",
+  "data_estimada": false,
+  "se": "2026-29",
+  "descricao": "This report describes a suspected exposure to Neisseria meningitidis during a university laboratory exercise.",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 0.0,
+  "agravos": [
+   "Doença meningocócica e meningites"
   ],
   "escopo": "Internacional",
   "termos_evento": [],
@@ -9076,30 +9264,6 @@
   "municipios": []
  },
  {
-  "id": "4f5961dd404328",
-  "titulo": "QuickStats: Age-Adjusted Colorectal Cancer Death Rates, by State - United States, 2024",
-  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765815",
-  "fonte_id": "cdc-mmwr",
-  "fonte": "CDC | MMWR",
-  "sigla": "CDC",
-  "idioma": "en",
-  "data": "2026-06-11",
-  "data_estimada": false,
-  "se": "2026-23",
-  "descricao": "This report describes a large outbreak of Bundibugyo virus disease identified in the Democratic Republic of the Congo and Uganda.",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.0,
-  "agravos": [
-   "Doença pelo vírus Ebola"
-  ],
-  "escopo": "Américas",
-  "termos_evento": [
-   "outbreak",
-   "death"
-  ],
-  "municipios": []
- },
- {
   "id": "3b19225689a868",
   "titulo": "Modeled Scenario Projections for the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026",
   "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765739",
@@ -9142,6 +9306,51 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
+  ],
+  "municipios": []
+ },
+ {
+  "id": "2e0a2d796cd285",
+  "titulo": "Rapid scientific advice – Risk of Bundibugyo virus transmission through substances of human origin in the European Union/European Economic Area (EU/EEA)",
+  "url": "https://www.ecdc.europa.eu/en/publications-data/risk-bundibugyo-virus-transmission-through-substances-human-origin-european",
+  "fonte_id": "ecdc-avaliacoes",
+  "fonte": "ECDC | Risk assessments",
+  "sigla": "ECDC",
+  "idioma": "en",
+  "data": "2026-06-11",
+  "data_estimada": false,
+  "se": "2026-23",
+  "descricao": "The overall risk of Bundibugyo virus transmission through substances of human origin (SoHO) in the European Union/European Economic Area (EU/EEA) is currently assessed as very low.",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 7.5,
+  "agravos": [
+   "Doença pelo vírus Ebola"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [],
+  "municipios": []
+ },
+ {
+  "id": "4f5961dd404328",
+  "titulo": "QuickStats: Age-Adjusted Colorectal Cancer Death Rates, by State - United States, 2024",
+  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765815",
+  "fonte_id": "cdc-mmwr",
+  "fonte": "CDC | MMWR",
+  "sigla": "CDC",
+  "idioma": "en",
+  "data": "2026-06-11",
+  "data_estimada": false,
+  "se": "2026-23",
+  "descricao": "This report describes a large outbreak of Bundibugyo virus disease identified in the Democratic Republic of the Congo and Uganda.",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 5.0,
+  "agravos": [
+   "Doença pelo vírus Ebola"
+  ],
+  "escopo": "Américas",
+  "termos_evento": [
+   "outbreak",
+   "death"
   ],
   "municipios": []
  },
@@ -9189,27 +9398,6 @@
   "termos_evento": [
    "outbreak"
   ],
-  "municipios": []
- },
- {
-  "id": "2e0a2d796cd285",
-  "titulo": "Rapid scientific advice – Risk of Bundibugyo virus transmission through substances of human origin in the European Union/European Economic Area (EU/EEA)",
-  "url": "https://www.ecdc.europa.eu/en/publications-data/risk-bundibugyo-virus-transmission-through-substances-human-origin-european",
-  "fonte_id": "ecdc-avaliacoes",
-  "fonte": "ECDC | Risk assessments",
-  "sigla": "ECDC",
-  "idioma": "en",
-  "data": "2026-06-11",
-  "data_estimada": false,
-  "se": "2026-23",
-  "descricao": "The overall risk of Bundibugyo virus transmission through substances of human origin (SoHO) in the European Union/European Economic Area (EU/EEA) is currently assessed as very low.",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.5,
-  "agravos": [
-   "Doença pelo vírus Ebola"
-  ],
-  "escopo": "Internacional",
-  "termos_evento": [],
   "municipios": []
  },
  {
@@ -10046,27 +10234,6 @@
   "municipios": []
  },
  {
-  "id": "b2f808430ed1af",
-  "titulo": "Notes from the Field: Contact Tracing for Monkeypox virus Clade I Cases Associated with Air Travel - United States, November 2024-January 2025",
-  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765133",
-  "fonte_id": "cdc-mmwr",
-  "fonte": "CDC | MMWR",
-  "sigla": "CDC",
-  "idioma": "en",
-  "data": "2026-04-23",
-  "data_estimada": false,
-  "se": "2026-16",
-  "descricao": "This report describes contact tracing following mpox exposures during commercial air travel.",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 0.0,
-  "agravos": [
-   "Mpox"
-  ],
-  "escopo": "Américas",
-  "termos_evento": [],
-  "municipios": []
- },
- {
   "id": "a048218155ff03",
   "titulo": "Influenza Vaccination Coverage Among Nursing Home Residents and Health Care Personnel - United States, 2024-25 Influenza Season",
   "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765132",
@@ -10083,6 +10250,27 @@
   "agravos": [
    "Influenza e vírus respiratórios",
    "Imunização"
+  ],
+  "escopo": "Américas",
+  "termos_evento": [],
+  "municipios": []
+ },
+ {
+  "id": "b2f808430ed1af",
+  "titulo": "Notes from the Field: Contact Tracing for Monkeypox virus Clade I Cases Associated with Air Travel - United States, November 2024-January 2025",
+  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765133",
+  "fonte_id": "cdc-mmwr",
+  "fonte": "CDC | MMWR",
+  "sigla": "CDC",
+  "idioma": "en",
+  "data": "2026-04-23",
+  "data_estimada": false,
+  "se": "2026-16",
+  "descricao": "This report describes contact tracing following mpox exposures during commercial air travel.",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 0.0,
+  "agravos": [
+   "Mpox"
   ],
   "escopo": "Américas",
   "termos_evento": [],
@@ -10596,27 +10784,6 @@
   "municipios": []
  },
  {
-  "id": "089ea3e0f52219",
-  "titulo": "COVID-19 Antiviral Prescription Receipt Among Outpatients Aged ≥65 Years - United States, June 1, 2023-September 30, 2025",
-  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=763660",
-  "fonte_id": "cdc-mmwr",
-  "fonte": "CDC | MMWR",
-  "sigla": "CDC",
-  "idioma": "en",
-  "data": "2026-02-19",
-  "data_estimada": false,
-  "se": "2026-07",
-  "descricao": "This report describes receipt of COVID-19 antiviral prescriptions among outpatients aged 65 and older from June 1, 2023-September 30, 2025.",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 2.0,
-  "agravos": [
-   "COVID-19"
-  ],
-  "escopo": "Américas",
-  "termos_evento": [],
-  "municipios": []
- },
- {
   "id": "07bfb600fe81d8",
   "titulo": "Multi-country foodborne event caused by cereulide in infant formula products",
   "url": "https://www.ecdc.europa.eu/en/publications-data/multi-country-foodborne-event-caused-cereulide-infant-formula-products",
@@ -10634,6 +10801,27 @@
    "Doenças transmitidas por alimentos e água"
   ],
   "escopo": "Internacional",
+  "termos_evento": [],
+  "municipios": []
+ },
+ {
+  "id": "089ea3e0f52219",
+  "titulo": "COVID-19 Antiviral Prescription Receipt Among Outpatients Aged ≥65 Years - United States, June 1, 2023-September 30, 2025",
+  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=763660",
+  "fonte_id": "cdc-mmwr",
+  "fonte": "CDC | MMWR",
+  "sigla": "CDC",
+  "idioma": "en",
+  "data": "2026-02-19",
+  "data_estimada": false,
+  "se": "2026-07",
+  "descricao": "This report describes receipt of COVID-19 antiviral prescriptions among outpatients aged 65 and older from June 1, 2023-September 30, 2025.",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 2.0,
+  "agravos": [
+   "COVID-19"
+  ],
+  "escopo": "Américas",
   "termos_evento": [],
   "municipios": []
  },
@@ -10970,6 +11158,50 @@
   "municipios": []
  },
  {
+  "id": "257b42d29c0c22",
+  "titulo": "Human Rabies Deaths - Minnesota and California, 2024",
+  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=762976",
+  "fonte_id": "cdc-mmwr",
+  "fonte": "CDC | MMWR",
+  "sigla": "CDC",
+  "idioma": "en",
+  "data": "2026-01-15",
+  "data_estimada": false,
+  "se": "2026-02",
+  "descricao": "This report describes a human rabies case with a delayed diagnosis that led to health care provider exposures in two states: Kentucky and Ohio.",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 3.5,
+  "agravos": [
+   "Raiva"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [
+   "deaths"
+  ],
+  "municipios": []
+ },
+ {
+  "id": "64e393667511fd",
+  "titulo": "Imported Human Rabies - Kentucky and Ohio, 2024",
+  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=762975",
+  "fonte_id": "cdc-mmwr",
+  "fonte": "CDC | MMWR",
+  "sigla": "CDC",
+  "idioma": "en",
+  "data": "2026-01-15",
+  "data_estimada": false,
+  "se": "2026-02",
+  "descricao": "This report describes a human rabies case with a delayed diagnosis that led to health care provider exposures in two states: Kentucky and Ohio.",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 2.0,
+  "agravos": [
+   "Raiva"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [],
+  "municipios": []
+ },
+ {
   "id": "53183af1b71f52",
   "titulo": "Notes from the Field: Wastewater Surveillance for Measles Virus During a Measles Outbreak - Colorado, August 2025",
   "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=762974",
@@ -11014,50 +11246,6 @@
   "termos_evento": [
    "outbreak"
   ],
-  "municipios": []
- },
- {
-  "id": "257b42d29c0c22",
-  "titulo": "Human Rabies Deaths - Minnesota and California, 2024",
-  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=762976",
-  "fonte_id": "cdc-mmwr",
-  "fonte": "CDC | MMWR",
-  "sigla": "CDC",
-  "idioma": "en",
-  "data": "2026-01-15",
-  "data_estimada": false,
-  "se": "2026-02",
-  "descricao": "This report describes a human rabies case with a delayed diagnosis that led to health care provider exposures in two states: Kentucky and Ohio.",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 3.5,
-  "agravos": [
-   "Raiva"
-  ],
-  "escopo": "Internacional",
-  "termos_evento": [
-   "deaths"
-  ],
-  "municipios": []
- },
- {
-  "id": "64e393667511fd",
-  "titulo": "Imported Human Rabies - Kentucky and Ohio, 2024",
-  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=762975",
-  "fonte_id": "cdc-mmwr",
-  "fonte": "CDC | MMWR",
-  "sigla": "CDC",
-  "idioma": "en",
-  "data": "2026-01-15",
-  "data_estimada": false,
-  "se": "2026-02",
-  "descricao": "This report describes a human rabies case with a delayed diagnosis that led to health care provider exposures in two states: Kentucky and Ohio.",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 2.0,
-  "agravos": [
-   "Raiva"
-  ],
-  "escopo": "Internacional",
-  "termos_evento": [],
   "municipios": []
  },
  {
