@@ -10,6 +10,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 from . import fotos, ia, icones, mapas, semana
 from .pontuar import limiares
+from .util import normalizar
 from .util import (ARQ_NOTICIAS, DIR_EDICOES_DADOS, DIR_EDICOES_PDF, DOCS, NOME_ESCOPO, ORDEM_ESCOPO, RAIZ,
                    TEMPLATES, carregar_yaml, data_curta, data_extenso, ler_json, log, para_data,
                    salvar_json, sem_travessao, sessao_http)
@@ -29,6 +30,38 @@ def _texto_completo(url: str, s) -> tuple[str, str]:
 
 def _dominio(url: str) -> str:
     return urlsplit(url).netloc.replace("www.", "")
+
+
+_VAZIAS = set("""a o as os de da do das dos e em no na nos nas um uma para por com sem sobre apos ate entre que
+se sua seu mais menos neste nesta este esta esse essa pela pelo pelas pelos ao aos the of in and to for on at
+with from after by is are was new novo nova novos novas casos caso cases case saude health brasil brazil""".split())
+
+
+def _palavras(titulo: str) -> set[str]:
+    return {w for w in normalizar(titulo).replace("-", " ").split()
+            if (len(w) >= 4 or w.isdigit()) and w not in _VAZIAS}
+
+
+def _agrupar_eventos(candidatos: list[dict]) -> None:
+    """Sem IA: notícias do mesmo agravo que compartilham ao menos duas palavras significativas no título
+    (ex.: \"alagamentos na 26 de Setembro\") são tratadas como o mesmo evento; fica a de maior nota."""
+    vistos: list[tuple[str, set[str], str]] = []
+    for c in candidatos:
+        pal = _palavras(c["titulo"])
+        for agravo, pal_ref, chave in vistos:
+            if agravo == c["agravo_final"] and len(pal & pal_ref) >= 2:
+                c["evento"] = chave
+                break
+        else:
+            vistos.append((c["agravo_final"], pal, c["evento"]))
+
+
+def _na_cota(c: dict, escopos: set, agravos: set, termos: list[str] = ()) -> bool:
+    if escopos and (c.get("escopo_final") or c["escopo"]) in escopos:
+        return True
+    if termos and any(t in normalizar(c["titulo"]) for t in termos):
+        return True
+    return bool(agravos) and (c["agravo_final"] in agravos or bool(agravos & set(c.get("agravos", []))))
 
 
 def _selecionar(itens: list[dict], cfg: dict) -> tuple[list[dict], list[dict], bool]:
@@ -60,15 +93,44 @@ def _selecionar(itens: list[dict], cfg: dict) -> tuple[list[dict], list[dict], b
         candidatos = [c for c in candidatos if (c["nota_ia"] or 0) >= nota_min]
         candidatos.sort(key=lambda c: ((c["nota_ia"] or 0), c["pontuacao"]), reverse=True)
 
+    if not usou_ia:
+        _agrupar_eventos(candidatos)
+
     destaques, eventos, por_agravo = [], set(), Counter()
-    for c in candidatos:
-        if c["evento"] in eventos or por_agravo[c["agravo_final"]] >= max_agravo:
-            continue
+    grupos = {a: (g["nome"], int(g.get("maximo", max_agravo))) for g in c_clip.get("grupos", []) for a in g["agravos"]}
+
+    def _grupo(c) -> tuple[str, int]:
+        return grupos.get(c["agravo_final"], (c["agravo_final"], max_agravo))
+
+    def _cabe(c) -> bool:
+        nome, teto = _grupo(c)
+        return c["evento"] not in eventos and por_agravo[nome] < teto and c not in destaques
+
+    def _incluir(c) -> None:
         destaques.append(c)
         eventos.add(c["evento"])
-        por_agravo[c["agravo_final"]] += 1
+        por_agravo[_grupo(c)[0]] += 1
+
+    # 1) Vagas garantidas por tema (DF, vírus respiratórios, clima e desastres)
+    for cota in c_clip.get("cotas", []):
+        escopos, agravos = set(cota.get("escopo", [])), set(cota.get("agravos", []))
+        termos = [normalizar(t) for t in cota.get("termos", [])]
+        alvo = int(cota.get("minimo", 1))
+        atendidos = sum(1 for d in destaques if _na_cota(d, escopos, agravos, termos))
+        for c in candidatos:
+            if atendidos >= alvo or len(destaques) >= n_dest:
+                break
+            if _na_cota(c, escopos, agravos, termos) and _cabe(c):
+                _incluir(c)
+                atendidos += 1
+    # 2) Demais vagas pela ordem de relevância
+    for c in candidatos:
         if len(destaques) >= n_dest:
             break
+        if _cabe(c):
+            _incluir(c)
+    ordem = {id(c): i for i, c in enumerate(candidatos)}
+    destaques.sort(key=lambda c: ordem[id(c)])
 
     ids = {d["id"] for d in destaques}
     outras = sorted((n for n in itens if n["id"] not in ids and n["pontuacao"] >= limiar_feed),

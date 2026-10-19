@@ -62,10 +62,14 @@ agravos:
   - {nome: "Varicela e caxumba", icone: virus, peso: 2, termos: [varicela, chickenpox, caxumba, mumps, parotidite]}
   - {nome: "Doença de Creutzfeldt-Jakob", icone: saude, peso: 3, termos: [creutzfeldt, "doenca da vaca louca", "prion"]}
   - {nome: "Imunização", icone: vacina, peso: 2, termos: ["cobertura vacinal", "vaccination coverage", "campanha de vacinacao", "vaccination campaign", esavi, "evento adverso pos-vacinacao", "vaccine-derived", imunizacao, immunization]}
-  - {nome: "Emergências e desastres", icone: desastre, peso: 2, termos: [terremoto, earthquake, sismo, inundacao, enchente, flood, furacao, hurricane, deslizamento, "desastre", disaster, "crise humanitaria", "humanitarian crisis"]}
-  - {nome: "Saúde ambiental e clima", icone: clima, peso: 2, termos: ["onda de calor", "heat wave", heatwave, "calor extremo", "extreme heat", queimadas, wildfire, "qualidade do ar", "air quality", "fumaca", "el nino", "la nina", seca, drought, "incendio florestal", "incendios florestais", "incendio em vegetacao", "incendio em area de vegetacao", "incendios em vegetacao", "focos de calor", "focos de incendio", brigadistas, "baixa umidade", "umidade relativa", "chuva intensa", "chuvas intensas", "chuvas fortes", temporal, temporais, tempestade, tempestades, ciclone, granizo, estiagem, alagamento, alagamentos, "risco geo-hidrologico", "risco hidrologico", "risco geologico", "alerta meteorologico", "aviso meteorologico", "temperaturas elevadas", "altas temperaturas"]}
+  - {nome: "Emergências e desastres", icone: desastre, peso: 4, termos: [alagamento, alagamentos, alagada, alagadas, alagado, desabrigados, desalojados, desabamento, vendaval, "temporal", temporais, granizo, "estado de calamidade", terremoto, earthquake, sismo, inundacao, enchente, flood, furacao, hurricane, deslizamento, "desastre", disaster, "crise humanitaria", "humanitarian crisis"]}
+  - {nome: "Saúde ambiental e clima", icone: clima, peso: 3, termos: ["onda de calor", "heat wave", heatwave, "calor extremo", "extreme heat", queimadas, wildfire, "qualidade do ar", "air quality", "fumaca", "el nino", "la nina", seca, drought, "incendio florestal", "incendios florestais", "incendio em vegetacao", "incendio em area de vegetacao", "incendios em vegetacao", "focos de calor", "focos de incendio", brigadistas, "baixa umidade", "umidade relativa", "chuva intensa", "chuvas intensas", "chuvas fortes", temporal, temporais, tempestade, tempestades, ciclone, granizo, estiagem, alagamento, alagamentos, "risco geo-hidrologico", "risco hidrologico", "risco geologico", "alerta meteorologico", "aviso meteorologico", "temperaturas elevadas", "altas temperaturas"]}
 
 eventos:
+  # Ocorrência concreta de desastre ou evento climático com impacto na população
+  - {peso: 2.5, termos: [alagamento, alagamentos, alagada, alagadas, enchente, enchentes, inundacao, inundacoes, desabrigados, desalojados, estragos, destruicao, desabamento, deslizamento, deslizamentos, "queda de arvores", "arvores caidas", granizo, vendaval, "estado de calamidade", "situacao de emergencia", "onda de calor", "baixa umidade"]}
+  # Atualização da situação: boletins, informes e alertas oficiais (o que mudou na semana)
+  - {peso: 2, termos: [boletim, "informe epidemiologico", "nota tecnica", "nota informativa", infogripe, "nivel de alerta", "nivel de risco", tendencia, "situacao epidemiologica", "cenario epidemiologico", "alerta para", "emite alerta", "aviso meteorologico", "alerta meteorologico", previsao]}
   - {peso: 3, termos: ["emergencia de saude publica", "public health emergency", pheic, espii, "emergency committee", "comite de emergencia", "regulamento sanitario internacional", "international health regulations"]}
   - {peso: 2.5, termos: [surto, surtos, outbreak, outbreaks, brote, brotes, epidemia, epidemic, "disease outbreak news", cluster, conglomerado]}
   - {peso: 2, termos: ["alerta epidemiologico", "epidemiological alert", "health alert", "atualizacao epidemiologica", "epidemiological update", "alerta sanitario", "rapid risk assessment", "avaliacao de risco", "risk assessment", "threat assessment"]}
@@ -76,7 +80,7 @@ eventos:
 
 localidades:
   DF:
-    peso: 4
+    peso: 6
     termos: ["distrito federal", brasilia, "do df", "no df", "da df", "ses-df", "gdf", ceilandia, taguatinga, samambaia, planaltina, "recanto das emas", brazlandia, paranoa, "riacho fundo", "vicente pires", "aguas claras", "sol nascente", "lago norte", "lago sul", "nucleo bandeirante", "park way", fercal, arniqueira]
   Brasil:
     peso: 3
@@ -85,7 +89,10 @@ localidades:
     peso: 2
     termos: [americas, "regiao das americas", "region of the americas", opas, paho, argentina, bolivia, chile, colombia, ecuador, guyana, guiana, paraguay, paraguai, peru, suriname, uruguay, uruguai, venezuela, mexico, "united states", "estados unidos", canada, guatemala, honduras, "el salvador", nicaragua, "costa rica", panama, cuba, haiti, "dominican republic", "republica dominicana", jamaica, "puerto rico", caribbean, caribe]
 
-# Termos que indicam conteúdo institucional sem interesse epidemiológico
+# Termos que indicam conteúdo sem ocorrência nova (institucional, estudos, programas, explicativos)
 ajustes:
+  - {peso: -3, termos: [estudo, estudos, pesquisa, pesquisas, pesquisadores, study, studies, researchers, artigo, "ensaio clinico", "clinical trial", efetividade, effectiveness, metodologia, seminario, capacitacao, capacita, capacitar, oficina, treinamento, "dia mundial", "dia nacional", mutirao, implantacao, implanta, implantada, implantado, lancamento, lanca, intensifica, "pede apoio", mobilizacao]}
+  # Matérias explicativas: perdem menos, porque às vezes trazem um dado novo no título
+  - {peso: -1.5, termos: [entenda, saiba, "tire duvidas", mitos, "diz especialista", "dizem especialistas", "what to know", explainer]}
   - {peso: -4, termos: [licitacao, "call for tenders", procurement, vacancy, vacancies, "job opening", concurso, "processo seletivo", edital]}
   - {peso: -2, termos: [webinar, podcast, premio, award, "prize", nomeacao, appointed, "director-general candidates", posse, inauguracao, inaugura, aniversario, anniversary, curso, course, "toolkit", "save the date"]}

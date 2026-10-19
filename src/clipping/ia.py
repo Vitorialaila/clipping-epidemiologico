@@ -21,7 +21,7 @@ URL_GEMINI = "https://generativelanguage.googleapis.com/v1beta/models/{modelo}:g
 
 CONTEXTO = (
     "Você apoia a equipe de uma Residência Multiprofissional em Vigilância em Saúde no Distrito Federal, "
-    "Brasil, na produção de um clipping epidemiológico semanal baseado exclusivamente em fontes oficiais. "
+    "Brasil, na produção de um clipping epidemiológico semanal baseado em fontes oficiais e de sinal precoce. "
     "O público é formado por profissionais de vigilância epidemiológica."
 )
 
@@ -170,14 +170,19 @@ def triar(candidatos: list[dict]) -> dict[str, dict]:
     } for c in candidatos]
     sistema = CONTEXTO + " Sua tarefa agora é triar notícias por relevância epidemiológica."
     usuario = (
-        "Avalie cada notícia abaixo e atribua uma nota de 0 a 10 de relevância epidemiológica para o "
-        "clipping da semana. Critérios, em ordem de importância: (1) risco ou impacto para o Brasil e o "
-        "Distrito Federal; (2) evento novo, inusitado ou com potencial de emergência de saúde pública "
-        "de importância internacional; (3) agravo de notificação imediata ou compulsória; (4) magnitude "
-        "e mudança recente na situação (aumento de casos, óbitos, novos países ou territórios); "
-        "(5) alertas, avaliações de risco e atualizações epidemiológicas oficiais. Dê notas baixas (0 a 3) "
-        "a notícias institucionais, parcerias, eventos, capacitações, prêmios, campanhas genéricas de "
-        "promoção da saúde e publicações sem um evento epidemiológico concreto.\n\n"
+        "O clipping é lido por gestores de vigilância em saúde do Distrito Federal e deve responder à "
+        "pergunta: com o que devo me preocupar nesta semana? Avalie cada notícia abaixo e atribua uma nota "
+        "de 0 a 10 conforme ela ajude a responder essa pergunta. Critérios, em ordem de importância: "
+        "(1) ocorrência concreta no Distrito Federal ou no seu entorno, inclusive desastres e eventos "
+        "climáticos com impacto na população (alagamentos, temporais, calor extremo, baixa umidade, "
+        "queimadas); (2) evento novo, inusitado ou com potencial de emergência de saúde pública de "
+        "importância internacional; (3) mudança na situação de agravos acompanhados de perto, como "
+        "atualizações de SRAG e vírus respiratórios (InfoGripe, boletins), arboviroses, sarampo e El Niño; "
+        "(4) novos boletins, alertas, notas técnicas e avaliações de risco oficiais; (5) magnitude "
+        "(aumento de casos, óbitos, novos países ou territórios). Dê notas baixas (0 a 3) a estudos e "
+        "pesquisas, matérias explicativas, implantação de programas ou metodologias, seminários, "
+        "capacitações, campanhas genéricas, notícias institucionais e publicações sem um evento ou "
+        "mudança de situação concreta.\n\n"
         "Para cada notícia, informe também: agravo (nome curto em português), escopo (um entre DF, "
         "Brasil, Américas, Internacional, conforme o local do evento) e evento (uma chave curta, em "
         "minúsculas e com hífens, que seja idêntica para notícias que tratam do mesmo evento, por "

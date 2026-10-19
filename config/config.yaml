@@ -34,6 +34,17 @@ clipping:
   max_por_agravo: 2
   # Notícias adicionais sem resumo (não aparecem no PDF; ficam só nos dados da edição)
   outras_noticias: 12
+  # Vagas garantidas: o clipping responde "com o que devo me preocupar?". Se houver notícia com nota
+  # mínima sobre o tema na semana, a melhor delas entra nos destaques antes das demais.
+  cotas:
+    - {nome: "Distrito Federal", escopo: [DF], minimo: 2}
+    - {nome: "Vírus respiratórios e SRAG", agravos: ["Influenza e vírus respiratórios", "COVID-19", "Síndrome respiratória e coronavírus emergentes", "Influenza por novo subtipo"], minimo: 1}
+    - {nome: "Clima e desastres", agravos: ["Saúde ambiental e clima", "Emergências e desastres"], minimo: 1}
+    - {nome: "El Niño", termos: ["el nino", "la nina"], minimo: 1}
+    - {nome: "Sarampo", agravos: ["Sarampo"], minimo: 1}
+  # Agravos tratados como um só grupo no limite por agravo (máximo de destaques do grupo)
+  grupos:
+    - {nome: "Clima e desastres", agravos: ["Saúde ambiental e clima", "Emergências e desastres"], maximo: 3}
 
 imagens:
   # Fotos das notícias só são usadas quando a fonte publica sob licença que permite reutilização.
@@ -134,7 +145,7 @@ fontes:
     sigla: "CDC"
     tipo: rss
     url: "https://tools.cdc.gov/api/v2/resources/media/342778.rss"
-    peso: 1.5
+    peso: 0.5  # publicação científica semanal, com relatos retrospectivos: pesa menos que alertas
     idioma: en
 
   - id: africa-cdc

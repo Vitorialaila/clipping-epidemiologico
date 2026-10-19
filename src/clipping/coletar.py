@@ -269,5 +269,4 @@ def repontuar() -> None:
         n.update(pontuar(n["titulo"], n["descricao"], fontes.get(n["fonte_id"], {})))
         n["municipios"] = _municipios_item(n["titulo"], n["descricao"], n["escopo"])
     salvar_json(ARQ_NOTICIAS, noticias)
-    salvar_json(ARQ_NOTICIAS.parent / "coleta_status.json", status)
     log.info("Base repontuada: %d notícias.", len(noticias))

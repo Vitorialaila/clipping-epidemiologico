@@ -13,12 +13,14 @@
   "descricao": "",
   "coletado_em": "2026-10-19T13:18:41+00:00",
   "municipios": [],
-  "pontuacao": 6.5,
+  "pontuacao": 9.5,
   "agravos": [
    "Saúde ambiental e clima"
   ],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [
+   "alerta para"
+  ]
  },
  {
   "id": "38826de39396e8",
@@ -160,10 +162,12 @@
   "municipios": [
    "Distrito Federal"
   ],
-  "pontuacao": 0.0,
+  "pontuacao": 9.5,
   "agravos": [],
   "escopo": "DF",
-  "termos_evento": []
+  "termos_evento": [
+   "destruicao"
+  ]
  },
  {
   "id": "b2e5edd7c56e94",
@@ -181,12 +185,15 @@
   "municipios": [
    "Distrito Federal"
   ],
-  "pontuacao": 7.5,
+  "pontuacao": 14.5,
   "agravos": [
+   "Emergências e desastres",
    "Saúde ambiental e clima"
   ],
   "escopo": "DF",
-  "termos_evento": []
+  "termos_evento": [
+   "alagamentos"
+  ]
  },
  {
   "id": "3f0e10f1d977ab",
@@ -202,7 +209,7 @@
   "descricao": "",
   "coletado_em": "2026-10-18T20:40:43+00:00",
   "municipios": [],
-  "pontuacao": 6.5,
+  "pontuacao": 7.5,
   "agravos": [
    "Saúde ambiental e clima"
   ],
@@ -604,7 +611,7 @@
   "descricao": "",
   "coletado_em": "2026-10-17T09:19:59+00:00",
   "municipios": [],
-  "pontuacao": 7.5,
+  "pontuacao": 4.5,
   "agravos": [
    "Dengue"
   ],
@@ -627,12 +634,15 @@
   "municipios": [
    "Distrito Federal"
   ],
-  "pontuacao": 7.5,
+  "pontuacao": 14.5,
   "agravos": [
+   "Emergências e desastres",
    "Saúde ambiental e clima"
   ],
   "escopo": "DF",
-  "termos_evento": []
+  "termos_evento": [
+   "alagamentos"
+  ]
  },
  {
   "id": "21fac1013f1f42",
@@ -648,7 +658,7 @@
   "descricao": "",
   "coletado_em": "2026-10-17T19:23:40+00:00",
   "municipios": [],
-  "pontuacao": 6.5,
+  "pontuacao": 5.0,
   "agravos": [
    "Sarampo"
   ],
@@ -669,7 +679,7 @@
   "descricao": "",
   "coletado_em": "2026-10-17T09:19:59+00:00",
   "municipios": [],
-  "pontuacao": 3.5,
+  "pontuacao": 2.0,
   "agravos": [
    "Sífilis"
   ],
@@ -1150,12 +1160,13 @@
   "descricao": "O Ministério da Saúde vem monitorando os impactos das queimadas na saúde dos amazonenses e sobre o Sistema Único de Saúde (SUS) na região. A medida ocorre depois que o governo do Amazonas decretou situação de emergência em 36 municípios, no último dia 10, em razão dos incêndios florestais .",
   "coletado_em": "2026-10-16T18:02:51+00:00",
   "municipios": [],
-  "pontuacao": 8.0,
+  "pontuacao": 11.5,
   "agravos": [
    "Saúde ambiental e clima"
   ],
   "escopo": "Brasil",
   "termos_evento": [
+   "situacao de emergencia",
    "situacao de emergencia"
   ]
  },
@@ -1173,7 +1184,7 @@
   "descricao": "Secretaria reforça combate ao mosquito com monitoramento, uso de novas tecnologias, controle químico, distribuição de insumos/equipamentos e qualificação dos profissionais dos municípios goianos",
   "coletado_em": "2026-10-16T18:02:51+00:00",
   "municipios": [],
-  "pontuacao": 8.0,
+  "pontuacao": 5.0,
   "agravos": [
    "Arboviroses"
   ],
@@ -1196,12 +1207,15 @@
   "municipios": [
    "Distrito Federal"
   ],
-  "pontuacao": 7.5,
+  "pontuacao": 14.5,
   "agravos": [
+   "Emergências e desastres",
    "Saúde ambiental e clima"
   ],
   "escopo": "DF",
-  "termos_evento": []
+  "termos_evento": [
+   "granizo"
+  ]
  },
  {
   "id": "9cc08f1cb0fde6",
@@ -1217,7 +1231,7 @@
   "descricao": "Método Wolbachia contra arboviroses começa a ser implantado no Ceará",
   "coletado_em": "2026-10-16T18:02:51+00:00",
   "municipios": [],
-  "pontuacao": 7.5,
+  "pontuacao": 4.5,
   "agravos": [
    "Arboviroses"
   ],
@@ -1238,12 +1252,15 @@
   "descricao": "",
   "coletado_em": "2026-10-16T21:06:09+00:00",
   "municipios": [],
-  "pontuacao": 6.5,
+  "pontuacao": 11.0,
   "agravos": [
+   "Emergências e desastres",
    "Saúde ambiental e clima"
   ],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [
+   "alerta para"
+  ]
  },
  {
   "id": "c59065b16cb567",
@@ -1259,12 +1276,14 @@
   "descricao": "",
   "coletado_em": "2026-10-17T04:23:32+00:00",
   "municipios": [],
-  "pontuacao": 6.5,
+  "pontuacao": 9.5,
   "agravos": [
    "Saúde ambiental e clima"
   ],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [
+   "emite alerta"
+  ]
  },
  {
   "id": "f8e041adf68434",
@@ -1280,12 +1299,14 @@
   "descricao": "",
   "coletado_em": "2026-10-18T14:00:50+00:00",
   "municipios": [],
-  "pontuacao": 6.5,
+  "pontuacao": 9.5,
   "agravos": [
    "Saúde ambiental e clima"
   ],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [
+   "alerta para"
+  ]
  },
  {
   "id": "402851d47548b8",
@@ -1345,7 +1366,7 @@
   "descricao": "",
   "coletado_em": "2026-10-16T23:34:40+00:00",
   "municipios": [],
-  "pontuacao": 3.5,
+  "pontuacao": 4.5,
   "agravos": [
    "Saúde ambiental e clima"
   ],
@@ -1366,7 +1387,7 @@
   "descricao": "",
   "coletado_em": "2026-10-17T04:23:32+00:00",
   "municipios": [],
-  "pontuacao": 3.5,
+  "pontuacao": 4.5,
   "agravos": [
    "Saúde ambiental e clima"
   ],
@@ -1731,7 +1752,9 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "DF",
-  "termos_evento": []
+  "termos_evento": [
+   "alerta para"
+  ]
  },
  {
   "id": "aae0e35b7b5feb",
@@ -2635,7 +2658,7 @@
   "descricao": "This report describes effectiveness of the diphtheria and tetanus toxoids and acellular pertussis vaccination series during a statewide pertussis outbreak in Alaska during 2024.",
   "coletado_em": "2026-10-16T13:26:18+00:00",
   "municipios": [],
-  "pontuacao": 10.0,
+  "pontuacao": 6.0,
   "agravos": [
    "Difteria",
    "Coqueluche"
@@ -2682,12 +2705,14 @@
   "se": "2026-41",
   "descricao": "InfoGripe: apenas Sergipe tem SRAG em nível de alerta e tendência de aumento",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.5,
+  "pontuacao": 9.5,
   "agravos": [
    "Influenza e vírus respiratórios"
   ],
   "escopo": "Brasil",
-  "termos_evento": [],
+  "termos_evento": [
+   "infogripe"
+  ],
   "municipios": []
  },
  {
@@ -2704,7 +2729,7 @@
   "descricao": "This report describes the response to a dengue virus outbreak in the U.S. Virgin Islands during 2024-2025.",
   "coletado_em": "2026-10-16T13:26:18+00:00",
   "municipios": [],
-  "pontuacao": 7.5,
+  "pontuacao": 6.5,
   "agravos": [
    "Dengue"
   ],
@@ -2771,7 +2796,7 @@
   "descricao": "",
   "coletado_em": "2026-10-17T22:17:22+00:00",
   "municipios": [],
-  "pontuacao": 6.5,
+  "pontuacao": 7.5,
   "agravos": [
    "Saúde ambiental e clima"
   ],
@@ -2792,7 +2817,7 @@
   "descricao": "PAHO delivers critical supplies to strengthen emergency care in communities affected by the earthquake in Panama Cristina Mitchell 14 Oct 2026",
   "coletado_em": "2026-10-16T13:26:18+00:00",
   "municipios": [],
-  "pontuacao": 6.0,
+  "pontuacao": 8.0,
   "agravos": [
    "Emergências e desastres"
   ],
@@ -2834,7 +2859,7 @@
   "descricao": "",
   "coletado_em": "2026-10-16T13:28:10+00:00",
   "municipios": [],
-  "pontuacao": 3.5,
+  "pontuacao": 4.5,
   "agravos": [
    "Saúde ambiental e clima"
   ],
@@ -2911,10 +2936,15 @@
   "se": "2026-41",
   "descricao": "Segundo o Centro de Gerenciamento de Emergências Climática da Prefeitura de São Paulo (CGE), a cidade deve enfrentar nesta quinta-feira (14) situação parecida com a desta quarta (13), graças à aproximação de uma frente fria. Entre o final da tarde e início da noite devem ocorrer pancadas de chuva e rajadas de vento em várias regiões da cidade. Além disso, o solo encharcado pela chuva de ontem, mantém elevado o potencial para alagamentos, queda de árvores e deslizamentos de terra.",
   "coletado_em": "2026-10-15T17:33:28+00:00",
-  "pontuacao": 0.0,
-  "agravos": [],
+  "pontuacao": 10.5,
+  "agravos": [
+   "Saúde ambiental e clima",
+   "Emergências e desastres"
+  ],
   "escopo": "Brasil",
-  "termos_evento": [],
+  "termos_evento": [
+   "alagamentos"
+  ],
   "municipios": []
  },
  {
@@ -3288,10 +3318,15 @@
   "municipios": [
    "Distrito Federal"
   ],
-  "pontuacao": 0.0,
-  "agravos": [],
+  "pontuacao": 14.0,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
   "escopo": "DF",
-  "termos_evento": []
+  "termos_evento": [
+   "previsao"
+  ]
  },
  {
   "id": "8dbb10d41244ac",
@@ -3816,7 +3851,7 @@
   "descricao": "",
   "coletado_em": "2026-10-16T13:26:18+00:00",
   "municipios": [],
-  "pontuacao": 9.5,
+  "pontuacao": 8.0,
   "agravos": [
    "Sarampo"
   ],
@@ -3836,7 +3871,7 @@
   "se": "2026-41",
   "descricao": "Quando infectado pela bactéria Wolbachia, o mosquito Aedes aegypti perde a capacidade de transmitir essas doenças e repassa a bactéria para seus descendentes, substituindo gradualmente a população de mosquitos",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 9.0,
+  "pontuacao": 6.0,
   "agravos": [
    "Dengue",
    "Chikungunya",
@@ -3859,7 +3894,7 @@
   "se": "2026-41",
   "descricao": "Encontro promovido na Escola de Saúde Pública reúne profissionais da atenção primária e da vigilância epidemiológica para qualificar assistência e prevenir casos de sífilis congênita",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.0,
+  "pontuacao": 5.0,
   "agravos": [
    "Sífilis"
   ],
@@ -3883,12 +3918,14 @@
   "descricao": "",
   "coletado_em": "2026-10-16T13:26:18+00:00",
   "municipios": [],
-  "pontuacao": 6.5,
+  "pontuacao": 8.0,
   "agravos": [
    "Emergências e desastres"
   ],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [
+   "inundacao"
+  ]
  },
  {
   "id": "7ef12f59ac386a",
@@ -3904,7 +3941,7 @@
   "descricao": "",
   "coletado_em": "2026-10-16T13:34:20+00:00",
   "municipios": [],
-  "pontuacao": 6.5,
+  "pontuacao": 7.5,
   "agravos": [
    "Saúde ambiental e clima"
   ],
@@ -3925,12 +3962,14 @@
   "descricao": "",
   "coletado_em": "2026-10-16T13:34:20+00:00",
   "municipios": [],
-  "pontuacao": 6.5,
+  "pontuacao": 9.5,
   "agravos": [
    "Saúde ambiental e clima"
   ],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [
+   "alerta para"
+  ]
  },
  {
   "id": "8705fbf0ece2c6",
@@ -3946,12 +3985,14 @@
   "descricao": "",
   "coletado_em": "2026-10-17T09:19:59+00:00",
   "municipios": [],
-  "pontuacao": 6.5,
+  "pontuacao": 9.5,
   "agravos": [
    "Saúde ambiental e clima"
   ],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [
+   "alerta para"
+  ]
  },
  {
   "id": "7b04918efc06e1",
@@ -4297,10 +4338,14 @@
   "se": "2026-41",
   "descricao": "Uma parte do reboco do teto do chamado Túnel do Tempo, da Câmara dos Deputados, desabou durante a madrugada desta quarta-feira (14). O túnel forma um corredor que liga o Anexo II da Câmara, onde ficam as comissões permanentes, até o Salão Verde, que é o espaço que dá acesso ao plenário. Não houve feridos e a passagem para funcionários ou visitantes pelo corredor foi fechada. Equipes de engenharia da Câmara estão no local para reparar o dano. Não foi detectado qualquer dano à estrutura do prédio, segundo informou a assessoria de imprensa da Câmara dos Deputados. “A circulação entre o Edifício Principal e o Anexo II deverá ser feita pela área externa. Para facilitar o acesso, o fluxo de pessoas na Chapelaria estará liberado para todos os públicos nesta quarta-feira”, informou a Câmara. O plenário da Câmara dos Deputados tem sessão deliberativa marcada para as 13h55 para debater projetos de lei e decreto legislativo. Confira mais informações sobre o desabamento no Repórter Brasil, da TV Brasil",
   "coletado_em": "2026-10-15T17:33:28+00:00",
-  "pontuacao": 0.0,
-  "agravos": [],
+  "pontuacao": 8.5,
+  "agravos": [
+   "Emergências e desastres"
+  ],
   "escopo": "Brasil",
-  "termos_evento": [],
+  "termos_evento": [
+   "desabamento"
+  ],
   "municipios": []
  },
  {
@@ -4356,7 +4401,7 @@
   "se": "2026-41",
   "descricao": "A poluição do ar provocada por queimadas e incêndios florestais no Amazonas representa um risco à saúde da população, especialmente das comunidades indígenas, que enfrentam dificuldades de acesso aos serviços de saúde. O alerta faze parte de levantamento apresentado por pesquisadores do Observatório de Clima e Saúde da Fundação Oswaldo Cruz (Fiocruz), que reúne dados sobre a concentração de poluentes e a distribuição dos focos de incêndio no estado.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.0,
+  "pontuacao": 5.0,
   "agravos": [
    "Saúde ambiental e clima"
   ],
@@ -4377,12 +4422,14 @@
   "se": "2026-41",
   "descricao": "Nota técnica aborda impactos das queimadas na qualidade do ar e riscos à saúde indígena no Amazonas",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 6.5,
+  "pontuacao": 9.5,
   "agravos": [
    "Saúde ambiental e clima"
   ],
   "escopo": "Brasil",
-  "termos_evento": [],
+  "termos_evento": [
+   "nota tecnica"
+  ],
   "municipios": []
  },
  {
@@ -4399,7 +4446,7 @@
   "descricao": "",
   "coletado_em": "2026-10-16T13:26:18+00:00",
   "municipios": [],
-  "pontuacao": 6.5,
+  "pontuacao": 7.5,
   "agravos": [
    "Saúde ambiental e clima"
   ],
@@ -4420,12 +4467,14 @@
   "descricao": "",
   "coletado_em": "2026-10-16T13:34:20+00:00",
   "municipios": [],
-  "pontuacao": 6.5,
+  "pontuacao": 9.5,
   "agravos": [
    "Saúde ambiental e clima"
   ],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [
+   "alerta para"
+  ]
  },
  {
   "id": "b9277eaa90042e",
@@ -4441,12 +4490,14 @@
   "descricao": "",
   "coletado_em": "2026-10-16T13:34:20+00:00",
   "municipios": [],
-  "pontuacao": 6.5,
+  "pontuacao": 9.5,
   "agravos": [
    "Saúde ambiental e clima"
   ],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [
+   "alerta para"
+  ]
  },
  {
   "id": "591ef29ac343b9",
@@ -4462,7 +4513,7 @@
   "descricao": "",
   "coletado_em": "2026-10-17T19:23:40+00:00",
   "municipios": [],
-  "pontuacao": 6.5,
+  "pontuacao": 7.5,
   "agravos": [
    "Saúde ambiental e clima"
   ],
@@ -4962,12 +5013,14 @@
   "descricao": "",
   "coletado_em": "2026-10-16T13:34:20+00:00",
   "municipios": [],
-  "pontuacao": 6.5,
+  "pontuacao": 9.5,
   "agravos": [
    "Saúde ambiental e clima"
   ],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [
+   "alerta para"
+  ]
  },
  {
   "id": "34bded025058c3",
@@ -4983,12 +5036,14 @@
   "descricao": "",
   "coletado_em": "2026-10-16T23:34:40+00:00",
   "municipios": [],
-  "pontuacao": 6.5,
+  "pontuacao": 9.5,
   "agravos": [
    "Saúde ambiental e clima"
   ],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [
+   "alerta para"
+  ]
  },
  {
   "id": "334a3a13e22de8",
@@ -5082,7 +5137,7 @@
   "descricao": "",
   "coletado_em": "2026-10-16T13:34:20+00:00",
   "municipios": [],
-  "pontuacao": 6.5,
+  "pontuacao": 7.5,
   "agravos": [
    "Saúde ambiental e clima"
   ],
@@ -5103,7 +5158,7 @@
   "descricao": "",
   "coletado_em": "2026-10-16T13:34:20+00:00",
   "municipios": [],
-  "pontuacao": 6.5,
+  "pontuacao": 7.5,
   "agravos": [
    "Saúde ambiental e clima"
   ],
@@ -5124,7 +5179,7 @@
   "descricao": "",
   "coletado_em": "2026-10-16T13:28:10+00:00",
   "municipios": [],
-  "pontuacao": 5.5,
+  "pontuacao": 7.5,
   "agravos": [
    "Emergências e desastres"
   ],
@@ -5145,7 +5200,7 @@
   "descricao": "",
   "coletado_em": "2026-10-17T09:19:59+00:00",
   "municipios": [],
-  "pontuacao": 5.5,
+  "pontuacao": 7.5,
   "agravos": [
    "Emergências e desastres"
   ],
@@ -5190,7 +5245,7 @@
   "se": "2026-40",
   "descricao": "A Agência Nacional de Vigilância Sanitária (Anvisa) autorizou o início de testes em humanos da primeira vacina do mundo contra a malária causada pelo Plasmodium vivax , parasita responsável pela maioria dos casos da doença no país. O imunizante é feito com tecnologia 100% nacional. Em nota, o Ministério da Saúde detalhou que a dose, chamada Vivaxin, é fruto de pesquisas conduzidas pelo Centro de Tecnologia de Vacinas (CTVacinas) da Universidade Federal de Minas Gerais (UFMG). A tecnologia tem incentivo previsto de R$ 12 milhões da pasta para ensaios clínicos de fases I, II e III.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 10.0,
+  "pontuacao": 7.0,
   "agravos": [
    "Malária"
   ],
@@ -5237,7 +5292,7 @@
   "municipios": [
    "Distrito Federal"
   ],
-  "pontuacao": 7.5,
+  "pontuacao": 10.5,
   "agravos": [
    "Saúde ambiental e clima"
   ],
@@ -5299,7 +5354,7 @@
   "se": "2026-40",
   "descricao": "PAHO/WHO coordinates with Ministry of Health to support health response following earthquake in Panama Cristina Mitchell 10 Oct 2026",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 6.0,
+  "pontuacao": 8.0,
   "agravos": [
    "Emergências e desastres"
   ],
@@ -5384,7 +5439,7 @@
   "descricao": "",
   "coletado_em": "2026-10-16T13:28:10+00:00",
   "municipios": [],
-  "pontuacao": 5.5,
+  "pontuacao": 7.5,
   "agravos": [
    "Emergências e desastres"
   ],
@@ -5405,7 +5460,7 @@
   "descricao": "",
   "coletado_em": "2026-10-16T13:34:20+00:00",
   "municipios": [],
-  "pontuacao": 5.5,
+  "pontuacao": 7.5,
   "agravos": [
    "Emergências e desastres"
   ],
@@ -5583,13 +5638,15 @@
   "se": "2026-40",
   "descricao": "InfoGripe alerta para a importância da vacinação contra Covid-19 e VSR",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.0,
+  "pontuacao": 10.0,
   "agravos": [
    "Influenza e vírus respiratórios",
    "COVID-19"
   ],
   "escopo": "Brasil",
-  "termos_evento": [],
+  "termos_evento": [
+   "infogripe"
+  ],
   "municipios": []
  },
  {
@@ -6149,7 +6206,7 @@
   "se": "2026-39",
   "descricao": "This report describes a case of fatal pneumonic plague reported in Arizona during 2025.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.5,
+  "pontuacao": 7.5,
   "agravos": [
    "Peste"
   ],
@@ -6238,7 +6295,7 @@
   "se": "2026-39",
   "descricao": "This report describes mystery patient drills conducted in health care facilities in New Jersey, New York, and the U.S. Virgin Islands to simulate response to an infectious disease outbreak.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.0,
+  "pontuacao": 3.0,
   "agravos": [],
   "escopo": "Internacional",
   "termos_evento": [
@@ -6497,7 +6554,7 @@
   "se": "2026-39",
   "descricao": "This report summarizes 2023 data from CDC's National Violent Death Reporting System on violent deaths and suicides that occurred in the U.S., District of Columbia, and Puerto Rico.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 6.0,
+  "pontuacao": 5.0,
   "agravos": [],
   "escopo": "Américas",
   "termos_evento": [
@@ -6744,7 +6801,7 @@
   "se": "2026-38",
   "descricao": "This report describes the first 100 days of the 2026 Ebola outbreak in the Democratic Republic of the Congo compared to other Ebola outbreaks.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 9.5,
+  "pontuacao": 8.5,
   "agravos": [
    "Doença pelo vírus Ebola"
   ],
@@ -6767,7 +6824,7 @@
   "se": "2026-38",
   "descricao": "This report describes an unusually high number of hepatitis A cases among Florida travelers who had recently been to Cuba.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.5,
+  "pontuacao": 7.5,
   "agravos": [
    "Hepatites virais"
   ],
@@ -6790,7 +6847,7 @@
   "se": "2026-38",
   "descricao": "This report describes a Campylobacter jejuni outbreak among wedding attendees in Pennsylvania who drank untreated spring water.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.0,
+  "pontuacao": 4.0,
   "agravos": [],
   "escopo": "Internacional",
   "termos_evento": [
@@ -7008,7 +7065,7 @@
   "se": "2026-37",
   "descricao": "This report describes results from opt-out syphilis screenings in Alaska correctional facilities during October 2023-September 2025.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.0,
+  "pontuacao": 3.0,
   "agravos": [
    "Sífilis"
   ],
@@ -7029,7 +7086,7 @@
   "se": "2026-37",
   "descricao": "This report describes higher emergency department visits for heat-related illnesses during extreme heat during June and July 2026.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 2.5,
+  "pontuacao": 2.0,
   "agravos": [
    "Saúde ambiental e clima"
   ],
@@ -7099,7 +7156,7 @@
   "se": "2026-36",
   "descricao": "This report describes characteristics of Ebola cases reported in Uganda during the 2025 outbreak.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 9.5,
+  "pontuacao": 8.5,
   "agravos": [
    "Doença pelo vírus Ebola"
   ],
@@ -7122,7 +7179,7 @@
   "se": "2026-36",
   "descricao": "This report describes the ongoing Ebola outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 9.5,
+  "pontuacao": 8.5,
   "agravos": [
    "Doença pelo vírus Ebola"
   ],
@@ -7166,7 +7223,7 @@
   "se": "2026-36",
   "descricao": "This report escribes data from the child Health and Mortality Prevention Surveillance network during December 2016-December 2024",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.0,
+  "pontuacao": 3.0,
   "agravos": [],
   "escopo": "Internacional",
   "termos_evento": [
@@ -7211,7 +7268,7 @@
   "se": "2026-35",
   "descricao": "This report describes vaccination coverage among U.S. adolescents aged 13-17 years.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 6.0,
+  "pontuacao": 5.0,
   "agravos": [
    "Imunização"
   ],
@@ -7275,7 +7332,7 @@
   "descricao": "",
   "coletado_em": "2026-10-16T13:26:18+00:00",
   "municipios": [],
-  "pontuacao": 5.0,
+  "pontuacao": 3.5,
   "agravos": [
    "Influenza e vírus respiratórios",
    "COVID-19"
@@ -7345,7 +7402,7 @@
   "se": "2026-34",
   "descricao": "This report describes CDC's nowcast model that provided real-time estimates of measles case counts during outbreaks in South Carolina.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 9.5,
+  "pontuacao": 8.5,
   "agravos": [
    "Sarampo"
   ],
@@ -7458,7 +7515,7 @@
   "se": "2026-33",
   "descricao": "This report describes cases of monkeypox virus infection reported during 2024-2025.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 10.0,
+  "pontuacao": 9.0,
   "agravos": [
    "Mpox"
   ],
@@ -7481,7 +7538,7 @@
   "se": "2026-33",
   "descricao": "This report describes dengue cases reported in Naoero during 2025.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.5,
+  "pontuacao": 6.5,
   "agravos": [
    "Dengue"
   ],
@@ -7575,7 +7632,7 @@
   "se": "2026-32",
   "descricao": "This report describes a possible HIV exposure from donated breast milk received through social media.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.0,
+  "pontuacao": 3.0,
   "agravos": [
    "HIV/aids e IST"
   ],
@@ -7663,7 +7720,7 @@
   "se": "2026-31",
   "descricao": "This report describes four poisoning deaths at an unlicensed ceremonial papermaking workshop in China.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 6.5,
+  "pontuacao": 5.5,
   "agravos": [
    "Intoxicações"
   ],
@@ -7732,7 +7789,7 @@
   "se": "2026-30",
   "descricao": "The Morbidity and Mortality Weekly Report (MMWR) Series is prepared by the Centers for Disease Control and Prevention (CDC).",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.5,
+  "pontuacao": 7.5,
   "agravos": [
    "Febre do Nilo Ocidental",
    "Arboviroses"
@@ -7754,7 +7811,7 @@
   "se": "2026-30",
   "descricao": "The Morbidity and Mortality Weekly Report (MMWR) Series is prepared by the Centers for Disease Control and Prevention (CDC).",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 6.0,
+  "pontuacao": 5.0,
   "agravos": [
    "Doenças transmitidas por alimentos e água"
   ],
@@ -7798,7 +7855,7 @@
   "se": "2026-29",
   "descricao": "This report describes a suspected exposure to Neisseria meningitidis during a university laboratory exercise.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 6.0,
+  "pontuacao": 5.0,
   "agravos": [
    "Doença meningocócica e meningites"
   ],
@@ -7819,7 +7876,7 @@
   "se": "2026-29",
   "descricao": "This report describes progress towards worldwide rubella elimination during 2012-2024.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 6.0,
+  "pontuacao": 5.0,
   "agravos": [
    "Rubéola"
   ],
@@ -7885,7 +7942,7 @@
   "se": "2026-28",
   "descricao": "This report describes how wastewater surveillance identified one of two unrelated measles cases reported to the Wisconsin Department of Health Services in February 2026.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.0,
+  "pontuacao": 7.0,
   "agravos": [
    "Sarampo"
   ],
@@ -7946,11 +8003,11 @@
   "se": "2026-27",
   "descricao": "This report describes illnesses and infection prevention and control protocols at a wildfire evacuation shelter during the Eaton wildfire in Pasadena, California.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.5,
+  "pontuacao": 7.5,
   "agravos": [
+   "Saúde ambiental e clima",
    "Influenza e vírus respiratórios",
-   "Doenças transmitidas por alimentos e água",
-   "COVID-19"
+   "Doenças transmitidas por alimentos e água"
   ],
   "escopo": "Internacional",
   "termos_evento": [
@@ -8066,7 +8123,7 @@
   "se": "2026-26",
   "descricao": "This report describes two outbreaks of legionellosis at two hotels in the U.S. Virgin Islands.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.0,
+  "pontuacao": 3.0,
   "agravos": [],
   "escopo": "Internacional",
   "termos_evento": [
@@ -8148,7 +8205,7 @@
   "se": "2026-26",
   "descricao": "During 2022-2024, a total of 13,507 clinical C. auris cases were reported to CDC, increasing from 2,882 in 2022 to 4,428 in 2023 and 6,197 in 2024, with smaller annual percentage increases over time.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 9.0,
+  "pontuacao": 8.0,
   "agravos": [
    "Candida auris"
   ],
@@ -8310,7 +8367,7 @@
   "se": "2026-24",
   "descricao": "This report describes the public health response to a measles outbreak in a Texas community.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 9.5,
+  "pontuacao": 8.5,
   "agravos": [
    "Sarampo"
   ],
@@ -8333,7 +8390,7 @@
   "se": "2026-24",
   "descricao": "This report describes a case of Legionnaires disease in an infant who drank formula prepared using a formula mixing device and tap water.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.0,
+  "pontuacao": 6.0,
   "agravos": [
    "Legionelose"
   ],
@@ -8375,7 +8432,7 @@
   "se": "2026-24",
   "descricao": "This report describes 402 foodborne disease outbreaks caused by marine toxins were reported to FDOSS. These outbreaks resulted in 1,280 illnesses, 96 hospitalizations, and one death.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 12.0,
+  "pontuacao": 11.0,
   "agravos": [
    "Doenças transmitidas por alimentos e água"
   ],
@@ -8469,7 +8526,7 @@
   "se": "2026-23",
   "descricao": "This report describes a large outbreak of Bundibugyo virus disease identified in the Democratic Republic of the Congo and Uganda.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 10.0,
+  "pontuacao": 9.0,
   "agravos": [
    "Doença pelo vírus Ebola"
   ],
@@ -8493,7 +8550,7 @@
   "se": "2026-23",
   "descricao": "This report describes using a transmission model to project Ebola outbreak growth over three months.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 9.5,
+  "pontuacao": 8.5,
   "agravos": [
    "Doença pelo vírus Ebola"
   ],
@@ -8516,7 +8573,7 @@
   "se": "2026-23",
   "descricao": "This report describes the risk posed by the current Ebola outbreak to the general U.S. population.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 9.5,
+  "pontuacao": 8.5,
   "agravos": [
    "Doença pelo vírus Ebola"
   ],
@@ -8539,7 +8596,7 @@
   "se": "2026-23",
   "descricao": "This report describes a large outbreak of Bundibugyo virus disease identified in the Democratic Republic of the Congo and Uganda.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 9.5,
+  "pontuacao": 8.5,
   "agravos": [
    "Doença pelo vírus Ebola"
   ],
@@ -8562,7 +8619,7 @@
   "se": "2026-23",
   "descricao": "This report describes the risk posed by the current Ebola outbreak to the general U.S. population.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.5,
+  "pontuacao": 7.5,
   "agravos": [
    "Doença pelo vírus Ebola"
   ],
@@ -8585,7 +8642,7 @@
   "se": "2026-23",
   "descricao": "This report describes using a transmission model to project Ebola outbreak growth over three months.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.0,
+  "pontuacao": 7.0,
   "agravos": [
    "Legionelose",
    "Doença pelo vírus Ebola"
@@ -8655,7 +8712,7 @@
   "se": "2026-22",
   "descricao": "This report describes characteristics of patients who were hospitalized during a large measles outbreak in west Texas.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 9.5,
+  "pontuacao": 8.5,
   "agravos": [
    "Sarampo"
   ],
@@ -8678,7 +8735,7 @@
   "se": "2026-22",
   "descricao": "This report describes an outbreak of 39 cases of amatoxin mushroom poisoning in Northern California.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.5,
+  "pontuacao": 4.5,
   "agravos": [
    "Intoxicações"
   ],
@@ -8802,7 +8859,7 @@
   "se": "2026-21",
   "descricao": "This report describes characteristics of patients who were hospitalized during a large measles outbreak in west Texas.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 9.5,
+  "pontuacao": 8.5,
   "agravos": [
    "Sarampo"
   ],
@@ -8825,7 +8882,7 @@
   "se": "2026-21",
   "descricao": "This report describes an outbreak of 39 cases of amatoxin mushroom poisoning in Northern California.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.5,
+  "pontuacao": 4.5,
   "agravos": [
    "Intoxicações"
   ],
@@ -8946,7 +9003,7 @@
   "se": "2026-20",
   "descricao": "This report describes an 8-month outbreak of carbapenemase-producing Enterobacterales in a long-term care facility in Ontario, Canada.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 9.5,
+  "pontuacao": 8.5,
   "agravos": [
    "Resistência antimicrobiana"
   ],
@@ -9012,7 +9069,7 @@
   "se": "2026-20",
   "descricao": "This report describes operational guidance for public health investigation and response to mosquito-transmitted malaria in the United States.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 9.0,
+  "pontuacao": 8.0,
   "agravos": [
    "Malária"
   ],
@@ -9080,7 +9137,7 @@
   "se": "2026-19",
   "descricao": "This report describes survey results from backyard flock owners' attitudes towards avian influenza.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 9.5,
+  "pontuacao": 8.5,
   "agravos": [
    "Influenza por novo subtipo",
    "Influenza e vírus respiratórios"
@@ -9102,7 +9159,7 @@
   "se": "2026-19",
   "descricao": "This report describes an increase in dengue cases reported during 2024.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.0,
+  "pontuacao": 6.0,
   "agravos": [
    "Dengue"
   ],
@@ -9223,7 +9280,7 @@
   "se": "2026-18",
   "descricao": "This report describes a fatal human case of highly pathogenic avian influenza in Washington.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 9.0,
+  "pontuacao": 8.0,
   "agravos": [
    "Influenza por novo subtipo",
    "Influenza e vírus respiratórios"
@@ -9247,7 +9304,7 @@
   "se": "2026-18",
   "descricao": "This report describes 139 human exposures to cats infected with A(H5N1) in Los Angeles, California.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.5,
+  "pontuacao": 6.5,
   "agravos": [
    "Influenza por novo subtipo",
    "Influenza e vírus respiratórios"
@@ -9322,7 +9379,7 @@
   "se": "2026-17",
   "descricao": "This report describes 50 large tuberculosis outbreaks in 23 states during 2017-2023.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.5,
+  "pontuacao": 7.5,
   "agravos": [
    "Tuberculose"
   ],
@@ -9345,7 +9402,7 @@
   "se": "2026-17",
   "descricao": "This report describes an increase in eastern equine encephalitis in northern Vermont during 2023-2024.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.0,
+  "pontuacao": 4.0,
   "agravos": [
    "Encefalites virais"
   ],
@@ -9439,7 +9496,7 @@
   "se": "2026-16",
   "descricao": "This report describes contact tracing following mpox exposures during commercial air travel.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 9.0,
+  "pontuacao": 8.0,
   "agravos": [
    "Mpox"
   ],
@@ -9460,7 +9517,7 @@
   "se": "2026-16",
   "descricao": "This report describes flu vaccination coverage among nursing home residents and health care providers working in nursing homes.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.5,
+  "pontuacao": 6.5,
   "agravos": [
    "Influenza e vírus respiratórios",
    "Imunização"
@@ -9603,7 +9660,7 @@
   "se": "2026-13",
   "descricao": "This report describes influenza and COVID-19 vaccination coverage among health care providers in the United States during the 2024-25 respiratory virus season.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.0,
+  "pontuacao": 7.0,
   "agravos": [
    "Influenza e vírus respiratórios",
    "COVID-19",
@@ -9645,7 +9702,7 @@
   "se": "2026-12",
   "descricao": "This report describes vaccination coverage by age 2 among children born in 2021 and 2022.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 6.0,
+  "pontuacao": 5.0,
   "agravos": [
    "Imunização"
   ],
@@ -9708,7 +9765,7 @@
   "se": "2026-11",
   "descricao": "This report describes early detection and surveillance of the SARS-CoV-2 variant BA.3.2.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 6.0,
+  "pontuacao": 5.0,
   "agravos": [
    "COVID-19"
   ],
@@ -9797,7 +9854,7 @@
   "se": "2026-10",
   "descricao": "This report describes a measles outbreak in New Mexico in 2025.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 11.5,
+  "pontuacao": 10.5,
   "agravos": [
    "Sarampo"
   ],
@@ -9820,7 +9877,7 @@
   "se": "2026-10",
   "descricao": "This report describes interim estimates of 2025-26 seasonal flu vaccine effectiveness.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.0,
+  "pontuacao": 3.0,
   "agravos": [
    "Influenza e vírus respiratórios"
   ],
@@ -9841,7 +9898,7 @@
   "se": "2026-10",
   "descricao": "This report describes interim estimates of 2025-26 flu vaccine effectiveness in California during October 2025-January 2026.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.0,
+  "pontuacao": 1.0,
   "agravos": [
    "Influenza e vírus respiratórios"
   ],
@@ -9886,7 +9943,7 @@
   "se": "2026-09",
   "descricao": "This report describes cases of congenital rubella in Florida.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 6.0,
+  "pontuacao": 5.0,
   "agravos": [
    "Rubéola"
   ],
@@ -9966,7 +10023,7 @@
   "se": "2026-08",
   "descricao": "This report describes a 2024 Salmonella outbreak linked to ice in a cooler at a county fair in Illinois",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.5,
+  "pontuacao": 6.5,
   "agravos": [
    "Doenças transmitidas por alimentos e água"
   ],
@@ -9989,7 +10046,7 @@
   "se": "2026-07",
   "descricao": "This report describes receipt of COVID-19 antiviral prescriptions among outpatients aged 65 and older from June 1, 2023-September 30, 2025.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.0,
+  "pontuacao": 6.0,
   "agravos": [
    "COVID-19"
   ],
@@ -10116,7 +10173,7 @@
   "se": "2026-06",
   "descricao": "This report describes an outbreak of Purpureocillium lilacinum fungal skin infections associated with a dermatology clinic in Washington.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.0,
+  "pontuacao": 3.0,
   "agravos": [],
   "escopo": "Internacional",
   "termos_evento": [
@@ -10137,7 +10194,7 @@
   "se": "2026-06",
   "descricao": "This report describes the public health response to a Purpureocillium lilacinum keratitis outbreak in New York City associated with an ophthalmology clinic.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.0,
+  "pontuacao": 3.0,
   "agravos": [],
   "escopo": "Internacional",
   "termos_evento": [
@@ -10254,7 +10311,7 @@
   "se": "2026-04",
   "descricao": "This report describes the public health response to a measles outbreak in Colorado among people exposed to an infectious traveler who arrived in Colorado in May 2025 on an international flight.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 9.5,
+  "pontuacao": 8.5,
   "agravos": [
    "Sarampo"
   ],
@@ -10277,7 +10334,7 @@
   "se": "2026-04",
   "descricao": "This report describes the prevalence of physical and sexual violence perpetration by young men and associations of these events with their exposure to violence during childhood.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.0,
+  "pontuacao": 3.0,
   "agravos": [
    "Tuberculose"
   ],
@@ -10323,7 +10380,7 @@
   "se": "2026-03",
   "descricao": "This report evaluates CureTB program performance during 2016-2023.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.0,
+  "pontuacao": 3.0,
   "agravos": [
    "Tuberculose"
   ],
@@ -10363,7 +10420,7 @@
   "se": "2026-02",
   "descricao": "This report describes a measles outbreak in Colorado in August 2025.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 10.5,
+  "pontuacao": 9.5,
   "agravos": [
    "Sarampo"
   ],
@@ -10387,7 +10444,7 @@
   "se": "2026-02",
   "descricao": "This report describes a measles outbreak in Oregon in 2024.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 9.5,
+  "pontuacao": 8.5,
   "agravos": [
    "Sarampo"
   ],
@@ -10410,7 +10467,7 @@
   "se": "2026-02",
   "descricao": "This report describes a human rabies case with a delayed diagnosis that led to health care provider exposures in two states: Kentucky and Ohio.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.5,
+  "pontuacao": 7.5,
   "agravos": [
    "Raiva"
   ],
@@ -10433,7 +10490,7 @@
   "se": "2026-02",
   "descricao": "This report describes a human rabies case with a delayed diagnosis that led to health care provider exposures in two states: Kentucky and Ohio.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.0,
+  "pontuacao": 6.0,
   "agravos": [
    "Raiva"
   ],
@@ -10473,7 +10530,7 @@
   "se": "2026-01",
   "descricao": "This report updates recommendations for the use meningococcal vaccine among people 10 years of age and older.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.5,
+  "pontuacao": 7.5,
   "agravos": [
    "Doença meningocócica e meningites",
    "Imunização"
@@ -10495,7 +10552,7 @@
   "se": "2026-01",
   "descricao": "This report describes a Zika outbreak in Dhaka, Bangladesh, during September-December 2024",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.5,
+  "pontuacao": 6.5,
   "agravos": [
    "Zika"
   ],
@@ -10518,7 +10575,7 @@
   "se": "2025-53",
   "descricao": "This report describes the public health response to a patient who was identified with welder's anthrax following occupational exposure.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.0,
+  "pontuacao": 6.0,
   "agravos": [
    "Antraz"
   ],
@@ -10623,7 +10680,7 @@
   "se": "2025-50",
   "descricao": "This report describes a cluster of rabid steers on a Minnesota dairy farm infected by a single skunk.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 9.5,
+  "pontuacao": 8.5,
   "agravos": [
    "Raiva"
   ],
@@ -10646,7 +10703,7 @@
   "se": "2025-50",
   "descricao": "This report describes COVID-19 vaccine effectiveness among children ages 9 months to 17 years.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.0,
+  "pontuacao": 3.0,
   "agravos": [
    "COVID-19"
   ],
@@ -10686,7 +10743,7 @@
   "se": "2025-49",
   "descricao": "This report describes the public health response to a patient who died after transplantation with an organ from a donor with undiagnosed rabies.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 9.0,
+  "pontuacao": 8.0,
   "agravos": [
    "Raiva"
   ],
@@ -10707,7 +10764,7 @@
   "se": "2025-48",
   "descricao": "This report describes CDC's multistate investigation to confirm the genetic relatedness of infections in an E. coli outbreak linked to walnuts and identify additional cases.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 6.5,
+  "pontuacao": 5.5,
   "agravos": [
    "Doenças transmitidas por alimentos e água"
   ],
@@ -10774,7 +10831,7 @@
   "se": "2025-47",
   "descricao": "This report describes a CDC collaboration with professional organizations and health departments to enroll birthing hospitals in the Vaccines for Children Program to increase infant immunization against respiratory syncytial virus.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.5,
+  "pontuacao": 6.5,
   "agravos": [
    "Influenza e vírus respiratórios",
    "Imunização"
@@ -10796,7 +10853,7 @@
   "se": "2025-47",
   "descricao": "This report describes a multicenter case-control investigation that found nirsevimab was 80% effective at preventing RSV-associated ICU admissions among infants.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 6.0,
+  "pontuacao": 2.0,
   "agravos": [
    "Influenza e vírus respiratórios"
   ],
@@ -10819,7 +10876,7 @@
   "se": "2025-40",
   "descricao": "CDC updates HIV nonoccupational postexposure prophylaxis recommendationsMeta Keywords:",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.5,
+  "pontuacao": 3.5,
   "agravos": [
    "HIV/aids e IST"
   ],
@@ -10840,7 +10897,7 @@
   "se": "2025-39",
   "descricao": "This report describes pediatric deaths during the 2024-25 influenza season.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.5,
+  "pontuacao": 7.5,
   "agravos": [
    "Influenza e vírus respiratórios"
   ],
@@ -10863,7 +10920,7 @@
   "se": "2025-39",
   "descricao": "This report describes 109 U.S. cases of pediatric influenza-associated encephalopathy during the 2024-25 flu season - a high-severity season.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.0,
+  "pontuacao": 6.0,
   "agravos": [
    "Influenza e vírus respiratórios"
   ],
@@ -10884,7 +10941,7 @@
   "se": "2025-39",
   "descricao": "This report describes flu vaccine effectiveness in the Southern Hemisphere during the 2025 flu season.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.0,
+  "pontuacao": 1.0,
   "agravos": [
    "Influenza e vírus respiratórios"
   ],
@@ -10905,7 +10962,7 @@
   "se": "2025-38",
   "descricao": "This report describes a clinical recommendation to use injectable lenacapavir as an HIV preexposure prophylaxis.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 6.0,
+  "pontuacao": 5.0,
   "agravos": [
    "HIV/aids e IST"
   ],
