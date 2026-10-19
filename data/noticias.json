@@ -1,5 +1,28 @@
 [
  {
+  "id": "7c352f9dfb5456",
+  "titulo": "Cenário Epidemiológico Sarampo",
+  "url": "https://goias.gov.br/saude/cenario-epidemiologico-sarampo/",
+  "fonte_id": "ses-go",
+  "fonte": "SES-GO | Notícias",
+  "sigla": "SES-GO",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-19T18:25:55+00:00",
+  "municipios": [],
+  "pontuacao": 12.0,
+  "agravos": [
+   "Sarampo"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "cenario epidemiologico"
+  ]
+ },
+ {
   "id": "653240bc35b89c",
   "titulo": "Defesa Civil de Barra do Piraí alerta para possíveis impactos do El Niño e reforça medidas de prevenção",
   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNFBadkwwWDA2Nk9NdVRuQ1hJcXp3Q3gtUEgxNHMyWWpjcGpDMzllc0k4QWM4NWVLd1VuN3pJRFFpeVV3cnR0LVhZZXY4cWZ3cUxUQ0Jfbk9kMnZrWFVlbzdNUEM5bDFKdU83WVYybG5aX3NhQ0pwek54YkthTTBXa2o5ZHRYNVQyRVdOOGJR?oc=5",
@@ -20,6 +43,30 @@
   "escopo": "Brasil",
   "termos_evento": [
    "alerta para"
+  ],
+  "link_tentado": true
+ },
+ {
+  "id": "2688af12a27045",
+  "titulo": "Chuvas do fim de semana deixam rastros de destruição na 26 de Setembro",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522999-chuvas-do-fim-de-semana-deixam-rastros-de-destruicao-na-26-de-setembro.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-19T13:18:41+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 9.5,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [
+   "destruicao"
   ]
  },
  {
@@ -147,9 +194,165 @@
   "termos_evento": []
  },
  {
-  "id": "2688af12a27045",
-  "titulo": "Chuvas do fim de semana deixam rastros de destruição na 26 de Setembro",
-  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522999-chuvas-do-fim-de-semana-deixam-rastros-de-destruicao-na-26-de-setembro.html",
+  "id": "8cde6cdcb4080c",
+  "titulo": "Sesai completa 16 anos de atuação na atenção à saúde dos povos indígenas no SUS",
+  "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/sesai-completa-16-anos-de-atuacao-na-atencao-a-saude-dos-povos-indigenas-no-sus",
+  "fonte_id": "ms-noticias",
+  "fonte": "Ministério da Saúde | Notícias",
+  "sigla": "MS",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-19T18:25:55+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "c654314114dff5",
+  "titulo": "Anvisa proíbe lotes de medicamento para tratar câncer",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-proibe-lotes-de-medicamento-para-tratar-cancer",
+  "fonte_id": "agencia-brasil-saude",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "A Agência Nacional de Vigilância (Anvisa) determinou a apreensão dos lotes Z005197 e Z012354 do medicamento Keytruda (pembrolizumabe) 100 mg/4 mL , indicado para o tratamento de diversos tipos de câncer. A decisão foi publicada nesta segunda-feira (19) no Diário Oficial da União .",
+  "coletado_em": "2026-10-19T18:25:55+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "vigilancia"
+  ]
+ },
+ {
+  "id": "dbcc4c9d8ecdb0",
+  "titulo": "Anvisa determina apreensão de lote falsificado de toxina botulínica",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-determina-apreensao-de-lote-falsificado-de-toxina-botulinica",
+  "fonte_id": "agencia-brasil-saude",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "A Agência Nacional de Vigilância (Anvisa) determinou a apreensão do lote 025155 do medicamento Dysport, um neuromodulador à base de toxina botulínica. A decisão foi publicada nesta segunda-feira (19) no Diário Oficial da União . Em nota, a Anvisa informou que a própria detentora do registro do produto, Beaufour Ipsen Farmacêutica Ltda., identificou unidades do lote com características divergentes das do medicamento original.",
+  "coletado_em": "2026-10-19T18:25:55+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "vigilancia"
+  ]
+ },
+ {
+  "id": "2aa0e16f15ec3f",
+  "titulo": "Extrato do 5º Apostilamento ao Contrato n.º 045/2023 – SES/GO",
+  "url": "https://goias.gov.br/saude/extrato-do-5o-apostilamento-ao-contrato-n-o-045-2023-ses-go/",
+  "fonte_id": "ses-go",
+  "fonte": "SES-GO | Notícias",
+  "sigla": "SES-GO",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "EXTRATO DO 5º APOSTILAMENTO AO CONTRATO Nº 45/2023-SES/GO. Processo nº: 202200010054662.Contratada: QUALITILOC AUTOMÓVEIS LTDA. Objeto: Retificação, em decorrência de erro material, da Cláusula Primeira e Segunda do 4º Apostilamento ao Contrato nº 45/2023/SES-GO. Data da assinatura:13/10/2026. Signatário: Rasível dos Reis Santos Júnior. Secretário de Estado da Saúde.",
+  "coletado_em": "2026-10-19T18:25:55+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "3646785ca9a38a",
+  "titulo": "Hecad encerra Mês das Crianças com programação especial para pacientes hospitalizados",
+  "url": "https://goias.gov.br/saude/hecad-encerra-mes-das-criancas-com-programacao-especial-para-pacientes-hospitalizados/",
+  "fonte_id": "ses-go",
+  "fonte": "SES-GO | Notícias",
+  "sigla": "SES-GO",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "Teatro, cinema, interação com animais, oficinas e brincadeiras marcaram as atividades realizadas ao longo de outubro",
+  "coletado_em": "2026-10-19T18:25:55+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "93c5b669bc9700",
+  "titulo": "Horta comunitária integra rotina de reabilitação de pacientes no Ceap-SOL",
+  "url": "https://goias.gov.br/saude/horta-comunitaria-integra-rotina-de-reabilitacao-de-pacientes-no-ceap-sol/",
+  "fonte_id": "ses-go",
+  "fonte": "SES-GO | Notícias",
+  "sigla": "SES-GO",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "Projeto iniciado em abril reúne pacientes no cultivo de hortaliças e estimula a convivência e a autonomia durante o tratamento",
+  "coletado_em": "2026-10-19T18:25:55+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "1a40eadc1f023c",
+  "titulo": "Motoristas de ônibus fazem paralisação na zona sul de São Paulo",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/motoristas-de-onibus-fazem-paralisacao-na-zona-sul-de-sao-paulo",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "Motoristas de ônibus da capital paulista iniciaram uma paralisação na manhã desta segunda-feira (19), na zona sul da cidade, atingindo as linhas do Lote D10. Esses trabalhadores atuavam na antiga Transwolff. No entanto, desde a decretação da caducidade do contrato com a empresa em dezembro de 2025, a SPTrans administra e opera as linhas dos lotes D10 e D11. Os motoristas alegam a ocorrência de problemas trabalhistas e pedem a regularização dos recolhimentos do Fundo de Garantia do Tempo de Serviço (FGTS) e do Instituto Nacional do Seguro Social (INSS). Além disso, reivindicam melhoria nos benefícios. Por meio da Secretaria Municipal de Mobilidade Urbana e Transporte (SMT) e da SPTrans, a prefeitura de São Paulo informou que a paralisação afeta 267 mil passageiros do lote D10 e que o lote D11 está operando normalmente . A prefeitura alega que a paralisação é ilegal e que todos os direitos trabalhistas dos empregados estão sendo cumpridos e que pagamentos de salários e benefícios estão sendo feitos em dia. “Os depósitos referentes ao INSS e FGTS estão sendo feitos integralmente pela SPTrans, em juízo, aguardando deliberação do Judiciário”, informou a prefeitura, em nota. Segundo o município, o plano de saúde está em processo licitatório para contratar fornecedor, enquanto isso, os funcionários estão recebendo o valor de compensação previsto em acordo coletivo. “Todos os envolvidos que deixaram de trabalhar durante o ato terão o dia descontado de seus pagamentos”, afirmou a…",
+  "coletado_em": "2026-10-19T18:25:55+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "c2fa1b0ce14632",
+  "titulo": "Deputado estadual Marcelo Aguiar é detido após disparo em bar",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/deputado-estadual-marcelo-aguiar-e-detido-apos-disparo-em-bar",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "O deputado estadual Marcelo Aguiar, do Partido Liberal, foi detido pela Polícia Militar de São Paulo, na madrugada desta segunda-feira (19), após fazer um disparo com uma arma de fogo no interior de um bar na Vila Nova Conceição, zona sul da capital paulista. O caso aconteceu em um estabelecimento na Rua Professor Atílio Innocenti e a PM foi acionada para atender a ocorrência. Chegando ao local, os policiais encontraram Aguiar aparentemente embriagado.",
+  "coletado_em": "2026-10-19T18:25:55+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "d2a1991144898e",
+  "titulo": "Celina classifica paralisação na educação como ato político perto da eleição",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7523445-celina-classifica-paralisacao-na-educacao-como-ato-politico-perto-da-eleicao.html",
   "fonte_id": "correio-braziliense-df",
   "fonte": "Correio Braziliense | Cidades DF",
   "sigla": "Correio Braziliense",
@@ -158,16 +361,350 @@
   "data_estimada": false,
   "se": "2026-42",
   "descricao": "",
-  "coletado_em": "2026-10-19T13:18:41+00:00",
+  "coletado_em": "2026-10-19T18:25:55+00:00",
   "municipios": [
    "Distrito Federal"
   ],
-  "pontuacao": 9.5,
+  "pontuacao": 0.0,
   "agravos": [],
   "escopo": "DF",
-  "termos_evento": [
-   "destruicao"
-  ]
+  "termos_evento": []
+ },
+ {
+  "id": "8f2ff86c07fea8",
+  "titulo": "PMDF recupera três motos e prende homem em flagrante em São Sebastião",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7523463-pmdf-recupera-tres-motos-e-prende-homem-em-flagrante-em-sao-sebastiao.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-19T18:25:55+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "4e0122d0014a13",
+  "titulo": "PRF prende motorista embriagado na BR-040",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7523426-prf-prende-motorista-embriagado-na-br-040.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-19T18:25:55+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "a1c3d75748db57",
+  "titulo": "Farmácia é alvo de tentativa de furto em Ceilândia; um dos suspeitos foge",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7523403-farmacia-e-alvo-de-tentativa-de-furto-em-ceilandia-e-um-dos-suspeitos-foge.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-19T18:25:55+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "48a01320211dd7",
+  "titulo": "Suspeito é preso por esfaquear homem após discussão no Paranoá",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7523385-suspeito-e-preso-por-esfaquear-homem-apos-discussao-no-paranoa.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-19T18:25:55+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "06dd2c50cfab93",
+  "titulo": "Santuário na Asa Sul recebe relíquia de São Carlo Acutis",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7523313-santuario-na-asa-sul-recebe-reliquia-de-sao-carlo-acutis.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-19T18:25:55+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "7bf6efea34dab4",
+  "titulo": "Mega-Sena acumula, e prêmio chega a R$ 185 mi; aposta do DF leva quina",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7523292-mega-sena-acumula-e-premio-chega-a-rs-185-mi-aposta-do-df-leva-quina.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-19T18:25:55+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "8be4a97b2bfb58",
+  "titulo": "Celina Leão apresenta metas para o DF e defende unificação do SUS por CPF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7523387-celina-leao-apresenta-metas-para-o-df-e-defende-unificacao-do-sus-por-cpf.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-19T18:25:55+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "3412ecd693c9ed",
+  "titulo": "Celina critica governo federal por omissão com BRB e mudanças no Fundo Constitucional",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7523390-celina-critica-governo-federal-por-omissao-com-brb-e-mudancas-no-fundo-constitucional.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-19T18:25:55+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "dd3ebd1c746430",
+  "titulo": "Em panfletagem, Grass aposta nos jovens e promete ampliar ensino integral no DF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7523365-em-panfletagem-grass-aposta-nos-jovens-e-promete-ampliar-ensino-integral-no-df.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-19T18:25:55+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "82fc1e5ebecc04",
+  "titulo": "Em sabatina, Grass critica Celina e apresenta propostas para áreas do DF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7523312-em-sabatina-grass-critica-celina-e-apresenta-propostas-para-areas-do-df.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-19T18:25:55+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "c2340998bd3894",
+  "titulo": "Celina prepara mudanças em licitações e estuda reforma administrativa",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7523274-celina-prepara-mudancas-em-licitacoes-e-estuda-reforma-administrativa.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-19T18:25:55+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "e546d2d80cf1e1",
+  "titulo": "Denúncias de assédio eleitoral no DF em 2026 superam total do pleito de 2022",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7523260-denuncias-de-assedio-eleitoral-no-df-em-2026-superam-total-do-pleito-de-2022.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-19T18:25:55+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "c6682b6b140ab0",
+  "titulo": "Homem é esfaqueado no Gama e três suspeitos são presos",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7523212-homem-e-esfaqueado-no-gama-e-tres-suspeitos-sao-presos.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-19T18:25:55+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "619a88e437b587",
+  "titulo": "Celina Leão anuncia obras de esgoto e melhorias no Riacho Fundo",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7523245-celina-leao-anuncia-obras-de-esgoto-e-melhorias-no-riacho-fundo.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-19T18:25:55+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "1c268b0582d330",
+  "titulo": "Celina Leão projeta nota A de crédito para o Distrito Federal em 2027",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7523290-celina-leao-projeta-nota-a-de-credito-para-o-distrito-federal-em-2027.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-19T18:25:55+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "9700f7aeefa362",
+  "titulo": "Em memória de Isaac Vilhena",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522914-em-memoria-de-isaac-vilhena.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-19T18:25:55+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
  },
  {
   "id": "b2e5edd7c56e94",
@@ -574,51 +1111,6 @@
   "termos_evento": []
  },
  {
-  "id": "75c82d79b59760",
-  "titulo": "Africa CDC Reaffirms Support to Kenya Following Confirmation of Four Additional Ebola Cases",
-  "url": "https://africacdc.org/news-item/africa-cdc-reaffirms-support-to-kenya-following-confirmation-of-four-additional-ebola-cases/",
-  "fonte_id": "africa-cdc",
-  "fonte": "Africa CDC | Notícias",
-  "sigla": "Africa CDC",
-  "idioma": "en",
-  "data": "2026-10-17",
-  "data_estimada": false,
-  "se": "2026-41",
-  "descricao": "Addis Ababa, Ethiopia, 17 October 2026 The Africa Centres for Disease Control and Prevention (Africa CDC) acknowledges the announcement by the Ministry of Health of the Republic of Kenya confirming four additional cases of Ebola Virus Disease (Bundibugyo virus), bringing the total number of confirmed cases in the country to seven, including one death. According […] The post Africa CDC Reaffirms Support to Kenya Following Confirmation of Four Additional Ebola Cases appeared first on Africa CDC .",
-  "coletado_em": "2026-10-17T19:23:40+00:00",
-  "municipios": [],
-  "pontuacao": 10.5,
-  "agravos": [
-   "Doença pelo vírus Ebola"
-  ],
-  "escopo": "Internacional",
-  "termos_evento": [
-   "confirmed cases",
-   "death"
-  ]
- },
- {
-  "id": "327119b3367edc",
-  "titulo": "Dengue grave: estudo identifica fatores de risco para mortes no Brasil",
-  "url": "https://www.cnnbrasil.com.br/saude/dengue-grave-estudo-identifica-fatores-de-risco-para-mortes-no-brasil/",
-  "fonte_id": "cnn-brasil-saude",
-  "fonte": "CNN Brasil | Saúde",
-  "sigla": "CNN Brasil",
-  "idioma": "pt",
-  "data": "2026-10-17",
-  "data_estimada": false,
-  "se": "2026-41",
-  "descricao": "",
-  "coletado_em": "2026-10-17T09:19:59+00:00",
-  "municipios": [],
-  "pontuacao": 4.5,
-  "agravos": [
-   "Dengue"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": []
- },
- {
   "id": "b16bee9afb32e3",
   "titulo": "Chuva forte provoca alagamentos na 26 de Setembro neste sábado (17/10)",
   "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522774-chuva-forte-provoca-alagamentos-na-26-de-setembro-neste-sabado-17-10.html",
@@ -645,6 +1137,30 @@
   ]
  },
  {
+  "id": "75c82d79b59760",
+  "titulo": "Africa CDC Reaffirms Support to Kenya Following Confirmation of Four Additional Ebola Cases",
+  "url": "https://africacdc.org/news-item/africa-cdc-reaffirms-support-to-kenya-following-confirmation-of-four-additional-ebola-cases/",
+  "fonte_id": "africa-cdc",
+  "fonte": "Africa CDC | Notícias",
+  "sigla": "Africa CDC",
+  "idioma": "en",
+  "data": "2026-10-17",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "Addis Ababa, Ethiopia, 17 October 2026 The Africa Centres for Disease Control and Prevention (Africa CDC) acknowledges the announcement by the Ministry of Health of the Republic of Kenya confirming four additional cases of Ebola Virus Disease (Bundibugyo virus), bringing the total number of confirmed cases in the country to seven, including one death. According […] The post Africa CDC Reaffirms Support to Kenya Following Confirmation of Four Additional Ebola Cases appeared first on Africa CDC .",
+  "coletado_em": "2026-10-17T19:23:40+00:00",
+  "municipios": [],
+  "pontuacao": 10.5,
+  "agravos": [
+   "Doença pelo vírus Ebola"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [
+   "confirmed cases",
+   "death"
+  ]
+ },
+ {
   "id": "21fac1013f1f42",
   "titulo": "Sarampo é uma das doenças mais facilmente transmissíveis, diz especialista",
   "url": "https://www.cnnbrasil.com.br/saude/sarampo-e-uma-das-doencas-mais-facilmente-transmissiveis-diz-especialista/",
@@ -663,6 +1179,27 @@
    "Sarampo"
   ],
   "escopo": "Internacional",
+  "termos_evento": []
+ },
+ {
+  "id": "327119b3367edc",
+  "titulo": "Dengue grave: estudo identifica fatores de risco para mortes no Brasil",
+  "url": "https://www.cnnbrasil.com.br/saude/dengue-grave-estudo-identifica-fatores-de-risco-para-mortes-no-brasil/",
+  "fonte_id": "cnn-brasil-saude",
+  "fonte": "CNN Brasil | Saúde",
+  "sigla": "CNN Brasil",
+  "idioma": "pt",
+  "data": "2026-10-17",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-17T09:19:59+00:00",
+  "municipios": [],
+  "pontuacao": 4.5,
+  "agravos": [
+   "Dengue"
+  ],
+  "escopo": "Brasil",
   "termos_evento": []
  },
  {
@@ -1147,51 +1684,6 @@
   "termos_evento": []
  },
  {
-  "id": "24c4076a21fd19",
-  "titulo": "Governo monitora saúde de amazonenses em locais afetados por queimadas",
-  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/governo-monitora-saude-de-amazonenses-em-locais-afetados-por-queimadas",
-  "fonte_id": "agencia-brasil-saude",
-  "fonte": "Agência Brasil | Saúde",
-  "sigla": "Agência Brasil",
-  "idioma": "pt",
-  "data": "2026-10-16",
-  "data_estimada": false,
-  "se": "2026-41",
-  "descricao": "O Ministério da Saúde vem monitorando os impactos das queimadas na saúde dos amazonenses e sobre o Sistema Único de Saúde (SUS) na região. A medida ocorre depois que o governo do Amazonas decretou situação de emergência em 36 municípios, no último dia 10, em razão dos incêndios florestais .",
-  "coletado_em": "2026-10-16T18:02:51+00:00",
-  "municipios": [],
-  "pontuacao": 11.5,
-  "agravos": [
-   "Saúde ambiental e clima"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": [
-   "situacao de emergencia",
-   "situacao de emergencia"
-  ]
- },
- {
-  "id": "6ce27ac93ba2da",
-  "titulo": "SES intensifica ações de combate ao Aedes aegypti em todo o Estado e pede apoio da população para eliminar criadouros",
-  "url": "https://goias.gov.br/saude/ses-intensifica-acoes-de-combate-ao-aedes-aegypti-em-todo-o-estado-e-pede-apoio-da-populacao-para-eliminar-criadouros/",
-  "fonte_id": "ses-go",
-  "fonte": "SES-GO | Notícias",
-  "sigla": "SES-GO",
-  "idioma": "pt",
-  "data": "2026-10-16",
-  "data_estimada": false,
-  "se": "2026-41",
-  "descricao": "Secretaria reforça combate ao mosquito com monitoramento, uso de novas tecnologias, controle químico, distribuição de insumos/equipamentos e qualificação dos profissionais dos municípios goianos",
-  "coletado_em": "2026-10-16T18:02:51+00:00",
-  "municipios": [],
-  "pontuacao": 5.0,
-  "agravos": [
-   "Arboviroses"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": []
- },
- {
   "id": "710708f3df7262",
   "titulo": "Inmet prevê chuvas acompanhadas de vento, raios e granizo",
   "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7521416-inmet-preve-chuvas-acompanhadas-de-vento-raios-e-granizo.html",
@@ -1218,25 +1710,28 @@
   ]
  },
  {
-  "id": "9cc08f1cb0fde6",
-  "titulo": "Método Wolbachia contra arboviroses começa a ser implantado no Ceará",
-  "url": "https://agencia.fiocruz.br/metodo-wolbachia-contra-arboviroses-comeca-ser-implantado-no-ceara",
-  "fonte_id": "fiocruz",
-  "fonte": "Agência Fiocruz de Notícias",
-  "sigla": "Fiocruz",
+  "id": "24c4076a21fd19",
+  "titulo": "Governo monitora saúde de amazonenses em locais afetados por queimadas",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/governo-monitora-saude-de-amazonenses-em-locais-afetados-por-queimadas",
+  "fonte_id": "agencia-brasil-saude",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
   "idioma": "pt",
   "data": "2026-10-16",
   "data_estimada": false,
   "se": "2026-41",
-  "descricao": "Método Wolbachia contra arboviroses começa a ser implantado no Ceará",
+  "descricao": "O Ministério da Saúde vem monitorando os impactos das queimadas na saúde dos amazonenses e sobre o Sistema Único de Saúde (SUS) na região. A medida ocorre depois que o governo do Amazonas decretou situação de emergência em 36 municípios, no último dia 10, em razão dos incêndios florestais .",
   "coletado_em": "2026-10-16T18:02:51+00:00",
   "municipios": [],
-  "pontuacao": 4.5,
+  "pontuacao": 11.5,
   "agravos": [
-   "Arboviroses"
+   "Saúde ambiental e clima"
   ],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [
+   "situacao de emergencia",
+   "situacao de emergencia"
+  ]
  },
  {
   "id": "b7aade0dd775b5",
@@ -1260,7 +1755,8 @@
   "escopo": "Brasil",
   "termos_evento": [
    "alerta para"
-  ]
+  ],
+  "link_tentado": true
  },
  {
   "id": "c59065b16cb567",
@@ -1283,7 +1779,8 @@
   "escopo": "Brasil",
   "termos_evento": [
    "emite alerta"
-  ]
+  ],
+  "link_tentado": true
  },
  {
   "id": "f8e041adf68434",
@@ -1306,7 +1803,8 @@
   "escopo": "Brasil",
   "termos_evento": [
    "alerta para"
-  ]
+  ],
+  "link_tentado": true
  },
  {
   "id": "402851d47548b8",
@@ -1332,25 +1830,46 @@
   "termos_evento": []
  },
  {
-  "id": "06d1ce466081a2",
-  "titulo": "Strengthening public health emergency operations centres in Europe through exchange of good practices",
-  "url": "https://www.ecdc.europa.eu/en/news-events/strengthening-public-health-emergency-operations-centres-europe-through-exchange-good",
-  "fonte_id": "ecdc-noticias",
-  "fonte": "ECDC | News",
-  "sigla": "ECDC",
-  "idioma": "en",
+  "id": "6ce27ac93ba2da",
+  "titulo": "SES intensifica ações de combate ao Aedes aegypti em todo o Estado e pede apoio da população para eliminar criadouros",
+  "url": "https://goias.gov.br/saude/ses-intensifica-acoes-de-combate-ao-aedes-aegypti-em-todo-o-estado-e-pede-apoio-da-populacao-para-eliminar-criadouros/",
+  "fonte_id": "ses-go",
+  "fonte": "SES-GO | Notícias",
+  "sigla": "SES-GO",
+  "idioma": "pt",
   "data": "2026-10-16",
   "data_estimada": false,
   "se": "2026-41",
-  "descricao": "A three-day training workshop organised by ECDC and WHO/Europe and hosted by the Slovenian National Institute of Public Health (NIPH) brought together participants from the EU and a number of accession countries to strengthen their national Public Health Emergency Operations Centres (PHEOCs) and to ensure they operate in line with EU and international standards.",
-  "coletado_em": "2026-10-16T13:26:18+00:00",
+  "descricao": "Secretaria reforça combate ao mosquito com monitoramento, uso de novas tecnologias, controle químico, distribuição de insumos/equipamentos e qualificação dos profissionais dos municípios goianos",
+  "coletado_em": "2026-10-16T18:02:51+00:00",
   "municipios": [],
-  "pontuacao": 4.0,
-  "agravos": [],
-  "escopo": "Internacional",
-  "termos_evento": [
-   "public health emergency"
-  ]
+  "pontuacao": 5.0,
+  "agravos": [
+   "Arboviroses"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "9cc08f1cb0fde6",
+  "titulo": "Método Wolbachia contra arboviroses começa a ser implantado no Ceará",
+  "url": "https://agencia.fiocruz.br/metodo-wolbachia-contra-arboviroses-comeca-ser-implantado-no-ceara",
+  "fonte_id": "fiocruz",
+  "fonte": "Agência Fiocruz de Notícias",
+  "sigla": "Fiocruz",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "Método Wolbachia contra arboviroses começa a ser implantado no Ceará",
+  "coletado_em": "2026-10-16T18:02:51+00:00",
+  "municipios": [],
+  "pontuacao": 4.5,
+  "agravos": [
+   "Arboviroses"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
  },
  {
   "id": "1fe186c880da91",
@@ -1371,7 +1890,8 @@
    "Saúde ambiental e clima"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "link_tentado": true
  },
  {
   "id": "a21024766ccb8d",
@@ -1392,7 +1912,29 @@
    "Saúde ambiental e clima"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "link_tentado": true
+ },
+ {
+  "id": "06d1ce466081a2",
+  "titulo": "Strengthening public health emergency operations centres in Europe through exchange of good practices",
+  "url": "https://www.ecdc.europa.eu/en/news-events/strengthening-public-health-emergency-operations-centres-europe-through-exchange-good",
+  "fonte_id": "ecdc-noticias",
+  "fonte": "ECDC | News",
+  "sigla": "ECDC",
+  "idioma": "en",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "A three-day training workshop organised by ECDC and WHO/Europe and hosted by the Slovenian National Institute of Public Health (NIPH) brought together participants from the EU and a number of accession countries to strengthen their national Public Health Emergency Operations Centres (PHEOCs) and to ensure they operate in line with EU and international standards.",
+  "coletado_em": "2026-10-16T13:26:18+00:00",
+  "municipios": [],
+  "pontuacao": 4.0,
+  "agravos": [],
+  "escopo": "Internacional",
+  "termos_evento": [
+   "public health emergency"
+  ]
  },
  {
   "id": "f57a0c8cbf65b5",
@@ -2645,28 +3187,54 @@
   "termos_evento": []
  },
  {
-  "id": "88ae4793542a36",
-  "titulo": "Effectiveness of Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine in Children Aged 6 Months-6 Years During a Statewide Pertussis Outbreak - Alaska, May-November 2024",
-  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766649",
-  "fonte_id": "cdc-mmwr",
-  "fonte": "CDC | MMWR",
-  "sigla": "CDC",
-  "idioma": "en",
+  "id": "b5b1a9d279021d",
+  "titulo": "Após chuva mudar o tempo no DF, previsão indica temporais até segunda",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7521145-apos-chuva-mudar-o-tempo-no-df-previsao-indica-temporais-ate-segunda.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
   "data": "2026-10-15",
   "data_estimada": false,
   "se": "2026-41",
-  "descricao": "This report describes effectiveness of the diphtheria and tetanus toxoids and acellular pertussis vaccination series during a statewide pertussis outbreak in Alaska during 2024.",
-  "coletado_em": "2026-10-16T13:26:18+00:00",
-  "municipios": [],
-  "pontuacao": 6.0,
-  "agravos": [
-   "Difteria",
-   "Coqueluche"
+  "descricao": "",
+  "coletado_em": "2026-10-15T17:57:13+00:00",
+  "municipios": [
+   "Distrito Federal"
   ],
-  "escopo": "Internacional",
+  "pontuacao": 14.0,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "DF",
   "termos_evento": [
-   "outbreak"
+   "previsao"
   ]
+ },
+ {
+  "id": "cd5de916976353",
+  "titulo": "São Paulo terá mais chuvas fortes no fim da tarde desta quinta (15)",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/sao-paulo-tera-mais-chuvas-fortes-no-fim-da-tarde-desta-quinta-15",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-15",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "Segundo o Centro de Gerenciamento de Emergências Climática da Prefeitura de São Paulo (CGE), a cidade deve enfrentar nesta quinta-feira (14) situação parecida com a desta quarta (13), graças à aproximação de uma frente fria. Entre o final da tarde e início da noite devem ocorrer pancadas de chuva e rajadas de vento em várias regiões da cidade. Além disso, o solo encharcado pela chuva de ontem, mantém elevado o potencial para alagamentos, queda de árvores e deslizamentos de terra.",
+  "coletado_em": "2026-10-15T17:33:28+00:00",
+  "pontuacao": 10.5,
+  "agravos": [
+   "Saúde ambiental e clima",
+   "Emergências e desastres"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alagamentos"
+  ],
+  "municipios": []
  },
  {
   "id": "44e8abd0ef85f5",
@@ -2716,27 +3284,47 @@
   "municipios": []
  },
  {
-  "id": "b5c9b8d2404286",
-  "titulo": "Notes from the Field: Dengue Outbreak - U.S. Virgin Islands, January 2024-June 2025",
-  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766650",
-  "fonte_id": "cdc-mmwr",
-  "fonte": "CDC | MMWR",
-  "sigla": "CDC",
+  "id": "819a21f7ab72d0",
+  "titulo": "La OPS entrega insumos críticos para reforzar la atención de emergencia en comunidades afectadas por el terremoto en Panamá",
+  "url": "https://www.paho.org/es/noticias/14-10-2026-ops-entrega-insumos-criticos-para-reforzar-atencion-emergencia-comunidades",
+  "fonte_id": "opas-noticias",
+  "fonte": "OPAS | Notícias",
+  "sigla": "OPAS",
   "idioma": "en",
   "data": "2026-10-15",
   "data_estimada": false,
   "se": "2026-41",
-  "descricao": "This report describes the response to a dengue virus outbreak in the U.S. Virgin Islands during 2024-2025.",
+  "descricao": "PAHO delivers critical supplies to strengthen emergency care in communities affected by the earthquake in Panama Cristina Mitchell 14 Oct 2026",
   "coletado_em": "2026-10-16T13:26:18+00:00",
   "municipios": [],
-  "pontuacao": 6.5,
+  "pontuacao": 8.0,
   "agravos": [
-   "Dengue"
+   "Emergências e desastres"
   ],
-  "escopo": "Internacional",
-  "termos_evento": [
-   "outbreak"
-  ]
+  "escopo": "Américas",
+  "termos_evento": []
+ },
+ {
+  "id": "7982611036444f",
+  "titulo": "Serra está sob alerta de chuvas e possibilidade de tempestades",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaEpZcnExN2I4Q0FpWm12cmVYZTZuZWlMNzRhM1JQaEhnVG1MWWpFQVZKZy10TlVXVnNVOGM5NHg2eG1HOTNxeWc3YTlldHJ4QWFDT2hBakJKYmpybVBKWm9DalpiVnR1cERoQ1gtNGl6WW9iWlUyMGhzM0xwbkxxQ2dubzdDN2JRc3l3akFMTFlwa1FiSmpTdmhIUkRUWEtlTE5CdE5lWHRtemN4d2JyektBWTFOZ0NtOEdaR2k0UXFvc1JVS19VdHUzVk8?oc=5",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Prefeitura da Serra",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-15",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-17T22:17:22+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "link_tentado": true
  },
  {
   "id": "3f278a61aa441c",
@@ -2758,6 +3346,29 @@
   ],
   "escopo": "Internacional",
   "termos_evento": []
+ },
+ {
+  "id": "b5c9b8d2404286",
+  "titulo": "Notes from the Field: Dengue Outbreak - U.S. Virgin Islands, January 2024-June 2025",
+  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766650",
+  "fonte_id": "cdc-mmwr",
+  "fonte": "CDC | MMWR",
+  "sigla": "CDC",
+  "idioma": "en",
+  "data": "2026-10-15",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "This report describes the response to a dengue virus outbreak in the U.S. Virgin Islands during 2024-2025.",
+  "coletado_em": "2026-10-16T13:26:18+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Dengue"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [
+   "outbreak"
+  ]
  },
  {
   "id": "784353cd2bdb19",
@@ -2783,46 +3394,28 @@
   "municipios": []
  },
  {
-  "id": "7982611036444f",
-  "titulo": "Serra está sob alerta de chuvas e possibilidade de tempestades",
-  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaEpZcnExN2I4Q0FpWm12cmVYZTZuZWlMNzRhM1JQaEhnVG1MWWpFQVZKZy10TlVXVnNVOGM5NHg2eG1HOTNxeWc3YTlldHJ4QWFDT2hBakJKYmpybVBKWm9DalpiVnR1cERoQ1gtNGl6WW9iWlUyMGhzM0xwbkxxQ2dubzdDN2JRc3l3akFMTFlwa1FiSmpTdmhIUkRUWEtlTE5CdE5lWHRtemN4d2JyektBWTFOZ0NtOEdaR2k0UXFvc1JVS19VdHUzVk8?oc=5",
-  "fonte_id": "defesa-civil-busca",
-  "fonte": "Prefeitura da Serra",
-  "sigla": "Defesa Civil",
-  "idioma": "pt",
-  "data": "2026-10-15",
-  "data_estimada": false,
-  "se": "2026-41",
-  "descricao": "",
-  "coletado_em": "2026-10-17T22:17:22+00:00",
-  "municipios": [],
-  "pontuacao": 7.5,
-  "agravos": [
-   "Saúde ambiental e clima"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": []
- },
- {
-  "id": "819a21f7ab72d0",
-  "titulo": "La OPS entrega insumos críticos para reforzar la atención de emergencia en comunidades afectadas por el terremoto en Panamá",
-  "url": "https://www.paho.org/es/noticias/14-10-2026-ops-entrega-insumos-criticos-para-reforzar-atencion-emergencia-comunidades",
-  "fonte_id": "opas-noticias",
-  "fonte": "OPAS | Notícias",
-  "sigla": "OPAS",
+  "id": "88ae4793542a36",
+  "titulo": "Effectiveness of Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine in Children Aged 6 Months-6 Years During a Statewide Pertussis Outbreak - Alaska, May-November 2024",
+  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766649",
+  "fonte_id": "cdc-mmwr",
+  "fonte": "CDC | MMWR",
+  "sigla": "CDC",
   "idioma": "en",
   "data": "2026-10-15",
   "data_estimada": false,
   "se": "2026-41",
-  "descricao": "PAHO delivers critical supplies to strengthen emergency care in communities affected by the earthquake in Panama Cristina Mitchell 14 Oct 2026",
+  "descricao": "This report describes effectiveness of the diphtheria and tetanus toxoids and acellular pertussis vaccination series during a statewide pertussis outbreak in Alaska during 2024.",
   "coletado_em": "2026-10-16T13:26:18+00:00",
   "municipios": [],
-  "pontuacao": 8.0,
+  "pontuacao": 6.0,
   "agravos": [
-   "Emergências e desastres"
+   "Difteria",
+   "Coqueluche"
   ],
-  "escopo": "Américas",
-  "termos_evento": []
+  "escopo": "Internacional",
+  "termos_evento": [
+   "outbreak"
+  ]
  },
  {
   "id": "8586dd9a6562e5",
@@ -2864,7 +3457,8 @@
    "Saúde ambiental e clima"
   ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [],
+  "link_tentado": true
  },
  {
   "id": "ea0674188119d6",
@@ -2921,30 +3515,6 @@
   "agravos": [],
   "escopo": "Brasil",
   "termos_evento": [],
-  "municipios": []
- },
- {
-  "id": "cd5de916976353",
-  "titulo": "São Paulo terá mais chuvas fortes no fim da tarde desta quinta (15)",
-  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/sao-paulo-tera-mais-chuvas-fortes-no-fim-da-tarde-desta-quinta-15",
-  "fonte_id": "agencia-brasil-geral",
-  "fonte": "Agência Brasil | Geral",
-  "sigla": "Agência Brasil",
-  "idioma": "pt",
-  "data": "2026-10-15",
-  "data_estimada": false,
-  "se": "2026-41",
-  "descricao": "Segundo o Centro de Gerenciamento de Emergências Climática da Prefeitura de São Paulo (CGE), a cidade deve enfrentar nesta quinta-feira (14) situação parecida com a desta quarta (13), graças à aproximação de uma frente fria. Entre o final da tarde e início da noite devem ocorrer pancadas de chuva e rajadas de vento em várias regiões da cidade. Além disso, o solo encharcado pela chuva de ontem, mantém elevado o potencial para alagamentos, queda de árvores e deslizamentos de terra.",
-  "coletado_em": "2026-10-15T17:33:28+00:00",
-  "pontuacao": 10.5,
-  "agravos": [
-   "Saúde ambiental e clima",
-   "Emergências e desastres"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": [
-   "alagamentos"
-  ],
   "municipios": []
  },
  {
@@ -3301,32 +3871,6 @@
   "agravos": [],
   "escopo": "DF",
   "termos_evento": []
- },
- {
-  "id": "b5b1a9d279021d",
-  "titulo": "Após chuva mudar o tempo no DF, previsão indica temporais até segunda",
-  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7521145-apos-chuva-mudar-o-tempo-no-df-previsao-indica-temporais-ate-segunda.html",
-  "fonte_id": "correio-braziliense-df",
-  "fonte": "Correio Braziliense | Cidades DF",
-  "sigla": "Correio Braziliense",
-  "idioma": "pt",
-  "data": "2026-10-15",
-  "data_estimada": false,
-  "se": "2026-41",
-  "descricao": "",
-  "coletado_em": "2026-10-15T17:57:13+00:00",
-  "municipios": [
-   "Distrito Federal"
-  ],
-  "pontuacao": 14.0,
-  "agravos": [
-   "Emergências e desastres",
-   "Saúde ambiental e clima"
-  ],
-  "escopo": "DF",
-  "termos_evento": [
-   "previsao"
-  ]
  },
  {
   "id": "8dbb10d41244ac",
@@ -3838,6 +4382,77 @@
   "municipios": []
  },
  {
+  "id": "2728e3f9a837d0",
+  "titulo": "Defesa Civil de São Paulo alerta para chuva intensa nesta quinta-feira (15), com acumulados que podem chegar a 80 mm",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVnQ1UDRrR0VCT0xhcjhTNFo2WlN1ZUVuNWl2ZkNSZFlLNUktNG9teURDcy1ZSndDbENGNWhTRS1nS3lkZWZlNExfQUVENkpKYlI2YUM3TDV3R2oxT0Z2WXRyUmd5a1BxeGh2YkwxekRHN1JUX0JCQU1rODVzTHc2MVBkR253ZkVZUE5wckMxYU9JMVZxZDlZV3E3OXl6Z1pKUTg0S3hHVmtXcWV4UlFkSkFjWmJsM0hKR2VhVTBTYzNzQ2dHdnlUaXhWOU9fclpNcXQyaktWMnRlZm43N3A4?oc=5",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "agenciasp.sp.gov.br",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-14",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-16T13:34:20+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alerta para"
+  ],
+  "link_tentado": true
+ },
+ {
+  "id": "8705fbf0ece2c6",
+  "titulo": "Defesa Civil de São Paulo alerta para chuva intensa nesta quinta-feira (15), com acumulados que podem chegar a 80 mm",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMHc5ajF3ZlZlek5BaUlDZzZvdFpSYnJWZnNWNUFtRnd1a0tCWk5EQUE4WElvOGllN3JTc2xUM09SVnR1d2dlM1hMT1dMRjY0MW8xT0tqWHZ5SUw3MmRwT0Y1RE9SMDF4SlZEVjVtT1NKRFNBbW5Jcm5Da1A2RWZZbnpwVGxuQnM4WHdwZ3hSZ2tMak1DMkZVU0k3QTBoNEl4ZVBpZmxrQVZ1ZmRLU3MzdzVCS05oOUluMXhWY3pwYkw3X293ZmhXR0VHNG9uZFhEOWVVSW0xSVlGS085akl6X2tYaUtGenJmLTAwRWd2V1Q?oc=5",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "agenciasp.sp.gov.br",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-14",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-17T09:19:59+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alerta para"
+  ],
+  "link_tentado": true
+ },
+ {
+  "id": "e701a34d8483e8",
+  "titulo": "Parte do teto de túnel da Câmara desabou nesta quarta-feira",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/parte-do-teto-de-tunel-da-camara-desabou-nesta-quarta-feira",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-14",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "Uma parte do reboco do teto do chamado Túnel do Tempo, da Câmara dos Deputados, desabou durante a madrugada desta quarta-feira (14). O túnel forma um corredor que liga o Anexo II da Câmara, onde ficam as comissões permanentes, até o Salão Verde, que é o espaço que dá acesso ao plenário. Não houve feridos e a passagem para funcionários ou visitantes pelo corredor foi fechada. Equipes de engenharia da Câmara estão no local para reparar o dano. Não foi detectado qualquer dano à estrutura do prédio, segundo informou a assessoria de imprensa da Câmara dos Deputados. “A circulação entre o Edifício Principal e o Anexo II deverá ser feita pela área externa. Para facilitar o acesso, o fluxo de pessoas na Chapelaria estará liberado para todos os públicos nesta quarta-feira”, informou a Câmara. O plenário da Câmara dos Deputados tem sessão deliberativa marcada para as 13h55 para debater projetos de lei e decreto legislativo. Confira mais informações sobre o desabamento no Repórter Brasil, da TV Brasil",
+  "coletado_em": "2026-10-15T17:33:28+00:00",
+  "pontuacao": 8.5,
+  "agravos": [
+   "Emergências e desastres"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "desabamento"
+  ],
+  "municipios": []
+ },
+ {
   "id": "2953d052c1864f",
   "titulo": "Aumento do sarampo no Brasil: doença pode levar à morte; entenda riscos",
   "url": "https://www.cnnbrasil.com.br/saude/aumento-do-sarampo-no-brasil-doenca-pode-levar-a-morte-entenda-riscos/",
@@ -3857,6 +4472,51 @@
   ],
   "escopo": "Brasil",
   "termos_evento": []
+ },
+ {
+  "id": "d32e0a843ef452",
+  "titulo": "Estudo analisa exposição de CRAS a riscos de inundação e deslizamento em 806 municípios brasileiros",
+  "url": "https://www.gov.br/cemaden/pt-br/estudo-analisa-exposicao-de-cras-a-riscos-de-inundacao-e-deslizamento-em-806-municipios-brasileiros",
+  "fonte_id": "cemaden",
+  "fonte": "Cemaden | Notícias",
+  "sigla": "Cemaden",
+  "idioma": "pt",
+  "data": "2026-10-14",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-16T13:26:18+00:00",
+  "municipios": [],
+  "pontuacao": 8.0,
+  "agravos": [
+   "Emergências e desastres"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "inundacao"
+  ]
+ },
+ {
+  "id": "7ef12f59ac386a",
+  "titulo": "Reconhecida emergência em 82 cidades potiguares afetadas pela seca",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPazF4Y20zbVRRcXZOT1k2YXljUjBDYnNJRFBzVm1yYVVoU3NNeVBNVFlDcTZFZlplMTNLd1JtSkVWWkdKVUYzT0RwaExLd3JkYTRqSm13aHc5djBNV1NCT3ZMcFpfcTNnTC1Lemt2U1RaM1lSOXR3WGdOOUpjNUlZMUl0QUtMZUM0QlQ4THhlMHZ1bHg5NHNxRk9wVnZINE9uZHZUYVNJWFM3cFVoTkE?oc=5",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "www.gov.br",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-14",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-16T13:34:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "link_tentado": true
  },
  {
   "id": "354d57eb163dde",
@@ -3903,96 +4563,6 @@
    "vigilancia"
   ],
   "municipios": []
- },
- {
-  "id": "d32e0a843ef452",
-  "titulo": "Estudo analisa exposição de CRAS a riscos de inundação e deslizamento em 806 municípios brasileiros",
-  "url": "https://www.gov.br/cemaden/pt-br/estudo-analisa-exposicao-de-cras-a-riscos-de-inundacao-e-deslizamento-em-806-municipios-brasileiros",
-  "fonte_id": "cemaden",
-  "fonte": "Cemaden | Notícias",
-  "sigla": "Cemaden",
-  "idioma": "pt",
-  "data": "2026-10-14",
-  "data_estimada": false,
-  "se": "2026-41",
-  "descricao": "",
-  "coletado_em": "2026-10-16T13:26:18+00:00",
-  "municipios": [],
-  "pontuacao": 8.0,
-  "agravos": [
-   "Emergências e desastres"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": [
-   "inundacao"
-  ]
- },
- {
-  "id": "7ef12f59ac386a",
-  "titulo": "Reconhecida emergência em 82 cidades potiguares afetadas pela seca",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPazF4Y20zbVRRcXZOT1k2YXljUjBDYnNJRFBzVm1yYVVoU3NNeVBNVFlDcTZFZlplMTNLd1JtSkVWWkdKVUYzT0RwaExLd3JkYTRqSm13aHc5djBNV1NCT3ZMcFpfcTNnTC1Lemt2U1RaM1lSOXR3WGdOOUpjNUlZMUl0QUtMZUM0QlQ4THhlMHZ1bHg5NHNxRk9wVnZINE9uZHZUYVNJWFM3cFVoTkE?oc=5",
-  "fonte_id": "defesa-civil-busca",
-  "fonte": "www.gov.br",
-  "sigla": "Defesa Civil",
-  "idioma": "pt",
-  "data": "2026-10-14",
-  "data_estimada": false,
-  "se": "2026-41",
-  "descricao": "",
-  "coletado_em": "2026-10-16T13:34:20+00:00",
-  "municipios": [],
-  "pontuacao": 7.5,
-  "agravos": [
-   "Saúde ambiental e clima"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": []
- },
- {
-  "id": "2728e3f9a837d0",
-  "titulo": "Defesa Civil de São Paulo alerta para chuva intensa nesta quinta-feira (15), com acumulados que podem chegar a 80 mm",
-  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVnQ1UDRrR0VCT0xhcjhTNFo2WlN1ZUVuNWl2ZkNSZFlLNUktNG9teURDcy1ZSndDbENGNWhTRS1nS3lkZWZlNExfQUVENkpKYlI2YUM3TDV3R2oxT0Z2WXRyUmd5a1BxeGh2YkwxekRHN1JUX0JCQU1rODVzTHc2MVBkR253ZkVZUE5wckMxYU9JMVZxZDlZV3E3OXl6Z1pKUTg0S3hHVmtXcWV4UlFkSkFjWmJsM0hKR2VhVTBTYzNzQ2dHdnlUaXhWOU9fclpNcXQyaktWMnRlZm43N3A4?oc=5",
-  "fonte_id": "defesa-civil-busca",
-  "fonte": "agenciasp.sp.gov.br",
-  "sigla": "Defesa Civil",
-  "idioma": "pt",
-  "data": "2026-10-14",
-  "data_estimada": false,
-  "se": "2026-41",
-  "descricao": "",
-  "coletado_em": "2026-10-16T13:34:20+00:00",
-  "municipios": [],
-  "pontuacao": 9.5,
-  "agravos": [
-   "Saúde ambiental e clima"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": [
-   "alerta para"
-  ]
- },
- {
-  "id": "8705fbf0ece2c6",
-  "titulo": "Defesa Civil de São Paulo alerta para chuva intensa nesta quinta-feira (15), com acumulados que podem chegar a 80 mm",
-  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMHc5ajF3ZlZlek5BaUlDZzZvdFpSYnJWZnNWNUFtRnd1a0tCWk5EQUE4WElvOGllN3JTc2xUM09SVnR1d2dlM1hMT1dMRjY0MW8xT0tqWHZ5SUw3MmRwT0Y1RE9SMDF4SlZEVjVtT1NKRFNBbW5Jcm5Da1A2RWZZbnpwVGxuQnM4WHdwZ3hSZ2tMak1DMkZVU0k3QTBoNEl4ZVBpZmxrQVZ1ZmRLU3MzdzVCS05oOUluMXhWY3pwYkw3X293ZmhXR0VHNG9uZFhEOWVVSW0xSVlGS085akl6X2tYaUtGenJmLTAwRWd2V1Q?oc=5",
-  "fonte_id": "defesa-civil-busca",
-  "fonte": "agenciasp.sp.gov.br",
-  "sigla": "Defesa Civil",
-  "idioma": "pt",
-  "data": "2026-10-14",
-  "data_estimada": false,
-  "se": "2026-41",
-  "descricao": "",
-  "coletado_em": "2026-10-17T09:19:59+00:00",
-  "municipios": [],
-  "pontuacao": 9.5,
-  "agravos": [
-   "Saúde ambiental e clima"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": [
-   "alerta para"
-  ]
  },
  {
   "id": "7b04918efc06e1",
@@ -4326,29 +4896,6 @@
   "municipios": []
  },
  {
-  "id": "e701a34d8483e8",
-  "titulo": "Parte do teto de túnel da Câmara desabou nesta quarta-feira",
-  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/parte-do-teto-de-tunel-da-camara-desabou-nesta-quarta-feira",
-  "fonte_id": "agencia-brasil-geral",
-  "fonte": "Agência Brasil | Geral",
-  "sigla": "Agência Brasil",
-  "idioma": "pt",
-  "data": "2026-10-14",
-  "data_estimada": false,
-  "se": "2026-41",
-  "descricao": "Uma parte do reboco do teto do chamado Túnel do Tempo, da Câmara dos Deputados, desabou durante a madrugada desta quarta-feira (14). O túnel forma um corredor que liga o Anexo II da Câmara, onde ficam as comissões permanentes, até o Salão Verde, que é o espaço que dá acesso ao plenário. Não houve feridos e a passagem para funcionários ou visitantes pelo corredor foi fechada. Equipes de engenharia da Câmara estão no local para reparar o dano. Não foi detectado qualquer dano à estrutura do prédio, segundo informou a assessoria de imprensa da Câmara dos Deputados. “A circulação entre o Edifício Principal e o Anexo II deverá ser feita pela área externa. Para facilitar o acesso, o fluxo de pessoas na Chapelaria estará liberado para todos os públicos nesta quarta-feira”, informou a Câmara. O plenário da Câmara dos Deputados tem sessão deliberativa marcada para as 13h55 para debater projetos de lei e decreto legislativo. Confira mais informações sobre o desabamento no Repórter Brasil, da TV Brasil",
-  "coletado_em": "2026-10-15T17:33:28+00:00",
-  "pontuacao": 8.5,
-  "agravos": [
-   "Emergências e desastres"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": [
-   "desabamento"
-  ],
-  "municipios": []
- },
- {
   "id": "b13bd1003539ce",
   "titulo": "CCJ do Senado conclui votação da PEC da Segurança Pública",
   "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/ccj-do-senado-conclui-votacao-da-pec-da-seguranca-publica",
@@ -4389,27 +4936,6 @@
   ]
  },
  {
-  "id": "1c13c35a5d943b",
-  "titulo": "Fiocruz analisa impacto das queimadas na saúde indígena no Amazonas",
-  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/fiocruz-analisa-impacto-das-queimadas-na-saude-indigena-no-amazonas",
-  "fonte_id": "agencia-brasil-saude",
-  "fonte": "Agência Brasil | Saúde",
-  "sigla": "Agência Brasil",
-  "idioma": "pt",
-  "data": "2026-10-13",
-  "data_estimada": false,
-  "se": "2026-41",
-  "descricao": "A poluição do ar provocada por queimadas e incêndios florestais no Amazonas representa um risco à saúde da população, especialmente das comunidades indígenas, que enfrentam dificuldades de acesso aos serviços de saúde. O alerta faze parte de levantamento apresentado por pesquisadores do Observatório de Clima e Saúde da Fundação Oswaldo Cruz (Fiocruz), que reúne dados sobre a concentração de poluentes e a distribuição dos focos de incêndio no estado.",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.0,
-  "agravos": [
-   "Saúde ambiental e clima"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": [],
-  "municipios": []
- },
- {
   "id": "87a34c55d97156",
   "titulo": "Nota técnica aborda impactos das queimadas na qualidade do ar e riscos à saúde indígena no Amazonas",
   "url": "https://agencia.fiocruz.br/nota-tecnica-aborda-impactos-das-queimadas-na-qualidade-do-ar-e-riscos-saude-indigena-no-amazonas",
@@ -4433,27 +4959,6 @@
   "municipios": []
  },
  {
-  "id": "d8f4325315339c",
-  "titulo": "EL NIÑO ganha intensidade e registra a segunda maior anomalia para setembro desde 1950",
-  "url": "https://portal.inmet.gov.br/noticias/el-niño-ganha-intensidade-e-registra-a-segunda-maior-anomalia-para-setembro-desde-1950",
-  "fonte_id": "inmet",
-  "fonte": "INMET | Notícias",
-  "sigla": "INMET",
-  "idioma": "pt",
-  "data": "2026-10-13",
-  "data_estimada": false,
-  "se": "2026-41",
-  "descricao": "",
-  "coletado_em": "2026-10-16T13:26:18+00:00",
-  "municipios": [],
-  "pontuacao": 7.5,
-  "agravos": [
-   "Saúde ambiental e clima"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": []
- },
- {
   "id": "006bee2c686140",
   "titulo": "Defesa Civil alerta para chuvas fortes entre essa terça-feira (13) e quinta-feira (15)",
   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMHJoVTE0cVd1b3dhZWZ5dll4QURESFU5bmtGcmQzUXV2R29Ib0JyU0cwU1g2WUxKeVBYd1JRNzZYMWlDdXRVOU9WQjVGUnFQc0l3eE1zTGR2eWdob1psMThWRjZnbTUtZnUxSGROcjR5ZU5PMFZvajNqVWtxY0c4NG1yNGJSek56cTQwcUNEMkN4REJSVmF0QWRLNmg3UFRfcVJKUXp1TS15ekdYYVREWGpGUQ?oc=5",
@@ -4474,7 +4979,8 @@
   "escopo": "Brasil",
   "termos_evento": [
    "alerta para"
-  ]
+  ],
+  "link_tentado": true
  },
  {
   "id": "b9277eaa90042e",
@@ -4497,7 +5003,29 @@
   "escopo": "Brasil",
   "termos_evento": [
    "alerta para"
-  ]
+  ],
+  "link_tentado": true
+ },
+ {
+  "id": "d8f4325315339c",
+  "titulo": "EL NIÑO ganha intensidade e registra a segunda maior anomalia para setembro desde 1950",
+  "url": "https://portal.inmet.gov.br/noticias/el-niño-ganha-intensidade-e-registra-a-segunda-maior-anomalia-para-setembro-desde-1950",
+  "fonte_id": "inmet",
+  "fonte": "INMET | Notícias",
+  "sigla": "INMET",
+  "idioma": "pt",
+  "data": "2026-10-13",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-16T13:26:18+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
  },
  {
   "id": "591ef29ac343b9",
@@ -4518,7 +5046,29 @@
    "Saúde ambiental e clima"
   ],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "link_tentado": true
+ },
+ {
+  "id": "1c13c35a5d943b",
+  "titulo": "Fiocruz analisa impacto das queimadas na saúde indígena no Amazonas",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/fiocruz-analisa-impacto-das-queimadas-na-saude-indigena-no-amazonas",
+  "fonte_id": "agencia-brasil-saude",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-13",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "A poluição do ar provocada por queimadas e incêndios florestais no Amazonas representa um risco à saúde da população, especialmente das comunidades indígenas, que enfrentam dificuldades de acesso aos serviços de saúde. O alerta faze parte de levantamento apresentado por pesquisadores do Observatório de Clima e Saúde da Fundação Oswaldo Cruz (Fiocruz), que reúne dados sobre a concentração de poluentes e a distribuição dos focos de incêndio no estado.",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 5.0,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "2076d657eebc3c",
@@ -4539,7 +5089,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
-  ]
+  ],
+  "link_tentado": true
  },
  {
   "id": "35f9f8f90336ff",
@@ -4560,7 +5111,8 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
-  ]
+  ],
+  "link_tentado": true
  },
  {
   "id": "585cd4e9f6d06c",
@@ -5020,7 +5572,8 @@
   "escopo": "Brasil",
   "termos_evento": [
    "alerta para"
-  ]
+  ],
+  "link_tentado": true
  },
  {
   "id": "34bded025058c3",
@@ -5043,7 +5596,8 @@
   "escopo": "Brasil",
   "termos_evento": [
    "alerta para"
-  ]
+  ],
+  "link_tentado": true
  },
  {
   "id": "334a3a13e22de8",
@@ -5142,7 +5696,8 @@
    "Saúde ambiental e clima"
   ],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "link_tentado": true
  },
  {
   "id": "8511cc09179cea",
@@ -5163,7 +5718,8 @@
    "Saúde ambiental e clima"
   ],
   "escopo": "Brasil",
-  "termos_evento": []
+  "termos_evento": [],
+  "link_tentado": true
  },
  {
   "id": "9606cbb42c8d65",
@@ -5184,7 +5740,8 @@
    "Emergências e desastres"
   ],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "link_tentado": true
  },
  {
   "id": "feb6c1ee2a3b91",
@@ -5205,7 +5762,8 @@
    "Emergências e desastres"
   ],
   "escopo": "Américas",
-  "termos_evento": []
+  "termos_evento": [],
+  "link_tentado": true
  },
  {
   "id": "8022336bc29dcd",
@@ -5233,50 +5791,6 @@
   "municipios": []
  },
  {
-  "id": "d1038f88d5be6f",
-  "titulo": "Malária: Anvisa autoriza teste em humanos de vacina 100% brasileira",
-  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/malaria-anvisa-autoriza-teste-em-humanos-de-vacina-100-brasileira",
-  "fonte_id": "agencia-brasil-saude",
-  "fonte": "Agência Brasil | Saúde",
-  "sigla": "Agência Brasil",
-  "idioma": "pt",
-  "data": "2026-10-10",
-  "data_estimada": false,
-  "se": "2026-40",
-  "descricao": "A Agência Nacional de Vigilância Sanitária (Anvisa) autorizou o início de testes em humanos da primeira vacina do mundo contra a malária causada pelo Plasmodium vivax , parasita responsável pela maioria dos casos da doença no país. O imunizante é feito com tecnologia 100% nacional. Em nota, o Ministério da Saúde detalhou que a dose, chamada Vivaxin, é fruto de pesquisas conduzidas pelo Centro de Tecnologia de Vacinas (CTVacinas) da Universidade Federal de Minas Gerais (UFMG). A tecnologia tem incentivo previsto de R$ 12 milhões da pasta para ensaios clínicos de fases I, II e III.",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.0,
-  "agravos": [
-   "Malária"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": [
-   "vigilancia"
-  ],
-  "municipios": []
- },
- {
-  "id": "eefe939cf644be",
-  "titulo": "Brasil avança no desenvolvimento da primeira vacina do mundo contra malária vivax",
-  "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/brasil-avanca-no-desenvolvimento-da-primeira-vacina-do-mundo-contra-malaria-vivax",
-  "fonte_id": "ms-noticias",
-  "fonte": "Ministério da Saúde | Notícias",
-  "sigla": "MS",
-  "idioma": "pt",
-  "data": "2026-10-10",
-  "data_estimada": false,
-  "se": "2026-40",
-  "descricao": "",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 9.0,
-  "agravos": [
-   "Malária"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": [],
-  "municipios": []
- },
- {
   "id": "660b42ac13e45c",
   "titulo": "DF registra 39 incêndios em vegetação somente neste sábado (10/10), diz CBMDF",
   "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7518760-df-registra-39-incendios-em-vegetacao-somente-neste-sabado-10-10-diz-cbmdf.html",
@@ -5300,46 +5814,25 @@
   "termos_evento": []
  },
  {
-  "id": "dc425428ed05b6",
-  "titulo": "Kenya prepared for Ebola. It still slipped through — a warning of wider cross-border spread",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd0FkREQxSmZmWEt5SjIwNmhNV0FzM0lmbWhhaHlGZmlmZXJYNnAtaWNEVzhhYUx3cGdoTjNNRVJybnpqbkVwNTBuaFVLcklINGR4bTJreDJ2VnBORWhRbVViUGdpWldxTzBHMndpRzNpN1JPc3dpemZOZDFDYVBRdEdCNFk?oc=5",
-  "fonte_id": "cnn-busca",
-  "fonte": "CNN",
-  "sigla": "CNN",
-  "idioma": "en",
+  "id": "eefe939cf644be",
+  "titulo": "Brasil avança no desenvolvimento da primeira vacina do mundo contra malária vivax",
+  "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/brasil-avanca-no-desenvolvimento-da-primeira-vacina-do-mundo-contra-malaria-vivax",
+  "fonte_id": "ms-noticias",
+  "fonte": "Ministério da Saúde | Notícias",
+  "sigla": "MS",
+  "idioma": "pt",
   "data": "2026-10-10",
   "data_estimada": false,
   "se": "2026-40",
   "descricao": "",
-  "coletado_em": "2026-10-16T13:28:10+00:00",
-  "municipios": [],
-  "pontuacao": 6.5,
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 9.0,
   "agravos": [
-   "Doença pelo vírus Ebola"
+   "Malária"
   ],
-  "escopo": "Internacional",
-  "termos_evento": []
- },
- {
-  "id": "4e71b75323facc",
-  "titulo": "Kenya prepared for Ebola. It still slipped through — a warning of wider cross-border spread",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPSGdxVlloZzI0RHBReUo5ZFZDSFZQZjdtWWhqUVFSeWZva2U4YTZvY0RoSVRJLUhCTVhzbWVFUlVha1RXQkhfS0xVNHNUVmkxeUJYb2FTclBNanVBU1JjU1BFRU1Pb0N2TC1TdmFOVk81MW1tZTNfRjdmd1BPY28?oc=5",
-  "fonte_id": "cnn-busca",
-  "fonte": "CNN",
-  "sigla": "CNN",
-  "idioma": "en",
-  "data": "2026-10-10",
-  "data_estimada": false,
-  "se": "2026-40",
-  "descricao": "",
-  "coletado_em": "2026-10-16T21:06:09+00:00",
-  "municipios": [],
-  "pontuacao": 6.5,
-  "agravos": [
-   "Doença pelo vírus Ebola"
-  ],
-  "escopo": "Internacional",
-  "termos_evento": []
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "municipios": []
  },
  {
   "id": "eaa3871d571417",
@@ -5361,6 +5854,73 @@
   "escopo": "Américas",
   "termos_evento": [],
   "municipios": []
+ },
+ {
+  "id": "d1038f88d5be6f",
+  "titulo": "Malária: Anvisa autoriza teste em humanos de vacina 100% brasileira",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/malaria-anvisa-autoriza-teste-em-humanos-de-vacina-100-brasileira",
+  "fonte_id": "agencia-brasil-saude",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-10",
+  "data_estimada": false,
+  "se": "2026-40",
+  "descricao": "A Agência Nacional de Vigilância Sanitária (Anvisa) autorizou o início de testes em humanos da primeira vacina do mundo contra a malária causada pelo Plasmodium vivax , parasita responsável pela maioria dos casos da doença no país. O imunizante é feito com tecnologia 100% nacional. Em nota, o Ministério da Saúde detalhou que a dose, chamada Vivaxin, é fruto de pesquisas conduzidas pelo Centro de Tecnologia de Vacinas (CTVacinas) da Universidade Federal de Minas Gerais (UFMG). A tecnologia tem incentivo previsto de R$ 12 milhões da pasta para ensaios clínicos de fases I, II e III.",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 7.0,
+  "agravos": [
+   "Malária"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "vigilancia"
+  ],
+  "municipios": []
+ },
+ {
+  "id": "dc425428ed05b6",
+  "titulo": "Kenya prepared for Ebola. It still slipped through — a warning of wider cross-border spread",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd0FkREQxSmZmWEt5SjIwNmhNV0FzM0lmbWhhaHlGZmlmZXJYNnAtaWNEVzhhYUx3cGdoTjNNRVJybnpqbkVwNTBuaFVLcklINGR4bTJreDJ2VnBORWhRbVViUGdpWldxTzBHMndpRzNpN1JPc3dpemZOZDFDYVBRdEdCNFk?oc=5",
+  "fonte_id": "cnn-busca",
+  "fonte": "CNN",
+  "sigla": "CNN",
+  "idioma": "en",
+  "data": "2026-10-10",
+  "data_estimada": false,
+  "se": "2026-40",
+  "descricao": "",
+  "coletado_em": "2026-10-16T13:28:10+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Doença pelo vírus Ebola"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [],
+  "link_tentado": true
+ },
+ {
+  "id": "4e71b75323facc",
+  "titulo": "Kenya prepared for Ebola. It still slipped through — a warning of wider cross-border spread",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPSGdxVlloZzI0RHBReUo5ZFZDSFZQZjdtWWhqUVFSeWZva2U4YTZvY0RoSVRJLUhCTVhzbWVFUlVha1RXQkhfS0xVNHNUVmkxeUJYb2FTclBNanVBU1JjU1BFRU1Pb0N2TC1TdmFOVk81MW1tZTNfRjdmd1BPY28?oc=5",
+  "fonte_id": "cnn-busca",
+  "fonte": "CNN",
+  "sigla": "CNN",
+  "idioma": "en",
+  "data": "2026-10-10",
+  "data_estimada": false,
+  "se": "2026-40",
+  "descricao": "",
+  "coletado_em": "2026-10-16T21:06:09+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Doença pelo vírus Ebola"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [],
+  "link_tentado": true
  },
  {
   "id": "f59d9cd1de9877",
@@ -5403,6 +5963,50 @@
   "municipios": []
  },
  {
+  "id": "1daa53843d6690",
+  "titulo": "Powerful earthquake shakes Panama, followed by large aftershocks",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lSmliX0hjeTJTSFJYcVhmMlBXZFo4VFlDSmZtT3RxLWh1WmhkaXJUcG03UG43UGMtbER6XzNDcDFCYVRvMXN2dk1CcFdtUnRyYml1bXdQV0tpSE9yNjVZOWtKYjlJd011eGhLZXNDT0hkNE1WNXVv?oc=5",
+  "fonte_id": "cnn-busca",
+  "fonte": "CNN",
+  "sigla": "CNN",
+  "idioma": "en",
+  "data": "2026-10-09",
+  "data_estimada": false,
+  "se": "2026-40",
+  "descricao": "",
+  "coletado_em": "2026-10-16T13:28:10+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Emergências e desastres"
+  ],
+  "escopo": "Américas",
+  "termos_evento": [],
+  "link_tentado": true
+ },
+ {
+  "id": "93dd5f2905fceb",
+  "titulo": "Powerful earthquake shakes Panama, followed by large aftershocks",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JMVY0Vkg5VmRjYlNRdThGNVpGeEVZMXNNVndBNE1fZ2JTb2JXbkNXam9naHNiSEhGWmtRMkw5RHRCeDBpMmN4UUViT1lyRzdfTmM1aG9oYS1tWFZ4T2owTl9LanowZTFCZXRJR1h5dU5XUkp5ZlE?oc=5",
+  "fonte_id": "cnn-busca",
+  "fonte": "CNN",
+  "sigla": "CNN",
+  "idioma": "en",
+  "data": "2026-10-09",
+  "data_estimada": false,
+  "se": "2026-40",
+  "descricao": "",
+  "coletado_em": "2026-10-16T13:34:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Emergências e desastres"
+  ],
+  "escopo": "Américas",
+  "termos_evento": [],
+  "link_tentado": true
+ },
+ {
   "id": "558790e1fd37f1",
   "titulo": "Communicable disease threats report, 3 - 9 October, week 41",
   "url": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-3-9-october-week-41",
@@ -5424,48 +6028,6 @@
   "escopo": "Internacional",
   "termos_evento": [],
   "municipios": []
- },
- {
-  "id": "1daa53843d6690",
-  "titulo": "Powerful earthquake shakes Panama, followed by large aftershocks",
-  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lSmliX0hjeTJTSFJYcVhmMlBXZFo4VFlDSmZtT3RxLWh1WmhkaXJUcG03UG43UGMtbER6XzNDcDFCYVRvMXN2dk1CcFdtUnRyYml1bXdQV0tpSE9yNjVZOWtKYjlJd011eGhLZXNDT0hkNE1WNXVv?oc=5",
-  "fonte_id": "cnn-busca",
-  "fonte": "CNN",
-  "sigla": "CNN",
-  "idioma": "en",
-  "data": "2026-10-09",
-  "data_estimada": false,
-  "se": "2026-40",
-  "descricao": "",
-  "coletado_em": "2026-10-16T13:28:10+00:00",
-  "municipios": [],
-  "pontuacao": 7.5,
-  "agravos": [
-   "Emergências e desastres"
-  ],
-  "escopo": "Américas",
-  "termos_evento": []
- },
- {
-  "id": "93dd5f2905fceb",
-  "titulo": "Powerful earthquake shakes Panama, followed by large aftershocks",
-  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JMVY0Vkg5VmRjYlNRdThGNVpGeEVZMXNNVndBNE1fZ2JTb2JXbkNXam9naHNiSEhGWmtRMkw5RHRCeDBpMmN4UUViT1lyRzdfTmM1aG9oYS1tWFZ4T2owTl9LanowZTFCZXRJR1h5dU5XUkp5ZlE?oc=5",
-  "fonte_id": "cnn-busca",
-  "fonte": "CNN",
-  "sigla": "CNN",
-  "idioma": "en",
-  "data": "2026-10-09",
-  "data_estimada": false,
-  "se": "2026-40",
-  "descricao": "",
-  "coletado_em": "2026-10-16T13:34:20+00:00",
-  "municipios": [],
-  "pontuacao": 7.5,
-  "agravos": [
-   "Emergências e desastres"
-  ],
-  "escopo": "Américas",
-  "termos_evento": []
  },
  {
   "id": "67f3e1af89909c",
@@ -8630,6 +9192,27 @@
   "municipios": []
  },
  {
+  "id": "2e0a2d796cd285",
+  "titulo": "Rapid scientific advice – Risk of Bundibugyo virus transmission through substances of human origin in the European Union/European Economic Area (EU/EEA)",
+  "url": "https://www.ecdc.europa.eu/en/publications-data/risk-bundibugyo-virus-transmission-through-substances-human-origin-european",
+  "fonte_id": "ecdc-avaliacoes",
+  "fonte": "ECDC | Risk assessments",
+  "sigla": "ECDC",
+  "idioma": "en",
+  "data": "2026-06-11",
+  "data_estimada": false,
+  "se": "2026-23",
+  "descricao": "The overall risk of Bundibugyo virus transmission through substances of human origin (SoHO) in the European Union/European Economic Area (EU/EEA) is currently assessed as very low.",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 7.5,
+  "agravos": [
+   "Doença pelo vírus Ebola"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [],
+  "municipios": []
+ },
+ {
   "id": "0a82b588ff850d",
   "titulo": "Legionnaires Disease Associated with a Private-Use Hot Tub in a Vacation Rental Property - New York, October 2024-April 2025",
   "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765813",
@@ -8651,27 +9234,6 @@
   "termos_evento": [
    "outbreak"
   ],
-  "municipios": []
- },
- {
-  "id": "2e0a2d796cd285",
-  "titulo": "Rapid scientific advice – Risk of Bundibugyo virus transmission through substances of human origin in the European Union/European Economic Area (EU/EEA)",
-  "url": "https://www.ecdc.europa.eu/en/publications-data/risk-bundibugyo-virus-transmission-through-substances-human-origin-european",
-  "fonte_id": "ecdc-avaliacoes",
-  "fonte": "ECDC | Risk assessments",
-  "sigla": "ECDC",
-  "idioma": "en",
-  "data": "2026-06-11",
-  "data_estimada": false,
-  "se": "2026-23",
-  "descricao": "The overall risk of Bundibugyo virus transmission through substances of human origin (SoHO) in the European Union/European Economic Area (EU/EEA) is currently assessed as very low.",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.5,
-  "agravos": [
-   "Doença pelo vírus Ebola"
-  ],
-  "escopo": "Internacional",
-  "termos_evento": [],
   "municipios": []
  },
  {
