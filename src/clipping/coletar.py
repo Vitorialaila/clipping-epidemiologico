@@ -186,6 +186,21 @@ def _google_news(fonte: dict, s, timeout: int) -> list[dict]:
     return itens
 
 
+def _link_original(url: str) -> str:
+    """Troca o link de redirecionamento do Google Notícias pelo endereço da matéria (o texto completo
+    e o resumo do clipping dependem da página original). Se não conseguir, mantém o link recebido."""
+    if "news.google.com" not in url:
+        return url
+    try:
+        from googlenewsdecoder import gnewsdecoder
+        r = gnewsdecoder(url, interval=1, timeout=15)
+        if r.get("status") and r.get("decoded_url"):
+            return r["decoded_url"]
+    except Exception as erro:  # noqa: BLE001
+        log.warning("Não foi possível obter o link original de %s: %s", url[:80], erro)
+    return url
+
+
 COLETORES = {"rss": _rss, "who_api": _who_api, "html": _html, "google_news": _google_news}
 
 
@@ -199,6 +214,14 @@ def coletar() -> dict:
     agora = datetime.now(timezone.utc).isoformat(timespec="seconds")
     resumo = {"novas": 0, "fontes_ok": [], "fontes_erro": {}}
     status = {}  # diagnóstico por fonte, salvo em data/coleta_status.json
+
+    # Links antigos do Google Notícias (até 30 por execução, das últimas duas semanas): busca o endereço original
+    recentes = (hoje - timedelta(days=14)).isoformat()
+    pendentes = [n for n in base.values()
+                 if "news.google.com" in n["url"] and n["data"] >= recentes and not n.get("link_tentado")][:30]
+    for n in pendentes:
+        n["url"] = _link_original(n["url"])
+        n["link_tentado"] = True
 
     for fonte in cfg["fontes"]:
         if fonte.get("ativo", True) is False:
@@ -216,6 +239,8 @@ def coletar() -> dict:
             nid = id_noticia(it["url"])
             if nid in base:
                 continue
+            if fonte["tipo"] == "google_news":
+                it["url"] = _link_original(it["url"])
             d = it["data"]
             estimada = False
             if d is None:

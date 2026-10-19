@@ -247,12 +247,22 @@ def panorama(destaques: list[dict], rotulo_se: str, periodo: str) -> str:
     return sem_travessao(texto.strip().strip('"'))
 
 
+_RUIDO = re.compile(
+    r"(leia (tamb[eé]m|mais)|veja (tamb[eé]m|mais)|confira (tamb[eé]m)?|saiba mais|siga o|inscreva-se|"
+    r"publicidade|assine|compartilhe|clique aqui|whatsapp|newsletter|read more|related:|sign up)", re.I)
+
+
 def resumo_extrativo(texto: str, limite: int = 620) -> str:
-    """Alternativa sem IA: primeiras frases do texto original."""
-    texto = re.sub(r"\s+", " ", texto or "").strip()
+    """Alternativa sem IA: primeiras frases do texto original, sem chamadas para outras matérias."""
+    linhas = [l.strip() for l in (texto or "").splitlines()]
+    # Descarta linhas de navegação ("Leia também", chamadas, créditos curtos) antes de juntar o texto
+    linhas = [l for l in linhas if l and not _RUIDO.search(l) and len(l) > 40]
+    texto = re.sub(r"\s+", " ", " ".join(linhas)).strip()
     frases = re.split(r"(?<=[.!?])\s+(?=[A-ZÀ-Ú0-9])", texto)
     saida = ""
     for f in frases:
+        if _RUIDO.search(f):
+            continue
         if len(saida) + len(f) > limite:
             break
         saida += (" " if saida else "") + f
