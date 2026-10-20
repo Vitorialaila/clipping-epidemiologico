@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-10-20T04:48:24+00:00",
+  "em": "2026-10-20T10:03:37+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,17 +10,17 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-10-20T04:48:24+00:00",
+  "em": "2026-10-20T10:03:37+00:00",
   "lidos": 40,
-  "novos": 3,
+  "novos": 1,
   "exemplos": [
+   "WHO report examines inequalities in noncommunicable diseases and their risk factors",
    "One in four doctors nearing retirement age as WHO warns of global health workforce gap",
-   "Traditional medicine, resilience and well-being at World Health Summit 2026",
-   "WHO releases training manual to expand access to early breast cancer care"
+   "Traditional medicine, resilience and well-being at World Health Summit 2026"
   ]
  },
  "opas-alertas": {
-  "em": "2026-10-20T04:48:24+00:00",
+  "em": "2026-10-20T10:03:37+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-10-20T04:48:24+00:00",
+  "em": "2026-10-20T10:03:37+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-10-20T04:48:24+00:00",
+  "em": "2026-10-20T10:03:37+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-10-20T04:48:24+00:00",
+  "em": "2026-10-20T10:03:37+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-10-20T04:48:24+00:00",
+  "em": "2026-10-20T10:03:37+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-10-20T04:48:24+00:00",
+  "em": "2026-10-20T10:03:37+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-10-20T04:48:24+00:00",
+  "em": "2026-10-20T10:03:37+00:00",
   "lidos": 2343,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-10-20T04:48:24+00:00",
+  "em": "2026-10-20T10:03:37+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,7 +100,7 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-10-20T04:48:24+00:00",
+  "em": "2026-10-20T10:03:37+00:00",
   "lidos": 15,
   "novos": 0,
   "exemplos": [
@@ -110,7 +110,7 @@
   ]
  },
  "fiocruz": {
-  "em": "2026-10-20T04:48:24+00:00",
+  "em": "2026-10-20T10:03:37+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -120,7 +120,7 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-10-20T04:48:24+00:00",
+  "em": "2026-10-20T10:03:37+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -130,7 +130,7 @@
   ]
  },
  "ses-go": {
-  "em": "2026-10-20T04:48:24+00:00",
+  "em": "2026-10-20T10:03:37+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -140,7 +140,7 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-10-20T04:48:24+00:00",
+  "em": "2026-10-20T10:03:37+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -150,17 +150,17 @@
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-10-20T04:48:24+00:00",
-  "lidos": 26,
+  "em": "2026-10-20T10:03:37+00:00",
+  "lidos": 25,
   "novos": 0,
   "exemplos": [
-   "Dia da Osteoporose: passageiros têm acesso a exame gratuito em metrô de SP",
-   "Câncer de mama: aumento de casos reflete incidência e avanço no diagnóstico",
-   "Lua Blanco enfrentava câncer de intestino; entenda diagnóstico"
+   "Osteoporose: a importância de cuidar do osso antes da próxima fratura",
+   "Benito Di Paula: 9 em cada 10 com câncer de próstata tem mais de 55 anos",
+   "Veja quais são os sintomas do câncer que matou a atriz Lua Blanco"
   ]
  },
  "cnn-saude": {
-  "em": "2026-10-20T04:48:24+00:00",
+  "em": "2026-10-20T10:03:37+00:00",
   "lidos": 19,
   "novos": 0,
   "exemplos": [
@@ -170,8 +170,8 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-10-20T04:48:24+00:00",
-  "lidos": 18,
+  "em": "2026-10-20T10:03:37+00:00",
+  "lidos": 17,
   "novos": 0,
   "exemplos": [
    "‘Who, us? We’re not anti-vaccine,’ parents tell me. ‘Today just doesn’t work for us’",
@@ -180,7 +180,7 @@
   ]
  },
  "inmet": {
-  "em": "2026-10-20T04:48:24+00:00",
+  "em": "2026-10-20T10:03:37+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -190,11 +190,17 @@
   ]
  },
  "cemaden": {
-  "em": "2026-10-20T04:48:24+00:00",
-  "erro": "HTTPSConnectionPool(host='www.gov.br', port=443): Read timed out. (read timeout=30)"
+  "em": "2026-10-20T10:03:37+00:00",
+  "lidos": 10,
+  "novos": 0,
+  "exemplos": [
+   "Boletim de Impactos de Extremos de Origem Hidro-Geo-Climático em Atividades Estratégicas para o Brasil",
+   "Estado do Clima, Extremos de Clima e Desastres no Brasil",
+   "5. Agrometeorologia e Incêndios Florestais"
+  ]
  },
  "defesa-civil-busca": {
-  "em": "2026-10-20T04:48:24+00:00",
+  "em": "2026-10-20T10:03:37+00:00",
   "lidos": 25,
   "novos": 0,
   "exemplos": [
@@ -204,13 +210,13 @@
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-10-20T04:48:24+00:00",
-  "lidos": 21,
-  "novos": 4,
+  "em": "2026-10-20T10:03:37+00:00",
+  "lidos": 20,
+  "novos": 6,
   "exemplos": [
-   "Mega-Sena acumula, e prêmio chega a R$ 185 mi; aposta do DF leva quina",
-   "Obituário: 48 funerais nesta segunda-feira (19/10); confira lista",
-   "\"Vamos transformar o DF na capital da tecnologia\", destaca Grass"
+   "Homem investigado por extorquir 28 mulheres é preso no Paranoá",
+   "Ponte JK terá cinco faixas no sentido Plano Piloto a partir de quarta-feira",
+   "Coro da renovação: canto das cigarras toma as quadras do Plano Piloto"
   ]
  }
 }
