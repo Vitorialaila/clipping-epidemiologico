@@ -47,6 +47,27 @@
   "termos_evento": []
  },
  {
+  "id": "cbc2fa260f1225",
+  "titulo": "Base da Força Nacional do SUS em Manaus começa a operar e apoia resposta às queimadas no Amazonas",
+  "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/base-da-forca-nacional-do-sus-em-manaus-comeca-a-operar-e-apoia-resposta-as-queimadas-no-amazonas",
+  "fonte_id": "ms-noticias",
+  "fonte": "Ministério da Saúde | Notícias",
+  "sigla": "MS",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-20T22:19:21+00:00",
+  "municipios": [],
+  "pontuacao": 8.0,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
   "id": "3677b4555b27c1",
   "titulo": "Nova vacina combate 21 tipos de bactéria que causa pneumonia e meningite",
   "url": "https://www.cnnbrasil.com.br/saude/nova-vacina-combate-21-tipos-de-bacteria-que-causa-pneumonia-e-meningite/",
@@ -65,6 +86,28 @@
    "Doença meningocócica e meningites"
   ],
   "escopo": "Internacional",
+  "termos_evento": []
+ },
+ {
+  "id": "5b190269b78a6e",
+  "titulo": "Repórter Tâmara Freire, da Agência Brasil, é finalista no Prêmio SBIm",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/reporter-tamara-freire-da-agencia-brasil-e-finalista-no-premio-sbim",
+  "fonte_id": "agencia-brasil-saude",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "A repórter da Agência Brasil Tâmara Freire foi selecionada entre os finalistas do VII Prêmio SBIm de Jornalismo em Saúde, com a reportagem Resistência às vacinas contra gripe e covid coloca gestantes em risco . A lista de candidatos ao prêmio foi divulgada nesta terça-feira (20). A reportagem conta com a edição de Juliana Andrade e fotos de Tomaz Silva e Fernando Frazão. O trabalho foi considerado um dos três melhores na categoria Texto para internet e mostra que, em 2025, apenas 55% das grávidas se vacinaram contra a covid-19, e 63% contra o influenza, vírus causador da gripe.",
+  "coletado_em": "2026-10-20T22:19:21+00:00",
+  "municipios": [],
+  "pontuacao": 4.5,
+  "agravos": [
+   "Influenza e vírus respiratórios",
+   "COVID-19"
+  ],
+  "escopo": "Brasil",
   "termos_evento": []
  },
  {
@@ -823,6 +866,393 @@
   "se": "2026-42",
   "descricao": "",
   "coletado_em": "2026-10-20T19:15:20+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "a7cbc168b2e37c",
+  "titulo": "Foz do Iguaçu vai receber nova maternidade e integrar a rede de hospitais inteligentes",
+  "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/foz-do-iguacu-vai-receber-nova-maternidade-e-integrar-a-rede-de-hospitais-inteligentes",
+  "fonte_id": "ms-noticias",
+  "fonte": "Ministério da Saúde | Notícias",
+  "sigla": "MS",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-20T22:19:21+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "9f5c9bf647e5f9",
+  "titulo": "Farmácia Popular está presente em 5 mil municípios brasileiros",
+  "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/farmacia-popular-esta-presente-em-5-mil-municipios-brasileiros",
+  "fonte_id": "ms-noticias",
+  "fonte": "Ministério da Saúde | Notícias",
+  "sigla": "MS",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-20T22:19:21+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "0c26a9fc6121d1",
+  "titulo": "Fiocruz promove 6ª Festa Carioca das Sementes Agroecológicas pelo Dia Mundial da Alimentação",
+  "url": "https://agencia.fiocruz.br/fiocruz-promove-6a-festa-carioca-das-sementes-agroecologicas-pelo-dia-mundial-da-alimentacao",
+  "fonte_id": "fiocruz",
+  "fonte": "Agência Fiocruz de Notícias",
+  "sigla": "Fiocruz",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "Fiocruz promove 6ª Festa Carioca das Sementes Agroecológicas pelo Dia Mundial da Alimentação",
+  "coletado_em": "2026-10-20T22:19:21+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "7ca62205f64d59",
+  "titulo": "Saúde inicia oferta de novos medicamentos oncológicos no SUS",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/saude-inicia-oferta-de-novos-medicamentos-oncologicos-no-sus",
+  "fonte_id": "agencia-brasil-saude",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "O Ministério da Saúde começa a ofertar, a partir desta semana, nove novos medicamentos de alta tecnologia para tratamento de câncer no Sistema Único de Saúde (SUS). A inclusão é a maior já feita para o cuidado com o câncer e atenderá 100% da demanda por esses produtos. Os novos nove medicamentos são indicados para 13 diferentes tratamentos de câncer e devem beneficiar mais de 116 mil pessoas.",
+  "coletado_em": "2026-10-20T22:19:21+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "77abb9421adefa",
+  "titulo": "Extrato do Termo de Rescisão Amigável do Contrato n.º 082/2026 – SES-GO",
+  "url": "https://goias.gov.br/saude/extrato-do-termo-de-rescisao-amigavel-do-contrato-n-o-082-2026-ses-go/",
+  "fonte_id": "ses-go",
+  "fonte": "SES-GO | Notícias",
+  "sigla": "SES-GO",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "EXTRATO DO TERMO DE RESCISÃO AMIGÁVEL DO CONTRATO Nº 82/2026/SES. Processo nº: 202600005025424. Contratante: O ESTADO DE GOIÁS, por intermédio da Secretaria de Estado da Saúde. Contratada: VOX2YOU – TG NEGOCIOS LTDA. Objeto: Rescisão Amigável do Contrato nº 82/2026-SES/GO, cujo objeto consiste na Prestação de serviços especializados de capacitação, mediante fornecimento de 01 (uma) inscrição […]",
+  "coletado_em": "2026-10-20T22:19:21+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "ffb6c671459fee",
+  "titulo": "Extrato de Termo de Rerratificação do Primeiro Aditivo ao Convênio n.º 16/2021 – SES/GO",
+  "url": "https://goias.gov.br/saude/extrato-de-termo-de-rerratificacao-do-primeiro-aditivo-ao-convenio-n-o-16-2021-ses-go/",
+  "fonte_id": "ses-go",
+  "fonte": "SES-GO | Notícias",
+  "sigla": "SES-GO",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "EXTRATO DE TERMO RERRATIFICAÇÃO DO PRIMEIRO TERMO ADITIVO AO CONVÊNIO Nº16/2021/SES-GO PROCESSO nº 202100010014831. OBJETIVO: Rerratificar o 1º Termo Aditivo ao Convênio nº 16/2021 – SES (93251589), assinado e publicado no Diário Oficial do Estado de Goiás nº 24.839, de 10 de agosto de 2026 (94167319), em decorrência de erro material ocorrido na indicação do […]",
+  "coletado_em": "2026-10-20T22:19:21+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "e5810a83624bb8",
+  "titulo": "Celina aciona Justiça Eleitoral contra Grass por panfleto comparativo no DF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7524302-celina-aciona-justica-eleitoral-contra-grass-por-panfleto-comparativo-no-df.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-20T22:19:21+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "49dc266a858381",
+  "titulo": "Celina promete linha de crédito para microempreendedores",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7524502-celina-promete-linha-de-credito-para-microempreendedores.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-20T22:19:21+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "e45f5d02b3a0d5",
+  "titulo": "Na reta final, Leandro Grass diz que vai manter o diálogo com os eleitores",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7524445-na-reta-final-leandro-grass-diz-que-vai-manter-o-dialogo-com-os-eleitores.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-20T22:19:21+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "c822f118c73b1b",
+  "titulo": "Escola Carnavalesca fará formação em parceria com Acadêmicos da Asa Norte",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7524467-escola-carnavalesca-fara-formacao-em-parceria-com-academicos-da-asa-norte.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-20T22:19:21+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "34dd7e62b64704",
+  "titulo": "Obituário: 40 funerais nesta terça-feira (20/10); confira lista",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7524479-obituario-40-funerais-nesta-terca-feira-20-10-confira-lista.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-20T22:19:21+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "436e3c27c78766",
+  "titulo": "Videocast de divulgação científica estreia com foco em pesquisa e tecnologia",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7524469-videocast-de-divulgacao-cientifica-estreia-com-foco-em-pesquisa-e-tecnologia.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-20T22:19:21+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "1c73f99a09d405",
+  "titulo": "Polícia Civil prende três suspeitos por tráfico de drogas em Santa Maria",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7524458-policia-civil-prende-tres-suspeitos-por-trafico-de-drogas-em-santa-maria.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-20T22:19:21+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "93422a90dc5104",
+  "titulo": "Projeto oferece aulas gratuitas de bordado e costura em Ceilândia",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7524406-projeto-oferece-aulas-gratuitas-de-bordado-e-costura-em-ceilandia.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-20T22:19:21+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "8f5e8b771bcfa2",
+  "titulo": "Psicologia Amiga abre as inscrições para a segunda etapa no Gama",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7524365-psicologia-amiga-abre-as-inscricoes-para-a-segunda-etapa-no-gama.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-20T22:19:21+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "83ddf43ab1ddc9",
+  "titulo": "Grass fala em ampliar escolas em tempo integral e criar creches noturnas",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7524352-grass-fala-em-ampliar-escolas-em-tempo-integral-e-criar-creches-noturnas.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-20T22:19:21+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "eaa989de015783",
+  "titulo": "Relíquia de São Carlo Acutis volta ao Santuário Santíssimo Sacramento",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7524349-reliquia-de-sao-carlo-acutis-volta-ao-santuario-santissimo-sacramento.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-20T22:19:21+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "f8f53fc11da7ed",
+  "titulo": "Homem investigado por aliciamento sexual de adolescente de 12 anos é preso",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7524338-homem-investigado-por-aliciamento-sexual-de-adolescente-de-12-anos-e-preso.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-20T22:19:21+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "89f00ff46b3515",
+  "titulo": "Grass promete reduzir fila da saúde e garantir atendimento completo em 30 dias",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7524295-grass-promete-reduzir-fila-da-saude-e-garantir-atendimento-completo-em-30-dias.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-20T22:19:21+00:00",
   "municipios": [
    "Distrito Federal"
   ],
@@ -3193,6 +3623,29 @@
    "alerta para"
   ],
   "link_tentado": true
+ },
+ {
+  "id": "fd7ffa2fb3bd73",
+  "titulo": "Defesa Civil emite alerta para chuvas intensas e risco de...",
+  "url": "https://www.vacaria.rs.gov.br/noticia/5632/defesa-civil-emite-alerta-para-chuvas-intensas-e-risco-de-alagamentos-no-rio-grande-do-sul-vacaria-acompanha-situacao/",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Prefeitura Municipal de Vacaria",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-20T22:19:21+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "emite alerta"
+  ]
  },
  {
   "id": "402851d47548b8",
@@ -5816,6 +6269,29 @@
    "alerta para"
   ],
   "link_tentado": true
+ },
+ {
+  "id": "35fd6a607c110c",
+  "titulo": "Candeias: Defesa Civil alerta para aumento de focos de incêndio durante período de estiagem e orienta população sobre medidas de prevenção",
+  "url": "https://prefeitura.candeias.ba.gov.br/2026/10/candeias-defesa-civil-alerta-para-aumento-de-focos-de-incendio-durante-periodo-de-estiagem-e-orienta-populacao-sobre-medidas-de-prevencao/",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Prefeitura Municipal de Candeias. – Site oficial",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-14",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-20T22:19:21+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alerta para"
+  ]
  },
  {
   "id": "e701a34d8483e8",
