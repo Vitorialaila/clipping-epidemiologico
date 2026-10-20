@@ -1,5 +1,23 @@
 [
  {
+  "t": "Epidemiological Update: Dengue and Chikungunya in the Americas Region - 20 October 2026",
+  "u": "https://www.paho.org/en/documents/epidemiological-update-dengue-and-chikungunya-americas-region-20-october-2026",
+  "d": "2026-10-20",
+  "df": "20 out 2026",
+  "f": "OPAS",
+  "fn": "OPAS | Alertas e atualizações epidemiológicas",
+  "e": "Américas",
+  "a": [
+   "Dengue",
+   "Chikungunya"
+  ],
+  "p": 11.0,
+  "se": "2026-42",
+  "r": "",
+  "i": "mosquito",
+  "m": []
+ },
+ {
   "t": "\"Cortina de fumaça\": Grass (PT) faz crítica a ato de Celina pelo FCDF",
   "u": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7523933-cortina-de-fumaca-grass-pt-faz-critica-a-ato-de-celina-pelo-fcdf.html",
   "d": "2026-10-20",
@@ -17,6 +35,23 @@
   "m": [
    "Distrito Federal"
   ]
+ },
+ {
+  "t": "Nova vacina combate 21 tipos de bactéria que causa pneumonia e meningite",
+  "u": "https://www.cnnbrasil.com.br/saude/nova-vacina-combate-21-tipos-de-bacteria-que-causa-pneumonia-e-meningite/",
+  "d": "2026-10-20",
+  "df": "20 out 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Internacional",
+  "a": [
+   "Doença meningocócica e meningites"
+  ],
+  "p": 5.5,
+  "se": "2026-42",
+  "r": "",
+  "i": "bacteria",
+  "m": []
  },
  {
   "t": "Cenário Epidemiológico Sarampo",

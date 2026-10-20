@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-10-20T15:04:17+00:00",
+  "em": "2026-10-20T19:15:20+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,27 +10,27 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-10-20T15:04:17+00:00",
+  "em": "2026-10-20T19:15:20+00:00",
   "lidos": 40,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "Call for Proposals for hosting the 20th International Conference of Drug Regulatory Authorities (ICDRA)",
    "WHO report examines inequalities in noncommunicable diseases and their risk factors",
-   "One in four doctors nearing retirement age as WHO warns of global health workforce gap",
-   "Traditional medicine, resilience and well-being at World Health Summit 2026"
+   "One in four doctors nearing retirement age as WHO warns of global health workforce gap"
   ]
  },
  "opas-alertas": {
-  "em": "2026-10-20T15:04:17+00:00",
+  "em": "2026-10-20T19:15:20+00:00",
   "lidos": 16,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "Epidemiological Update: Dengue and Chikungunya in the Americas Region - 20 October 2026",
    "Epidemiological Alert:  Myiasis caused by Cochliomyia hominivorax in the Americas Region, 16 October 2026",
-   "Epidemiological Update Avian Influenza A(H5) in the Americas Region - 26 August 2026",
-   "Epidemiological Alert Measles in the Americas Region - 7 August 2026"
+   "Epidemiological Update Avian Influenza A(H5) in the Americas Region - 26 August 2026"
   ]
  },
  "opas-noticias": {
-  "em": "2026-10-20T15:04:17+00:00",
+  "em": "2026-10-20T19:15:20+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-10-20T15:04:17+00:00",
+  "em": "2026-10-20T19:15:20+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-10-20T15:04:17+00:00",
+  "em": "2026-10-20T19:15:20+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-10-20T15:04:17+00:00",
+  "em": "2026-10-20T19:15:20+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-10-20T15:04:17+00:00",
+  "em": "2026-10-20T19:15:20+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-10-20T15:04:17+00:00",
+  "em": "2026-10-20T19:15:20+00:00",
   "lidos": 2343,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-10-20T15:04:17+00:00",
+  "em": "2026-10-20T19:15:20+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,49 +100,49 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-10-20T15:04:17+00:00",
+  "em": "2026-10-20T19:15:20+00:00",
   "lidos": 15,
-  "novos": 0,
+  "novos": 2,
   "exemplos": [
-   "Sesai completa 16 anos de atuação na atenção à saúde dos povos indígenas no SUS",
-   "Santos (SP) passa a contar com dois aceleradores lineares para tratar pacientes com câncer",
-   "Ministério da Saúde apoia estados e municípios para ampliar a proteção da população"
+   "Ministério da Saúde assina contrato de gestão do Hospital Inteligente e da Rede de UTIs conectadas",
+   "Ministério da Saúde inicia oferta no SUS de nove medicamentos oncológicos de alta tecnologia em todas as regiões do país",
+   "Sesai completa 16 anos de atuação na atenção à saúde dos povos indígenas no SUS"
   ]
  },
  "fiocruz": {
-  "em": "2026-10-20T15:04:17+00:00",
+  "em": "2026-10-20T19:15:20+00:00",
   "lidos": 10,
   "novos": 1,
   "exemplos": [
+   "Hospital da Lagoa realiza mutirão de cirurgias de catarata",
    "Fiocruz avança em PDP para o tratamento de doenças inflamatórias",
-   "Método Wolbachia contra arboviroses começa a ser implantado no Ceará",
-   "Nav. ed. pt Carta Aberta Eleicoes 2026 Compromisso 6"
+   "Método Wolbachia contra arboviroses começa a ser implantado no Ceará"
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-10-20T15:04:17+00:00",
+  "em": "2026-10-20T19:15:20+00:00",
   "lidos": 10,
   "novos": 1,
   "exemplos": [
+   "Governo impõe emergência zoossanitária após detectar Newcastle em SC",
    "Hipertensão atinge 28% de crianças e adolescentes, mostra estudo",
-   "Consultas por lesões pré-cancerígenas caem após vacina contra HPV",
-   "Agricultura confirma foco de doença de Newcastle em Santa Catarina"
+   "Consultas por lesões pré-cancerígenas caem após vacina contra HPV"
   ]
  },
  "ses-go": {
-  "em": "2026-10-20T15:04:17+00:00",
+  "em": "2026-10-20T19:15:20+00:00",
   "lidos": 10,
-  "novos": 5,
+  "novos": 4,
   "exemplos": [
-   "Termo de Adesão Ata de Registro de Preços nº 010/2026, Referente ao Pregão Eletrônico nº 042/2025, do Tribunal de Justiç",
-   "Aviso de Dispensa Eletrônica – 123254 – Contratação nº 021/2026",
-   "Aviso de Intenção de Revogação Integral – Inexigibilidade n.º 023/2026 – SES-GO"
+   "Goiás registra alta de 55% nas doações de tecidos oculares",
+   "Saúde qualifica médicos para ampliar identificação de casos de câncer de mama em estágio inicial",
+   "Aos 95 anos, médico revisita HDS e reencontra história que ajudou a construir"
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-10-20T15:04:17+00:00",
+  "em": "2026-10-20T19:15:20+00:00",
   "lidos": 10,
-  "novos": 2,
+  "novos": 0,
   "exemplos": [
    "Polícia faz operação no interior de SP contra fraudes bancárias",
    "Secretário de Queimados, no Rio, morre baleado em abordagem da PM",
@@ -150,17 +150,17 @@
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-10-20T15:04:17+00:00",
+  "em": "2026-10-20T19:15:20+00:00",
   "lidos": 25,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
-   "Felca: o que é a fobia social relatada por influenciador em novo vídeo",
-   "Osteoporose: a importância de cuidar do osso antes da próxima fratura",
-   "Benito Di Paula: 9 em cada 10 com câncer de próstata tem mais de 55 anos"
+   "Mais de 6 milhões já fizeram procedimentos estéticos com não médicos no BR",
+   "Estudo associa calor a 46 mil mortes por doenças respiratórias no Brasil",
+   "Nova vacina combate 21 tipos de bactéria que causa pneumonia e meningite"
   ]
  },
  "cnn-saude": {
-  "em": "2026-10-20T15:04:17+00:00",
+  "em": "2026-10-20T19:15:20+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -170,27 +170,27 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-10-20T15:04:17+00:00",
-  "lidos": 13,
+  "em": "2026-10-20T19:15:20+00:00",
+  "lidos": 15,
   "novos": 0,
   "exemplos": [
+   "‘Who, us? We’re not anti-vaccine,’ parents tell me. ‘Today just doesn’t work for us’",
    "A super El Niño winter is coming and the first official forecast is in",
-   "New wildfire in Southern California explodes in size, burning multiple homes",
-   "Gift for Putin as fears grow that Trump is turning the screws on Ukraine"
+   "New wildfire in Southern California explodes in size, burning multiple homes"
   ]
  },
  "inmet": {
-  "em": "2026-10-20T15:04:17+00:00",
+  "em": "2026-10-20T19:15:20+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
-   "Massa de ar frio provoca temperaturas negativas e geada na Região Sul",
-   "Previsão para terça-feira (20) e quarta-feira (21)",
-   "INMET divulga previsão para semana de 19 a 26 de outubro de 2026"
+   "Previsão para Quarta-feira (21) e Quinta-feira (22)",
+   "Excesso de chuva e umidade elevada dificulta as operações em campo na Região Sul",
+   "Massa de ar frio provoca temperaturas negativas e geada na Região Sul"
   ]
  },
  "cemaden": {
-  "em": "2026-10-20T15:04:17+00:00",
+  "em": "2026-10-20T19:15:20+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -200,8 +200,8 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-10-20T15:04:17+00:00",
-  "lidos": 23,
+  "em": "2026-10-20T19:15:20+00:00",
+  "lidos": 21,
   "novos": 0,
   "exemplos": [
    "Autorizado repasse de R$ 1,8 milhão para ações de defesa civil",
@@ -210,13 +210,13 @@
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-10-20T15:04:17+00:00",
+  "em": "2026-10-20T19:15:20+00:00",
   "lidos": 20,
-  "novos": 5,
+  "novos": 9,
   "exemplos": [
    "Brasilienses sonham alto com o prêmio de R$ 185 milhões da Mega-Sena",
    "PCDF faz novas prisões após capturar suspeito de ordenar cinco mortes",
-   "Celina cobra apoio de instituições às mulheres e ao empreendedorismo"
+   "Samba da Guariba anuncia 3ª edição de projeto em Ceilândia"
   ]
  }
 }
