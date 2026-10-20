@@ -1738,5 +1738,49 @@
     }
    ]
   }
- ]
+ ],
+ "elaboracao": {
+  "eixos": [
+   [
+    "Alerta ambiental",
+    "Bárbara Gripp"
+   ],
+   [
+    "Síndrome gripal",
+    "Gustavo Manço"
+   ],
+   [
+    "SRAG",
+    "Gustavo Manço"
+   ],
+   [
+    "Cobertura vacinal",
+    "Vitória Chagas"
+   ],
+   [
+    "Arboviroses",
+    "Anna Karolina"
+   ],
+   [
+    "Sarampo",
+    "Vitória Chagas"
+   ],
+   [
+    "Ebola",
+    "Layane Rodrigues"
+   ],
+   [
+    "Cólera",
+    "Layane Rodrigues e Sergio Alves"
+   ],
+   [
+    "Atualidades",
+    "Antonia Santos"
+   ]
+  ],
+  "revisao": [
+   "Clara Feitosa",
+   "Jonas Brant"
+  ]
+ }
 }

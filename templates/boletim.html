@@ -114,6 +114,12 @@ a { color: inherit; text-decoration: none; }
 .nota p { margin: 0 0 1.2mm; }
 .rot-vinc { margin-top: 2.2mm; }
 .vinc { display: block; font-family: "Plex"; font-size: 9pt; line-height: 1.35; color: #0A3570; }
+.elaboracao { margin-top: 5mm; break-inside: avoid; font-size: 8pt; }
+.elaboracao b { color: var(--navy); letter-spacing: 0.14em; text-transform: uppercase; font-size: 6.6pt; display: block; margin-bottom: 1.5mm; }
+.elaboracao table { width: 100%; border-collapse: collapse; }
+.elaboracao td { padding: 1.1mm 0; border-bottom: 0.4pt solid var(--linha); color: var(--navy); }
+.elaboracao td.eixo { width: 38%; color: var(--cinza); }
+.elaboracao tr.rev td { border-bottom: 0; padding-top: 2mm; }
 .realizacao { margin-top: 6mm; display: flex; align-items: center; gap: 6mm; padding: 5mm; border-top: 2.2pt solid var(--navy); break-inside: avoid; }
 .realizacao img { height: 16mm; }
 .realizacao .rot { display: block; font-size: 6.6pt; letter-spacing: 0.22em; text-transform: uppercase; color: var(--ouro); font-weight: 700; margin-bottom: 1mm; }
@@ -282,6 +288,15 @@ a { color: inherit; text-decoration: none; }
   <b>Nota metodológica</b>
   <p>Boletim referente à {{ rotulo }} ({{ periodo }}), elaborado a partir do relatório de situação (SITREP) semanal. As figuras reproduzem os painéis do relatório, com as fontes indicadas em cada uma. Os dados são preliminares e estão sujeitos a alteração; para uso técnico, consulte sempre a fonte original indicada.</p>
 </section>
+{% if elaboracao %}
+<section class="elaboracao">
+  <b>Elaboração</b>
+  <table>
+    {% for e in elaboracao.eixos %}<tr><td class="eixo">{{ e[0] }}</td><td>{{ e[1] }}</td></tr>{% endfor %}
+    {% if elaboracao.revisao %}<tr class="rev"><td class="eixo">Revisão</td><td>{{ elaboracao.revisao|join(", ") }}</td></tr>{% endif %}
+  </table>
+</section>
+{% endif %}
 {% if instituicoes %}
 <section class="realizacao">
   <img src="assets/img/logos.png" alt="{{ subtitulo }}">

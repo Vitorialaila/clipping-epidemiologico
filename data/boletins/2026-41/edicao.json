@@ -5,7 +5,7 @@
  "se_numero": "41",
  "se_ano": 2026,
  "periodo": "11 a 17 de outubro de 2026",
- "pdf": "boletins/boletim-SE41-2026.pdf",
+ "pdf": "boletins/boletim-SE41-2026-v2.pdf",
  "resumo": "A SE 41 de 2026 foi marcada por eventos extremos sob o El Niño, que já está entre os mais intensos da série histórica: terremoto de magnitude 7,7 no Panamá, furacão Simon no México, cheia do rio Paraná em Foz do Iguaçu e fumaça de queimadas que levou o PM2,5 a 235 µg/m³ em Manaus, com emergência decretada em 36 municípios do Amazonas. No Distrito Federal, o Corpo de Bombeiros atendeu 39 incêndios em vegetação em um único dia, e a média de PM2,5 em Brasília foi a maior do ano. A SRAG segue estável no país, com alta apenas de metapneumovírus, e o DF mantém detecções de SARS-CoV-2 na vigilância sentinela. A dengue soma 25.923 casos prováveis no Brasil nas SE 37 a 40, com Goiás na liderança, e o DF acumula 3.528 casos prováveis no ano. Nas Américas, o sarampo chega a 56.755 casos e 83 óbitos, e o Brasil confirma 61 casos, com surto ativo no Amazonas. A epidemia de doença pelo vírus Bundibugyo na República Democrática do Congo alcança 9.277 casos confirmados, e a Zâmbia inicia a vacinação oral contra a cólera em Lusaka e Chibombo.",
  "secoes": [
   {
@@ -49,5 +49,5 @@
    "itens": 2
   }
  ],
- "gerado_em": "2026-10-20T19:20:34+00:00"
+ "gerado_em": "2026-10-20T19:29:55+00:00"
 }

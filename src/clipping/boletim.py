@@ -124,6 +124,7 @@ def gerar(edicao: str, forcar: bool = False) -> dict | None:
         "resumo": sem_travessao(dados.get("resumo", "")), "secoes": secoes,
         "n_itens": sum(len(s["itens"]) for s in secoes), "n_figuras": n_fig,
         "base_img": "docs/",
+        "elaboracao": dados.get("elaboracao"),
     }
     env = Environment(loader=FileSystemLoader(TEMPLATES), autoescape=select_autoescape(["html"]))
     html = env.get_template("boletim.html").render(**contexto)
