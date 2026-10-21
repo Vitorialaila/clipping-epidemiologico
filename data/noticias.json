@@ -1,5 +1,26 @@
 [
  {
+  "id": "37d91f94ac1cef",
+  "titulo": "Trânsito na Ponte JK muda nesta quarta-feira (21/10), entre 6h e 9h",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7524475-transito-na-ponte-jk-muda-nesta-quarta-feira-21-10-entre-6h-e-9h.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-21T07:37:36+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
   "id": "2d7624cd16a6ae",
   "titulo": "Epidemiological Update: Dengue and Chikungunya in the Americas Region - 20 October 2026",
   "url": "https://www.paho.org/en/documents/epidemiological-update-dengue-and-chikungunya-americas-region-20-october-2026",
