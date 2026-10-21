@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-10-21T07:37:36+00:00",
+  "em": "2026-10-21T13:46:50+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,17 +10,17 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-10-21T07:37:36+00:00",
+  "em": "2026-10-21T13:46:50+00:00",
   "lidos": 40,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "New global framework launched to track increasing health risks of extreme heat for pregnant women, newborns and children",
    "Call for Proposals for hosting the 20th International Conference of Drug Regulatory Authorities (ICDRA)",
-   "WHO report examines inequalities in noncommunicable diseases and their risk factors",
-   "One in four doctors nearing retirement age as WHO warns of global health workforce gap"
+   "WHO report examines inequalities in noncommunicable diseases and their risk factors"
   ]
  },
  "opas-alertas": {
-  "em": "2026-10-21T07:37:36+00:00",
+  "em": "2026-10-21T13:46:50+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-10-21T07:37:36+00:00",
+  "em": "2026-10-21T13:46:50+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-10-21T07:37:36+00:00",
+  "em": "2026-10-21T13:46:50+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-10-21T07:37:36+00:00",
+  "em": "2026-10-21T13:46:50+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-10-21T07:37:36+00:00",
+  "em": "2026-10-21T13:46:50+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-10-21T07:37:36+00:00",
+  "em": "2026-10-21T13:46:50+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-10-21T07:37:36+00:00",
+  "em": "2026-10-21T13:46:50+00:00",
   "lidos": 2343,
   "novos": 0,
   "exemplos": [
@@ -90,17 +90,17 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-10-21T07:37:36+00:00",
+  "em": "2026-10-21T13:46:50+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 4,
   "exemplos": [
-   "Africa CDC Reaffirms Support to Kenya Following Confirmation of Four Additional Ebola Cases",
-   "Communiqué d’Africa CDC sur le financement de la riposte à l’épidémie d’Ebola en RDC.",
-   "Africa’s Pooled Procurement Mechanism Seeks to Lower Medical Product Costs"
+   "Africa CDC et Ethiopian Airlines offrent une réduction de 20 % sur les billets d’avion aux participants autofinancés de ",
+   "Africa CDC and Ethiopian Airlines Partner to Offer 20% Airfare Discount to Self-Sponsored CPHIA 2026 Participants",
+   "Ebola: Africa CDC réunit les ministres africains de la Santé face à l’extension de l’épidémie à trois régions du contine"
   ]
  },
  "ms-noticias": {
-  "em": "2026-10-21T07:37:36+00:00",
+  "em": "2026-10-21T13:46:50+00:00",
   "lidos": 15,
   "novos": 0,
   "exemplos": [
@@ -110,7 +110,7 @@
   ]
  },
  "fiocruz": {
-  "em": "2026-10-21T07:37:36+00:00",
+  "em": "2026-10-21T13:46:50+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -120,39 +120,39 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-10-21T07:37:36+00:00",
+  "em": "2026-10-21T13:46:50+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "UTIs no Brasil: médicos pedem estruturação que vá além de mais leitos",
    "Quase 90% de conteúdos virais sobre saúde são falsos, diz Agência Lupa",
-   "Repórter Tâmara Freire, da Agência Brasil, é finalista no Prêmio SBIm",
-   "Saúde inicia oferta de novos medicamentos oncológicos no SUS"
+   "Repórter Tâmara Freire, da Agência Brasil, é finalista no Prêmio SBIm"
   ]
  },
  "ses-go": {
-  "em": "2026-10-21T07:37:36+00:00",
+  "em": "2026-10-21T13:46:50+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 3,
   "exemplos": [
-   "Extrato do Termo de Rescisão Amigável do Contrato n.º 082/2026 – SES-GO",
-   "Extrato de Termo de Rerratificação do Primeiro Aditivo ao Convênio n.º 16/2021 – SES/GO",
-   "Goiás registra alta de 55% nas doações de tecidos oculares"
+   "Extrato da Portaria nº 3248/2026 – SES/GO",
+   "Aviso de Adiamento e Republicação do P.E. n.º 198/2026",
+   "Aviso de Adiamento “Sine Die” – P.E. n.º 204/2026"
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-10-21T07:37:36+00:00",
+  "em": "2026-10-21T13:46:50+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 2,
   "exemplos": [
-   "Polícia faz operação no interior de SP contra fraudes bancárias",
-   "Secretário de Queimados, no Rio, morre baleado em abordagem da PM",
-   "Justiça bloqueia bens de empresa por queda de helicóptero, no Rio"
+   "Curso falso para sargentos da reserva era usado para compra de armas",
+   "PF faz operação contra fraudes em concurso público no Rio",
+   "Polícia faz operação no interior de SP contra fraudes bancárias"
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-10-21T07:37:36+00:00",
+  "em": "2026-10-21T13:46:50+00:00",
   "lidos": 25,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
    "CNN Brasil tem três finalistas no Prêmio Einstein 2026; saiba como votar",
    "Mais de 6 milhões já fizeram procedimentos estéticos com não médicos no BR",
@@ -160,21 +160,27 @@
   ]
  },
  "cnn-saude": {
-  "em": "2026-10-21T07:37:36+00:00",
-  "lidos": 18,
-  "novos": 0,
+  "em": "2026-10-21T13:46:50+00:00",
+  "lidos": 17,
+  "novos": 1,
   "exemplos": [
-   "How a photo of a person’s face could help predict whether they’ll survive cancer treatment",
-   "Roller coaster death and injuries leave fans asking whether the thrill is worth the risk",
-   "For more parents, ‘vaccine refusal’ is becoming vaccine delay, but it’s no less dangerous"
+   "One US measles outbreak is proving particularly deadly. Here’s why",
+   "How a calf injury could have led to blood clots in Jalen Hurts’ lungs",
+   "Roller coaster death and injuries leave fans asking whether the thrill is worth the risk"
   ]
  },
  "cnn-busca": {
-  "em": "2026-10-21T07:37:36+00:00",
-  "erro": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Acnn.com%20measles%20OR%20outbreak%20OR%20epidemic%20when%3A7d&hl=en-US&gl=US&ceid=US:en"
+  "em": "2026-10-21T13:46:50+00:00",
+  "lidos": 14,
+  "novos": 2,
+  "exemplos": [
+   "One US measles outbreak is proving particularly deadly. Here’s why",
+   "‘Who, us? We’re not anti-vaccine,’ parents tell me. ‘Today just doesn’t work for us’",
+   "New wildfire in Southern California explodes in size, burning multiple homes"
+  ]
  },
  "inmet": {
-  "em": "2026-10-21T07:37:36+00:00",
+  "em": "2026-10-21T13:46:50+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -184,7 +190,7 @@
   ]
  },
  "cemaden": {
-  "em": "2026-10-21T07:37:36+00:00",
+  "em": "2026-10-21T13:46:50+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -194,17 +200,23 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-10-21T07:37:36+00:00",
-  "erro": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Defesa%20Civil%22%20Distrito%20Federal%20when%3A7d&hl=pt-BR&gl=BR&ceid=BR:pt-419"
+  "em": "2026-10-21T13:46:50+00:00",
+  "lidos": 17,
+  "novos": 0,
+  "exemplos": [
+   "Autorizado repasse de R$ 1,8 milhão para ações de defesa civil",
+   "Autorizado repasse de R$ 4,7 milhões para ações de defesa civil",
+   "Reconhecida emergência em 18 cidades afetadas por desastres"
+  ]
  },
  "correio-braziliense-df": {
-  "em": "2026-10-21T07:37:36+00:00",
-  "lidos": 21,
-  "novos": 1,
+  "em": "2026-10-21T13:46:50+00:00",
+  "lidos": 20,
+  "novos": 5,
   "exemplos": [
-   "Celina aciona Justiça Eleitoral contra Grass por panfleto comparativo no DF",
-   "Em sabatina, Celina fala sobre paralisação de professores, saúde pública e BRB",
-   "Trânsito na Ponte JK muda nesta quarta-feira (21/10), entre 6h e 9h"
+   "Candidatos apresentam propostas para enfrentar os desafios da educação",
+   "Setor atacadista do DF se prepara para o fim da escala 6x1",
+   "GDF altera ponto facultativo do Dia do Servidor Público para 30 de outubro"
   ]
  }
 }
