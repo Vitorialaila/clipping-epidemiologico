@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-10-21T13:46:50+00:00",
+  "em": "2026-10-21T18:37:36+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,9 +10,9 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-10-21T13:46:50+00:00",
+  "em": "2026-10-21T18:37:36+00:00",
   "lidos": 40,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "New global framework launched to track increasing health risks of extreme heat for pregnant women, newborns and children",
    "Call for Proposals for hosting the 20th International Conference of Drug Regulatory Authorities (ICDRA)",
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-10-21T13:46:50+00:00",
+  "em": "2026-10-21T18:37:36+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-10-21T13:46:50+00:00",
+  "em": "2026-10-21T18:37:36+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-10-21T13:46:50+00:00",
+  "em": "2026-10-21T18:37:36+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-10-21T13:46:50+00:00",
+  "em": "2026-10-21T18:37:36+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-10-21T13:46:50+00:00",
+  "em": "2026-10-21T18:37:36+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-10-21T13:46:50+00:00",
+  "em": "2026-10-21T18:37:36+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-10-21T13:46:50+00:00",
+  "em": "2026-10-21T18:37:36+00:00",
   "lidos": 2343,
   "novos": 0,
   "exemplos": [
@@ -90,27 +90,27 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-10-21T13:46:50+00:00",
+  "em": "2026-10-21T18:37:36+00:00",
   "lidos": 10,
-  "novos": 4,
+  "novos": 0,
   "exemplos": [
-   "Africa CDC et Ethiopian Airlines offrent une réduction de 20 % sur les billets d’avion aux participants autofinancés de ",
-   "Africa CDC and Ethiopian Airlines Partner to Offer 20% Airfare Discount to Self-Sponsored CPHIA 2026 Participants",
-   "Ebola: Africa CDC réunit les ministres africains de la Santé face à l’extension de l’épidémie à trois régions du contine"
+   "Ebola: Africa CDC réunit les ministres africains de la Santé face à l’extension de l’épidémie à trois régions du contine",
+   "Ebola: Africa CDC Convenes African Ministers of Health as Ebola Outbreak Spreads Across Three Regions",
+   "Africa CDC Reaffirms Support to Kenya Following Confirmation of Four Additional Ebola Cases"
   ]
  },
  "ms-noticias": {
-  "em": "2026-10-21T13:46:50+00:00",
+  "em": "2026-10-21T18:37:36+00:00",
   "lidos": 15,
-  "novos": 0,
+  "novos": 2,
   "exemplos": [
-   "Foz do Iguaçu vai receber nova maternidade e integrar a rede de hospitais inteligentes",
-   "Farmácia Popular está presente em 5 mil municípios brasileiros",
-   "Base da Força Nacional do SUS em Manaus começa a operar e apoia resposta às queimadas no Amazonas"
+   "Rio de Janeiro conta com 15 unidades móveis para atendimento à população em situação de rua",
+   "Ministério da Saúde abre inscrições para nova chamada do Projeto Mais Médicos Especialistas",
+   "Foz do Iguaçu vai receber nova maternidade e integrar a rede de hospitais inteligentes"
   ]
  },
  "fiocruz": {
-  "em": "2026-10-21T13:46:50+00:00",
+  "em": "2026-10-21T18:37:36+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -120,49 +120,49 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-10-21T13:46:50+00:00",
-  "lidos": 10,
-  "novos": 1,
-  "exemplos": [
-   "UTIs no Brasil: médicos pedem estruturação que vá além de mais leitos",
-   "Quase 90% de conteúdos virais sobre saúde são falsos, diz Agência Lupa",
-   "Repórter Tâmara Freire, da Agência Brasil, é finalista no Prêmio SBIm"
-  ]
- },
- "ses-go": {
-  "em": "2026-10-21T13:46:50+00:00",
+  "em": "2026-10-21T18:37:36+00:00",
   "lidos": 10,
   "novos": 3,
   "exemplos": [
-   "Extrato da Portaria nº 3248/2026 – SES/GO",
-   "Aviso de Adiamento e Republicação do P.E. n.º 198/2026",
-   "Aviso de Adiamento “Sine Die” – P.E. n.º 204/2026"
+   "Força Nacional do SUS apoia atendimentos no Amazonas após incêndios",
+   "Quedas: mais de 330 mil crianças foram internadas no Brasil em 10 anos",
+   "Pediatras alertam para riscos de brinquedos com IA"
+  ]
+ },
+ "ses-go": {
+  "em": "2026-10-21T18:37:36+00:00",
+  "lidos": 10,
+  "novos": 4,
+  "exemplos": [
+   "Superintendência da Escola de Saúde de Goiás disponibiliza curso sobre bem-estar das equipes do SUS",
+   "HCN reforça conscientização no Outubro Rosa e participa da 3ª Corrida Rosa e Azul em Uruaçu",
+   "Ministério Público de Goiás lança Manual ILPI em Rede para fortalecer a proteção dos direitos da pessoa idosa"
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-10-21T13:46:50+00:00",
+  "em": "2026-10-21T18:37:36+00:00",
   "lidos": 10,
-  "novos": 2,
+  "novos": 1,
   "exemplos": [
+   "Metrô de São Paulo amplia uso do Pix no autoatendimento",
    "Curso falso para sargentos da reserva era usado para compra de armas",
-   "PF faz operação contra fraudes em concurso público no Rio",
-   "Polícia faz operação no interior de SP contra fraudes bancárias"
+   "PF faz operação contra fraudes em concurso público no Rio"
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-10-21T13:46:50+00:00",
+  "em": "2026-10-21T18:37:36+00:00",
   "lidos": 25,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
-   "CNN Brasil tem três finalistas no Prêmio Einstein 2026; saiba como votar",
-   "Mais de 6 milhões já fizeram procedimentos estéticos com não médicos no BR",
-   "Estudo associa calor a 46 mil mortes por doenças respiratórias no Brasil"
+   "Cirurgia inédita reconstrói clitóris após câncer de vulva; entenda",
+   "Câncer de mama: prevenção e rastreamento precisam ser individualizados",
+   "CNN Brasil tem três finalistas no Prêmio Einstein 2026; saiba como votar"
   ]
  },
  "cnn-saude": {
-  "em": "2026-10-21T13:46:50+00:00",
-  "lidos": 17,
-  "novos": 1,
+  "em": "2026-10-21T18:37:36+00:00",
+  "lidos": 19,
+  "novos": 0,
   "exemplos": [
    "One US measles outbreak is proving particularly deadly. Here’s why",
    "How a calf injury could have led to blood clots in Jalen Hurts’ lungs",
@@ -170,27 +170,27 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-10-21T13:46:50+00:00",
-  "lidos": 14,
-  "novos": 2,
+  "em": "2026-10-21T18:37:36+00:00",
+  "lidos": 16,
+  "novos": 0,
   "exemplos": [
    "One US measles outbreak is proving particularly deadly. Here’s why",
    "‘Who, us? We’re not anti-vaccine,’ parents tell me. ‘Today just doesn’t work for us’",
-   "New wildfire in Southern California explodes in size, burning multiple homes"
+   "Exclusive: State Department warns Americans about Latin America. Privately, it tells asylum officers a different story"
   ]
  },
  "inmet": {
-  "em": "2026-10-21T13:46:50+00:00",
+  "em": "2026-10-21T18:37:36+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
+   "Previsão para quinta-feira (22) e sexta-feira (23)",
    "Previsão para Quarta-feira (21) e Quinta-feira (22)",
-   "Excesso de chuva e umidade elevada dificulta as operações em campo na Região Sul",
-   "Massa de ar frio provoca temperaturas negativas e geada na Região Sul"
+   "Excesso de chuva e umidade elevada dificulta as operações em campo na Região Sul"
   ]
  },
  "cemaden": {
-  "em": "2026-10-21T13:46:50+00:00",
+  "em": "2026-10-21T18:37:36+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -200,9 +200,9 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-10-21T13:46:50+00:00",
-  "lidos": 17,
-  "novos": 0,
+  "em": "2026-10-21T18:37:36+00:00",
+  "lidos": 23,
+  "novos": 1,
   "exemplos": [
    "Autorizado repasse de R$ 1,8 milhão para ações de defesa civil",
    "Autorizado repasse de R$ 4,7 milhões para ações de defesa civil",
@@ -210,13 +210,13 @@
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-10-21T13:46:50+00:00",
+  "em": "2026-10-21T18:37:36+00:00",
   "lidos": 20,
-  "novos": 5,
+  "novos": 10,
   "exemplos": [
-   "Candidatos apresentam propostas para enfrentar os desafios da educação",
-   "Setor atacadista do DF se prepara para o fim da escala 6x1",
-   "GDF altera ponto facultativo do Dia do Servidor Público para 30 de outubro"
+   "GDF altera ponto facultativo do Dia do Servidor Público para 30 de outubro",
+   "Primeiro dia de reversão na Ponte JK divide opiniões de motoristas",
+   "Professores da rede pública cobram autonomia em ato na Praça do Buriti"
   ]
  }
 }

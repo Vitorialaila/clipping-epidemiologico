@@ -1,5 +1,22 @@
 [
  {
+  "t": "Goiás reforça sobre a vigilância contra a poliomielite diante do risco de reintrodução da doença",
+  "u": "https://goias.gov.br/saude/goias-reforca-sobre-a-vigilancia-contra-a-poliomielite-diante-do-risco-de-reintroducao-da-doenca/",
+  "d": "2026-10-21",
+  "df": "21 out 2026",
+  "f": "SES-GO",
+  "fn": "SES-GO | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Poliomielite"
+  ],
+  "p": 13.0,
+  "se": "2026-42",
+  "r": "Estado mobiliza profissionais de saúde para fortalecer a vigilância da Paralisia Flácida Aguda (PFA), ampliar a detecção de casos suspeitos e alcançar indicadores preconizados pelo Ministério da Saúde",
+  "i": "virus",
+  "m": []
+ },
+ {
   "t": "Ebola: Africa CDC Convenes African Ministers of Health as Ebola Outbreak Spreads Across Three Regions",
   "u": "https://africacdc.org/news-item/africa-cdc-convenes-african-ministers-of-health-as-ebola-outbreak-spreads-across-three-regions/",
   "d": "2026-10-21",
@@ -98,6 +115,23 @@
   "p": 4.5,
   "se": "2026-42",
   "r": "",
+  "i": "clima",
+  "m": []
+ },
+ {
+  "t": "Força Nacional do SUS apoia atendimentos no Amazonas após incêndios",
+  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/forca-nacional-do-sus-apoia-atendimentos-no-amazonas-apos-incendios",
+  "d": "2026-10-21",
+  "df": "21 out 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 4.0,
+  "se": "2026-42",
+  "r": "Com o aumento da demanda de atendimento em saúde em razão dos incêndios florestais na região, começou a funcionar em Manaus uma base regional da Força Nacional do SUS. Segundo a última atualização da Fundação de Vigilância em Saúde do Amazonas, desde que a…",
   "i": "clima",
   "m": []
  },
@@ -348,6 +382,24 @@
   "se": "2026-41",
   "r": "Addis Ababa, Ethiopia, 17 October 2026 The Africa Centres for Disease Control and Prevention (Africa CDC) acknowledges the announcement by the Ministry of Health of the Republic of Kenya confirming four additional cases of Ebola Virus Disease (Bundibugyo…",
   "i": "virus",
+  "m": []
+ },
+ {
+  "t": "Veja como se cadastrar para receber alertas de temporais por WhatsApp ou SMS – CGNotícias",
+  "u": "https://www.campogrande.ms.gov.br/cgnoticias/noticia/veja-como-se-cadastrar-para-receber-alertas-de-temporais-por-whatsapp-ou-sms/",
+  "d": "2026-10-17",
+  "df": "17 out 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura de Campo Grande",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 9.0,
+  "se": "2026-41",
+  "r": "",
+  "i": "desastre",
   "m": []
  },
  {
