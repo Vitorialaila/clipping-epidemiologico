@@ -17,6 +17,23 @@
   "m": []
  },
  {
+  "t": "Negacionismo impulsiona sarampo nos EUA e representa ameaça ao Brasil",
+  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/negacionismo-impulsiona-sarampo-nos-eua-e-representa-ameaca-ao-brasil",
+  "d": "2026-10-21",
+  "df": "21 out 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 12.5,
+  "se": "2026-42",
+  "r": "Mudanças recentes no calendário vacinal dos Estados Unidos, impulsionadas por discursos antivacinação do governo Donald Trump, ajudam a explicar por que o país está passando pelo pior surto de sarampo em mais de três décadas . Mais de 4,4 mil casos já foram…",
+  "i": "virus",
+  "m": []
+ },
+ {
   "t": "Ebola: Africa CDC Convenes African Ministers of Health as Ebola Outbreak Spreads Across Three Regions",
   "u": "https://africacdc.org/news-item/africa-cdc-convenes-african-ministers-of-health-as-ebola-outbreak-spreads-across-three-regions/",
   "d": "2026-10-21",
@@ -68,6 +85,24 @@
   "m": []
  },
  {
+  "t": "PAHO calls for strengthened surveillance and preparedness amid increases in dengue and chikungunya in the Americas",
+  "u": "https://www.paho.org/en/news/21-10-2026-paho-calls-strengthened-surveillance-and-preparedness-amid-increases-dengue-and",
+  "d": "2026-10-21",
+  "df": "21 out 2026",
+  "f": "OPAS",
+  "fn": "OPAS | Notícias",
+  "e": "Américas",
+  "a": [
+   "Dengue",
+   "Chikungunya"
+  ],
+  "p": 8.5,
+  "se": "2026-42",
+  "r": "PAHO calls for strengthened surveillance and preparedness amid increases in dengue and chikungunya in the Americas Cristina Mitchell 21 Oct 2026",
+  "i": "mosquito",
+  "m": []
+ },
+ {
   "t": "Aumento do sarampo no Brasil: doença pode levar à morte; entenda riscos",
   "u": "https://stories.cnnbrasil.com.br/saude/aumento-do-sarampo-no-brasil-doenca-pode-levar-a-morte-entenda-riscos/",
   "d": "2026-10-21",
@@ -85,6 +120,23 @@
   "m": []
  },
  {
+  "t": "Tempestades voltam a atingir o Rio Grande do Sul a partir desta quarta-feira (21)",
+  "u": "https://estado.rs.gov.br/tempestades-voltam-a-atingir-o-rio-grande-do-sul-a-partir-desta-quarta-feira-21",
+  "d": "2026-10-21",
+  "df": "21 out 2026",
+  "f": "Defesa Civil",
+  "fn": "Portal do Estado do Rio Grande do Sul",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-42",
+  "r": "",
+  "i": "clima",
+  "m": []
+ },
+ {
   "t": "Ebola: Africa CDC réunit les ministres africains de la Santé face à l’extension de l’épidémie à trois régions du continent",
   "u": "https://africacdc.org/news-item/ebola-africa-cdc-reunit-les-ministres-africains-de-la-sante-face-a-lextension-de-lepidemie-a-trois-regions-du-continent/",
   "d": "2026-10-21",
@@ -98,6 +150,40 @@
   "p": 7.0,
   "se": "2026-42",
   "r": "Addis-Abeba, Éthiopie, 21 octobre 2026 Les Centres africains de contrôle et de prévention des maladies (Africa CDC) convoquent une réunion virtuelle de haut niveau des ministres africains de la Santé le mercredi 28 octobre 2026, face à l’aggravation de…",
+  "i": "virus",
+  "m": []
+ },
+ {
+  "t": "Ebola has spread from Congo to 4 other countries. A look at where things stand",
+  "u": "https://edition.cnn.com/2026/10/21/health/ebola-kenya-congo-nigeria-uganda-france",
+  "d": "2026-10-21",
+  "df": "21 out 2026",
+  "f": "CNN",
+  "fn": "CNN | Health",
+  "e": "Internacional",
+  "a": [
+   "Doença pelo vírus Ebola"
+  ],
+  "p": 6.5,
+  "se": "2026-42",
+  "r": "",
+  "i": "virus",
+  "m": []
+ },
+ {
+  "t": "Ebola has spread from Congo to 4 other countries. A look at where things stand",
+  "u": "https://www.cnn.com/2026/10/21/health/ebola-kenya-congo-nigeria-uganda-france",
+  "d": "2026-10-21",
+  "df": "21 out 2026",
+  "f": "CNN",
+  "fn": "CNN",
+  "e": "Internacional",
+  "a": [
+   "Doença pelo vírus Ebola"
+  ],
+  "p": 6.5,
+  "se": "2026-42",
+  "r": "",
   "i": "virus",
   "m": []
  },

@@ -24,6 +24,29 @@
   ]
  },
  {
+  "id": "a5c573840dd43b",
+  "titulo": "Negacionismo impulsiona sarampo nos EUA e representa ameaça ao Brasil",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/negacionismo-impulsiona-sarampo-nos-eua-e-representa-ameaca-ao-brasil",
+  "fonte_id": "agencia-brasil-saude",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "Mudanças recentes no calendário vacinal dos Estados Unidos, impulsionadas por discursos antivacinação do governo Donald Trump, ajudam a explicar por que o país está passando pelo pior surto de sarampo em mais de três décadas . Mais de 4,4 mil casos já foram confirmados este ano, com três mortes. Entre os infectados, 98% não estavam totalmente vacinados. A avaliação do diretor do Programa Nacional de Imunizações do Brasil, Eder Gatti, é que os Estados Unidos passam por um período de retrocessos que ameaça todo o continente .",
+  "coletado_em": "2026-10-21T22:20:11+00:00",
+  "municipios": [],
+  "pontuacao": 12.5,
+  "agravos": [
+   "Sarampo"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "surto"
+  ]
+ },
+ {
   "id": "c7307d57653b6d",
   "titulo": "Ebola: Africa CDC Convenes African Ministers of Health as Ebola Outbreak Spreads Across Three Regions",
   "url": "https://africacdc.org/news-item/africa-cdc-convenes-african-ministers-of-health-as-ebola-outbreak-spreads-across-three-regions/",
@@ -93,6 +116,30 @@
   ]
  },
  {
+  "id": "16b2c257b84b7a",
+  "titulo": "PAHO calls for strengthened surveillance and preparedness amid increases in dengue and chikungunya in the Americas",
+  "url": "https://www.paho.org/en/news/21-10-2026-paho-calls-strengthened-surveillance-and-preparedness-amid-increases-dengue-and",
+  "fonte_id": "opas-noticias",
+  "fonte": "OPAS | Notícias",
+  "sigla": "OPAS",
+  "idioma": "en",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "PAHO calls for strengthened surveillance and preparedness amid increases in dengue and chikungunya in the Americas Cristina Mitchell 21 Oct 2026",
+  "coletado_em": "2026-10-21T22:20:11+00:00",
+  "municipios": [],
+  "pontuacao": 8.5,
+  "agravos": [
+   "Dengue",
+   "Chikungunya"
+  ],
+  "escopo": "Américas",
+  "termos_evento": [
+   "surveillance"
+  ]
+ },
+ {
   "id": "1c43a917bbe54b",
   "titulo": "Aumento do sarampo no Brasil: doença pode levar à morte; entenda riscos",
   "url": "https://stories.cnnbrasil.com.br/saude/aumento-do-sarampo-no-brasil-doenca-pode-levar-a-morte-entenda-riscos/",
@@ -114,6 +161,27 @@
   "termos_evento": []
  },
  {
+  "id": "0b7076cfdb5840",
+  "titulo": "Tempestades voltam a atingir o Rio Grande do Sul a partir desta quarta-feira (21)",
+  "url": "https://estado.rs.gov.br/tempestades-voltam-a-atingir-o-rio-grande-do-sul-a-partir-desta-quarta-feira-21",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Portal do Estado do Rio Grande do Sul",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-21T22:20:11+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
   "id": "6393553d4ba4a2",
   "titulo": "Ebola: Africa CDC réunit les ministres africains de la Santé face à l’extension de l’épidémie à trois régions du continent",
   "url": "https://africacdc.org/news-item/ebola-africa-cdc-reunit-les-ministres-africains-de-la-sante-face-a-lextension-de-lepidemie-a-trois-regions-du-continent/",
@@ -128,6 +196,48 @@
   "coletado_em": "2026-10-21T13:46:50+00:00",
   "municipios": [],
   "pontuacao": 7.0,
+  "agravos": [
+   "Doença pelo vírus Ebola"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": []
+ },
+ {
+  "id": "f0ed584090ce66",
+  "titulo": "Ebola has spread from Congo to 4 other countries. A look at where things stand",
+  "url": "https://edition.cnn.com/2026/10/21/health/ebola-kenya-congo-nigeria-uganda-france",
+  "fonte_id": "cnn-saude",
+  "fonte": "CNN | Health",
+  "sigla": "CNN",
+  "idioma": "en",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-21T22:20:11+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Doença pelo vírus Ebola"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": []
+ },
+ {
+  "id": "443b8d911f0239",
+  "titulo": "Ebola has spread from Congo to 4 other countries. A look at where things stand",
+  "url": "https://www.cnn.com/2026/10/21/health/ebola-kenya-congo-nigeria-uganda-france",
+  "fonte_id": "cnn-busca",
+  "fonte": "CNN",
+  "sigla": "CNN",
+  "idioma": "en",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-21T22:20:11+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
   "agravos": [
    "Doença pelo vírus Ebola"
   ],
@@ -814,6 +924,269 @@
   "se": "2026-42",
   "descricao": "",
   "coletado_em": "2026-10-21T18:37:36+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "ef35aaf27456b2",
+  "titulo": "United Arab Emirates announces national commitments to advance evidence-based integrative medicine",
+  "url": "https://www.who.int/news/item/21-10-2026-united-arab-emirates-announces-national-commitments-to-advance-evidence-based-integrative-medicine",
+  "fonte_id": "oms-noticias",
+  "fonte": "OMS | Notícias",
+  "sigla": "OMS",
+  "idioma": "en",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-21T22:20:11+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Internacional",
+  "termos_evento": []
+ },
+ {
+  "id": "530eb030670dfc",
+  "titulo": "WHO launches guidance on evidence generation for new TB diagnostics",
+  "url": "https://www.who.int/news/item/21-10-2026-who-launches-guidance-on-evidence-generation-for-new-tb-diagnostics",
+  "fonte_id": "oms-noticias",
+  "fonte": "OMS | Notícias",
+  "sigla": "OMS",
+  "idioma": "en",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-21T22:20:11+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Internacional",
+  "termos_evento": []
+ },
+ {
+  "id": "ea5b8542378f3e",
+  "titulo": "New WHO–ILO framework to track progress towards universal social protection inclusive of people with TB",
+  "url": "https://www.who.int/news/item/21-10-2026-new-who-ilo-framework-to-track-progress-towards-universal-social-protection-inclusive-of-people-with-tb",
+  "fonte_id": "oms-noticias",
+  "fonte": "OMS | Notícias",
+  "sigla": "OMS",
+  "idioma": "en",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-21T22:20:11+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Internacional",
+  "termos_evento": []
+ },
+ {
+  "id": "69847be93952f9",
+  "titulo": "Childhood lead exposure remains a preventable health threat in the Americas",
+  "url": "https://www.paho.org/en/news/21-10-2026-childhood-lead-exposure-remains-preventable-health-threat-americas",
+  "fonte_id": "opas-noticias",
+  "fonte": "OPAS | Notícias",
+  "sigla": "OPAS",
+  "idioma": "en",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "Childhood lead exposure remains a preventable health threat in the Americas Cristina Mitchell 21 Oct 2026",
+  "coletado_em": "2026-10-21T22:20:11+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Américas",
+  "termos_evento": []
+ },
+ {
+  "id": "0ed0964ed78d50",
+  "titulo": "Ministério da Saúde orienta gestores municipais sobre novos equipamentos doados para as unidades básicas de saúde",
+  "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/ministerio-da-saude-orienta-gestores-municipais-sobre-novos-equipamentos-doados-para-as-unidades-basicas-de-saude",
+  "fonte_id": "ms-noticias",
+  "fonte": "Ministério da Saúde | Notícias",
+  "sigla": "MS",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-21T22:20:11+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "1a1330ad709a1d",
+  "titulo": "Concurso de queijos artesanais estão com inscrições abertas até 25/10",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525219-concurso-de-queijos-artesanais-estao-com-inscricoes-abertas-ate-25-10.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-21T22:20:11+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "dee3a0e299424e",
+  "titulo": "PMDF planeja reforço na segurança para as eleições de domingo",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525176-pmdf-planeja-reforco-na-seguranca-para-as-eleicoes-de-domingo.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-21T22:20:11+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "69c1a06921ece0",
+  "titulo": "Curiosidades e arquitetura da Ponte JK que você precisa conhecer",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525249-curiosidades-e-arquitetura-da-ponte-jk-que-voce-precisa-conhecer.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-21T22:20:11+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "122a203d41fa5b",
+  "titulo": "Faccionados transformavam pauladas em espetáculo e decretavam mortes no DF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525197-faccionados-transformavam-pauladas-em-espetaculo-e-decretavam-mortes-no-df.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-21T22:20:11+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "eac409ef8462bf",
+  "titulo": "Obituário: 52 funerais nesta quarta-feira (21/10); confira lista",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525192-obituario-52-funerais-nesta-quarta-feira-21-10-confira-lista.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-21T22:20:11+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "0805dfc88c57e5",
+  "titulo": "Homem é resgatado ao sofrer mal súbito em poste de iluminação pública",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525138-homem-e-resgatado-ao-sofrer-mal-subito-em-poste-de-iluminacao-publica.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-21T22:20:11+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "75c94043d39a0a",
+  "titulo": "Celina Leão descarta debate com Leandro Grass e diz ter sido desrespeitada",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525073-celina-leao-descarta-debate-com-leandro-grass-e-diz-ter-sido-desrespeitada.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-21T22:20:11+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "c2b5e8d71b6594",
+  "titulo": "Vídeo: caminhão-guindaste tomba em canteiro de pista no Lago Norte",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525035-video-caminhao-guindaste-tomba-em-canteiro-de-pista-no-lago-norte.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-21T22:20:11+00:00",
   "municipios": [
    "Distrito Federal"
   ],

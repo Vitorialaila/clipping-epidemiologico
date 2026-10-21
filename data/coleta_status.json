@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-10-21T18:37:36+00:00",
+  "em": "2026-10-21T22:20:11+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,17 +10,17 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-10-21T18:37:36+00:00",
+  "em": "2026-10-21T22:20:11+00:00",
   "lidos": 40,
-  "novos": 0,
+  "novos": 3,
   "exemplos": [
+   "United Arab Emirates announces national commitments to advance evidence-based integrative medicine",
    "New global framework launched to track increasing health risks of extreme heat for pregnant women, newborns and children",
-   "Call for Proposals for hosting the 20th International Conference of Drug Regulatory Authorities (ICDRA)",
-   "WHO report examines inequalities in noncommunicable diseases and their risk factors"
+   "WHO launches guidance on evidence generation for new TB diagnostics"
   ]
  },
  "opas-alertas": {
-  "em": "2026-10-21T18:37:36+00:00",
+  "em": "2026-10-21T22:20:11+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,17 +30,17 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-10-21T18:37:36+00:00",
+  "em": "2026-10-21T22:20:11+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 2,
   "exemplos": [
-   "PAHO Director calls for country ownership and regional solidarity in reshaping global health architecture",
-   "La OPS entrega insumos críticos para reforzar la atención de emergencia en comunidades afectadas por el terremoto en Pan",
-   "La OPS/OMS coordina con el Ministerio de Salud el apoyo a la respuesta en salud tras el terremoto en Panamá"
+   "Childhood lead exposure remains a preventable health threat in the Americas",
+   "PAHO calls for strengthened surveillance and preparedness amid increases in dengue and chikungunya in the Americas",
+   "PAHO Director calls for country ownership and regional solidarity in reshaping global health architecture"
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-10-21T18:37:36+00:00",
+  "em": "2026-10-21T22:20:11+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-10-21T18:37:36+00:00",
+  "em": "2026-10-21T22:20:11+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-10-21T18:37:36+00:00",
+  "em": "2026-10-21T22:20:11+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-10-21T18:37:36+00:00",
+  "em": "2026-10-21T22:20:11+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-10-21T18:37:36+00:00",
+  "em": "2026-10-21T22:20:11+00:00",
   "lidos": 2343,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-10-21T18:37:36+00:00",
+  "em": "2026-10-21T22:20:11+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,17 +100,17 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-10-21T18:37:36+00:00",
+  "em": "2026-10-21T22:20:11+00:00",
   "lidos": 15,
-  "novos": 2,
+  "novos": 1,
   "exemplos": [
+   "Ministério da Saúde orienta gestores municipais sobre novos equipamentos doados para as unidades básicas de saúde",
    "Rio de Janeiro conta com 15 unidades móveis para atendimento à população em situação de rua",
-   "Ministério da Saúde abre inscrições para nova chamada do Projeto Mais Médicos Especialistas",
-   "Foz do Iguaçu vai receber nova maternidade e integrar a rede de hospitais inteligentes"
+   "Ministério da Saúde abre inscrições para nova chamada do Projeto Mais Médicos Especialistas"
   ]
  },
  "fiocruz": {
-  "em": "2026-10-21T18:37:36+00:00",
+  "em": "2026-10-21T22:20:11+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -120,19 +120,19 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-10-21T18:37:36+00:00",
+  "em": "2026-10-21T22:20:11+00:00",
   "lidos": 10,
-  "novos": 3,
+  "novos": 1,
   "exemplos": [
+   "Negacionismo impulsiona sarampo nos EUA e representa ameaça ao Brasil",
    "Força Nacional do SUS apoia atendimentos no Amazonas após incêndios",
-   "Quedas: mais de 330 mil crianças foram internadas no Brasil em 10 anos",
-   "Pediatras alertam para riscos de brinquedos com IA"
+   "Quedas: mais de 330 mil crianças foram internadas no Brasil em 10 anos"
   ]
  },
  "ses-go": {
-  "em": "2026-10-21T18:37:36+00:00",
+  "em": "2026-10-21T22:20:11+00:00",
   "lidos": 10,
-  "novos": 4,
+  "novos": 0,
   "exemplos": [
    "Superintendência da Escola de Saúde de Goiás disponibiliza curso sobre bem-estar das equipes do SUS",
    "HCN reforça conscientização no Outubro Rosa e participa da 3ª Corrida Rosa e Azul em Uruaçu",
@@ -140,9 +140,9 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-10-21T18:37:36+00:00",
+  "em": "2026-10-21T22:20:11+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Metrô de São Paulo amplia uso do Pix no autoatendimento",
    "Curso falso para sargentos da reserva era usado para compra de armas",
@@ -150,19 +150,19 @@
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-10-21T18:37:36+00:00",
+  "em": "2026-10-21T22:20:11+00:00",
   "lidos": 25,
   "novos": 0,
   "exemplos": [
-   "Cirurgia inédita reconstrói clitóris após câncer de vulva; entenda",
-   "Câncer de mama: prevenção e rastreamento precisam ser individualizados",
-   "CNN Brasil tem três finalistas no Prêmio Einstein 2026; saiba como votar"
+   "Rio de Janeiro cria primeira unidade para diagnosticar TEA em adultos",
+   "Morte Lua Blanco: alimentação ruim está ligada ao câncer de intestino",
+   "Estudo mostra que exame de ondas cerebrais detecta sinais de Alzheimer"
   ]
  },
  "cnn-saude": {
-  "em": "2026-10-21T18:37:36+00:00",
-  "lidos": 19,
-  "novos": 0,
+  "em": "2026-10-21T22:20:11+00:00",
+  "lidos": 20,
+  "novos": 1,
   "exemplos": [
    "One US measles outbreak is proving particularly deadly. Here’s why",
    "How a calf injury could have led to blood clots in Jalen Hurts’ lungs",
@@ -170,17 +170,17 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-10-21T18:37:36+00:00",
-  "lidos": 16,
-  "novos": 0,
+  "em": "2026-10-21T22:20:11+00:00",
+  "lidos": 18,
+  "novos": 1,
   "exemplos": [
    "One US measles outbreak is proving particularly deadly. Here’s why",
    "‘Who, us? We’re not anti-vaccine,’ parents tell me. ‘Today just doesn’t work for us’",
-   "Exclusive: State Department warns Americans about Latin America. Privately, it tells asylum officers a different story"
+   "A chemical tank explodes in Ohio, forcing evacuations and prompting fears of another blast"
   ]
  },
  "inmet": {
-  "em": "2026-10-21T18:37:36+00:00",
+  "em": "2026-10-21T22:20:11+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -190,7 +190,7 @@
   ]
  },
  "cemaden": {
-  "em": "2026-10-21T18:37:36+00:00",
+  "em": "2026-10-21T22:20:11+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -200,8 +200,8 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-10-21T18:37:36+00:00",
-  "lidos": 23,
+  "em": "2026-10-21T22:20:11+00:00",
+  "lidos": 14,
   "novos": 1,
   "exemplos": [
    "Autorizado repasse de R$ 1,8 milhão para ações de defesa civil",
@@ -210,13 +210,13 @@
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-10-21T18:37:36+00:00",
+  "em": "2026-10-21T22:20:11+00:00",
   "lidos": 20,
-  "novos": 10,
+  "novos": 8,
   "exemplos": [
-   "GDF altera ponto facultativo do Dia do Servidor Público para 30 de outubro",
    "Primeiro dia de reversão na Ponte JK divide opiniões de motoristas",
-   "Professores da rede pública cobram autonomia em ato na Praça do Buriti"
+   "GDF altera ponto facultativo do Dia do Servidor Público para 30 de outubro",
+   "Concurso de queijos artesanais estão com inscrições abertas até 25/10"
   ]
  }
 }
