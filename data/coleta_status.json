@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-10-20T22:19:21+00:00",
+  "em": "2026-10-21T01:34:29+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,7 +10,7 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-10-20T22:19:21+00:00",
+  "em": "2026-10-21T01:34:29+00:00",
   "lidos": 40,
   "novos": 0,
   "exemplos": [
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-10-20T22:19:21+00:00",
+  "em": "2026-10-21T01:34:29+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-10-20T22:19:21+00:00",
+  "em": "2026-10-21T01:34:29+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-10-20T22:19:21+00:00",
+  "em": "2026-10-21T01:34:29+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-10-20T22:19:21+00:00",
+  "em": "2026-10-21T01:34:29+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-10-20T22:19:21+00:00",
+  "em": "2026-10-21T01:34:29+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-10-20T22:19:21+00:00",
+  "em": "2026-10-21T01:34:29+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-10-20T22:19:21+00:00",
+  "em": "2026-10-21T01:34:29+00:00",
   "lidos": 2343,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-10-20T22:19:21+00:00",
+  "em": "2026-10-21T01:34:29+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,9 +100,9 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-10-20T22:19:21+00:00",
+  "em": "2026-10-21T01:34:29+00:00",
   "lidos": 15,
-  "novos": 3,
+  "novos": 0,
   "exemplos": [
    "Foz do Iguaçu vai receber nova maternidade e integrar a rede de hospitais inteligentes",
    "Farmácia Popular está presente em 5 mil municípios brasileiros",
@@ -110,9 +110,9 @@
   ]
  },
  "fiocruz": {
-  "em": "2026-10-20T22:19:21+00:00",
+  "em": "2026-10-21T01:34:29+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Fiocruz promove 6ª Festa Carioca das Sementes Agroecológicas pelo Dia Mundial da Alimentação",
    "Hospital da Lagoa realiza mutirão de cirurgias de catarata",
@@ -120,19 +120,19 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-10-20T22:19:21+00:00",
+  "em": "2026-10-21T01:34:29+00:00",
   "lidos": 10,
-  "novos": 2,
+  "novos": 1,
   "exemplos": [
+   "Quase 90% de conteúdos virais sobre saúde são falsos, diz Agência Lupa",
    "Repórter Tâmara Freire, da Agência Brasil, é finalista no Prêmio SBIm",
-   "Saúde inicia oferta de novos medicamentos oncológicos no SUS",
-   "Governo impõe emergência zoossanitária após detectar Newcastle em SC"
+   "Saúde inicia oferta de novos medicamentos oncológicos no SUS"
   ]
  },
  "ses-go": {
-  "em": "2026-10-20T22:19:21+00:00",
+  "em": "2026-10-21T01:34:29+00:00",
   "lidos": 10,
-  "novos": 2,
+  "novos": 0,
   "exemplos": [
    "Extrato do Termo de Rescisão Amigável do Contrato n.º 082/2026 – SES-GO",
    "Extrato de Termo de Rerratificação do Primeiro Aditivo ao Convênio n.º 16/2021 – SES/GO",
@@ -140,7 +140,7 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-10-20T22:19:21+00:00",
+  "em": "2026-10-21T01:34:29+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -150,7 +150,7 @@
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-10-20T22:19:21+00:00",
+  "em": "2026-10-21T01:34:29+00:00",
   "lidos": 25,
   "novos": 0,
   "exemplos": [
@@ -160,7 +160,7 @@
   ]
  },
  "cnn-saude": {
-  "em": "2026-10-20T22:19:21+00:00",
+  "em": "2026-10-21T01:34:29+00:00",
   "lidos": 17,
   "novos": 0,
   "exemplos": [
@@ -170,17 +170,17 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-10-20T22:19:21+00:00",
-  "lidos": 14,
+  "em": "2026-10-21T01:34:29+00:00",
+  "lidos": 16,
   "novos": 0,
   "exemplos": [
    "‘Who, us? We’re not anti-vaccine,’ parents tell me. ‘Today just doesn’t work for us’",
    "A super El Niño winter is coming and the first official forecast is in",
-   "Gift for Putin as fears grow that Trump is turning the screws on Ukraine"
+   "Man shot and killed on subway platform in midtown Manhattan after argument"
   ]
  },
  "inmet": {
-  "em": "2026-10-20T22:19:21+00:00",
+  "em": "2026-10-21T01:34:29+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -190,7 +190,7 @@
   ]
  },
  "cemaden": {
-  "em": "2026-10-20T22:19:21+00:00",
+  "em": "2026-10-21T01:34:29+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -200,9 +200,9 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-10-20T22:19:21+00:00",
-  "lidos": 24,
-  "novos": 2,
+  "em": "2026-10-21T01:34:29+00:00",
+  "lidos": 18,
+  "novos": 0,
   "exemplos": [
    "Autorizado repasse de R$ 1,8 milhão para ações de defesa civil",
    "Autorizado repasse de R$ 4,7 milhões para ações de defesa civil",
@@ -210,13 +210,13 @@
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-10-20T22:19:21+00:00",
+  "em": "2026-10-21T01:34:29+00:00",
   "lidos": 21,
-  "novos": 13,
+  "novos": 7,
   "exemplos": [
-   "PCDF faz novas prisões após capturar suspeito de ordenar cinco mortes",
    "Celina aciona Justiça Eleitoral contra Grass por panfleto comparativo no DF",
-   "Celina promete linha de crédito para microempreendedores"
+   "Terça-feira será de calor com pouca chance de chuvas e máxima de 34ºC",
+   "Jovem de 18 anos morre após ser atropelada por carro no Eixão Norte"
   ]
  }
 }
