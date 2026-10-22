@@ -493,7 +493,7 @@ def gerar_paineis() -> None:
     paineis = [
         PainelSRAGBrasil(),
         PainelSarampoBrasil(),
-        PainelEbolaRDC(),
+        # PainelEbolaRDC(): retirado em 22/10/2026, tinha números e tendência sem fonte
     ]
 
     sucesso = 0
