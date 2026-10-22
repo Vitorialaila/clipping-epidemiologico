@@ -9,7 +9,12 @@ from .util import carregar_yaml, normalizar
 
 
 def _padrao(termos: list[str]) -> re.Pattern:
-    partes = sorted({re.escape(normalizar(str(t))) for t in termos}, key=len, reverse=True)
+    """Termos exatos; um asterisco no fim indica prefixo (ex.: "shigel*" casa shigella, shigelose, shigellosis)."""
+    partes = set()
+    for t in termos:
+        t = normalizar(str(t)).strip()
+        partes.add(re.escape(t[:-1]) + r"\w*" if t.endswith("*") else re.escape(t))
+    partes = sorted(partes, key=len, reverse=True)
     return re.compile(r"(?<![\w-])(" + "|".join(partes) + r")(?![\w])")
 
 
@@ -27,7 +32,8 @@ def _criterios():
                 termos += [m["nome"]] + m.get("termos", [])
         locais.append((nome, float(v["peso"]), _padrao(termos)))
     ajustes = [(float(a["peso"]), _padrao(a["termos"])) for a in c.get("ajustes", [])]
-    return c, agravos, eventos, locais, ajustes
+    exclusoes = _padrao(c["exclusoes"]) if c.get("exclusoes") else None
+    return c, agravos, eventos, locais, ajustes, exclusoes
 
 
 def limiares() -> tuple[float, float]:
@@ -37,9 +43,15 @@ def limiares() -> tuple[float, float]:
 
 def pontuar(titulo: str, descricao: str, fonte: dict, ano_referencia: int | None = None) -> dict:
     """Retorna pontuação, agravos identificados, escopo geográfico e termos de evento."""
-    _, agravos, eventos, locais, ajustes = _criterios()
+    c, agravos, eventos, locais, ajustes, exclusoes = _criterios()
     titulo_n = normalizar(titulo)
-    texto = titulo_n + " " + normalizar(descricao)
+    # Fontes cujo resumo traz o sumário da edição inteira (ex.: MMWR) são avaliadas só pelo título
+    corpo = "" if fonte.get("so_titulo") else normalizar(descricao)
+    if exclusoes:  # expressões em sentido figurado ou fora de contexto ("lei seca", "cortina de fumaça")
+        titulo_n = exclusoes.sub(" ", titulo_n)
+        corpo = exclusoes.sub(" ", corpo)
+    texto = titulo_n + " " + corpo
+    canal_alerta = bool(fonte.get("canal_alerta"))
 
     achados = []
     for nome, peso, padrao in agravos:
@@ -60,7 +72,7 @@ def pontuar(titulo: str, descricao: str, fonte: dict, ano_referencia: int | None
             termos_evento.append(m.group(1))
     pts_evento = min(pts_evento, 6.0)
 
-    if not achados and pts_evento < 2.5:
+    if not achados and pts_evento < 2.5 and not canal_alerta:
         return {"pontuacao": 0.0, "agravos": [], "escopo": fonte.get("escopo_padrao", "Internacional"),
                 "termos_evento": termos_evento}
 
@@ -77,14 +89,21 @@ def pontuar(titulo: str, descricao: str, fonte: dict, ano_referencia: int | None
             escopo, pts_local = nome, peso
     pts += pts_local
 
+    # Penalidades olham só o título: é ele que diz do que a matéria trata; o corpo de notícias sobre eventos
+    # costuma trazer jargão institucional ("strengthen", "pesquisadores") que não muda a natureza da notícia
     for peso, padrao in ajustes:
-        if padrao.search(texto):
+        if padrao.search(titulo_n):
             pts += peso
 
     # Relato retrospectivo: o título cita apenas anos já encerrados (ex.: "January 2024-June 2025" em 2026)
     anos = [int(a) for a in re.findall(r"(?<!\d)(20\d{2})(?!\d)", titulo)]
     if anos and max(anos) < (ano_referencia or date.today().year):
-        pts += float(_criterios()[0].get("penalidade_retrospectivo", -4))
+        pts += float(c.get("penalidade_retrospectivo", -4))
+
+    # Canais oficiais de alerta (DON da OMS, alertas da OPAS, atualizações e avaliações do ECDC): cada item
+    # é, por definição, um evento; nunca ficam abaixo do piso, salvo relatos retrospectivos
+    if canal_alerta and not (anos and max(anos) < (ano_referencia or date.today().year)):
+        pts = max(pts, float(c.get("piso_canal_alerta", 6)))
 
     return {"pontuacao": round(max(pts, 0.0), 2), "agravos": nomes_agravos[:3], "escopo": escopo,
             "termos_evento": termos_evento}

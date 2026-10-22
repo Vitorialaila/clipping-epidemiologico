@@ -8,12 +8,16 @@
 
 limiar_feed: 4            # pontuação mínima para aparecer no feed do site
 limiar_clipping: 5        # pontuação mínima para concorrer aos destaques
-penalidade_retrospectivo: -4   # título que cita só anos já encerrados (relato de evento passado)
+penalidade_retrospectivo: -6   # título que cita só anos já encerrados (relato de evento passado)
+piso_canal_alerta: 6           # pontuação mínima dos canais oficiais de alerta (fontes com canal_alerta: true)
+# Termos com asterisco no fim valem como prefixo: "shigel*" casa shigella, shigelose, shigellosis.
 
 agravos:
   - {nome: "Doença pelo vírus Ebola", icone: virus, peso: 5, termos: [ebola, bundibugyo, "sudan virus", "virus sudao"]}
   - {nome: "Doença de Marburg", icone: virus, peso: 5, termos: [marburg]}
   - {nome: "Febres hemorrágicas virais", icone: virus, peso: 5, termos: [lassa, "febre hemorragica", "hemorrhagic fever", "crimean-congo", cchf, "fiebre hemorragica"]}
+  - {nome: "Patógeno novo ou incomum em humanos", icone: virus, peso: 5, termos: ["first human case", "first human cases", "first ever human", "first-ever human", "first human infection", "first human infections", "first human infected", "first reported human", "first known human", "primeiro caso humano", "primeiros casos humanos", "primeira infeccao humana", "primeiro registro em humanos", "primeira deteccao em humanos", "novo virus", "new virus", "novel virus", "novel pathogen", "virus emergente", "emerging virus", "emerging pathogen", "doenca emergente", "emerging disease", "evento inusitado", "unusual event", "agente etiologico desconhecido", shamonda, orthobunyavir*, "simbu virus", schmallenberg, akabane, usutu, mayaro, "virus andes", "andes virus", "andes hantavirus", "borna virus", bornavir*, "langya", "alongshan", "wetland virus", "tick-borne virus"]}
+  - {nome: "Saúde Única: zoonoses e eventos em animais", icone: animal, peso: 3, termos: [zoonose, zoonoses, zoonotic*, zoonotica*, spillover, epizoot*, zoossanitari*, "sanidade animal", "animal health", newcastle, "febre aftosa", "foot-and-mouth", "peste suina", "swine fever", mormo, glanders, brucelose, brucellosis, "tuberculose bovina", miiase, myiasis, cochliomyia, screwworm, bicheira, dermatophil*, "mortandade de", "morte de aves", "die-off", "mass mortality"]}
   - {nome: "Sarampo", icone: virus, peso: 5, termos: [sarampo, measles, sarampion]}
   - {nome: "Rubéola", icone: virus, peso: 4, termos: [rubeola, rubella, "sindrome da rubeola congenita"]}
   - {nome: "Poliomielite", icone: virus, peso: 5, termos: [poliomielite, polio, poliovirus, "paralisia flacida aguda", "acute flaccid paralysis", cvdpv, wpv1]}
@@ -35,13 +39,14 @@ agravos:
   - {nome: "Febre do Nilo Ocidental", icone: mosquito, peso: 4, termos: ["west nile", "nilo ocidental", "febre do nilo", wnv]}
   - {nome: "Encefalites virais", icone: virus, peso: 3, termos: [encefalite, encephalitis, "encefalite japonesa", "tick-borne encephalitis", eee, "equine encephalitis"]}
   - {nome: "Nipah", icone: virus, peso: 5, termos: [nipah, hendra]}
-  - {nome: "Hantavirose", icone: animal, peso: 4, termos: [hantavirus, hantavirose, "sindrome cardiopulmonar por hantavirus"]}
+  - {nome: "Hantavirose", icone: animal, peso: 4, termos: [hantavirus, hantavirose, orthohantavir*, "sindrome cardiopulmonar por hantavirus", "hantavirus pulmonary syndrome"]}
   - {nome: "Raiva", icone: animal, peso: 5, termos: ["raiva humana", "raiva animal", "virus da raiva", rabies, rabia, antirrabica]}
   - {nome: "Peste", icone: bacteria, peso: 5, termos: [plague, "peste bubonica", "peste pneumonica", "yersinia pestis"]}
   - {nome: "Antraz", icone: bacteria, peso: 5, termos: [antraz, anthrax, carbunculo]}
   - {nome: "Botulismo", icone: bacteria, peso: 5, termos: [botulismo, botulism]}
-  - {nome: "Doença meningocócica e meningites", icone: bacteria, peso: 4, termos: [meningococica, meningococcal, meningite, meningitis, "neisseria meningitidis"]}
-  - {nome: "Febre maculosa e riquetsioses", icone: animal, peso: 4, termos: ["febre maculosa", "spotted fever", rickettsia, riquetsiose, rickettsiosis]}
+  - {nome: "Doença meningocócica e meningites", icone: bacteria, peso: 4, termos: [meningococ*, meningite, meningites, meningitis, "neisseria meningitidis", haemophilus, "doenca invasiva", "invasive disease", pneumococ*, "streptococcus pneumoniae"]}
+  - {nome: "Febre maculosa e riquetsioses", icone: animal, peso: 4, termos: ["febre maculosa", "spotted fever", rickettsi*, riquetsi*]}
+  - {nome: "Doenças transmitidas por carrapatos", icone: animal, peso: 3, termos: [lyme, borrelia, borreliose, borreliosis, ixodes, carrapato, carrapatos, "tick-borne", "tickborne", "blacklegged tick", babesi*, anaplasm*, ehrlichi*, "powassan"]}
   - {nome: "Malária", icone: mosquito, peso: 4, termos: [malaria, plasmodium]}
   - {nome: "Doença de Chagas aguda", icone: mosquito, peso: 4, termos: [chagas, "trypanosoma cruzi"]}
   - {nome: "Leptospirose", icone: agua, peso: 3, termos: [leptospirose, leptospirosis]}
@@ -50,21 +55,25 @@ agravos:
   - {nome: "Tuberculose", icone: bacteria, peso: 2, termos: [tuberculose, tuberculosis, "tb-mdr", "mdr-tb", "xdr-tb"]}
   - {nome: "Hanseníase", icone: bacteria, peso: 2, termos: [hanseniase, leprosy, hansen]}
   - {nome: "Sífilis", icone: bacteria, peso: 2, termos: [sifilis, syphilis, "sifilis congenita", "congenital syphilis"]}
-  - {nome: "HIV/aids e IST", icone: virus, peso: 2, termos: [hiv, aids, "infeccoes sexualmente transmissiveis", "sexually transmitted", gonorreia, gonorrhoea, gonorrhea, prep]}
+  - {nome: "HIV/aids e IST", icone: virus, peso: 2, termos: [hiv, "hiv/aids", aids, "infeccoes sexualmente transmissiveis", "infeccao sexualmente transmissivel", "sexually transmitted", gonorreia, gonorrhoea, gonorrhea, gonococ*, "neisseria gonorrhoeae", "profilaxia pre-exposicao", "pre-exposure prophylaxis"]}
   - {nome: "Hepatites virais", icone: virus, peso: 2, termos: [hepatite, hepatitis]}
   - {nome: "Micoses endêmicas", icone: fungo, peso: 3, termos: [esporotricose, sporotrichosis, histoplasmose, histoplasmosis, paracoccidioidomicose, criptococose, cryptococcosis, coccidioidomicose, "micoses endemicas", "fungal disease", "doenca fungica"]}
   - {nome: "Candida auris", icone: fungo, peso: 4, termos: ["candida auris", "candidozyma auris", "c. auris"]}
-  - {nome: "Resistência antimicrobiana", icone: bacteria, peso: 3, termos: ["resistencia antimicrobiana", "antimicrobial resistance", amr, superbacteria, superbug, carbapenemase, "kpc", "ndm", "multirresistente", "multidrug-resistant"]}
+  - {nome: "Resistência antimicrobiana", icone: bacteria, peso: 3, termos: ["resistencia antimicrobiana", "antimicrobial resistance", amr, superbacteria, superbug, carbapenem*, "kpc", "ndm", multirresistente*, "multidrug-resistant", "extensively drug-resistant", "drug-resistant", xdr, "pan-resistant"]}
   - {nome: "Infecções relacionadas à assistência", icone: bacteria, peso: 2, termos: [iras, "infeccao hospitalar", "healthcare-associated infection", "hospital-acquired", "surto hospitalar"]}
-  - {nome: "Doenças transmitidas por alimentos e água", icone: agua, peso: 3, termos: ["surto alimentar", "doenca transmitida por alimentos", "foodborne", salmonella, salmonelose, "e. coli", stec, listeria, listeriose, shigella, shigelose, "febre tifoide", typhoid, norovirus, rotavirus, "hepatite a", "intoxicacao alimentar", "food poisoning"]}
-  - {nome: "Legionelose", icone: bacteria, peso: 3, termos: [legionella, legionelose, legionnaires]}
-  - {nome: "Intoxicações", icone: quimico, peso: 3, termos: [metanol, methanol, "intoxicacao exogena", envenenamento, poisoning, agrotoxico, pesticide]}
+  - {nome: "Doenças transmitidas por alimentos e água", icone: agua, peso: 3, termos: ["surto alimentar", "doenca transmitida por alimentos", "doencas transmitidas por alimentos", foodborne, "waterborne", salmonel*, "e. coli", "escherichia coli", stec, listeri*, shigel*, campylobacter*, "febre tifoide", typhoid, norovir*, rotavir*, "hepatite a", "intoxicacao alimentar", "food poisoning", cereulide, "bacillus cereus", "gastrointestinal infections", "gastroenterite"]}
+  - {nome: "Legionelose", icone: bacteria, peso: 3, termos: [legionel*, legionnaires]}
+  - {nome: "Intoxicações", icone: quimico, peso: 3, termos: [metanol, methanol, "intoxicacao exogena", "intoxicacoes exogenas", envenenamento*, poisoning*, agrotoxico*, pesticide*, "mushroom poisoning*", cogumelo*, amanita]}
   - {nome: "Acidentes por animais peçonhentos", icone: animal, peso: 2, termos: [escorpiao, escorpionismo, "animais peconhentos", snakebite, "acidente ofidico"]}
+  - {nome: "Micobactérias não tuberculosas e outras infecções", icone: bacteria, peso: 2, termos: ["nontuberculous mycobacteria", "micobacterias nao tuberculosas", "micobacteria de crescimento rapido", purpureocillium, "infeccao fungica invasiva", "invasive mold", "invasive fungal", aspergil*, mucormic*]}
   - {nome: "Varicela e caxumba", icone: virus, peso: 2, termos: [varicela, chickenpox, caxumba, mumps, parotidite]}
   - {nome: "Doença de Creutzfeldt-Jakob", icone: saude, peso: 3, termos: [creutzfeldt, "doenca da vaca louca", "prion"]}
   - {nome: "Imunização", icone: vacina, peso: 2, termos: ["cobertura vacinal", "vaccination coverage", "campanha de vacinacao", "vaccination campaign", esavi, "evento adverso pos-vacinacao", "vaccine-derived", imunizacao, immunization]}
   - {nome: "Emergências e desastres", icone: desastre, peso: 4, termos: [alagamento, alagamentos, alagada, alagadas, alagado, desabrigados, desalojados, desabamento, vendaval, "temporal", temporais, granizo, "estado de calamidade", terremoto, earthquake, sismo, inundacao, enchente, flood, furacao, hurricane, deslizamento, "desastre", disaster, "crise humanitaria", "humanitarian crisis"]}
   - {nome: "Saúde ambiental e clima", icone: clima, peso: 3, termos: ["onda de calor", "heat wave", heatwave, "calor extremo", "extreme heat", queimadas, wildfire, "qualidade do ar", "air quality", "fumaca", "el nino", "la nina", seca, drought, "incendio florestal", "incendios florestais", "incendio em vegetacao", "incendio em area de vegetacao", "incendios em vegetacao", "focos de calor", "focos de incendio", brigadistas, "baixa umidade", "umidade relativa", "chuva intensa", "chuvas intensas", "chuvas fortes", temporal, temporais, tempestade, tempestades, ciclone, granizo, estiagem, alagamento, alagamentos, "risco geo-hidrologico", "risco hidrologico", "risco geologico", "alerta meteorologico", "aviso meteorologico", "temperaturas elevadas", "altas temperaturas"]}
+
+# Expressões removidas do texto antes da comparação: sentido figurado ou outro assunto
+exclusoes: ["lei seca", "a seco", "tosse seca", "pele seca", "boca seca", "olho seco", "olhos secos", "cortina de fumaca", "fumaca branca", "fumaca preta", "marco temporal", "serie temporal", "series temporais", "evolucao temporal", "analise temporal", "recorte temporal", "janela temporal", "lobo temporal", "tempestade perfeita", "tempestade politica", "desastre politico", "desastre eleitoral", "terremoto politico", "onda de calor nas pesquisas", "temporada de premios", "vacina contra a crise", "virus da corrupcao", "epidemia de fake news", "surto de otimismo", "surto de confianca", "aids ao", "first aid", "hearing aids"]
 
 eventos:
   # Ocorrência concreta de desastre ou evento climático com impacto na população
@@ -74,7 +83,7 @@ eventos:
   - {peso: 3, termos: ["emergencia de saude publica", "public health emergency", pheic, espii, "emergency committee", "comite de emergencia", "regulamento sanitario internacional", "international health regulations"]}
   - {peso: 2.5, termos: [surto, surtos, outbreak, outbreaks, brote, brotes, epidemia, epidemic, "disease outbreak news", cluster, conglomerado]}
   - {peso: 2, termos: ["alerta epidemiologico", "epidemiological alert", "health alert", "atualizacao epidemiologica", "epidemiological update", "alerta sanitario", "rapid risk assessment", "avaliacao de risco", "risk assessment", "threat assessment"]}
-  - {peso: 2, termos: ["primeiro caso", "primeiros casos", "first case", "first cases", "primer caso", autoctone, autochthonous, "caso importado", "imported case", "transmissao local", "local transmission", reintroducao, reintroduction, "caso confirmado", "confirmed case", "casos confirmados", "confirmed cases"]}
+  - {peso: 2, termos: ["primeiro caso", "primeiros casos", "first case", "first cases", "first ever", "first-ever", "human infection", "infeccao humana", "human case", "caso humano", "casos humanos", "human cases", "primer caso", autoctone, autochthonous, "caso importado", "imported case", "transmissao local", "local transmission", reintroducao, reintroduction, "caso confirmado", "confirmed case", "casos confirmados", "confirmed cases"]}
   - {peso: 1.5, termos: [obito, obitos, death, deaths, fatal, fatalities, muertes, letalidade, "case fatality"]}
   - {peso: 1, termos: ["aumento de casos", "increase in cases", "rising cases", surge, "alta de casos", "estado de emergencia", "situacao de emergencia", "emergencia em saude publica"]}
   - {peso: 1, termos: [vigilancia, surveillance, notificacao, notification, investigacao, investigation, "boletim epidemiologico"]}
@@ -92,10 +101,17 @@ localidades:
 
 # Termos que indicam conteúdo sem ocorrência nova (institucional, estudos, programas, explicativos)
 ajustes:
-  - {peso: -3, termos: [estudo, estudos, pesquisa, pesquisas, pesquisadores, study, studies, researchers, artigo, "ensaio clinico", "clinical trial", efetividade, effectiveness, metodologia, seminario, capacitacao, capacita, capacitar, oficina, treinamento, "dia mundial", "dia nacional", mutirao, implantacao, implanta, implantada, implantado, lancamento, lanca, intensifica, "pede apoio", mobilizacao]}
+  # Estudos, pesquisas e avaliações de efetividade (não são ocorrência nova)
+  - {peso: -3, termos: [estudo, estudos, pesquisa, pesquisas, pesquisadores, study, studies, researchers, artigo, "ensaio clinico", "clinical trial", efetividade, effectiveness, metodologia, "knowledge, attitudes", "knowledge attitudes", "vaccine effectiveness", "estimates of", "interim estimates", "vaccination coverage among", "cobertura vacinal entre"]}
+  # Institucional: capacitações, eventos, programas, cooperação, estratégias e ferramentas
+  - {peso: -5, termos: [seminario, capacitacao, capacita, capacitar, oficina, treinamento, "dia mundial", "dia nacional", mutirao, implantacao, implanta, implantada, implantado, lancamento, lanca, lancado, lancada, launches, launched, intensifica, "pede apoio", mobilizacao, cooperacao, parceria, partnership, "acordo de cooperacao", "assina acordo", "assinam acordo", "assina memorando", "memorando de entendimento", "signs agreement", "sign agreement", "signed an agreement", fortalece, fortalecer, fortalecimento, strengthen, strengthening, strengthens, "steps up", "good practices", "boas praticas", framework, estrategia, strategy, roadmap, toolkit, "plano de acao", "action plan", "observatorio", observatory, "governance", governanca, accreditation, credenciamento, "outcome statement", enrollment, "expanding enrollment", congresso, forum, cupula, summit, "consulta publica", "public consultation", orientacao aos gestores, "orienta gestores"]}
   # Relatos retrospectivos do MMWR (CDC)
-  - {peso: -4, termos: ["notes from the field"]}
+  - {peso: -2, termos: ["notes from the field"]}
   # Matérias explicativas: perdem menos, porque às vezes trazem um dado novo no título
-  - {peso: -1.5, termos: [entenda, saiba, "tire duvidas", mitos, "diz especialista", "dizem especialistas", "what to know", explainer]}
+  - {peso: -3, termos: [entenda, saiba, "tire duvidas", mitos, "diz especialista", "dizem especialistas", "what to know", explainer, "protect yourself", proteja-se, "cold season", "respiratory infections season", dicas, tips]}
   - {peso: -4, termos: [licitacao, "call for tenders", procurement, vacancy, vacancies, "job opening", concurso, "processo seletivo", edital]}
-  - {peso: -2, termos: [webinar, podcast, premio, award, "prize", nomeacao, appointed, "director-general candidates", posse, inauguracao, inaugura, aniversario, anniversary, curso, course, "toolkit", "save the date"]}
+  - {peso: -2, termos: [webinar, podcast, nomeacao, appointed, "director-general candidates", posse, inauguracao, inaugura, aniversario, anniversary, curso, course, "save the date"]}
+  # Prêmios, homenagens, loterias e serviços: fora do escopo do clipping
+  - {peso: -10, termos: [premio, premios, premiacao, premiado, premiada, premiados, finalista, finalistas, award, awards, prize, homenagem, homenageado, homenageada, "mega-sena", loteria, lotofacil, "como se cadastrar", "veja como se cadastrar"]}
+  # Recomendações clínicas, aprovações de produtos e diretrizes (não são ocorrência)
+  - {peso: -3, termos: ["clinical recommendation", "recommendations and reports", "recomendacao clinica", acip, "advisory committee", "aprova novo medicamento", "aprova medicamento", "aprova vacina", "nova vacina", "new vaccine", "approves", "approved for", "registro de medicamento", "oferta de novos medicamentos", "incorporacao ao sus"]}

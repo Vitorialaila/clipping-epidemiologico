@@ -12,7 +12,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 from . import boletim, icones, mapas, paineis, semana
 from .pontuar import limiares
 from .util import (ARQ_NOTICIAS, ASSETS, DIR_EDICOES_DADOS, DOCS, NOME_ESCOPO, ORDEM_ESCOPO, TEMPLATES,
-                   carregar_yaml, data_curta, data_extenso, ler_json, log, para_data, salvar_json, truncar)
+                   carregar_yaml, data_curta, data_extenso, ler_json, log, normalizar, para_data, salvar_json, truncar)
 
 
 def _edicoes() -> list[dict]:
@@ -48,6 +48,11 @@ def gerar() -> None:
         "i": icones.icone_para(*(n.get("agravos") or [n["titulo"]])),
         "m": n.get("municipios", []),
     } for n in noticias if n["pontuacao"] >= limiar_feed and n["data"] >= corte]
+    # A mesma matéria pode chegar por dois caminhos (ex.: página da CNN e busca da CNN): fica a de maior pontuação
+    unicos: dict[str, dict] = {}
+    for x in sorted(feed, key=lambda x: x["p"], reverse=True):
+        unicos.setdefault(re.sub(r"\W+", " ", normalizar(x["t"])).strip(), x)
+    feed = list(unicos.values())
     feed.sort(key=lambda x: (x["d"], x["p"]), reverse=True)
 
     # Semanas epidemiológicas presentes no feed, da mais recente para a mais antiga

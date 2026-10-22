@@ -81,6 +81,7 @@ fontes:
     url: "https://www.who.int/api/news/diseaseoutbreaknews?sf_culture=en&$orderby=PublicationDateAndTime%20desc&$top=30"
     base_link: "https://www.who.int/emergencies/disease-outbreak-news/item/"
     peso: 3
+    canal_alerta: true  # canal oficial de alerta: cada item é um evento (piso de pontuação)
     idioma: en
 
   - id: oms-noticias
@@ -99,6 +100,7 @@ fontes:
     url: "https://www.paho.org/en/epidemiological-alerts-and-updates"
     padrao_link: "paho\\.org/en/documents/epidemiological-(alert|update)"
     peso: 3
+    canal_alerta: true  # canal oficial de alerta: cada item é um evento (piso de pontuação)
     escopo_padrao: "Américas"
     idioma: en
 
@@ -117,6 +119,7 @@ fontes:
     tipo: rss
     url: "https://www.ecdc.europa.eu/en/taxonomy/term/1505/feed"
     peso: 2
+    canal_alerta: true  # canal oficial de alerta: cada item é um evento (piso de pontuação)
     idioma: en
 
   - id: ecdc-atualizacoes
@@ -125,6 +128,7 @@ fontes:
     tipo: rss
     url: "https://www.ecdc.europa.eu/en/taxonomy/term/1310/feed"
     peso: 2
+    canal_alerta: true  # canal oficial de alerta: cada item é um evento (piso de pontuação)
     idioma: en
 
   - id: ecdc-avaliacoes
@@ -133,6 +137,7 @@ fontes:
     tipo: rss
     url: "https://www.ecdc.europa.eu/en/taxonomy/term/1295/feed"
     peso: 2
+    canal_alerta: true  # canal oficial de alerta: cada item é um evento (piso de pontuação)
     idioma: en
 
   - id: ecdc-noticias
@@ -149,6 +154,7 @@ fontes:
     tipo: rss
     url: "https://tools.cdc.gov/api/v2/resources/media/342778.rss"
     peso: 0.5  # publicação científica semanal, com relatos retrospectivos: pesa menos que alertas
+    so_titulo: true  # o resumo do RSS traz o sumário da edição inteira; avaliar só pelo título
     idioma: en
 
   - id: africa-cdc
@@ -202,6 +208,47 @@ fontes:
     tipo: rss
     url: "https://agenciabrasil.ebc.com.br/rss/geral/feed.xml"
     peso: 1
+    escopo_padrao: "Brasil"
+    idioma: pt
+
+  # G1: imprensa nacional e regional; só entram as notícias com relevância pelos critérios de pontuação
+  - id: g1-ciencia-saude
+    nome: "G1 | Ciência e Saúde"
+    sigla: "G1"
+    tipo: rss
+    url: "https://g1.globo.com/rss/g1/ciencia-e-saude/"
+    peso: 1
+    apenas_relevantes: true
+    escopo_padrao: "Brasil"
+    idioma: pt
+
+  - id: g1-bem-estar
+    nome: "G1 | Bem Estar"
+    sigla: "G1"
+    tipo: rss
+    url: "https://g1.globo.com/rss/g1/bemestar/"
+    peso: 1
+    apenas_relevantes: true
+    escopo_padrao: "Brasil"
+    idioma: pt
+
+  - id: g1-df
+    nome: "G1 | Distrito Federal"
+    sigla: "G1 DF"
+    tipo: rss
+    url: "https://g1.globo.com/rss/g1/distrito-federal/"
+    peso: 1
+    apenas_relevantes: true
+    escopo_padrao: "DF"
+    idioma: pt
+
+  - id: g1-goias
+    nome: "G1 | Goiás"
+    sigla: "G1 GO"
+    tipo: rss
+    url: "https://g1.globo.com/rss/g1/goias/"
+    peso: 1
+    apenas_relevantes: true
     escopo_padrao: "Brasil"
     idioma: pt
 

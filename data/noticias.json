@@ -15,10 +15,8 @@
   "municipios": [
    "Distrito Federal"
   ],
-  "pontuacao": 10.5,
-  "agravos": [
-   "Saúde ambiental e clima"
-  ],
+  "pontuacao": 0.0,
+  "agravos": [],
   "escopo": "DF",
   "termos_evento": []
  },
@@ -126,8 +124,9 @@
   "descricao": "As the colder months approach in Europe, respiratory infections including influenza, respiratory syncytial virus (RSV) infections, COVID-19, pneumococcal disease and others can lead to serious illness and increase the burden on healthcare services throughout Europe.",
   "coletado_em": "2026-10-22T13:47:08+00:00",
   "municipios": [],
-  "pontuacao": 3.0,
+  "pontuacao": 1.0,
   "agravos": [
+   "Doença meningocócica e meningites",
    "Influenza e vírus respiratórios",
    "COVID-19"
   ],
@@ -148,8 +147,9 @@
   "descricao": "As the colder months approach in Europe, respiratory infections including influenza, respiratory syncytial virus (RSV) infections, COVID-19, pneumococcal disease and others can lead to serious illness and increase the burden on healthcare services throughout Europe.",
   "coletado_em": "2026-10-22T13:47:08+00:00",
   "municipios": [],
-  "pontuacao": 3.0,
+  "pontuacao": 1.0,
   "agravos": [
+   "Doença meningocócica e meningites",
    "Influenza e vírus respiratórios",
    "COVID-19"
   ],
@@ -233,10 +233,14 @@
   "descricao": "The European Centre for Disease Prevention and Control (ECDC) is carefully monitoring the situation after the French authorities announced the first ever reported human infection with Shamonda virus (SHAV), a disease that has until now only affected animals.",
   "coletado_em": "2026-10-22T13:47:08+00:00",
   "municipios": [],
-  "pontuacao": 0.0,
-  "agravos": [],
+  "pontuacao": 8.5,
+  "agravos": [
+   "Patógeno novo ou incomum em humanos"
+  ],
   "escopo": "Internacional",
-  "termos_evento": []
+  "termos_evento": [
+   "first ever"
+  ]
  },
  {
   "id": "d2eb265fc7d3b7",
@@ -373,8 +377,10 @@
   "coletado_em": "2026-10-22T18:32:04+00:00",
   "municipios": [],
   "pontuacao": 0.0,
-  "agravos": [],
-  "escopo": "Internacional",
+  "agravos": [
+   "Micobactérias não tuberculosas e outras infecções"
+  ],
+  "escopo": "Américas",
   "termos_evento": []
  },
  {
@@ -467,8 +473,10 @@
   "descricao": "O Ministério da Agricultura e Pecuária informou que foi concluído o despovoamento sanitário do estabelecimento comercial de criação de perus de corte no município de Nova Itaberaba , em Santa Catarina, onde foi identificado um foco da doença de Newcastle . De acordo com o ministério, estão em andamento procedimentos de limpeza e desinfecção das instalações, conforme protocolos sanitários aplicáveis.",
   "coletado_em": "2026-10-22T18:32:04+00:00",
   "municipios": [],
-  "pontuacao": 0.0,
-  "agravos": [],
+  "pontuacao": 8.0,
+  "agravos": [
+   "Saúde Única: zoonoses e eventos em animais"
+  ],
   "escopo": "Brasil",
   "termos_evento": []
  },
@@ -1115,7 +1123,7 @@
   "descricao": "",
   "coletado_em": "2026-10-21T13:46:50+00:00",
   "municipios": [],
-  "pontuacao": 8.0,
+  "pontuacao": 6.5,
   "agravos": [
    "Sarampo"
   ],
@@ -1220,7 +1228,7 @@
   "descricao": "",
   "coletado_em": "2026-10-21T13:46:50+00:00",
   "municipios": [],
-  "pontuacao": 4.5,
+  "pontuacao": 0.0,
   "agravos": [
    "Saúde ambiental e clima"
   ],
@@ -1241,7 +1249,7 @@
   "descricao": "Com o aumento da demanda de atendimento em saúde em razão dos incêndios florestais na região, começou a funcionar em Manaus uma base regional da Força Nacional do SUS. Segundo a última atualização da Fundação de Vigilância em Saúde do Amazonas, desde que a fumaça dos incêndios florestais começou a afetar a população, no início de outubro, até o último dia 14, os atendimentos por exposição à fumaça chegaram a 541 na rede pública. De acordo com o Instituto Nacional de Pesquisas Espaciais (Inpe), nas últimas 23 horas estão ativos 13 focos de incêndios florestais . Cerca de 370 lançamentos de água já foram efetivados pela força-tarefa que atua na região para combater o fogo.",
   "coletado_em": "2026-10-21T18:37:36+00:00",
   "municipios": [],
-  "pontuacao": 4.0,
+  "pontuacao": 7.0,
   "agravos": [
    "Saúde ambiental e clima"
   ],
@@ -2323,10 +2331,8 @@
   "municipios": [
    "Distrito Federal"
   ],
-  "pontuacao": 10.5,
-  "agravos": [
-   "Saúde ambiental e clima"
-  ],
+  "pontuacao": 0.0,
+  "agravos": [],
   "escopo": "DF",
   "termos_evento": []
  },
@@ -2365,7 +2371,7 @@
   "descricao": "",
   "coletado_em": "2026-10-20T19:15:20+00:00",
   "municipios": [],
-  "pontuacao": 5.5,
+  "pontuacao": 2.5,
   "agravos": [
    "Doença meningocócica e meningites"
   ],
@@ -2386,7 +2392,7 @@
   "descricao": "A repórter da Agência Brasil Tâmara Freire foi selecionada entre os finalistas do VII Prêmio SBIm de Jornalismo em Saúde, com a reportagem Resistência às vacinas contra gripe e covid coloca gestantes em risco . A lista de candidatos ao prêmio foi divulgada nesta terça-feira (20). A reportagem conta com a edição de Juliana Andrade e fotos de Tomaz Silva e Fernando Frazão. O trabalho foi considerado um dos três melhores na categoria Texto para internet e mostra que, em 2025, apenas 55% das grávidas se vacinaram contra a covid-19, e 63% contra o influenza, vírus causador da gripe.",
   "coletado_em": "2026-10-20T22:19:21+00:00",
   "municipios": [],
-  "pontuacao": 4.5,
+  "pontuacao": 0.0,
   "agravos": [
    "Influenza e vírus respiratórios",
    "COVID-19"
@@ -2886,8 +2892,10 @@
   "descricao": "O governo federal declarou estado de emergência zoossanitária nos municípios de Nova Itaberaba, Águas Frias, Coronel Freitas e Nova Erechim, todos em Santa Catarina , em razão de um foco da doença de Newcastle encontrado em um estabelecimento de aves comerciais no município de Nova Itaberaba. De acordo com a portaria publicada no Diário Oficial da União , o estado de emergência zoossanitária fica declarado por um total de 60 dias. Entenda",
   "coletado_em": "2026-10-20T19:15:20+00:00",
   "municipios": [],
-  "pontuacao": 0.0,
-  "agravos": [],
+  "pontuacao": 9.0,
+  "agravos": [
+   "Saúde Única: zoonoses e eventos em animais"
+  ],
   "escopo": "Brasil",
   "termos_evento": [
    "estado de emergencia"
@@ -3795,8 +3803,9 @@
   "descricao": "O Ministério da Agricultura e Pecuária (Mapa) confirmou o registro de um foco da doença de Newcastle em um estabelecimento de avicultura comercial de corte de perus no município de Nova Itaberaba, em Santa Catarina. A existência do foco foi confirmada no domingo (18). O ministério informou que o estabelecimento foi interditado pelo Serviço Veterinário Oficial de Santa Catarina, com a suspensão da movimentação de aves. Além disso, a pasta esclareceu que medidas de controle, contenção e erradicação do foco serão executadas conforme as diretrizes do Plano de Contingência para Influenza Aviária e Doença de Newcastle. A doença de Newcastle afeta aves domésticas e silvestres e é causada por vírus virulento do paramixovírus aviário do sorotipo 1 (APMV-1), conforme os critérios estabelecidos pela Organização Mundial de Saúde Animal (OMSA). A ocorrência foi identificada durante investigação epidemiológica conduzida pelo Serviço Veterinário Oficial de Santa Catarina e confirmada por análise realizada no Laboratório Federal de Defesa Agropecuária de São Paulo (LFDA-SP). O laboratório é reconhecido pela OMSA como de referência internacional para o diagnóstico da doença. “O Mapa ressalta que, apesar da necessidade de adoção de medidas sanitárias para controlar a ocorrência, o consumo de produtos avícolas submetidos à inspeção oficial permanece seguro, sem contraindicações”, disse o ministério. O governo informou que notificou a OMSA e aos parceiros comerciais do Brasil, em cumprimento…",
   "coletado_em": "2026-10-19T19:55:15+00:00",
   "municipios": [],
-  "pontuacao": 8.5,
+  "pontuacao": 10.0,
   "agravos": [
+   "Saúde Única: zoonoses e eventos em animais",
    "Influenza por novo subtipo",
    "Influenza e vírus respiratórios"
   ],
@@ -5442,7 +5451,7 @@
   "descricao": "",
   "coletado_em": "2026-10-21T18:37:36+00:00",
   "municipios": [],
-  "pontuacao": 9.0,
+  "pontuacao": 0.0,
   "agravos": [
    "Emergências e desastres",
    "Saúde ambiental e clima"
@@ -5464,7 +5473,7 @@
   "descricao": "",
   "coletado_em": "2026-10-17T19:23:40+00:00",
   "municipios": [],
-  "pontuacao": 5.0,
+  "pontuacao": 3.5,
   "agravos": [
    "Sarampo"
   ],
@@ -5506,7 +5515,7 @@
   "descricao": "",
   "coletado_em": "2026-10-17T09:19:59+00:00",
   "municipios": [],
-  "pontuacao": 2.0,
+  "pontuacao": 0.5,
   "agravos": [
    "Sífilis"
   ],
@@ -6133,7 +6142,7 @@
   "descricao": "This issue of the Communicable disease threats report (CDTR) covers the period 10 - 16 October 2026, and includes updates on respiratory virus epidemiology in the EU/EEA, Ebola, expert deployment, pneumonia of unknown aetiology, mpox in the EU/EEA, West Nile Virus, Crimean-Congo haemorrhagic fever, dengue, chikungunya, and diphtheria.",
   "coletado_em": "2026-10-16T18:02:51+00:00",
   "municipios": [],
-  "pontuacao": 5.5,
+  "pontuacao": 6.0,
   "agravos": [
    "Mpox",
    "Febres hemorrágicas virais",
@@ -6156,7 +6165,7 @@
   "descricao": "Secretaria reforça combate ao mosquito com monitoramento, uso de novas tecnologias, controle químico, distribuição de insumos/equipamentos e qualificação dos profissionais dos municípios goianos",
   "coletado_em": "2026-10-16T18:02:51+00:00",
   "municipios": [],
-  "pontuacao": 5.0,
+  "pontuacao": 3.0,
   "agravos": [
    "Arboviroses"
   ],
@@ -6177,7 +6186,7 @@
   "descricao": "Método Wolbachia contra arboviroses começa a ser implantado no Ceará",
   "coletado_em": "2026-10-16T18:02:51+00:00",
   "municipios": [],
-  "pontuacao": 4.5,
+  "pontuacao": 2.5,
   "agravos": [
    "Arboviroses"
   ],
@@ -6242,7 +6251,7 @@
   "descricao": "A three-day training workshop organised by ECDC and WHO/Europe and hosted by the Slovenian National Institute of Public Health (NIPH) brought together participants from the EU and a number of accession countries to strengthen their national Public Health Emergency Operations Centres (PHEOCs) and to ensure they operate in line with EU and international standards.",
   "coletado_em": "2026-10-16T13:26:18+00:00",
   "municipios": [],
-  "pontuacao": 4.0,
+  "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
   "termos_evento": [
@@ -7288,8 +7297,10 @@
   "descricao": "",
   "coletado_em": "2026-10-16T23:34:40+00:00",
   "municipios": [],
-  "pontuacao": 0.0,
-  "agravos": [],
+  "pontuacao": 10.5,
+  "agravos": [
+   "Saúde Única: zoonoses e eventos em animais"
+  ],
   "escopo": "Américas",
   "termos_evento": [
    "epidemiological alert"
@@ -7563,9 +7574,10 @@
   "descricao": "Between 1 January and 5 October 2026, the Kingdom of Saudi Arabia reported eight laboratory-confirmed cases of Middle East Respiratory Syndrome Coronavirus (MERS-CoV) infection, including one death. Cases were detected across six locations: Al Jouf (1), Arar (1), Hafr Al-Batin (1), Riyadh (2), Tabuk (1) and Taif (2). No epidemiological links were identified between any of the cases. All eight cases were symptomatic, most commonly presenting with fever (6/8), dyspnea (5/8), and cough (4/8). None were health and care workers. Infection was confirmed by RT-PCR testing. MERS is a zoonotic viral respiratory disease for which dromedary camels serve as the primary animal reservoir and two cases reported direct contact with camels while six reported no known camel exposure. Seven of eight cases had underlying comorbidities, recognized risk factors for severe MERS-CoV disease. The cases appear to represent sporadic infections related to zoonotic spillover rather than a single outbreak cluster. Between 1 January and 5 October 2026, a total of eight cases of MERS-CoV, including one death, was reported from six locations in the Kingdom of Saudi Arabia. Of the eight reported cases, five occurred among persons aged 70 years and older, two among adults aged 50–59 years, and one among an adult aged 30–39 years. Seven cases had underlying comorbidities, two reported direct camel contact, and one death was reported in an older adult (>65 year old) with comorbidities. There was no known…",
   "coletado_em": "2026-10-16T13:26:18+00:00",
   "municipios": [],
-  "pontuacao": 9.5,
+  "pontuacao": 10.0,
   "agravos": [
-   "Síndrome respiratória e coronavírus emergentes"
+   "Síndrome respiratória e coronavírus emergentes",
+   "Saúde Única: zoonoses e eventos em animais"
   ],
   "escopo": "Internacional",
   "termos_evento": [
@@ -7761,7 +7773,7 @@
   "descricao": "This report describes effectiveness of the diphtheria and tetanus toxoids and acellular pertussis vaccination series during a statewide pertussis outbreak in Alaska during 2024.",
   "coletado_em": "2026-10-16T13:26:18+00:00",
   "municipios": [],
-  "pontuacao": 2.0,
+  "pontuacao": 0.0,
   "agravos": [
    "Difteria",
    "Coqueluche"
@@ -8347,9 +8359,7 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": [
-   "confirmed cases"
-  ]
+  "termos_evento": []
  },
  {
   "id": "c2d93c973b5ae4",
@@ -8823,7 +8833,7 @@
   "descricao": "",
   "coletado_em": "2026-10-16T13:26:18+00:00",
   "municipios": [],
-  "pontuacao": 8.0,
+  "pontuacao": 6.5,
   "agravos": [
    "Sarampo"
   ],
@@ -8888,7 +8898,7 @@
   "se": "2026-41",
   "descricao": "Quando infectado pela bactéria Wolbachia, o mosquito Aedes aegypti perde a capacidade de transmitir essas doenças e repassa a bactéria para seus descendentes, substituindo gradualmente a população de mosquitos",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 6.0,
+  "pontuacao": 1.0,
   "agravos": [
    "Dengue",
    "Chikungunya",
@@ -8911,7 +8921,7 @@
   "se": "2026-41",
   "descricao": "Encontro promovido na Escola de Saúde Pública reúne profissionais da atenção primária e da vigilância epidemiológica para qualificar assistência e prevenir casos de sífilis congênita",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.0,
+  "pontuacao": 3.0,
   "agravos": [
    "Sífilis"
   ],
@@ -9419,7 +9429,7 @@
   "se": "2026-41",
   "descricao": "A poluição do ar provocada por queimadas e incêndios florestais no Amazonas representa um risco à saúde da população, especialmente das comunidades indígenas, que enfrentam dificuldades de acesso aos serviços de saúde. O alerta faze parte de levantamento apresentado por pesquisadores do Observatório de Clima e Saúde da Fundação Oswaldo Cruz (Fiocruz), que reúne dados sobre a concentração de poluentes e a distribuição dos focos de incêndio no estado.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.0,
+  "pontuacao": 8.0,
   "agravos": [
    "Saúde ambiental e clima"
   ],
@@ -10225,7 +10235,7 @@
   "se": "2026-40",
   "descricao": "A Agência Nacional de Vigilância Sanitária (Anvisa) autorizou o início de testes em humanos da primeira vacina do mundo contra a malária causada pelo Plasmodium vivax , parasita responsável pela maioria dos casos da doença no país. O imunizante é feito com tecnologia 100% nacional. Em nota, o Ministério da Saúde detalhou que a dose, chamada Vivaxin, é fruto de pesquisas conduzidas pelo Centro de Tecnologia de Vacinas (CTVacinas) da Universidade Federal de Minas Gerais (UFMG). A tecnologia tem incentivo previsto de R$ 12 milhões da pasta para ensaios clínicos de fases I, II e III.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.0,
+  "pontuacao": 10.0,
   "agravos": [
    "Malária"
   ],
@@ -10376,7 +10386,7 @@
   "se": "2026-40",
   "descricao": "This issue of the Communicable disease threats report (CDTR) covers the period 3 - 9October 2026, and includes updates on respiratory virus epidemiology in the EU/EEA, pneumonia of unknown aetiology, Ebola, expert deployment, West Nile Virus, Crimean-Congo haemorrhagic fever, dengue, chikungunya, symptomatic Sindbis case in Germany, measles, and Salmonella Strathcona .",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.5,
+  "pontuacao": 6.0,
   "agravos": [
    "Sarampo",
    "Febres hemorrágicas virais",
@@ -10902,7 +10912,7 @@
   "se": "2026-40",
   "descricao": "Every month ECDC provides detailed epidemiological overview of the worldwide transmission of chikungunya virus disease in its weekly threat report (Communicable Diseases Threat Report).",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.5,
+  "pontuacao": 6.0,
   "agravos": [
    "Chikungunya"
   ],
@@ -10923,7 +10933,7 @@
   "se": "2026-40",
   "descricao": "An EU-led mission of experts to Albania this week will identify priority gaps, define areas for further action and support the strengthening of national responses to antimicrobial resistance (AMR) in the country.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.5,
+  "pontuacao": 0.0,
   "agravos": [
    "Resistência antimicrobiana"
   ],
@@ -11022,7 +11032,7 @@
   "se": "2026-40",
   "descricao": "Kinshasa, Democratic Republic of the Congo, 4 October 2026 The Africa Centres for Disease Control and Prevention (Africa CDC) welcomes and supports the position of the Government of the Democratic Republic of the Congo, expressed through the Ministry of Public Health, Hygiene and Social Welfare, to strengthen transparency, traceability and accountability in the management of […] The post Africa CDC Supports the Government of the Democratic Republic of the Congo in Strengthening Transparency and Accountability in Ebola Response Funding appeared first on Africa CDC .",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.0,
+  "pontuacao": 2.0,
   "agravos": [
    "Doença pelo vírus Ebola"
   ],
@@ -11043,7 +11053,7 @@
   "se": "2026-39",
   "descricao": "Accra, Ghana, 2 October 2026 – The Africa Centres for Disease Control and Prevention (Africa CDC) is supporting Ghana to strengthen its Public Health Emergency Operations Centres (PHEOCs), which coordinate information, expertise and resources during health emergencies. Over the past two years, Africa CDC has supported Ghana with equipment, communications and data infrastructure, operational systems […] The post Ghana Steps Up Emergency Preparedness with Africa CDC Support appeared first on Africa CDC .",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.5,
+  "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
   "termos_evento": [
@@ -11064,7 +11074,7 @@
   "se": "2026-39",
   "descricao": "This issue of the Communicable disease threats report (CDTR) covers the period 26 September - 2 October 2026, and includes updates on Crimean Congo haemorrhagic fever, Chikungunya virus disease, cholera, COVID-19, dengue, Ebola, avian influenza, seasonal influenza, Middle Eastern Respiratory Syndrome (MERS), respiratory syncytial infection, Vibriosis and West Nile virus infection.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.5,
+  "pontuacao": 6.0,
   "agravos": [
    "Síndrome respiratória e coronavírus emergentes",
    "Influenza por novo subtipo",
@@ -11125,7 +11135,7 @@
   "se": "2026-39",
   "descricao": "Health Ministers approve new regional strategy to prevent and control dengue and other arboviral diseases in the Americas Oscar Reyes 1 Oct 2026",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.5,
+  "pontuacao": 2.5,
   "agravos": [
    "Dengue",
    "Arboviroses"
@@ -11273,7 +11283,7 @@
   "se": "2026-39",
   "descricao": "New food safety strategy aims to reduce the burden of foodborne diseases affecting 43 million people in the Americas Oscar Reyes 30 Sep 2026",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.0,
+  "pontuacao": 2.0,
   "agravos": [
    "Doenças transmitidas por alimentos e água"
   ],
@@ -11473,7 +11483,7 @@
   "se": "2026-39",
   "descricao": "This report summarizes 2023 data from CDC's National Violent Death Reporting System on violent deaths and suicides that occurred in the U.S., District of Columbia, and Puerto Rico.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 1.0,
+  "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Américas",
   "termos_evento": [
@@ -11554,7 +11564,7 @@
   "se": "2026-39",
   "descricao": "Every month ECDC provides detailed epidemiological overview of the worldwide transmission of dengue in its weekly threat report (Communicable Diseases Threat Report).",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.5,
+  "pontuacao": 6.0,
   "agravos": [
    "Dengue"
   ],
@@ -11620,7 +11630,7 @@
   "descricao": "Since the last Disease Outbreak News was published on 11 September 2026, the Bundibugyo virus outbreak in the Democratic Republic of the Congo has expanded further, with two additional health zones affected. These include Bulu health zone in a new province, Sud Ubangi, located on the north-west part of the country and Dungu health zone in Haut-Uélé province, bordering South Sudan. This brings the total number of affected health zones to 63 across seven provinces out of 26 provinces of the country: Bas-Uélé, Haut-Uélé, Ituri, North Kivu, South Kivu, Sud Ubangi and Tshopo. This latest geographic expansion increases the risk of cross-border transmission. As of 23 September 2026, the Democratic Republic of the Congo has reported 7890 confirmed cases, including 3799 deaths, resulting in a crude case fatality ratio (CFR) of 48.1%. At the national level, the number of new cases reported each day remains high. However, the situation varies across the country, with some provinces and health zones experiencing much higher levels of transmission than others. The continuously high CFR, and especially the continuous high rate of deaths occurring in communities, highlights the seriousness of the disease and the persistent challenges in timely case detection and access to early and adequate patient care. These delays can contribute to preventable illness and deaths among people in affected and newly affected areas, while also allowing transmission to continue within households…",
   "coletado_em": "2026-10-22T18:32:04+00:00",
   "municipios": [],
-  "pontuacao": 11.5,
+  "pontuacao": 14.5,
   "agravos": [
    "Doença pelo vírus Ebola"
   ],
@@ -11628,8 +11638,7 @@
   "termos_evento": [
    "disease outbreak news",
    "confirmed cases",
-   "deaths",
-   "surveillance"
+   "deaths"
   ]
  },
  {
@@ -11645,7 +11654,7 @@
   "se": "2026-38",
   "descricao": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 19-25 September, and includes updates on respiratory virus epidemiology in the EU/EEA Ebola, ECDC expert deployment, West Nile Virus, Crimean-Congo haemorrhagic fever, dengue, chikungunya, and vibrio risk in coastal waters.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.5,
+  "pontuacao": 6.0,
   "agravos": [
    "Febres hemorrágicas virais",
    "Doença pelo vírus Ebola",
@@ -11769,7 +11778,7 @@
   "se": "2026-38",
   "descricao": "This report describes the first 100 days of the 2026 Ebola outbreak in the Democratic Republic of the Congo compared to other Ebola outbreaks.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.5,
+  "pontuacao": 6.5,
   "agravos": [
    "Doença pelo vírus Ebola"
   ],
@@ -11792,8 +11801,10 @@
   "se": "2026-38",
   "descricao": "This report describes a Campylobacter jejuni outbreak among wedding attendees in Pennsylvania who drank untreated spring water.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 0.0,
-  "agravos": [],
+  "pontuacao": 1.5,
+  "agravos": [
+   "Doenças transmitidas por alimentos e água"
+  ],
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak",
@@ -11987,7 +11998,7 @@
   "se": "2026-37",
   "descricao": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 12-18 September, and includes updates on Ebola, malaria, botulism, avian influenza A(H9N2), influenza A(H5), respiratory virus epidemiology in the EU/.EEA, West Nile virus infections, chikungunya, dengue, Crimean-Congo haemorrhagic fever, Vibrio, measles, and expert deployments.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.5,
+  "pontuacao": 6.0,
   "agravos": [
    "Sarampo",
    "Influenza por novo subtipo",
@@ -12032,9 +12043,7 @@
   "descricao": "This report describes higher emergency department visits for heat-related illnesses during extreme heat during June and July 2026.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
   "pontuacao": 0.0,
-  "agravos": [
-   "Saúde ambiental e clima"
-  ],
+  "agravos": [],
   "escopo": "Internacional",
   "termos_evento": [],
   "municipios": []
@@ -12052,7 +12061,7 @@
   "se": "2026-36",
   "descricao": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 5 -12 September, and includes updates on Ebola, an overview of respiratory virus epidemiology in the EU/EEA, West Nile virus, Crimean-Congo haemorrhagic fever, dengue, chikungunya, and vibrio.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.5,
+  "pontuacao": 6.0,
   "agravos": [
    "Febres hemorrágicas virais",
    "Doença pelo vírus Ebola",
@@ -12101,14 +12110,12 @@
   "se": "2026-36",
   "descricao": "This report describes characteristics of Ebola cases reported in Uganda during the 2025 outbreak.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.5,
+  "pontuacao": 4.0,
   "agravos": [
    "Doença pelo vírus Ebola"
   ],
   "escopo": "Internacional",
-  "termos_evento": [
-   "outbreak"
-  ],
+  "termos_evento": [],
   "municipios": []
  },
  {
@@ -12124,7 +12131,7 @@
   "se": "2026-36",
   "descricao": "This report describes the ongoing Ebola outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.5,
+  "pontuacao": 6.5,
   "agravos": [
    "Doença pelo vírus Ebola"
   ],
@@ -12190,7 +12197,7 @@
   "se": "2026-35",
   "descricao": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 29 August - 4 September, and includes updates on Ebola, SARS-CoV-2 variant classification, West Nile virus, Crimean-Congo haemorrhagic fever, dengue, chikungunya, vibrio, Middle East respiratory syndrome, malaria, influenza A (H9N2), and an overview of respiratory virus epidemiology in the EU/EEA.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.5,
+  "pontuacao": 6.0,
   "agravos": [
    "Influenza por novo subtipo",
    "Febres hemorrágicas virais",
@@ -12213,7 +12220,7 @@
   "se": "2026-35",
   "descricao": "This report describes vaccination coverage among U.S. adolescents aged 13-17 years.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 1.0,
+  "pontuacao": 0.0,
   "agravos": [
    "Imunização"
   ],
@@ -12277,7 +12284,7 @@
   "descricao": "",
   "coletado_em": "2026-10-16T13:26:18+00:00",
   "municipios": [],
-  "pontuacao": 3.5,
+  "pontuacao": 2.0,
   "agravos": [
    "Influenza e vírus respiratórios",
    "COVID-19"
@@ -12324,7 +12331,7 @@
   "se": "2026-34",
   "descricao": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 22 - 28 August, and includes updates on diphtheria, Ebola, swine influenza A(H1N2), respiratory virus epidemiology, Crimean-Congo haemorrhagic fever, dengue, chikungunya virus disease, Vibrio growth, West Nile virus, cholera, poliovirus and expert deployments.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.5,
+  "pontuacao": 6.0,
   "agravos": [
    "Poliomielite",
    "Febres hemorrágicas virais",
@@ -12413,7 +12420,7 @@
   "se": "2026-33",
   "descricao": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 15-21 August 2026, and includes updates on Ebola, respiratory virus epidemiology in the EU/EEA, swine flu, West Nile virus, Crimean-Congo haemorrhagic fever, dengue, chikungunya, vibrio, influenza, Dermatophilosis congolensis, Salmonella Enteritidis, and measles.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.5,
+  "pontuacao": 6.0,
   "agravos": [
    "Sarampo",
    "Febres hemorrágicas virais",
@@ -12436,8 +12443,9 @@
   "se": "2026-33",
   "descricao": "On 6 August 2026, French public health authorities reported an imported case of Andes hantavirus infection in a traveller from Argentina.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 12.5,
+  "pontuacao": 14.0,
   "agravos": [
+   "Patógeno novo ou incomum em humanos",
    "Hantavirose"
   ],
   "escopo": "Américas",
@@ -12460,7 +12468,7 @@
   "se": "2026-33",
   "descricao": "This report describes cases of monkeypox virus infection reported during 2024-2025.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.0,
+  "pontuacao": 3.0,
   "agravos": [
    "Mpox"
   ],
@@ -12554,7 +12562,7 @@
   "se": "2026-32",
   "descricao": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 8 - 14 August 2026, and includes updates on Ebola, chikungunya, dengue, West Nile Virus infection, Crimean-Congo haemorrhagic fever, Vibrio, respiratory virus epidemiology in the EU/EEA, World Pride, mpox, and expert deployments.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.5,
+  "pontuacao": 6.0,
   "agravos": [
    "Mpox",
    "Febres hemorrágicas virais",
@@ -12577,7 +12585,7 @@
   "se": "2026-32",
   "descricao": "This report describes a possible HIV exposure from donated breast milk received through social media.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 0.0,
+  "pontuacao": 1.0,
   "agravos": [
    "HIV/aids e IST"
   ],
@@ -12599,11 +12607,11 @@
   "descricao": "This report describes identification of blacklegged ticks during community-based tick surveillance at a residential property in North Carolina.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
   "pontuacao": 0.0,
-  "agravos": [],
-  "escopo": "Internacional",
-  "termos_evento": [
-   "surveillance"
+  "agravos": [
+   "Doenças transmitidas por carrapatos"
   ],
+  "escopo": "Internacional",
+  "termos_evento": [],
   "municipios": []
  },
  {
@@ -12642,7 +12650,7 @@
   "se": "2026-31",
   "descricao": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 1 - 7 August 2026, and includes updates on Ebola, chikungunya, dengue, West Nile Virus infection, Crimean-Congo haemorrhagic fever, Vibrio, respiratory virus epidemiology in the EU/EEA, World Pride, Middle East respiratory syndrome coronavirus, and expert deployments.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.5,
+  "pontuacao": 6.0,
   "agravos": [
    "Febres hemorrágicas virais",
    "Doença pelo vírus Ebola",
@@ -12665,7 +12673,7 @@
   "se": "2026-31",
   "descricao": "This report describes four poisoning deaths at an unlicensed ceremonial papermaking workshop in China.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 1.5,
+  "pontuacao": 0.0,
   "agravos": [
    "Intoxicações"
   ],
@@ -12734,7 +12742,7 @@
   "se": "2026-30",
   "descricao": "The Morbidity and Mortality Weekly Report (MMWR) Series is prepared by the Centers for Disease Control and Prevention (CDC).",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 3.5,
+  "pontuacao": 1.5,
   "agravos": [
    "Febre do Nilo Ocidental",
    "Arboviroses"
@@ -12756,7 +12764,7 @@
   "se": "2026-30",
   "descricao": "The Morbidity and Mortality Weekly Report (MMWR) Series is prepared by the Centers for Disease Control and Prevention (CDC).",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 1.0,
+  "pontuacao": 0.0,
   "agravos": [
    "Doenças transmitidas por alimentos e água"
   ],
@@ -12780,7 +12788,9 @@
   "descricao": "This report describes 968 potential cases of invasive mold disease across four Georgia hospitals.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
   "pontuacao": 0.0,
-  "agravos": [],
+  "agravos": [
+   "Micobactérias não tuberculosas e outras infecções"
+  ],
   "escopo": "Internacional",
   "termos_evento": [
    "surveillance"
@@ -12800,7 +12810,7 @@
   "se": "2026-29",
   "descricao": "This report describes progress towards worldwide rubella elimination during 2012-2024.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 1.0,
+  "pontuacao": 0.0,
   "agravos": [
    "Rubéola"
   ],
@@ -12930,7 +12940,9 @@
   "descricao": "Meta Description: This report describes 35 cases of disseminated gonococcal infection reported in Alaska during 2023-2024.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
   "pontuacao": 0.0,
-  "agravos": [],
+  "agravos": [
+   "HIV/aids e IST"
+  ],
   "escopo": "Internacional",
   "termos_evento": [],
   "municipios": []
@@ -12948,7 +12960,7 @@
   "se": "2026-27",
   "descricao": "This report describes illnesses and infection prevention and control protocols at a wildfire evacuation shelter during the Eaton wildfire in Pasadena, California.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 3.5,
+  "pontuacao": 1.5,
   "agravos": [
    "Saúde ambiental e clima",
    "Influenza e vírus respiratórios",
@@ -12973,8 +12985,10 @@
   "se": "2026-27",
   "descricao": "",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 0.0,
-  "agravos": [],
+  "pontuacao": 10.5,
+  "agravos": [
+   "Saúde Única: zoonoses e eventos em animais"
+  ],
   "escopo": "Américas",
   "termos_evento": [
    "epidemiological alert"
@@ -13040,9 +13054,10 @@
   "se": "2026-26",
   "descricao": "This is the fifth Disease Outbreak News posting on the Andes hantavirus (ANDV) outbreak linked to the cruise ship M/V Hondius. The outbreak identification followed the notification to the World Health Organization (WHO) on 2 May 2026 of severe acute respiratory illness cases onboard. Since the previous Disease Outbreak News was published on 28 May 2026, one of the probable cases from Tristan da Cunha, an Overseas Territory of the United Kingdom of Great Britain and Northern Ireland (hereafter referred to as the United Kingdom), was laboratory confirmed. As of 2 July, a total of 13 cases, including three deaths, have been notified (case fatality ratio 23%). Twelve cases have been laboratory-confirmed for ANDV infection, and one is a probable case. All confirmed cases are among individuals who travelled onboard the M/V Hondius. Among the ten cases admitted to hospitals, eight have recovered and have been discharged, while two are still undergoing medical treatment. All identified contacts have completed the 42 day follow-up period by local health authorities in line with WHO guidance. The completion of the contact follow up without detection of additional secondary cases demonstrates effective interruption of transmission and confirms outbreak containment. This outbreak no longer poses a public health risk and no further related transmission is expected. On 2 May 2026, in accordance with the International Health Regulations (2005) (IHR), WHO received a notification from the…",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 14.0,
+  "pontuacao": 14.5,
   "agravos": [
    "Hantavirose",
+   "Patógeno novo ou incomum em humanos",
    "Influenza e vírus respiratórios"
   ],
   "escopo": "Internacional",
@@ -13068,8 +13083,10 @@
   "se": "2026-26",
   "descricao": "This report describes two outbreaks of legionellosis at two hotels in the U.S. Virgin Islands.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 0.0,
-  "agravos": [],
+  "pontuacao": 0.5,
+  "agravos": [
+   "Legionelose"
+  ],
   "escopo": "Internacional",
   "termos_evento": [
    "outbreaks"
@@ -13150,7 +13167,7 @@
   "se": "2026-26",
   "descricao": "During 2022-2024, a total of 13,507 clinical C. auris cases were reported to CDC, increasing from 2,882 in 2022 to 4,428 in 2023 and 6,197 in 2024, with smaller annual percentage increases over time.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.0,
+  "pontuacao": 2.0,
   "agravos": [
    "Candida auris"
   ],
@@ -13173,9 +13190,10 @@
   "se": "2026-25",
   "descricao": "On 11 June 2026, the Kerala State Health Department confirmed one laboratory confirmed case of Nipah virus (NiV) infection in Kozhikode district, Kerala State, India. The case is an adult male who developed symptoms on 30 May 2026 and was hospitalized on 10 June 2026. He presented with neurological manifestations and at the time of reporting is on ventilatory support in an intensive care unit (ICU). As of 18 June 2026, a total of 104 contacts had been identified and were under monitoring, including health and care workers, with no reported secondary cases to date. NiV is a zoonotic disease transmitted to humans through infected animals, or through consumption of fruits or fruit products, such as raw date palm juice contaminated with the saliva, urine, or excreta of infected bats, as well as close contact with infected individuals. The current event involves a single confirmed case, with no secondary transmission identified to date. Public health measures are in place, including isolation, contact tracing, and enhanced surveillance. However, as the source of infection has not yet been identified and given the known presence of animal reservoirs, additional cases cannot be excluded. On 11 June 2026, WHO was informed of a laboratory-confirmed case of Nipah virus infection reported in Kozhikode district, Kerala State. Initial positive results were obtained through PCR testing at local laboratories and were subsequently confirmed by RT‑PCR at the National Institute of Virology…",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 11.5,
+  "pontuacao": 12.0,
   "agravos": [
-   "Nipah"
+   "Nipah",
+   "Saúde Única: zoonoses e eventos em animais"
   ],
   "escopo": "Internacional",
   "termos_evento": [
@@ -13261,15 +13279,17 @@
   "se": "2026-25",
   "descricao": "Yellow fever is a viral disease found in areas of Africa and the Americas, spread by infected mosquitoes. Following an increase of cases in the Americas in 2025, transmission activity remained into 2026. From 1 January to 26 May 2026, six countries reported a total of 79 human infections along with multiple epizootics, indicating active sylvatic circulation. In Africa, sustained activity continued across parts of the region, affecting 13 high-risk countries (as per classification in the Eliminate Yellow fever Epidemics (EYE) Strategy). From January to May 2026, three countries in Africa reported 16 confirmed human cases, with an additional 32 suspected cases under investigation in five other countries. The recent rapid risk assessment assessed geographical variations in vaccination coverage, evidence of viral circulation, and the presence of competent vectors, concluding that unvaccinated populations in countries or areas with a history of yellow fever transmission remain at greatest risk. Transmission dynamics are further influenced by seasonal ecological factors, particularly rainfall, temperature, and mosquito abundance. Outbreaks reported from October 2025 through May 2026 in countries or areas with a history of yellow fever transmission were generally consistent with seasonal patterns or reflected gaps in immunization coverage. In contrast, cases detected in previously unaffected areas suggest viral introduction and an increased risk of urban transmission. No imported…",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 16.5,
+  "pontuacao": 17.5,
   "agravos": [
    "Febre amarela",
+   "Saúde Única: zoonoses e eventos em animais",
    "Imunização"
   ],
   "escopo": "Américas",
   "termos_evento": [
    "outbreaks",
    "rapid risk assessment",
+   "human cases",
    "investigation"
   ],
   "municipios": []
@@ -13356,8 +13376,10 @@
   "se": "2026-24",
   "descricao": "Several clusters of genetically and epidemiologically linked cases predominantly affecting gay, bisexual and other men who have sex with men have been detected in four EU countries during the past six months. Cases have also been reported in Norway among individuals practicing martial arts, in 2025 and 2026.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 0.0,
-  "agravos": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde Única: zoonoses e eventos em animais"
+  ],
   "escopo": "Internacional",
   "termos_evento": [
    "rapid risk assessment"
@@ -13377,14 +13399,13 @@
   "se": "2026-24",
   "descricao": "This report describes 402 foodborne disease outbreaks caused by marine toxins were reported to FDOSS. These outbreaks resulted in 1,280 illnesses, 96 hospitalizations, and one death.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 7.0,
+  "pontuacao": 3.5,
   "agravos": [
    "Doenças transmitidas por alimentos e água"
   ],
   "escopo": "Américas",
   "termos_evento": [
    "outbreaks",
-   "death",
    "surveillance"
   ],
   "municipios": []
@@ -13402,9 +13423,11 @@
   "se": "2026-24",
   "descricao": "During 2010-2024, 54 U.S. jurisdictions reported 1,796 confirmed and probable brucellosis cases. A total of 71-165 cases were reported annually.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 0.0,
-  "agravos": [],
-  "escopo": "Internacional",
+  "pontuacao": 1.0,
+  "agravos": [
+   "Saúde Única: zoonoses e eventos em animais"
+  ],
+  "escopo": "Américas",
   "termos_evento": [
    "surveillance"
   ],
@@ -13538,13 +13561,10 @@
   "se": "2026-23",
   "descricao": "This report describes a large outbreak of Bundibugyo virus disease identified in the Democratic Republic of the Congo and Uganda.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.0,
-  "agravos": [
-   "Doença pelo vírus Ebola"
-  ],
-  "escopo": "Américas",
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Internacional",
   "termos_evento": [
-   "outbreak",
    "death"
   ],
   "municipios": []
@@ -13562,7 +13582,7 @@
   "se": "2026-23",
   "descricao": "This report describes a large outbreak of Bundibugyo virus disease identified in the Democratic Republic of the Congo and Uganda.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.5,
+  "pontuacao": 6.5,
   "agravos": [
    "Doença pelo vírus Ebola"
   ],
@@ -13585,14 +13605,10 @@
   "se": "2026-23",
   "descricao": "This report describes the risk posed by the current Ebola outbreak to the general U.S. population.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 3.5,
-  "agravos": [
-   "Doença pelo vírus Ebola"
-  ],
-  "escopo": "Américas",
-  "termos_evento": [
-   "outbreak"
-  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Internacional",
+  "termos_evento": [],
   "municipios": []
  },
  {
@@ -13608,15 +13624,12 @@
   "se": "2026-23",
   "descricao": "This report describes using a transmission model to project Ebola outbreak growth over three months.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 3.0,
+  "pontuacao": 0.0,
   "agravos": [
-   "Legionelose",
-   "Doença pelo vírus Ebola"
+   "Legionelose"
   ],
   "escopo": "Internacional",
-  "termos_evento": [
-   "outbreak"
-  ],
+  "termos_evento": [],
   "municipios": []
  },
  {
@@ -13657,7 +13670,7 @@
   "se": "2026-22",
   "descricao": "This report describes characteristics of patients who were hospitalized during a large measles outbreak in west Texas.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.5,
+  "pontuacao": 2.5,
   "agravos": [
    "Sarampo"
   ],
@@ -13682,12 +13695,10 @@
   "coletado_em": "2026-10-15T16:45:38+00:00",
   "pontuacao": 0.0,
   "agravos": [
-   "Intoxicações"
+   "Doenças transmitidas por carrapatos"
   ],
   "escopo": "Internacional",
-  "termos_evento": [
-   "outbreak"
-  ],
+  "termos_evento": [],
   "municipios": []
  },
  {
@@ -13776,9 +13787,10 @@
   "se": "2026-21",
   "descricao": "This is the fourth Disease Outbreak News report on the Andes hantavirus outbreak linked to cruise ship travel, following the notification to the World Health Organization (WHO) on 2 May 2026 of severe respiratory illness cases aboard M/V Hondius, a cruise ship. Since the last DON was published on 13 May, three additional confirmed cases were reported, from Canada, the Netherlands, and Spain. The previously reported inconclusive case from the United States of America was subsequently determined to be negative following further laboratory testing and has been removed from the total case count. All cases to date have been passengers or crew members on the ship. As of 27 May, a total of 13 cases, including three deaths, have been reported (case fatality ratio 23%). Eleven cases have been laboratory-confirmed for Andes virus (ANDV) infection, and two are probable cases. Given the long incubation period of up to six weeks, it is not unexpected that cases continue to be reported until the end of the six weeks since last exposure. Through the International Health Regulations (2005) (IHR) channels, National IHR Focal Points (NFPs) have all been informed and are supporting international contact tracing and monitoring efforts. WHO has assessed the risk posed by this event to the global population as low and will continue to monitor the epidemiological situation and update the risk assessment as needed. On 2 May 2026, WHO received notification from the IHR NFP of the United Kingdom of…",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 15.5,
+  "pontuacao": 16.0,
   "agravos": [
-   "Hantavirose"
+   "Hantavirose",
+   "Patógeno novo ou incomum em humanos"
   ],
   "escopo": "Américas",
   "termos_evento": [
@@ -13804,7 +13816,7 @@
   "se": "2026-21",
   "descricao": "This report describes characteristics of patients who were hospitalized during a large measles outbreak in west Texas.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.5,
+  "pontuacao": 2.5,
   "agravos": [
    "Sarampo"
   ],
@@ -13827,14 +13839,12 @@
   "se": "2026-21",
   "descricao": "This report describes an outbreak of 39 cases of amatoxin mushroom poisoning in Northern California.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.5,
+  "pontuacao": 4.0,
   "agravos": [
    "Intoxicações"
   ],
   "escopo": "Internacional",
-  "termos_evento": [
-   "outbreak"
-  ],
+  "termos_evento": [],
   "municipios": []
  },
  {
@@ -13850,8 +13860,9 @@
   "se": "2026-21",
   "descricao": "ECDC was notified on 2 May 2026 of a cluster of severe respiratory illness on MV Hondius, a Dutch-flagged cruise ship with passengers and crew from 23 countries, including nine EU/EEA countries. The virus has been identified as Andes hantavirus.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 9.0,
+  "pontuacao": 10.5,
   "agravos": [
+   "Patógeno novo ou incomum em humanos",
    "Hantavirose"
   ],
   "escopo": "Internacional",
@@ -13948,14 +13959,12 @@
   "se": "2026-20",
   "descricao": "This report describes an 8-month outbreak of carbapenemase-producing Enterobacterales in a long-term care facility in Ontario, Canada.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.5,
+  "pontuacao": 0.0,
   "agravos": [
    "Resistência antimicrobiana"
   ],
   "escopo": "Américas",
-  "termos_evento": [
-   "outbreak"
-  ],
+  "termos_evento": [],
   "municipios": []
  },
  {
@@ -14014,14 +14023,12 @@
   "se": "2026-20",
   "descricao": "This report describes operational guidance for public health investigation and response to mosquito-transmitted malaria in the United States.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.0,
+  "pontuacao": 4.0,
   "agravos": [
    "Malária"
   ],
   "escopo": "Américas",
-  "termos_evento": [
-   "investigation"
-  ],
+  "termos_evento": [],
   "municipios": []
  },
  {
@@ -14063,8 +14070,10 @@
   "se": "2026-19",
   "descricao": "This document aims to provide advice on infection prevention and control (IPC) measures for healthcare facilities providing care to patients with suspected or confirmed ANDV disease.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 0.0,
-  "agravos": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Patógeno novo ou incomum em humanos"
+  ],
   "escopo": "Internacional",
   "termos_evento": [],
   "municipios": []
@@ -14082,7 +14091,7 @@
   "se": "2026-19",
   "descricao": "This report describes survey results from backyard flock owners' attitudes towards avian influenza.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.5,
+  "pontuacao": 0.0,
   "agravos": [
    "Influenza por novo subtipo",
    "Influenza e vírus respiratórios"
@@ -14104,7 +14113,7 @@
   "se": "2026-19",
   "descricao": "This report describes an increase in dengue cases reported during 2024.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 2.0,
+  "pontuacao": 0.0,
   "agravos": [
    "Dengue"
   ],
@@ -14125,9 +14134,10 @@
   "se": "2026-19",
   "descricao": "This is the third Disease Outbreak News report on the hantavirus cluster, following the notification to the World Health Organization (WHO) on 2 May 2026 of severe respiratory illness cases aboard MV Hondius, a cruise ship. Since the last DON was published on 8 May, two additional confirmed cases were reported from France and Spain. In addition, there is one inconclusive result for a case in the United States of America. All were passengers on the ship. As of 13 May, a total of 11 cases, including three deaths, have been reported (case fatality ratio 27%). Eight cases were laboratory-confirmed for Andes virus (ANDV) infection, two are probable, and one case remains inconclusive and undergoing further testing. Through the International Health Regulations (2005) (IHR) channels, National IHR Focal Points (NFPs) have all been informed and are supporting international contact tracing efforts. WHO has assessed the risk posed by this event to the global population as low and will continue to monitor the epidemiological situation and update the risk assessment as needed. On 2 May 2026, WHO received notification from the IHR NFP of the United Kingdom of Great Britain and Northern Ireland (hereafter referred to as the United Kingdom) regarding a cluster of severe acute respiratory illness, including two deaths and one critically ill passenger, aboard the Dutch-flagged cruise ship MV Hondius. As of 13 May, a total of 11 cases (eight confirmed, one inconclusive and two probable cases)…",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 16.0,
+  "pontuacao": 16.5,
   "agravos": [
    "Hantavirose",
+   "Patógeno novo ou incomum em humanos",
    "Influenza e vírus respiratórios"
   ],
   "escopo": "Américas",
@@ -14175,8 +14185,10 @@
   "se": "2026-18",
   "descricao": "This document provides advice for public health professionals in the EU/EEA managing individuals potentially exposed to Andes virus infection.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.5,
-  "agravos": [],
+  "pontuacao": 10.0,
+  "agravos": [
+   "Patógeno novo ou incomum em humanos"
+  ],
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
@@ -14196,9 +14208,10 @@
   "se": "2026-18",
   "descricao": "On 2 May 2026, a cluster of passengers with severe respiratory illness aboard a cruise ship was reported to the World Health Organization (WHO). At that time, according to the ship operator, 147 passengers and crew were onboard, and 34 passengers and crew had previously disembarked. Since the last Disease Outbreak News published on 4 May, three of the suspected cases were confirmed, and one additional confirmed case was reported. As of 8 May, a total of eight cases, including three deaths (case fatality ratio 38%), have been reported. Six cases have been laboratory-confirmed as hantavirus infections, with all identified as Andes virus (ANDV). Through the International Health Regulations (2005) (IHR) channel, National IHR Focal Points (NFPs) have all been informed and are supporting international contact tracing. WHO assesses the risk to the global population posed by this event as low and will continue to monitor the epidemiological situation and update the risk assessment. The risk for passengers and crew on the ship is considered moderate. On 2 May 2026, WHO received notification from the National IHR Focal Point of the United Kingdom of Great Britain and Northern Ireland (hereafter referred to as the United Kingdom) regarding a cluster of severe acute respiratory illness, including two deaths and one critically ill passenger, aboard a Dutch-flagged cruise ship. Since the last Disease Outbreak News was published on 4 May, three of the suspected cases were confirmed, and…",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 14.0,
+  "pontuacao": 14.5,
   "agravos": [
    "Hantavirose",
+   "Patógeno novo ou incomum em humanos",
    "Influenza e vírus respiratórios"
   ],
   "escopo": "Internacional",
@@ -14232,6 +14245,7 @@
   ],
   "escopo": "Internacional",
   "termos_evento": [
+   "human case",
    "fatal"
   ],
   "municipios": []
@@ -14249,7 +14263,7 @@
   "se": "2026-18",
   "descricao": "This report describes 139 human exposures to cats infected with A(H5N1) in Los Angeles, California.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 2.5,
+  "pontuacao": 0.5,
   "agravos": [
    "Influenza por novo subtipo",
    "Influenza e vírus respiratórios"
@@ -14296,9 +14310,10 @@
   "se": "2026-18",
   "descricao": "On 2 May 2026, a cluster of passengers with severe respiratory illness aboard a cruise ship was reported to the World Health Organization. The ship is carrying 147 passengers and crew. As of 4 May 2026, seven cases (two laboratory confirmed cases of hantavirus and five suspected cases) have been identified, including three deaths, one critically ill patient and three individuals reporting mild symptoms. Illness onset occurred between 6 and 28 April 2026 and was characterized by fever, gastrointestinal symptoms, rapid progression to pneumonia, acute respiratory distress syndrome and shock. Further investigations are ongoing. The outbreak is being managed through coordinated international response, and includes in-depth investigations, case isolation and care, medical evacuation and laboratory investigations. Human hantavirus infection is primarily acquired through contact with the urine, faeces, or saliva of infected rodents. It is a rare but severe disease that can be deadly. Although uncommon, limited human to human transmission has been reported in previous outbreaks of Andes virus (a specific species of hantavirus). WHO currently assesses the risk to the global population from this event as low and will continue to monitor the epidemiological situation and update the risk assessment. On 2 May 2026, WHO received notification from the National International Health Regulations (2005) (IHR) Focal Point of the United Kingdom of Great Britain and Northern Ireland (hereafter…",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 13.5,
+  "pontuacao": 14.0,
   "agravos": [
-   "Hantavirose"
+   "Hantavirose",
+   "Patógeno novo ou incomum em humanos"
   ],
   "escopo": "Internacional",
   "termos_evento": [
@@ -14324,7 +14339,7 @@
   "se": "2026-17",
   "descricao": "This report describes 50 large tuberculosis outbreaks in 23 states during 2017-2023.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 3.5,
+  "pontuacao": 1.5,
   "agravos": [
    "Tuberculose"
   ],
@@ -14441,7 +14456,7 @@
   "se": "2026-16",
   "descricao": "This report describes flu vaccination coverage among nursing home residents and health care providers working in nursing homes.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 2.5,
+  "pontuacao": 0.0,
   "agravos": [
    "Influenza e vírus respiratórios",
    "Imunização"
@@ -14504,7 +14519,9 @@
   "descricao": "This report describes two clusters of invasive of Haemophilus influenzae type b among adults with special risk factors in Alaska, Oregon, and Washington.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
   "pontuacao": 0.0,
-  "agravos": [],
+  "agravos": [
+   "Doença meningocócica e meningites"
+  ],
   "escopo": "Internacional",
   "termos_evento": [],
   "municipios": []
@@ -14543,14 +14560,15 @@
   "se": "2026-14",
   "descricao": "On 21 March 2026, the National International Health Regulations (IHR) Focal Point for Italy notified the World Health Organization (WHO) of the identification of a human case of avian influenza A(H9) in an adult male returning from Senegal. Next generation sequencing confirmed Influenza A(H9N2). According to epidemiological investigations, the patient had no known history of exposure to poultry or any person with similar symptoms prior to the onset of symptoms. Authorities in Italy have implemented a series of measures aimed at monitoring, preventing and controlling the situation. According to the IHR (2005), a human infection caused by a novel influenza A virus subtype is an event that has the potential for high public health impact and must be notified to the WHO. This is the first imported human case of avian Influenza A(H9N2) reported in the European Region. Based on currently available information, WHO assesses the current risk to the general population posed by A(H9N2) viruses as low but continues to monitor these viruses and the situation globally. On 21 March 2026, the National IHR Focal Point for Italy notified WHO of the identification of a human case of avian influenza A(H9) in an adult male. The patient had been in Senegal for more than six months and traveled to Italy in mid-March. Upon arrival, he visited the emergency department with a fever and a persistent cough. On 16 March, a bronchoalveolar lavage specimen was collected, which showed a positive…",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 12.0,
+  "pontuacao": 14.0,
   "agravos": [
    "Influenza por novo subtipo",
    "Influenza e vírus respiratórios"
   ],
   "escopo": "Internacional",
   "termos_evento": [
-   "international health regulations"
+   "international health regulations",
+   "human case"
   ],
   "municipios": []
  },
@@ -14586,9 +14604,12 @@
   "se": "2026-14",
   "descricao": "This report describes the emergence of drug-resistant shigellosis in the United States during 2011-2023.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 0.0,
-  "agravos": [],
-  "escopo": "Internacional",
+  "pontuacao": 0.5,
+  "agravos": [
+   "Resistência antimicrobiana",
+   "Doenças transmitidas por alimentos e água"
+  ],
+  "escopo": "Américas",
   "termos_evento": [],
   "municipios": []
  },
@@ -14605,7 +14626,7 @@
   "se": "2026-13",
   "descricao": "This report describes influenza and COVID-19 vaccination coverage among health care providers in the United States during the 2024-25 respiratory virus season.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 3.0,
+  "pontuacao": 0.0,
   "agravos": [
    "Influenza e vírus respiratórios",
    "COVID-19",
@@ -14647,7 +14668,7 @@
   "se": "2026-12",
   "descricao": "This report describes vaccination coverage by age 2 among children born in 2021 and 2022.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 1.0,
+  "pontuacao": 0.0,
   "agravos": [
    "Imunização"
   ],
@@ -14733,9 +14754,11 @@
   "se": "2026-11",
   "descricao": "As of March 2026, over 1 000 confirmed and possible cases of shigellosis and other gastrointestinal infections, including salmonellosis, have been detected in travellers returning from Cabo Verde to several countries in the European Union/European Economic Area (EU/EEA), the United Kingdom (UK), and the United States (US), with new cases still being reported.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 0.0,
-  "agravos": [],
-  "escopo": "Internacional",
+  "pontuacao": 9.5,
+  "agravos": [
+   "Doenças transmitidas por alimentos e água"
+  ],
+  "escopo": "Américas",
   "termos_evento": [
    "epidemiological update"
   ],
@@ -14777,8 +14800,10 @@
   "se": "2026-10",
   "descricao": "Multi-country recalls of infant formula and other products have been initiated after cereulide toxin, was detected in batches of multiple internationally distributed brands. Investigations have identified arachidonic acid (ARA) oil, used as an ingredient in the implicated products, as the source of contamination. However, the full root cause analysis and complete traceability of all affected batches remains under investigation. Contaminated formulae, nutritional products, and oil mixes have been distributed to 99 countries and territories across six WHO Regions, with the first product recalls initiated on 10 December 2025. Between 1 January and 25 February 2026, 144 suspected and confirmed cases were reported across ten countries in three WHO Regions, with investigations ongoing. Based on the available information, WHO assesses the overall public health risk as moderate due to the vulnerability of the affected population (infants), the ongoing uncertainty regarding the full extent of distribution and exposure, and remaining gaps in case detection and root cause information. Since 10 December 2025, and as of 25 February 2026, 99 countries and territories have been identified as having received batches of infant formula products subject to recall due to contamination with cereulide toxin. During this period, 144 suspected and confirmed cases were reported across 10 countries. The epidemiological investigations and product‑traceback activities remain ongoing in many countries…",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 6.0,
-  "agravos": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Doenças transmitidas por alimentos e água"
+  ],
   "escopo": "Internacional",
   "termos_evento": [
    "confirmed cases",
@@ -14799,7 +14824,7 @@
   "se": "2026-10",
   "descricao": "This report describes a measles outbreak in New Mexico in 2025.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 6.5,
+  "pontuacao": 4.5,
   "agravos": [
    "Sarampo"
   ],
@@ -14947,7 +14972,7 @@
   "se": "2026-08",
   "descricao": "",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 0.0,
+  "pontuacao": 7.0,
   "agravos": [],
   "escopo": "Américas",
   "termos_evento": [
@@ -14968,7 +14993,7 @@
   "se": "2026-08",
   "descricao": "This report describes a 2024 Salmonella outbreak linked to ice in a cooler at a county fair in Illinois",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 2.5,
+  "pontuacao": 0.5,
   "agravos": [
    "Doenças transmitidas por alimentos e água"
   ],
@@ -14991,7 +15016,7 @@
   "se": "2026-07",
   "descricao": "From 19 December 2025 to 13 February 2026, six EU countries and the United Kingdom reported infants with gastrointestinal symptoms following the consumption of contaminated infant formula.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.5,
+  "pontuacao": 6.0,
   "agravos": [
    "Doenças transmitidas por alimentos e água"
   ],
@@ -15012,7 +15037,7 @@
   "se": "2026-07",
   "descricao": "This report describes receipt of COVID-19 antiviral prescriptions among outpatients aged 65 and older from June 1, 2023-September 30, 2025.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 2.0,
+  "pontuacao": 0.0,
   "agravos": [
    "COVID-19"
   ],
@@ -15094,9 +15119,10 @@
   "se": "2026-06",
   "descricao": "Recombination of monkeypox virus (MPXV) strains has been documented in recent months, with two cases of a recombinant strain comprising clade Ib and IIb MPXV reported. Recombination is a known natural process that can occur when two related viruses infecting the same individual exchange genetic material, producing a new virus. The first case was detected in the United Kingdom of Great Britain and Northern Ireland (hereafter “United Kingdom”), with travel history to a country in South-East Asia, and the second in India, with travel history to a country in the Arabian Peninsula. Detailed analysis of the virus genomes shows that the two individuals fell ill several weeks apart with the same recombinant strain, suggesting that there may be further cases than are currently reported. Both cases had similar clinical presentation to that observed for other clades. Neither patient experienced severe outcomes. Contact tracing for both cases in the reporting countries has been completed; no secondary cases were detected. Based on available information, the overall WHO public health risk assessment for mpox remains unchanged: the risk is assessed as moderate for men who have sex with men with new and/or multiple partners and for sex workers or others with multiple casual sexual partners, and low for the general population without specific risk factors. In December 2025, the United Kingdom detected the first reported case of a clade Ib/IIb MPXV recombinant strain.​ 5 ​ After…",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 12.5,
+  "pontuacao": 13.0,
   "agravos": [
-   "Mpox"
+   "Mpox",
+   "Patógeno novo ou incomum em humanos"
   ],
   "escopo": "Internacional",
   "termos_evento": [
@@ -15119,11 +15145,11 @@
   "descricao": "This report describes an outbreak of Purpureocillium lilacinum fungal skin infections associated with a dermatology clinic in Washington.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
   "pontuacao": 0.0,
-  "agravos": [],
-  "escopo": "Internacional",
-  "termos_evento": [
-   "outbreak"
+  "agravos": [
+   "Micobactérias não tuberculosas e outras infecções"
   ],
+  "escopo": "Internacional",
+  "termos_evento": [],
   "municipios": []
  },
  {
@@ -15140,7 +15166,9 @@
   "descricao": "This report describes the public health response to a Purpureocillium lilacinum keratitis outbreak in New York City associated with an ophthalmology clinic.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
   "pontuacao": 0.0,
-  "agravos": [],
+  "agravos": [
+   "Micobactérias não tuberculosas e outras infecções"
+  ],
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
@@ -15231,9 +15259,10 @@
   "se": "2026-04",
   "descricao": "On 26 January 2026, the National IHR Focal Point for India notified WHO of two laboratory‑confirmed cases of Nipah virus (NiV) infection in West Bengal State. Both are healthcare workers at the same private hospital in Barasat (North 24 Parganas district). NiV infection was confirmed at the National Institute of Virology in Pune on 13 January. One case remains on mechanical ventilation as of 21 January, the other case experienced severe neurological illness but has since improved. Authorities have identified and tested over 190 contacts, who all tested negative for NiV with support from a mobile BSL‑3 laboratory deployed by the National Institute of Virology, Pune. No further cases have been detected to date. This event represents the third NiV infection outbreak reported in West Bengal (previous outbreaks reported in Siliguri in 2001 and Nadia in 2007). Enhanced surveillance and infection prevention and control (IPC) measures are in place while investigations into the source of exposure are ongoing. NiV infection is a serious but rare zoonotic disease transmitted to humans through infected animals (such as bats), or food contaminated with saliva, urine, and excreta of infected animals. It can also be transmitted directly from person to person through close contact with an infected person. There are currently no licensed medicines or vaccines for NiV infection, however early supportive care can improve survival. WHO assesses the risk posed by Nipah to be moderate at the…",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 14.0,
+  "pontuacao": 14.5,
   "agravos": [
-   "Nipah"
+   "Nipah",
+   "Saúde Única: zoonoses e eventos em animais"
   ],
   "escopo": "Internacional",
   "termos_evento": [
@@ -15256,7 +15285,7 @@
   "se": "2026-04",
   "descricao": "This report describes the public health response to a measles outbreak in Colorado among people exposed to an infectious traveler who arrived in Colorado in May 2025 on an international flight.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.5,
+  "pontuacao": 2.5,
   "agravos": [
    "Sarampo"
   ],
@@ -15365,7 +15394,7 @@
   "se": "2026-02",
   "descricao": "This report describes a human rabies case with a delayed diagnosis that led to health care provider exposures in two states: Kentucky and Ohio.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 3.5,
+  "pontuacao": 1.5,
   "agravos": [
    "Raiva"
   ],
@@ -15388,7 +15417,7 @@
   "se": "2026-02",
   "descricao": "This report describes a human rabies case with a delayed diagnosis that led to health care provider exposures in two states: Kentucky and Ohio.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 2.0,
+  "pontuacao": 0.0,
   "agravos": [
    "Raiva"
   ],
@@ -15475,7 +15504,7 @@
   "se": "2026-01",
   "descricao": "This report updates recommendations for the use meningococcal vaccine among people 10 years of age and older.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 3.5,
+  "pontuacao": 0.0,
   "agravos": [
    "Doença meningocócica e meningites",
    "Imunização"
@@ -15497,7 +15526,7 @@
   "se": "2026-01",
   "descricao": "This report describes a Zika outbreak in Dhaka, Bangladesh, during September-December 2024",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 2.5,
+  "pontuacao": 0.5,
   "agravos": [
    "Zika"
   ],
@@ -15520,7 +15549,7 @@
   "se": "2025-53",
   "descricao": "This report describes the public health response to a patient who was identified with welder's anthrax following occupational exposure.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 2.0,
+  "pontuacao": 0.0,
   "agravos": [
    "Antraz"
   ],
@@ -15560,9 +15589,10 @@
   "se": "2025-52",
   "descricao": "Since the beginning of 2025 and as of 21 December 2025, a total of 19 cases of Middle East respiratory syndrome coronavirus (MERS- CoV), including four deaths have been reported to WHO globally. Of the 19 cases, 17 were reported by the Kingdom of Saudi Arabia (KSA), and two were reported from France. Between 4 June and 21 December 2025, the Ministry of Health (MoH) of KSA reported a total of seven cases of MERS-CoV infection, including two deaths. In addition, at the beginning of December 2025, the National IHR Focal Point (IHR NFP) for France also reported two MERS-CoV travel – associated cases; involving individuals with recent travel to countries in the Arabian Peninsula. The notification of these latest cases does not change the overall risk assessment, which remains moderate at both the global and regional levels. These cases show that the virus continues to pose a threat in countries where it is circulating in dromedary camels, with regular spillover into the human population. WHO recommends implementation of targeted infection, prevention and control (IPC) measures to prevent the spread of health care-associated infections of MERS-CoV and onward human transmission. Since the first report of MERS-CoV in the KSA and Jordan in 2012, a total 2635 laboratory-confirmed cases of MERS-CoV infection, with 964 associated deaths (Case Fatality Ratio (CFR) of 37%), have been reported to WHO from 27 countries, across all six WHO regions (Figure 1). The majority of cases (84%…",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 10.0,
+  "pontuacao": 10.5,
   "agravos": [
-   "Síndrome respiratória e coronavírus emergentes"
+   "Síndrome respiratória e coronavírus emergentes",
+   "Saúde Única: zoonoses e eventos em animais"
   ],
   "escopo": "Internacional",
   "termos_evento": [
@@ -15625,7 +15655,7 @@
   "se": "2025-50",
   "descricao": "This report describes a cluster of rabid steers on a Minnesota dairy farm infected by a single skunk.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.5,
+  "pontuacao": 2.5,
   "agravos": [
    "Raiva"
   ],
@@ -15715,8 +15745,7 @@
   ],
   "escopo": "Internacional",
   "termos_evento": [
-   "outbreak",
-   "investigation"
+   "outbreak"
   ],
   "municipios": []
  },
@@ -15776,7 +15805,7 @@
   "se": "2025-47",
   "descricao": "This report describes a CDC collaboration with professional organizations and health departments to enroll birthing hospitals in the Vaccines for Children Program to increase infant immunization against respiratory syncytial virus.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 2.5,
+  "pontuacao": 0.0,
   "agravos": [
    "Influenza e vírus respiratórios",
    "Imunização"
@@ -15798,14 +15827,12 @@
   "se": "2025-47",
   "descricao": "This report describes a multicenter case-control investigation that found nirsevimab was 80% effective at preventing RSV-associated ICU admissions among infants.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 2.0,
+  "pontuacao": 1.0,
   "agravos": [
    "Influenza e vírus respiratórios"
   ],
   "escopo": "Internacional",
-  "termos_evento": [
-   "investigation"
-  ],
+  "termos_evento": [],
   "municipios": []
  },
  {
@@ -15821,11 +15848,9 @@
   "se": "2025-40",
   "descricao": "CDC updates HIV nonoccupational postexposure prophylaxis recommendationsMeta Keywords:",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 3.5,
-  "agravos": [
-   "HIV/aids e IST"
-  ],
-  "escopo": "Américas",
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Internacional",
   "termos_evento": [],
   "municipios": []
  },
@@ -15842,7 +15867,7 @@
   "se": "2025-39",
   "descricao": "This report describes pediatric deaths during the 2024-25 influenza season.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 3.5,
+  "pontuacao": 1.5,
   "agravos": [
    "Influenza e vírus respiratórios"
   ],
@@ -15865,7 +15890,7 @@
   "se": "2025-39",
   "descricao": "This report describes 109 U.S. cases of pediatric influenza-associated encephalopathy during the 2024-25 flu season - a high-severity season.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 2.0,
+  "pontuacao": 0.0,
   "agravos": [
    "Influenza e vírus respiratórios"
   ],
@@ -15907,7 +15932,7 @@
   "se": "2025-38",
   "descricao": "This report describes a clinical recommendation to use injectable lenacapavir as an HIV preexposure prophylaxis.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 5.0,
+  "pontuacao": 2.0,
   "agravos": [
    "HIV/aids e IST"
   ],
