@@ -1,0 +1,81 @@
+{
+ "ecdc": {
+  "http": 200,
+  "tabelas": [],
+  "texto_inicio": "Ebola disease outbreak in the Democratic Republic of the Congo Skip to main content {\"utility\":\"globan\",\"theme\":\"light\",\"logo\":true,\"link\":true,\"mode\":false} Global Navigation Other sites ECDC Europea",
+  "trecho": " (AERs) Epidemiological updates Eurosurveillance The European Respiratory Virus Surveillance Summary (ERVISS) Resources Resources Fellowship programme Training activities Surveillance and outbreak tools Preparedness, prevention and control tools Communication materials Spotlight EpiPulse - the European surveillance portal for infectious diseases Vaccination coverage dashboard ECDC Crowd Learning Portal Newsroom Newsroom Campaigns ECDC: On Air Infographics and videos Corporate visuals Social media Spotlight Questions and answers about the current outbreak of Ebola disease ECDC: On Air About us About ECDC Who we are What we do Partners and networks Work with ECDC Procurement and grants Spotlight Strategic documents Annual activity reports Governance EU Health Task Force - strengthening collaboration, preparedness & response Home Topics A-Z Ebola disease Surveillance and updates Ebola disease outbreak in the Democratic Republic of the Congo Ebola disease outbreak in the Democratic Republic of the Congo This page is updated every weekday. It was last updated on 20 October at 15:00. As of 19 October 2026, the Democratic Republic of the Congo (DRC) reported a total of 9 552 confirmed cases, including 4 602 related deaths (from data up until 18 October). A total of 937 patients are hospitalised in isolation. Among the individuals who tested positive for Bundibugyo virus, 2 550 have recovered. In total, 76.9% of identified case contacts are under follow-up in the affected provinces. Since the previous update, 97 new confirmed cases, including 41 deaths, were reported in North Kivu (48 cases), Ituri (42 cases) and Haut-Uélé (7 cases) provinces. Overall, Ituri province remains the most affected, with 6 960 cases, including 3 217 deaths, reported from 28 of 36 health zones. In Nord-Kivu, 2 084 cases, including 1 176 deaths, have been reported from 17 of 34 health zones. In Haut-Uélé, 415 cases, including 177 deaths, have been reported from seven of 13 health zones. In Tshopo, 73 cases, including 25 deaths, have been reported from seven of 23 health zones. In Sud-Kivu, three cases, including one death, have been reported from one of 34 health zones. In Bas-Uélé, 13 cases, including four deaths, have been reported from four of 11 health zones. In Sud Ubangi, two cases, including one death, have been reported from one of 16 health zones. In Nord Ubangi, two cases, including one death, have been reported in one of 11 health zones. Overall, 66 of 178 health zones are currently affected across the eight provinces. Data reported by DRC on confirmed cases and deaths are under continuous review and harmonisation. In Kenya, as of 20 October, a total of eight confirmed cases, including one death, have been reported. The last confirmed case was reported on 18 October. The first case was imported from the Democratic Republic of the Congo (DRC) and was reported on 6 October . The patient, a Kenyan citizen who had been residing in DRC, reportedly travelled from DRC to Kenya, via Uganda, on 3 October. The patient subsequently died. On 14 October, a second case was reported in one of the close family contacts of the first case who was in quarantine. A third case, reported on 16 October , involved a close relative of the first and second cases who was also in quarantine. On 17 October, an additional four cases were confirmed , which included one close relative of the first case and three healthcare workers, all of whom had been in contact with the first case and had been placed in quarantine. On 18 October, an eighth case was reported . According to the Health Ministry Director-General , the new case was not a healthcare worker, but a patient attendant. Monitoring cases that were medically evacuated or imported to Europe A healthcare worker based in DRC who tested positive for Bundibugyo virus on 29 September was medically evacuated to the Netherlands to receive specialised care. The patient was admitted to the high-level isolation unit at Leiden Universi",
+  "links_csv": []
+ },
+ "infogripe": {
+  "marcelo.gomes/infogripe:Dados/InfoGripe": {
+   "http": 404,
+   "itens": {
+    "message": "404 Project Not Found"
+   }
+  },
+  "marcelo.gomes/infogripe:Dados": {
+   "http": 404,
+   "itens": {
+    "message": "404 Project Not Found"
+   }
+  },
+  "mave/repo:Dados/InfoGripe": {
+   "http": 404,
+   "itens": {
+    "message": "404 Project Not Found"
+   }
+  },
+  "mave/repo:Dados": {
+   "http": 404,
+   "itens": {
+    "message": "404 Project Not Found"
+   }
+  }
+ },
+ "infogripe_arquivos": {
+  "marcelo.gomes/infogripe/-/raw/master/Dados/InfoGripe/serie_temporal_com_estimativas_recentes_sem_filtro_febre.csv": {
+   "http": 200,
+   "tamanho": null,
+   "inicio": [
+    "<!DOCTYPE html>",
+    "<html class=\"devise-layout-html\">",
+    "<head prefix=\"og: http://ogp.me/ns#\">",
+    "<meta charset=\"utf-8\">",
+    "<title>Sign in · GitLab</title>"
+   ]
+  },
+  "marcelo.gomes/infogripe/-/raw/master/Dados/InfoGripe/casos_semanais_fx_etaria_virus_sem_filtro_febre.csv": {
+   "http": 200,
+   "tamanho": null,
+   "inicio": [
+    "<!DOCTYPE html>",
+    "<html class=\"devise-layout-html\">",
+    "<head prefix=\"og: http://ogp.me/ns#\">",
+    "<meta charset=\"utf-8\">",
+    "<title>Sign in · GitLab</title>"
+   ]
+  },
+  "marcelo.gomes/infogripe/-/raw/master/Dados/InfoGripe/estados_e_pais_serie_estimativas_tendencia_sem_filtro_febre.csv": {
+   "http": 200,
+   "tamanho": null,
+   "inicio": [
+    "<!DOCTYPE html>",
+    "<html class=\"devise-layout-html\">",
+    "<head prefix=\"og: http://ogp.me/ns#\">",
+    "<meta charset=\"utf-8\">",
+    "<title>Sign in · GitLab</title>"
+   ]
+  },
+  "marcelo.gomes/infogripe/-/raw/master/Dados/InfoGripe/valores_esperados_por_localidade.csv": {
+   "http": 200,
+   "tamanho": null,
+   "inicio": [
+    "<!DOCTYPE html>",
+    "<html class=\"devise-layout-html\">",
+    "<head prefix=\"og: http://ogp.me/ns#\">",
+    "<meta charset=\"utf-8\">",
+    "<title>Sign in · GitLab</title>"
+   ]
+  }
+ }
+}
