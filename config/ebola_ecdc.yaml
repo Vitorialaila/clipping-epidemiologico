@@ -1,0 +1,149 @@
+# Ebola (vírus Bundibugyo) na RDC: série histórica oficial do ECDC.
+#
+# Registros extraídos dos Communicable Disease Threats Reports (CDTR) semanais do ECDC.
+# O painel junta estes registros com as capturas diárias da página do ECDC; na mesma data,
+# vale a captura da página. Para corrigir ou incluir um ponto, edite ou acrescente um registro.
+#
+# Campos: data_referencia (data do relatório do país), dados_ate (corte dos dados), casos e obitos
+# (confirmados, acumulados), zs_afetadas / zs_total (zonas de saúde), n_provincias, provincias
+# (só quando a soma por província fecha com o total), fonte, url.
+
+registros:
+- data_referencia: '2026-07-16'
+  dados_ate: '2026-07-15'
+  casos: 2124
+  obitos: 828
+  zs_afetadas: 46
+  zs_total: 140
+  n_provincias: 5
+  provincias:
+    Nord-Kivu:
+      casos: 199
+      obitos: 119
+      zs_afetadas: 11
+      zs_total: 34
+    Sud-Kivu:
+      casos: 3
+      obitos: 1
+      zs_afetadas: 1
+      zs_total: 34
+    Ituri:
+      casos: 1904
+      obitos: 692
+      zs_afetadas: 27
+      zs_total: 36
+    Haut-Uélé:
+      casos: 14
+      obitos: 13
+      zs_afetadas: 4
+      zs_total: 13
+    Tshopo:
+      casos: 4
+      obitos: 3
+      zs_afetadas: 3
+      zs_total: 23
+  fonte: ECDC, Communicable Disease Threats Report, semana 29/2026
+  url: https://www.ecdc.europa.eu/sites/default/files/documents/communicable-disease-threats-report-week-29-2026.pdf
+- data_referencia: '2026-08-06'
+  dados_ate: '2026-08-05'
+  casos: 4053
+  obitos: 1850
+  zs_afetadas: 53
+  zs_total: 140
+  n_provincias: 5
+  fonte: ECDC, Communicable Disease Threats Report, semana 32/2026
+  url: https://www.ecdc.europa.eu/sites/default/files/documents/communicable-disease-threats-report-week-32-2026.pdf
+- data_referencia: '2026-08-20'
+  dados_ate: '2026-08-19'
+  casos: 5290
+  obitos: 2516
+  zs_afetadas: 56
+  zs_total: 151
+  n_provincias: 6
+  provincias:
+    Nord-Kivu:
+      casos: 663
+      obitos: 452
+      zs_afetadas: 12
+      zs_total: 34
+    Sud-Kivu:
+      casos: 3
+      obitos: 1
+      zs_afetadas: 1
+      zs_total: 34
+    Ituri:
+      casos: 4447
+      obitos: 1984
+      zs_afetadas: 28
+      zs_total: 36
+    Haut-Uélé:
+      casos: 160
+      obitos: 71
+      zs_afetadas: 6
+      zs_total: 13
+    Tshopo:
+      casos: 15
+      obitos: 7
+      zs_afetadas: 7
+      zs_total: 23
+    Bas-Uélé:
+      casos: 2
+      obitos: 1
+      zs_afetadas: 2
+      zs_total: 11
+  fonte: ECDC, Communicable Disease Threats Report, semana 34/2026
+  url: https://www.ecdc.europa.eu/sites/default/files/documents/communicable-disease-threats-report-week-34-2026.pdf
+- data_referencia: '2026-08-27'
+  dados_ate: '2026-08-26'
+  casos: 5794
+  obitos: 2786
+  zs_afetadas: 60
+  zs_total: 151
+  n_provincias: 6
+  fonte: ECDC, Communicable Disease Threats Report, semana 35/2026
+  url: https://www.ecdc.europa.eu/sites/default/files/documents/communicable-disease-threats-report-week-35-2026.pdf
+- data_referencia: '2026-09-17'
+  dados_ate: '2026-09-16'
+  casos: 7475
+  obitos: 3605
+  zs_afetadas: 62
+  zs_total: 167
+  n_provincias: 7
+  fonte: ECDC, Communicable Disease Threats Report, semana 38/2026
+  url: https://www.ecdc.europa.eu/sites/default/files/documents/communicable-disease-threats-report-week-38-2026.pdf
+- data_referencia: '2026-09-24'
+  dados_ate: '2026-09-23'
+  casos: 7890
+  obitos: 3799
+  zs_afetadas: 63
+  zs_total: 167
+  n_provincias: 7
+  fonte: ECDC, Communicable Disease Threats Report, semana 39/2026
+  url: https://www.ecdc.europa.eu/sites/default/files/documents/communicable-disease-threats-report-week-39-2026.pdf
+- data_referencia: '2026-09-30'
+  dados_ate: '2026-09-29'
+  casos: 8224
+  obitos: 3982
+  zs_afetadas: 63
+  zs_total: 167
+  n_provincias: 7
+  fonte: ECDC, Communicable Disease Threats Report, semana 40/2026
+  url: https://www.ecdc.europa.eu/sites/default/files/documents/communicable-disease-threats-report-week-40-2026.pdf
+- data_referencia: '2026-10-07'
+  dados_ate: '2026-10-06'
+  casos: 8728
+  obitos: 4205
+  zs_afetadas: 64
+  zs_total: 167
+  n_provincias: 7
+  fonte: ECDC, Communicable Disease Threats Report, semana 41/2026
+  url: https://www.ecdc.europa.eu/sites/default/files/documents/communicable-disease-threats-report-week-41-2026.pdf
+- data_referencia: '2026-10-15'
+  dados_ate: '2026-10-14'
+  casos: 9277
+  obitos: 4478
+  zs_afetadas: 65
+  zs_total: 167
+  n_provincias: 7
+  fonte: ECDC, Communicable Disease Threats Report, semana 42/2026
+  url: https://www.ecdc.europa.eu/sites/default/files/documents/communicable-disease-threats-report-week-42-2026.pdf

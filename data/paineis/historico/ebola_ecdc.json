@@ -1,0 +1,73 @@
+[
+ {
+  "data_referencia": "2026-10-19",
+  "casos": 9552,
+  "obitos": 4602,
+  "dados_ate": "2026-10-18",
+  "hospitalizados": 937,
+  "recuperados": 2550,
+  "novos_casos": 97,
+  "novos_obitos": 41,
+  "provincias": {
+   "Nord-Kivu": {
+    "casos": 2084,
+    "obitos": 1176,
+    "zs_afetadas": 17,
+    "zs_total": 34
+   },
+   "Haut-Uélé": {
+    "casos": 415,
+    "obitos": 177,
+    "zs_afetadas": 7,
+    "zs_total": 13
+   },
+   "Tshopo": {
+    "casos": 73,
+    "obitos": 25,
+    "zs_afetadas": 7,
+    "zs_total": 23
+   },
+   "Sud-Kivu": {
+    "casos": 3,
+    "obitos": 1,
+    "zs_afetadas": 1,
+    "zs_total": 34
+   },
+   "Bas-Uélé": {
+    "casos": 13,
+    "obitos": 4,
+    "zs_afetadas": 4,
+    "zs_total": 11
+   },
+   "Sud-Ubangi": {
+    "casos": 2,
+    "obitos": 1,
+    "zs_afetadas": 1,
+    "zs_total": 16
+   },
+   "Nord-Ubangi": {
+    "casos": 2,
+    "obitos": 1,
+    "zs_afetadas": 1,
+    "zs_total": 11
+   },
+   "Ituri": {
+    "casos": 6960,
+    "obitos": 3217,
+    "zs_afetadas": 28,
+    "zs_total": 36
+   }
+  },
+  "zs_afetadas": 66,
+  "zs_total": 178,
+  "n_provincias": 8,
+  "quenia": {
+   "casos": 8,
+   "obitos": 1
+  },
+  "fonte": "ECDC, Ebola disease outbreak in the Democratic Republic of the Congo",
+  "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+  "captura": "automática",
+  "capturado_em": "2026-10-22"
+ }
+]

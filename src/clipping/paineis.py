@@ -176,98 +176,8 @@ class PainelVigilancia:
         log.info(f"Painel {self.nome} salvo com gráficos")
 
 
-class PainelSRAGBrasil(PainelVigilancia):
-    """SRAG no Brasil com dados InfoGripe (MS)."""
-
-    def __init__(self):
-        super().__init__(
-            nome="SRAG - Brasil",
-            sigla="SRAG",
-            descricao="Síndrome Respiratória Aguda Grave em vigilância sentinela"
-        )
-
-    def coletar(self) -> bool:
-        """Coleta dados de SRAG do Brasil (dados consolidados do MS)."""
-        try:
-            # Dados consolidados de vigilância sentinela SRAG no Brasil
-            # Fonte: MS/DATASUS InfoGripe (semanas epidemiológicas 2026)
-
-            self.dados["fonte_dados"] = "MS/DATASUS - InfoGripe"
-            self.dados["serie_temporal"] = [
-                {"semana": 39, "casos": 1350, "obitos": 45},
-                {"semana": 40, "casos": 1200, "obitos": 40},
-                {"semana": 41, "casos": 1050, "obitos": 35},
-                {"semana": 42, "casos": 890, "obitos": 30},
-                {"semana": 43, "casos": 802, "obitos": 27},
-                {"semana": 44, "casos": 715, "obitos": 24},
-                {"semana": 45, "casos": 628, "obitos": 21},
-                {"semana": 46, "casos": 542, "obitos": 18},
-            ]
-
-            # Indicadores agregados
-            total_casos = sum(d["casos"] for d in self.dados["serie_temporal"])
-            total_obitos = sum(d["obitos"] for d in self.dados["serie_temporal"])
-
-            self.dados["indicadores"] = {
-                "casos_ultimas_8_semanas": total_casos,
-                "obitos_ultimas_8_semanas": total_obitos,
-                "taxa_letalidade": round(total_obitos / total_casos * 100, 1) if total_casos > 0 else 0,
-                "tendencia": "em queda",
-                "estado_maior_incidencia": "São Paulo",
-            }
-
-            self.salvar()
-            return True
-
-        except Exception as e:
-            log.warning(f"Erro ao coletar SRAG: {e}")
-            return False
-
-
-class PainelSarampo(PainelVigilancia):
-    """Sarampo global com dados OMS/PAHO."""
-
-    def __init__(self):
-        super().__init__(
-            nome="Sarampo",
-            sigla="SARAMPO",
-            descricao="Vigilância global de sarampo com foco em Américas"
-        )
-
-    def coletar(self) -> bool:
-        """Coleta dados de sarampo de fontes públicas."""
-        try:
-            # Para este exemplo, usamos dados consolidados conhecidos de 2026
-            # Em produção, isso viria de APIs da OMS ou PAHO
-
-            self.dados["fonte_dados"] = "OMS/PAHO - Dados consolidados 2026"
-            self.dados["serie_temporal"] = [
-                {"período": "Set 2026", "casos_americas": 2800, "obitos": 6},
-                {"período": "Out 2026", "casos_americas": 3250, "obitos": 8},
-            ]
-            self.dados["distribuicao_geografica"] = [
-                {"país": "Venezuela", "casos": 1200, "proporção": 37},
-                {"país": "Brasil", "casos": 850, "proporção": 26},
-                {"país": "Colômbia", "casos": 600, "proporção": 18},
-                {"país": "Outros", "casos": 600, "proporção": 19},
-            ]
-            self.dados["indicadores"] = {
-                "casos_confirmados": 3250,
-                "obitos": 8,
-                "paises_afetados": 5,
-                "cobertura_d1_global": 85.5,
-            }
-
-            self.salvar()
-            return True
-        except Exception as e:
-            log.warning(f"Erro ao coletar sarampo: {e}")
-            return False
-
-
-
 # Cores do site
-NAVY, OURO, CINZA_UF = "#0A3570", "#B8921A", "#E3E6EB"
+NAVY, OURO, CINZA_UF, CINZA_TXT = "#0A3570", "#B8921A", "#E3E6EB", "#6A7282"
 CLASSES_MAPA = [  # (mínimo, rótulo, cor)
     (0, "Sem casos", CINZA_UF),
     (1, "1 a 4", "#B9C9E0"),
@@ -293,6 +203,52 @@ def _area(anel) -> float:
     return sum(x1 * y2 - x2 * y1 for (x1, y1), (x2, y2) in zip(anel, anel[1:] + anel[:1])) / 2
 
 
+
+def ufs_brasil() -> dict:
+    from .mapas import _ufs
+    return _ufs()
+
+
+def mapa_ufs(classes: dict, ordem: list[str], titulo: str, div_id: str, rotulos: dict | None = None) -> dict:
+    """Mapa do Brasil por UF (malha IBGE local, desenhada como polígonos no Plotly).
+
+    classes: {sigla: (rótulo da classe, cor, texto do hover)}; ordem: ordem das classes na legenda."""
+    import math
+    kx = math.cos(math.radians(-14))
+    fig = go.Figure()
+    vistas = set()
+    for sigla, p in ufs_brasil().items():
+        nome_classe, cor, texto = classes.get(sigla, ("Sem dado", CINZA_UF, "sem dado"))
+        xs, ys = [], []
+        for anel in p["p"]:
+            if abs(_area(anel)) < 0.02 and len(p["p"]) > 1:
+                continue  # ilhotas: não pesam no desenho
+            for lon, lat in anel + anel[:1]:
+                xs.append(round(lon * kx, 3)); ys.append(round(lat, 3))
+            xs.append(None); ys.append(None)
+        fig.add_trace(go.Scatter(
+            x=xs, y=ys, mode="lines", fill="toself", fillcolor=cor, line=dict(color="#FFFFFF", width=0.8),
+            hoveron="fills", hoverinfo="text", text=f"<b>{p['n']}</b><br>{texto}",
+            name=nome_classe, legendgroup=nome_classe, showlegend=nome_classe not in vistas,
+            legendrank=ordem.index(nome_classe) if nome_classe in ordem else 99))
+        vistas.add(nome_classe)
+    for sigla, txt in (rotulos or {}).items():
+        if sigla in ufs_brasil():
+            lon, lat = ufs_brasil()[sigla]["c"]
+            fig.add_annotation(x=lon * kx, y=lat, text=txt, showarrow=False, font=dict(size=11, color=NAVY),
+                               bgcolor="rgba(255,255,255,.85)", bordercolor=NAVY, borderwidth=1, borderpad=2)
+    fig.update_layout(
+        **LAYOUT_BASE, title=dict(text=titulo, font=dict(size=15, color=NAVY)),
+        height=460, margin=dict(l=10, r=10, t=70, b=10), hovermode="closest",
+        legend=dict(orientation="h", yanchor="top", y=0.02, xanchor="left", x=0.0, font=dict(size=11),
+                    bgcolor="rgba(255,255,255,.8)"),
+        xaxis=dict(visible=False, fixedrange=True),
+        yaxis=dict(visible=False, scaleanchor="x", scaleratio=1, fixedrange=True))
+    f = fig.to_dict()
+    return {"data": f["data"], "layout": f["layout"], "div_id": div_id, "largura": "meia",
+            "config": {"scrollZoom": False, "displayModeBar": False}}
+
+
 class PainelSarampoBrasil(PainelVigilancia):
     """Sarampo no Brasil com números oficiais do Ministério da Saúde."""
 
@@ -305,47 +261,14 @@ class PainelSarampoBrasil(PainelVigilancia):
         self.dados["aba"] = "Sarampo Brasil"
 
     def _mapa(self, ufs: dict, ref: str) -> dict:
-        from .mapas import _ufs
-        import math
-        kx = math.cos(math.radians(-14))
-        fig = go.Figure()
-        legenda_vista = set()
-        for sigla, p in _ufs().items():
+        classes = {}
+        for sigla in ufs_brasil():
             n = ufs.get(sigla, 0)
-            classe = [c for c in CLASSES_MAPA if n >= c[0]][-1]
-            xs, ys = [], []
-            for anel in p["p"]:
-                if abs(_area(anel)) < 0.02 and len(p["p"]) > 1:
-                    continue  # ilhotas: não pesam no desenho
-                for lon, lat in anel + anel[:1]:
-                    xs.append(round(lon * kx, 3)); ys.append(round(lat, 3))
-                xs.append(None); ys.append(None)
-            texto = f"<b>{p['n']}</b><br>{n} caso{'s' if n != 1 else ''} confirmado{'s' if n != 1 else ''}"
-            fig.add_trace(go.Scatter(
-                x=xs, y=ys, mode="lines", fill="toself", fillcolor=classe[2],
-                line=dict(color="#FFFFFF", width=0.8), hoveron="fills", hoverinfo="text", text=texto,
-                name=classe[1], legendgroup=classe[1], showlegend=classe[1] not in legenda_vista,
-                legendrank=CLASSES_MAPA.index(classe),
-            ))
-            legenda_vista.add(classe[1])
-        for sigla, n in ufs.items():  # rótulo com o número nas UFs com casos
-            if n and sigla in _ufs():
-                lon, lat = _ufs()[sigla]["c"]
-                fig.add_annotation(x=lon * kx, y=lat, text=f"<b>{sigla}</b> {n}", showarrow=False,
-                                   font=dict(size=11, color=NAVY), bgcolor="rgba(255,255,255,.85)",
-                                   bordercolor=NAVY, borderwidth=1, borderpad=2)
-        fig.update_layout(
-            **LAYOUT_BASE,
-            title=dict(text=f"<b>Casos confirmados por UF</b><br><sup>até {ref}</sup>", font=dict(size=15, color=NAVY)),
-            height=460, margin=dict(l=10, r=10, t=70, b=10), hovermode="closest",
-            legend=dict(orientation="h", yanchor="top", y=0.02, xanchor="left", x=0.0, font=dict(size=11),
-                        bgcolor="rgba(255,255,255,.8)"),
-            xaxis=dict(visible=False, fixedrange=True),
-            yaxis=dict(visible=False, scaleanchor="x", scaleratio=1, fixedrange=True),
-        )
-        f = fig.to_dict()
-        return {"data": f["data"], "layout": f["layout"], "div_id": "mapa_sarampo_br", "largura": "meia",
-                "config": {"scrollZoom": False, "displayModeBar": False}}
+            c = [c for c in CLASSES_MAPA if n >= c[0]][-1]
+            classes[sigla] = (c[1], c[2], f"{n} caso{'s' if n != 1 else ''} confirmado{'s' if n != 1 else ''}")
+        rotulos = {s: f"<b>{s}</b> {n}" for s, n in ufs.items() if n}
+        return mapa_ufs(classes, [c[1] for c in CLASSES_MAPA], f"<b>Casos confirmados por UF</b><br><sup>até {ref}</sup>",
+                        "mapa_sarampo_br", rotulos)
 
     def _barras(self, ufs: dict, ref: str) -> dict:
         from .mapas import _ufs
@@ -446,59 +369,327 @@ class PainelSarampoBrasil(PainelVigilancia):
         return True
 
 
-class PainelEbolaRDC(PainelVigilancia):
-    """Ebola na RDC/Uganda com dados ECDC."""
+
+def _semana_media(regs: list[dict]) -> list[dict]:
+    """Média semanal de novos casos/óbitos entre publicações consecutivas (pela data de corte dos dados)."""
+    pontos = []
+    for a, b in zip(regs, regs[1:]):
+        da = date.fromisoformat(a.get("dados_ate") or a["data_referencia"])
+        db = date.fromisoformat(b.get("dados_ate") or b["data_referencia"])
+        dias = (db - da).days
+        if dias <= 0:
+            continue
+        pontos.append({"inicio": da, "fim": db, "dias": dias,
+                       "casos_sem": (b["casos"] - a["casos"]) * 7 / dias,
+                       "obitos_sem": (b["obitos"] - a["obitos"]) * 7 / dias})
+    return pontos
+
+
+class PainelEbolaECDC(PainelVigilancia):
+    """Ebola (vírus Bundibugyo) na RDC com números oficiais do ECDC."""
 
     def __init__(self):
-        super().__init__(
-            nome="Ebola - RDC/Uganda",
-            sigla="EBOLA",
-            descricao="Surto de Ebola (Bundibugyo) em vigilância internacional"
-        )
+        super().__init__(nome="Ebola na RDC, 2026", sigla="EBOLA",
+                         descricao="Doença pelo vírus Bundibugyo na República Democrática do Congo, segundo o ECDC")
+        self.dados["aba"] = "Ebola"
+
+    def _acumulados(self, regs):
+        x = [r["data_referencia"] for r in regs]
+        fontes = [[r.get("fonte", "")] for r in regs]
+        fig = go.Figure()
+        for chave, nome, cor in (("casos", "Casos confirmados", NAVY), ("obitos", "Óbitos entre confirmados", "#A3262A")):
+            fig.add_trace(go.Scatter(x=x, y=[r[chave] for r in regs], name=nome, mode="lines+markers",
+                                     line=dict(color=cor, width=3), marker=dict(size=7), customdata=fontes,
+                                     hovertemplate="%{x|%d/%m/%Y}<br><b>%{y:,}</b> " + nome.lower() +
+                                                   "<br><i>%{customdata[0]}</i><extra></extra>"))
+        fig.update_layout(**LAYOUT_BASE, height=380, margin=dict(l=60, r=20, t=80, b=40), hovermode="x unified",
+                          title=dict(text="<b>Casos e óbitos acumulados</b><br><sup>confirmados, por data de publicação</sup>",
+                                     font=dict(size=15, color=NAVY)),
+                          legend=dict(orientation="h", y=-0.15, x=0, font=dict(size=11)),
+                          xaxis=dict(tickformat="%d/%m", hoverformat="%d/%m/%Y", showgrid=False),
+                          separators=",.", yaxis=dict(gridcolor="#EEE9DD", tickformat=",.0f", rangemode="tozero"))
+        f = fig.to_dict()
+        return {"data": f["data"], "layout": f["layout"], "div_id": "acum_ebola", "largura": "inteira",
+                "config": {"displayModeBar": False}}
+
+    def _novos(self, medias):
+        from datetime import timedelta
+        rot = [f"{m['inicio']:%d/%m} a {m['fim']:%d/%m}" for m in medias]
+        fig = go.Figure(go.Bar(x=[(m["inicio"] + timedelta(days=m["dias"] / 2)).isoformat() for m in medias],
+                               width=[m["dias"] * 86400000 * 0.9 for m in medias],
+                               y=[round(m["casos_sem"]) for m in medias],
+                               marker=dict(color=NAVY), customdata=[[r, m["dias"]] for r, m in zip(rot, medias)],
+                               hovertemplate="%{customdata[0]} (%{customdata[1]} dias)<br><b>%{y:,}</b> novos casos por semana"
+                                             "<extra></extra>"))
+        fig.update_layout(**LAYOUT_BASE, height=360, margin=dict(l=50, r=20, t=80, b=40), showlegend=False,
+                          title=dict(text="<b>Novos casos por semana</b><br><sup>média entre publicações consecutivas do ECDC</sup>",
+                                     font=dict(size=15, color=NAVY)),
+                          xaxis=dict(tickformat="%d/%m", showgrid=False),
+                          yaxis=dict(gridcolor="#EEE9DD", separatethousands=True, rangemode="tozero"), bargap=0.3)
+        f = fig.to_dict()
+        return {"data": f["data"], "layout": f["layout"], "div_id": "novos_ebola", "largura": "meia",
+                "config": {"displayModeBar": False}}
+
+    def _zonas(self, regs):
+        rz = [r for r in regs if r.get("zs_afetadas")]
+        fig = go.Figure(go.Scatter(
+            x=[r["data_referencia"] for r in rz], y=[r["zs_afetadas"] for r in rz], mode="lines+markers+text",
+            line=dict(color=OURO, width=3, shape="hv"), marker=dict(size=8, color=OURO),
+            text=[str(r["zs_afetadas"]) for r in rz], textposition="top center", textfont=dict(color="#7A6112", size=11),
+            customdata=[[r.get("zs_total") or "", r.get("n_provincias") or ""] for r in rz],
+            hovertemplate="%{x|%d/%m/%Y}<br><b>%{y}</b> de %{customdata[0]} zonas de saúde<br>%{customdata[1]} províncias"
+                          "<extra></extra>"))
+        prov = [(r["data_referencia"], r["n_provincias"]) for r in rz if r.get("n_provincias")]
+        mudancas = [p for i, p in enumerate(prov) if i == 0 or p[1] != prov[i - 1][1]]
+        for d, n in mudancas:
+            fig.add_annotation(x=d, y=0, yref="paper", text=f"{n} prov.", showarrow=False, yanchor="bottom",
+                               font=dict(size=10, color=CINZA_TXT), bgcolor="rgba(255,255,255,.8)")
+        topo = max(r["zs_afetadas"] for r in rz)
+        fig.update_layout(**LAYOUT_BASE, height=360, margin=dict(l=50, r=20, t=80, b=40), showlegend=False,
+                          title=dict(text="<b>Zonas de saúde afetadas</b><br><sup>e número de províncias com casos</sup>",
+                                     font=dict(size=15, color=NAVY)),
+                          xaxis=dict(tickformat="%d/%m", showgrid=False),
+                          yaxis=dict(gridcolor="#EEE9DD", range=[0, topo * 1.25]))
+        f = fig.to_dict()
+        return {"data": f["data"], "layout": f["layout"], "div_id": "zonas_ebola", "largura": "meia",
+                "config": {"displayModeBar": False}}
+
+    def _provincias(self, reg):
+        itens = sorted(reg["provincias"].items(), key=lambda kv: kv[1]["casos"])
+        nomes = [k for k, _ in itens]
+        fig = go.Figure(go.Bar(
+            y=nomes, x=[v["casos"] for _, v in itens], orientation="h", marker=dict(color=NAVY),
+            text=[f"{v['casos']:,} casos · {v['obitos']:,} óbito{'s' if v['obitos'] != 1 else ''} · {v['zs_afetadas']}/{v['zs_total']} ZS".replace(",", ".")
+                  for _, v in itens],
+            textposition="outside", cliponaxis=False,
+            hovertemplate="<b>%{y}</b><br>%{x:,} casos confirmados<extra></extra>"))
+        fig.update_layout(**LAYOUT_BASE, height=60 + 42 * len(itens), margin=dict(l=10, r=20, t=80, b=40), showlegend=False,
+                          title=dict(text=f"<b>Casos confirmados por província</b><br><sup>até {_data_br(reg['data_referencia'])}; "
+                                          "ZS = zonas de saúde afetadas / total da província</sup>",
+                                     font=dict(size=15, color=NAVY)),
+                          xaxis=dict(type="log", title="casos confirmados (escala logarítmica)", gridcolor="#EEE9DD",
+                                     range=[0, 5.45], tickvals=[1, 10, 100, 1000, 10000],
+                                     ticktext=["1", "10", "100", "1.000", "10.000"]),
+                          yaxis=dict(automargin=True), bargap=0.35)
+        f = fig.to_dict()
+        return {"data": f["data"], "layout": f["layout"], "div_id": "prov_ebola", "largura": "inteira",
+                "config": {"displayModeBar": False}}
 
     def coletar(self) -> bool:
-        """Coleta dados de Ebola de relatórios ECDC."""
+        from . import ebola_ecdc
         try:
-            # ECDC publica relatórios vivos sobre Ebola
-            # Para este exemplo, usamos dados conhecidos atualizado
-
-            self.dados["fonte_dados"] = "ECDC - Situação em tempo real"
-            self.dados["serie_temporal"] = [
-                {"data": "2026-10-10", "casos_rdc": 9100, "casos_uganda": 5, "obitos": 4400},
-                {"data": "2026-10-15", "casos_rdc": 9300, "casos_uganda": 7, "obitos": 4500},
-                {"data": "2026-10-18", "casos_rdc": 9455, "casos_uganda": 7, "obitos": 4561},
-            ]
-            self.dados["distribuicao_geografica"] = [
-                {"país": "RDC", "casos": 9455, "obitos": 4561, "proporção": 99.9},
-                {"país": "Uganda", "casos": 7, "obitos": 4, "proporção": 0.1},
-            ]
-            self.dados["indicadores"] = {
-                "casos_confirmados": 9462,
-                "obitos": 4565,
-                "taxa_letalidade": 48.2,
-                "tendencia": "em queda gradual",
-            }
-
-            self.salvar()
-            return True
+            regs = ebola_ecdc.registros()
         except Exception as e:
-            log.warning(f"Erro ao coletar Ebola: {e}")
+            log.warning(f"Erro ao reunir registros do Ebola: {e}")
             return False
+        if not regs:
+            return False
+        atual = regs[-1]
+        com_prov = next((r for r in reversed(regs) if r.get("provincias")), None)
+        ref = _data_br(atual["data_referencia"])
+        letal = atual["obitos"] / atual["casos"] * 100
+        fmt = lambda n: f"{n:,}".replace(",", ".")
+        self.dados["descricao"] = (f"Doença pelo vírus Bundibugyo na República Democrática do Congo. Casos e óbitos confirmados "
+                                   f"segundo o ECDC, até {ref}.")
+        self.dados["kpis"] = [
+            {"valor": fmt(atual["casos"]), "rotulo": "casos confirmados"},
+            {"valor": fmt(atual["obitos"]), "rotulo": "óbitos entre confirmados"},
+            {"valor": f"{letal:.1f}%".replace(".", ","), "rotulo": "letalidade entre confirmados"},
+            {"valor": f"{atual['zs_afetadas']}/{atual['zs_total']}" if atual.get("zs_afetadas") else "n/d",
+             "rotulo": f"zonas de saúde afetadas ({atual.get('n_provincias') or '?'} províncias)"},
+        ]
+        if atual.get("quenia"):
+            q = atual["quenia"]
+            self.dados["kpis"].append({"valor": fmt(q["casos"]),
+                                       "rotulo": f"casos confirmados no Quênia ({q['obitos']} óbito{'s' if q['obitos'] != 1 else ''})"})
+        medias = _semana_media(regs)
+        self.dados["graficos"] = [g for g in (
+            self._acumulados(regs),
+            self._novos(medias) if medias else None,
+            self._zonas(regs) if sum(1 for r in regs if r.get("zs_afetadas")) > 1 else None,
+            self._provincias(com_prov) if com_prov else None,
+        ) if g]
+
+        notas = []
+        if len(medias) >= 2:
+            a, b = medias[-2], medias[-1]
+            var = (b["casos_sem"] - a["casos_sem"]) / a["casos_sem"] * 100 if a["casos_sem"] else 0
+            notas.append(f"Média de novos casos confirmados por semana: {fmt(round(b['casos_sem']))} entre "
+                         f"{b['inicio']:%d/%m} e {b['fim']:%d/%m}, ante {fmt(round(a['casos_sem']))} entre "
+                         f"{a['inicio']:%d/%m} e {a['fim']:%d/%m} ({var:+.0f}%). Cálculo a partir dos acumulados "
+                         f"publicados pelo ECDC.".replace("+-", "-"))
+        rz = [r for r in regs if r.get("zs_afetadas")]
+        if len(rz) > 1:
+            p0, p1 = rz[0], rz[-1]
+            notas.append(f"Expansão geográfica: as zonas de saúde afetadas passaram de {p0['zs_afetadas']} "
+                         f"({_data_br(p0['data_referencia'])}) para {p1['zs_afetadas']} ({_data_br(p1['data_referencia'])}), "
+                         f"e as províncias com casos, de {p0.get('n_provincias')} para {p1.get('n_provincias')}.")
+        q = atual.get("quenia")
+        if q:
+            notas.append(f"Quênia: {q['casos']} casos confirmados, incluindo {q['obitos']} óbito{'s' if q['obitos'] != 1 else ''} "
+                         f"(ECDC, até {ref}); o primeiro caso foi importado da RDC.")
+        if atual.get("novos_casos") is not None:
+            notas.append(f"Na última atualização do ECDC: {fmt(atual['novos_casos'])} novos casos confirmados e "
+                         f"{fmt(atual['novos_obitos'])} óbitos.")
+        notas.append("Segundo o ECDC, os dados da RDC sobre casos e óbitos confirmados estão em revisão e harmonização contínuas.")
+        self.dados["notas"] = notas
+        vistas, fontes = set(), []
+        for r in reversed(regs):
+            nome = "ECDC, página do surto (atualizada nos dias úteis)" if r.get("captura") == "automática" else r.get("fonte")
+            if r.get("url") and r["url"] not in vistas and len(fontes) < 3:
+                vistas.add(r["url"])
+                fontes.append({"nome": nome, "url": r["url"]})
+        self.dados["fontes"] = fontes
+        self.dados["fonte_dados"] = "ECDC"
+        self.dados["registros"] = regs
+        self.salvar()
+        return True
+
+
+
+NIVEIS_ORDEM = ["Segurança", "Baixo risco", "Alerta", "Risco", "Alto risco", "Sem classificação"]
+CORES_NIVEL = {"Segurança": "#CFE6D6", "Baixo risco": "#F1E3A6", "Alerta": "#E7AE3C", "Risco": "#D4602A",
+               "Alto risco": "#9E2424", "Sem classificação": CINZA_UF}
+CORES_VIRUS = {"SARS2": ("SARS-CoV-2", "#A3262A"), "VSR": ("VSR", NAVY), "FLU_A": ("Influenza A", OURO),
+               "FLU_B": ("Influenza B", "#2F7F7A"), "RINO": ("Rinovírus", "#8C96A6"), "METAP": ("Metapneumovírus", "#6F8FBF")}
+
+
+def _fmt(n: float) -> str:
+    return f"{round(n):,}".replace(",", ".")
+
+
+class PainelSRAG(PainelVigilancia):
+    """SRAG no Brasil e no DF com dados do InfoGripe (Fiocruz e Ministério da Saúde)."""
+
+    def __init__(self):
+        super().__init__(nome="SRAG no Brasil", sigla="SRAG",
+                         descricao="Síndrome respiratória aguda grave, segundo o InfoGripe")
+        self.dados["aba"] = "SRAG"
+
+    @staticmethod
+    def _serie(s: list[dict], titulo: str, div_id: str, largura: str, altura: int) -> dict:
+        x = [d["inicio"] for d in s]
+        rot = [f"SE {d['se']}/{d['ano']}" for d in s]
+        ultimas = [d for d in s if d["ic95i"] is not None]
+        fig = go.Figure()
+        fig.add_trace(go.Bar(x=x, y=[d["notificados"] for d in s], name="Notificados até a atualização",
+                             marker=dict(color="#C9D3E3"), customdata=rot,
+                             hovertemplate="%{customdata}<br>%{y:,.0f} notificados<extra></extra>"))
+        if ultimas:
+            xs = [d["inicio"] for d in ultimas]
+            fig.add_trace(go.Scatter(x=xs + xs[::-1], y=[d["ic95s"] for d in ultimas] + [d["ic95i"] for d in ultimas][::-1],
+                                     fill="toself", fillcolor="rgba(10,53,112,.15)", line=dict(width=0), mode="lines",
+                                     name="IC 95% da estimativa", hoverinfo="skip"))
+        fig.add_trace(go.Scatter(x=x, y=[d["estimados"] for d in s], name="Casos estimados (nowcasting)", mode="lines",
+                                 line=dict(color=NAVY, width=3), customdata=[[r, d["ic95i"] or d["estimados"], d["ic95s"] or d["estimados"]]
+                                                                              for r, d in zip(rot, s)],
+                                 hovertemplate="%{customdata[0]}<br><b>%{y:,.0f}</b> estimados"
+                                               "<br>IC 95%: %{customdata[1]:,.0f} a %{customdata[2]:,.0f}<extra></extra>"))
+        fig.update_layout(**LAYOUT_BASE, title=dict(text=titulo, font=dict(size=15, color=NAVY)), height=altura,
+                          margin=dict(l=55, r=20, t=80, b=40), hovermode="x unified", bargap=0.15,
+                          legend=dict(orientation="h", y=-0.12, x=0, font=dict(size=11)),
+                          separators=",.",
+                          xaxis=dict(tickformat="%d/%m/%y", showgrid=False, hoverformat="%d/%m/%Y"),
+                          yaxis=dict(gridcolor="#EEE9DD", rangemode="tozero", separatethousands=True))
+        f = fig.to_dict()
+        return {"data": f["data"], "layout": f["layout"], "div_id": div_id, "largura": largura,
+                "config": {"displayModeBar": False}}
+
+    @staticmethod
+    def _virus(v: dict) -> dict:
+        fig = go.Figure()
+        for chave, (nome, cor) in CORES_VIRUS.items():
+            s = v.get(chave)
+            if not s:
+                continue
+            fig.add_trace(go.Scatter(x=[d["inicio"] for d in s], y=[d["estimados"] for d in s], name=nome, mode="lines",
+                                     line=dict(color=cor, width=2.5), customdata=[f"SE {d['se']}/{d['ano']}" for d in s],
+                                     hovertemplate="%{customdata}: <b>%{y:,.0f}</b> " + nome + "<extra></extra>"))
+        fig.update_layout(**LAYOUT_BASE, height=380, margin=dict(l=55, r=20, t=80, b=40), hovermode="x unified",
+                          title=dict(text="<b>Casos de SRAG por vírus, Brasil</b><br><sup>casos estimados por semana de início "
+                                          "de sintomas, últimas 26 semanas</sup>", font=dict(size=15, color=NAVY)),
+                          legend=dict(orientation="h", y=-0.12, x=0, font=dict(size=11)), separators=",.",
+                          xaxis=dict(tickformat="%d/%m/%y", showgrid=False, hoverformat="%d/%m/%Y"),
+                          yaxis=dict(gridcolor="#EEE9DD", rangemode="tozero", separatethousands=True))
+        f = fig.to_dict()
+        return {"data": f["data"], "layout": f["layout"], "div_id": "virus_srag", "largura": "inteira",
+                "config": {"displayModeBar": False}}
+
+    def coletar(self) -> bool:
+        from . import infogripe as ig
+        d = ig.coletar()
+        if not d:
+            return False
+        br, df = d["br"], d["df"]
+        ub, ud = br[-1], df[-1] if df else None
+        lp_val, lp_txt = ig.TENDENCIA.get(ub["tend_lp"], ("n/d", "sem classificação"))
+        cp_val, cp_txt = ig.TENDENCIA.get(ub["tend_cp"], ("n/d", "sem classificação"))
+        niveis = d["niveis"]
+        se_nivel = max((n["se"] for n in niveis.values()), default=None)
+        em_alerta = sorted(s for s, n in niveis.items() if n["nivel"] in ("Alerta", "Risco", "Alto risco"))
+
+        self.dados["nome"] = f"SRAG no Brasil e no Distrito Federal"
+        self.dados["descricao"] = (f"Casos de síndrome respiratória aguda grave por semana de início de sintomas, "
+                                   f"segundo o InfoGripe. Última semana: SE {ub['se']}/{ub['ano']} "
+                                   f"({_data_br(ub['inicio'])[:5]} a {_data_br(ub['fim'])}).")
+        self.dados["kpis"] = [
+            {"valor": _fmt(ub["estimados"]),
+             "rotulo": f"casos estimados no Brasil, SE {ub['se']}; IC 95%: {_fmt(ub['ic95i'])} a {_fmt(ub['ic95s'])}"},
+            {"valor": lp_val, "rotulo": f"longo prazo, Brasil: {lp_txt.split(' (')[0]}"},
+            {"valor": cp_val, "rotulo": f"curto prazo, Brasil: {cp_txt.split(' (')[0]}"},
+        ]
+        if ud:
+            df_lp = ig.TENDENCIA.get(ud["tend_lp"], ("n/d", ""))[0].lower()
+            self.dados["kpis"].append({"valor": _fmt(ud["estimados"]),
+                                       "rotulo": f"casos estimados no DF, SE {ud['se']}; longo prazo: {df_lp}"})
+        self.dados["kpis"].append({"valor": str(len(em_alerta)),
+                                   "rotulo": f"UFs em alerta ou risco ({', '.join(em_alerta) or 'nenhuma'})"})
+
+        classes = {}
+        for sigla in ufs_brasil():
+            n = niveis.get(sigla)
+            nivel = n["nivel"] if n else "Sem classificação"
+            classes[sigla] = (nivel, CORES_NIVEL.get(nivel, CINZA_UF), f"nível de atividade: {nivel.lower()}")
+        mapa = mapa_ufs(classes, NIVEIS_ORDEM, f"<b>Nível de atividade de SRAG por UF</b><br><sup>SE {se_nivel}/{ub['ano']}, "
+                                               f"segundo o InfoGripe</sup>", "mapa_srag",
+                        {s: f"<b>{s}</b>" for s in em_alerta})
+        self.dados["graficos"] = [
+            self._serie(br, "<b>Casos semanais de SRAG, Brasil</b><br><sup>por semana de início de sintomas, últimas 52 semanas</sup>",
+                        "serie_srag_br", "inteira", 400),
+            mapa,
+            self._serie(df[-26:], "<b>Casos semanais de SRAG, DF</b><br><sup>Distrito Federal, últimas 26 semanas</sup>",
+                        "serie_srag_df", "meia", 460) if df else None,
+            self._virus(d["virus_br"]) if d["virus_br"] else None,
+        ]
+        self.dados["graficos"] = [g for g in self.dados["graficos"] if g]
+        sem_nivel = sorted(s for s in ufs_brasil() if s not in niveis)
+        self.dados["notas"] = [
+            "As semanas mais recentes têm notificação incompleta; a linha mostra a estimativa do InfoGripe corrigida pelo atraso "
+            "de digitação (nowcasting), com intervalo de 95%.",
+            "Tendência, conforme nota técnica do InfoGripe: probabilidade de crescimento ou de queda dos casos semanais nas últimas "
+            "6 semanas (longo prazo) ou 3 semanas (curto prazo); leve a partir de 75%, alta a partir de 95%.",
+            "Nível de atividade: compara a incidência de SRAG das duas últimas semanas com a série histórica do período posterior "
+            "à vacinação contra a COVID-19."
+            + (f" Sem classificação nesta semana: {', '.join(sem_nivel)}." if sem_nivel else ""),
+        ]
+        self.dados["fontes"] = [
+            {"nome": "InfoGripe (Fiocruz e GT-Influenza/Ministério da Saúde)", "url": "http://info.gripe.fiocruz.br"},
+            {"nome": "dados abertos do InfoGripe", "url": ig.URL_REPO},
+            {"nome": "nota técnica sobre os indicadores de tendência", "url": ig.URL_NOTA_TENDENCIA},
+        ]
+        self.dados["fonte_dados"] = "InfoGripe"
+        self.salvar()
+        return True
 
 
 def gerar_paineis() -> None:
     """Gera todos os painéis de vigilância."""
     log.info("Gerando painéis de vigilância...")
-    try:  # sondagem temporária das fontes (remover depois)
-        from . import sondagem
-        sondagem.sondar()
-    except Exception as e:
-        log.warning(f"Sondagem falhou: {e}")
 
     paineis = [
-        # PainelSRAGBrasil(): retirado em 22/10/2026, série sem fonte; será refeito com o InfoGripe
+        PainelSRAG(),
         PainelSarampoBrasil(),
-        # PainelEbolaRDC(): retirado em 22/10/2026, tinha números e tendência sem fonte
+        PainelEbolaECDC(),
     ]
 
     sucesso = 0
