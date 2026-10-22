@@ -214,6 +214,7 @@ fontes:
   # G1: busca no índice do Google Notícias restrita ao g1.globo.com (os RSS de editoria do G1
   # devolvem matérias antigas). Só entram as notícias com relevância pelos critérios de pontuação.
   - id: g1-busca
+    ativo: false  # desativado em 22/10/2026: trazia muitos alertas de tempo e passava de metade do feed
     nome: "G1 | Busca de saúde e eventos"
     sigla: "G1"
     tipo: google_news
