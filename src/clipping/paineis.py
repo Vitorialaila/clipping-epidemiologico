@@ -8,7 +8,6 @@ from typing import Any
 
 import requests
 import plotly.graph_objects as go
-import plotly.express as px
 from .util import log, ler_json, salvar_json
 
 PAINEIS_DIR = Path(__file__).parent.parent.parent / "data" / "paineis"
