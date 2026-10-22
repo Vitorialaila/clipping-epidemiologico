@@ -1,9 +1,9 @@
 {
- "quando": "2026-10-22T14:50",
- "ok": false,
- "motivo": "texto da página não reconhecido",
+ "quando": "2026-10-22T14:52",
+ "ok": true,
+ "motivo": "ok",
  "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/sarampo/situacao-epidemiologica",
- "http": 200,
- "tamanho": 129761,
- "trecho": "Pernambuco e 14 (87,5%) em São Paulo. Em 2020 foram registrados 10 (25,0%) óbitos sendo, 8 (80,0%) no Pará, 1 (10,0%) no Rio de Janeiro e 1 (10,0%) em São Paulo. Em 2021 , foi o último ano com registro de óbitos por sarampo no país, foram contabilizados 2 (5,0%) óbitos no estado do Amapá. Em 2024 , foram confirmados 5 casos, sendo 1 (20,0%) caso no estado de Minas Gerais, 1 (20,0%) no Rio Grande do Sul, e 2 (40,0%) no estado de São Paulo, todos foram casos importados e 1 (20,0%) caso confirmado no estado do Rio de Janeiro com fonte de infecção desconhecida. Em 2025 , foram confirmados 38 casos no Brasil, sendo 2 (5,3%) casos no estado do Rio de Janeiro com fonte de infecção desconhecida; 1 (2,6%) caso importado no Distrito Federal, genótipo identificado foi o D8 e a linhagem foi 100% de identidade genômica detectadas nas regiões do Pacífico Ocidental; 2 (5,3%) casos em São Paulo, 1 caso importado e 1 caso relacionado a importação, genótipo identificado foi B3 e linhagem foi 100% de identidade genômica com a cepa nomeada MVs/New South Wales.AUS/10.24; 1 (2,6%) caso em Rio Grande do Sul, genótipo identificado foi B3 e a linhagem identificada foi 100% de identidade genômica com a cepa"
+ "se": 41,
+ "casos": 61,
+ "ufs": null
 }

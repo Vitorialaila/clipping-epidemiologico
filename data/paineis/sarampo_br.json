@@ -1,9 +1,9 @@
 {
  "nome": "Sarampo no Brasil, 2026",
  "sigla": "SARAMPO_BR",
- "descricao": "Casos confirmados de sarampo no Brasil em 2026, segundo o Ministério da Saúde. Dados até 05/10/2026 (SE 40).",
- "atualizado_em": "2026-10-22T14:50:36.760257",
- "fonte_dados": "Ministério da Saúde, notícia de 06/10/2026; Ministério da Saúde, Situação Epidemiológica do Sarampo",
+ "descricao": "Casos confirmados de sarampo no Brasil em 2026, segundo o Ministério da Saúde. Dados até 17/10/2026 (SE 41).",
+ "atualizado_em": "2026-10-22T14:52:09.196951",
+ "fonte_dados": "Ministério da Saúde, Situação Epidemiológica do Sarampo; Ministério da Saúde, notícia de 06/10/2026",
  "serie_temporal": [],
  "distribuicao_geografica": [],
  "indicadores": {},
@@ -11,11 +11,11 @@
  "aba": "Sarampo Brasil",
  "kpis": [
   {
-   "valor": "52",
+   "valor": "61",
    "rotulo": "casos confirmados em 2026"
   },
   {
-   "valor": "0",
+   "valor": "2026",
    "rotulo": "óbitos"
   },
   {
@@ -23,8 +23,8 @@
    "rotulo": "UFs com casos"
   },
   {
-   "valor": "SE 40",
-   "rotulo": "dados até 05/10/2026"
+   "valor": "SE 41",
+   "rotulo": "dados até 17/10/2026"
   }
  ],
  "graficos": [
@@ -15770,6 +15770,9 @@
       ],
       [
        "Ministério da Saúde, notícia de 06/10/2026"
+      ],
+      [
+       "Ministério da Saúde, Situação Epidemiológica do Sarampo"
       ]
      ],
      "hovertemplate": "<b>%{x}</b><br>%{y} casos acumulados<br><i>%{customdata[0]}</i><extra></extra>",
@@ -15784,7 +15787,8 @@
      "mode": "lines+markers+text",
      "text": [
       "42",
-      "52"
+      "52",
+      "61"
      ],
      "textfont": {
       "color": "#0A3570",
@@ -15793,11 +15797,13 @@
      "textposition": "top center",
      "x": [
       "SE 38<br><sup>26/09</sup>",
-      "SE 40<br><sup>05/10</sup>"
+      "SE 40<br><sup>05/10</sup>",
+      "SE 41<br><sup>17/10</sup>"
      ],
      "y": [
       42,
-      52
+      52,
+      61
      ],
      "type": "scatter"
     }
@@ -16600,7 +16606,7 @@
      "zeroline": false,
      "range": [
       0,
-      65.0
+      76.25
      ]
     },
     "paper_bgcolor": "rgba(0,0,0,0)",
@@ -16621,12 +16627,12 @@
  ],
  "fontes": [
   {
-   "nome": "Ministério da Saúde, notícia de 06/10/2026",
-   "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/brasil-intensifica-acoes-contra-o-sarampo-diante-de-surto-nos-eua-e-avanco-da-doenca-nas-americas"
-  },
-  {
    "nome": "Ministério da Saúde, Situação Epidemiológica do Sarampo",
    "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/sarampo/situacao-epidemiologica"
+  },
+  {
+   "nome": "Ministério da Saúde, notícia de 06/10/2026",
+   "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/brasil-intensifica-acoes-contra-o-sarampo-diante-de-surto-nos-eua-e-avanco-da-doenca-nas-americas"
   }
  ],
  "registros": [
@@ -16658,6 +16664,17 @@
    "nota": "A notícia descreve os 52 casos como importados; a página de situação epidemiológica (SE 38) classificava a maior parte dos casos de SP como de fonte de infecção desconhecida.",
    "captura": "manual",
    "se": 40
+  },
+  {
+   "data_referencia": "2026-10-17",
+   "se": 41,
+   "casos": 61,
+   "obitos": 2026,
+   "ufs": null,
+   "fonte": "Ministério da Saúde, Situação Epidemiológica do Sarampo",
+   "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/sarampo/situacao-epidemiologica",
+   "captura": "automática",
+   "capturado_em": "2026-10-22"
   }
  ]
 }
