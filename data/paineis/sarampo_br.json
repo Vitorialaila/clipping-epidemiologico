@@ -2,7 +2,7 @@
  "nome": "Sarampo no Brasil, 2026",
  "sigla": "SARAMPO_BR",
  "descricao": "Casos confirmados de sarampo no Brasil em 2026, segundo o Ministério da Saúde. Dados até 17/10/2026 (SE 41).",
- "atualizado_em": "2026-10-22T14:52:09.196951",
+ "atualizado_em": "2026-10-22T14:53:33.368632",
  "fonte_dados": "Ministério da Saúde, Situação Epidemiológica do Sarampo; Ministério da Saúde, notícia de 06/10/2026",
  "serie_temporal": [],
  "distribuicao_geografica": [],
@@ -15,7 +15,7 @@
    "rotulo": "casos confirmados em 2026"
   },
   {
-   "valor": "2026",
+   "valor": "0",
    "rotulo": "óbitos"
   },
   {
@@ -16669,7 +16669,7 @@
    "data_referencia": "2026-10-17",
    "se": 41,
    "casos": 61,
-   "obitos": 2026,
+   "obitos": null,
    "ufs": null,
    "fonte": "Ministério da Saúde, Situação Epidemiológica do Sarampo",
    "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/sarampo/situacao-epidemiologica",
