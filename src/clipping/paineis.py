@@ -62,16 +62,19 @@ class PainelVigilancia:
             # Gráfico de série temporal
             fig = go.Figure()
 
-            # Casos
-            if "casos" in serie[0]:
-                casos = [d.get("casos", 0) for d in serie]
+            # Casos (uma linha por chave casos*, ex.: casos_rdc, casos_uganda)
+            cores = ["#0A3570", "#B8921A", "#2F7F7A"]
+            chaves_casos = [k for k in serie[0] if k.startswith("casos")]
+            for i, chave in enumerate(chaves_casos):
+                casos = [d.get(chave, 0) for d in serie]
+                rotulo = "Casos" if chave == "casos" else "Casos " + {"americas": "Américas", "rdc": "RDC", "uganda": "Uganda"}.get(chave.split("_", 1)[1], chave.split("_", 1)[1])
                 fig.add_trace(go.Scatter(
                     x=x, y=casos,
-                    name="Casos",
+                    name=rotulo,
                     mode="lines+markers",
-                    line=dict(color="#0A3570", width=3),
+                    line=dict(color=cores[i % len(cores)], width=3),
                     marker=dict(size=8),
-                    hovertemplate="<b>%{x}</b><br>Casos: %{y}<extra></extra>"
+                    hovertemplate="<b>%{x}</b><br>" + rotulo + ": %{y}<extra></extra>"
                 ))
 
             # Óbitos
@@ -247,7 +250,7 @@ class PainelSarampo(PainelVigilancia):
                 {"país": "Outros", "casos": 600, "proporção": 19},
             ]
             self.dados["indicadores"] = {
-                "casos_confirma dos": 3250,
+                "casos_confirmados": 3250,
                 "obitos": 8,
                 "paises_afetados": 5,
                 "cobertura_d1_global": 85.5,
@@ -327,4 +330,5 @@ def listar_paineis() -> list[dict]:
             paineis.append(p)
         except Exception as e:
             log.warning(f"Erro ao ler {arq}: {e}")
-    return sorted(paineis, key=lambda p: p.get("nome", ""))
+    ordem = {"SRAG": 0, "SARAMPO": 1, "EBOLA": 2}
+    return sorted(paineis, key=lambda p: (ordem.get(p.get("sigla", ""), 99), p.get("nome", "")))

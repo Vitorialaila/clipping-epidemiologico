@@ -2,7 +2,7 @@
  "nome": "Sarampo",
  "sigla": "SARAMPO",
  "descricao": "Vigilância global de sarampo com foco em Américas",
- "atualizado_em": "2026-10-22T17:34:17.790344",
+ "atualizado_em": "2026-10-22T17:37:41.769979",
  "fonte_dados": "OMS/PAHO - Dados consolidados 2026",
  "serie_temporal": [
   {
@@ -39,7 +39,7 @@
   }
  ],
  "indicadores": {
-  "casos_confirma dos": 3250,
+  "casos_confirmados": 3250,
   "obitos": 8,
   "paises_afetados": 5,
   "cobertura_d1_global": 85.5
@@ -47,6 +47,27 @@
  "grafico_html": "",
  "grafico_serie": {
   "data": [
+   {
+    "hovertemplate": "<b>%{x}</b><br>Casos Américas: %{y}<extra></extra>",
+    "line": {
+     "color": "#0A3570",
+     "width": 3
+    },
+    "marker": {
+     "size": 8
+    },
+    "mode": "lines+markers",
+    "name": "Casos Américas",
+    "x": [
+     "Set 2026",
+     "Out 2026"
+    ],
+    "y": [
+     2800,
+     3250
+    ],
+    "type": "scatter"
+   },
    {
     "hovertemplate": "<b>%{x}</b><br>Óbitos: %{y}<extra></extra>",
     "line": {

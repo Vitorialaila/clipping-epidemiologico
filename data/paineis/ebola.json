@@ -2,7 +2,7 @@
  "nome": "Ebola - RDC/Uganda",
  "sigla": "EBOLA",
  "descricao": "Surto de Ebola (Bundibugyo) em vigilância internacional",
- "atualizado_em": "2026-10-22T17:34:17.823726",
+ "atualizado_em": "2026-10-22T17:37:41.802093",
  "fonte_dados": "ECDC - Situação em tempo real",
  "serie_temporal": [
   {
@@ -47,6 +47,52 @@
  "grafico_html": "",
  "grafico_serie": {
   "data": [
+   {
+    "hovertemplate": "<b>%{x}</b><br>Casos RDC: %{y}<extra></extra>",
+    "line": {
+     "color": "#0A3570",
+     "width": 3
+    },
+    "marker": {
+     "size": 8
+    },
+    "mode": "lines+markers",
+    "name": "Casos RDC",
+    "x": [
+     "2026-10-10",
+     "2026-10-15",
+     "2026-10-18"
+    ],
+    "y": [
+     9100,
+     9300,
+     9455
+    ],
+    "type": "scatter"
+   },
+   {
+    "hovertemplate": "<b>%{x}</b><br>Casos Uganda: %{y}<extra></extra>",
+    "line": {
+     "color": "#B8921A",
+     "width": 3
+    },
+    "marker": {
+     "size": 8
+    },
+    "mode": "lines+markers",
+    "name": "Casos Uganda",
+    "x": [
+     "2026-10-10",
+     "2026-10-15",
+     "2026-10-18"
+    ],
+    "y": [
+     5,
+     7,
+     7
+    ],
+    "type": "scatter"
+   },
    {
     "hovertemplate": "<b>%{x}</b><br>Óbitos: %{y}<extra></extra>",
     "line": {

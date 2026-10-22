@@ -765,15 +765,16 @@ function renderizarPaineis() {
   // Gerenciar cliques nas abas
   document.querySelectorAll('.paineis-aba').forEach((aba) => {
     aba.addEventListener('click', (e) => {
-      const idx = parseInt(e.target.dataset.painelIdx);
+      const botao = e.currentTarget;
+      const idx = parseInt(botao.dataset.painelIdx);
 
       // Atualizar abas
       document.querySelectorAll('.paineis-aba').forEach((a) => a.classList.remove('ativo'));
-      e.target.classList.add('ativo');
+      botao.classList.add('ativo');
 
       // Atualizar painéis
       document.querySelectorAll('.painel-card-novo').forEach((p) => p.classList.remove('visivel'));
-      document.querySelector(`[data-painel-idx="${idx}"]`).classList.add('visivel');
+      document.querySelector(`.painel-card-novo[data-painel-idx="${idx}"]`).classList.add('visivel');
 
       // Renderizar gráficos do painel selecionado
       setTimeout(() => renderizarGraficosPainel(idx), 50);
