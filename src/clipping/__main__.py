@@ -35,7 +35,7 @@ def main() -> int:
     p.add_argument("--forcar", action="store_true", help="Gera nova versão mesmo se a edição já existir")
     a = p.parse_args()
 
-    from . import coletar, gerar_clipping, gerar_site
+    from . import coletar, gerar_clipping, gerar_site, paineis
 
     if a.etapa in ("boletim-baixar", "boletim"):
         from . import boletim_slides
@@ -43,6 +43,7 @@ def main() -> int:
         if a.etapa == "boletim":
             from . import boletim
             boletim.gerar(a.edicao, a.forcar)
+            paineis.gerar_paineis()
             gerar_site.gerar()
         return 0
 
@@ -59,6 +60,7 @@ def main() -> int:
     if a.etapa == "clipping" or (a.etapa == "tudo" and _pode_gerar_edicao()):
         gerar_clipping.gerar(a.se, a.forcar)
     if a.etapa in ("tudo", "coletar", "clipping", "site", "repontuar"):
+        paineis.gerar_paineis()
         gerar_site.gerar()
     return 0
 

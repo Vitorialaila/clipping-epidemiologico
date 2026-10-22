@@ -269,6 +269,22 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
 .se-bloco .se-rot { font-size: 12px; letter-spacing: .32em; font-weight: 700; color: var(--ouro); padding-left: .32em; }
 .se-bloco .se-num { font-family: var(--serif); font-size: clamp(56px, 8vw, 76px); line-height: .95; color: var(--ouro); }
 .se-bloco .se-ano { font-size: 12px; letter-spacing: .28em; font-weight: 600; color: var(--cinza); padding-left: .28em; }
+
+/* Painéis */
+.paineis-grade { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 24px; margin-top: 32px; }
+.painel-card { background: var(--creme); border: 1px solid var(--linha); border-radius: 8px; padding: 24px; transition: all .3s ease; }
+.painel-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,.08); transform: translateY(-2px); }
+.painel-card .icone { font-size: 40px; margin-bottom: 12px; }
+.painel-card h3 { font-family: var(--serif); font-size: 20px; font-weight: 400; color: var(--navy); margin: 0 0 4px; }
+.painel-card .sigla { font-size: 11px; letter-spacing: .12em; text-transform: uppercase; color: var(--ouro); font-weight: 700; margin-bottom: 12px; display: inline-block; }
+.painel-card p { font-size: 14px; color: var(--cinza); margin: 0 0 16px; line-height: 1.5; }
+.painel-indicadores { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 20px; }
+.painel-indicador { background: #fff; padding: 12px; border-radius: 4px; border-left: 3px solid var(--ouro); }
+.painel-indicador .valor { font-family: var(--serif); font-size: 24px; font-weight: 400; color: var(--navy); }
+.painel-indicador .label { font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--cinza); margin-top: 4px; }
+.painel-graficos { margin-top: 20px; }
+.painel-graficos .grafico { margin-bottom: 16px; padding: 12px; background: #fff; border-radius: 4px; }
+.painel-sem-dados { color: var(--cinza); font-style: italic; padding: 32px 0; text-align: center; }
 </style>
 </head>
 <body>
@@ -293,6 +309,7 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
       <a role="tab" href="#noticias" data-aba="noticias">Notícias</a>
       <a role="tab" href="#destaques" data-aba="destaques">Destaques da semana</a>
       <a role="tab" href="#boletim" data-aba="boletim">Boletim epidemiológico</a>
+      <a role="tab" href="#paineis" data-aba="paineis">Painéis</a>
       <a role="tab" href="#edicoes" data-aba="edicoes">Edições do clipping</a>
     </div>
   </div>
@@ -431,6 +448,13 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
   </div>
 </section>
 
+<section class="painel" id="paineis" role="tabpanel" hidden>
+  <div class="wrap">
+    <div class="cab-secao"><h2>Painéis de vigilância</h2><p>Indicadores de agravos em alerta epidemiológico | atualizado em {{ atualizado }}</p></div>
+    <div id="paineis-container" class="paineis-grade"></div>
+  </div>
+</section>
+
 <section class="painel" id="edicoes" role="tabpanel" hidden>
   <div class="wrap">
     <div class="cab-secao"><h2>Edições do clipping</h2><p>Clipping semanal por semana epidemiológica</p></div>
@@ -530,8 +554,51 @@ document.querySelectorAll(".chip").forEach((b) => b.addEventListener("click", ()
 $("mais").addEventListener("click", () => { estado.limite += POR_PAGINA; render(); });
 render();
 
-// Abas: Notícias (padrão), Destaques da semana, Boletim epidemiológico e Edições do clipping
-const ABAS = ["noticias", "destaques", "boletim", "edicoes"];
+// Renderizar painéis de vigilância
+function renderizarPaineis() {
+  const container = document.getElementById("paineis-container");
+  if (!PAINEIS || PAINEIS.length === 0) {
+    container.innerHTML = '<div class="painel-sem-dados">Nenhum painel disponível no momento.</div>';
+    return;
+  }
+
+  container.innerHTML = PAINEIS.map((painel) => {
+    const ind = painel.indicadores || {};
+    const serie = painel.serie_temporal || [];
+    const dist = painel.distribuicao_geografica || [];
+
+    return `
+      <div class="painel-card">
+        <div class="icone">${painel.icone || '🔍'}</div>
+        <span class="sigla">${esc(painel.sigla)}</span>
+        <h3>${esc(painel.nome)}</h3>
+        <p>${esc(painel.descricao)}</p>
+
+        <div class="painel-indicadores">
+          ${ind.casos_confirmados ? `<div class="painel-indicador"><div class="valor">${ind.casos_confirmados.toLocaleString('pt-BR')}</div><div class="label">Casos confirmados</div></div>` : ''}
+          ${ind.obitos ? `<div class="painel-indicador"><div class="valor">${ind.obitos.toLocaleString('pt-BR')}</div><div class="label">Óbitos</div></div>` : ''}
+          ${ind.taxa_letalidade ? `<div class="painel-indicador"><div class="valor">${ind.taxa_letalidade}%</div><div class="label">Taxa de letalidade</div></div>` : ''}
+          ${ind.paises_afetados || ind.estado_mais_afetado ? `<div class="painel-indicador"><div class="valor">${ind.paises_afetados || 1}</div><div class="label">Países/Regiões</div></div>` : ''}
+        </div>
+
+        ${serie.length > 0 ? `<div class="painel-graficos"><div class="grafico"><small style="color: var(--cinza);">Últimas semanas</small><div style="font-size: 12px; color: var(--cinza); margin-top: 8px;">${serie.length} observações disponíveis</div></div></div>` : ''}
+
+        ${dist.length > 0 ? `<div style="margin-top: 12px;"><small style="color: var(--cinza);">Distribuição geográfica:</small><ul style="list-style: none; padding: 0; margin: 8px 0 0; font-size: 12px;">
+          ${dist.slice(0, 5).map(d => `<li style="padding: 4px 0; color: var(--cinza);">• ${esc(d.pais || d.estado)}: ${d.casos.toLocaleString('pt-BR')} casos</li>`).join('')}
+        </ul></div>` : ''}
+
+        <p style="font-size: 12px; color: var(--cinza); margin-top: 16px; margin-bottom: 0;">Atualizado em ${painel.atualizado_em ? new Date(painel.atualizado_em).toLocaleDateString('pt-BR', {hour: '2-digit', minute: '2-digit'}) : 'data desconhecida'}</p>
+      </div>
+    `;
+  }).join('');
+}
+renderizarPaineis();
+
+// Dados dos painéis (carregado pelo template)
+const PAINEIS = {{ paineis_json|default('[]')|safe }};
+
+// Abas: Notícias (padrão), Destaques da semana, Boletim epidemiológico, Painéis e Edições do clipping
+const ABAS = ["noticias", "destaques", "boletim", "paineis", "edicoes"];
 function mostrarAba(id, rolar) {
   if (!ABAS.includes(id)) id = "noticias";
   document.querySelectorAll(".painel").forEach((p) => { p.hidden = p.id !== id; });

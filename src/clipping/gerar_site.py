@@ -9,7 +9,7 @@ from datetime import date, datetime, timedelta, timezone
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
-from . import boletim, icones, mapas, semana
+from . import boletim, icones, mapas, paineis, semana
 from .pontuar import limiares
 from .util import (ARQ_NOTICIAS, ASSETS, DIR_EDICOES_DADOS, DOCS, NOME_ESCOPO, ORDEM_ESCOPO, TEMPLATES,
                    carregar_yaml, data_curta, data_extenso, ler_json, log, para_data, salvar_json, truncar)
@@ -70,6 +70,9 @@ def gerar() -> None:
     for e in edicoes:
         por_se.setdefault(e["se_codigo"], []).append(e)
 
+    # Carrega painéis de vigilância
+    paineis_lista = paineis.listar_paineis()
+
     env = Environment(loader=FileSystemLoader(TEMPLATES), autoescape=select_autoescape(["html"]))
     html = env.get_template("site.html").render(
         titulo=cfg["publicacao"]["titulo"], subtitulo=cfg["publicacao"].get("subtitulo", ""),
@@ -84,6 +87,7 @@ def gerar() -> None:
         fontes_monitoradas=sorted({f["nome"].split(" | ")[0] for f in cfg["fontes"] if f.get("ativo", True)}),
         icone=icones.svg,
         icones_json=json.dumps({k: re.sub(r"\s+", " ", v) for k, v in icones.ICONES.items()}).replace("</", "<\\/"),
+        paineis_json=json.dumps(paineis_lista, ensure_ascii=False).replace("</", "<\\/"),
     )
     DOCS.mkdir(parents=True, exist_ok=True)
     (DOCS / "index.html").write_text(html, encoding="utf-8")

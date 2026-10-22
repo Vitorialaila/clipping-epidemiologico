@@ -1,0 +1,77 @@
+{
+ "nome": "Sarampo",
+ "sigla": "SARAMPO",
+ "descricao": "Vigilância global de sarampo com foco nas Américas",
+ "icone": "🌍",
+ "atualizado_em": "2026-10-22T16:31:11.357964",
+ "indicadores": {
+  "casos_confirmados": 3250,
+  "obitos": 8,
+  "taxa_letalidade": 0.25,
+  "paises_afetados": 5,
+  "taxa_cobertura_d1": 87.5
+ },
+ "serie_temporal": [
+  {
+   "data": "2026-10-18",
+   "casos": 3250,
+   "obitos": 8,
+   "regiao": "Américas"
+  },
+  {
+   "data": "2026-10-11",
+   "casos": 3100,
+   "obitos": 7,
+   "regiao": "Américas"
+  },
+  {
+   "data": "2026-10-04",
+   "casos": 2950,
+   "obitos": 6,
+   "regiao": "Américas"
+  },
+  {
+   "data": "2026-09-27",
+   "casos": 2800,
+   "obitos": 6,
+   "regiao": "Américas"
+  }
+ ],
+ "distribuicao_geografica": [
+  {
+   "pais": "Venezuela",
+   "casos": 1200,
+   "obitos": 3,
+   "latitude": 6.4,
+   "longitude": -66.6
+  },
+  {
+   "pais": "Brasil",
+   "casos": 850,
+   "obitos": 2,
+   "latitude": -14.2,
+   "longitude": -51.9
+  },
+  {
+   "pais": "Colômbia",
+   "casos": 600,
+   "obitos": 2,
+   "latitude": 4.6,
+   "longitude": -74.1
+  },
+  {
+   "pais": "Equador",
+   "casos": 400,
+   "obitos": 1,
+   "latitude": -0.2,
+   "longitude": -78.5
+  },
+  {
+   "pais": "Outros",
+   "casos": 200,
+   "obitos": 0,
+   "latitude": 0,
+   "longitude": 0
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "nome": "SRAG (Brasil)",
+ "sigla": "SRAG",
+ "descricao": "Síndrome Respiratória Aguda Grave no Brasil",
+ "icone": "🫁",
+ "atualizado_em": "2026-10-22T16:31:11.358214",
+ "indicadores": {
+  "casos_confirmados": 542,
+  "obitos": 18,
+  "taxa_letalidade": 3.3,
+  "estado_mais_afetado": "São Paulo",
+  "tendencia": "em queda"
+ },
+ "serie_temporal": [
+  {
+   "data": "2026-10-18",
+   "casos": 542,
+   "obitos": 18,
+   "estado": "Brasil"
+  },
+  {
+   "data": "2026-10-11",
+   "casos": 628,
+   "obitos": 21,
+   "estado": "Brasil"
+  },
+  {
+   "data": "2026-10-04",
+   "casos": 715,
+   "obitos": 24,
+   "estado": "Brasil"
+  },
+  {
+   "data": "2026-09-27",
+   "casos": 802,
+   "obitos": 27,
+   "estado": "Brasil"
+  },
+  {
+   "data": "2026-09-20",
+   "casos": 890,
+   "obitos": 30,
+   "estado": "Brasil"
+  },
+  {
+   "data": "2026-09-13",
+   "casos": 1050,
+   "obitos": 35,
+   "estado": "Brasil"
+  },
+  {
+   "data": "2026-09-06",
+   "casos": 1200,
+   "obitos": 40,
+   "estado": "Brasil"
+  },
+  {
+   "data": "2026-08-30",
+   "casos": 1350,
+   "obitos": 45,
+   "estado": "Brasil"
+  }
+ ],
+ "distribuicao_geografica": [
+  {
+   "estado": "São Paulo",
+   "casos": 156,
+   "obitos": 5,
+   "latitude": -23.5,
+   "longitude": -46.6
+  },
+  {
+   "estado": "Minas Gerais",
+   "casos": 89,
+   "obitos": 3,
+   "latitude": -19.9,
+   "longitude": -43.9
+  },
+  {
+   "estado": "Rio de Janeiro",
+   "casos": 78,
+   "obitos": 3,
+   "latitude": -22.9,
+   "longitude": -43.2
+  },
+  {
+   "estado": "Bahia",
+   "casos": 65,
+   "obitos": 2,
+   "latitude": -12.9,
+   "longitude": -38.5
+  },
+  {
+   "estado": "Outros",
+   "casos": 154,
+   "obitos": 5,
+   "latitude": 0,
+   "longitude": 0
+  }
+ ]
+}
