@@ -1,8 +1,8 @@
 {
  "oms-don": {
-  "em": "2026-10-22T18:32:04+00:00",
+  "em": "2026-10-22T18:56:37+00:00",
   "lidos": 30,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Middle East respiratory syndrome coronavirus - Kingdom of Saudi Arabia",
    "Pneumonia of undetermined etiology - the Russian Federation",
@@ -10,7 +10,7 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-10-22T18:32:04+00:00",
+  "em": "2026-10-22T18:56:37+00:00",
   "lidos": 40,
   "novos": 0,
   "exemplos": [
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-10-22T18:32:04+00:00",
+  "em": "2026-10-22T18:56:37+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-10-22T18:32:04+00:00",
+  "em": "2026-10-22T18:56:37+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-10-22T18:32:04+00:00",
+  "em": "2026-10-22T18:56:37+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-10-22T18:32:04+00:00",
+  "em": "2026-10-22T18:56:37+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-10-22T18:32:04+00:00",
+  "em": "2026-10-22T18:56:37+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-10-22T18:32:04+00:00",
+  "em": "2026-10-22T18:56:37+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,9 +80,9 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-10-22T18:32:04+00:00",
+  "em": "2026-10-22T18:56:37+00:00",
   "lidos": 2345,
-  "novos": 2,
+  "novos": 0,
   "exemplos": [
    "Notes from the Field: Nontuberculous Mycobacteria Infections After Cosmetic Surgery Procedures in Mexico - United States",
    "Acute Kidney Injury Among Patients with Drug Overdose-Involved Hospitalizations - United States, 2016-2025",
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-10-22T18:32:04+00:00",
+  "em": "2026-10-22T18:56:37+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,9 +100,9 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-10-22T18:32:04+00:00",
+  "em": "2026-10-22T18:56:37+00:00",
   "lidos": 15,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Porto Velho passa a contar com base da Força Nacional do SUS para apoiar resposta a emergências em saúde",
    "Ministério da Saúde orienta gestores municipais sobre novos equipamentos doados para as unidades básicas de saúde",
@@ -110,19 +110,19 @@
   ]
  },
  "fiocruz": {
-  "em": "2026-10-22T18:32:04+00:00",
+  "em": "2026-10-22T18:56:37+00:00",
   "lidos": 10,
-  "novos": 3,
+  "novos": 1,
   "exemplos": [
+   "Pediatra e pesquisadora da Fiocruz toma posse como membro titular da Academia Nacional de Medicina",
    "Nav. ed. pt Carta Aberta Eleicoes 2026 Compromisso 7",
-   "Contribuições da Fiocruz para as eleições 2026: Compromisso 7 - Desenvolvimento sustentável",
-   "InfoGripe: três estados têm incidência de SRAG em nível de alerta ou risco, com sinal de crescimento"
+   "Contribuições da Fiocruz para as eleições 2026: Compromisso 7 - Desenvolvimento sustentável"
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-10-22T18:32:04+00:00",
+  "em": "2026-10-22T18:56:37+00:00",
   "lidos": 10,
-  "novos": 2,
+  "novos": 0,
   "exemplos": [
    "Doença de Newcastle: protocolos sanitários são cumpridos em SC",
    "Anvisa proíbe venda de teste de glicemia Accu-Check Active na Amazon",
@@ -130,9 +130,9 @@
   ]
  },
  "ses-go": {
-  "em": "2026-10-22T18:32:04+00:00",
+  "em": "2026-10-22T18:56:37+00:00",
   "lidos": 10,
-  "novos": 9,
+  "novos": 0,
   "exemplos": [
    "Saúde estadual abre inscrições para 5ª edição da Corrida Colorindo a Vida sem Diabetes",
    "SES apresenta projeto para desenvolver ferramenta com inteligência artificial voltada à prevenção do câncer de mama",
@@ -140,7 +140,7 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-10-22T18:32:04+00:00",
+  "em": "2026-10-22T18:56:37+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -149,18 +149,58 @@
    "Curso falso para sargentos da reserva era usado para compra de armas"
   ]
  },
+ "g1-ciencia-saude": {
+  "em": "2026-10-22T18:56:37+00:00",
+  "lidos": 100,
+  "novos": 0,
+  "exemplos": [
+   "'Ciência Aberta': centro que abriga o Sirius recebe público para apresentar curiosidades e atrações da ciência",
+   "Mayaro e o que mais? Unicamp aponta possível transmissão urbana do vírus em Roraima e vê indícios de novas ameaças",
+   "'Ciência Aberta': centro que abriga o Sirius terá dia exclusivo para receber escolas e grupos de alunos; saiba como se i"
+  ]
+ },
+ "g1-bem-estar": {
+  "em": "2026-10-22T18:56:37+00:00",
+  "lidos": 100,
+  "novos": 14,
+  "exemplos": [
+   "As três dimensões do burnout feminino",
+   "Bem-Estar #373 - O que o tamanho da sua barriga tem a ver com a saúde do seu coração",
+   "Fatores de risco subestimados tornam o AVC em mulheres ainda mais perigoso"
+  ]
+ },
+ "g1-df": {
+  "em": "2026-10-22T18:56:37+00:00",
+  "lidos": 100,
+  "novos": 0,
+  "exemplos": [
+   "Fiscalização nas redes sociais será desafio para eleições, avalia TRE-DF; leia entrevista",
+   "Conheça a banda Belga, finalista do Brasília Independente 2018",
+   "Evento 'Meu Eixão' leva oficinas, música e gastronomia à Asa Sul neste domingo"
+  ]
+ },
+ "g1-goias": {
+  "em": "2026-10-22T18:56:37+00:00",
+  "lidos": 100,
+  "novos": 0,
+  "exemplos": [
+   "Caminhoneiro morre após bater em carreta e sair da pista na BR-452, em Itumbiara",
+   "Arquitetos dão dicas de como aproveitar ambientes amplos em apartamentos de luxo, em Goiânia",
+   "Funcionário público da Prefeitura de Palmas é preso suspeito de roubo a banco"
+  ]
+ },
  "cnn-brasil-saude": {
-  "em": "2026-10-22T18:32:04+00:00",
+  "em": "2026-10-22T18:56:37+00:00",
   "lidos": 25,
   "novos": 0,
   "exemplos": [
-   "Anvisa proíbe medidor de glicemia falso vendido na Amazon; veja qual",
-   "Suplemento de ervas vendido no TikTok é proibido no Brasil, alerta Anvisa",
-   "Planos de saúde podem negar custeio de canabidiol domiciliar, decide STJ"
+   "Anvisa determina apreensão de lote do suplemento NAC por falsificação",
+   "Anvisa suspende medicamento Fauldleuco por suspeita de partículas no frasco",
+   "Anvisa proíbe medidor de glicemia falso vendido na Amazon; veja qual"
   ]
  },
  "cnn-saude": {
-  "em": "2026-10-22T18:32:04+00:00",
+  "em": "2026-10-22T18:56:37+00:00",
   "lidos": 17,
   "novos": 0,
   "exemplos": [
@@ -170,8 +210,8 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-10-22T18:32:04+00:00",
-  "lidos": 22,
+  "em": "2026-10-22T18:56:37+00:00",
+  "lidos": 21,
   "novos": 0,
   "exemplos": [
    "One US measles outbreak is proving particularly deadly. Here’s why",
@@ -180,7 +220,7 @@
   ]
  },
  "inmet": {
-  "em": "2026-10-22T18:32:04+00:00",
+  "em": "2026-10-22T18:56:37+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -190,9 +230,9 @@
   ]
  },
  "cemaden": {
-  "em": "2026-10-22T18:32:04+00:00",
+  "em": "2026-10-22T18:56:37+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Boletim de Impactos de Extremos de Origem Hidro-Geo-Climático em Atividades Estratégicas para o Brasil",
    "Estado do Clima, Extremos de Clima e Desastres no Brasil",
@@ -200,19 +240,19 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-10-22T18:32:04+00:00",
+  "em": "2026-10-22T18:56:37+00:00",
   "lidos": 15,
   "novos": 0,
   "exemplos": [
    "Autorizado repasse de R$ 1,8 milhão para ações de defesa civil",
-   "Reconhecida emergência em 28 cidades afetadas por desastres",
-   "Reconhecida emergência em 18 cidades afetadas por desastres"
+   "Autorizado repasse de R$ 19,2 milhões para ações de defesa civil",
+   "Reconhecida emergência em 28 cidades afetadas por desastres"
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-10-22T18:32:04+00:00",
+  "em": "2026-10-22T18:56:37+00:00",
   "lidos": 20,
-  "novos": 14,
+  "novos": 0,
   "exemplos": [
    "Transporte público gratuito terá esquema especial no segundo turno",
    "Segurança no DF é reforçada para o segundo turno das eleições",

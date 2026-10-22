@@ -1,26 +1,5 @@
 [
  {
-  "id": "d26d80fd6330d8",
-  "titulo": "Eleições 2026: segundo turno no DF não terá lei seca",
-  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525703-eleicoes-2026-segundo-turno-no-df-nao-tera-lei-seca.html",
-  "fonte_id": "correio-braziliense-df",
-  "fonte": "Correio Braziliense | Cidades DF",
-  "sigla": "Correio Braziliense",
-  "idioma": "pt",
-  "data": "2026-10-22",
-  "data_estimada": false,
-  "se": "2026-42",
-  "descricao": "",
-  "coletado_em": "2026-10-22T18:32:04+00:00",
-  "municipios": [
-   "Distrito Federal"
-  ],
-  "pontuacao": 0.0,
-  "agravos": [],
-  "escopo": "DF",
-  "termos_evento": []
- },
- {
   "id": "bd27d8797e3266",
   "titulo": "InfoGripe: três estados têm incidência de SRAG em nível de alerta ou risco, com sinal de crescimento",
   "url": "https://agencia.fiocruz.br/infogripe-tres-estados-tem-incidencia-de-srag-em-nivel-de-alerta-ou-risco-com-sinal-de-crescimento",
@@ -66,6 +45,50 @@
    "situacao de emergencia",
    "situacao de emergencia"
   ]
+ },
+ {
+  "id": "583fa53841fa6f",
+  "titulo": "Severely ill patient in France becomes first ever human infected with Shamonda virus",
+  "url": "https://www.ecdc.europa.eu/en/news-events/severely-ill-patient-france-becomes-first-ever-human-infected-shamonda-virus",
+  "fonte_id": "ecdc-noticias",
+  "fonte": "ECDC | News",
+  "sigla": "ECDC",
+  "idioma": "en",
+  "data": "2026-10-22",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "The European Centre for Disease Prevention and Control (ECDC) is carefully monitoring the situation after the French authorities announced the first ever reported human infection with Shamonda virus (SHAV), a disease that has until now only affected animals.",
+  "coletado_em": "2026-10-22T13:47:08+00:00",
+  "municipios": [],
+  "pontuacao": 8.5,
+  "agravos": [
+   "Patógeno novo ou incomum em humanos"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [
+   "first ever"
+  ]
+ },
+ {
+  "id": "f7647ea9a7b855",
+  "titulo": "Doença de Newcastle: protocolos sanitários são cumpridos em SC",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/doenca-de-newcastle-protocolos-sanitarios-sao-cumpridos-em-sc",
+  "fonte_id": "agencia-brasil-saude",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-22",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "O Ministério da Agricultura e Pecuária informou que foi concluído o despovoamento sanitário do estabelecimento comercial de criação de perus de corte no município de Nova Itaberaba , em Santa Catarina, onde foi identificado um foco da doença de Newcastle . De acordo com o ministério, estão em andamento procedimentos de limpeza e desinfecção das instalações, conforme protocolos sanitários aplicáveis.",
+  "coletado_em": "2026-10-22T18:32:04+00:00",
+  "municipios": [],
+  "pontuacao": 8.0,
+  "agravos": [
+   "Saúde Única: zoonoses e eventos em animais"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
  },
  {
   "id": "13c4577d8e4416",
@@ -157,6 +180,27 @@
   "termos_evento": []
  },
  {
+  "id": "d26d80fd6330d8",
+  "titulo": "Eleições 2026: segundo turno no DF não terá lei seca",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525703-eleicoes-2026-segundo-turno-no-df-nao-tera-lei-seca.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-22",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T18:32:04+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
   "id": "a6d54990c15ad0",
   "titulo": "Pesquisa Correio/Opinião indica Celina com 59,3% dos votos válidos e Grass com 40,7%",
   "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525016-pesquisa-correio-opiniao-indica-celina-com-593-dos-votos-validos-e-grass-com-407.html",
@@ -218,29 +262,6 @@
   "agravos": [],
   "escopo": "DF",
   "termos_evento": []
- },
- {
-  "id": "583fa53841fa6f",
-  "titulo": "Severely ill patient in France becomes first ever human infected with Shamonda virus",
-  "url": "https://www.ecdc.europa.eu/en/news-events/severely-ill-patient-france-becomes-first-ever-human-infected-shamonda-virus",
-  "fonte_id": "ecdc-noticias",
-  "fonte": "ECDC | News",
-  "sigla": "ECDC",
-  "idioma": "en",
-  "data": "2026-10-22",
-  "data_estimada": false,
-  "se": "2026-42",
-  "descricao": "The European Centre for Disease Prevention and Control (ECDC) is carefully monitoring the situation after the French authorities announced the first ever reported human infection with Shamonda virus (SHAV), a disease that has until now only affected animals.",
-  "coletado_em": "2026-10-22T13:47:08+00:00",
-  "municipios": [],
-  "pontuacao": 8.5,
-  "agravos": [
-   "Patógeno novo ou incomum em humanos"
-  ],
-  "escopo": "Internacional",
-  "termos_evento": [
-   "first ever"
-  ]
  },
  {
   "id": "d2eb265fc7d3b7",
@@ -456,27 +477,6 @@
   "municipios": [],
   "pontuacao": 0.0,
   "agravos": [],
-  "escopo": "Brasil",
-  "termos_evento": []
- },
- {
-  "id": "f7647ea9a7b855",
-  "titulo": "Doença de Newcastle: protocolos sanitários são cumpridos em SC",
-  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/doenca-de-newcastle-protocolos-sanitarios-sao-cumpridos-em-sc",
-  "fonte_id": "agencia-brasil-saude",
-  "fonte": "Agência Brasil | Saúde",
-  "sigla": "Agência Brasil",
-  "idioma": "pt",
-  "data": "2026-10-22",
-  "data_estimada": false,
-  "se": "2026-42",
-  "descricao": "O Ministério da Agricultura e Pecuária informou que foi concluído o despovoamento sanitário do estabelecimento comercial de criação de perus de corte no município de Nova Itaberaba , em Santa Catarina, onde foi identificado um foco da doença de Newcastle . De acordo com o ministério, estão em andamento procedimentos de limpeza e desinfecção das instalações, conforme protocolos sanitários aplicáveis.",
-  "coletado_em": "2026-10-22T18:32:04+00:00",
-  "municipios": [],
-  "pontuacao": 8.0,
-  "agravos": [
-   "Saúde Única: zoonoses e eventos em animais"
-  ],
   "escopo": "Brasil",
   "termos_evento": []
  },
@@ -946,6 +946,25 @@
   "termos_evento": []
  },
  {
+  "id": "cfac379927b968",
+  "titulo": "Pediatra e pesquisadora da Fiocruz toma posse como membro titular da Academia Nacional de Medicina",
+  "url": "https://agencia.fiocruz.br/pediatra-e-pesquisadora-da-fiocruz-toma-posse-como-membro-titular-da-academia-nacional-de-medicina",
+  "fonte_id": "fiocruz",
+  "fonte": "Agência Fiocruz de Notícias",
+  "sigla": "Fiocruz",
+  "idioma": "pt",
+  "data": "2026-10-22",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "Pediatra e pesquisadora da Fiocruz toma posse como membro titular da Academia Nacional de Medicina A noite de terça-feira (20/10) marcou um importante reconhecimento à trajetória de Maria Elisabeth Lopes Moreira. Bebeth, como é conhecida no Instituto Nacional de Saúde da Mulher, da Criança e do Adolescente Fernandes Figueira (IFF/Fiocruz), tomou posse como membro titular da Academia Nacional de Medicina (ANM), ocupando a cadeira nº 17 da Seção de Medicina. A pediatra e pesquisadora passa a integrar uma das mais tradicionais instituições científicas do país, tornando-se a 11ª mulher eleita para a Academia e a primeira pediatra a alcançar essa distinção. A cerimônia reuniu acadêmicos, familiares, colegas e representantes de entidades médicas, entre eles a presidente da Sociedade de Pediatria do Estado do Rio de Janeiro (Soperj), Anna Miranda Soares de Moura, e o presidente da Sociedade Brasileira de Pediatria (SBP), Edson Liberal. Bebeth é a 11ª mulher eleita para a Academia Nacional de Medicina. Responsável pela saudação, o acadêmico e ex-presidente da Fiocruz, Paulo Buss, destacou a sólida trajetória profissional de Maria Elisabeth e suas contribuições para a neonatologia, a pesquisa científica, a formação de profissionais de saúde e a defesa do Sistema Único de Saúde (SUS). Ao ressaltar sua atuação ao longo de décadas, Buss enfatizou que a nova integrante da Academia construiu uma carreira marcada pelo compromisso com a produção de conhecimento científico voltado para a…",
+  "coletado_em": "2026-10-22T18:56:37+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
   "id": "d6e589646be149",
   "titulo": "Goiás reforça sobre a vigilância contra a poliomielite diante do risco de reintrodução da doença",
   "url": "https://goias.gov.br/saude/goias-reforca-sobre-a-vigilancia-contra-a-poliomielite-diante-do-risco-de-reintroducao-da-doenca/",
@@ -1110,27 +1129,6 @@
   ]
  },
  {
-  "id": "1c43a917bbe54b",
-  "titulo": "Aumento do sarampo no Brasil: doença pode levar à morte; entenda riscos",
-  "url": "https://stories.cnnbrasil.com.br/saude/aumento-do-sarampo-no-brasil-doenca-pode-levar-a-morte-entenda-riscos/",
-  "fonte_id": "cnn-brasil-saude",
-  "fonte": "CNN Brasil | Saúde",
-  "sigla": "CNN Brasil",
-  "idioma": "pt",
-  "data": "2026-10-21",
-  "data_estimada": false,
-  "se": "2026-42",
-  "descricao": "",
-  "coletado_em": "2026-10-21T13:46:50+00:00",
-  "municipios": [],
-  "pontuacao": 6.5,
-  "agravos": [
-   "Sarampo"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": []
- },
- {
   "id": "0b7076cfdb5840",
   "titulo": "Tempestades voltam a atingir o Rio Grande do Sul a partir desta quarta-feira (21)",
   "url": "https://estado.rs.gov.br/tempestades-voltam-a-atingir-o-rio-grande-do-sul-a-partir-desta-quarta-feira-21",
@@ -1170,6 +1168,50 @@
    "Doença pelo vírus Ebola"
   ],
   "escopo": "Internacional",
+  "termos_evento": []
+ },
+ {
+  "id": "88f5c806276ecd",
+  "titulo": "Força Nacional do SUS apoia atendimentos no Amazonas após incêndios",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/forca-nacional-do-sus-apoia-atendimentos-no-amazonas-apos-incendios",
+  "fonte_id": "agencia-brasil-saude",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "Com o aumento da demanda de atendimento em saúde em razão dos incêndios florestais na região, começou a funcionar em Manaus uma base regional da Força Nacional do SUS. Segundo a última atualização da Fundação de Vigilância em Saúde do Amazonas, desde que a fumaça dos incêndios florestais começou a afetar a população, no início de outubro, até o último dia 14, os atendimentos por exposição à fumaça chegaram a 541 na rede pública. De acordo com o Instituto Nacional de Pesquisas Espaciais (Inpe), nas últimas 23 horas estão ativos 13 focos de incêndios florestais . Cerca de 370 lançamentos de água já foram efetivados pela força-tarefa que atua na região para combater o fogo.",
+  "coletado_em": "2026-10-21T18:37:36+00:00",
+  "municipios": [],
+  "pontuacao": 7.0,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "vigilancia"
+  ]
+ },
+ {
+  "id": "1c43a917bbe54b",
+  "titulo": "Aumento do sarampo no Brasil: doença pode levar à morte; entenda riscos",
+  "url": "https://stories.cnnbrasil.com.br/saude/aumento-do-sarampo-no-brasil-doenca-pode-levar-a-morte-entenda-riscos/",
+  "fonte_id": "cnn-brasil-saude",
+  "fonte": "CNN Brasil | Saúde",
+  "sigla": "CNN Brasil",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-21T13:46:50+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Sarampo"
+  ],
+  "escopo": "Brasil",
   "termos_evento": []
  },
  {
@@ -1234,29 +1276,6 @@
   ],
   "escopo": "Internacional",
   "termos_evento": []
- },
- {
-  "id": "88f5c806276ecd",
-  "titulo": "Força Nacional do SUS apoia atendimentos no Amazonas após incêndios",
-  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/forca-nacional-do-sus-apoia-atendimentos-no-amazonas-apos-incendios",
-  "fonte_id": "agencia-brasil-saude",
-  "fonte": "Agência Brasil | Saúde",
-  "sigla": "Agência Brasil",
-  "idioma": "pt",
-  "data": "2026-10-21",
-  "data_estimada": false,
-  "se": "2026-42",
-  "descricao": "Com o aumento da demanda de atendimento em saúde em razão dos incêndios florestais na região, começou a funcionar em Manaus uma base regional da Força Nacional do SUS. Segundo a última atualização da Fundação de Vigilância em Saúde do Amazonas, desde que a fumaça dos incêndios florestais começou a afetar a população, no início de outubro, até o último dia 14, os atendimentos por exposição à fumaça chegaram a 541 na rede pública. De acordo com o Instituto Nacional de Pesquisas Espaciais (Inpe), nas últimas 23 horas estão ativos 13 focos de incêndios florestais . Cerca de 370 lançamentos de água já foram efetivados pela força-tarefa que atua na região para combater o fogo.",
-  "coletado_em": "2026-10-21T18:37:36+00:00",
-  "municipios": [],
-  "pontuacao": 7.0,
-  "agravos": [
-   "Saúde ambiental e clima"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": [
-   "vigilancia"
-  ]
  },
  {
   "id": "37d91f94ac1cef",
@@ -2316,25 +2335,27 @@
   ]
  },
  {
-  "id": "fa64f96c06a949",
-  "titulo": "\"Cortina de fumaça\": Grass (PT) faz crítica a ato de Celina pelo FCDF",
-  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7523933-cortina-de-fumaca-grass-pt-faz-critica-a-ato-de-celina-pelo-fcdf.html",
-  "fonte_id": "correio-braziliense-df",
-  "fonte": "Correio Braziliense | Cidades DF",
-  "sigla": "Correio Braziliense",
+  "id": "209702700af9c4",
+  "titulo": "Governo impõe emergência zoossanitária após detectar Newcastle em SC",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/governo-impoe-emergencia-zoossanitaria-apos-detectar-newcastle-em-sc",
+  "fonte_id": "agencia-brasil-saude",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
   "idioma": "pt",
   "data": "2026-10-20",
   "data_estimada": false,
   "se": "2026-42",
-  "descricao": "",
-  "coletado_em": "2026-10-20T15:04:17+00:00",
-  "municipios": [
-   "Distrito Federal"
+  "descricao": "O governo federal declarou estado de emergência zoossanitária nos municípios de Nova Itaberaba, Águas Frias, Coronel Freitas e Nova Erechim, todos em Santa Catarina , em razão de um foco da doença de Newcastle encontrado em um estabelecimento de aves comerciais no município de Nova Itaberaba. De acordo com a portaria publicada no Diário Oficial da União , o estado de emergência zoossanitária fica declarado por um total de 60 dias. Entenda",
+  "coletado_em": "2026-10-20T19:15:20+00:00",
+  "municipios": [],
+  "pontuacao": 9.0,
+  "agravos": [
+   "Saúde Única: zoonoses e eventos em animais"
   ],
-  "pontuacao": 0.0,
-  "agravos": [],
-  "escopo": "DF",
-  "termos_evento": []
+  "escopo": "Brasil",
+  "termos_evento": [
+   "estado de emergencia"
+  ]
  },
  {
   "id": "cbc2fa260f1225",
@@ -2376,6 +2397,27 @@
    "Doença meningocócica e meningites"
   ],
   "escopo": "Internacional",
+  "termos_evento": []
+ },
+ {
+  "id": "fa64f96c06a949",
+  "titulo": "\"Cortina de fumaça\": Grass (PT) faz crítica a ato de Celina pelo FCDF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7523933-cortina-de-fumaca-grass-pt-faz-critica-a-ato-de-celina-pelo-fcdf.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-20T15:04:17+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
   "termos_evento": []
  },
  {
@@ -2877,29 +2919,6 @@
   "agravos": [],
   "escopo": "Brasil",
   "termos_evento": []
- },
- {
-  "id": "209702700af9c4",
-  "titulo": "Governo impõe emergência zoossanitária após detectar Newcastle em SC",
-  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/governo-impoe-emergencia-zoossanitaria-apos-detectar-newcastle-em-sc",
-  "fonte_id": "agencia-brasil-saude",
-  "fonte": "Agência Brasil | Saúde",
-  "sigla": "Agência Brasil",
-  "idioma": "pt",
-  "data": "2026-10-20",
-  "data_estimada": false,
-  "se": "2026-42",
-  "descricao": "O governo federal declarou estado de emergência zoossanitária nos municípios de Nova Itaberaba, Águas Frias, Coronel Freitas e Nova Erechim, todos em Santa Catarina , em razão de um foco da doença de Newcastle encontrado em um estabelecimento de aves comerciais no município de Nova Itaberaba. De acordo com a portaria publicada no Diário Oficial da União , o estado de emergência zoossanitária fica declarado por um total de 60 dias. Entenda",
-  "coletado_em": "2026-10-20T19:15:20+00:00",
-  "municipios": [],
-  "pontuacao": 9.0,
-  "agravos": [
-   "Saúde Única: zoonoses e eventos em animais"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": [
-   "estado de emergencia"
-  ]
  },
  {
   "id": "8914d4408c4bd6",
@@ -3743,6 +3762,31 @@
   ]
  },
  {
+  "id": "b7a72e8af40502",
+  "titulo": "Agricultura confirma foco de doença de Newcastle em Santa Catarina",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/agricultura-confirma-foco-de-doenca-de-newcastle-em-santa-catarina",
+  "fonte_id": "agencia-brasil-saude",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "O Ministério da Agricultura e Pecuária (Mapa) confirmou o registro de um foco da doença de Newcastle em um estabelecimento de avicultura comercial de corte de perus no município de Nova Itaberaba, em Santa Catarina. A existência do foco foi confirmada no domingo (18). O ministério informou que o estabelecimento foi interditado pelo Serviço Veterinário Oficial de Santa Catarina, com a suspensão da movimentação de aves. Além disso, a pasta esclareceu que medidas de controle, contenção e erradicação do foco serão executadas conforme as diretrizes do Plano de Contingência para Influenza Aviária e Doença de Newcastle. A doença de Newcastle afeta aves domésticas e silvestres e é causada por vírus virulento do paramixovírus aviário do sorotipo 1 (APMV-1), conforme os critérios estabelecidos pela Organização Mundial de Saúde Animal (OMSA). A ocorrência foi identificada durante investigação epidemiológica conduzida pelo Serviço Veterinário Oficial de Santa Catarina e confirmada por análise realizada no Laboratório Federal de Defesa Agropecuária de São Paulo (LFDA-SP). O laboratório é reconhecido pela OMSA como de referência internacional para o diagnóstico da doença. “O Mapa ressalta que, apesar da necessidade de adoção de medidas sanitárias para controlar a ocorrência, o consumo de produtos avícolas submetidos à inspeção oficial permanece seguro, sem contraindicações”, disse o ministério. O governo informou que notificou a OMSA e aos parceiros comerciais do Brasil, em cumprimento…",
+  "coletado_em": "2026-10-19T19:55:15+00:00",
+  "municipios": [],
+  "pontuacao": 10.0,
+  "agravos": [
+   "Saúde Única: zoonoses e eventos em animais",
+   "Influenza por novo subtipo",
+   "Influenza e vírus respiratórios"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "investigacao"
+  ]
+ },
+ {
   "id": "653240bc35b89c",
   "titulo": "Defesa Civil de Barra do Piraí alerta para possíveis impactos do El Niño e reforça medidas de prevenção",
   "url": "https://barradopirai.rj.gov.br/todas-as-noticias/21d86a60-5156-49f7-a146-d627ee99939a",
@@ -3787,31 +3831,6 @@
   "escopo": "DF",
   "termos_evento": [
    "destruicao"
-  ]
- },
- {
-  "id": "b7a72e8af40502",
-  "titulo": "Agricultura confirma foco de doença de Newcastle em Santa Catarina",
-  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/agricultura-confirma-foco-de-doenca-de-newcastle-em-santa-catarina",
-  "fonte_id": "agencia-brasil-saude",
-  "fonte": "Agência Brasil | Saúde",
-  "sigla": "Agência Brasil",
-  "idioma": "pt",
-  "data": "2026-10-19",
-  "data_estimada": false,
-  "se": "2026-42",
-  "descricao": "O Ministério da Agricultura e Pecuária (Mapa) confirmou o registro de um foco da doença de Newcastle em um estabelecimento de avicultura comercial de corte de perus no município de Nova Itaberaba, em Santa Catarina. A existência do foco foi confirmada no domingo (18). O ministério informou que o estabelecimento foi interditado pelo Serviço Veterinário Oficial de Santa Catarina, com a suspensão da movimentação de aves. Além disso, a pasta esclareceu que medidas de controle, contenção e erradicação do foco serão executadas conforme as diretrizes do Plano de Contingência para Influenza Aviária e Doença de Newcastle. A doença de Newcastle afeta aves domésticas e silvestres e é causada por vírus virulento do paramixovírus aviário do sorotipo 1 (APMV-1), conforme os critérios estabelecidos pela Organização Mundial de Saúde Animal (OMSA). A ocorrência foi identificada durante investigação epidemiológica conduzida pelo Serviço Veterinário Oficial de Santa Catarina e confirmada por análise realizada no Laboratório Federal de Defesa Agropecuária de São Paulo (LFDA-SP). O laboratório é reconhecido pela OMSA como de referência internacional para o diagnóstico da doença. “O Mapa ressalta que, apesar da necessidade de adoção de medidas sanitárias para controlar a ocorrência, o consumo de produtos avícolas submetidos à inspeção oficial permanece seguro, sem contraindicações”, disse o ministério. O governo informou que notificou a OMSA e aos parceiros comerciais do Brasil, em cumprimento…",
-  "coletado_em": "2026-10-19T19:55:15+00:00",
-  "municipios": [],
-  "pontuacao": 10.0,
-  "agravos": [
-   "Saúde Única: zoonoses e eventos em animais",
-   "Influenza por novo subtipo",
-   "Influenza e vírus respiratórios"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": [
-   "investigacao"
   ]
  },
  {
@@ -5438,23 +5457,22 @@
   ]
  },
  {
-  "id": "76a78e954d18bb",
-  "titulo": "Veja como se cadastrar para receber alertas de temporais por WhatsApp ou SMS – CGNotícias",
-  "url": "https://www.campogrande.ms.gov.br/cgnoticias/noticia/veja-como-se-cadastrar-para-receber-alertas-de-temporais-por-whatsapp-ou-sms/",
-  "fonte_id": "defesa-civil-busca",
-  "fonte": "Prefeitura de Campo Grande",
-  "sigla": "Defesa Civil",
+  "id": "327119b3367edc",
+  "titulo": "Dengue grave: estudo identifica fatores de risco para mortes no Brasil",
+  "url": "https://www.cnnbrasil.com.br/saude/dengue-grave-estudo-identifica-fatores-de-risco-para-mortes-no-brasil/",
+  "fonte_id": "cnn-brasil-saude",
+  "fonte": "CNN Brasil | Saúde",
+  "sigla": "CNN Brasil",
   "idioma": "pt",
   "data": "2026-10-17",
   "data_estimada": false,
   "se": "2026-41",
   "descricao": "",
-  "coletado_em": "2026-10-21T18:37:36+00:00",
+  "coletado_em": "2026-10-17T09:19:59+00:00",
   "municipios": [],
-  "pontuacao": 0.0,
+  "pontuacao": 4.5,
   "agravos": [
-   "Emergências e desastres",
-   "Saúde ambiental e clima"
+   "Dengue"
   ],
   "escopo": "Brasil",
   "termos_evento": []
@@ -5481,27 +5499,6 @@
   "termos_evento": []
  },
  {
-  "id": "327119b3367edc",
-  "titulo": "Dengue grave: estudo identifica fatores de risco para mortes no Brasil",
-  "url": "https://www.cnnbrasil.com.br/saude/dengue-grave-estudo-identifica-fatores-de-risco-para-mortes-no-brasil/",
-  "fonte_id": "cnn-brasil-saude",
-  "fonte": "CNN Brasil | Saúde",
-  "sigla": "CNN Brasil",
-  "idioma": "pt",
-  "data": "2026-10-17",
-  "data_estimada": false,
-  "se": "2026-41",
-  "descricao": "",
-  "coletado_em": "2026-10-17T09:19:59+00:00",
-  "municipios": [],
-  "pontuacao": 4.5,
-  "agravos": [
-   "Dengue"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": []
- },
- {
   "id": "f875bbe878558f",
   "titulo": "Desaparecimento de ferida não significa cura da sífilis; entenda riscos",
   "url": "https://www.cnnbrasil.com.br/saude/desaparecimento-de-ferida-nao-significa-cura-da-sifilis-entenda-riscos/",
@@ -5520,6 +5517,28 @@
    "Sífilis"
   ],
   "escopo": "Internacional",
+  "termos_evento": []
+ },
+ {
+  "id": "76a78e954d18bb",
+  "titulo": "Veja como se cadastrar para receber alertas de temporais por WhatsApp ou SMS – CGNotícias",
+  "url": "https://www.campogrande.ms.gov.br/cgnoticias/noticia/veja-como-se-cadastrar-para-receber-alertas-de-temporais-por-whatsapp-ou-sms/",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Prefeitura de Campo Grande",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-17",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-21T18:37:36+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
   "termos_evento": []
  },
  {
@@ -6058,6 +6077,29 @@
   "link_tentado": true
  },
  {
+  "id": "f8e10c9062d7a3",
+  "titulo": "Epidemiological Alert:  Myiasis caused by Cochliomyia hominivorax in the Americas Region, 16 October 2026",
+  "url": "https://www.paho.org/en/documents/epidemiological-alert-myiasis-caused-cochliomyia-hominivorax-americas-region-16-october",
+  "fonte_id": "opas-alertas",
+  "fonte": "OPAS | Alertas e atualizações epidemiológicas",
+  "sigla": "OPAS",
+  "idioma": "en",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-16T23:34:40+00:00",
+  "municipios": [],
+  "pontuacao": 10.5,
+  "agravos": [
+   "Saúde Única: zoonoses e eventos em animais"
+  ],
+  "escopo": "Américas",
+  "termos_evento": [
+   "epidemiological alert"
+  ]
+ },
+ {
   "id": "c59065b16cb567",
   "titulo": "Inema emite alerta para chuvas intensas na Bahia nas próximas 72 horas",
   "url": "http://www.ba.gov.br/inema/noticias/2026-10/93832/inema-emite-alerta-para-chuvas-intensas-na-bahia-nas-proximas-72-horas",
@@ -6152,48 +6194,6 @@
   "termos_evento": []
  },
  {
-  "id": "6ce27ac93ba2da",
-  "titulo": "SES intensifica ações de combate ao Aedes aegypti em todo o Estado e pede apoio da população para eliminar criadouros",
-  "url": "https://goias.gov.br/saude/ses-intensifica-acoes-de-combate-ao-aedes-aegypti-em-todo-o-estado-e-pede-apoio-da-populacao-para-eliminar-criadouros/",
-  "fonte_id": "ses-go",
-  "fonte": "SES-GO | Notícias",
-  "sigla": "SES-GO",
-  "idioma": "pt",
-  "data": "2026-10-16",
-  "data_estimada": false,
-  "se": "2026-41",
-  "descricao": "Secretaria reforça combate ao mosquito com monitoramento, uso de novas tecnologias, controle químico, distribuição de insumos/equipamentos e qualificação dos profissionais dos municípios goianos",
-  "coletado_em": "2026-10-16T18:02:51+00:00",
-  "municipios": [],
-  "pontuacao": 3.0,
-  "agravos": [
-   "Arboviroses"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": []
- },
- {
-  "id": "9cc08f1cb0fde6",
-  "titulo": "Método Wolbachia contra arboviroses começa a ser implantado no Ceará",
-  "url": "https://agencia.fiocruz.br/metodo-wolbachia-contra-arboviroses-comeca-ser-implantado-no-ceara",
-  "fonte_id": "fiocruz",
-  "fonte": "Agência Fiocruz de Notícias",
-  "sigla": "Fiocruz",
-  "idioma": "pt",
-  "data": "2026-10-16",
-  "data_estimada": false,
-  "se": "2026-41",
-  "descricao": "Método Wolbachia contra arboviroses começa a ser implantado no Ceará",
-  "coletado_em": "2026-10-16T18:02:51+00:00",
-  "municipios": [],
-  "pontuacao": 2.5,
-  "agravos": [
-   "Arboviroses"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": []
- },
- {
   "id": "1fe186c880da91",
   "titulo": "New wildfire in Southern California explodes in size, burning multiple homes",
   "url": "https://edition.cnn.com/2026/10/16/weather/california-wildfires-santa-ana-winds-climate",
@@ -6236,6 +6236,48 @@
   "escopo": "Internacional",
   "termos_evento": [],
   "link_tentado": true
+ },
+ {
+  "id": "6ce27ac93ba2da",
+  "titulo": "SES intensifica ações de combate ao Aedes aegypti em todo o Estado e pede apoio da população para eliminar criadouros",
+  "url": "https://goias.gov.br/saude/ses-intensifica-acoes-de-combate-ao-aedes-aegypti-em-todo-o-estado-e-pede-apoio-da-populacao-para-eliminar-criadouros/",
+  "fonte_id": "ses-go",
+  "fonte": "SES-GO | Notícias",
+  "sigla": "SES-GO",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "Secretaria reforça combate ao mosquito com monitoramento, uso de novas tecnologias, controle químico, distribuição de insumos/equipamentos e qualificação dos profissionais dos municípios goianos",
+  "coletado_em": "2026-10-16T18:02:51+00:00",
+  "municipios": [],
+  "pontuacao": 3.0,
+  "agravos": [
+   "Arboviroses"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "9cc08f1cb0fde6",
+  "titulo": "Método Wolbachia contra arboviroses começa a ser implantado no Ceará",
+  "url": "https://agencia.fiocruz.br/metodo-wolbachia-contra-arboviroses-comeca-ser-implantado-no-ceara",
+  "fonte_id": "fiocruz",
+  "fonte": "Agência Fiocruz de Notícias",
+  "sigla": "Fiocruz",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "Método Wolbachia contra arboviroses começa a ser implantado no Ceará",
+  "coletado_em": "2026-10-16T18:02:51+00:00",
+  "municipios": [],
+  "pontuacao": 2.5,
+  "agravos": [
+   "Arboviroses"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
  },
  {
   "id": "06d1ce466081a2",
@@ -7282,29 +7324,6 @@
   "agravos": [],
   "escopo": "DF",
   "termos_evento": []
- },
- {
-  "id": "f8e10c9062d7a3",
-  "titulo": "Epidemiological Alert:  Myiasis caused by Cochliomyia hominivorax in the Americas Region, 16 October 2026",
-  "url": "https://www.paho.org/en/documents/epidemiological-alert-myiasis-caused-cochliomyia-hominivorax-americas-region-16-october",
-  "fonte_id": "opas-alertas",
-  "fonte": "OPAS | Alertas e atualizações epidemiológicas",
-  "sigla": "OPAS",
-  "idioma": "en",
-  "data": "2026-10-16",
-  "data_estimada": false,
-  "se": "2026-41",
-  "descricao": "",
-  "coletado_em": "2026-10-16T23:34:40+00:00",
-  "municipios": [],
-  "pontuacao": 10.5,
-  "agravos": [
-   "Saúde Única: zoonoses e eventos em animais"
-  ],
-  "escopo": "Américas",
-  "termos_evento": [
-   "epidemiological alert"
-  ]
  },
  {
   "id": "6e11fcf07c68c5",
@@ -8820,27 +8839,6 @@
   "municipios": []
  },
  {
-  "id": "2953d052c1864f",
-  "titulo": "Aumento do sarampo no Brasil: doença pode levar à morte; entenda riscos",
-  "url": "https://www.cnnbrasil.com.br/saude/aumento-do-sarampo-no-brasil-doenca-pode-levar-a-morte-entenda-riscos/",
-  "fonte_id": "cnn-brasil-saude",
-  "fonte": "CNN Brasil | Saúde",
-  "sigla": "CNN Brasil",
-  "idioma": "pt",
-  "data": "2026-10-14",
-  "data_estimada": false,
-  "se": "2026-41",
-  "descricao": "",
-  "coletado_em": "2026-10-16T13:26:18+00:00",
-  "municipios": [],
-  "pontuacao": 6.5,
-  "agravos": [
-   "Sarampo"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": []
- },
- {
   "id": "d32e0a843ef452",
   "titulo": "Estudo analisa exposição de CRAS a riscos de inundação e deslizamento em 806 municípios brasileiros",
   "url": "https://www.gov.br/cemaden/pt-br/estudo-analisa-exposicao-de-cras-a-riscos-de-inundacao-e-deslizamento-em-806-municipios-brasileiros",
@@ -8886,27 +8884,46 @@
   "link_tentado": true
  },
  {
-  "id": "354d57eb163dde",
-  "titulo": "Saúde acompanha implantação em Anápolis da metodologia que reduz dengue e chikungunya",
-  "url": "https://goias.gov.br/saude/saude-acompanha-implantacao-em-anapolis-da-metodologia-que-reduz-dengue-e-chikungunya/",
-  "fonte_id": "ses-go",
-  "fonte": "SES-GO | Notícias",
-  "sigla": "SES-GO",
+  "id": "2953d052c1864f",
+  "titulo": "Aumento do sarampo no Brasil: doença pode levar à morte; entenda riscos",
+  "url": "https://www.cnnbrasil.com.br/saude/aumento-do-sarampo-no-brasil-doenca-pode-levar-a-morte-entenda-riscos/",
+  "fonte_id": "cnn-brasil-saude",
+  "fonte": "CNN Brasil | Saúde",
+  "sigla": "CNN Brasil",
   "idioma": "pt",
   "data": "2026-10-14",
   "data_estimada": false,
   "se": "2026-41",
-  "descricao": "Quando infectado pela bactéria Wolbachia, o mosquito Aedes aegypti perde a capacidade de transmitir essas doenças e repassa a bactéria para seus descendentes, substituindo gradualmente a população de mosquitos",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 1.0,
+  "descricao": "",
+  "coletado_em": "2026-10-16T13:26:18+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
   "agravos": [
-   "Dengue",
-   "Chikungunya",
-   "Arboviroses"
+   "Sarampo"
   ],
   "escopo": "Brasil",
-  "termos_evento": [],
-  "municipios": []
+  "termos_evento": []
+ },
+ {
+  "id": "fbe35ded962eef",
+  "titulo": "Bem-Estar #372 - Osteoporose, uma epidemia silenciosa. Saiba como identificar e prevenir a doença",
+  "url": "https://g1.globo.com/bemestar/podcast/noticia/2026/10/14/bem-estar-372-osteoporose-uma-epidemia-silenciosa-saiba-como-identificar-e-prevenir-a-doenca.ghtml",
+  "fonte_id": "g1-bem-estar",
+  "fonte": "G1 | Bem Estar",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-14",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "Osteoporose, uma epidemia silenciosa. Saiba como identificar e prevenir a doença Você certamente conhece alguém que caiu “do nada” – aquela famosa queda da própria altura e fraturou o quadril, o joelho ou o punho. E não é raro que a pessoa fique um bom tempo até se recuperar totalmente. Muitos nem se recuperam direito e ficam com sequelas permanentes. Todos os anos, 1,5 milhão de brasileiros sofrem fraturas que têm um impacto enorme na rotina, na autonomia e na qualidade de vida. Por trás desses casos, há uma epidemia silenciosa de osteoporose, uma doença que reduz a densidade e a qualidade dos nossos ossos. No episódio de hoje, você vai entender porque é importante construir e preservar a massa óssea ao longo da vida. Quem tem mais risco de desenvolver osteoporose e como prevenir a doença? A nossa convidada é a ginecologista Adriana Orcesi Pedro, professora da Unicamp e vice-Presidente da Comissão de Osteoporose da FEBRASGO, a Federação Brasileira de Ginecologia e Obstetrícia. Logo do podcast Bem-Estar Arte/Bem Estar",
+  "coletado_em": "2026-10-22T18:56:37+00:00",
+  "municipios": [],
+  "pontuacao": 3.5,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "epidemia"
+  ]
  },
  {
   "id": "7f84ffc8d0d66b",
@@ -8929,6 +8946,29 @@
   "termos_evento": [
    "vigilancia"
   ],
+  "municipios": []
+ },
+ {
+  "id": "354d57eb163dde",
+  "titulo": "Saúde acompanha implantação em Anápolis da metodologia que reduz dengue e chikungunya",
+  "url": "https://goias.gov.br/saude/saude-acompanha-implantacao-em-anapolis-da-metodologia-que-reduz-dengue-e-chikungunya/",
+  "fonte_id": "ses-go",
+  "fonte": "SES-GO | Notícias",
+  "sigla": "SES-GO",
+  "idioma": "pt",
+  "data": "2026-10-14",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "Quando infectado pela bactéria Wolbachia, o mosquito Aedes aegypti perde a capacidade de transmitir essas doenças e repassa a bactéria para seus descendentes, substituindo gradualmente a população de mosquitos",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 1.0,
+  "agravos": [
+   "Dengue",
+   "Chikungunya",
+   "Arboviroses"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
   "municipios": []
  },
  {
@@ -9374,6 +9414,27 @@
   "link_tentado": true
  },
  {
+  "id": "1c13c35a5d943b",
+  "titulo": "Fiocruz analisa impacto das queimadas na saúde indígena no Amazonas",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/fiocruz-analisa-impacto-das-queimadas-na-saude-indigena-no-amazonas",
+  "fonte_id": "agencia-brasil-saude",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-13",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "A poluição do ar provocada por queimadas e incêndios florestais no Amazonas representa um risco à saúde da população, especialmente das comunidades indígenas, que enfrentam dificuldades de acesso aos serviços de saúde. O alerta faze parte de levantamento apresentado por pesquisadores do Observatório de Clima e Saúde da Fundação Oswaldo Cruz (Fiocruz), que reúne dados sobre a concentração de poluentes e a distribuição dos focos de incêndio no estado.",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 8.0,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "municipios": []
+ },
+ {
   "id": "d8f4325315339c",
   "titulo": "EL NIÑO ganha intensidade e registra a segunda maior anomalia para setembro desde 1950",
   "url": "https://portal.inmet.gov.br/noticias/el-niño-ganha-intensidade-e-registra-a-segunda-maior-anomalia-para-setembro-desde-1950",
@@ -9415,27 +9476,6 @@
   "escopo": "Brasil",
   "termos_evento": [],
   "link_tentado": true
- },
- {
-  "id": "1c13c35a5d943b",
-  "titulo": "Fiocruz analisa impacto das queimadas na saúde indígena no Amazonas",
-  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/fiocruz-analisa-impacto-das-queimadas-na-saude-indigena-no-amazonas",
-  "fonte_id": "agencia-brasil-saude",
-  "fonte": "Agência Brasil | Saúde",
-  "sigla": "Agência Brasil",
-  "idioma": "pt",
-  "data": "2026-10-13",
-  "data_estimada": false,
-  "se": "2026-41",
-  "descricao": "A poluição do ar provocada por queimadas e incêndios florestais no Amazonas representa um risco à saúde da população, especialmente das comunidades indígenas, que enfrentam dificuldades de acesso aos serviços de saúde. O alerta faze parte de levantamento apresentado por pesquisadores do Observatório de Clima e Saúde da Fundação Oswaldo Cruz (Fiocruz), que reúne dados sobre a concentração de poluentes e a distribuição dos focos de incêndio no estado.",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.0,
-  "agravos": [
-   "Saúde ambiental e clima"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": [],
-  "municipios": []
  },
  {
   "id": "2076d657eebc3c",
@@ -10133,6 +10173,29 @@
   "link_tentado": true
  },
  {
+  "id": "5cd6c99501970f",
+  "titulo": "Médicos reconhecem que é difícil falar sobre sexo com pacientes mais velhos",
+  "url": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/10/11/medicos-reconhecem-que-e-dificil-falar-sobre-sexo-com-pacientes-mais-velhos.ghtml",
+  "fonte_id": "g1-bem-estar",
+  "fonte": "G1 | Bem Estar",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-11",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "Brasileira fala sobre sexo na terceira idade: ‘Eu transo sim e gosto muito’ Mudanças fisiológicas são barreiras para a atividade sexual? Esse era o painel que eu mais aguardava no GeriatRio 2026, que já foi tema das duas últimas colunas. Pelo visto, não era a única interessada, porque a sessão ficou lotada. Coube ao geriatra Gustavo de Jesus Monteiro, vice-presidente da SBGG-RJ, abordar um dos tópicos que exploro no meu livro Sexo 60+ – prazer sem data de validade: a dificuldade de falar sobre a questão no consultório. Sua primeira frase foi reconhecer que “o silêncio começa em nós”, e compartilhou diversas pesquisas. Aqui vão alguns dados: Sexo na velhice: 73% das pessoas são sexualmente ativas entre os 57 e 64 anos; 53% entre 65 e 74 anos; e 26% entre 75 e 85 anos Age without limits Vida sexual: 73% das pessoas são sexualmente ativas entre os 57 e 64 anos; 53% entre 65 e 74 anos; e 26% entre 75 e 85 anos. Nesse último grupo, 54% têm pelo menos de duas a três relações por mês. No entanto, 60% dos indivíduos acima dos 65 anos não se sentem à vontade para tocar no assunto com o profissional de saúde. Falta de comunicação: Apenas 38% dos homens e 22% das mulheres acima dos 50 discutem sua vida sexual com o médico, mas a imensa maioria gostaria que ele tivesse tomado a iniciativa. “Precisamos abrir essa porta. A conversa tem que fazer parte da rotina do consultório e da Avaliação Geriátrica Ampla (AGA), assim como quando houver um novo diagnóstico, cirurgia pélvica, alteração…",
+  "coletado_em": "2026-10-22T18:56:37+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Doenças transmitidas por alimentos e água",
+   "Sífilis",
+   "Hepatites virais"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
   "id": "8022336bc29dcd",
   "titulo": "Pneumonia of undetermined etiology - the Russian Federation",
   "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON620",
@@ -10181,6 +10244,29 @@
   "termos_evento": []
  },
  {
+  "id": "d1038f88d5be6f",
+  "titulo": "Malária: Anvisa autoriza teste em humanos de vacina 100% brasileira",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/malaria-anvisa-autoriza-teste-em-humanos-de-vacina-100-brasileira",
+  "fonte_id": "agencia-brasil-saude",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-10",
+  "data_estimada": false,
+  "se": "2026-40",
+  "descricao": "A Agência Nacional de Vigilância Sanitária (Anvisa) autorizou o início de testes em humanos da primeira vacina do mundo contra a malária causada pelo Plasmodium vivax , parasita responsável pela maioria dos casos da doença no país. O imunizante é feito com tecnologia 100% nacional. Em nota, o Ministério da Saúde detalhou que a dose, chamada Vivaxin, é fruto de pesquisas conduzidas pelo Centro de Tecnologia de Vacinas (CTVacinas) da Universidade Federal de Minas Gerais (UFMG). A tecnologia tem incentivo previsto de R$ 12 milhões da pasta para ensaios clínicos de fases I, II e III.",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 10.0,
+  "agravos": [
+   "Malária"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "vigilancia"
+  ],
+  "municipios": []
+ },
+ {
   "id": "eefe939cf644be",
   "titulo": "Brasil avança no desenvolvimento da primeira vacina do mundo contra malária vivax",
   "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/brasil-avanca-no-desenvolvimento-da-primeira-vacina-do-mundo-contra-malaria-vivax",
@@ -10220,29 +10306,6 @@
   ],
   "escopo": "Américas",
   "termos_evento": [],
-  "municipios": []
- },
- {
-  "id": "d1038f88d5be6f",
-  "titulo": "Malária: Anvisa autoriza teste em humanos de vacina 100% brasileira",
-  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/malaria-anvisa-autoriza-teste-em-humanos-de-vacina-100-brasileira",
-  "fonte_id": "agencia-brasil-saude",
-  "fonte": "Agência Brasil | Saúde",
-  "sigla": "Agência Brasil",
-  "idioma": "pt",
-  "data": "2026-10-10",
-  "data_estimada": false,
-  "se": "2026-40",
-  "descricao": "A Agência Nacional de Vigilância Sanitária (Anvisa) autorizou o início de testes em humanos da primeira vacina do mundo contra a malária causada pelo Plasmodium vivax , parasita responsável pela maioria dos casos da doença no país. O imunizante é feito com tecnologia 100% nacional. Em nota, o Ministério da Saúde detalhou que a dose, chamada Vivaxin, é fruto de pesquisas conduzidas pelo Centro de Tecnologia de Vacinas (CTVacinas) da Universidade Federal de Minas Gerais (UFMG). A tecnologia tem incentivo previsto de R$ 12 milhões da pasta para ensaios clínicos de fases I, II e III.",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 10.0,
-  "agravos": [
-   "Malária"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": [
-   "vigilancia"
-  ],
   "municipios": []
  },
  {
@@ -11020,6 +11083,27 @@
   "municipios": []
  },
  {
+  "id": "037ef95e3bce0e",
+  "titulo": "Um protocolo para garantir sono de qualidade",
+  "url": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/10/04/um-protocolo-para-garantir-sono-de-qualidade.ghtml",
+  "fonte_id": "g1-bem-estar",
+  "fonte": "G1 | Bem Estar",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-04",
+  "data_estimada": false,
+  "se": "2026-40",
+  "descricao": "A importância do sono e como ele influencia nossa qualidade de vida O que é um protocolo? É uma fórmula estabelecida para superar obstáculos e atingir um objetivo. Isso é o que torna irresistível o recém-lançado Protocolos: um manual operacional do corpo humano (Intrínseca). Escrito por Andrew Huberman, professor de neurociência da Universidade Stanford e apresentador do podcast Huberman Lab, um dos mais populares do mundo, ele é dividido em sete áreas – sono; exercício físico; controle de estresse; nutrição; luz; foco, motivação e aprendizado; e crescimento pessoal – e funciona como um guia com muita informação científica, mas, principalmente, recheado de soluções que podem ser postas em prática. O neurocientista Andrew Huberman, professor da faculdade de medicina de Stanford e autor de Protocolos: um manual operacional do corpo humano Divulgação “Nenhuma pílula vai substituir atividade física, sono de qualidade e manejo do estresse. Ou seja, não é preciso comprar nada para começar a melhorar sua qualidade de vida”, afirma o autor, que defende que, quando aprendemos a explorar nosso sistema nervoso, podemos alcançar alguns pequenos superpoderes. No entanto, o que me conquistou de saída foi Huberman ter escolhido ancorar seu livro no sono, justificando que ele impacta todos os aspectos da nossa fisiologia e psicologia: “É a base da saúde mental, física e do nosso desempenho”, diz. Como uma coluna não daria conta de discorrer sobre as quase 600 páginas da obra, decidi abordar…",
+  "coletado_em": "2026-10-22T18:56:37+00:00",
+  "municipios": [],
+  "pontuacao": 6.0,
+  "agravos": [
+   "Emergências e desastres"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
   "id": "4c519eb686ab0a",
   "titulo": "Africa CDC Supports the Government of the Democratic Republic of the Congo in Strengthening Transparency and Accountability in Ebola Response Funding",
   "url": "https://africacdc.org/news-item/africa-cdc-supports-the-government-of-the-democratic-republic-of-the-congo-in-strengthening-transparency-and-accountability-in-ebola-response-funding/",
@@ -11123,28 +11207,6 @@
   "municipios": []
  },
  {
-  "id": "a0499f2f5019bc",
-  "titulo": "Health Ministers approve new regional strategy to prevent and control dengue and other arboviral diseases in the Americas",
-  "url": "https://www.paho.org/en/news/1-10-2026-health-ministers-approve-new-regional-strategy-prevent-and-control-dengue-and-other",
-  "fonte_id": "opas-noticias",
-  "fonte": "OPAS | Notícias",
-  "sigla": "OPAS",
-  "idioma": "en",
-  "data": "2026-10-01",
-  "data_estimada": false,
-  "se": "2026-39",
-  "descricao": "Health Ministers approve new regional strategy to prevent and control dengue and other arboviral diseases in the Americas Oscar Reyes 1 Oct 2026",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 2.5,
-  "agravos": [
-   "Dengue",
-   "Arboviroses"
-  ],
-  "escopo": "Américas",
-  "termos_evento": [],
-  "municipios": []
- },
- {
   "id": "19b61ffed46693",
   "titulo": "Risk to general population remains very low following fourth imported Ebola case in Europe",
   "url": "https://www.ecdc.europa.eu/en/news-events/risk-general-population-remains-very-low-following-fourth-imported-ebola-case-europe",
@@ -11207,6 +11269,28 @@
   "termos_evento": [
    "outbreaks"
   ],
+  "municipios": []
+ },
+ {
+  "id": "a0499f2f5019bc",
+  "titulo": "Health Ministers approve new regional strategy to prevent and control dengue and other arboviral diseases in the Americas",
+  "url": "https://www.paho.org/en/news/1-10-2026-health-ministers-approve-new-regional-strategy-prevent-and-control-dengue-and-other",
+  "fonte_id": "opas-noticias",
+  "fonte": "OPAS | Notícias",
+  "sigla": "OPAS",
+  "idioma": "en",
+  "data": "2026-10-01",
+  "data_estimada": false,
+  "se": "2026-39",
+  "descricao": "Health Ministers approve new regional strategy to prevent and control dengue and other arboviral diseases in the Americas Oscar Reyes 1 Oct 2026",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 2.5,
+  "agravos": [
+   "Dengue",
+   "Arboviroses"
+  ],
+  "escopo": "Américas",
+  "termos_evento": [],
   "municipios": []
  },
  {
@@ -11469,6 +11553,27 @@
   "escopo": "Internacional",
   "termos_evento": [],
   "municipios": []
+ },
+ {
+  "id": "ce9e38c725e09b",
+  "titulo": "Por que estamos, ao mesmo tempo, ficando mais e menos saudáveis?",
+  "url": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/09/29/por-que-estamos-ao-mesmo-tempo-ficando-mais-e-menos-saudaveis.ghtml",
+  "fonte_id": "g1-bem-estar",
+  "fonte": "G1 | Bem Estar",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-09-29",
+  "data_estimada": false,
+  "se": "2026-39",
+  "descricao": "Uma pesquisa recente realizada nos Estados Unidos apresentou um cenário aparentemente contraditório. Os norte-americanos estão divididos em dois grupos que vão em direções opostas: há os que vêm adotando um estilo de vida cada vez mais saudável e os que acumulam múltiplos hábitos prejudiciais. O problema que me chamou a atenção: são os idosos que lideram boa parte do segundo conjunto. A adoção de hábitos saudáveis que garantam uma longevidade ativa se concentra nos segmentos de maior poder aquisitivo islandworks para Pixabay Trata-se do novo relatório do projeto Sightlines, do Centro de Longevidade da Universidade Stanford. Incumbidos de responder se a população tem adotado comportamentos mais ou menos saudáveis, os pesquisadores concluíram que as duas opções estão corretas. Na média, pouco mudou desde o início do levantamento, em 2007. No entanto, a aparente estabilidade esconde uma polarização. Nas últimas duas décadas, a parcela de indivíduos que cultivam múltiplos hábitos benéficos – como alimentação rica em frutas e verduras, prática regular de exercícios e noites adequadas de sono – saltou de 33% para 44%. Simultaneamente, o contingente com diversos comportamentos nocivos, como sedentarismo, tabagismo, ingestão excessiva de álcool e consumo frequente de ultraprocessados, também aumentou, de 39% para 44%. Aqui está o ponto crucial: são os adultos acima dos 65 anos os principais responsáveis pela disparidade. O índice de idosos que aderiram a escolhas saudáveis e evitam…",
+  "coletado_em": "2026-10-22T18:56:37+00:00",
+  "municipios": [],
+  "pontuacao": 5.0,
+  "agravos": [
+   "Imunização"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
  },
  {
   "id": "dd0e63ace64303",
@@ -11986,6 +12091,27 @@
   "municipios": []
  },
  {
+  "id": "7190136531bc1a",
+  "titulo": "Calor extremo está associado a 33 diagnósticos que vão além de desidratação e insolação",
+  "url": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/09/20/calor-extremo-esta-associado-a-33-diagnosticos-que-vao-alem-de-desidratacao-e-insolacao.ghtml",
+  "fonte_id": "g1-bem-estar",
+  "fonte": "G1 | Bem Estar",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-09-20",
+  "data_estimada": false,
+  "se": "2026-38",
+  "descricao": "Calor extremo e altas temperaturas afetam a saúde da população Dias de calor extremo já se tornaram o novo “normal”. No entanto, além do desconforto e mal-estar dos últimos verões, o cenário que se descortina é o de uma emergência médica de grande envergadura. Não são apenas os casos de desidratação e insolação que preocupam os profissionais de saúde. Estudo realizado por pesquisadores da Universidade Northwestern, em Chicago (EUA), indicou 33 diagnósticos que nem sequer são relacionados às altas temperaturas, como acidentes de trânsito e esclerose múltipla. Calor extremo: associado a diagnósticos que vão além de desidratação e insolação Geralt para Pixabay Doenças associadas ao calor são difíceis de rastrear porque os prontuários médicos costumam registrar somente o problema tratado, sem apontar que a condição meteorológica pode ter contribuído para o quadro do paciente. O levantamento adotou uma metodologia inovadora, inspirada em pesquisas genômicas, para avaliar 1.803 diagnósticos em quase 1 milhão de atendimentos de emergência e urgência em Chicago de 2011 a 2023 – sempre entre os meses de maio e setembro, os mais quentes do Hemisfério Norte. Foi desse total que emergiram 33 diagnósticos ligados à exposição ao calor extremo, muitos dos quais surpreendentes. “Proteger os indivíduos e as comunidades mais vulneráveis aos efeitos nocivos das mudanças climáticas é uma obrigação de saúde pública”, afirmou a autora principal, Hyojung Jang, doutoranda em bioestatística da…",
+  "coletado_em": "2026-10-22T18:56:37+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
   "id": "8ff993fd857a52",
   "titulo": "Communicable disease threats report, 12-18 September, week 38",
   "url": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-12-18-september-week-38",
@@ -12049,6 +12175,27 @@
   "municipios": []
  },
  {
+  "id": "c192812181b6ec",
+  "titulo": "Bem-Estar #368 - Como evitar o mofo dentro de casa",
+  "url": "https://g1.globo.com/bemestar/podcast/noticia/2026/09/16/bem-estar-368-como-evitar-o-mofo-dentro-de-casa.ghtml",
+  "fonte_id": "g1-bem-estar",
+  "fonte": "G1 | Bem Estar",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-09-16",
+  "data_estimada": false,
+  "se": "2026-37",
+  "descricao": "Como evitar o mofo dentro de casa Este mês de setembro já é o mais chuvoso da cidade de São Paulo desde 1943, segundo dados do Instituto Nacional de Meteorologia. A sequência de dias chuvosos aumenta também a umidade do ar que fica em torno de 80 a 90% e pode chegar a 100 quando está chovendo. Com pouco sol, a água não evapora direito e as casas ficam úmidas, com paredes molhadas, espelhos e janelas embaçados, roupas que não secam... todas as condições que contribuem para o aparecimento de mofo. Além dos danos materiais, o mofo traz consequências para a saúde. Como prevenir e acabar com o mofo dentro de casa? Este é o tema do videocast do Bem-Estar desta quarta-feira (16) e a nossa convidada é a bióloga Karen Signori. Rinite: por que não existe cura (e o que dá pra fazer para melhorar) Rinite: os remédios que realmente funcionam para controlar a inflamação no nariz É gripe, resfriado ou alergia? Conheça os sintomas de cada um Logo do podcast Bem-Estar Arte/Bem Estar",
+  "coletado_em": "2026-10-22T18:56:37+00:00",
+  "municipios": [],
+  "pontuacao": 5.5,
+  "agravos": [
+   "Influenza e vírus respiratórios"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
   "id": "67dacb60832547",
   "titulo": "Communicable disease threats report, 5 - 11 September, week 37",
   "url": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-5-11-september-week-37",
@@ -12098,27 +12245,6 @@
   "municipios": []
  },
  {
-  "id": "6b5dfee977b539",
-  "titulo": "Notes from the Field: Clinical Characteristics of Patients with Ebola Disease Caused by Bundibugyo Virus - Uganda, 2026",
-  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766398",
-  "fonte_id": "cdc-mmwr",
-  "fonte": "CDC | MMWR",
-  "sigla": "CDC",
-  "idioma": "en",
-  "data": "2026-09-10",
-  "data_estimada": false,
-  "se": "2026-36",
-  "descricao": "This report describes characteristics of Ebola cases reported in Uganda during the 2025 outbreak.",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.0,
-  "agravos": [
-   "Doença pelo vírus Ebola"
-  ],
-  "escopo": "Internacional",
-  "termos_evento": [],
-  "municipios": []
- },
- {
   "id": "5d92dd10e1791a",
   "titulo": "Notes from the Field: Characteristics and Monitoring of the 2026 Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo, August 2026",
   "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766344",
@@ -12139,6 +12265,27 @@
   "termos_evento": [
    "outbreak"
   ],
+  "municipios": []
+ },
+ {
+  "id": "6b5dfee977b539",
+  "titulo": "Notes from the Field: Clinical Characteristics of Patients with Ebola Disease Caused by Bundibugyo Virus - Uganda, 2026",
+  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766398",
+  "fonte_id": "cdc-mmwr",
+  "fonte": "CDC | MMWR",
+  "sigla": "CDC",
+  "idioma": "en",
+  "data": "2026-09-10",
+  "data_estimada": false,
+  "se": "2026-36",
+  "descricao": "This report describes characteristics of Ebola cases reported in Uganda during the 2025 outbreak.",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 4.0,
+  "agravos": [
+   "Doença pelo vírus Ebola"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [],
   "municipios": []
  },
  {
@@ -12573,6 +12720,27 @@
   "municipios": []
  },
  {
+  "id": "d46f612a5bebaf",
+  "titulo": "A experiência de um filho cuidador para garantir a dignidade da mãe até o fim",
+  "url": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/08/13/a-experiencia-de-um-filho-cuidador-para-garantir-a-dignidade-da-mae-ate-o-fim.ghtml",
+  "fonte_id": "g1-bem-estar",
+  "fonte": "G1 | Bem Estar",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-08-13",
+  "data_estimada": false,
+  "se": "2026-32",
+  "descricao": "Como escolher um bom cuidador de idosos? Normalmente, são as mulheres que assumem a tarefa de cuidadoras de familiares; por isso o livro Todo tempo é para viver, de Clovis Salomon, é tão bem-vindo. Engenheiro civil bem-sucedido, ele conta como foi a experiência de se tornar o principal cuidador da mãe, Olga. O aspecto mais interessante da obra foi ter levado para o ambiente doméstico conceitos de planejamento e organização, que compartilha com os leitores na seção final, intitulada “guia de referência para pessoas sob cuidados especiais em residências”. No entanto, o mais emocionante foi seu empenho para respeitar o ser humano que vivia uma fase de enorme fragilidade. Em suas palavras: “Meu maior compromisso foi garantir que ela continuasse sen¬do a Olga. Que fosse respeitada em sua história, em seus gostos e em sua forma de ser. Que pudesse se sentir viva dentro das suas possibilidades.” Clovis Salomon ao lado da mãe: “Meu maior compromisso foi garantir que ela continuasse sen¬do a Olga. Que fosse respeitada em sua história, em seus gostos e em sua forma de ser” Acervo familiar O livro vai além do relato autobiográfico: transforma uma experiência familiar em um guia de acolhimento e empatia para os que vivem ou poderão viver algo semelhante. Em primeiro lugar, o autor resgata a trajetória de Olga Felisberto Salomon. Professora, advogada e gestora pública, ela sempre foi uma mulher independente e acostumada a liderar, até que uma queda doméstica mudou drasticamente a…",
+  "coletado_em": "2026-10-22T18:56:37+00:00",
+  "municipios": [],
+  "pontuacao": 5.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
   "id": "9c8a3ae28d5920",
   "titulo": "Notes from the Field: Potential Infant HIV Exposure from Donated Breast Milk Received Through Social Media - Santa Clara County, California, May 2025-January 2026",
   "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766232",
@@ -12613,6 +12781,30 @@
   "escopo": "Internacional",
   "termos_evento": [],
   "municipios": []
+ },
+ {
+  "id": "d75b229bcec9f1",
+  "titulo": "Por que a poluição dos incêndios florestais é tão perigosa para todos?",
+  "url": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/08/11/por-que-a-poluicao-dos-incendios-florestais-e-tao-perigosa-para-todos.ghtml",
+  "fonte_id": "g1-bem-estar",
+  "fonte": "G1 | Bem Estar",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-08-11",
+  "data_estimada": false,
+  "se": "2026-32",
+  "descricao": "As mudanças climáticas e os efeitos do Super El Niño vêm produzindo devastadores incêndios florestais e secas severas na Europa – uma realidade que, infelizmente, conhecemos bem: o ano de 2020 marcou o maior desastre ambiental já registrado no Pantanal. A combinação da pior seca em 50 anos com o uso inadequado do fogo resultou em focos fora de controle e imagens estarrecedoras de animais carbonizados. No entanto, além da destruição ambiental, vale lembrar que a poluição atmosférica tem impacto direto no surgimento de doenças respiratórias e cardiovasculares. A exposição à fumaça a incêndios florestais aumenta significativamente o risco de demência Elg21 para Pixabay Densos em gases tóxicos que inflamam as vias aéreas e partículas minúsculas que ultrapassam os pulmões e percorrem a corrente sanguínea atingindo todos os órgãos do corpo, os vapores dos incêndios florestais matam 1,5 milhão de pessoas por ano, revelou um estudo publicado na The Lancet em 2024 – mais do que inundações, chamas, tempestades e ondas de calor combinadas. Em 2024, na Conferência Internacional da Associação de Alzheimer, pesquisa realizada na Califórnia – que acompanhou 1,2 milhão de pessoas durante dez anos – mostrou que a exposição à fumaça desses incêndios aumenta significativamente o risco de demência, mais do que outros tipos de poluição atmosférica, como a provocada por indústrias e automóveis. Um novo trabalho aponta que os incêndios florestais são agora os principais responsáveis pelos níveis…",
+  "coletado_em": "2026-10-22T18:56:37+00:00",
+  "municipios": [],
+  "pontuacao": 10.5,
+  "agravos": [
+   "Saúde ambiental e clima",
+   "Emergências e desastres"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "destruicao"
+  ]
  },
  {
   "id": "8a66600168b428",
@@ -12798,6 +12990,29 @@
   "municipios": []
  },
  {
+  "id": "8342cdc0c49c77",
+  "titulo": "Como se comunicar com alguém com demência",
+  "url": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/07/23/como-se-comunicar-com-alguem-com-demencia.ghtml",
+  "fonte_id": "g1-bem-estar",
+  "fonte": "G1 | Bem Estar",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-07-23",
+  "data_estimada": false,
+  "se": "2026-29",
+  "descricao": "Depressão pode estar ligada a casos de demência em idosos; entenda Já que a doença de Alzheimer foi tema das últimas colunas, achei importante fechar essa série tratando dos desafios de comunicação com alguém com demência. Esse é um processo desgastante, ao longo do qual cuidadores e familiares se encontram, muitas vezes, à beira da exaustão. Para quem lida com a situação cotidianamente, escrevi uma coluna cujo link pode ser acessado aqui. No entanto, mesmo quem não convive diariamente com a pessoa tem como aperfeiçoar sua capacidade de aproximação. Pessoas com demência: revisitar memórias é a melhor maneira de iniciar uma conversa com alguém que está sofrendo um processo de declínio cognitivo Geralt para Pixabay É comum que o paciente alterne um estado de apatia e desinteresse com momentos ativos. Que repita perguntas, que esqueça fatos recentes, que confunda a identidade de pessoas próximas. Levei uma tia querida à festa de aniversário de sua prima, que completava 90 anos, e ela perguntou diversas vezes se o bolo era para ela. Também queria saber de um outro primo, já falecido, e, embora tivesse sido avisada na ocasião sobre sua morte, surpreendeu-se com a notícia. Enganos à parte, divertiu-se bastante, o que mostra que demência não precisa ser sinônimo de isolamento. Aqui estão algumas sugestões para esse exercício de paciência e empatia. Apresente-se: a melhor maneira de começar a falar com alguém com demência é se apresentando. Essa etapa pode não ser necessária se a…",
+  "coletado_em": "2026-10-22T18:56:37+00:00",
+  "municipios": [],
+  "pontuacao": 8.0,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "onda de calor"
+  ]
+ },
+ {
   "id": "c383fa6b966aec",
   "titulo": "Progress Toward Rubella and Congenital Rubella Syndrome Elimination - Worldwide, 2012-2024",
   "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766070",
@@ -12857,6 +13072,29 @@
   "escopo": "Internacional",
   "termos_evento": [],
   "municipios": []
+ },
+ {
+  "id": "5d98b62c37d854",
+  "titulo": "O que o Alzheimer tem a ver com sindemia, conceito que junta sinergia com epidemia?",
+  "url": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/07/19/o-que-o-alzheimer-tem-a-ver-com-sindemia-conceito-que-junta-sinergia-com-epidemia.ghtml",
+  "fonte_id": "g1-bem-estar",
+  "fonte": "G1 | Bem Estar",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-07-19",
+  "data_estimada": false,
+  "se": "2026-29",
+  "descricao": "Alzheimer em mulheres: danos cerebrais podem começar bem antes da velhice Quando se pensa em Alzheimer, logo vem à mente a imagem de placas beta-amiloides e de proteínas tau anormais no cérebro. No entanto, exames pós-morte de pessoas portadoras de demência indicam outros problemas, como o acúmulo de gorduras e até acidentes vasculares cerebrais microscópicos, também chamados de microinfartos cerebrais. Embora sejam assintomáticos, isto é, silenciosos, à medida que se acumulam podem afetar a capacidade cognitiva do indivíduo. Ampliar a forma de encarar a enfermidade tem levado os pesquisadores a dar cada vez mais importância à soma de eventos que impactam a existência humana. Dois terços dos pacientes com Alzheimer são mulheres: pesquisadores querem medir como variáveis como educação, pobreza, sono e oportunidades limitadas influenciam a reserva cognitiva Ageing without limits O conceito de sindemia foi largamente utilizado na Conferência Internacional da Alzheimer's Association (AAIC 2026), em Londres, mas o que isso quer dizer? Significa que estamos diante de um quadro complexo, que não deve ser visto apenas como uma falha biológica do cérebro, mas sim como o resultado de condições socioculturais, políticas, ambientais e econômicas. Em suma, é preciso levar em conta todos os fatores capazes de contribuir para a enfermidade. A palavra sindemia é uma junção de sinergia com epidemia, um conceito criado na década de 1990 pelo antropólogo médico Merrill Singer. Descreve uma…",
+  "coletado_em": "2026-10-22T18:56:37+00:00",
+  "municipios": [],
+  "pontuacao": 8.5,
+  "agravos": [
+   "Malária"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "epidemia"
+  ]
  },
  {
   "id": "75d465aa366f64",
@@ -12948,6 +13186,29 @@
   "municipios": []
  },
  {
+  "id": "636815b2953ade",
+  "titulo": "Epidemiological Alert: Dermatophilosis by Dermatophilus congolensis - 9 July 2026",
+  "url": "https://www.paho.org/en/documents/epidemiological-alert-dermatophilosis-dermatophilus-congolensis-9-july-2026",
+  "fonte_id": "opas-alertas",
+  "fonte": "OPAS | Alertas e atualizações epidemiológicas",
+  "sigla": "OPAS",
+  "idioma": "en",
+  "data": "2026-07-09",
+  "data_estimada": false,
+  "se": "2026-27",
+  "descricao": "",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 10.5,
+  "agravos": [
+   "Saúde Única: zoonoses e eventos em animais"
+  ],
+  "escopo": "Américas",
+  "termos_evento": [
+   "epidemiological alert"
+  ],
+  "municipios": []
+ },
+ {
   "id": "401bd450152d09",
   "titulo": "Norovirus, COVID-19, and Influenza Outbreaks Among Residents and Staff Members at the Eaton Wildfire Evacuation Shelter - Pasadena, California, January-February 2025",
   "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765980",
@@ -12969,29 +13230,6 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreaks"
-  ],
-  "municipios": []
- },
- {
-  "id": "636815b2953ade",
-  "titulo": "Epidemiological Alert: Dermatophilosis by Dermatophilus congolensis - 9 July 2026",
-  "url": "https://www.paho.org/en/documents/epidemiological-alert-dermatophilosis-dermatophilus-congolensis-9-july-2026",
-  "fonte_id": "opas-alertas",
-  "fonte": "OPAS | Alertas e atualizações epidemiológicas",
-  "sigla": "OPAS",
-  "idioma": "en",
-  "data": "2026-07-09",
-  "data_estimada": false,
-  "se": "2026-27",
-  "descricao": "",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 10.5,
-  "agravos": [
-   "Saúde Única: zoonoses e eventos em animais"
-  ],
-  "escopo": "Américas",
-  "termos_evento": [
-   "epidemiological alert"
   ],
   "municipios": []
  },
@@ -13178,6 +13416,30 @@
   "municipios": []
  },
  {
+  "id": "90576532b47250",
+  "titulo": "‘Matei os neurônios do meu filho’, lembra repórter que não teve acesso ao teste do pezinho ampliado; exame ainda avança lentamente no SUS",
+  "url": "https://g1.globo.com/saude/noticia/2026/06/26/matei-os-neuronios-do-meu-filho-lembra-reporter-que-nao-teve-acesso-ao-teste-do-pezinho-ampliado-exame-ainda-avanca-lentamente-no-sus.ghtml",
+  "fonte_id": "g1-bem-estar",
+  "fonte": "G1 | Bem Estar",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-06-26",
+  "data_estimada": false,
+  "se": "2026-25",
+  "descricao": "Acesso de bebês a exame ampliado no teste do pezinho ainda é desigual no Brasil Quando o filho da jornalista Larissa Carvalho nasceu, em 2015, ela fez o teste do pezinho oferecido pelo SUS e saiu da maternidade acreditando que estava tudo bem. Quase dois anos depois, descobriu que Theo tinha uma doença rara que não era detectada pelo exame disponível no SUS, na época. O diagnóstico tardio provocou uma lesão cerebral irreversível. A história da repórter da TV Globo Minas inspirou a chamada Lei Theo, que ampliou o teste do pezinho no SUS para mais de 50 doenças. Enquanto isso, o teste básico do SUS identifica apenas sete doenças. Cinco anos após a aprovação da lei, porém, o exame ampliado ainda está disponível apenas em dois estados, no Distrito Federal e parcialmente em Mato Grosso do Sul, mantendo milhares de bebês sem acesso à triagem mais completa. Grande parte do país continua realizando apenas a versão básica do exame. A diferença pode ser decisiva. O diagnóstico precoce de doenças raras permite o tratamento imediato, reduzindo significativamente o risco de sequelas permanentes. Um bebê a cada 2.500 nascidos desenvolve sequelas irreversíveis por falta de diagnóstico precoce, como ocorreu com Theo. Larissa defende que o teste do pezinho ampliado seja efetivamente oferecido pelo SUS em todo o país. reprodução TV Globo O que é o teste do pezinho O teste do pezinho consiste na coleta de uma pequena amostra de sangue do calcanhar do bebê entre 48 horas e cinco dias após o…",
+  "coletado_em": "2026-10-22T18:56:37+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 10.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [
+   "previsao",
+   "investigacao"
+  ]
+ },
+ {
   "id": "8898a0bf403713",
   "titulo": "Nipah virus disease - India",
   "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON609",
@@ -13295,6 +13557,27 @@
   "municipios": []
  },
  {
+  "id": "b318c8388214fc",
+  "titulo": "Sobre a impossibilidade de dar adeus à amiga que partiu",
+  "url": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/06/21/sobre-a-impossibilidade-de-dar-adeus-a-amiga-que-partiu.ghtml",
+  "fonte_id": "g1-bem-estar",
+  "fonte": "G1 | Bem Estar",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-06-21",
+  "data_estimada": false,
+  "se": "2026-25",
+  "descricao": "A maioria das pessoas tem amigos de longa data, quase sempre da juventude, e, à medida que envelhece, se ressente porque seu círculo de relações vai encolhendo. Sou muito sortuda por ter feito amigas na maturidade e a coluna de hoje é dedicada a uma delas: a médica Claudia Burlá, que partiu precocemente, aos 64 anos, no dia 16 de junho. Geriatra, com doutorado em bioética e uma referência nacional na área de cuidados paliativos, foi uma das primeiras entrevistadas do programa 50 Mais CBN, que eu ancorava com o médico e gerontólogo Alexandre Kalache e a também jornalista Mara Luquet. Fui conferir a data: 20 de junho de 2015. Aos poucos, de entrevistada tornou-se amiga. Impossível não se encantar com sua inteligência e paixão pela profissão. Sobre os cuidados paliativos – que tantas vezes abordei neste espaço – tinha uma declaração lapidar: A geriatra Claudia Burlá: “É quando se pensa que não há mais nada a fazer que os cuidados paliativos podem fazer toda a diferença” Mariza Tavares “É quando se pensa que não há mais nada a fazer que os cuidados paliativos podem fazer toda a diferença para a pessoa até o final da sua vida”. Não eram apenas palavras. Era o seu dia a dia como médica, palestrante, professora, mentora. Nos últimos dias, reli cinco anos de mensagens trocadas que estavam armazenadas em meu celular. Desde março de 2021, quando escrevíamos sobre o clima de medo e impotência durante a pandemia, até o fim de maio deste ano, quando organizamos o nosso último jantar…",
+  "coletado_em": "2026-10-22T18:56:37+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Poliomielite"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
   "id": "d51cca4b9907bb",
   "titulo": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda",
   "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON608",
@@ -13362,6 +13645,30 @@
   "escopo": "Américas",
   "termos_evento": [],
   "municipios": []
+ },
+ {
+  "id": "4dfee4fa093583",
+  "titulo": "Bem-Estar #355 - Teste do pezinho: A luta de uma mãe pela prevenção das doenças raras",
+  "url": "https://g1.globo.com/bemestar/podcast/noticia/2026/06/17/bem-estar-355-teste-do-pezinho-a-luta-de-uma-mae-pela-prevencao-das-doencas-raras.ghtml",
+  "fonte_id": "g1-bem-estar",
+  "fonte": "G1 | Bem Estar",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-06-17",
+  "data_estimada": false,
+  "se": "2026-24",
+  "descricao": "Teste do pezinho: A luta de uma mãe pela prevenção das doenças raras O Programa Nacional de Triagem Neonatal, conhecido popularmente como “teste do pezinho”, completou 25 anos este ano. Certamente você já viu a imagem da coleta de sangue de um furinho feito no calcanhar do bebê. Ainda que não seja suficiente para fechar um diagnóstico, o teste do pezinho é essencial para indicar suspeitas de dezenas de condições e doenças raras. A coleta deve ser feita ainda na maternidade ou no posto de saúde, entre 48 horas e cinco dias após o parto. Atualmente, existem dois tipos de teste: o básico, oferecido no SUS, e o ampliado, que está disponível em laboratórios privados. O teste básico detecta sete doenças. O ampliado, mais de 50. Em maio de 2021 uma lei alterou o Estatuto da Criança e do Adolescente para que o SUS passasse a oferecer o teste ampliado. Mas a legislação não estabeleceu prazos para que estados e municípios cumprissem essa ampliação. E hoje, cinco anos depois, o teste ampliado só está disponível em dois estados e no Distrito Federal. Conclusão... um bebê a cada 2 mil e 500 nascidos têm sequelas irreversíveis causadas por falta de diagnóstico precoce. Foi exatamente o que aconteceu com o Theo, filho da nossa entrevistada de hoje, a jornalista Larissa Carvalho. Larissa é repórter da TV Globo em Belo Horizonte e lutou incansavelmente para ampliar o teste do Pezinho no SUS. Tanto que a lei ficou popularmente conhecida como Lei Theo. Ela vai nos contar como é a rotina com o…",
+  "coletado_em": "2026-10-22T18:56:37+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 10.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [
+   "previsao",
+   "investigacao"
+  ]
  },
  {
   "id": "6b4631b786acbb",
@@ -13549,27 +13856,6 @@
   "municipios": []
  },
  {
-  "id": "4f5961dd404328",
-  "titulo": "QuickStats: Age-Adjusted Colorectal Cancer Death Rates, by State - United States, 2024",
-  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765815",
-  "fonte_id": "cdc-mmwr",
-  "fonte": "CDC | MMWR",
-  "sigla": "CDC",
-  "idioma": "en",
-  "data": "2026-06-11",
-  "data_estimada": false,
-  "se": "2026-23",
-  "descricao": "This report describes a large outbreak of Bundibugyo virus disease identified in the Democratic Republic of the Congo and Uganda.",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 0.0,
-  "agravos": [],
-  "escopo": "Internacional",
-  "termos_evento": [
-   "death"
-  ],
-  "municipios": []
- },
- {
   "id": "7aeab5c05b33d4",
   "titulo": "Notes from the Field: Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo and Uganda, May 2026",
   "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765735",
@@ -13589,6 +13875,27 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
+  ],
+  "municipios": []
+ },
+ {
+  "id": "4f5961dd404328",
+  "titulo": "QuickStats: Age-Adjusted Colorectal Cancer Death Rates, by State - United States, 2024",
+  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765815",
+  "fonte_id": "cdc-mmwr",
+  "fonte": "CDC | MMWR",
+  "sigla": "CDC",
+  "idioma": "en",
+  "data": "2026-06-11",
+  "data_estimada": false,
+  "se": "2026-23",
+  "descricao": "This report describes a large outbreak of Bundibugyo virus disease identified in the Democratic Republic of the Congo and Uganda.",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Internacional",
+  "termos_evento": [
+   "death"
   ],
   "municipios": []
  },
@@ -13804,6 +14111,27 @@
   "municipios": []
  },
  {
+  "id": "905f8eceb4ff9d",
+  "titulo": "Amanita Species Mushroom Poisonings - Northern California, November 2025-March 2026",
+  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765642",
+  "fonte_id": "cdc-mmwr",
+  "fonte": "CDC | MMWR",
+  "sigla": "CDC",
+  "idioma": "en",
+  "data": "2026-05-28",
+  "data_estimada": false,
+  "se": "2026-21",
+  "descricao": "This report describes an outbreak of 39 cases of amatoxin mushroom poisoning in Northern California.",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 4.0,
+  "agravos": [
+   "Intoxicações"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [],
+  "municipios": []
+ },
+ {
   "id": "1f12ce7bff7f72",
   "titulo": "Characteristics of Patients Hospitalized with Measles During an Outbreak - West Texas, January-March 2025",
   "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765641",
@@ -13824,27 +14152,6 @@
   "termos_evento": [
    "outbreak"
   ],
-  "municipios": []
- },
- {
-  "id": "905f8eceb4ff9d",
-  "titulo": "Amanita Species Mushroom Poisonings - Northern California, November 2025-March 2026",
-  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=765642",
-  "fonte_id": "cdc-mmwr",
-  "fonte": "CDC | MMWR",
-  "sigla": "CDC",
-  "idioma": "en",
-  "data": "2026-05-28",
-  "data_estimada": false,
-  "se": "2026-21",
-  "descricao": "This report describes an outbreak of 39 cases of amatoxin mushroom poisoning in Northern California.",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.0,
-  "agravos": [
-   "Intoxicações"
-  ],
-  "escopo": "Internacional",
-  "termos_evento": [],
   "municipios": []
  },
  {
@@ -14030,6 +14337,29 @@
   "escopo": "Américas",
   "termos_evento": [],
   "municipios": []
+ },
+ {
+  "id": "4342c95723a5e6",
+  "titulo": "Os instrutores de fitness criados com IA que prometem resultados irreais",
+  "url": "https://g1.globo.com/saude/noticia/2026/05/17/os-instrutores-de-fitness-criados-com-ia-que-prometem-resultados-irreais.ghtml",
+  "fonte_id": "g1-bem-estar",
+  "fonte": "G1 | Bem Estar",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-05-17",
+  "data_estimada": false,
+  "se": "2026-20",
+  "descricao": "Uma foto de três instrutores de fitness com IA que a BBC identificou BBC Se você usa mídias sociais, provavelmente já viu: vídeos de fitness sofisticados que prometem transformações corporais impressionantes em poucas semanas. 📱Baixe o app do g1 para ver notícias em tempo real e de graça Eles exibem corpos esculpidos, imagens marcantes de \"antes e depois\" e garantem que é possível parecer anos mais jovem seguindo uma rotina simples. Os resultados costumam parecer bons demais para serem verdade. E, em muitos casos, são mesmo. Vídeos em alta no g1 Uma investigação da BBC identificou anúncios enganosos de fitness com personagens gerados por inteligência artificial que violam as regras de publicidade do Reino Unido. Em muitos desses anúncios, sequer fica claro que as pessoas apresentadas não são reais. Mas por que fazer isso? Para vender assinaturas de aplicativos de fitness. Diante disso, surge a pergunta: é fácil saber se quem dá conselhos sobre condicionamento físico realmente existe? E, afinal, isso importa? 'Difícil dizer em quem acreditar' O conteúdo gerado por IA vem inundando as redes sociais nos últimos dois anos, e vídeos que promovem exercícios e programas de condicionamento físico online se tornaram cada vez mais comuns. Muitos dos anúncios identificados pela BBC e encaminhados à Advertising Standards Authority (ASA, a Autoridade de Normas Publicitárias) exibiam personagens criados por inteligência artificial que afirmavam ter seguido seus próprios programas de…",
+  "coletado_em": "2026-10-22T18:56:37+00:00",
+  "municipios": [],
+  "pontuacao": 8.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "tendencia",
+   "surge",
+   "investigacao"
+  ]
  },
  {
   "id": "6faf236844dbdf",
@@ -14573,25 +14903,6 @@
   "municipios": []
  },
  {
-  "id": "02a38751b6dcca",
-  "titulo": "Severe Illness Associated with Eating Mushroom-Containing Chocolate Products - United States, January-October 2024",
-  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=764764",
-  "fonte_id": "cdc-mmwr",
-  "fonte": "CDC | MMWR",
-  "sigla": "CDC",
-  "idioma": "en",
-  "data": "2026-04-09",
-  "data_estimada": false,
-  "se": "2026-14",
-  "descricao": "This report describes severe illness associated with eating mushroom-containing chocolate products.",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 0.0,
-  "agravos": [],
-  "escopo": "Internacional",
-  "termos_evento": [],
-  "municipios": []
- },
- {
   "id": "f0519ea5a3fd56",
   "titulo": "Emergence of Extensively Drug-Resistant Shigellosis - United States, 2011-2023",
   "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=764763",
@@ -14610,6 +14921,25 @@
    "Doenças transmitidas por alimentos e água"
   ],
   "escopo": "Américas",
+  "termos_evento": [],
+  "municipios": []
+ },
+ {
+  "id": "02a38751b6dcca",
+  "titulo": "Severe Illness Associated with Eating Mushroom-Containing Chocolate Products - United States, January-October 2024",
+  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=764764",
+  "fonte_id": "cdc-mmwr",
+  "fonte": "CDC | MMWR",
+  "sigla": "CDC",
+  "idioma": "en",
+  "data": "2026-04-09",
+  "data_estimada": false,
+  "se": "2026-14",
+  "descricao": "This report describes severe illness associated with eating mushroom-containing chocolate products.",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Internacional",
   "termos_evento": [],
   "municipios": []
  },
@@ -15405,27 +15735,6 @@
   "municipios": []
  },
  {
-  "id": "64e393667511fd",
-  "titulo": "Imported Human Rabies - Kentucky and Ohio, 2024",
-  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=762975",
-  "fonte_id": "cdc-mmwr",
-  "fonte": "CDC | MMWR",
-  "sigla": "CDC",
-  "idioma": "en",
-  "data": "2026-01-15",
-  "data_estimada": false,
-  "se": "2026-02",
-  "descricao": "This report describes a human rabies case with a delayed diagnosis that led to health care provider exposures in two states: Kentucky and Ohio.",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 0.0,
-  "agravos": [
-   "Raiva"
-  ],
-  "escopo": "Internacional",
-  "termos_evento": [],
-  "municipios": []
- },
- {
   "id": "53183af1b71f52",
   "titulo": "Notes from the Field: Wastewater Surveillance for Measles Virus During a Measles Outbreak - Colorado, August 2025",
   "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=762974",
@@ -15473,6 +15782,27 @@
   "municipios": []
  },
  {
+  "id": "64e393667511fd",
+  "titulo": "Imported Human Rabies - Kentucky and Ohio, 2024",
+  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=762975",
+  "fonte_id": "cdc-mmwr",
+  "fonte": "CDC | MMWR",
+  "sigla": "CDC",
+  "idioma": "en",
+  "data": "2026-01-15",
+  "data_estimada": false,
+  "se": "2026-02",
+  "descricao": "This report describes a human rabies case with a delayed diagnosis that led to health care provider exposures in two states: Kentucky and Ohio.",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 0.0,
+  "agravos": [
+   "Raiva"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [],
+  "municipios": []
+ },
+ {
   "id": "9b74c46e6d1f2c",
   "titulo": "Erratum: Vol. 74, No. 41",
   "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=762977",
@@ -15488,28 +15818,6 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
-  "termos_evento": [],
-  "municipios": []
- },
- {
-  "id": "8dfefb4cabbc06",
-  "titulo": "Use of the GSK MenACWY-CRM/MenB-4C Pentavalent Meningococcal Vaccine Among Persons Aged ≥10 Years: Recommendations of the Advisory Committee on Immunization Practices - United States, 2025",
-  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=762789",
-  "fonte_id": "cdc-mmwr",
-  "fonte": "CDC | MMWR",
-  "sigla": "CDC",
-  "idioma": "en",
-  "data": "2026-01-08",
-  "data_estimada": false,
-  "se": "2026-01",
-  "descricao": "This report updates recommendations for the use meningococcal vaccine among people 10 years of age and older.",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 0.0,
-  "agravos": [
-   "Doença meningocócica e meningites",
-   "Imunização"
-  ],
-  "escopo": "Américas",
   "termos_evento": [],
   "municipios": []
  },
@@ -15534,6 +15842,28 @@
   "termos_evento": [
    "outbreak"
   ],
+  "municipios": []
+ },
+ {
+  "id": "8dfefb4cabbc06",
+  "titulo": "Use of the GSK MenACWY-CRM/MenB-4C Pentavalent Meningococcal Vaccine Among Persons Aged ≥10 Years: Recommendations of the Advisory Committee on Immunization Practices - United States, 2025",
+  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=762789",
+  "fonte_id": "cdc-mmwr",
+  "fonte": "CDC | MMWR",
+  "sigla": "CDC",
+  "idioma": "en",
+  "data": "2026-01-08",
+  "data_estimada": false,
+  "se": "2026-01",
+  "descricao": "This report updates recommendations for the use meningococcal vaccine among people 10 years of age and older.",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 0.0,
+  "agravos": [
+   "Doença meningocócica e meningites",
+   "Imunização"
+  ],
+  "escopo": "Américas",
+  "termos_evento": [],
   "municipios": []
  },
  {
@@ -15643,6 +15973,27 @@
   "municipios": []
  },
  {
+  "id": "19dc8b56aaa52e",
+  "titulo": "Effectiveness of 2024-2025 COVID-19 Vaccines in Children in the United States - VISION, August 29, 2024-September 2, 2025",
+  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=762139",
+  "fonte_id": "cdc-mmwr",
+  "fonte": "CDC | MMWR",
+  "sigla": "CDC",
+  "idioma": "en",
+  "data": "2025-12-11",
+  "data_estimada": false,
+  "se": "2025-50",
+  "descricao": "This report describes COVID-19 vaccine effectiveness among children ages 9 months to 17 years.",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 3.0,
+  "agravos": [
+   "COVID-19"
+  ],
+  "escopo": "Américas",
+  "termos_evento": [],
+  "municipios": []
+ },
+ {
   "id": "9b17abf149d4c6",
   "titulo": "Rabies Cluster Among Steers on a Dairy Farm - Minnesota, 2024",
   "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=762143",
@@ -15663,27 +16014,6 @@
   "termos_evento": [
    "cluster"
   ],
-  "municipios": []
- },
- {
-  "id": "19dc8b56aaa52e",
-  "titulo": "Effectiveness of 2024-2025 COVID-19 Vaccines in Children in the United States - VISION, August 29, 2024-September 2, 2025",
-  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=762139",
-  "fonte_id": "cdc-mmwr",
-  "fonte": "CDC | MMWR",
-  "sigla": "CDC",
-  "idioma": "en",
-  "data": "2025-12-11",
-  "data_estimada": false,
-  "se": "2025-50",
-  "descricao": "This report describes COVID-19 vaccine effectiveness among children ages 9 months to 17 years.",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 3.0,
-  "agravos": [
-   "COVID-19"
-  ],
-  "escopo": "Américas",
-  "termos_evento": [],
   "municipios": []
  },
  {
@@ -15793,6 +16123,27 @@
   "municipios": []
  },
  {
+  "id": "d08261c5222058",
+  "titulo": "Nirsevimab Effectiveness Against Intensive Care Unit Admission for Respiratory Syncytial Virus in Infants - 24 States, December 2024-April 2025",
+  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=761559",
+  "fonte_id": "cdc-mmwr",
+  "fonte": "CDC | MMWR",
+  "sigla": "CDC",
+  "idioma": "en",
+  "data": "2025-11-20",
+  "data_estimada": false,
+  "se": "2025-47",
+  "descricao": "This report describes a multicenter case-control investigation that found nirsevimab was 80% effective at preventing RSV-associated ICU admissions among infants.",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 1.0,
+  "agravos": [
+   "Influenza e vírus respiratórios"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [],
+  "municipios": []
+ },
+ {
   "id": "a0648bcb802f28",
   "titulo": "Notes from the Field: Expanding Birthing Hospital Enrollment in the Vaccines for Children Program to Increase Infant Immunization Against Respiratory Syncytial Virus - United States, October 2023-March 2025",
   "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=761560",
@@ -15811,27 +16162,6 @@
    "Imunização"
   ],
   "escopo": "Américas",
-  "termos_evento": [],
-  "municipios": []
- },
- {
-  "id": "d08261c5222058",
-  "titulo": "Nirsevimab Effectiveness Against Intensive Care Unit Admission for Respiratory Syncytial Virus in Infants - 24 States, December 2024-April 2025",
-  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=761559",
-  "fonte_id": "cdc-mmwr",
-  "fonte": "CDC | MMWR",
-  "sigla": "CDC",
-  "idioma": "en",
-  "data": "2025-11-20",
-  "data_estimada": false,
-  "se": "2025-47",
-  "descricao": "This report describes a multicenter case-control investigation that found nirsevimab was 80% effective at preventing RSV-associated ICU admissions among infants.",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 1.0,
-  "agravos": [
-   "Influenza e vírus respiratórios"
-  ],
-  "escopo": "Internacional",
   "termos_evento": [],
   "municipios": []
  },
@@ -15878,27 +16208,6 @@
   "municipios": []
  },
  {
-  "id": "298814003b2e3d",
-  "titulo": "Pediatric Influenza-Associated Encephalopathy and Acute Necrotizing Encephalopathy - United States, 2024-25 Influenza Season",
-  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=760282",
-  "fonte_id": "cdc-mmwr",
-  "fonte": "CDC | MMWR",
-  "sigla": "CDC",
-  "idioma": "en",
-  "data": "2025-09-25",
-  "data_estimada": false,
-  "se": "2025-39",
-  "descricao": "This report describes 109 U.S. cases of pediatric influenza-associated encephalopathy during the 2024-25 flu season - a high-severity season.",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 0.0,
-  "agravos": [
-   "Influenza e vírus respiratórios"
-  ],
-  "escopo": "Américas",
-  "termos_evento": [],
-  "municipios": []
- },
- {
   "id": "2258abff25251a",
   "titulo": "Interim Effectiveness Estimates of 2025 Southern Hemisphere Influenza Vaccines in Preventing Influenza-Associated Outpatient and Hospitalized Illness - Eight Southern Hemisphere Countries, March-September 2025",
   "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=760285",
@@ -15916,6 +16225,27 @@
    "Influenza e vírus respiratórios"
   ],
   "escopo": "Internacional",
+  "termos_evento": [],
+  "municipios": []
+ },
+ {
+  "id": "298814003b2e3d",
+  "titulo": "Pediatric Influenza-Associated Encephalopathy and Acute Necrotizing Encephalopathy - United States, 2024-25 Influenza Season",
+  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=760282",
+  "fonte_id": "cdc-mmwr",
+  "fonte": "CDC | MMWR",
+  "sigla": "CDC",
+  "idioma": "en",
+  "data": "2025-09-25",
+  "data_estimada": false,
+  "se": "2025-39",
+  "descricao": "This report describes 109 U.S. cases of pediatric influenza-associated encephalopathy during the 2024-25 flu season - a high-severity season.",
+  "coletado_em": "2026-10-15T16:45:38+00:00",
+  "pontuacao": 0.0,
+  "agravos": [
+   "Influenza e vírus respiratórios"
+  ],
+  "escopo": "Américas",
   "termos_evento": [],
   "municipios": []
  },
