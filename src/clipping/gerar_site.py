@@ -93,6 +93,7 @@ def gerar() -> None:
     (DOCS / "index.html").write_text(html, encoding="utf-8")
     (DOCS / "assets").mkdir(exist_ok=True)
     shutil.copy(ASSETS / "img" / "logos.png", DOCS / "assets" / "logos.png")
+    shutil.copy(ASSETS / "img" / "logos-transparente.png", DOCS / "assets" / "logos-transparente.png")
     (DOCS / "assets" / "fonts").mkdir(exist_ok=True)
     for fonte in (ASSETS / "fonts").glob("Inter-*.woff2"):
         shutil.copy(fonte, DOCS / "assets" / "fonts" / fonte.name)
