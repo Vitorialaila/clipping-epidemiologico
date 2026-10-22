@@ -1,5 +1,41 @@
 [
  {
+  "t": "Eleições 2026: segundo turno no DF não terá lei seca",
+  "u": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525703-eleicoes-2026-segundo-turno-no-df-nao-tera-lei-seca.html",
+  "d": "2026-10-22",
+  "df": "22 out 2026",
+  "f": "Correio Braziliense",
+  "fn": "Correio Braziliense | Cidades DF",
+  "e": "DF",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 10.5,
+  "se": "2026-42",
+  "r": "",
+  "i": "clima",
+  "m": [
+   "Distrito Federal"
+  ]
+ },
+ {
+  "t": "InfoGripe: três estados têm incidência de SRAG em nível de alerta ou risco, com sinal de crescimento",
+  "u": "https://agencia.fiocruz.br/infogripe-tres-estados-tem-incidencia-de-srag-em-nivel-de-alerta-ou-risco-com-sinal-de-crescimento",
+  "d": "2026-10-22",
+  "df": "22 out 2026",
+  "f": "Fiocruz",
+  "fn": "Agência Fiocruz de Notícias",
+  "e": "Brasil",
+  "a": [
+   "Influenza e vírus respiratórios"
+  ],
+  "p": 9.5,
+  "se": "2026-42",
+  "r": "InfoGripe: três estados têm incidência de SRAG em nível de alerta ou risco, com sinal de crescimento",
+  "i": "respiratorio",
+  "m": []
+ },
+ {
   "t": "Chuvas: Defesa Civil decreta situação de emergência em cidades do Sul",
   "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/chuvas-defesa-civil-decreta-situacao-de-emergencia-em-cidades-do-sul",
   "d": "2026-10-22",
@@ -29,6 +65,23 @@
   "se": "2026-42",
   "r": "A Agência Nacional de Vigilância Sanitária (Anvisa) emitiu alerta para reforçar a proibição do uso do suplemento alimentar ashwagandha no Brasil. A erva asiática tem sido indicada, principalmente pela rede social TikTok, para relaxamento e alívio dos sintomas…",
   "i": "alerta",
+  "m": []
+ },
+ {
+  "t": "Com chuvas no Sul impulsionadas pelo El Niño, rede de pluviômetros expande monitoramento de desastres em 2026",
+  "u": "https://www.gov.br/cemaden/pt-br/com-chuvas-no-sul-impulsionadas-pelo-el-nino-rede-de-pluviometros-expande-monitoramento-de-desastres-em-2026",
+  "d": "2026-10-22",
+  "df": "22 out 2026",
+  "f": "Cemaden",
+  "fn": "Cemaden | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-42",
+  "r": "",
+  "i": "clima",
   "m": []
  },
  {
@@ -1878,6 +1931,23 @@
    "Doença pelo vírus Ebola"
   ],
   "p": 14.5,
+  "se": "2026-38",
+  "r": "Since the last Disease Outbreak News was published on 11 September 2026, the Bundibugyo virus outbreak in the Democratic Republic of the Congo has expanded further, with two additional health zones affected. These include Bulu health zone in a new province…",
+  "i": "virus",
+  "m": []
+ },
+ {
+  "t": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo",
+  "u": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON621",
+  "d": "2026-09-25",
+  "df": "25 set 2026",
+  "f": "OMS",
+  "fn": "OMS | Disease Outbreak News",
+  "e": "Internacional",
+  "a": [
+   "Doença pelo vírus Ebola"
+  ],
+  "p": 11.5,
   "se": "2026-38",
   "r": "Since the last Disease Outbreak News was published on 11 September 2026, the Bundibugyo virus outbreak in the Democratic Republic of the Congo has expanded further, with two additional health zones affected. These include Bulu health zone in a new province…",
   "i": "virus",
