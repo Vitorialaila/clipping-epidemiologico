@@ -1,5 +1,125 @@
 [
  {
+  "id": "6c0ceeef45da36",
+  "titulo": "Vale do Paraíba e região têm alerta para chuva forte e risco de alagamentos até sábado",
+  "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/22/vale-do-paraiba-e-regiao-tem-alerta-para-chuva-forte-e-risco-de-alagamentos-ate-sabado.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-22",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 13.5,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alagamentos",
+   "alerta para"
+  ]
+ },
+ {
+  "id": "4bddc9b03a2d8c",
+  "titulo": "Sarampo: nenhum estado brasileiro atinge meta de vacinação e surtos em países vizinhos preocupam",
+  "url": "https://g1.globo.com/saude/noticia/2026/10/22/sarampo-nenhum-estado-brasileiro-atinge-meta-de-vacinacao-e-surtos-em-paises-vizinhos-preocupam.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-22",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 12.0,
+  "agravos": [
+   "Sarampo"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "surtos"
+  ]
+ },
+ {
+  "id": "1ae116b2876e5c",
+  "titulo": "Inmet alerta para baixa umidade do ar em mais de 100 cidades da Paraíba; veja locais sob aviso",
+  "url": "https://g1.globo.com/pb/paraiba/noticia/2026/10/22/inmet-alerta-para-baixa-umidade-do-ar-em-mais-de-100-cidades-da-paraiba-veja-locais-sob-aviso.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-22",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 12.0,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "baixa umidade",
+   "alerta para"
+  ]
+ },
+ {
+  "id": "49eec64a54bd4d",
+  "titulo": "Aviso da Defesa Civil do Rio Grande do Sul prevê virada no tempo e tempestades com granizo e ventos de até 80 km/h",
+  "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/22/aviso-da-defesa-civil-do-rio-grande-do-sul-previsao-tempestades-granizo-vento.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-22",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 11.5,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "granizo"
+  ]
+ },
+ {
+  "id": "18c540f7e13f96",
+  "titulo": "VÍDEO: Chuva de granizo atinge Patrocínio Paulista, SP",
+  "url": "https://g1.globo.com/google/amp/sp/ribeirao-preto-franca/noticia/2026/10/22/moradores-registram-chuva-de-granizo-em-patrocinio-paulista-sp.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-22",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 11.5,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "granizo"
+  ]
+ },
+ {
   "id": "bd27d8797e3266",
   "titulo": "InfoGripe: três estados têm incidência de SRAG em nível de alerta ou risco, com sinal de crescimento",
   "url": "https://agencia.fiocruz.br/infogripe-tres-estados-tem-incidencia-de-srag-em-nivel-de-alerta-ou-risco-com-sinal-de-crescimento",
@@ -20,6 +140,73 @@
   "escopo": "Brasil",
   "termos_evento": [
    "infogripe"
+  ]
+ },
+ {
+  "id": "7551616e83174a",
+  "titulo": "Paciente morre na França após infecção pelo vírus Shamonda; caso é inédito em humanos",
+  "url": "https://g1.globo.com/google/amp/saude/noticia/2026/10/22/paciente-morre-na-franca-apos-infeccao-pelo-virus-shamonda-caso-e-inedito-em-humanos.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-22",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Patógeno novo ou incomum em humanos"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "a9adddafd347ab",
+  "titulo": "Inmet emite alerta de tempestade de até 30 mm para cidades do Sul do Rio e Costa Verde",
+  "url": "https://g1.globo.com/google/amp/rj/sul-do-rio-costa-verde/noticia/2026/10/22/inmet-emite-alerta-de-tempestade-de-ate-30-mm-para-cidades-do-sul-do-rio-e-costa-verde.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-22",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "emite alerta"
+  ]
+ },
+ {
+  "id": "83913645355ae9",
+  "titulo": "Rio Claro acompanha previsão de chuva intensa após alerta da Defesa Civil",
+  "url": "https://g1.globo.com/sp/sao-carlos-regiao/videos-jornal-da-eptv-1-edicao/video/rio-claro-acompanha-previsao-de-chuva-intensa-apos-alerta-da-defesa-civil-15112966.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-22",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "previsao"
   ]
  },
  {
@@ -91,26 +278,26 @@
   "termos_evento": []
  },
  {
-  "id": "13c4577d8e4416",
-  "titulo": "Ashwagandha: Anvisa alerta que suplemento do TikTok não tem registro",
-  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/ashwagandha-anvisa-alerta-que-suplemento-do-tiktok-nao-tem-registro",
-  "fonte_id": "agencia-brasil-saude",
-  "fonte": "Agência Brasil | Saúde",
-  "sigla": "Agência Brasil",
+  "id": "d345af3f556316",
+  "titulo": "Londrina e Cambé recebem nova etapa de soltura de mosquitos Wolbachia contra dengue",
+  "url": "https://g1.globo.com/pr/norte-noroeste/videos-meio-dia-parana-londrina/video/londrina-e-cambe-recebem-nova-etapa-de-soltura-de-mosquitos-wolbachia-contra-dengue-15112684.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
   "idioma": "pt",
   "data": "2026-10-22",
   "data_estimada": false,
   "se": "2026-42",
-  "descricao": "A Agência Nacional de Vigilância Sanitária (Anvisa) emitiu alerta para reforçar a proibição do uso do suplemento alimentar ashwagandha no Brasil. A erva asiática tem sido indicada, principalmente pela rede social TikTok, para relaxamento e alívio dos sintomas da perimenopausa. Em nota, a Anvisa citou o caso de uma mulher britânica que teve falência do fígado, paradas cardíacas e sérios danos cerebrais após o uso do produto e reforçou que o suplemento não tem registro no Brasil.",
-  "coletado_em": "2026-10-22T13:47:08+00:00",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
   "municipios": [],
-  "pontuacao": 0.0,
-  "agravos": [],
+  "pontuacao": 8.0,
+  "agravos": [
+   "Dengue",
+   "Arboviroses"
+  ],
   "escopo": "Brasil",
-  "termos_evento": [
-   "alerta para",
-   "vigilancia"
-  ]
+  "termos_evento": []
  },
  {
   "id": "55b47d7e46bf11",
@@ -125,6 +312,132 @@
   "se": "2026-42",
   "descricao": "",
   "coletado_em": "2026-10-22T18:32:04+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "6fee254385e790",
+  "titulo": "Doença de Newcastle: 6 mil aves são abatidas em granja no Oeste de SC",
+  "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/22/doenca-newcastle-6-mil-aves-abatidas-granja-oeste-sc.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-22",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde Única: zoonoses e eventos em animais"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "19eac9348b5a68",
+  "titulo": "Inmet: novo alerta de tempestade e ventos de até 60 km/h vai até 23h59 desta quinta para cidades do RJ",
+  "url": "https://g1.globo.com/google/amp/rj/norte-fluminense/noticia/2026/10/22/inmet-novo-alerta-de-tempestade-e-ventos-de-ate-60-kmh-vai-ate-23h59-desta-quinta-para-cidades-do-rj.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-22",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "a1a36beafe2ba3",
+  "titulo": "Alerta amarelo prevê tempestade em todos os municípios de Mato Grosso do Sul",
+  "url": "https://g1.globo.com/google/amp/ms/mato-grosso-do-sul/noticia/2026/10/22/alerta-amarelo-preve-tempestade-em-todos-os-municipios-de-mato-grosso-do-sul.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-22",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "5bac0577049bf3",
+  "titulo": "Após 14 dias consecutivos de fumaça, chuva melhora qualidade do ar em Manaus; situação varia no interior do AM",
+  "url": "https://g1.globo.com/google/amp/am/amazonas/noticia/2026/10/22/apos-14-dias-consecutivos-de-fumaca-chuva-melhora-qualidade-do-ar-em-manaus-situacao-varia-no-interior-do-am.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-22",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "2abee4df859b3b",
+  "titulo": "Defesa Civil e bombeiros orientam como se proteger de tempestades",
+  "url": "https://g1.globo.com/pr/parana/videos-bom-dia-parana/video/defesa-civil-e-bombeiros-orientam-como-se-proteger-de-tempestades-15111746.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-22",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "b0ba8d1822e06d",
+  "titulo": "Governo federal reconhece emergência por estiagem em Santarém, no Pará",
+  "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/10/22/governo-federal-reconhece-emergencia-por-estiagem-em-santarem-no-para.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-22",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
   "municipios": [],
   "pontuacao": 7.5,
   "agravos": [
@@ -178,6 +491,28 @@
   ],
   "escopo": "Internacional",
   "termos_evento": []
+ },
+ {
+  "id": "13c4577d8e4416",
+  "titulo": "Ashwagandha: Anvisa alerta que suplemento do TikTok não tem registro",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/ashwagandha-anvisa-alerta-que-suplemento-do-tiktok-nao-tem-registro",
+  "fonte_id": "agencia-brasil-saude",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-22",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "A Agência Nacional de Vigilância Sanitária (Anvisa) emitiu alerta para reforçar a proibição do uso do suplemento alimentar ashwagandha no Brasil. A erva asiática tem sido indicada, principalmente pela rede social TikTok, para relaxamento e alívio dos sintomas da perimenopausa. Em nota, a Anvisa citou o caso de uma mulher britânica que teve falência do fígado, paradas cardíacas e sérios danos cerebrais após o uso do produto e reforçou que o suplemento não tem registro no Brasil.",
+  "coletado_em": "2026-10-22T13:47:08+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alerta para",
+   "vigilancia"
+  ]
  },
  {
   "id": "d26d80fd6330d8",
@@ -965,6 +1300,73 @@
   "termos_evento": []
  },
  {
+  "id": "df0fce8f938f08",
+  "titulo": "Júri condena a 26 anos homem que matou companheira ao empurrá-la de escada",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525849-juri-condena-a-26-anos-homem-que-matou-companheira-ao-empurra-la-de-escada.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-22",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "9cef3a0d55fdb2",
+  "titulo": "Calorão: Inmet prevê temperaturas de até 35ºC para o final de semana",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525484-calorao-inmet-preve-temperaturas-de-ate-35-c-para-esta-quinta-22-10.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-22",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "7e00b3f31bcbed",
+  "titulo": "Inmet alerta para tempestade com risco de granizo e ventos de até 60 km/h na sexta; aviso inclui cidades do Norte, Serra e Região dos Lagos do RJ",
+  "url": "https://g1.globo.com/google/amp/rj/norte-fluminense/noticia/2026/10/20/inmet-alerta-para-tempestade-com-risco-de-granizo-e-ventos-de-ate-60-kmh-na-sexta-aviso-inclui-cidades-do-norte-serra-e-regiao-dos-lagos-do-rj.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 13.5,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "granizo",
+   "alerta para"
+  ]
+ },
+ {
   "id": "d6e589646be149",
   "titulo": "Goiás reforça sobre a vigilância contra a poliomielite diante do risco de reintrodução da doença",
   "url": "https://goias.gov.br/saude/goias-reforca-sobre-a-vigilancia-contra-a-poliomielite-diante-do-risco-de-reintroducao-da-doenca/",
@@ -1012,6 +1414,30 @@
   ]
  },
  {
+  "id": "48b457cd21e692",
+  "titulo": "Inmet alerta para baixa umidade do ar em mais de 90 cidades da Paraíba; veja locais",
+  "url": "https://g1.globo.com/google/amp/pb/paraiba/noticia/2026/10/21/inmet-alerta-para-baixa-umidade-do-ar-em-mais-de-90-cidades-da-paraiba-veja-locais.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 12.0,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "baixa umidade",
+   "alerta para"
+  ]
+ },
+ {
   "id": "990949f3436b72",
   "titulo": "Previsão de chuvas intensas e temporais coloca em alerta equipes do município",
   "url": "https://www.foz.pr.gov.br/previsao-de-chuvas-intensas-e-temporais-coloca-em-alerta-equipes-do-municipio/",
@@ -1036,6 +1462,78 @@
   ]
  },
  {
+  "id": "bf79b28db8c263",
+  "titulo": "SC tem previsão de temporais durante a semana e risco de chuva intensa no domingo de eleição",
+  "url": "https://g1.globo.com/google/amp/sc/santa-catarina/noticia/2026/10/21/sc-previsao-semana-domingo-de-eleicao.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 11.0,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "previsao"
+  ]
+ },
+ {
+  "id": "4b6a5934f87cee",
+  "titulo": "Altamira decreta situação de emergência por incêndios florestais no Pará",
+  "url": "https://g1.globo.com/google/amp/pa/para/noticia/2026/10/21/altamira-decreta-situacao-de-emergencia-por-incendios-florestais-no-para.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 11.0,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "situacao de emergencia",
+   "situacao de emergencia"
+  ]
+ },
+ {
+  "id": "f0d4b3c941e89c",
+  "titulo": "Estiagem prolongada no Amazonas faz mais de 40 cidades decretarem situação de emergência",
+  "url": "https://g1.globo.com/google/amp/jornal-nacional/noticia/2026/10/20/estiagem-prolongada-no-amazonas-faz-mais-de-40-cidades-decretarem-situacao-de-emergencia.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 11.0,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "situacao de emergencia",
+   "situacao de emergencia"
+  ]
+ },
+ {
   "id": "c7307d57653b6d",
   "titulo": "Ebola: Africa CDC Convenes African Ministers of Health as Ebola Outbreak Spreads Across Three Regions",
   "url": "https://africacdc.org/news-item/africa-cdc-convenes-african-ministers-of-health-as-ebola-outbreak-spreads-across-three-regions/",
@@ -1056,6 +1554,98 @@
   "escopo": "Internacional",
   "termos_evento": [
    "outbreak"
+  ]
+ },
+ {
+  "id": "a0208c4f343434",
+  "titulo": "Defesa Civil do RS alerta para retorno de tempestades com rajadas de vento; confira áreas",
+  "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/21/defesa-civil-tempestades-granizo-rs.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alerta para"
+  ]
+ },
+ {
+  "id": "4a5b075d32187f",
+  "titulo": "Defesa Civil do RS alerta para retorno de tempestades com rajadas de vento",
+  "url": "https://g1.globo.com/google/amp/rs/rio-grande-do-sul/video/defesa-civil-do-rs-alerta-para-retorno-de-tempestades-com-rajadas-de-vento-15110424.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alerta para"
+  ]
+ },
+ {
+  "id": "f09fb9c0b76b58",
+  "titulo": "MS tem alerta de tempestade com ventos de até 70 km/h; veja previsão",
+  "url": "https://g1.globo.com/google/amp/ms/mato-grosso-do-sul/noticia/2026/10/21/ms-tem-alerta-de-tempestade-com-ventos-de-ate-70-kmh-veja-previsao.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "previsao"
+  ]
+ },
+ {
+  "id": "5aa83230c6a819",
+  "titulo": "Semana tem alertas de tempestade do Inmet para o Vale do Paraíba e região; veja previsão para próximos dias",
+  "url": "https://g1.globo.com/google/amp/sp/vale-do-paraiba-regiao/noticia/2026/10/21/semana-tem-alertas-de-tempestade-do-inmet-para-o-vale-do-paraiba-e-regiao-veja-previsao-para-proximos-dias.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "previsao"
   ]
  },
  {
@@ -1129,6 +1719,28 @@
   ]
  },
  {
+  "id": "5d8ac20d4b0db3",
+  "titulo": "Aedes aegypti: cerca de 1,8 mil cidades estão em alerta ou em situação de risco por causa do mosquito transmissor da dengue",
+  "url": "https://g1.globo.com/google/amp/jornal-nacional/noticia/2026/10/20/aedes-aegypti-cerca-de-18-mil-cidades-brasileiras-estao-em-alerta-ou-em-situacao-de-risco-por-causa-do-mosquito-transmissor-da-dengue.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 8.0,
+  "agravos": [
+   "Dengue",
+   "Arboviroses"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
   "id": "0b7076cfdb5840",
   "titulo": "Tempestades voltam a atingir o Rio Grande do Sul a partir desta quarta-feira (21)",
   "url": "https://estado.rs.gov.br/tempestades-voltam-a-atingir-o-rio-grande-do-sul-a-partir-desta-quarta-feira-21",
@@ -1141,6 +1753,90 @@
   "se": "2026-42",
   "descricao": "",
   "coletado_em": "2026-10-21T22:20:11+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "8def7b5e8322c9",
+  "titulo": "Doença de Newcastle: operação fará visitas a 1,6 mil propriedades em áreas perto de foco confirmado",
+  "url": "https://g1.globo.com/google/amp/sc/santa-catarina/noticia/2026/10/21/doenca-newcastle-visitas-propriedades-perto-foco-sc.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde Única: zoonoses e eventos em animais"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "052b195ebcc440",
+  "titulo": "Veja quais são as 76 cidades que ficaram de fora do alerta de tempestade no Paraná",
+  "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/10/21/alerta-de-tempestade-no-parana.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "1bf486705d314f",
+  "titulo": "Combate as queimadas em Coari: pacto entre autoridades e sociedade civil para preservar",
+  "url": "https://g1.globo.com/am/amazonas/videos-bom-dia-amazonia/video/combate-as-queimadas-em-coari-pacto-entre-autoridades-e-sociedade-civil-para-preservar-15108721.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "7116480260030f",
+  "titulo": "Incêndio em ecoponto gera fumaça em Prudente; região entra em alerta de calor",
+  "url": "https://g1.globo.com/sp/bauru-marilia/videos-tem-noticias-1-edicao/video/incendio-em-ecoponto-gera-fumaca-em-prudente-regiao-entra-em-alerta-de-calor-15109067.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
   "municipios": [],
   "pontuacao": 7.5,
   "agravos": [
@@ -1254,6 +1950,27 @@
    "Doença pelo vírus Ebola"
   ],
   "escopo": "Internacional",
+  "termos_evento": []
+ },
+ {
+  "id": "ee7f5517644473",
+  "titulo": "Programação do aniversário de Manaus é cancelada devido à qualidade do ar na capital, diz prefeitura",
+  "url": "https://g1.globo.com/am/amazonas/utilidade-publica/noticia/2026/10/21/programacao-do-aniversario-de-manaus-e-cancelada-devido-a-qualidade-do-ar-na-capital-diz-prefeitura.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 5.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
   "termos_evento": []
  },
  {
@@ -2335,6 +3052,95 @@
   ]
  },
  {
+  "id": "f66e5d9d5733fc",
+  "titulo": "Jacundá decreta situação de emergência por incêndios florestais e efeitos da fumaça, no PA",
+  "url": "https://g1.globo.com/pa/para/noticia/2026/10/20/jacunda-decreta-situacao-de-emergencia-por-incendios-florestais-e-efeitos-da-fumaca-no-pa.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 11.0,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "situacao de emergencia",
+   "situacao de emergencia"
+  ]
+ },
+ {
+  "id": "31729d6919e40c",
+  "titulo": "Bebê de 11 meses internado em UTI no Acre está livre do sarampo, mas segue em estado grave, diz Saúde",
+  "url": "https://g1.globo.com/google/amp/ac/acre/noticia/2026/10/20/bebe-de-11-meses-internado-em-uti-no-acre-esta-livre-do-sarampo-mas-segue-em-estado-grave-diz-saude.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Sarampo"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "945cb864063635",
+  "titulo": "Febre amarela: Minas tem 33 registros em macacos e 69 notificações suspeitas em humanos",
+  "url": "https://g1.globo.com/google/amp/mg/zona-da-mata/mg1-zona-da-mata/video/febre-amarela-minas-tem-33-registros-em-macacos-e-69-notificacoes-suspeitas-em-humanos-15106282.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Febre amarela"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "c85fa3d3f50f38",
+  "titulo": "Paraná recebe alerta sobre a volta das tempestades em 178 cidades; veja quais e a previsão do tempo",
+  "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/10/20/parana-alerta-volta-temporais-previsao-do-tempo.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "previsao"
+  ]
+ },
+ {
   "id": "209702700af9c4",
   "titulo": "Governo impõe emergência zoossanitária após detectar Newcastle em SC",
   "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/governo-impoe-emergencia-zoossanitaria-apos-detectar-newcastle-em-sc",
@@ -2358,6 +3164,132 @@
   ]
  },
  {
+  "id": "e6e65de3308cc9",
+  "titulo": "Criança de 8 anos morre de meningite bacteriana no interior de SP",
+  "url": "https://g1.globo.com/google/amp/sp/sao-carlos-regiao/noticia/2026/10/20/crianca-de-8-anos-morre-de-meningite-bacteriana-no-interior-de-sp.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 8.5,
+  "agravos": [
+   "Doença meningocócica e meningites"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "0d909e8206bccd",
+  "titulo": "Menina de 8 anos morre vítima de meningite bacteriana no interior de SP",
+  "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/20/crianca-de-8-anos-morre-de-meningite-bacteriana-no-interior-de-sp.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 8.5,
+  "agravos": [
+   "Doença meningocócica e meningites"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "8515fa9055940b",
+  "titulo": "Secretaria de Saúde de MS orienta ampliar vacinação contra meningite",
+  "url": "https://g1.globo.com/ms/mato-grosso-do-sul/ms1/video/secretaria-de-saude-de-ms-orienta-ampliar-vacinacao-contra-meningite-15106915.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 8.5,
+  "agravos": [
+   "Doença meningocócica e meningites"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "491f856ba1f769",
+  "titulo": "Mato Grosso registrou mais de 100 casos de meningite e 16 mortes em 2026",
+  "url": "https://g1.globo.com/mt/mato-grosso/videos-bom-dia-mt/video/mato-grosso-registrou-mais-de-100-casos-de-meningite-e-16-mortes-em-2026-15105100.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 8.5,
+  "agravos": [
+   "Doença meningocócica e meningites"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "2e8c4f358481d9",
+  "titulo": "Moradora de São José do Rio Pardo, criança de 8 anos morre por meningite bacteriana",
+  "url": "https://g1.globo.com/sp/sao-carlos-regiao/videos-jornal-da-eptv-2-edicao/video/moradora-de-sao-jose-do-rio-pardo-crianca-de-8-anos-morre-por-meningite-bacteriana-15107294.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 8.5,
+  "agravos": [
+   "Doença meningocócica e meningites"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "75fea077c98ab2",
+  "titulo": "Ministério da Saúde investiga morte de criança de 8 anos com suspeita de meningite na Bahia",
+  "url": "https://g1.globo.com/google/amp/ba/bahia/noticia/2026/10/20/ministerio-da-saude-investiga-morte-de-crianca-na-bahia.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 8.5,
+  "agravos": [
+   "Doença meningocócica e meningites"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
   "id": "cbc2fa260f1225",
   "titulo": "Base da Força Nacional do SUS em Manaus começa a operar e apoia resposta às queimadas no Amazonas",
   "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/base-da-forca-nacional-do-sus-em-manaus-comeca-a-operar-e-apoia-resposta-as-queimadas-no-amazonas",
@@ -2374,6 +3306,259 @@
   "pontuacao": 8.0,
   "agravos": [
    "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "1bebf501cd54ed",
+  "titulo": "Casos de chikungunya disparam na Bahia",
+  "url": "https://g1.globo.com/ba/bahia/videos-jornal-da-manha/video/casos-de-chikungunya-disparam-na-bahia-15104411.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Chikungunya"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "ea2c4cdf102f02",
+  "titulo": "Divinópolis registra mais de 2 mil casos de dengue e quatro mortes em 2026",
+  "url": "https://g1.globo.com/mg/centro-oeste/videos-integracao-noticia/video/divinopolis-registra-mais-de-2-mil-casos-de-dengue-e-quatro-mortes-em-2026-15104809.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Dengue"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "6974a4279ae2ae",
+  "titulo": "Blumenau volta atrás na decisão de desligar agentes do combate à dengue",
+  "url": "https://g1.globo.com/sc/santa-catarina/videos-bom-dia-santa-catarina/video/blumenau-volta-atras-na-decisao-de-desligar-agentes-do-combate-a-dengue-15104571.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Dengue"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "2b6f9024af3ce8",
+  "titulo": "Brasil deve suspender exportações de frango para a China após foco de doença de Newcastle em SC",
+  "url": "https://g1.globo.com/google/amp/economia/agronegocios/noticia/2026/10/20/brasil-deve-suspender-exportacoes-de-frango-para-a-china-apos-foco-de-doenca-de-newcastle-em-sc.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde Única: zoonoses e eventos em animais"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "5afb7cfc3aeb78",
+  "titulo": "México suspende importação de frango do Brasil após foco da doença de Newcastle em SC",
+  "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/19/mexico-suspende-importacao-de-frango-do-brasil-apos-foco-da-doenca-de-newcastle-em-sc.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde Única: zoonoses e eventos em animais"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "1d8d0ac49f3a67",
+  "titulo": "Doença de Newcastle: mais de 130 granjas são monitoradas após confirmação de foco em SC",
+  "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/20/doenca-newcastle-130-granjas-monitoradas-confirmacao-foco-sc.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde Única: zoonoses e eventos em animais"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "4a51ccd29820ae",
+  "titulo": "Casos de dengue aumentam 252% em Fernando de Noronha em um ano",
+  "url": "https://g1.globo.com/google/amp/pe/pernambuco/blog/viver-noronha/post/2026/10/20/casos-de-dengue-aumentam-252percent-em-fernando-de-noronha-em-um-ano.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Dengue"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "1e0bd67e749dfc",
+  "titulo": "Governo de Minas cria comitê para enfrentar efeitos do El Niño e prevê ações contra seca e chuvas intensas no estado",
+  "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/20/governo-de-minas-cria-comite-para-enfrentar-efeitos-do-el-nino-e-preve-acoes-contra-seca-e-chuvas-intensas-no-estado.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "fc412704faede6",
+  "titulo": "Defesa Civil irá treinar agentes da Baixada Santista para enfrentar impactos do El Niño",
+  "url": "https://g1.globo.com/google/amp/sp/santos-regiao/noticia/2026/10/20/defesa-civil-ira-treinar-agentes-da-baixada-santista-para-enfrentar-impactos-do-el-nino.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "95a3bf78f25064",
+  "titulo": "Defesa Civil de Maceió elabora Protocolo de Atuação para altas temperaturas",
+  "url": "https://g1.globo.com/al/alagoas/videos-ab-2-edicao/video/defesa-civil-de-maceio-elabora-protocolo-de-atuacao-para-altas-temperaturas-15107159.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "f259127a26ed01",
+  "titulo": "Em Manaus, Flávio Bolsonaro promete ajudar no combate às queimadas e na proteção da Amazônia se for eleito",
+  "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/19/em-manaus-flavio-bolsonaro-promete-ajudar-no-combate-as-queimadas-e-na-protecao-da-amazonia-se-for-eleito.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "2071be40e2fb90",
+  "titulo": "Centro-Oeste de Minas intensifica ações de combate à dengue e outras arboviroses",
+  "url": "https://g1.globo.com/mg/centro-oeste/videos-mgtv-1-edicao/video/centro-oeste-de-minas-intensifica-acoes-de-combate-a-dengue-e-outras-arboviroses-15106608.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-20",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 3.0,
+  "agravos": [
+   "Dengue",
+   "Arboviroses"
   ],
   "escopo": "Brasil",
   "termos_evento": []
@@ -3762,6 +4947,77 @@
   ]
  },
  {
+  "id": "f5f8fa9e44ada7",
+  "titulo": "Inmet alerta para baixa umidade do ar em mais de 100 cidades da Paraíba; veja locais sob risco",
+  "url": "https://g1.globo.com/pb/paraiba/noticia/2026/10/19/inmet-alerta-para-baixa-umidade-do-ar-em-mais-de-100-cidades-da-paraiba-veja-locais-sob-risco.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 12.0,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "baixa umidade",
+   "alerta para"
+  ]
+ },
+ {
+  "id": "b3cf73a1001f79",
+  "titulo": "Governo de SP emite alerta sobre sarampo para temporada de cruzeiros",
+  "url": "https://g1.globo.com/bom-dia-brasil/video/governo-de-sp-emite-alerta-sobre-sarampo-para-temporada-de-cruzeiros-15100972.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 11.5,
+  "agravos": [
+   "Sarampo"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "emite alerta"
+  ]
+ },
+ {
+  "id": "7e2124440916ef",
+  "titulo": "Temporal com granizo e ventos de até 100 km/h causa estragos em Governador Valadares; FOTOS",
+  "url": "https://g1.globo.com/google/amp/mg/vales-mg/noticia/2026/10/19/temporal-com-granizo-e-ventos-de-ate-100-kmh-causa-estragos-em-governador-valadares-fotos.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 11.5,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "granizo"
+  ]
+ },
+ {
   "id": "b7a72e8af40502",
   "titulo": "Agricultura confirma foco de doença de Newcastle em Santa Catarina",
   "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/agricultura-confirma-foco-de-doenca-de-newcastle-em-santa-catarina",
@@ -3834,6 +5090,162 @@
   ]
  },
  {
+  "id": "d06a0946f2e2dd",
+  "titulo": "Mais de 1,7 mil doses são aplicadas em Dia 'D' na capital; vacinas contra sarampo são as mais procuradas",
+  "url": "https://g1.globo.com/google/amp/ac/acre/noticia/2026/10/19/balanco-dia-d-vacinacao-rio-branco.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Sarampo"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "386b229782e86d",
+  "titulo": "Sergipe é o único estado do país com nível de alerta de crescimento de Síndrome Respiratória Aguda Grave, alerta Fiocruz",
+  "url": "https://g1.globo.com/google/amp/se/sergipe/noticia/2026/10/19/srag-sergipe-fiocruz.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Influenza e vírus respiratórios"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "nivel de alerta"
+  ]
+ },
+ {
+  "id": "6328de3e708809",
+  "titulo": "El Niño muito forte coloca Cabo Frio em alerta para chuvas intensas",
+  "url": "https://g1.globo.com/google/amp/rj/regiao-dos-lagos/noticia/2026/10/19/el-nino-muito-forte-coloca-cabo-frio-em-alerta-para-chuvas-intensas.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alerta para"
+  ]
+ },
+ {
+  "id": "017c85626a8ccb",
+  "titulo": "Temporal destrói pizzaria, derruba árvores e telhados e deixa moradores sem energia no ES",
+  "url": "https://g1.globo.com/google/amp/es/espirito-santo/norte-noroeste-es/noticia/2026/10/19/temporal-derruba-arvores-e-telhados-destroi-pizzaria-e-deixa-moradores-sem-energia-no-es.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 9.0,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "e68a717aaef0f3",
+  "titulo": "Palmas entra em alerta após aumento de casos de dengue",
+  "url": "https://g1.globo.com/to/tocantins/videos-ja-1-edicao-to/video/palmas-entra-em-alerta-apos-aumento-de-casos-de-dengue-15103049.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 8.5,
+  "agravos": [
+   "Dengue"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "aumento de casos"
+  ]
+ },
+ {
+  "id": "b1e2a1bb0df681",
+  "titulo": "Meningite bacteriana: criança de 8 anos está na UTI em estado grave no interior de SP",
+  "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/19/meningite-bacteriana-crianca-de-8-anos-esta-na-uti-em-estado-grave-no-interior-de-sp.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 8.5,
+  "agravos": [
+   "Doença meningocócica e meningites"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "d1ed8db00367d4",
+  "titulo": "Defesa Civil de Caraguatatuba aponta cinco áreas de risco de deslizamento na Serra Antiga da Tamoios; entenda",
+  "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/19/defesa-civil-de-caraguatatuba-aponta-cinco-areas-de-risco-de-deslizamento-na-serra-antiga-da-tamoios-entenda.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 8.0,
+  "agravos": [
+   "Emergências e desastres"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "deslizamento"
+  ]
+ },
+ {
   "id": "2ea386d5148335",
   "titulo": "Defesa Civil alerta sobre possibilidade de chuvas intensas nesta segunda (19) e terça-feira (20) em Linhares",
   "url": "https://linhares.es.gov.br/2026/10/19/defesa-civil-alerta-sobre-possibilidade-de-chuvas-intensas-nesta-segunda-19-e-terca-feira-20-em-linhares/",
@@ -3846,6 +5258,216 @@
   "se": "2026-42",
   "descricao": "",
   "coletado_em": "2026-10-19T19:55:15+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "5034479d7229fc",
+  "titulo": "Com alta de 29% nos registros de dengue, Taubaté concentra 4 em cada 10 casos no Vale; cidade soma 11 mortes em 2026",
+  "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/19/com-alta-de-29percent-nos-registros-de-dengue-taubate-concentra-4-em-cada-10-casos-no-vale-cidade-soma-11-mortes-em-2026.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Dengue"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "de8a0ab642f575",
+  "titulo": "Casos de chikungunya saltam de 18 para 1.027 em um ano em cidade na Bahia",
+  "url": "https://g1.globo.com/google/amp/ba/feira-de-santana-regiao/noticia/2026/10/19/casos-de-chikungunya-em-cidade-na-bahia.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Chikungunya"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "3f936b1203ea4f",
+  "titulo": "Espécies exóticas aparecem na costa da Califórnia graças a um El Niño excepcionalmente forte",
+  "url": "https://g1.globo.com/meio-ambiente/noticia/2026/10/19/especies-exoticas-aparecem-na-costa-da-california-gracas-a-um-el-nino-excepcionalmente-forte.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "afdd70f54b8e60",
+  "titulo": "Ministério da Agricultura confirma foco da doença de Newcastle em granja de perus em SC",
+  "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/19/ministerio-da-agricultura-confirma-foco-da-doenca-de-newcastle-em-sc.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde Única: zoonoses e eventos em animais"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "d44cf0dd711470",
+  "titulo": "O que é a doença de Newcastle, que interditou granja de perus após foco ser confirmado em SC",
+  "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/19/o-que-e-doenca-newcastle-interditou-granja-perus-foco-confirmado-sc.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde Única: zoonoses e eventos em animais"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "e8158e26043760",
+  "titulo": "Fumaça de queimadas faz disparar atendimentos respiratórios na UPA de Santarém",
+  "url": "https://g1.globo.com/google/amp/pa/santarem-regiao/noticia/2026/10/19/fumaca-de-queimadas-faz-disparar-atendimentos-respiratorios-na-upa-de-santarem.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "0a54638b4d5d3c",
+  "titulo": "Mais de 100 mil famílias são afetadas pela estiagem no Amazonas; 40 cidades estão em emergência",
+  "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/19/mais-de-100-mil-familias-sao-afetadas-pela-estiagem-no-amazonas-40-cidades-estao-em-emergencia.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "9a1beaa3819169",
+  "titulo": "Estiagem no oeste do Pará: Mojuí decreta emergência e Belterra cria plano",
+  "url": "https://g1.globo.com/google/amp/pa/santarem-regiao/noticia/2026/10/19/estiagem-no-oeste-do-para-mojui-decreta-emergencia-e-belterra-cria-plano.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "525c93ce0183dd",
+  "titulo": "MIDR autoriza repasse de R$ 4,1 milhões para combate à estiagem e resposta a desastres no AP",
+  "url": "https://g1.globo.com/google/amp/ap/amapa/noticia/2026/10/19/midr-autoriza-repasse-de-r-41-milhoes-para-combate-a-estiagem-e-resposta-a-desastres-no-ap.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "3b211eb183c1d0",
+  "titulo": "Santarém amanhece coberta por fumaça de queimadas; qualidade do ar é crítica",
+  "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/10/19/santarem-amanhece-coberta-por-fumaca-de-queimadas-qualidade-do-ar-e-critica.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-19",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
   "municipios": [],
   "pontuacao": 7.5,
   "agravos": [
@@ -5029,6 +6651,195 @@
   ]
  },
  {
+  "id": "955b9531c0ad23",
+  "titulo": "Mais de 100 municípios do PI recebem alerta para chuvas intensas; Defesa Civil monitora alagamentos",
+  "url": "https://g1.globo.com/pi/piaui/noticia/2026/10/18/municipios-alerta-chuvas.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-18",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 13.5,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alagamentos",
+   "alerta para"
+  ]
+ },
+ {
+  "id": "27cd48288c7ad0",
+  "titulo": "Inmet emite alerta de tempestade, granizo e ventos de até 60 km/h para 66 cidades do RJ; veja lista",
+  "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/10/18/inmet-emite-alerta-de-tempestade-granizo-e-ventos-de-ate-60-kmh-para-66-cidades-do-rj-veja-lista.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-18",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 13.5,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "granizo",
+   "emite alerta"
+  ]
+ },
+ {
+  "id": "1092f39baa4084",
+  "titulo": "Quênia confirma oitavo caso de ebola enquanto surto avança no Congo",
+  "url": "https://g1.globo.com/saude/noticia/2026/10/18/quenia-confirma-oitavo-caso-de-ebola-enquanto-surto-avanca-no-congo.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-18",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 12.0,
+  "agravos": [
+   "Doença pelo vírus Ebola"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "surto"
+  ]
+ },
+ {
+  "id": "63d13abcc4fd35",
+  "titulo": "Inmet emite alerta de baixa umidade do ar para mais de 130 cidades da Paraíba; veja locais",
+  "url": "https://g1.globo.com/pb/paraiba/noticia/2026/10/18/inmet-emite-alerta-de-baixa-umidade-do-ar-para-mais-de-130-cidades-da-paraiba-veja-locais.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-18",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 12.0,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "baixa umidade",
+   "emite alerta"
+  ]
+ },
+ {
+  "id": "6e7e8e27013fff",
+  "titulo": "Governo de SP faz alerta para vacinação contra sarampo antes da temporada de cruzeiros",
+  "url": "https://g1.globo.com/google/amp/sp/santos-regiao/mais-saude/noticia/2026/10/18/governo-de-sp-faz-alerta-para-vacinacao-contra-sarampo-antes-da-temporada-de-cruzeiros.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-18",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 11.5,
+  "agravos": [
+   "Sarampo"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alerta para"
+  ]
+ },
+ {
+  "id": "dafc486ff60ef4",
+  "titulo": "Ruas alagadas, muros desabados e árvores caídas: chuva deixa desalojados e feridos no extremo sul da Bahia",
+  "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/18/estragos-da-chuva-na-bahia.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-18",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 11.0,
+  "agravos": [
+   "Emergências e desastres"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alagadas"
+  ]
+ },
+ {
+  "id": "14b9a88226232a",
+  "titulo": "Inmet emite alerta de chuvas intensas para 65 cidades do Maranhão até terça-feira (20)",
+  "url": "https://g1.globo.com/ma/maranhao/noticia/2026/10/18/inmet-emite-alerta-de-chuvas-intensas-para-65-cidades-do-maranhao-ate-terca-feira-20.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-18",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "emite alerta"
+  ]
+ },
+ {
+  "id": "6acbe694177b88",
+  "titulo": "Concentração de poluentes persiste nas zonas Sul e Leste de Manaus após dia de fumaça intensa; há previsão de chuvas, diz meteorologista",
+  "url": "https://g1.globo.com/google/amp/am/amazonas/noticia/2026/10/18/concentracao-de-poluentes-persiste-nas-zonas-sul-e-leste-de-manaus-apos-dia-de-fumaca-intensa-ha-previsao-de-chuvas-diz-meteorologista.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-18",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "previsao"
+  ]
+ },
+ {
   "id": "3f0e10f1d977ab",
   "titulo": "Queimadas no Amazonas: quais são os riscos de inalar fumaça?",
   "url": "https://www.cnnbrasil.com.br/saude/queimadas-no-amazonas-quais-sao-os-riscos-de-inalar-fumaca/",
@@ -5048,6 +6859,132 @@
   ],
   "escopo": "Brasil",
   "termos_evento": []
+ },
+ {
+  "id": "205a8a189c021c",
+  "titulo": "Seca afeta quase 25 mil pessoas em Santarém (PA)",
+  "url": "https://g1.globo.com/jornal-nacional/video/seca-afeta-quase-25-mil-pessoas-em-santarem-pa-15099358.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-18",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "e9b67bd46a46fb",
+  "titulo": "Qualidade do ar em Manaus melhora após chuva dispersar fumaça",
+  "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/18/chuva-atinge-pontos-de-manaus-e-melhora-qualidade-do-ar-na-capital-videos.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-18",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "b8463cb1783b4c",
+  "titulo": "Manaus está coberta pela fumaça de queimadas há 10 dias",
+  "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/17/manaus-esta-coberta-pela-fumaca-de-queimadas-ha-10-dias.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-18",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "4d00f92d3585bc",
+  "titulo": "Roraima tem alerta de chuvas intensas em 10 municípios até terça-feira",
+  "url": "https://g1.globo.com/google/amp/rr/roraima/noticia/2026/10/18/roraima-tem-alerta-de-chuvas-intensas-em-10-municipios-ate-terca-feira.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-18",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "984f259a966a3a",
+  "titulo": "Forças Armadas vão reforçar combate às queimadas no Amazonas, anuncia ministro da Justiça",
+  "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/18/comitiva-governo-federal-queimadas-amazonas-18-outubro.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-18",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "3590374a06b937",
+  "titulo": "Itapeva distribui hipoclorito após laudo apontar alterações na água em meio a surto de virose",
+  "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/18/itapeva-distribui-hipoclorito-apos-laudo-apontar-alteracoes-na-agua-em-meio-a-surto-de-virose.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-18",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "surto"
+  ]
  },
  {
   "id": "fb3caaaddc3c6d",
@@ -5433,6 +7370,125 @@
   ]
  },
  {
+  "id": "80dd66679b4dd9",
+  "titulo": "Alerta para prevenção da Febre Amarela",
+  "url": "https://g1.globo.com/mg/grande-minas/videos-inter-1/video/alerta-para-prevencao-da-febre-amarela-15098566.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-17",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 11.5,
+  "agravos": [
+   "Febre amarela"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alerta para"
+  ]
+ },
+ {
+  "id": "c202bf14fe59ec",
+  "titulo": "Chuva causa pontos de alagamento, deslizamento de terra e queda de árvores no interior de SP",
+  "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/17/chuva-causa-pontos-de-alagamento-deslizamento-de-terra-e-queda-de-arvores-no-interior-de-sp.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-17",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 11.5,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alagamento"
+  ]
+ },
+ {
+  "id": "90e3c50d3c7bae",
+  "titulo": "Chuva forte mata oito bovinos e provoca alagamento e deslizamento em São Luiz do Paraitinga, SP",
+  "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/17/chuva-forte-mata-oito-bovinos-e-provoca-alagamento-e-deslizamento-em-sao-luiz-do-paraitinga-sp.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-17",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 11.5,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alagamento"
+  ]
+ },
+ {
+  "id": "cc82dc2b233235",
+  "titulo": "Rio Tietê transborda após chuvas e provoca alagamento de rua no município de Salto",
+  "url": "https://g1.globo.com/sp/sorocaba-jundiai/videos-tem-noticias-2-edicao/video/rio-tiete-transborda-apos-chuvas-e-provoca-alagamento-de-rua-no-municipio-de-salto-15099038.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-17",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 11.5,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alagamento"
+  ]
+ },
+ {
+  "id": "0af24ed565d149",
+  "titulo": "Amapá decreta situação de emergência após avanço da estiagem e das queimadas",
+  "url": "https://g1.globo.com/ap/amapa/noticia/2026/10/17/amapa-decreta-situacao-de-emergencia-apos-avanco-da-estiagem-e-das-queimadas.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-17",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 11.0,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "situacao de emergencia",
+   "situacao de emergencia"
+  ]
+ },
+ {
   "id": "75c82d79b59760",
   "titulo": "Africa CDC Reaffirms Support to Kenya Following Confirmation of Four Additional Ebola Cases",
   "url": "https://africacdc.org/news-item/africa-cdc-reaffirms-support-to-kenya-following-confirmation-of-four-additional-ebola-cases/",
@@ -5455,6 +7511,157 @@
    "confirmed cases",
    "death"
   ]
+ },
+ {
+  "id": "27d8ff7b1aa1e9",
+  "titulo": "Defesa Civil envia alerta para celulares após piora da fumaça em Manaus",
+  "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/17/defesa-civil-envia-alerta-para-celulares-apos-piora-da-fumaca-em-manaus.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-17",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alerta para"
+  ]
+ },
+ {
+  "id": "eceae50a4baac8",
+  "titulo": "Epidemiologista da Fiocruz recomenda evitar sair de casa devido à fumaça em Manaus e alerta para suspensão de atividades",
+  "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/17/epidemiologista-da-fiocruz-recomenda-evitar-sair-de-casa-devido-a-fumaca-em-manaus-e-alerta-para-suspensao-de-atividades.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-17",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alerta para"
+  ]
+ },
+ {
+  "id": "ccf93de73cbf43",
+  "titulo": "VÍDEO: fumaça encobre avenida na Zona Norte de Manaus e reduz visibilidade",
+  "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/17/video-fumaca-encobre-avenida-na-zona-norte-de-manaus-e-reduz-visibilidade.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-17",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "3abda2b724dc99",
+  "titulo": "Em meio à crise de queimadas, governo federal autoriza repasse de R$ 14,3 milhões para ações no Amazonas",
+  "url": "https://g1.globo.com/google/amp/am/amazonas/noticia/2026/10/17/em-meio-a-crise-de-queimadas-governo-federal-autoriza-repasse-de-r-143-milhoes-ao-amazonas.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-17",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "4c44d205f927d3",
+  "titulo": "VÍDEO: fumaça de queimadas deixa qualidade do ar 'perigosa' em Manaus; índice supera em 59 vezes recomendação da OMS",
+  "url": "https://g1.globo.com/am/amazonas/utilidade-publica/noticia/2026/10/17/fumaca-de-queimadas-deixa-qualidade-do-ar-perigosa-em-manaus-indice-supera-em-59-vezes-recomendacao-da-oms.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-17",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "b5e3691d3f59a3",
+  "titulo": "'Manaus precisa de socorro': prefeito faz apelo por ajuda após fumaça atingir níveis perigosos na cidade",
+  "url": "https://g1.globo.com/google/amp/am/amazonas/noticia/2026/10/17/manaus-precisa-de-socorro-prefeito-faz-apelo-por-ajuda-apos-fumaca-atingir-niveis-perigosos-na-cidade.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-17",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "f259b70d08857b",
+  "titulo": "Fumaça das queimadas impede voos de aeronaves que combatem incêndios no AM, diz Ibama",
+  "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/17/fumaca-das-queimadas-impede-voos-de-aeronaves-que-combatem-incendios-no-am-diz-ibama.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-17",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
  },
  {
   "id": "327119b3367edc",
@@ -5496,6 +7703,27 @@
    "Sarampo"
   ],
   "escopo": "Internacional",
+  "termos_evento": []
+ },
+ {
+  "id": "773b061b3ecd39",
+  "titulo": "Concurso para ingresso no 6º ano do Colégio Militar de Manaus é adiado devido a baixa qualidade do ar",
+  "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/17/concurso-para-ingresso-no-6o-ano-do-colegio-militar-de-manaus-e-adiado-devido-a-baixa-qualidade-do-ar.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-17",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 3.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
   "termos_evento": []
  },
  {
@@ -6028,6 +8256,31 @@
   ]
  },
  {
+  "id": "60c37e929e2124",
+  "titulo": "Cidade de SP entra em estado de atenção para alagamentos; Defesa Civil emite alerta severo",
+  "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/16/sp-estado-de-atencao-alagamentos-sexta.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 13.5,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alagamentos",
+   "emite alerta"
+  ]
+ },
+ {
   "id": "24c4076a21fd19",
   "titulo": "Governo monitora saúde de amazonenses em locais afetados por queimadas",
   "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/governo-monitora-saude-de-amazonenses-em-locais-afetados-por-queimadas",
@@ -6049,6 +8302,54 @@
   "termos_evento": [
    "situacao de emergencia",
    "situacao de emergencia"
+  ]
+ },
+ {
+  "id": "984e796d06fab3",
+  "titulo": "Chuva de 25 milímetros causa pontos de alagamento e transtornos em unidades de saúde de Rio Branco",
+  "url": "https://g1.globo.com/ac/acre/noticia/2026/10/16/chuva-de-25-milimetros-causa-pontos-de-alagamento-e-transtornos-em-unidades-de-saude-de-rio-branco.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 11.5,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alagamento"
+  ]
+ },
+ {
+  "id": "e80b0635be69b2",
+  "titulo": "Chuva provoca alagamento em ruas de Miracema",
+  "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/10/16/chuva-provoca-alagamento-em-ruas-de-miracema.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 11.5,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alagamento"
   ]
  },
  {
@@ -6077,6 +8378,30 @@
   "link_tentado": true
  },
  {
+  "id": "6b26415c86ccdb",
+  "titulo": "Defesa Civil emite alerta severo para chuva em São José e Jacareí; previsão indica novos temporais nesta sexta",
+  "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/16/defesa-civil-emite-alerta-severo-para-chuva-em-sao-jose-e-jacarei-previsao-indica-novos-temporais-nesta-sexta.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 11.0,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "emite alerta"
+  ]
+ },
+ {
   "id": "f8e10c9062d7a3",
   "titulo": "Epidemiological Alert:  Myiasis caused by Cochliomyia hominivorax in the Americas Region, 16 October 2026",
   "url": "https://www.paho.org/en/documents/epidemiological-alert-myiasis-caused-cochliomyia-hominivorax-americas-region-16-october",
@@ -6097,6 +8422,53 @@
   "escopo": "Américas",
   "termos_evento": [
    "epidemiological alert"
+  ]
+ },
+ {
+  "id": "1ef256b4424c72",
+  "titulo": "Alerta para dengue: monitoramento aponta alto risco de Aedes aegypti em três bairros de Nova Friburgo",
+  "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/10/16/alerta-para-dengue-monitoramento-aponta-alto-risco-de-aedes-aegypti-em-tres-bairros-de-nova-friburgo.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 10.0,
+  "agravos": [
+   "Dengue",
+   "Arboviroses"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alerta para"
+  ]
+ },
+ {
+  "id": "1d895a22864be5",
+  "titulo": "Inmet renova alerta de baixa umidade do ar para mais de 160 cidades da Paraíba; veja locais sob aviso",
+  "url": "https://g1.globo.com/pb/paraiba/noticia/2026/10/16/inmet-renova-alerta-de-baixa-umidade-do-ar-para-mais-de-160-cidades-da-paraiba-veja-locais-sob-aviso.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 10.0,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "baixa umidade"
   ]
  },
  {
@@ -6168,6 +8540,204 @@
   "escopo": "Brasil",
   "termos_evento": [
    "emite alerta"
+  ]
+ },
+ {
+  "id": "2b8d39755817d5",
+  "titulo": "Inmet emite alerta de tempestade para cidades do Sul do Rio e Costa Verde",
+  "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/16/inmet-emite-alerta-de-tempestade-para-cidades-do-sul-do-rio-e-costa-verde.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "emite alerta"
+  ]
+ },
+ {
+  "id": "60460fd01b4776",
+  "titulo": "RJ registra madrugada com temporais e raios; manhã tem chuva forte",
+  "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/16/rj-registra-madrugada-com-chuva-e-raios.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 9.0,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "709e0e43847697",
+  "titulo": "Temporal alaga casas e moradores perdem móveis no Jardim Imperial, na Zona Sul de São José dos Campos",
+  "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/16/temporal-alaga-casas-e-moradores-perdem-moveis-no-jardim-imperial-na-zona-sul-de-sao-jose-dos-campos.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 9.0,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "979b9dd84ce707",
+  "titulo": "VÍDEO: Carros são arrastados pela chuva na Zona Sul de SP, durante temporal da madrugada desta sexta-feira",
+  "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/16/carros-sao-arrastados-pela-chuva-na-zona-sul-de-sp-durante-temporal-da-madrugada-desta-sexta-feira.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 9.0,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "59e41d830b1297",
+  "titulo": "VÍDEO: casas na Zona Sul de SP desabam durante temporal na madrugada desta sexta",
+  "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/16/video-casas-na-zona-sul-de-sp-desabam-durante-temporal-na-madrugada-desta-sexta.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 9.0,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "ccdc7985f77954",
+  "titulo": "Vigilância Sanitária investiga intoxicação alimentar dentro de escola em Pitangueiras, SP",
+  "url": "https://g1.globo.com/sp/ribeirao-preto-franca/video/vigilancia-sanitaria-investiga-intoxicacao-alimentar-dentro-de-escola-em-pitangueiras-sp-15094699.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 8.5,
+  "agravos": [
+   "Doenças transmitidas por alimentos e água"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "vigilancia"
+  ]
+ },
+ {
+  "id": "a2458ce0c2af92",
+  "titulo": "Calor, queimadas e dengue: os riscos do El Niño para a saúde nas regiões de Ribeirão, Franca e Barretos, SP",
+  "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/16/calor-queimadas-e-dengue-os-riscos-do-el-nino-para-a-saude-nas-regioes-de-ribeirao-franca-e-barretos-sp.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 8.0,
+  "agravos": [
+   "Saúde ambiental e clima",
+   "Dengue"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "1e89d825cc9f15",
+  "titulo": "Equipe médica do Paraná é denunciada por erros em avaliação de quadro de influenza que levou a morte de criança de 4 anos",
+  "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/10/16/equipe-medica-do-parana-e-denunciada-por-homicidio-por-erros-em-avaliacao-de-quadro-de-influenza-que-matou-crianca-de-4-anos.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Influenza e vírus respiratórios"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "86f045775c67b1",
+  "titulo": "Deslizamentos e rachaduras da pista em área turística de MT levam município a decretar calamidade pública",
+  "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/16/deslizamento-de-terra-e-rachaduras-na-pista-levam-municipio-de-mt-a-decretar-calamidade-publica.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-16",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "deslizamentos"
   ]
  },
  {
@@ -7556,6 +10126,52 @@
   ]
  },
  {
+  "id": "43eda405fb35bc",
+  "titulo": "Amazonas tem 17 casos confirmados de sarampo; número quase dobra em uma semana",
+  "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/15/amazonas-tem-17-casos-confirmados-de-sarampo-numero-quase-dobra-em-uma-semana.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-15",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 11.5,
+  "agravos": [
+   "Sarampo"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "casos confirmados"
+  ]
+ },
+ {
+  "id": "2dc63612491c2d",
+  "titulo": "Tarcísio diz que túnel do Anhangabaú deveria ter sido fechado antes de enchente: 'Houve alerta'",
+  "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/15/tarcisio-diz-que-tunel-do-anhangabau-deveria-ter-sido-fechado-antes-de-enchente-houve-alerta.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-15",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 11.0,
+  "agravos": [
+   "Emergências e desastres"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "enchente"
+  ]
+ },
+ {
   "id": "cd5de916976353",
   "titulo": "São Paulo terá mais chuvas fortes no fim da tarde desta quinta (15)",
   "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/sao-paulo-tera-mais-chuvas-fortes-no-fim-da-tarde-desta-quinta-15",
@@ -7626,6 +10242,50 @@
    "infogripe"
   ],
   "municipios": []
+ },
+ {
+  "id": "1914f30596b1b6",
+  "titulo": "Mulher com sarampo recebe alta no Acre; filha de 11 meses segue entubada em estado grave na UTI",
+  "url": "https://g1.globo.com/ac/acre/noticia/2026/10/15/mulher-com-sarampo-recebe-alta-no-acre-filha-de-11-meses-segue-entubada-em-estado-grave-na-uti.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-15",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Sarampo"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "ed865ac2f5c0a3",
+  "titulo": "Com mais uma morte, Pirapozinho registra o 54º óbito por Covid-19",
+  "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/cidade/pirapozinho/index/feed/pagina-82.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-15",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-22T19:00:20+00:00",
+  "municipios": [],
+  "pontuacao": 9.0,
+  "agravos": [
+   "COVID-19"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "obito"
+  ]
  },
  {
   "id": "819a21f7ab72d0",

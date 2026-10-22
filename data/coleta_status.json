@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-10-22T18:56:37+00:00",
+  "em": "2026-10-22T19:00:20+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,7 +10,7 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-10-22T18:56:37+00:00",
+  "em": "2026-10-22T19:00:20+00:00",
   "lidos": 40,
   "novos": 0,
   "exemplos": [
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-10-22T18:56:37+00:00",
+  "em": "2026-10-22T19:00:20+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-10-22T18:56:37+00:00",
+  "em": "2026-10-22T19:00:20+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-10-22T18:56:37+00:00",
+  "em": "2026-10-22T19:00:20+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-10-22T18:56:37+00:00",
+  "em": "2026-10-22T19:00:20+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-10-22T18:56:37+00:00",
+  "em": "2026-10-22T19:00:20+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-10-22T18:56:37+00:00",
+  "em": "2026-10-22T19:00:20+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-10-22T18:56:37+00:00",
+  "em": "2026-10-22T19:00:20+00:00",
   "lidos": 2345,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-10-22T18:56:37+00:00",
+  "em": "2026-10-22T19:00:20+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,7 +100,7 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-10-22T18:56:37+00:00",
+  "em": "2026-10-22T19:00:20+00:00",
   "lidos": 15,
   "novos": 0,
   "exemplos": [
@@ -110,9 +110,9 @@
   ]
  },
  "fiocruz": {
-  "em": "2026-10-22T18:56:37+00:00",
+  "em": "2026-10-22T19:00:20+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Pediatra e pesquisadora da Fiocruz toma posse como membro titular da Academia Nacional de Medicina",
    "Nav. ed. pt Carta Aberta Eleicoes 2026 Compromisso 7",
@@ -120,7 +120,7 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-10-22T18:56:37+00:00",
+  "em": "2026-10-22T19:00:20+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -130,7 +130,7 @@
   ]
  },
  "ses-go": {
-  "em": "2026-10-22T18:56:37+00:00",
+  "em": "2026-10-22T19:00:20+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -140,7 +140,7 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-10-22T18:56:37+00:00",
+  "em": "2026-10-22T19:00:20+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -149,48 +149,18 @@
    "Curso falso para sargentos da reserva era usado para compra de armas"
   ]
  },
- "g1-ciencia-saude": {
-  "em": "2026-10-22T18:56:37+00:00",
-  "lidos": 100,
-  "novos": 0,
+ "g1-busca": {
+  "em": "2026-10-22T19:00:20+00:00",
+  "lidos": 370,
+  "novos": 118,
   "exemplos": [
-   "'Ciência Aberta': centro que abriga o Sirius recebe público para apresentar curiosidades e atrações da ciência",
-   "Mayaro e o que mais? Unicamp aponta possível transmissão urbana do vírus em Roraima e vê indícios de novas ameaças",
-   "'Ciência Aberta': centro que abriga o Sirius terá dia exclusivo para receber escolas e grupos de alunos; saiba como se i"
-  ]
- },
- "g1-bem-estar": {
-  "em": "2026-10-22T18:56:37+00:00",
-  "lidos": 100,
-  "novos": 14,
-  "exemplos": [
-   "As três dimensões do burnout feminino",
-   "Bem-Estar #373 - O que o tamanho da sua barriga tem a ver com a saúde do seu coração",
-   "Fatores de risco subestimados tornam o AVC em mulheres ainda mais perigoso"
-  ]
- },
- "g1-df": {
-  "em": "2026-10-22T18:56:37+00:00",
-  "lidos": 100,
-  "novos": 0,
-  "exemplos": [
-   "Fiscalização nas redes sociais será desafio para eleições, avalia TRE-DF; leia entrevista",
-   "Conheça a banda Belga, finalista do Brasília Independente 2018",
-   "Evento 'Meu Eixão' leva oficinas, música e gastronomia à Asa Sul neste domingo"
-  ]
- },
- "g1-goias": {
-  "em": "2026-10-22T18:56:37+00:00",
-  "lidos": 100,
-  "novos": 0,
-  "exemplos": [
-   "Caminhoneiro morre após bater em carreta e sair da pista na BR-452, em Itumbiara",
-   "Arquitetos dão dicas de como aproveitar ambientes amplos em apartamentos de luxo, em Goiânia",
-   "Funcionário público da Prefeitura de Palmas é preso suspeito de roubo a banco"
+   "Bebê de 11 meses internado em UTI no Acre está livre do sarampo, mas segue em estado grave, diz Saúde",
+   "Amazonas tem 17 casos confirmados de sarampo; número quase dobra em uma semana",
+   "Com alta de 29% nos registros de dengue, Taubaté concentra 4 em cada 10 casos no Vale; cidade soma 11 mortes em 2026"
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-10-22T18:56:37+00:00",
+  "em": "2026-10-22T19:00:20+00:00",
   "lidos": 25,
   "novos": 0,
   "exemplos": [
@@ -200,7 +170,7 @@
   ]
  },
  "cnn-saude": {
-  "em": "2026-10-22T18:56:37+00:00",
+  "em": "2026-10-22T19:00:20+00:00",
   "lidos": 17,
   "novos": 0,
   "exemplos": [
@@ -210,7 +180,7 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-10-22T18:56:37+00:00",
+  "em": "2026-10-22T19:00:20+00:00",
   "lidos": 21,
   "novos": 0,
   "exemplos": [
@@ -220,17 +190,17 @@
   ]
  },
  "inmet": {
-  "em": "2026-10-22T18:56:37+00:00",
+  "em": "2026-10-22T19:00:20+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
+   "Previsão para sexta-feira (23) e sábado (24)",
    "Previsão para quinta-feira (22) e sexta-feira (23)",
-   "Previsão para Quarta-feira (21) e Quinta-feira (22)",
-   "Excesso de chuva e umidade elevada dificulta as operações em campo na Região Sul"
+   "Previsão para Quarta-feira (21) e Quinta-feira (22)"
   ]
  },
  "cemaden": {
-  "em": "2026-10-22T18:56:37+00:00",
+  "em": "2026-10-22T19:00:20+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -240,8 +210,8 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-10-22T18:56:37+00:00",
-  "lidos": 15,
+  "em": "2026-10-22T19:00:20+00:00",
+  "lidos": 16,
   "novos": 0,
   "exemplos": [
    "Autorizado repasse de R$ 1,8 milhão para ações de defesa civil",
@@ -250,13 +220,13 @@
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-10-22T18:56:37+00:00",
+  "em": "2026-10-22T19:00:20+00:00",
   "lidos": 20,
-  "novos": 0,
+  "novos": 2,
   "exemplos": [
-   "Transporte público gratuito terá esquema especial no segundo turno",
-   "Segurança no DF é reforçada para o segundo turno das eleições",
-   "Demetrius Cavalcanti assume cargo de desembargador do TJDFT"
+   "Jovem esfaqueado em roubo de bicicleta está em observação no Hospital de Base",
+   "Eleições 2026: segundo turno no DF não terá lei seca",
+   "Júri condena a 26 anos homem que matou companheira ao empurrá-la de escada"
   ]
  }
 }
