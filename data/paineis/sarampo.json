@@ -1,77 +1,48 @@
 {
  "nome": "Sarampo",
  "sigla": "SARAMPO",
- "descricao": "Vigilância global de sarampo com foco nas Américas",
- "icone": "🌍",
- "atualizado_em": "2026-10-22T17:03:43.684002",
- "indicadores": {
-  "casos_confirmados": 3250,
-  "obitos": 8,
-  "taxa_letalidade": 0.25,
-  "paises_afetados": 5,
-  "taxa_cobertura_d1": 87.5
- },
+ "descricao": "Vigilância global de sarampo com foco em Américas",
+ "atualizado_em": "2026-10-22T17:09:12.364006",
+ "fonte_dados": "OMS/PAHO - Dados consolidados 2026",
  "serie_temporal": [
   {
-   "data": "2026-10-18",
-   "casos": 3250,
-   "obitos": 8,
-   "regiao": "Américas"
+   "período": "Set 2026",
+   "casos_americas": 2800,
+   "obitos": 6
   },
   {
-   "data": "2026-10-11",
-   "casos": 3100,
-   "obitos": 7,
-   "regiao": "Américas"
-  },
-  {
-   "data": "2026-10-04",
-   "casos": 2950,
-   "obitos": 6,
-   "regiao": "Américas"
-  },
-  {
-   "data": "2026-09-27",
-   "casos": 2800,
-   "obitos": 6,
-   "regiao": "Américas"
+   "período": "Out 2026",
+   "casos_americas": 3250,
+   "obitos": 8
   }
  ],
  "distribuicao_geografica": [
   {
-   "pais": "Venezuela",
+   "país": "Venezuela",
    "casos": 1200,
-   "obitos": 3,
-   "latitude": 6.4,
-   "longitude": -66.6
+   "proporção": 37
   },
   {
-   "pais": "Brasil",
+   "país": "Brasil",
    "casos": 850,
-   "obitos": 2,
-   "latitude": -14.2,
-   "longitude": -51.9
+   "proporção": 26
   },
   {
-   "pais": "Colômbia",
+   "país": "Colômbia",
    "casos": 600,
-   "obitos": 2,
-   "latitude": 4.6,
-   "longitude": -74.1
+   "proporção": 18
   },
   {
-   "pais": "Equador",
-   "casos": 400,
-   "obitos": 1,
-   "latitude": -0.2,
-   "longitude": -78.5
-  },
-  {
-   "pais": "Outros",
-   "casos": 200,
-   "obitos": 0,
-   "latitude": 0,
-   "longitude": 0
+   "país": "Outros",
+   "casos": 600,
+   "proporção": 19
   }
- ]
+ ],
+ "indicadores": {
+  "casos_confirma dos": 3250,
+  "obitos": 8,
+  "paises_afetados": 5,
+  "cobertura_d1_global": 85.5
+ },
+ "grafico_html": ""
 }

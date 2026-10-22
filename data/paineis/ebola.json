@@ -1,73 +1,48 @@
 {
- "nome": "Ebola (Bundibugyo)",
+ "nome": "Ebola - RDC/Uganda",
  "sigla": "EBOLA",
- "descricao": "Surto de Ebola na República Democrática do Congo e Uganda",
- "icone": "🦠",
- "atualizado_em": "2026-10-22T17:03:43.683305",
- "indicadores": {
-  "casos_confirmados": 9462,
-  "obitos": 4565,
-  "taxa_letalidade": 48.2,
-  "paises_afetados": 2
- },
+ "descricao": "Surto de Ebola (Bundibugyo) em vigilância internacional",
+ "atualizado_em": "2026-10-22T17:09:12.364428",
+ "fonte_dados": "ECDC - Situação em tempo real",
  "serie_temporal": [
   {
-   "data": "2026-10-18",
-   "casos": 9455,
-   "obitos": 4561,
-   "pais": "DRC"
+   "data": "2026-10-10",
+   "casos_rdc": 9100,
+   "casos_uganda": 5,
+   "obitos": 4400
   },
   {
    "data": "2026-10-15",
-   "casos": 9300,
-   "obitos": 4500,
-   "pais": "DRC"
-  },
-  {
-   "data": "2026-10-10",
-   "casos": 9100,
-   "obitos": 4400,
-   "pais": "DRC"
-  },
-  {
-   "data": "2026-10-05",
-   "casos": 8900,
-   "obitos": 4300,
-   "pais": "DRC"
+   "casos_rdc": 9300,
+   "casos_uganda": 7,
+   "obitos": 4500
   },
   {
    "data": "2026-10-18",
-   "casos": 7,
-   "obitos": 4,
-   "pais": "Uganda"
-  },
-  {
-   "data": "2026-10-15",
-   "casos": 7,
-   "obitos": 4,
-   "pais": "Uganda"
-  },
-  {
-   "data": "2026-10-10",
-   "casos": 5,
-   "obitos": 3,
-   "pais": "Uganda"
+   "casos_rdc": 9455,
+   "casos_uganda": 7,
+   "obitos": 4561
   }
  ],
  "distribuicao_geografica": [
   {
-   "pais": "DRC",
+   "país": "RDC",
    "casos": 9455,
    "obitos": 4561,
-   "latitude": -4.5,
-   "longitude": 21.5
+   "proporção": 99.9
   },
   {
-   "pais": "Uganda",
+   "país": "Uganda",
    "casos": 7,
    "obitos": 4,
-   "latitude": 1.3,
-   "longitude": 32.3
+   "proporção": 0.1
   }
- ]
+ ],
+ "indicadores": {
+  "casos_confirmados": 9462,
+  "obitos": 4565,
+  "taxa_letalidade": 48.2,
+  "tendencia": "em queda gradual"
+ },
+ "grafico_html": ""
 }

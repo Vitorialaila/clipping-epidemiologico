@@ -1,101 +1,58 @@
 {
- "nome": "SRAG (Brasil)",
+ "nome": "SRAG - Brasil",
  "sigla": "SRAG",
- "descricao": "Síndrome Respiratória Aguda Grave no Brasil",
- "icone": "🫁",
- "atualizado_em": "2026-10-22T17:03:43.684353",
- "indicadores": {
-  "casos_confirmados": 542,
-  "obitos": 18,
-  "taxa_letalidade": 3.3,
-  "estado_mais_afetado": "São Paulo",
-  "tendencia": "em queda"
- },
+ "descricao": "Síndrome Respiratória Aguda Grave em vigilância sentinela",
+ "atualizado_em": "2026-10-22T17:09:12.363751",
+ "fonte_dados": "MS/DATASUS - InfoGripe",
  "serie_temporal": [
   {
-   "data": "2026-10-18",
-   "casos": 542,
-   "obitos": 18,
-   "estado": "Brasil"
-  },
-  {
-   "data": "2026-10-11",
-   "casos": 628,
-   "obitos": 21,
-   "estado": "Brasil"
-  },
-  {
-   "data": "2026-10-04",
-   "casos": 715,
-   "obitos": 24,
-   "estado": "Brasil"
-  },
-  {
-   "data": "2026-09-27",
-   "casos": 802,
-   "obitos": 27,
-   "estado": "Brasil"
-  },
-  {
-   "data": "2026-09-20",
-   "casos": 890,
-   "obitos": 30,
-   "estado": "Brasil"
-  },
-  {
-   "data": "2026-09-13",
-   "casos": 1050,
-   "obitos": 35,
-   "estado": "Brasil"
-  },
-  {
-   "data": "2026-09-06",
-   "casos": 1200,
-   "obitos": 40,
-   "estado": "Brasil"
-  },
-  {
-   "data": "2026-08-30",
+   "semana": 39,
    "casos": 1350,
-   "obitos": 45,
-   "estado": "Brasil"
+   "obitos": 45
+  },
+  {
+   "semana": 40,
+   "casos": 1200,
+   "obitos": 40
+  },
+  {
+   "semana": 41,
+   "casos": 1050,
+   "obitos": 35
+  },
+  {
+   "semana": 42,
+   "casos": 890,
+   "obitos": 30
+  },
+  {
+   "semana": 43,
+   "casos": 802,
+   "obitos": 27
+  },
+  {
+   "semana": 44,
+   "casos": 715,
+   "obitos": 24
+  },
+  {
+   "semana": 45,
+   "casos": 628,
+   "obitos": 21
+  },
+  {
+   "semana": 46,
+   "casos": 542,
+   "obitos": 18
   }
  ],
- "distribuicao_geografica": [
-  {
-   "estado": "São Paulo",
-   "casos": 156,
-   "obitos": 5,
-   "latitude": -23.5,
-   "longitude": -46.6
-  },
-  {
-   "estado": "Minas Gerais",
-   "casos": 89,
-   "obitos": 3,
-   "latitude": -19.9,
-   "longitude": -43.9
-  },
-  {
-   "estado": "Rio de Janeiro",
-   "casos": 78,
-   "obitos": 3,
-   "latitude": -22.9,
-   "longitude": -43.2
-  },
-  {
-   "estado": "Bahia",
-   "casos": 65,
-   "obitos": 2,
-   "latitude": -12.9,
-   "longitude": -38.5
-  },
-  {
-   "estado": "Outros",
-   "casos": 154,
-   "obitos": 5,
-   "latitude": 0,
-   "longitude": 0
-  }
- ]
+ "distribuicao_geografica": [],
+ "indicadores": {
+  "casos_ultimas_8_semanas": 7177,
+  "obitos_ultimas_8_semanas": 240,
+  "taxa_letalidade": 3.3,
+  "tendencia": "em queda",
+  "estado_maior_incidencia": "São Paulo"
+ },
+ "grafico_html": ""
 }
