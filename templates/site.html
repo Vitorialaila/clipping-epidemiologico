@@ -554,6 +554,9 @@ document.querySelectorAll(".chip").forEach((b) => b.addEventListener("click", ()
 $("mais").addEventListener("click", () => { estado.limite += POR_PAGINA; render(); });
 render();
 
+// Dados dos painéis (carregado pelo template)
+const PAINEIS = {{ paineis_json|default('[]')|safe }};
+
 // Renderizar painéis de vigilância
 function renderizarPaineis() {
   const container = document.getElementById("paineis-container");
@@ -593,9 +596,6 @@ function renderizarPaineis() {
   }).join('');
 }
 renderizarPaineis();
-
-// Dados dos painéis (carregado pelo template)
-const PAINEIS = {{ paineis_json|default('[]')|safe }};
 
 // Abas: Notícias (padrão), Destaques da semana, Boletim epidemiológico, Painéis e Edições do clipping
 const ABAS = ["noticias", "destaques", "boletim", "paineis", "edicoes"];
