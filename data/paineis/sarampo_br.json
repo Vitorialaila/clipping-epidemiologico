@@ -1,8 +1,8 @@
 {
  "nome": "Sarampo no Brasil, 2026",
  "sigla": "SARAMPO_BR",
- "descricao": "Casos confirmados de sarampo no Brasil em 2026, segundo o Ministério da Saúde. Dados até 17/10/2026 (SE 41).",
- "atualizado_em": "2026-10-22T14:53:33.368632",
+ "descricao": "Casos confirmados de sarampo no Brasil em 2026, segundo o Ministério da Saúde. Dados até 19/10/2026 (SE 42).",
+ "atualizado_em": "2026-10-22T17:55:36.812719",
  "fonte_dados": "Ministério da Saúde, Situação Epidemiológica do Sarampo; Ministério da Saúde, notícia de 06/10/2026",
  "serie_temporal": [],
  "distribuicao_geografica": [],
@@ -16,15 +16,15 @@
   },
   {
    "valor": "0",
-   "rotulo": "óbitos"
+   "rotulo": "óbitos (até 26/09/2026)"
   },
   {
-   "valor": "3",
+   "valor": "4",
    "rotulo": "UFs com casos"
   },
   {
-   "valor": "SE 41",
-   "rotulo": "dados até 17/10/2026"
+   "valor": "SE 42",
+   "rotulo": "dados até 19/10/2026"
   }
  ],
  "graficos": [
@@ -32,19 +32,19 @@
    "data": [
     {
      "fill": "toself",
-     "fillcolor": "#E3E6EB",
+     "fillcolor": "#B9C9E0",
      "hoverinfo": "text",
      "hoveron": "fills",
-     "legendgroup": "Sem casos",
-     "legendrank": 0,
+     "legendgroup": "1 a 4",
+     "legendrank": 1,
      "line": {
       "color": "#FFFFFF",
       "width": 0.8
      },
      "mode": "lines",
-     "name": "Sem casos",
+     "name": "1 a 4",
      "showlegend": true,
-     "text": "<b>Acre</b><br>0 casos confirmados",
+     "text": "<b>Acre</b><br>2 casos confirmados",
      "x": [
       -71.612,
       -70.501,
@@ -292,7 +292,7 @@
      },
      "mode": "lines",
      "name": "Sem casos",
-     "showlegend": false,
+     "showlegend": true,
      "text": "<b>Alagoas</b><br>0 casos confirmados",
      "x": [
       -34.479,
@@ -458,7 +458,7 @@
      "mode": "lines",
      "name": "5 a 19",
      "showlegend": true,
-     "text": "<b>Amazonas</b><br>10 casos confirmados",
+     "text": "<b>Amazonas</b><br>17 casos confirmados",
      "x": [
       -65.343,
       -65.28,
@@ -9444,7 +9444,7 @@
      },
      "mode": "lines",
      "name": "1 a 4",
-     "showlegend": true,
+     "showlegend": false,
      "text": "<b>Rio de Janeiro</b><br>1 caso confirmado",
      "x": [
       -43.191,
@@ -14846,9 +14846,23 @@
        "size": 11
       },
       "showarrow": false,
-      "text": "<b>AM</b> 10",
+      "text": "<b>AM</b> 17",
       "x": -61.410016516007815,
       "y": -3.29
+     },
+     {
+      "bgcolor": "rgba(255,255,255,.85)",
+      "bordercolor": "#0A3570",
+      "borderpad": 2,
+      "borderwidth": 1,
+      "font": {
+       "color": "#0A3570",
+       "size": 11
+      },
+      "showarrow": false,
+      "text": "<b>AC</b> 2",
+      "x": -68.58050193318743,
+      "y": -9.15
      },
      {
       "bgcolor": "rgba(255,255,255,.85)",
@@ -14880,7 +14894,7 @@
       "size": 15,
       "color": "#0A3570"
      },
-     "text": "<b>Casos confirmados por UF</b><br><sup>até 05/10/2026</sup>"
+     "text": "<b>Casos confirmados por UF</b><br><sup>até 19/10/2026</sup>"
     },
     "margin": {
      "l": 10,
@@ -14932,17 +14946,20 @@
      "orientation": "h",
      "text": [
       "1 (2%)",
-      "10 (19%)",
-      "41 (79%)"
+      "2 (3%)",
+      "17 (28%)",
+      "41 (67%)"
      ],
      "textposition": "outside",
      "x": [
       1,
-      10,
+      2,
+      17,
       41
      ],
      "y": [
       "Rio de Janeiro",
+      "Acre",
       "Amazonas",
       "São Paulo"
      ],
@@ -15727,7 +15744,7 @@
       "size": 15,
       "color": "#0A3570"
      },
-     "text": "<b>Distribuição por UF</b><br><sup>até 05/10/2026</sup>"
+     "text": "<b>Distribuição por UF</b><br><sup>até 19/10/2026</sup>"
     },
     "margin": {
      "l": 10,
@@ -15798,7 +15815,7 @@
      "x": [
       "SE 38<br><sup>26/09</sup>",
       "SE 40<br><sup>05/10</sup>",
-      "SE 41<br><sup>17/10</sup>"
+      "SE 42<br><sup>19/10</sup>"
      ],
      "y": [
       42,
@@ -16622,8 +16639,7 @@
   }
  ],
  "notas": [
-  "Fonte de infecção (até 26/09/2026): SP: 2 importados e 34 com fonte de infecção desconhecida; RJ: 1 com fonte desconhecida.",
-  "A notícia descreve os 52 casos como importados; a página de situação epidemiológica (SE 38) classificava a maior parte dos casos de SP como de fonte de infecção desconhecida."
+  "Dos casos confirmados, 44 estão associados a surtos ativos e 17 a surtos encerrados. Os casos registrados no Amazonas e no Acre estão relacionados a surtos com origem no Peru, país que faz fronteira com o Brasil."
  ],
  "fontes": [
   {
@@ -16666,11 +16682,17 @@
    "se": 40
   },
   {
-   "data_referencia": "2026-10-17",
-   "se": 41,
+   "data_referencia": "2026-10-19",
+   "se": 42,
    "casos": 61,
    "obitos": null,
-   "ufs": null,
+   "ufs": {
+    "SP": 41,
+    "AM": 17,
+    "AC": 2,
+    "RJ": 1
+   },
+   "nota": "Dos casos confirmados, 44 estão associados a surtos ativos e 17 a surtos encerrados. Os casos registrados no Amazonas e no Acre estão relacionados a surtos com origem no Peru, país que faz fronteira com o Brasil.",
    "fonte": "Ministério da Saúde, Situação Epidemiológica do Sarampo",
    "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/sarampo/situacao-epidemiologica",
    "captura": "automática",

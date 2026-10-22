@@ -27,48 +27,105 @@ _NUM = r"(\d{1,3}(?:\.\d{3})*|\d+)"
 _PCT = r"\(\s*\d+(?:[.,]\d+)?\s*%\s*\)"
 
 
+_EXTENSO = {"um": 1, "uma": 1, "dois": 2, "duas": 2, "tres": 3, "quatro": 4, "cinco": 5, "seis": 6, "sete": 7,
+            "oito": 8, "nove": 9, "dez": 10, "onze": 11, "doze": 12, "treze": 13, "catorze": 14, "quatorze": 14,
+            "quinze": 15, "dezesseis": 16, "dezessete": 17, "dezoito": 18, "dezenove": 19, "vinte": 20}
+_QTD = r"(\d{1,3}(?:\.\d{3})*|" + "|".join(sorted(_EXTENSO, key=len, reverse=True)) + r")"
+_MESES = {m: i for i, m in enumerate(["janeiro", "fevereiro", "marco", "abril", "maio", "junho", "julho", "agosto",
+                                       "setembro", "outubro", "novembro", "dezembro"], start=1)}
+
+
 def _int(txt: str) -> int:
-    return int(txt.replace(".", ""))
+    return _EXTENSO[txt] if txt in _EXTENSO else int(txt.replace(".", ""))
 
 
-def extrair(texto: str, ano: int) -> dict | None:
-    """Extrai do texto da página o total do ano, a SE de referência e os casos por UF."""
-    t = normalizar(sem_html(texto))
-    m = re.search(rf"\bem {ano}\s*,?\s*(?:ate a (?:semana epidemiologica|se)\s*(?:n[.ºo]*\s*)?(\d{{1,2}})\s*,?\s*)?"
-                  rf"[^.]{{0,40}}?foram (?:confirmados|registrados) {_NUM} casos", t)
-    if not m:
-        return None
-    casos = _int(m.group(2))
-    if m.group(1):
-        se = int(m.group(1))
-    else:  # sem SE explícita: considera a última SE encerrada na data da captura
-        se = Week.fromdate(date.today()).week - 1 if date.today().year == ano else Year(ano).totalweeks()
-        se = max(se, 1)
-    # Trecho do ano: até o início do parágrafo de outro ano
-    resto = t[m.end():]
-    fim = re.search(rf"\bem (?!{ano})(20\d\d)\b", resto)
-    trecho = t[m.start():m.end() + (fim.start() if fim else 3000)]
+def _nome_uf(nome: str) -> str:
+    # "Mato Grosso" não pode casar com "Mato Grosso do Sul"; "São Paulo" não pode casar com "São Paulo de Olivença"
+    return re.escape(normalizar(nome)) + r"(?!\s+do\s+(?:sul|norte))(?!\s+de\s+[a-z])\b"
 
+
+def _ufs_percentual(trecho: str) -> dict:
+    """Redação com percentuais: '36 (85,7%) casos em São Paulo' ou 'São Paulo, com 36 (85,7%)'."""
     ufs = {}
     for sigla, p in _ufs().items():
-        nome = re.escape(normalizar(p["n"])) + r"(?!\s+do\s+(?:sul|norte))"
+        nome = _nome_uf(p["n"])
         depois = re.search(rf"{_NUM}\s*{_PCT}[^\d%;]{{0,50}}?\b(?:n[oa]s?|em|d[oa])\s+"
-                           rf"(?:estado\s+d[eo]s?\s+)?{nome}\b", trecho)
-        antes = re.search(rf"\b{nome}\b[^.;%]{{0,80}}?{_NUM}\s*{_PCT}", trecho)
+                           rf"(?:estado\s+d[eo]s?\s+)?{nome}", trecho)
+        antes = re.search(rf"\b{nome}[^.;%]{{0,80}}?{_NUM}\s*{_PCT}", trecho)
         achado = depois or antes
         if achado:
             ufs[sigla] = _int(achado.group(1))
-    obitos = 0 if re.search(rf"em {ano}[^.]{{0,80}}nenhum obito|sem (?:registro de )?obitos", trecho) else None
+    return ufs
+
+
+def _ufs_por_mencao(trecho: str) -> dict:
+    """Redação corrida: 'O estado de São Paulo concentrou 41 casos [...] No Acre, foram registrados dois casos'.
+
+    Cada menção a uma UF abre um segmento até a próxima menção (ou o fim da frase); vale o primeiro
+    'N caso(s)' do segmento, e só a primeira contagem encontrada para cada UF."""
+    mencoes = []
+    for sigla, p in _ufs().items():
+        for m in re.finditer(rf"\b{_nome_uf(p['n'])}", trecho):
+            mencoes.append((m.start(), m.end(), sigla))
+    mencoes.sort()
+    ufs = {}
+    for i, (_, fim, sigla) in enumerate(mencoes):
+        limite = mencoes[i + 1][0] if i + 1 < len(mencoes) else len(trecho)
+        segmento = re.split(r"\.\s", trecho[fim:limite], maxsplit=1)[0]
+        m = re.search(rf"\b{_QTD}\s+(?:\([^)]*\)\s*)?casos?\b", segmento)
+        if m and sigla not in ufs:
+            ufs[sigla] = _int(m.group(1))
+    return ufs
+
+
+def extrair(texto: str, ano: int) -> dict | None:
+    """Extrai do texto da página o total do ano, a data/SE de referência, os casos por UF e as frases sobre surtos."""
+    original = sem_html(texto)
+    t = normalizar(original)
+    m = re.search(rf"\bem {ano}\s*,?\s*"
+                  rf"(?:ate (?:a (?:semana epidemiologica|se)\s*(?:n[.ºo]*\s*)?(\d{{1,2}})|(\d{{1,2}}) de ([a-z]+)(?: de {ano})?)\s*,?\s*)?"
+                  rf"[^.]{{0,40}}?foram (?:confirmados|registrados) {_NUM} casos", t)
+    if not m:
+        return None
+    casos = _int(m.group(4))
+    if m.group(1):  # "até a semana epidemiológica 38"
+        se = int(m.group(1))
+        data_ref = Week(ano, se).enddate()
+    elif m.group(2) and m.group(3) in _MESES:  # "até 19 de outubro"
+        data_ref = date(ano, _MESES[m.group(3)], int(m.group(2)))
+        se = Week.fromdate(data_ref).week
+    else:  # sem referência explícita: última SE encerrada na data da captura
+        semana = Week.fromdate(date.today()) - 1 if date.today().year == ano else Week(ano, Year(ano).totalweeks())
+        se, data_ref = semana.week, semana.enddate()
+
+    # Trecho do ano: até o parágrafo de outro ano ("Em 2025 ,"), no máximo 3.000 caracteres
+    resto = t[m.end():]
+    fim = re.search(rf"\bem (?!{ano})(20\d\d)\s*,", resto)
+    trecho = t[m.start():m.end() + min(fim.start() if fim else 3000, 3000)]
+
+    ufs = {}
+    for metodo in (_ufs_percentual, _ufs_por_mencao):
+        candidato = metodo(trecho)
+        if candidato and sum(candidato.values()) == casos:
+            ufs = candidato
+            break
+    if not ufs:
+        log.warning("Sarampo/MS: casos por UF não conferem com o total (%d); UFs não usadas.", casos)
+
+    obitos = 0 if re.search(rf"nenhum obito|sem (?:registro de )?obitos", trecho) else None
     m_ob = re.search(r"(?<![\d.])(\d{1,3})\s*(?:\([^)]*\)\s*)?obitos?\b(?! em)", trecho)
     if m_ob and int(m_ob.group(1)) <= casos:
         obitos = int(m_ob.group(1))
 
-    if ufs and sum(ufs.values()) != casos:
-        log.warning("Sarampo/MS: soma das UFs (%d) difere do total (%d); UFs descartadas.", sum(ufs.values()), casos)
-        ufs = {}
+    # Frases do MS sobre surtos e origem dos casos (texto oficial, sem reescrita)
+    i = t.find(m.group(0))
+    frases = re.split(r"(?<=\.)\s+(?=[A-ZÁÉÍÓÚÂÊÔÃÕ])", original[i:i + len(trecho)])
+    notas = [f.strip() for f in frases[1:] if re.search(r"surto|importad|fonte de infec", normalizar(f))
+             and not normalizar(f).startswith("importante")][:3]
     return {
-        "data_referencia": Week(ano, se).enddate().isoformat(),
+        "data_referencia": data_ref.isoformat(),
         "se": se, "casos": casos, "obitos": obitos, "ufs": ufs or None,
+        "nota": " ".join(notas) or None,
         "fonte": FONTE_MS, "url": URL_MS, "captura": "automática",
     }
 

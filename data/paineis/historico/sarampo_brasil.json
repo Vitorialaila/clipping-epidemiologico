@@ -1,10 +1,16 @@
 [
  {
-  "data_referencia": "2026-10-17",
-  "se": 41,
+  "data_referencia": "2026-10-19",
+  "se": 42,
   "casos": 61,
   "obitos": null,
-  "ufs": null,
+  "ufs": {
+   "SP": 41,
+   "AM": 17,
+   "AC": 2,
+   "RJ": 1
+  },
+  "nota": "Dos casos confirmados, 44 estão associados a surtos ativos e 17 a surtos encerrados. Os casos registrados no Amazonas e no Acre estão relacionados a surtos com origem no Peru, país que faz fronteira com o Brasil.",
   "fonte": "Ministério da Saúde, Situação Epidemiológica do Sarampo",
   "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/sarampo/situacao-epidemiologica",
   "captura": "automática",

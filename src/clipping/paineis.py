@@ -414,7 +414,9 @@ class PainelSarampoBrasil(PainelVigilancia):
                                    f"Dados até {ref} (SE {atual['se']}).")
         self.dados["kpis"] = [
             {"valor": f"{atual['casos']:,}".replace(",", "."), "rotulo": f"casos confirmados em {ano}"},
-            {"valor": str(com_obitos["obitos"]) if com_obitos else "n/d", "rotulo": "óbitos"},
+            {"valor": str(com_obitos["obitos"]) if com_obitos else "n/d",
+             "rotulo": "óbitos" if not com_obitos or com_obitos is atual
+             else f"óbitos (até {_data_br(com_obitos['data_referencia'])})"},
             {"valor": str(sum(1 for n in ufs.values() if n)), "rotulo": "UFs com casos"},
             {"valor": f"SE {atual['se']}", "rotulo": f"dados até {ref}"},
         ]
@@ -425,13 +427,12 @@ class PainelSarampoBrasil(PainelVigilancia):
         ]
         self.dados["graficos"] = [g for g in self.dados["graficos"] if g]
         notas = []
-        if com_ufs and com_ufs.get("origem"):
-            notas.append(f"Fonte de infecção (até {_data_br(com_ufs['data_referencia'])}): {com_ufs['origem']}.")
-        for r in regs:
-            if r.get("origem") and r is not com_ufs:
-                notas.append(f"Fonte de infecção (até {_data_br(r['data_referencia'])}): {r['origem']}.")
-            if r.get("nota"):
-                notas.append(r["nota"])
+        if atual.get("nota"):
+            notas.append(atual["nota"])
+        if atual.get("origem"):
+            notas.append(f"Fonte de infecção: {atual['origem']}.")
+        if com_ufs is not atual and ufs:
+            notas.append(f"A distribuição por UF refere-se a {ref_ufs}, última publicação do MS com detalhamento por UF.")
         self.dados["notas"] = notas
         vistas, fontes = set(), []
         for r in reversed(regs):
