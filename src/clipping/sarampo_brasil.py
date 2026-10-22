@@ -59,9 +59,9 @@ def extrair(texto: str, ano: int) -> dict | None:
         if achado:
             ufs[sigla] = _int(achado.group(1))
     obitos = 0 if re.search(rf"em {ano}[^.]{{0,80}}nenhum obito|sem (?:registro de )?obitos", trecho) else None
-    m_ob = re.search(rf"{_NUM} obitos?", trecho)
-    if m_ob:
-        obitos = _int(m_ob.group(1))
+    m_ob = re.search(r"(?<![\d.])(\d{1,3})\s*(?:\([^)]*\)\s*)?obitos?\b(?! em)", trecho)
+    if m_ob and int(m_ob.group(1)) <= casos:
+        obitos = int(m_ob.group(1))
 
     if ufs and sum(ufs.values()) != casos:
         log.warning("Sarampo/MS: soma das UFs (%d) difere do total (%d); UFs descartadas.", sum(ufs.values()), casos)
@@ -104,7 +104,10 @@ def capturar(ano: int) -> dict | None:
         historico.append(reg)
         salvar_json(ARQ_HISTORICO, sorted(historico, key=lambda h: h["data_referencia"]))
         log.info("Sarampo/MS: novo registro SE %d, %d casos.", reg["se"], reg["casos"])
-    _status(True, "ok", se=reg["se"], casos=reg["casos"], ufs=reg["ufs"])
+    t = sem_html(r.text)
+    i = normalizar(t).find(f"em {ano}")
+    _status(True, "ok", se=reg["se"], casos=reg["casos"], ufs=reg["ufs"], obitos=reg["obitos"],
+            trecho=t[i:i + 1500] if i >= 0 else "")
     return reg
 
 
