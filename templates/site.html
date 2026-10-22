@@ -271,7 +271,45 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
 .se-bloco .se-ano { font-size: 12px; letter-spacing: .28em; font-weight: 600; color: var(--cinza); padding-left: .28em; }
 
 /* Painéis */
-.paineis-grade { display: grid; grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); gap: 24px; margin-top: 32px; }
+.paineis-abas-container { margin-top: 32px; }
+
+.paineis-abas {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 24px;
+  border-bottom: 1px solid var(--linha);
+  padding-bottom: 0;
+}
+
+.paineis-aba {
+  padding: 14px 20px;
+  background: transparent;
+  border: none;
+  border-bottom: 3px solid transparent;
+  color: var(--cinza);
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all .2s ease;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+}
+
+.paineis-aba:hover {
+  color: var(--navy);
+  background: var(--creme);
+}
+
+.paineis-aba.ativo {
+  color: var(--navy);
+  border-bottom-color: var(--navy);
+}
+
+.paineis-grade { display: flex; flex-direction: column; gap: 24px; }
+
+.painel-card-novo { display: none; }
+
+.painel-card-novo.visivel { display: flex; }
 
 .painel-card-novo {
   background: #fff;
@@ -559,7 +597,10 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
 <section class="painel" id="paineis" role="tabpanel" hidden>
   <div class="wrap">
     <div class="cab-secao"><h2>Painéis de vigilância</h2><p>Indicadores de agravos em alerta epidemiológico | atualizado em {{ atualizado }}</p></div>
-    <div id="paineis-container" class="paineis-grade"></div>
+    <div class="paineis-abas-container">
+      <div id="paineis-abas" class="paineis-abas"></div>
+      <div id="paineis-container" class="paineis-grade"></div>
+    </div>
   </div>
 </section>
 
@@ -666,20 +707,30 @@ render();
 // Dados dos painéis (carregado pelo template)
 const PAINEIS = {{ paineis_json|default('[]')|safe }};
 
-// Renderizar painéis de vigilância
+// Renderizar painéis de vigilância com abas
 function renderizarPaineis() {
   const container = document.getElementById("paineis-container");
+  const abasContainer = document.getElementById("paineis-abas");
+
   if (!PAINEIS || PAINEIS.length === 0) {
     container.innerHTML = '<div class="painel-sem-dados">Nenhum painel disponível no momento.</div>';
     return;
   }
 
-  container.innerHTML = PAINEIS.map((painel) => {
+  // Criar abas
+  abasContainer.innerHTML = PAINEIS.map((painel, idx) => `
+    <button class="paineis-aba ${idx === 0 ? 'ativo' : ''}" data-painel-idx="${idx}">
+      ${esc(painel.sigla)}
+    </button>
+  `).join('');
+
+  // Criar painéis (inicialmente ocultos, exceto o primeiro)
+  container.innerHTML = PAINEIS.map((painel, idx) => {
     const ind = painel.indicadores || {};
     const indicadores_list = Object.entries(ind).filter(([k, v]) => typeof v === 'number' || (typeof v === 'string' && !k.includes('_'))).slice(0, 4);
 
     return `
-      <div class="painel-card-novo">
+      <div class="painel-card-novo ${idx === 0 ? 'visivel' : ''}" data-painel-idx="${idx}">
         <div class="painel-cabecalho">
           <h3>${esc(painel.nome)}</h3>
           <span class="painel-sigla">${esc(painel.sigla)}</span>
@@ -709,26 +760,52 @@ function renderizarPaineis() {
     `;
   }).join('');
 
-  // Renderizar gráficos Plotly após adicionar os painéis ao DOM
-  setTimeout(() => {
-    PAINEIS.forEach((painel) => {
-      // Renderizar gráfico de série
-      if (painel.grafico_serie && painel.grafico_serie.data && painel.grafico_serie.layout) {
-        const divId = painel.grafico_serie.div_id;
-        if (document.getElementById(divId)) {
-          Plotly.newPlot(divId, painel.grafico_serie.data, painel.grafico_serie.layout, {responsive: true});
-        }
-      }
-      // Renderizar gráfico de distribuição
-      if (painel.grafico_distribuicao && painel.grafico_distribuicao.data && painel.grafico_distribuicao.layout) {
-        const divId = painel.grafico_distribuicao.div_id;
-        if (document.getElementById(divId)) {
-          Plotly.newPlot(divId, painel.grafico_distribuicao.data, painel.grafico_distribuicao.layout, {responsive: true});
-        }
-      }
+  // Renderizar gráficos do primeiro painel
+  setTimeout(() => renderizarGraficosPainel(0), 100);
+
+  // Gerenciar cliques nas abas
+  document.querySelectorAll('.paineis-aba').forEach((aba) => {
+    aba.addEventListener('click', (e) => {
+      const idx = parseInt(e.target.dataset.painelIdx);
+
+      // Atualizar abas
+      document.querySelectorAll('.paineis-aba').forEach((a) => a.classList.remove('ativo'));
+      e.target.classList.add('ativo');
+
+      // Atualizar painéis
+      document.querySelectorAll('.painel-card-novo').forEach((p) => p.classList.remove('visivel'));
+      document.querySelector(`[data-painel-idx="${idx}"]`).classList.add('visivel');
+
+      // Renderizar gráficos do painel selecionado
+      setTimeout(() => renderizarGraficosPainel(idx), 50);
     });
-  }, 100);
+  });
 }
+
+// Renderizar gráficos de um painel específico
+function renderizarGraficosPainel(idx) {
+  if (!PAINEIS[idx]) return;
+  const painel = PAINEIS[idx];
+
+  // Renderizar gráfico de série
+  if (painel.grafico_serie && painel.grafico_serie.data && painel.grafico_serie.layout) {
+    const divId = painel.grafico_serie.div_id;
+    const div = document.getElementById(divId);
+    if (div) {
+      Plotly.newPlot(divId, painel.grafico_serie.data, painel.grafico_serie.layout, {responsive: true});
+    }
+  }
+
+  // Renderizar gráfico de distribuição
+  if (painel.grafico_distribuicao && painel.grafico_distribuicao.data && painel.grafico_distribuicao.layout) {
+    const divId = painel.grafico_distribuicao.div_id;
+    const div = document.getElementById(divId);
+    if (div) {
+      Plotly.newPlot(divId, painel.grafico_distribuicao.data, painel.grafico_distribuicao.layout, {responsive: true});
+    }
+  }
+}
+
 renderizarPaineis();
 
 // Abas: Notícias (padrão), Destaques da semana, Boletim epidemiológico, Painéis e Edições do clipping
