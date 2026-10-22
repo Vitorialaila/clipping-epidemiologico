@@ -271,20 +271,128 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
 .se-bloco .se-ano { font-size: 12px; letter-spacing: .28em; font-weight: 600; color: var(--cinza); padding-left: .28em; }
 
 /* Painéis */
-.paineis-grade { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 24px; margin-top: 32px; }
-.painel-card { background: var(--creme); border: 1px solid var(--linha); border-radius: 8px; padding: 24px; transition: all .3s ease; }
-.painel-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,.08); transform: translateY(-2px); }
-.painel-card .icone { font-size: 40px; margin-bottom: 12px; }
-.painel-card h3 { font-family: var(--serif); font-size: 20px; font-weight: 400; color: var(--navy); margin: 0 0 4px; }
-.painel-card .sigla { font-size: 11px; letter-spacing: .12em; text-transform: uppercase; color: var(--ouro); font-weight: 700; margin-bottom: 12px; display: inline-block; }
-.painel-card p { font-size: 14px; color: var(--cinza); margin: 0 0 16px; line-height: 1.5; }
-.painel-indicadores { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 20px; }
-.painel-indicador { background: #fff; padding: 12px; border-radius: 4px; border-left: 3px solid var(--ouro); }
-.painel-indicador .valor { font-family: var(--serif); font-size: 24px; font-weight: 400; color: var(--navy); }
-.painel-indicador .label { font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--cinza); margin-top: 4px; }
-.painel-graficos { margin-top: 20px; }
-.painel-graficos .grafico { margin-bottom: 16px; padding: 12px; background: #fff; border-radius: 4px; }
-.painel-sem-dados { color: var(--cinza); font-style: italic; padding: 32px 0; text-align: center; }
+.paineis-grade { display: grid; grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); gap: 24px; margin-top: 32px; }
+
+.painel-card-novo {
+  background: #fff;
+  border: 1px solid var(--linha);
+  border-radius: 12px;
+  padding: 28px;
+  box-shadow: 0 2px 8px rgba(0,0,0,.04);
+  transition: all .3s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.painel-card-novo:hover {
+  box-shadow: 0 8px 24px rgba(0,0,0,.12);
+  transform: translateY(-4px);
+  border-color: var(--navy);
+}
+
+.painel-cabecalho {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 16px;
+  border-bottom: 2px solid var(--ouro-3);
+  padding-bottom: 12px;
+}
+
+.painel-cabecalho h3 {
+  font-family: var(--serif);
+  font-size: 22px;
+  font-weight: 400;
+  color: var(--navy);
+  margin: 0;
+}
+
+.painel-sigla {
+  font-size: 10px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--ouro);
+  font-weight: 700;
+  background: var(--ouro-3);
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+
+.painel-descricao {
+  font-size: 14px;
+  color: var(--cinza);
+  margin: 0 0 20px;
+  line-height: 1.6;
+  font-style: italic;
+}
+
+.painel-kpis {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 12px;
+  margin-bottom: 24px;
+  background: linear-gradient(135deg, var(--creme) 0%, #fff 100%);
+  padding: 16px;
+  border-radius: 8px;
+  border-left: 4px solid var(--navy);
+}
+
+.painel-kpi {
+  text-align: center;
+  padding: 8px 0;
+}
+
+.painel-valor {
+  font-family: var(--serif);
+  font-size: 28px;
+  font-weight: 400;
+  color: var(--navy);
+  line-height: 1.2;
+}
+
+.painel-label {
+  font-size: 11px;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  color: var(--cinza);
+  margin-top: 6px;
+  font-weight: 500;
+}
+
+.painel-grafico {
+  margin: 24px 0;
+  padding: 16px;
+  background: #f9f9f9;
+  border-radius: 8px;
+  border: 1px solid var(--linha);
+}
+
+.painel-grafico svg {
+  width: 100% !important;
+  height: auto !important;
+}
+
+.painel-footer {
+  display: flex;
+  gap: 16px;
+  margin-top: auto;
+  padding-top: 16px;
+  border-top: 1px solid var(--linha);
+  font-size: 12px;
+  color: var(--cinza);
+}
+
+.painel-footer small {
+  flex: 1;
+}
+
+.painel-sem-dados {
+  color: var(--cinza);
+  font-style: italic;
+  padding: 64px 32px;
+  text-align: center;
+  grid-column: 1 / -1;
+}
 </style>
 </head>
 <body>
@@ -567,30 +675,35 @@ function renderizarPaineis() {
 
   container.innerHTML = PAINEIS.map((painel) => {
     const ind = painel.indicadores || {};
-    const serie = painel.serie_temporal || [];
-    const dist = painel.distribuicao_geografica || [];
+    const indicadores_list = Object.entries(ind).filter(([k, v]) => typeof v === 'number' || (typeof v === 'string' && !k.includes('_'))).slice(0, 4);
 
     return `
-      <div class="painel-card">
-        <div class="icone">${painel.icone || '🔍'}</div>
-        <span class="sigla">${esc(painel.sigla)}</span>
-        <h3>${esc(painel.nome)}</h3>
-        <p>${esc(painel.descricao)}</p>
-
-        <div class="painel-indicadores">
-          ${ind.casos_confirmados ? `<div class="painel-indicador"><div class="valor">${ind.casos_confirmados.toLocaleString('pt-BR')}</div><div class="label">Casos confirmados</div></div>` : ''}
-          ${ind.obitos ? `<div class="painel-indicador"><div class="valor">${ind.obitos.toLocaleString('pt-BR')}</div><div class="label">Óbitos</div></div>` : ''}
-          ${ind.taxa_letalidade ? `<div class="painel-indicador"><div class="valor">${ind.taxa_letalidade}%</div><div class="label">Taxa de letalidade</div></div>` : ''}
-          ${ind.paises_afetados || ind.estado_mais_afetado ? `<div class="painel-indicador"><div class="valor">${ind.paises_afetados || 1}</div><div class="label">Países/Regiões</div></div>` : ''}
+      <div class="painel-card-novo">
+        <div class="painel-cabecalho">
+          <h3>${esc(painel.nome)}</h3>
+          <span class="painel-sigla">${esc(painel.sigla)}</span>
         </div>
 
-        ${serie.length > 0 ? `<div class="painel-graficos"><div class="grafico"><small style="color: var(--cinza);">Últimas semanas</small><div style="font-size: 12px; color: var(--cinza); margin-top: 8px;">${serie.length} observações disponíveis</div></div></div>` : ''}
+        <p class="painel-descricao">${esc(painel.descricao)}</p>
 
-        ${dist.length > 0 ? `<div style="margin-top: 12px;"><small style="color: var(--cinza);">Distribuição geográfica:</small><ul style="list-style: none; padding: 0; margin: 8px 0 0; font-size: 12px;">
-          ${dist.slice(0, 5).map(d => `<li style="padding: 4px 0; color: var(--cinza);">• ${esc(d.pais || d.estado)}: ${d.casos.toLocaleString('pt-BR')} casos</li>`).join('')}
-        </ul></div>` : ''}
+        ${indicadores_list.length > 0 ? `
+          <div class="painel-kpis">
+            ${indicadores_list.map(([k, v]) => `
+              <div class="painel-kpi">
+                <div class="painel-valor">${typeof v === 'number' && v > 100 ? v.toLocaleString('pt-BR') : v}</div>
+                <div class="painel-label">${k.replace(/_/g, ' ')}</div>
+              </div>
+            `).join('')}
+          </div>
+        ` : ''}
 
-        <p style="font-size: 12px; color: var(--cinza); margin-top: 16px; margin-bottom: 0;">Atualizado em ${painel.atualizado_em ? new Date(painel.atualizado_em).toLocaleDateString('pt-BR', {hour: '2-digit', minute: '2-digit'}) : 'data desconhecida'}</p>
+        ${painel.grafico_serie ? `<div class="painel-grafico">${painel.grafico_serie}</div>` : ''}
+        ${painel.grafico_distribuicao ? `<div class="painel-grafico">${painel.grafico_distribuicao}</div>` : ''}
+
+        <div class="painel-footer">
+          <small>Fonte: ${esc(painel.fonte_dados || 'Dados consolidados')}</small>
+          <small>Atualizado: ${painel.atualizado_em ? new Date(painel.atualizado_em).toLocaleDateString('pt-BR') : 'N/A'}</small>
+        </div>
       </div>
     `;
   }).join('');

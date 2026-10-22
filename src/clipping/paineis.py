@@ -7,6 +7,8 @@ from pathlib import Path
 from typing import Any
 
 import requests
+import plotly.graph_objects as go
+import plotly.express as px
 from .util import log, ler_json, salvar_json
 
 PAINEIS_DIR = Path(__file__).parent.parent.parent / "data" / "paineis"
@@ -36,12 +38,125 @@ class PainelVigilancia:
         """Coleta dados. Retorna True se bem-sucedido."""
         raise NotImplementedError
 
+    def gerar_grafico_serie(self) -> str:
+        """Gera gráfico interativo da série temporal com Plotly."""
+        if not self.dados.get("serie_temporal"):
+            return ""
+
+        try:
+            serie = self.dados["serie_temporal"]
+
+            # Preparar dados
+            if "semana" in serie[0]:
+                x = [d.get("semana", i) for i, d in enumerate(serie)]
+                titulo_x = "Semana Epidemiológica"
+            elif "período" in serie[0]:
+                x = [d.get("período", "") for d in serie]
+                titulo_x = "Período"
+            elif "data" in serie[0]:
+                x = [d.get("data", "") for d in serie]
+                titulo_x = "Data"
+            else:
+                return ""
+
+            # Gráfico de série temporal
+            fig = go.Figure()
+
+            # Casos
+            if "casos" in serie[0]:
+                casos = [d.get("casos", 0) for d in serie]
+                fig.add_trace(go.Scatter(
+                    x=x, y=casos,
+                    name="Casos",
+                    mode="lines+markers",
+                    line=dict(color="#0A3570", width=3),
+                    marker=dict(size=8),
+                    hovertemplate="<b>%{x}</b><br>Casos: %{y}<extra></extra>"
+                ))
+
+            # Óbitos
+            if "obitos" in serie[0] or "óbitos" in serie[0]:
+                obitos_key = "obitos" if "obitos" in serie[0] else "óbitos"
+                obitos = [d.get(obitos_key, 0) for d in serie]
+                fig.add_trace(go.Scatter(
+                    x=x, y=obitos,
+                    name="Óbitos",
+                    mode="lines+markers",
+                    line=dict(color="#A3262A", width=3),
+                    marker=dict(size=8),
+                    hovertemplate="<b>%{x}</b><br>Óbitos: %{y}<extra></extra>"
+                ))
+
+            fig.update_layout(
+                title=dict(text=f"<b>{self.nome} - Série Temporal</b>", font=dict(size=16)),
+                xaxis_title=titulo_x,
+                yaxis_title="Casos/Óbitos",
+                hovermode="x unified",
+                template="plotly_white",
+                height=400,
+                font=dict(family="Arial, sans-serif", size=12),
+                plot_bgcolor="rgba(245,245,245,1)",
+                margin=dict(l=50, r=50, t=70, b=50)
+            )
+
+            return fig.to_html(include_plotlyjs="cdn", div_id=f"grafico_{self.sigla.lower()}")
+        except Exception as e:
+            log.warning(f"Erro ao gerar gráfico de série: {e}")
+            return ""
+
+    def gerar_grafico_distribuicao(self) -> str:
+        """Gera gráfico de distribuição geográfica."""
+        if not self.dados.get("distribuicao_geografica"):
+            return ""
+
+        try:
+            dist = self.dados["distribuicao_geografica"]
+
+            # Extrair dados
+            locais = [d.get("país") or d.get("estado") for d in dist]
+            casos = [d.get("casos", 0) for d in dist]
+
+            fig = go.Figure(data=[
+                go.Bar(
+                    x=locais,
+                    y=casos,
+                    marker=dict(color="#0A3570"),
+                    text=casos,
+                    textposition="auto",
+                    hovertemplate="<b>%{x}</b><br>Casos: %{y}<extra></extra>"
+                )
+            ])
+
+            fig.update_layout(
+                title=dict(text=f"<b>{self.nome} - Distribuição Geográfica</b>", font=dict(size=16)),
+                xaxis_title="Localidade",
+                yaxis_title="Casos",
+                template="plotly_white",
+                height=350,
+                showlegend=False,
+                font=dict(family="Arial, sans-serif", size=12),
+                plot_bgcolor="rgba(245,245,245,1)",
+                margin=dict(l=50, r=50, t=70, b=100)
+            )
+
+            fig.update_xaxes(tickangle=-45)
+
+            return fig.to_html(include_plotlyjs=False, div_id=f"dist_{self.sigla.lower()}")
+        except Exception as e:
+            log.warning(f"Erro ao gerar gráfico de distribuição: {e}")
+            return ""
+
     def salvar(self) -> None:
-        """Salva o painel em JSON."""
+        """Salva o painel em JSON com gráficos."""
         self.dados["atualizado_em"] = datetime.now().isoformat()
+
+        # Gerar gráficos
+        self.dados["grafico_serie"] = self.gerar_grafico_serie()
+        self.dados["grafico_distribuicao"] = self.gerar_grafico_distribuicao()
+
         arq = PAINEIS_DIR / f"{self.sigla.lower()}.json"
         salvar_json(arq, self.dados)
-        log.info(f"Painel {self.nome} salvo")
+        log.info(f"Painel {self.nome} salvo com gráficos")
 
 
 class PainelSRAGBrasil(PainelVigilancia):
