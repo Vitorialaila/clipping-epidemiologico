@@ -489,6 +489,11 @@ class PainelEbolaRDC(PainelVigilancia):
 def gerar_paineis() -> None:
     """Gera todos os painéis de vigilância."""
     log.info("Gerando painéis de vigilância...")
+    try:  # sondagem temporária das fontes (remover depois)
+        from . import sondagem
+        sondagem.sondar()
+    except Exception as e:
+        log.warning(f"Sondagem falhou: {e}")
 
     paineis = [
         # PainelSRAGBrasil(): retirado em 22/10/2026, série sem fonte; será refeito com o InfoGripe
