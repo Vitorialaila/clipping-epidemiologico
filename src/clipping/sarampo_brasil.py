@@ -13,7 +13,7 @@ from __future__ import annotations
 import re
 from datetime import date
 
-from epiweeks import Week
+from epiweeks import Week, Year
 
 from .mapas import _ufs
 from .util import DADOS, carregar_yaml, ler_json, log, normalizar, salvar_json, sem_html, sessao_http
@@ -34,11 +34,16 @@ def _int(txt: str) -> int:
 def extrair(texto: str, ano: int) -> dict | None:
     """Extrai do texto da página o total do ano, a SE de referência e os casos por UF."""
     t = normalizar(sem_html(texto))
-    m = re.search(rf"em {ano},? ate a (?:semana epidemiologica|se)\s*(?:n[.ºo]*\s*)?(\d{{1,2}}),?"
-                  rf"[^.]{{0,40}}?foram confirmados {_NUM} casos", t)
+    m = re.search(rf"\bem {ano}\s*,?\s*(?:ate a (?:semana epidemiologica|se)\s*(?:n[.ºo]*\s*)?(\d{{1,2}})\s*,?\s*)?"
+                  rf"[^.]{{0,40}}?foram (?:confirmados|registrados) {_NUM} casos", t)
     if not m:
         return None
-    se, casos = int(m.group(1)), _int(m.group(2))
+    casos = _int(m.group(2))
+    if m.group(1):
+        se = int(m.group(1))
+    else:  # sem SE explícita: considera a última SE encerrada na data da captura
+        se = Week.fromdate(date.today()).week - 1 if date.today().year == ano else Year(ano).totalweeks()
+        se = max(se, 1)
     # Trecho do ano: até o início do parágrafo de outro ano
     resto = t[m.end():]
     fim = re.search(rf"\bem (?!{ano})(20\d\d)\b", resto)
@@ -47,7 +52,7 @@ def extrair(texto: str, ano: int) -> dict | None:
     ufs = {}
     for sigla, p in _ufs().items():
         nome = re.escape(normalizar(p["n"])) + r"(?!\s+do\s+(?:sul|norte))"
-        depois = re.search(rf"{_NUM}\s*{_PCT}\s*(?:casos?\s+)?(?:confirmados?\s+)?(?:n[oa]s?|em|d[oa])\s+"
+        depois = re.search(rf"{_NUM}\s*{_PCT}[^\d%;]{{0,50}}?\b(?:n[oa]s?|em|d[oa])\s+"
                            rf"(?:estado\s+d[eo]s?\s+)?{nome}\b", trecho)
         antes = re.search(rf"\b{nome}\b[^.;%]{{0,80}}?{_NUM}\s*{_PCT}", trecho)
         achado = depois or antes
@@ -88,7 +93,7 @@ def capturar(ano: int) -> dict | None:
     if not reg:
         log.warning("Sarampo/MS: não foi possível ler o total de %d na página.", ano)
         t = sem_html(r.text)
-        i = normalizar(t).find("foram confirmados")
+        i = normalizar(t).find(f"em {ano}")
         _status(False, "texto da página não reconhecido", http=r.status_code, tamanho=len(r.text),
                 trecho=t[max(0, i - 300):i + 900] if i >= 0 else t[:1200])
         return None
