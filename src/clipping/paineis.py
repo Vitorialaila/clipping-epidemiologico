@@ -96,7 +96,7 @@ class PainelVigilancia:
                 hovermode="x unified",
                 template="plotly_white",
                 height=400,
-                font=dict(family="Arial, sans-serif", size=12),
+                font=dict(family="Inter, system-ui, sans-serif", size=12),
                 plot_bgcolor="rgba(245,245,245,1)",
                 margin=dict(l=50, r=50, t=70, b=50)
             )
@@ -145,7 +145,7 @@ class PainelVigilancia:
                 template="plotly_white",
                 height=350,
                 showlegend=False,
-                font=dict(family="Arial, sans-serif", size=12),
+                font=dict(family="Inter, system-ui, sans-serif", size=12),
                 plot_bgcolor="rgba(245,245,245,1)",
                 margin=dict(l=50, r=50, t=70, b=100)
             )
@@ -277,10 +277,10 @@ CLASSES_MAPA = [  # (mínimo, rótulo, cor)
 ]
 LAYOUT_BASE = dict(
     template="plotly_white",
-    font=dict(family="IBM Plex Sans, Arial, sans-serif", size=12, color="#3A4352"),
+    font=dict(family="Inter, system-ui, sans-serif", size=12, color="#3A4352"),
     paper_bgcolor="rgba(0,0,0,0)",
     plot_bgcolor="rgba(0,0,0,0)",
-    hoverlabel=dict(font=dict(family="IBM Plex Sans, Arial, sans-serif")),
+    hoverlabel=dict(font=dict(family="Inter, system-ui, sans-serif")),
 )
 
 

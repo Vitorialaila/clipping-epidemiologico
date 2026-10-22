@@ -94,7 +94,7 @@ def gerar() -> None:
     (DOCS / "assets").mkdir(exist_ok=True)
     shutil.copy(ASSETS / "img" / "logos.png", DOCS / "assets" / "logos.png")
     (DOCS / "assets" / "fonts").mkdir(exist_ok=True)
-    for fonte in (ASSETS / "fonts").glob("*.ttf"):
+    for fonte in (ASSETS / "fonts").glob("Inter-*.woff2"):
         shutil.copy(fonte, DOCS / "assets" / "fonts" / fonte.name)
     (DOCS / ".nojekyll").write_text("", encoding="utf-8")
     # Fundo da abertura: mapa da semana em tema escuro (ou mapa-múndi sem marcadores, antes da 1ª edição)

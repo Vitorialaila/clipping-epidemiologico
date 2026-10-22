@@ -1,16 +1,6 @@
 {
- "quando": "2026-10-22T14:56",
- "ok": true,
- "motivo": "ok",
- "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/sarampo/situacao-epidemiologica",
- "se": 42,
- "casos": 61,
- "ufs": {
-  "SP": 41,
-  "AM": 17,
-  "AC": 2,
-  "RJ": 1
- },
- "obitos": null,
- "trecho": "Em 2026 , até 19 de outubro, foram confirmados 61 casos de sarampo no Brasil, distribuídos nos estados de São Paulo, Amazonas, Rio de Janeiro e Acre. O estado de São Paulo concentrou 41 casos, sendo 37 registrados na capital, dois em São Bernardo do Campo, um em Guarulhos e um em Santo André. No Amazonas, foram confirmados 17 casos, distribuídos entre os municípios de Tabatinga (nove), Benjamin Constant (cinco), Atalaia do Norte (dois) e São Paulo de Olivença (um). No Acre, foram registrados dois casos, ambos em Rio Branco, e, no Rio de Janeiro, um caso na capital. Dos casos confirmados, 44 estão associados a surtos ativos e 17 a surtos encerrados. Os casos registrados no Amazonas e no Acre estão relacionados a surtos com origem no Peru, país que faz fronteira com o Brasil. Em novembro de 2024 , o Brasil recebeu novamente da Organização Pan-Americana da Saúde a recertificação da eliminação da circulação endêmica do sarampo e mantém o status de país livre da doença até os dias atuais. Importante: Casos isolados (fonte de infecção desconhecida) ou importados ou relacionados a importação, não significam o retorno da doença como problema de saúde pública. No entanto, indicam a necessidade de manter altas coberturas vacinais. A vacinação é a principal forma de prevenção e está disponível gratuitamente no Sistema Único de Saúde (SUS). Casos confirmados de Sarampo. Brasil, Grandes Regiões e Unidades Federadas. 1990-2026 Óbitos de Sarampo. Brasil, Grandes Regiões e Unidades Federadas"
+ "quando": "2026-10-22T18:01",
+ "ok": false,
+ "motivo": "página indisponível: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /saude/pt-br/assuntos/saude-de-a-a-z/s/sarampo/situacao-epidemiologica (Caused by ProxyError('Unable to connect to prox",
+ "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/sarampo/situacao-epidemiologica"
 }

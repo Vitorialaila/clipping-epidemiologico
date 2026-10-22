@@ -2,7 +2,7 @@
  "nome": "Sarampo no Brasil, 2026",
  "sigla": "SARAMPO_BR",
  "descricao": "Casos confirmados de sarampo no Brasil em 2026, segundo o Ministério da Saúde. Dados até 19/10/2026 (SE 42).",
- "atualizado_em": "2026-10-22T14:56:43.984502",
+ "atualizado_em": "2026-10-22T18:01:28.730538",
  "fonte_dados": "Ministério da Saúde, Situação Epidemiológica do Sarampo; Ministério da Saúde, notícia de 06/10/2026",
  "serie_temporal": [],
  "distribuicao_geografica": [],
@@ -14880,13 +14880,13 @@
      }
     ],
     "font": {
-     "family": "IBM Plex Sans, Arial, sans-serif",
+     "family": "Inter, system-ui, sans-serif",
      "size": 12,
      "color": "#3A4352"
     },
     "hoverlabel": {
      "font": {
-      "family": "IBM Plex Sans, Arial, sans-serif"
+      "family": "Inter, system-ui, sans-serif"
      }
     },
     "title": {
@@ -15730,13 +15730,13 @@
      }
     },
     "font": {
-     "family": "IBM Plex Sans, Arial, sans-serif",
+     "family": "Inter, system-ui, sans-serif",
      "size": 12,
      "color": "#3A4352"
     },
     "hoverlabel": {
      "font": {
-      "family": "IBM Plex Sans, Arial, sans-serif"
+      "family": "Inter, system-ui, sans-serif"
      }
     },
     "title": {
@@ -16589,13 +16589,13 @@
      }
     },
     "font": {
-     "family": "IBM Plex Sans, Arial, sans-serif",
+     "family": "Inter, system-ui, sans-serif",
      "size": 12,
      "color": "#3A4352"
     },
     "hoverlabel": {
      "font": {
-      "family": "IBM Plex Sans, Arial, sans-serif"
+      "family": "Inter, system-ui, sans-serif"
      }
     },
     "title": {

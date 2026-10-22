@@ -108,7 +108,7 @@ def _caminho(poligonos, proj) -> str:
 def _marcador(x, y, rotulo, cor, r=11.0, texto="#fff") -> str:
     return (f'<g><circle cx="{x:.1f}" cy="{y:.1f}" r="{r + 2.2:.1f}" fill="#fff" opacity=".9"/>'
             f'<circle cx="{x:.1f}" cy="{y:.1f}" r="{r}" fill="{cor}"/>'
-            f'<text x="{x:.1f}" y="{y + r * 0.42:.1f}" text-anchor="middle" font-family="IBM Plex Sans, sans-serif" '
+            f'<text x="{x:.1f}" y="{y + r * 0.42:.1f}" text-anchor="middle" font-family="Inter, sans-serif" '
             f'font-weight="700" font-size="{r * 1.15:.1f}" fill="{texto}">{rotulo}</text></g>')
 
 
@@ -225,7 +225,7 @@ def _insercao_brasil(eventos, x0, y0, lado, t=None):
         cor = marcadas.get(s)
         estilo = f'fill="{cor}" fill-opacity="{t["opac"]}"' if cor else f'fill="{t["uf"]}"'
         partes.append(f'<path d="{_caminho(p["p"], proj)}" {estilo} stroke="{t["uf_borda"]}" stroke-width=".6"/>')
-    partes.append(f'<text x="{x0 + pad}" y="{y0 + lado + pad - 2:.1f}" font-family="IBM Plex Sans, sans-serif" '
+    partes.append(f'<text x="{x0 + pad}" y="{y0 + lado + pad - 2:.1f}" font-family="Inter, sans-serif" '
                   f'font-size="10" font-weight="700" letter-spacing="1.5" fill="{t["rotulo"]}">BRASIL</text>')
     pontos, rot = [], []
     for e in eventos:

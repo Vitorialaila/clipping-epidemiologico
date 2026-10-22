@@ -2,7 +2,7 @@
  "nome": "SRAG - Brasil",
  "sigla": "SRAG",
  "descricao": "Síndrome Respiratória Aguda Grave em vigilância sentinela",
- "atualizado_em": "2026-10-22T14:56:42.443635",
+ "atualizado_em": "2026-10-22T18:01:28.156943",
  "fonte_dados": "MS/DATASUS - InfoGripe",
  "serie_temporal": [
   {
@@ -895,7 +895,7 @@
      "text": "<b>SRAG - Brasil - Série Temporal</b>"
     },
     "font": {
-     "family": "Arial, sans-serif",
+     "family": "Inter, system-ui, sans-serif",
      "size": 12
     },
     "margin": {
