@@ -21,6 +21,7 @@ from .util import DADOS, carregar_yaml, ler_json, log, normalizar, salvar_json, 
 URL_MS = "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/sarampo/situacao-epidemiologica"
 FONTE_MS = "Ministério da Saúde, Situação Epidemiológica do Sarampo"
 ARQ_HISTORICO = DADOS / "paineis" / "historico" / "sarampo_brasil.json"
+ARQ_STATUS = DADOS / "paineis" / "historico" / "sarampo_brasil_status.json"
 
 _NUM = r"(\d{1,3}(?:\.\d{3})*|\d+)"
 _PCT = r"\(\s*\d+(?:[.,]\d+)?\s*%\s*\)"
@@ -67,6 +68,13 @@ def extrair(texto: str, ano: int) -> dict | None:
     }
 
 
+def _status(ok: bool, motivo: str, **extra) -> None:
+    """Registra o resultado da última tentativa de captura (para diagnóstico)."""
+    from datetime import datetime
+    salvar_json(ARQ_STATUS, {"quando": datetime.now().isoformat(timespec="minutes"), "ok": ok,
+                             "motivo": motivo, "url": URL_MS, **extra})
+
+
 def capturar(ano: int) -> dict | None:
     """Baixa a página do MS e grava o registro no histórico, se for novo."""
     try:
@@ -74,10 +82,15 @@ def capturar(ano: int) -> dict | None:
         r.raise_for_status()
     except Exception as e:  # rede fora do ar não pode derrubar o site
         log.warning("Sarampo/MS: página indisponível (%s).", e)
+        _status(False, f"página indisponível: {str(e)[:200]}")
         return None
     reg = extrair(r.text, ano)
     if not reg:
         log.warning("Sarampo/MS: não foi possível ler o total de %d na página.", ano)
+        t = sem_html(r.text)
+        i = normalizar(t).find("foram confirmados")
+        _status(False, "texto da página não reconhecido", http=r.status_code, tamanho=len(r.text),
+                trecho=t[max(0, i - 300):i + 900] if i >= 0 else t[:1200])
         return None
     historico = ler_json(ARQ_HISTORICO, [])
     chave = (reg["data_referencia"], reg["casos"])
@@ -86,6 +99,7 @@ def capturar(ano: int) -> dict | None:
         historico.append(reg)
         salvar_json(ARQ_HISTORICO, sorted(historico, key=lambda h: h["data_referencia"]))
         log.info("Sarampo/MS: novo registro SE %d, %d casos.", reg["se"], reg["casos"])
+    _status(True, "ok", se=reg["se"], casos=reg["casos"], ufs=reg["ufs"])
     return reg
 
 
