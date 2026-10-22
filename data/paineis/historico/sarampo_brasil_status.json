@@ -1,5 +1,5 @@
 {
- "quando": "2026-10-22T18:04",
+ "quando": "2026-10-22T18:06",
  "ok": false,
  "motivo": "página indisponível: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /saude/pt-br/assuntos/saude-de-a-a-z/s/sarampo/situacao-epidemiologica (Caused by ProxyError('Unable to connect to prox",
  "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/sarampo/situacao-epidemiologica"

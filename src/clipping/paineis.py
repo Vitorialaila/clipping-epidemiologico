@@ -491,7 +491,7 @@ def gerar_paineis() -> None:
     log.info("Gerando painéis de vigilância...")
 
     paineis = [
-        PainelSRAGBrasil(),
+        # PainelSRAGBrasil(): retirado em 22/10/2026, série sem fonte; será refeito com o InfoGripe
         PainelSarampoBrasil(),
         # PainelEbolaRDC(): retirado em 22/10/2026, tinha números e tendência sem fonte
     ]
