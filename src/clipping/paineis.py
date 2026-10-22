@@ -38,10 +38,10 @@ class PainelVigilancia:
         """Coleta dados. Retorna True se bem-sucedido."""
         raise NotImplementedError
 
-    def gerar_grafico_serie(self) -> str:
-        """Gera gráfico interativo da série temporal com Plotly."""
+    def gerar_grafico_serie(self) -> dict:
+        """Gera dados do gráfico da série temporal em formato JSON para Plotly."""
         if not self.dados.get("serie_temporal"):
-            return ""
+            return {}
 
         try:
             serie = self.dados["serie_temporal"]
@@ -57,7 +57,7 @@ class PainelVigilancia:
                 x = [d.get("data", "") for d in serie]
                 titulo_x = "Data"
             else:
-                return ""
+                return {}
 
             # Gráfico de série temporal
             fig = go.Figure()
@@ -99,15 +99,21 @@ class PainelVigilancia:
                 margin=dict(l=50, r=50, t=70, b=50)
             )
 
-            return fig.to_html(include_plotlyjs=False, div_id=f"grafico_{self.sigla.lower()}", config={"responsive": True})
+            # Retornar dados em formato serializável
+            fig_dict = fig.to_dict()
+            return {
+                "data": fig_dict.get("data", []),
+                "layout": fig_dict.get("layout", {}),
+                "div_id": f"grafico_{self.sigla.lower()}"
+            }
         except Exception as e:
             log.warning(f"Erro ao gerar gráfico de série: {e}")
-            return ""
+            return {}
 
-    def gerar_grafico_distribuicao(self) -> str:
-        """Gera gráfico de distribuição geográfica."""
+    def gerar_grafico_distribuicao(self) -> dict:
+        """Gera dados do gráfico de distribuição geográfica em formato JSON para Plotly."""
         if not self.dados.get("distribuicao_geografica"):
-            return ""
+            return {}
 
         try:
             dist = self.dados["distribuicao_geografica"]
@@ -141,16 +147,22 @@ class PainelVigilancia:
 
             fig.update_xaxes(tickangle=-45)
 
-            return fig.to_html(include_plotlyjs=False, div_id=f"dist_{self.sigla.lower()}", config={"responsive": True})
+            # Retornar dados em formato serializável
+            fig_dict = fig.to_dict()
+            return {
+                "data": fig_dict.get("data", []),
+                "layout": fig_dict.get("layout", {}),
+                "div_id": f"dist_{self.sigla.lower()}"
+            }
         except Exception as e:
             log.warning(f"Erro ao gerar gráfico de distribuição: {e}")
-            return ""
+            return {}
 
     def salvar(self) -> None:
-        """Salva o painel em JSON com gráficos."""
+        """Salva o painel em JSON com dados dos gráficos."""
         self.dados["atualizado_em"] = datetime.now().isoformat()
 
-        # Gerar gráficos
+        # Gerar dados dos gráficos (JSON-serializáveis)
         self.dados["grafico_serie"] = self.gerar_grafico_serie()
         self.dados["grafico_distribuicao"] = self.gerar_grafico_distribuicao()
 

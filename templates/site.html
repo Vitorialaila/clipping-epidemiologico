@@ -698,8 +698,8 @@ function renderizarPaineis() {
           </div>
         ` : ''}
 
-        ${painel.grafico_serie ? `<div class="painel-grafico">${painel.grafico_serie}</div>` : ''}
-        ${painel.grafico_distribuicao ? `<div class="painel-grafico">${painel.grafico_distribuicao}</div>` : ''}
+        ${painel.grafico_serie && Object.keys(painel.grafico_serie).length > 0 ? `<div class="painel-grafico"><div id="${painel.grafico_serie.div_id}" style="width:100%;height:400px;"></div></div>` : ''}
+        ${painel.grafico_distribuicao && Object.keys(painel.grafico_distribuicao).length > 0 ? `<div class="painel-grafico"><div id="${painel.grafico_distribuicao.div_id}" style="width:100%;height:350px;"></div></div>` : ''}
 
         <div class="painel-footer">
           <small>Fonte: ${esc(painel.fonte_dados || 'Dados consolidados')}</small>
@@ -708,6 +708,26 @@ function renderizarPaineis() {
       </div>
     `;
   }).join('');
+
+  // Renderizar gráficos Plotly após adicionar os painéis ao DOM
+  setTimeout(() => {
+    PAINEIS.forEach((painel) => {
+      // Renderizar gráfico de série
+      if (painel.grafico_serie && painel.grafico_serie.data && painel.grafico_serie.layout) {
+        const divId = painel.grafico_serie.div_id;
+        if (document.getElementById(divId)) {
+          Plotly.newPlot(divId, painel.grafico_serie.data, painel.grafico_serie.layout, {responsive: true});
+        }
+      }
+      // Renderizar gráfico de distribuição
+      if (painel.grafico_distribuicao && painel.grafico_distribuicao.data && painel.grafico_distribuicao.layout) {
+        const divId = painel.grafico_distribuicao.div_id;
+        if (document.getElementById(divId)) {
+          Plotly.newPlot(divId, painel.grafico_distribuicao.data, painel.grafico_distribuicao.layout, {responsive: true});
+        }
+      }
+    });
+  }, 100);
 }
 renderizarPaineis();
 
