@@ -104,7 +104,7 @@
   "descricao": "A Agência Nacional de Vigilância Sanitária (Anvisa) emitiu alerta para reforçar a proibição do uso do suplemento alimentar ashwagandha no Brasil. A erva asiática tem sido indicada, principalmente pela rede social TikTok, para relaxamento e alívio dos sintomas da perimenopausa. Em nota, a Anvisa citou o caso de uma mulher britânica que teve falência do fígado, paradas cardíacas e sérios danos cerebrais após o uso do produto e reforçou que o suplemento não tem registro no Brasil.",
   "coletado_em": "2026-10-22T13:47:08+00:00",
   "municipios": [],
-  "pontuacao": 7.5,
+  "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
   "termos_evento": [
@@ -8905,27 +8905,6 @@
   "termos_evento": []
  },
  {
-  "id": "fbe35ded962eef",
-  "titulo": "Bem-Estar #372 - Osteoporose, uma epidemia silenciosa. Saiba como identificar e prevenir a doença",
-  "url": "https://g1.globo.com/bemestar/podcast/noticia/2026/10/14/bem-estar-372-osteoporose-uma-epidemia-silenciosa-saiba-como-identificar-e-prevenir-a-doenca.ghtml",
-  "fonte_id": "g1-bem-estar",
-  "fonte": "G1 | Bem Estar",
-  "sigla": "G1",
-  "idioma": "pt",
-  "data": "2026-10-14",
-  "data_estimada": false,
-  "se": "2026-41",
-  "descricao": "Osteoporose, uma epidemia silenciosa. Saiba como identificar e prevenir a doença Você certamente conhece alguém que caiu “do nada” – aquela famosa queda da própria altura e fraturou o quadril, o joelho ou o punho. E não é raro que a pessoa fique um bom tempo até se recuperar totalmente. Muitos nem se recuperam direito e ficam com sequelas permanentes. Todos os anos, 1,5 milhão de brasileiros sofrem fraturas que têm um impacto enorme na rotina, na autonomia e na qualidade de vida. Por trás desses casos, há uma epidemia silenciosa de osteoporose, uma doença que reduz a densidade e a qualidade dos nossos ossos. No episódio de hoje, você vai entender porque é importante construir e preservar a massa óssea ao longo da vida. Quem tem mais risco de desenvolver osteoporose e como prevenir a doença? A nossa convidada é a ginecologista Adriana Orcesi Pedro, professora da Unicamp e vice-Presidente da Comissão de Osteoporose da FEBRASGO, a Federação Brasileira de Ginecologia e Obstetrícia. Logo do podcast Bem-Estar Arte/Bem Estar",
-  "coletado_em": "2026-10-22T18:56:37+00:00",
-  "municipios": [],
-  "pontuacao": 3.5,
-  "agravos": [],
-  "escopo": "Brasil",
-  "termos_evento": [
-   "epidemia"
-  ]
- },
- {
   "id": "7f84ffc8d0d66b",
   "titulo": "Seminário Estadual de Sífilis capacita profissionais para fortalecer diagnóstico, tratamento e prevenção da doença",
   "url": "https://goias.gov.br/saude/seminario-estadual-de-sifilis-capacita-profissionais-para-fortalecer-diagnostico-tratamento-e-prevencao-da-doenca/",
@@ -10173,29 +10152,6 @@
   "link_tentado": true
  },
  {
-  "id": "5cd6c99501970f",
-  "titulo": "Médicos reconhecem que é difícil falar sobre sexo com pacientes mais velhos",
-  "url": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/10/11/medicos-reconhecem-que-e-dificil-falar-sobre-sexo-com-pacientes-mais-velhos.ghtml",
-  "fonte_id": "g1-bem-estar",
-  "fonte": "G1 | Bem Estar",
-  "sigla": "G1",
-  "idioma": "pt",
-  "data": "2026-10-11",
-  "data_estimada": false,
-  "se": "2026-41",
-  "descricao": "Brasileira fala sobre sexo na terceira idade: ‘Eu transo sim e gosto muito’ Mudanças fisiológicas são barreiras para a atividade sexual? Esse era o painel que eu mais aguardava no GeriatRio 2026, que já foi tema das duas últimas colunas. Pelo visto, não era a única interessada, porque a sessão ficou lotada. Coube ao geriatra Gustavo de Jesus Monteiro, vice-presidente da SBGG-RJ, abordar um dos tópicos que exploro no meu livro Sexo 60+ – prazer sem data de validade: a dificuldade de falar sobre a questão no consultório. Sua primeira frase foi reconhecer que “o silêncio começa em nós”, e compartilhou diversas pesquisas. Aqui vão alguns dados: Sexo na velhice: 73% das pessoas são sexualmente ativas entre os 57 e 64 anos; 53% entre 65 e 74 anos; e 26% entre 75 e 85 anos Age without limits Vida sexual: 73% das pessoas são sexualmente ativas entre os 57 e 64 anos; 53% entre 65 e 74 anos; e 26% entre 75 e 85 anos. Nesse último grupo, 54% têm pelo menos de duas a três relações por mês. No entanto, 60% dos indivíduos acima dos 65 anos não se sentem à vontade para tocar no assunto com o profissional de saúde. Falta de comunicação: Apenas 38% dos homens e 22% das mulheres acima dos 50 discutem sua vida sexual com o médico, mas a imensa maioria gostaria que ele tivesse tomado a iniciativa. “Precisamos abrir essa porta. A conversa tem que fazer parte da rotina do consultório e da Avaliação Geriátrica Ampla (AGA), assim como quando houver um novo diagnóstico, cirurgia pélvica, alteração…",
-  "coletado_em": "2026-10-22T18:56:37+00:00",
-  "municipios": [],
-  "pontuacao": 6.5,
-  "agravos": [
-   "Doenças transmitidas por alimentos e água",
-   "Sífilis",
-   "Hepatites virais"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": []
- },
- {
   "id": "8022336bc29dcd",
   "titulo": "Pneumonia of undetermined etiology - the Russian Federation",
   "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON620",
@@ -11083,27 +11039,6 @@
   "municipios": []
  },
  {
-  "id": "037ef95e3bce0e",
-  "titulo": "Um protocolo para garantir sono de qualidade",
-  "url": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/10/04/um-protocolo-para-garantir-sono-de-qualidade.ghtml",
-  "fonte_id": "g1-bem-estar",
-  "fonte": "G1 | Bem Estar",
-  "sigla": "G1",
-  "idioma": "pt",
-  "data": "2026-10-04",
-  "data_estimada": false,
-  "se": "2026-40",
-  "descricao": "A importância do sono e como ele influencia nossa qualidade de vida O que é um protocolo? É uma fórmula estabelecida para superar obstáculos e atingir um objetivo. Isso é o que torna irresistível o recém-lançado Protocolos: um manual operacional do corpo humano (Intrínseca). Escrito por Andrew Huberman, professor de neurociência da Universidade Stanford e apresentador do podcast Huberman Lab, um dos mais populares do mundo, ele é dividido em sete áreas – sono; exercício físico; controle de estresse; nutrição; luz; foco, motivação e aprendizado; e crescimento pessoal – e funciona como um guia com muita informação científica, mas, principalmente, recheado de soluções que podem ser postas em prática. O neurocientista Andrew Huberman, professor da faculdade de medicina de Stanford e autor de Protocolos: um manual operacional do corpo humano Divulgação “Nenhuma pílula vai substituir atividade física, sono de qualidade e manejo do estresse. Ou seja, não é preciso comprar nada para começar a melhorar sua qualidade de vida”, afirma o autor, que defende que, quando aprendemos a explorar nosso sistema nervoso, podemos alcançar alguns pequenos superpoderes. No entanto, o que me conquistou de saída foi Huberman ter escolhido ancorar seu livro no sono, justificando que ele impacta todos os aspectos da nossa fisiologia e psicologia: “É a base da saúde mental, física e do nosso desempenho”, diz. Como uma coluna não daria conta de discorrer sobre as quase 600 páginas da obra, decidi abordar…",
-  "coletado_em": "2026-10-22T18:56:37+00:00",
-  "municipios": [],
-  "pontuacao": 6.0,
-  "agravos": [
-   "Emergências e desastres"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": []
- },
- {
   "id": "4c519eb686ab0a",
   "titulo": "Africa CDC Supports the Government of the Democratic Republic of the Congo in Strengthening Transparency and Accountability in Ebola Response Funding",
   "url": "https://africacdc.org/news-item/africa-cdc-supports-the-government-of-the-democratic-republic-of-the-congo-in-strengthening-transparency-and-accountability-in-ebola-response-funding/",
@@ -11553,27 +11488,6 @@
   "escopo": "Internacional",
   "termos_evento": [],
   "municipios": []
- },
- {
-  "id": "ce9e38c725e09b",
-  "titulo": "Por que estamos, ao mesmo tempo, ficando mais e menos saudáveis?",
-  "url": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/09/29/por-que-estamos-ao-mesmo-tempo-ficando-mais-e-menos-saudaveis.ghtml",
-  "fonte_id": "g1-bem-estar",
-  "fonte": "G1 | Bem Estar",
-  "sigla": "G1",
-  "idioma": "pt",
-  "data": "2026-09-29",
-  "data_estimada": false,
-  "se": "2026-39",
-  "descricao": "Uma pesquisa recente realizada nos Estados Unidos apresentou um cenário aparentemente contraditório. Os norte-americanos estão divididos em dois grupos que vão em direções opostas: há os que vêm adotando um estilo de vida cada vez mais saudável e os que acumulam múltiplos hábitos prejudiciais. O problema que me chamou a atenção: são os idosos que lideram boa parte do segundo conjunto. A adoção de hábitos saudáveis que garantam uma longevidade ativa se concentra nos segmentos de maior poder aquisitivo islandworks para Pixabay Trata-se do novo relatório do projeto Sightlines, do Centro de Longevidade da Universidade Stanford. Incumbidos de responder se a população tem adotado comportamentos mais ou menos saudáveis, os pesquisadores concluíram que as duas opções estão corretas. Na média, pouco mudou desde o início do levantamento, em 2007. No entanto, a aparente estabilidade esconde uma polarização. Nas últimas duas décadas, a parcela de indivíduos que cultivam múltiplos hábitos benéficos – como alimentação rica em frutas e verduras, prática regular de exercícios e noites adequadas de sono – saltou de 33% para 44%. Simultaneamente, o contingente com diversos comportamentos nocivos, como sedentarismo, tabagismo, ingestão excessiva de álcool e consumo frequente de ultraprocessados, também aumentou, de 39% para 44%. Aqui está o ponto crucial: são os adultos acima dos 65 anos os principais responsáveis pela disparidade. O índice de idosos que aderiram a escolhas saudáveis e evitam…",
-  "coletado_em": "2026-10-22T18:56:37+00:00",
-  "municipios": [],
-  "pontuacao": 5.0,
-  "agravos": [
-   "Imunização"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": []
  },
  {
   "id": "dd0e63ace64303",
@@ -12091,27 +12005,6 @@
   "municipios": []
  },
  {
-  "id": "7190136531bc1a",
-  "titulo": "Calor extremo está associado a 33 diagnósticos que vão além de desidratação e insolação",
-  "url": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/09/20/calor-extremo-esta-associado-a-33-diagnosticos-que-vao-alem-de-desidratacao-e-insolacao.ghtml",
-  "fonte_id": "g1-bem-estar",
-  "fonte": "G1 | Bem Estar",
-  "sigla": "G1",
-  "idioma": "pt",
-  "data": "2026-09-20",
-  "data_estimada": false,
-  "se": "2026-38",
-  "descricao": "Calor extremo e altas temperaturas afetam a saúde da população Dias de calor extremo já se tornaram o novo “normal”. No entanto, além do desconforto e mal-estar dos últimos verões, o cenário que se descortina é o de uma emergência médica de grande envergadura. Não são apenas os casos de desidratação e insolação que preocupam os profissionais de saúde. Estudo realizado por pesquisadores da Universidade Northwestern, em Chicago (EUA), indicou 33 diagnósticos que nem sequer são relacionados às altas temperaturas, como acidentes de trânsito e esclerose múltipla. Calor extremo: associado a diagnósticos que vão além de desidratação e insolação Geralt para Pixabay Doenças associadas ao calor são difíceis de rastrear porque os prontuários médicos costumam registrar somente o problema tratado, sem apontar que a condição meteorológica pode ter contribuído para o quadro do paciente. O levantamento adotou uma metodologia inovadora, inspirada em pesquisas genômicas, para avaliar 1.803 diagnósticos em quase 1 milhão de atendimentos de emergência e urgência em Chicago de 2011 a 2023 – sempre entre os meses de maio e setembro, os mais quentes do Hemisfério Norte. Foi desse total que emergiram 33 diagnósticos ligados à exposição ao calor extremo, muitos dos quais surpreendentes. “Proteger os indivíduos e as comunidades mais vulneráveis aos efeitos nocivos das mudanças climáticas é uma obrigação de saúde pública”, afirmou a autora principal, Hyojung Jang, doutoranda em bioestatística da…",
-  "coletado_em": "2026-10-22T18:56:37+00:00",
-  "municipios": [],
-  "pontuacao": 7.5,
-  "agravos": [
-   "Saúde ambiental e clima"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": []
- },
- {
   "id": "8ff993fd857a52",
   "titulo": "Communicable disease threats report, 12-18 September, week 38",
   "url": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-12-18-september-week-38",
@@ -12173,27 +12066,6 @@
   "escopo": "Internacional",
   "termos_evento": [],
   "municipios": []
- },
- {
-  "id": "c192812181b6ec",
-  "titulo": "Bem-Estar #368 - Como evitar o mofo dentro de casa",
-  "url": "https://g1.globo.com/bemestar/podcast/noticia/2026/09/16/bem-estar-368-como-evitar-o-mofo-dentro-de-casa.ghtml",
-  "fonte_id": "g1-bem-estar",
-  "fonte": "G1 | Bem Estar",
-  "sigla": "G1",
-  "idioma": "pt",
-  "data": "2026-09-16",
-  "data_estimada": false,
-  "se": "2026-37",
-  "descricao": "Como evitar o mofo dentro de casa Este mês de setembro já é o mais chuvoso da cidade de São Paulo desde 1943, segundo dados do Instituto Nacional de Meteorologia. A sequência de dias chuvosos aumenta também a umidade do ar que fica em torno de 80 a 90% e pode chegar a 100 quando está chovendo. Com pouco sol, a água não evapora direito e as casas ficam úmidas, com paredes molhadas, espelhos e janelas embaçados, roupas que não secam... todas as condições que contribuem para o aparecimento de mofo. Além dos danos materiais, o mofo traz consequências para a saúde. Como prevenir e acabar com o mofo dentro de casa? Este é o tema do videocast do Bem-Estar desta quarta-feira (16) e a nossa convidada é a bióloga Karen Signori. Rinite: por que não existe cura (e o que dá pra fazer para melhorar) Rinite: os remédios que realmente funcionam para controlar a inflamação no nariz É gripe, resfriado ou alergia? Conheça os sintomas de cada um Logo do podcast Bem-Estar Arte/Bem Estar",
-  "coletado_em": "2026-10-22T18:56:37+00:00",
-  "municipios": [],
-  "pontuacao": 5.5,
-  "agravos": [
-   "Influenza e vírus respiratórios"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": []
  },
  {
   "id": "67dacb60832547",
@@ -12720,27 +12592,6 @@
   "municipios": []
  },
  {
-  "id": "d46f612a5bebaf",
-  "titulo": "A experiência de um filho cuidador para garantir a dignidade da mãe até o fim",
-  "url": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/08/13/a-experiencia-de-um-filho-cuidador-para-garantir-a-dignidade-da-mae-ate-o-fim.ghtml",
-  "fonte_id": "g1-bem-estar",
-  "fonte": "G1 | Bem Estar",
-  "sigla": "G1",
-  "idioma": "pt",
-  "data": "2026-08-13",
-  "data_estimada": false,
-  "se": "2026-32",
-  "descricao": "Como escolher um bom cuidador de idosos? Normalmente, são as mulheres que assumem a tarefa de cuidadoras de familiares; por isso o livro Todo tempo é para viver, de Clovis Salomon, é tão bem-vindo. Engenheiro civil bem-sucedido, ele conta como foi a experiência de se tornar o principal cuidador da mãe, Olga. O aspecto mais interessante da obra foi ter levado para o ambiente doméstico conceitos de planejamento e organização, que compartilha com os leitores na seção final, intitulada “guia de referência para pessoas sob cuidados especiais em residências”. No entanto, o mais emocionante foi seu empenho para respeitar o ser humano que vivia uma fase de enorme fragilidade. Em suas palavras: “Meu maior compromisso foi garantir que ela continuasse sen¬do a Olga. Que fosse respeitada em sua história, em seus gostos e em sua forma de ser. Que pudesse se sentir viva dentro das suas possibilidades.” Clovis Salomon ao lado da mãe: “Meu maior compromisso foi garantir que ela continuasse sen¬do a Olga. Que fosse respeitada em sua história, em seus gostos e em sua forma de ser” Acervo familiar O livro vai além do relato autobiográfico: transforma uma experiência familiar em um guia de acolhimento e empatia para os que vivem ou poderão viver algo semelhante. Em primeiro lugar, o autor resgata a trajetória de Olga Felisberto Salomon. Professora, advogada e gestora pública, ela sempre foi uma mulher independente e acostumada a liderar, até que uma queda doméstica mudou drasticamente a…",
-  "coletado_em": "2026-10-22T18:56:37+00:00",
-  "municipios": [],
-  "pontuacao": 5.5,
-  "agravos": [
-   "Saúde ambiental e clima"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": []
- },
- {
   "id": "9c8a3ae28d5920",
   "titulo": "Notes from the Field: Potential Infant HIV Exposure from Donated Breast Milk Received Through Social Media - Santa Clara County, California, May 2025-January 2026",
   "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766232",
@@ -12781,30 +12632,6 @@
   "escopo": "Internacional",
   "termos_evento": [],
   "municipios": []
- },
- {
-  "id": "d75b229bcec9f1",
-  "titulo": "Por que a poluição dos incêndios florestais é tão perigosa para todos?",
-  "url": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/08/11/por-que-a-poluicao-dos-incendios-florestais-e-tao-perigosa-para-todos.ghtml",
-  "fonte_id": "g1-bem-estar",
-  "fonte": "G1 | Bem Estar",
-  "sigla": "G1",
-  "idioma": "pt",
-  "data": "2026-08-11",
-  "data_estimada": false,
-  "se": "2026-32",
-  "descricao": "As mudanças climáticas e os efeitos do Super El Niño vêm produzindo devastadores incêndios florestais e secas severas na Europa – uma realidade que, infelizmente, conhecemos bem: o ano de 2020 marcou o maior desastre ambiental já registrado no Pantanal. A combinação da pior seca em 50 anos com o uso inadequado do fogo resultou em focos fora de controle e imagens estarrecedoras de animais carbonizados. No entanto, além da destruição ambiental, vale lembrar que a poluição atmosférica tem impacto direto no surgimento de doenças respiratórias e cardiovasculares. A exposição à fumaça a incêndios florestais aumenta significativamente o risco de demência Elg21 para Pixabay Densos em gases tóxicos que inflamam as vias aéreas e partículas minúsculas que ultrapassam os pulmões e percorrem a corrente sanguínea atingindo todos os órgãos do corpo, os vapores dos incêndios florestais matam 1,5 milhão de pessoas por ano, revelou um estudo publicado na The Lancet em 2024 – mais do que inundações, chamas, tempestades e ondas de calor combinadas. Em 2024, na Conferência Internacional da Associação de Alzheimer, pesquisa realizada na Califórnia – que acompanhou 1,2 milhão de pessoas durante dez anos – mostrou que a exposição à fumaça desses incêndios aumenta significativamente o risco de demência, mais do que outros tipos de poluição atmosférica, como a provocada por indústrias e automóveis. Um novo trabalho aponta que os incêndios florestais são agora os principais responsáveis pelos níveis…",
-  "coletado_em": "2026-10-22T18:56:37+00:00",
-  "municipios": [],
-  "pontuacao": 10.5,
-  "agravos": [
-   "Saúde ambiental e clima",
-   "Emergências e desastres"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": [
-   "destruicao"
-  ]
  },
  {
   "id": "8a66600168b428",
@@ -12990,29 +12817,6 @@
   "municipios": []
  },
  {
-  "id": "8342cdc0c49c77",
-  "titulo": "Como se comunicar com alguém com demência",
-  "url": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/07/23/como-se-comunicar-com-alguem-com-demencia.ghtml",
-  "fonte_id": "g1-bem-estar",
-  "fonte": "G1 | Bem Estar",
-  "sigla": "G1",
-  "idioma": "pt",
-  "data": "2026-07-23",
-  "data_estimada": false,
-  "se": "2026-29",
-  "descricao": "Depressão pode estar ligada a casos de demência em idosos; entenda Já que a doença de Alzheimer foi tema das últimas colunas, achei importante fechar essa série tratando dos desafios de comunicação com alguém com demência. Esse é um processo desgastante, ao longo do qual cuidadores e familiares se encontram, muitas vezes, à beira da exaustão. Para quem lida com a situação cotidianamente, escrevi uma coluna cujo link pode ser acessado aqui. No entanto, mesmo quem não convive diariamente com a pessoa tem como aperfeiçoar sua capacidade de aproximação. Pessoas com demência: revisitar memórias é a melhor maneira de iniciar uma conversa com alguém que está sofrendo um processo de declínio cognitivo Geralt para Pixabay É comum que o paciente alterne um estado de apatia e desinteresse com momentos ativos. Que repita perguntas, que esqueça fatos recentes, que confunda a identidade de pessoas próximas. Levei uma tia querida à festa de aniversário de sua prima, que completava 90 anos, e ela perguntou diversas vezes se o bolo era para ela. Também queria saber de um outro primo, já falecido, e, embora tivesse sido avisada na ocasião sobre sua morte, surpreendeu-se com a notícia. Enganos à parte, divertiu-se bastante, o que mostra que demência não precisa ser sinônimo de isolamento. Aqui estão algumas sugestões para esse exercício de paciência e empatia. Apresente-se: a melhor maneira de começar a falar com alguém com demência é se apresentando. Essa etapa pode não ser necessária se a…",
-  "coletado_em": "2026-10-22T18:56:37+00:00",
-  "municipios": [],
-  "pontuacao": 8.0,
-  "agravos": [
-   "Saúde ambiental e clima"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": [
-   "onda de calor"
-  ]
- },
- {
   "id": "c383fa6b966aec",
   "titulo": "Progress Toward Rubella and Congenital Rubella Syndrome Elimination - Worldwide, 2012-2024",
   "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766070",
@@ -13072,29 +12876,6 @@
   "escopo": "Internacional",
   "termos_evento": [],
   "municipios": []
- },
- {
-  "id": "5d98b62c37d854",
-  "titulo": "O que o Alzheimer tem a ver com sindemia, conceito que junta sinergia com epidemia?",
-  "url": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/07/19/o-que-o-alzheimer-tem-a-ver-com-sindemia-conceito-que-junta-sinergia-com-epidemia.ghtml",
-  "fonte_id": "g1-bem-estar",
-  "fonte": "G1 | Bem Estar",
-  "sigla": "G1",
-  "idioma": "pt",
-  "data": "2026-07-19",
-  "data_estimada": false,
-  "se": "2026-29",
-  "descricao": "Alzheimer em mulheres: danos cerebrais podem começar bem antes da velhice Quando se pensa em Alzheimer, logo vem à mente a imagem de placas beta-amiloides e de proteínas tau anormais no cérebro. No entanto, exames pós-morte de pessoas portadoras de demência indicam outros problemas, como o acúmulo de gorduras e até acidentes vasculares cerebrais microscópicos, também chamados de microinfartos cerebrais. Embora sejam assintomáticos, isto é, silenciosos, à medida que se acumulam podem afetar a capacidade cognitiva do indivíduo. Ampliar a forma de encarar a enfermidade tem levado os pesquisadores a dar cada vez mais importância à soma de eventos que impactam a existência humana. Dois terços dos pacientes com Alzheimer são mulheres: pesquisadores querem medir como variáveis como educação, pobreza, sono e oportunidades limitadas influenciam a reserva cognitiva Ageing without limits O conceito de sindemia foi largamente utilizado na Conferência Internacional da Alzheimer's Association (AAIC 2026), em Londres, mas o que isso quer dizer? Significa que estamos diante de um quadro complexo, que não deve ser visto apenas como uma falha biológica do cérebro, mas sim como o resultado de condições socioculturais, políticas, ambientais e econômicas. Em suma, é preciso levar em conta todos os fatores capazes de contribuir para a enfermidade. A palavra sindemia é uma junção de sinergia com epidemia, um conceito criado na década de 1990 pelo antropólogo médico Merrill Singer. Descreve uma…",
-  "coletado_em": "2026-10-22T18:56:37+00:00",
-  "municipios": [],
-  "pontuacao": 8.5,
-  "agravos": [
-   "Malária"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": [
-   "epidemia"
-  ]
  },
  {
   "id": "75d465aa366f64",
@@ -13416,30 +13197,6 @@
   "municipios": []
  },
  {
-  "id": "90576532b47250",
-  "titulo": "‘Matei os neurônios do meu filho’, lembra repórter que não teve acesso ao teste do pezinho ampliado; exame ainda avança lentamente no SUS",
-  "url": "https://g1.globo.com/saude/noticia/2026/06/26/matei-os-neuronios-do-meu-filho-lembra-reporter-que-nao-teve-acesso-ao-teste-do-pezinho-ampliado-exame-ainda-avanca-lentamente-no-sus.ghtml",
-  "fonte_id": "g1-bem-estar",
-  "fonte": "G1 | Bem Estar",
-  "sigla": "G1",
-  "idioma": "pt",
-  "data": "2026-06-26",
-  "data_estimada": false,
-  "se": "2026-25",
-  "descricao": "Acesso de bebês a exame ampliado no teste do pezinho ainda é desigual no Brasil Quando o filho da jornalista Larissa Carvalho nasceu, em 2015, ela fez o teste do pezinho oferecido pelo SUS e saiu da maternidade acreditando que estava tudo bem. Quase dois anos depois, descobriu que Theo tinha uma doença rara que não era detectada pelo exame disponível no SUS, na época. O diagnóstico tardio provocou uma lesão cerebral irreversível. A história da repórter da TV Globo Minas inspirou a chamada Lei Theo, que ampliou o teste do pezinho no SUS para mais de 50 doenças. Enquanto isso, o teste básico do SUS identifica apenas sete doenças. Cinco anos após a aprovação da lei, porém, o exame ampliado ainda está disponível apenas em dois estados, no Distrito Federal e parcialmente em Mato Grosso do Sul, mantendo milhares de bebês sem acesso à triagem mais completa. Grande parte do país continua realizando apenas a versão básica do exame. A diferença pode ser decisiva. O diagnóstico precoce de doenças raras permite o tratamento imediato, reduzindo significativamente o risco de sequelas permanentes. Um bebê a cada 2.500 nascidos desenvolve sequelas irreversíveis por falta de diagnóstico precoce, como ocorreu com Theo. Larissa defende que o teste do pezinho ampliado seja efetivamente oferecido pelo SUS em todo o país. reprodução TV Globo O que é o teste do pezinho O teste do pezinho consiste na coleta de uma pequena amostra de sangue do calcanhar do bebê entre 48 horas e cinco dias após o…",
-  "coletado_em": "2026-10-22T18:56:37+00:00",
-  "municipios": [
-   "Distrito Federal"
-  ],
-  "pontuacao": 10.0,
-  "agravos": [],
-  "escopo": "DF",
-  "termos_evento": [
-   "previsao",
-   "investigacao"
-  ]
- },
- {
   "id": "8898a0bf403713",
   "titulo": "Nipah virus disease - India",
   "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON609",
@@ -13557,27 +13314,6 @@
   "municipios": []
  },
  {
-  "id": "b318c8388214fc",
-  "titulo": "Sobre a impossibilidade de dar adeus à amiga que partiu",
-  "url": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/06/21/sobre-a-impossibilidade-de-dar-adeus-a-amiga-que-partiu.ghtml",
-  "fonte_id": "g1-bem-estar",
-  "fonte": "G1 | Bem Estar",
-  "sigla": "G1",
-  "idioma": "pt",
-  "data": "2026-06-21",
-  "data_estimada": false,
-  "se": "2026-25",
-  "descricao": "A maioria das pessoas tem amigos de longa data, quase sempre da juventude, e, à medida que envelhece, se ressente porque seu círculo de relações vai encolhendo. Sou muito sortuda por ter feito amigas na maturidade e a coluna de hoje é dedicada a uma delas: a médica Claudia Burlá, que partiu precocemente, aos 64 anos, no dia 16 de junho. Geriatra, com doutorado em bioética e uma referência nacional na área de cuidados paliativos, foi uma das primeiras entrevistadas do programa 50 Mais CBN, que eu ancorava com o médico e gerontólogo Alexandre Kalache e a também jornalista Mara Luquet. Fui conferir a data: 20 de junho de 2015. Aos poucos, de entrevistada tornou-se amiga. Impossível não se encantar com sua inteligência e paixão pela profissão. Sobre os cuidados paliativos – que tantas vezes abordei neste espaço – tinha uma declaração lapidar: A geriatra Claudia Burlá: “É quando se pensa que não há mais nada a fazer que os cuidados paliativos podem fazer toda a diferença” Mariza Tavares “É quando se pensa que não há mais nada a fazer que os cuidados paliativos podem fazer toda a diferença para a pessoa até o final da sua vida”. Não eram apenas palavras. Era o seu dia a dia como médica, palestrante, professora, mentora. Nos últimos dias, reli cinco anos de mensagens trocadas que estavam armazenadas em meu celular. Desde março de 2021, quando escrevíamos sobre o clima de medo e impotência durante a pandemia, até o fim de maio deste ano, quando organizamos o nosso último jantar…",
-  "coletado_em": "2026-10-22T18:56:37+00:00",
-  "municipios": [],
-  "pontuacao": 6.5,
-  "agravos": [
-   "Poliomielite"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": []
- },
- {
   "id": "d51cca4b9907bb",
   "titulo": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda",
   "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON608",
@@ -13645,30 +13381,6 @@
   "escopo": "Américas",
   "termos_evento": [],
   "municipios": []
- },
- {
-  "id": "4dfee4fa093583",
-  "titulo": "Bem-Estar #355 - Teste do pezinho: A luta de uma mãe pela prevenção das doenças raras",
-  "url": "https://g1.globo.com/bemestar/podcast/noticia/2026/06/17/bem-estar-355-teste-do-pezinho-a-luta-de-uma-mae-pela-prevencao-das-doencas-raras.ghtml",
-  "fonte_id": "g1-bem-estar",
-  "fonte": "G1 | Bem Estar",
-  "sigla": "G1",
-  "idioma": "pt",
-  "data": "2026-06-17",
-  "data_estimada": false,
-  "se": "2026-24",
-  "descricao": "Teste do pezinho: A luta de uma mãe pela prevenção das doenças raras O Programa Nacional de Triagem Neonatal, conhecido popularmente como “teste do pezinho”, completou 25 anos este ano. Certamente você já viu a imagem da coleta de sangue de um furinho feito no calcanhar do bebê. Ainda que não seja suficiente para fechar um diagnóstico, o teste do pezinho é essencial para indicar suspeitas de dezenas de condições e doenças raras. A coleta deve ser feita ainda na maternidade ou no posto de saúde, entre 48 horas e cinco dias após o parto. Atualmente, existem dois tipos de teste: o básico, oferecido no SUS, e o ampliado, que está disponível em laboratórios privados. O teste básico detecta sete doenças. O ampliado, mais de 50. Em maio de 2021 uma lei alterou o Estatuto da Criança e do Adolescente para que o SUS passasse a oferecer o teste ampliado. Mas a legislação não estabeleceu prazos para que estados e municípios cumprissem essa ampliação. E hoje, cinco anos depois, o teste ampliado só está disponível em dois estados e no Distrito Federal. Conclusão... um bebê a cada 2 mil e 500 nascidos têm sequelas irreversíveis causadas por falta de diagnóstico precoce. Foi exatamente o que aconteceu com o Theo, filho da nossa entrevistada de hoje, a jornalista Larissa Carvalho. Larissa é repórter da TV Globo em Belo Horizonte e lutou incansavelmente para ampliar o teste do Pezinho no SUS. Tanto que a lei ficou popularmente conhecida como Lei Theo. Ela vai nos contar como é a rotina com o…",
-  "coletado_em": "2026-10-22T18:56:37+00:00",
-  "municipios": [
-   "Distrito Federal"
-  ],
-  "pontuacao": 10.0,
-  "agravos": [],
-  "escopo": "DF",
-  "termos_evento": [
-   "previsao",
-   "investigacao"
-  ]
  },
  {
   "id": "6b4631b786acbb",
@@ -14337,29 +14049,6 @@
   "escopo": "Américas",
   "termos_evento": [],
   "municipios": []
- },
- {
-  "id": "4342c95723a5e6",
-  "titulo": "Os instrutores de fitness criados com IA que prometem resultados irreais",
-  "url": "https://g1.globo.com/saude/noticia/2026/05/17/os-instrutores-de-fitness-criados-com-ia-que-prometem-resultados-irreais.ghtml",
-  "fonte_id": "g1-bem-estar",
-  "fonte": "G1 | Bem Estar",
-  "sigla": "G1",
-  "idioma": "pt",
-  "data": "2026-05-17",
-  "data_estimada": false,
-  "se": "2026-20",
-  "descricao": "Uma foto de três instrutores de fitness com IA que a BBC identificou BBC Se você usa mídias sociais, provavelmente já viu: vídeos de fitness sofisticados que prometem transformações corporais impressionantes em poucas semanas. 📱Baixe o app do g1 para ver notícias em tempo real e de graça Eles exibem corpos esculpidos, imagens marcantes de \"antes e depois\" e garantem que é possível parecer anos mais jovem seguindo uma rotina simples. Os resultados costumam parecer bons demais para serem verdade. E, em muitos casos, são mesmo. Vídeos em alta no g1 Uma investigação da BBC identificou anúncios enganosos de fitness com personagens gerados por inteligência artificial que violam as regras de publicidade do Reino Unido. Em muitos desses anúncios, sequer fica claro que as pessoas apresentadas não são reais. Mas por que fazer isso? Para vender assinaturas de aplicativos de fitness. Diante disso, surge a pergunta: é fácil saber se quem dá conselhos sobre condicionamento físico realmente existe? E, afinal, isso importa? 'Difícil dizer em quem acreditar' O conteúdo gerado por IA vem inundando as redes sociais nos últimos dois anos, e vídeos que promovem exercícios e programas de condicionamento físico online se tornaram cada vez mais comuns. Muitos dos anúncios identificados pela BBC e encaminhados à Advertising Standards Authority (ASA, a Autoridade de Normas Publicitárias) exibiam personagens criados por inteligência artificial que afirmavam ter seguido seus próprios programas de…",
-  "coletado_em": "2026-10-22T18:56:37+00:00",
-  "municipios": [],
-  "pontuacao": 8.0,
-  "agravos": [],
-  "escopo": "Brasil",
-  "termos_evento": [
-   "tendencia",
-   "surge",
-   "investigacao"
-  ]
  },
  {
   "id": "6faf236844dbdf",

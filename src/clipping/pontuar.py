@@ -64,15 +64,19 @@ def pontuar(titulo: str, descricao: str, fonte: dict, ano_referencia: int | None
     achados.sort(reverse=True)
     nomes_agravos = [n for _, n in achados]
 
-    pts_evento, termos_evento = 0.0, []
+    pts_evento, termos_evento, evento_titulo = 0.0, [], 0.0
     for peso, padrao in eventos:
         m = padrao.search(texto)
         if m:
             pts_evento += peso
             termos_evento.append(m.group(1))
+            if padrao.search(titulo_n):
+                evento_titulo += peso
     pts_evento = min(pts_evento, 6.0)
 
-    if not achados and pts_evento < 2.5 and not canal_alerta:
+    # Sem agravo reconhecido, só entra se o próprio título trouxer um evento forte (ex.: "alagamentos",
+    # "surto"); termos soltos no corpo ("tendência", "investigação") não bastam
+    if not achados and evento_titulo < 2.5 and not canal_alerta:
         return {"pontuacao": 0.0, "agravos": [], "escopo": fonte.get("escopo_padrao", "Internacional"),
                 "termos_evento": termos_evento}
 

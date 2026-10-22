@@ -211,44 +211,23 @@ fontes:
     escopo_padrao: "Brasil"
     idioma: pt
 
-  # G1: imprensa nacional e regional; só entram as notícias com relevância pelos critérios de pontuação
-  - id: g1-ciencia-saude
-    nome: "G1 | Ciência e Saúde"
+  # G1: busca no índice do Google Notícias restrita ao g1.globo.com (os RSS de editoria do G1
+  # devolvem matérias antigas). Só entram as notícias com relevância pelos critérios de pontuação.
+  - id: g1-busca
+    nome: "G1 | Busca de saúde e eventos"
     sigla: "G1"
-    tipo: rss
-    url: "https://g1.globo.com/rss/g1/ciencia-e-saude/"
+    tipo: google_news
+    dominios_permitidos: ["g1.globo.com"]
+    nomes_fontes: {"g1.globo.com": "G1"}
+    consultas:
+      - "site:g1.globo.com surto OR epidemia OR casos confirmados OR óbitos"
+      - "site:g1.globo.com sarampo OR dengue OR chikungunya OR oropouche OR febre amarela OR coqueluche"
+      - "site:g1.globo.com gripe OR SRAG OR covid OR influenza aviária OR mpox OR meningite"
+      - "site:g1.globo.com vírus OR bactéria OR infecção OR vigilância epidemiológica"
+      - "site:g1.globo.com/df saúde OR dengue OR surto OR chuva OR incêndio"
+      - "site:g1.globo.com Defesa Civil alerta OR alagamento OR enchente OR queimadas"
+    dias: 7
     peso: 1
-    apenas_relevantes: true
-    escopo_padrao: "Brasil"
-    idioma: pt
-
-  - id: g1-bem-estar
-    nome: "G1 | Bem Estar"
-    sigla: "G1"
-    tipo: rss
-    url: "https://g1.globo.com/rss/g1/bemestar/"
-    peso: 1
-    apenas_relevantes: true
-    escopo_padrao: "Brasil"
-    idioma: pt
-
-  - id: g1-df
-    nome: "G1 | Distrito Federal"
-    sigla: "G1 DF"
-    tipo: rss
-    url: "https://g1.globo.com/rss/g1/distrito-federal/"
-    peso: 1
-    apenas_relevantes: true
-    escopo_padrao: "DF"
-    idioma: pt
-
-  - id: g1-goias
-    nome: "G1 | Goiás"
-    sigla: "G1 GO"
-    tipo: rss
-    url: "https://g1.globo.com/rss/g1/goias/"
-    peso: 1
-    apenas_relevantes: true
     escopo_padrao: "Brasil"
     idioma: pt
 
