@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-10-22T01:30:26+00:00",
+  "em": "2026-10-22T07:33:32+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,7 +10,7 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-10-22T01:30:26+00:00",
+  "em": "2026-10-22T07:33:32+00:00",
   "lidos": 40,
   "novos": 0,
   "exemplos": [
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-10-22T01:30:26+00:00",
+  "em": "2026-10-22T07:33:32+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-10-22T01:30:26+00:00",
+  "em": "2026-10-22T07:33:32+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-10-22T01:30:26+00:00",
+  "em": "2026-10-22T07:33:32+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-10-22T01:30:26+00:00",
+  "em": "2026-10-22T07:33:32+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-10-22T01:30:26+00:00",
+  "em": "2026-10-22T07:33:32+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-10-22T01:30:26+00:00",
+  "em": "2026-10-22T07:33:32+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-10-22T01:30:26+00:00",
+  "em": "2026-10-22T07:33:32+00:00",
   "lidos": 2343,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-10-22T01:30:26+00:00",
+  "em": "2026-10-22T07:33:32+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,7 +100,7 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-10-22T01:30:26+00:00",
+  "em": "2026-10-22T07:33:32+00:00",
   "lidos": 15,
   "novos": 0,
   "exemplos": [
@@ -110,7 +110,7 @@
   ]
  },
  "fiocruz": {
-  "em": "2026-10-22T01:30:26+00:00",
+  "em": "2026-10-22T07:33:32+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -120,7 +120,7 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-10-22T01:30:26+00:00",
+  "em": "2026-10-22T07:33:32+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -130,7 +130,7 @@
   ]
  },
  "ses-go": {
-  "em": "2026-10-22T01:30:26+00:00",
+  "em": "2026-10-22T07:33:32+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -140,7 +140,7 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-10-22T01:30:26+00:00",
+  "em": "2026-10-22T07:33:32+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -150,17 +150,17 @@
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-10-22T01:30:26+00:00",
+  "em": "2026-10-22T07:33:32+00:00",
   "lidos": 25,
   "novos": 0,
   "exemplos": [
+   "Solidão pode tirar até seis anos de vida saudável",
    "Rio de Janeiro cria primeira unidade para diagnosticar TEA em adultos",
-   "Morte Lua Blanco: alimentação ruim está ligada ao câncer de intestino",
-   "Estudo mostra que exame de ondas cerebrais detecta sinais de Alzheimer"
+   "Morte Lua Blanco: alimentação ruim está ligada ao câncer de intestino"
   ]
  },
  "cnn-saude": {
-  "em": "2026-10-22T01:30:26+00:00",
+  "em": "2026-10-22T07:33:32+00:00",
   "lidos": 20,
   "novos": 0,
   "exemplos": [
@@ -170,8 +170,8 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-10-22T01:30:26+00:00",
-  "lidos": 21,
+  "em": "2026-10-22T07:33:32+00:00",
+  "lidos": 20,
   "novos": 0,
   "exemplos": [
    "One US measles outbreak is proving particularly deadly. Here’s why",
@@ -180,7 +180,7 @@
   ]
  },
  "inmet": {
-  "em": "2026-10-22T01:30:26+00:00",
+  "em": "2026-10-22T07:33:32+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -190,7 +190,7 @@
   ]
  },
  "cemaden": {
-  "em": "2026-10-22T01:30:26+00:00",
+  "em": "2026-10-22T07:33:32+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -200,23 +200,23 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-10-22T01:30:26+00:00",
+  "em": "2026-10-22T07:33:32+00:00",
   "lidos": 14,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Autorizado repasse de R$ 1,8 milhão para ações de defesa civil",
    "Autorizado repasse de R$ 4,7 milhões para ações de defesa civil",
-   "Reconhecida emergência em 18 cidades afetadas por desastres"
+   "Autorizado repasse de R$ 19,2 milhões para ações de defesa civil"
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-10-22T01:30:26+00:00",
+  "em": "2026-10-22T07:33:32+00:00",
   "lidos": 20,
-  "novos": 4,
+  "novos": 5,
   "exemplos": [
-   "Primeiro dia de reversão na Ponte JK divide opiniões de motoristas",
    "Celina Leão descarta debate com Leandro Grass e diz ter sido desrespeitada",
-   "Após teste inicial, reversão da Ponte JK terá ajustes nesta quinta-feira (22/10)"
+   "Motorista tem rosto ferido após colidir contra caminhão no Guará II",
+   "Pesquisa Correio/Opinião indica Celina com 59,3% dos votos válidos e Grass com 40,7%"
   ]
  }
 }

@@ -1,5 +1,68 @@
 [
  {
+  "id": "a6d54990c15ad0",
+  "titulo": "Pesquisa Correio/Opinião indica Celina com 59,3% dos votos válidos e Grass com 40,7%",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525016-pesquisa-correio-opiniao-indica-celina-com-593-dos-votos-validos-e-grass-com-407.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-22",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T07:33:32+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "17c616eaed1be1",
+  "titulo": "Pesquisa Correio-Opinião: 80% acreditam na reeleição de Celina Leão",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525228-pesquisa-correio-opiniao-80-acreditam-na-reeleicao-de-celina-leao.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-22",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T07:33:32+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "58cf824f8ee1e9",
+  "titulo": "Pesquisa Correio-Opinião: aprovação do governo é de 51,9%",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525323-pesquisa-correio-opiniao-aprovacao-do-governo-e-de-519.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-22",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T07:33:32+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
   "id": "d6e589646be149",
   "titulo": "Goiás reforça sobre a vigilância contra a poliomielite diante do risco de reintrodução da doença",
   "url": "https://goias.gov.br/saude/goias-reforca-sobre-a-vigilancia-contra-a-poliomielite-diante-do-risco-de-reintroducao-da-doenca/",
@@ -1295,6 +1358,48 @@
   "se": "2026-42",
   "descricao": "",
   "coletado_em": "2026-10-22T01:30:26+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "60d58da64f3228",
+  "titulo": "\"Envelhecer é moderno\": Série do Correio vence o Prêmio Sesc de Jornalismo",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525433-envelhecer-e-moderno-serie-do-correio-vence-o-premio-sesc-de-jornalismo.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T07:33:32+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "9abd093512e6af",
+  "titulo": "Leandro Grass participa de ato com cristãos no Teatro dos Bancários",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525425-leandro-grass-participa-de-ato-com-cristaos-no-teatro-dos-bancarios.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T07:33:32+00:00",
   "municipios": [
    "Distrito Federal"
   ],
