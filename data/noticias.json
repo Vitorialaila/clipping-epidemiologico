@@ -47,6 +47,30 @@
   ]
  },
  {
+  "id": "990949f3436b72",
+  "titulo": "Previsão de chuvas intensas e temporais coloca em alerta equipes do município",
+  "url": "https://www.foz.pr.gov.br/previsao-de-chuvas-intensas-e-temporais-coloca-em-alerta-equipes-do-municipio/",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Prefeitura Municipal de Foz do Iguaçu",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T01:30:26+00:00",
+  "municipios": [],
+  "pontuacao": 11.0,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "previsao"
+  ]
+ },
+ {
   "id": "c7307d57653b6d",
   "titulo": "Ebola: Africa CDC Convenes African Ministers of Health as Ebola Outbreak Spreads Across Three Regions",
   "url": "https://africacdc.org/news-item/africa-cdc-convenes-african-ministers-of-health-as-ebola-outbreak-spreads-across-three-regions/",
@@ -1187,6 +1211,90 @@
   "se": "2026-42",
   "descricao": "",
   "coletado_em": "2026-10-21T22:20:11+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "2fae1cebb18f0c",
+  "titulo": "Após teste inicial, reversão da Ponte JK terá ajustes nesta quinta-feira (22/10)",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525355-apos-teste-inicial-reversao-da-ponte-jk-tera-ajustes-nesta-quinta-feira-22-10.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T01:30:26+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "c54064d83f026c",
+  "titulo": "Celina promete nomeação de policiais penais e defende isonomia entre forças",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525327-celina-promete-nomeacao-de-policiais-penais-e-defende-isonomia-entre-forcas.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T01:30:26+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "3951c4fabaf631",
+  "titulo": "TRE-DF mantém circulação de panfleto da campanha de Leandro Grass",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525339-tre-df-mantem-circulacao-de-panfleto-da-campanha-de-leandro-grass.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T01:30:26+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "5ed5ab451d4b2b",
+  "titulo": "Leandro Grass aciona PF após declarações de Celina Leão",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525307-leandro-grass-aciona-pf-apos-declaracoes-de-celina-leao.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-22T01:30:26+00:00",
   "municipios": [
    "Distrito Federal"
   ],
