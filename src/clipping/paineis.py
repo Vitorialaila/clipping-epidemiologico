@@ -99,7 +99,7 @@ class PainelVigilancia:
                 margin=dict(l=50, r=50, t=70, b=50)
             )
 
-            return fig.to_html(include_plotlyjs="cdn", div_id=f"grafico_{self.sigla.lower()}")
+            return fig.to_html(include_plotlyjs=False, div_id=f"grafico_{self.sigla.lower()}", config={"responsive": True})
         except Exception as e:
             log.warning(f"Erro ao gerar gráfico de série: {e}")
             return ""
@@ -141,7 +141,7 @@ class PainelVigilancia:
 
             fig.update_xaxes(tickangle=-45)
 
-            return fig.to_html(include_plotlyjs=False, div_id=f"dist_{self.sigla.lower()}")
+            return fig.to_html(include_plotlyjs=False, div_id=f"dist_{self.sigla.lower()}", config={"responsive": True})
         except Exception as e:
             log.warning(f"Erro ao gerar gráfico de distribuição: {e}")
             return ""
