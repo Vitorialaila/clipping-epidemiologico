@@ -1,0 +1,34 @@
+# Sarampo no Brasil: registros oficiais lançados manualmente.
+#
+# O painel junta estes registros com os capturados automaticamente da página
+# "Situação Epidemiológica do Sarampo" do Ministério da Saúde e mostra o mais recente.
+# Use este arquivo para lançar números de informes ou notas do MS que a página ainda
+# não trouxer, ou para corrigir uma captura.
+#
+# Campos:
+#   data_referencia: data final do período (AAAA-MM-DD)
+#   se:              semana epidemiológica de referência (opcional)
+#   casos:           casos confirmados acumulados no ano
+#   obitos:          óbitos acumulados no ano (deixe vazio se a fonte não informar)
+#   ufs:             casos por UF (sigla: número); deixe vazio se a fonte não detalhar
+#   fonte / url:     publicação oficial de onde saiu o número
+#   nota:            observação exibida no painel (opcional)
+
+ano: 2026
+
+registros:
+  - data_referencia: 2026-09-26
+    se: 38
+    casos: 42
+    obitos: 0
+    ufs: {SP: 36, AM: 5, RJ: 1}
+    origem: "SP: 2 importados e 34 com fonte de infecção desconhecida; RJ: 1 com fonte desconhecida"
+    fonte: "Ministério da Saúde, Situação Epidemiológica do Sarampo"
+    url: "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/sarampo/situacao-epidemiologica"
+
+  - data_referencia: 2026-10-05
+    casos: 52
+    ufs: {SP: 41, AM: 10, RJ: 1}
+    fonte: "Ministério da Saúde, notícia de 06/10/2026"
+    url: "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/brasil-intensifica-acoes-contra-o-sarampo-diante-de-surto-nos-eua-e-avanco-da-doenca-nas-americas"
+    nota: "A notícia descreve os 52 casos como importados; a página de situação epidemiológica (SE 38) classificava a maior parte dos casos de SP como de fonte de infecção desconhecida."

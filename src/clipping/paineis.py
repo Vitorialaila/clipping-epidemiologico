@@ -168,9 +168,9 @@ class PainelVigilancia:
         """Salva o painel em JSON com dados dos gráficos."""
         self.dados["atualizado_em"] = datetime.now().isoformat()
 
-        # Gerar dados dos gráficos (JSON-serializáveis)
-        self.dados["grafico_serie"] = self.gerar_grafico_serie()
-        self.dados["grafico_distribuicao"] = self.gerar_grafico_distribuicao()
+        # Gerar dados dos gráficos (JSON-serializáveis), na ordem de exibição
+        if "graficos" not in self.dados:
+            self.dados["graficos"] = [g for g in (self.gerar_grafico_serie(), self.gerar_grafico_distribuicao()) if g]
 
         arq = PAINEIS_DIR / f"{self.sigla.lower()}.json"
         salvar_json(arq, self.dados)
@@ -266,6 +266,186 @@ class PainelSarampo(PainelVigilancia):
             return False
 
 
+
+# Cores do site
+NAVY, OURO, CINZA_UF = "#0A3570", "#B8921A", "#E3E6EB"
+CLASSES_MAPA = [  # (mínimo, rótulo, cor)
+    (0, "Sem casos", CINZA_UF),
+    (1, "1 a 4", "#B9C9E0"),
+    (5, "5 a 19", "#6F8FBF"),
+    (20, "20 a 99", "#2B5A97"),
+    (100, "100 ou mais", NAVY),
+]
+LAYOUT_BASE = dict(
+    template="plotly_white",
+    font=dict(family="IBM Plex Sans, Arial, sans-serif", size=12, color="#3A4352"),
+    paper_bgcolor="rgba(0,0,0,0)",
+    plot_bgcolor="rgba(0,0,0,0)",
+    hoverlabel=dict(font=dict(family="IBM Plex Sans, Arial, sans-serif")),
+)
+
+
+def _data_br(iso: str) -> str:
+    d = date.fromisoformat(iso)
+    return f"{d.day:02d}/{d.month:02d}/{d.year}"
+
+
+def _area(anel) -> float:
+    return sum(x1 * y2 - x2 * y1 for (x1, y1), (x2, y2) in zip(anel, anel[1:] + anel[:1])) / 2
+
+
+class PainelSarampoBrasil(PainelVigilancia):
+    """Sarampo no Brasil com números oficiais do Ministério da Saúde."""
+
+    def __init__(self):
+        super().__init__(
+            nome="Sarampo no Brasil",
+            sigla="SARAMPO_BR",
+            descricao="Casos confirmados de sarampo no ano, por UF, segundo o Ministério da Saúde",
+        )
+        self.dados["aba"] = "Sarampo Brasil"
+
+    def _mapa(self, ufs: dict, ref: str) -> dict:
+        from .mapas import _ufs
+        import math
+        kx = math.cos(math.radians(-14))
+        fig = go.Figure()
+        legenda_vista = set()
+        for sigla, p in _ufs().items():
+            n = ufs.get(sigla, 0)
+            classe = [c for c in CLASSES_MAPA if n >= c[0]][-1]
+            xs, ys = [], []
+            for anel in p["p"]:
+                if abs(_area(anel)) < 0.02 and len(p["p"]) > 1:
+                    continue  # ilhotas: não pesam no desenho
+                for lon, lat in anel + anel[:1]:
+                    xs.append(round(lon * kx, 3)); ys.append(round(lat, 3))
+                xs.append(None); ys.append(None)
+            texto = f"<b>{p['n']}</b><br>{n} caso{'s' if n != 1 else ''} confirmado{'s' if n != 1 else ''}"
+            fig.add_trace(go.Scatter(
+                x=xs, y=ys, mode="lines", fill="toself", fillcolor=classe[2],
+                line=dict(color="#FFFFFF", width=0.8), hoveron="fills", hoverinfo="text", text=texto,
+                name=classe[1], legendgroup=classe[1], showlegend=classe[1] not in legenda_vista,
+                legendrank=CLASSES_MAPA.index(classe),
+            ))
+            legenda_vista.add(classe[1])
+        for sigla, n in ufs.items():  # rótulo com o número nas UFs com casos
+            if n and sigla in _ufs():
+                lon, lat = _ufs()[sigla]["c"]
+                fig.add_annotation(x=lon * kx, y=lat, text=f"<b>{sigla}</b> {n}", showarrow=False,
+                                   font=dict(size=11, color=NAVY), bgcolor="rgba(255,255,255,.85)",
+                                   bordercolor=NAVY, borderwidth=1, borderpad=2)
+        fig.update_layout(
+            **LAYOUT_BASE,
+            title=dict(text=f"<b>Casos confirmados por UF</b><br><sup>até {ref}</sup>", font=dict(size=15, color=NAVY)),
+            height=460, margin=dict(l=10, r=10, t=70, b=10), hovermode="closest",
+            legend=dict(orientation="h", yanchor="top", y=0.02, xanchor="left", x=0.0, font=dict(size=11),
+                        bgcolor="rgba(255,255,255,.8)"),
+            xaxis=dict(visible=False, fixedrange=True),
+            yaxis=dict(visible=False, scaleanchor="x", scaleratio=1, fixedrange=True),
+        )
+        f = fig.to_dict()
+        return {"data": f["data"], "layout": f["layout"], "div_id": "mapa_sarampo_br", "largura": "meia",
+                "config": {"scrollZoom": False, "displayModeBar": False}}
+
+    def _barras(self, ufs: dict, ref: str) -> dict:
+        from .mapas import _ufs
+        nomes = {s: p["n"] for s, p in _ufs().items()}
+        ordem = sorted((n, s) for s, n in ufs.items() if n)
+        total = sum(ufs.values()) or 1
+        fig = go.Figure(go.Bar(
+            y=[nomes.get(s, s) for _, s in ordem], x=[n for n, _ in ordem], orientation="h",
+            marker=dict(color=NAVY), text=[f"{n} ({n / total:.0%})".replace(".", ",") for n, _ in ordem],
+            textposition="outside", cliponaxis=False,
+            hovertemplate="<b>%{y}</b><br>%{x} casos<extra></extra>",
+        ))
+        fig.update_layout(
+            **LAYOUT_BASE,
+            title=dict(text=f"<b>Distribuição por UF</b><br><sup>até {ref}</sup>", font=dict(size=15, color=NAVY)),
+            height=460, margin=dict(l=10, r=40, t=70, b=40), showlegend=False, bargap=0.45,
+            xaxis=dict(title="Casos confirmados", gridcolor="#EEE9DD", zeroline=False,
+                       range=[0, max(ufs.values() or [1]) * 1.45]),
+            yaxis=dict(automargin=True),
+        )
+        f = fig.to_dict()
+        return {"data": f["data"], "layout": f["layout"], "div_id": "barras_sarampo_br", "largura": "meia",
+                "config": {"displayModeBar": False}}
+
+    def _curva(self, regs: list[dict], ano: int) -> dict:
+        x = [f"SE {r['se']}<br><sup>{_data_br(r['data_referencia'])[:5]}</sup>" for r in regs]
+        y = [r["casos"] for r in regs]
+        fig = go.Figure(go.Scatter(
+            x=x, y=y, mode="lines+markers+text", line=dict(color=NAVY, width=3), marker=dict(size=9, color=NAVY),
+            text=y, textposition="top center", textfont=dict(color=NAVY, size=12),
+            customdata=[[r.get("fonte", "")] for r in regs],
+            hovertemplate="<b>%{x}</b><br>%{y} casos acumulados<br><i>%{customdata[0]}</i><extra></extra>",
+        ))
+        fig.update_layout(
+            **LAYOUT_BASE,
+            title=dict(text=f"<b>Casos acumulados em {ano}</b><br><sup>por data de referência das publicações do MS</sup>",
+                       font=dict(size=15, color=NAVY)),
+            height=340, margin=dict(l=50, r=30, t=80, b=50), showlegend=False,
+            xaxis=dict(type="category", showgrid=False),
+            yaxis=dict(title="Casos acumulados", gridcolor="#EEE9DD", zeroline=False, range=[0, max(y) * 1.25]),
+        )
+        f = fig.to_dict()
+        return {"data": f["data"], "layout": f["layout"], "div_id": "curva_sarampo_br", "largura": "inteira",
+                "config": {"displayModeBar": False}}
+
+    def coletar(self) -> bool:
+        from . import sarampo_brasil
+        try:
+            ano, regs = sarampo_brasil.registros()
+        except Exception as e:
+            log.warning(f"Erro ao reunir registros de sarampo no Brasil: {e}")
+            return False
+        if not regs:
+            log.warning("Sarampo no Brasil: nenhum registro oficial disponível.")
+            return False
+
+        atual = regs[-1]
+        com_ufs = next((r for r in reversed(regs) if r.get("ufs")), None)
+        com_obitos = next((r for r in reversed(regs) if r.get("obitos") is not None), None)
+        ref = _data_br(atual["data_referencia"])
+        ufs = com_ufs["ufs"] if com_ufs else {}
+        ref_ufs = _data_br(com_ufs["data_referencia"]) if com_ufs else ref
+
+        self.dados["nome"] = f"Sarampo no Brasil, {ano}"
+        self.dados["descricao"] = (f"Casos confirmados de sarampo no Brasil em {ano}, segundo o Ministério da Saúde. "
+                                   f"Dados até {ref} (SE {atual['se']}).")
+        self.dados["kpis"] = [
+            {"valor": f"{atual['casos']:,}".replace(",", "."), "rotulo": f"casos confirmados em {ano}"},
+            {"valor": str(com_obitos["obitos"]) if com_obitos else "n/d", "rotulo": "óbitos"},
+            {"valor": str(sum(1 for n in ufs.values() if n)), "rotulo": "UFs com casos"},
+            {"valor": f"SE {atual['se']}", "rotulo": f"dados até {ref}"},
+        ]
+        self.dados["graficos"] = [
+            self._mapa(ufs, ref_ufs) if ufs else None,
+            self._barras(ufs, ref_ufs) if ufs else None,
+            self._curva(regs, ano) if len(regs) > 1 else None,
+        ]
+        self.dados["graficos"] = [g for g in self.dados["graficos"] if g]
+        notas = []
+        if com_ufs and com_ufs.get("origem"):
+            notas.append(f"Fonte de infecção (até {_data_br(com_ufs['data_referencia'])}): {com_ufs['origem']}.")
+        for r in regs:
+            if r.get("origem") and r is not com_ufs:
+                notas.append(f"Fonte de infecção (até {_data_br(r['data_referencia'])}): {r['origem']}.")
+            if r.get("nota"):
+                notas.append(r["nota"])
+        self.dados["notas"] = notas
+        vistas, fontes = set(), []
+        for r in reversed(regs):
+            if r.get("url") and r["url"] not in vistas:
+                vistas.add(r["url"])
+                fontes.append({"nome": r.get("fonte", r["url"]), "url": r["url"]})
+        self.dados["fontes"] = fontes
+        self.dados["fonte_dados"] = "; ".join(f["nome"] for f in fontes)
+        self.dados["registros"] = regs
+        self.salvar()
+        return True
+
+
 class PainelEbolaRDC(PainelVigilancia):
     """Ebola na RDC/Uganda com dados ECDC."""
 
@@ -312,7 +492,7 @@ def gerar_paineis() -> None:
 
     paineis = [
         PainelSRAGBrasil(),
-        PainelSarampo(),
+        PainelSarampoBrasil(),
         PainelEbolaRDC(),
     ]
 
@@ -333,5 +513,5 @@ def listar_paineis() -> list[dict]:
             paineis.append(p)
         except Exception as e:
             log.warning(f"Erro ao ler {arq}: {e}")
-    ordem = {"SRAG": 0, "SARAMPO": 1, "EBOLA": 2}
+    ordem = {"SRAG": 0, "SARAMPO_BR": 1, "EBOLA": 2}
     return sorted(paineis, key=lambda p: (ordem.get(p.get("sigla", ""), 99), p.get("nome", "")))
