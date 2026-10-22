@@ -1,24 +1,5 @@
 [
  {
-  "t": "Eleições 2026: segundo turno no DF não terá lei seca",
-  "u": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525703-eleicoes-2026-segundo-turno-no-df-nao-tera-lei-seca.html",
-  "d": "2026-10-22",
-  "df": "22 out 2026",
-  "f": "Correio Braziliense",
-  "fn": "Correio Braziliense | Cidades DF",
-  "e": "DF",
-  "a": [
-   "Saúde ambiental e clima"
-  ],
-  "p": 10.5,
-  "se": "2026-42",
-  "r": "",
-  "i": "clima",
-  "m": [
-   "Distrito Federal"
-  ]
- },
- {
   "t": "InfoGripe: três estados têm incidência de SRAG em nível de alerta ou risco, com sinal de crescimento",
   "u": "https://agencia.fiocruz.br/infogripe-tres-estados-tem-incidencia-de-srag-em-nivel-de-alerta-ou-risco-com-sinal-de-crescimento",
   "d": "2026-10-22",
@@ -50,6 +31,40 @@
   "se": "2026-42",
   "r": "A Secretaria Nacional de Proteção e Defesa Civil reconheceu nesta quinta-feira (22) situação de emergência em sete municípios atingidos por tempestades na Região Sul . A Portaria nº 3.646 cita cidades do Paraná, Rio Grande do Sul e Santa Catarina que…",
   "i": "clima",
+  "m": []
+ },
+ {
+  "t": "Severely ill patient in France becomes first ever human infected with Shamonda virus",
+  "u": "https://www.ecdc.europa.eu/en/news-events/severely-ill-patient-france-becomes-first-ever-human-infected-shamonda-virus",
+  "d": "2026-10-22",
+  "df": "22 out 2026",
+  "f": "ECDC",
+  "fn": "ECDC | News",
+  "e": "Internacional",
+  "a": [
+   "Patógeno novo ou incomum em humanos"
+  ],
+  "p": 8.5,
+  "se": "2026-42",
+  "r": "The European Centre for Disease Prevention and Control (ECDC) is carefully monitoring the situation after the French authorities announced the first ever reported human infection with Shamonda virus (SHAV), a disease that has until now only affected animals.",
+  "i": "virus",
+  "m": []
+ },
+ {
+  "t": "Doença de Newcastle: protocolos sanitários são cumpridos em SC",
+  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/doenca-de-newcastle-protocolos-sanitarios-sao-cumpridos-em-sc",
+  "d": "2026-10-22",
+  "df": "22 out 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Saúde Única: zoonoses e eventos em animais"
+  ],
+  "p": 8.0,
+  "se": "2026-42",
+  "r": "O Ministério da Agricultura e Pecuária informou que foi concluído o despovoamento sanitário do estabelecimento comercial de criação de perus de corte no município de Nova Itaberaba , em Santa Catarina, onde foi identificado um foco da doença de Newcastle . De…",
+  "i": "animal",
   "m": []
  },
  {
@@ -171,23 +186,6 @@
   "m": []
  },
  {
-  "t": "One US measles outbreak is proving particularly deadly. Here’s why",
-  "u": "https://www.cnn.com/2026/10/21/health/measles-pennsylvania-undercount-cdc",
-  "d": "2026-10-21",
-  "df": "21 out 2026",
-  "f": "CNN",
-  "fn": "CNN",
-  "e": "Internacional",
-  "a": [
-   "Sarampo"
-  ],
-  "p": 9.0,
-  "se": "2026-42",
-  "r": "",
-  "i": "virus",
-  "m": []
- },
- {
   "t": "PAHO calls for strengthened surveillance and preparedness amid increases in dengue and chikungunya in the Americas",
   "u": "https://www.paho.org/en/news/21-10-2026-paho-calls-strengthened-surveillance-and-preparedness-amid-increases-dengue-and",
   "d": "2026-10-21",
@@ -203,23 +201,6 @@
   "se": "2026-42",
   "r": "PAHO calls for strengthened surveillance and preparedness amid increases in dengue and chikungunya in the Americas Cristina Mitchell 21 Oct 2026",
   "i": "mosquito",
-  "m": []
- },
- {
-  "t": "Aumento do sarampo no Brasil: doença pode levar à morte; entenda riscos",
-  "u": "https://stories.cnnbrasil.com.br/saude/aumento-do-sarampo-no-brasil-doenca-pode-levar-a-morte-entenda-riscos/",
-  "d": "2026-10-21",
-  "df": "21 out 2026",
-  "f": "CNN Brasil",
-  "fn": "CNN Brasil | Saúde",
-  "e": "Brasil",
-  "a": [
-   "Sarampo"
-  ],
-  "p": 8.0,
-  "se": "2026-42",
-  "r": "",
-  "i": "virus",
   "m": []
  },
  {
@@ -257,6 +238,40 @@
   "m": []
  },
  {
+  "t": "Força Nacional do SUS apoia atendimentos no Amazonas após incêndios",
+  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/forca-nacional-do-sus-apoia-atendimentos-no-amazonas-apos-incendios",
+  "d": "2026-10-21",
+  "df": "21 out 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.0,
+  "se": "2026-42",
+  "r": "Com o aumento da demanda de atendimento em saúde em razão dos incêndios florestais na região, começou a funcionar em Manaus uma base regional da Força Nacional do SUS. Segundo a última atualização da Fundação de Vigilância em Saúde do Amazonas, desde que a…",
+  "i": "clima",
+  "m": []
+ },
+ {
+  "t": "Aumento do sarampo no Brasil: doença pode levar à morte; entenda riscos",
+  "u": "https://stories.cnnbrasil.com.br/saude/aumento-do-sarampo-no-brasil-doenca-pode-levar-a-morte-entenda-riscos/",
+  "d": "2026-10-21",
+  "df": "21 out 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 6.5,
+  "se": "2026-42",
+  "r": "",
+  "i": "virus",
+  "m": []
+ },
+ {
   "t": "Ebola has spread from Congo to 4 other countries. A look at where things stand",
   "u": "https://edition.cnn.com/2026/10/21/health/ebola-kenya-congo-nigeria-uganda-france",
   "d": "2026-10-21",
@@ -271,57 +286,6 @@
   "se": "2026-42",
   "r": "",
   "i": "virus",
-  "m": []
- },
- {
-  "t": "Ebola has spread from Congo to 4 other countries. A look at where things stand",
-  "u": "https://www.cnn.com/2026/10/21/health/ebola-kenya-congo-nigeria-uganda-france",
-  "d": "2026-10-21",
-  "df": "21 out 2026",
-  "f": "CNN",
-  "fn": "CNN",
-  "e": "Internacional",
-  "a": [
-   "Doença pelo vírus Ebola"
-  ],
-  "p": 6.5,
-  "se": "2026-42",
-  "r": "",
-  "i": "virus",
-  "m": []
- },
- {
-  "t": "New global framework launched to track increasing health risks of extreme heat for pregnant women, newborns and children",
-  "u": "https://www.who.int/news/item/21-10-2026-new-global-framework-launched-to-track-increasing-health-risks-of-extreme-heat-for-pregnant-women--newborns-and-children",
-  "d": "2026-10-21",
-  "df": "21 out 2026",
-  "f": "OMS",
-  "fn": "OMS | Notícias",
-  "e": "Internacional",
-  "a": [
-   "Saúde ambiental e clima"
-  ],
-  "p": 4.5,
-  "se": "2026-42",
-  "r": "",
-  "i": "clima",
-  "m": []
- },
- {
-  "t": "Força Nacional do SUS apoia atendimentos no Amazonas após incêndios",
-  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/forca-nacional-do-sus-apoia-atendimentos-no-amazonas-apos-incendios",
-  "d": "2026-10-21",
-  "df": "21 out 2026",
-  "f": "Agência Brasil",
-  "fn": "Agência Brasil | Saúde",
-  "e": "Brasil",
-  "a": [
-   "Saúde ambiental e clima"
-  ],
-  "p": 4.0,
-  "se": "2026-42",
-  "r": "Com o aumento da demanda de atendimento em saúde em razão dos incêndios florestais na região, começou a funcionar em Manaus uma base regional da Força Nacional do SUS. Segundo a última atualização da Fundação de Vigilância em Saúde do Amazonas, desde que a…",
-  "i": "clima",
   "m": []
  },
  {
@@ -343,23 +307,21 @@
   "m": []
  },
  {
-  "t": "\"Cortina de fumaça\": Grass (PT) faz crítica a ato de Celina pelo FCDF",
-  "u": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7523933-cortina-de-fumaca-grass-pt-faz-critica-a-ato-de-celina-pelo-fcdf.html",
+  "t": "Governo impõe emergência zoossanitária após detectar Newcastle em SC",
+  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/governo-impoe-emergencia-zoossanitaria-apos-detectar-newcastle-em-sc",
   "d": "2026-10-20",
   "df": "20 out 2026",
-  "f": "Correio Braziliense",
-  "fn": "Correio Braziliense | Cidades DF",
-  "e": "DF",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Saúde",
+  "e": "Brasil",
   "a": [
-   "Saúde ambiental e clima"
+   "Saúde Única: zoonoses e eventos em animais"
   ],
-  "p": 10.5,
+  "p": 9.0,
   "se": "2026-42",
-  "r": "",
-  "i": "clima",
-  "m": [
-   "Distrito Federal"
-  ]
+  "r": "O governo federal declarou estado de emergência zoossanitária nos municípios de Nova Itaberaba, Águas Frias, Coronel Freitas e Nova Erechim, todos em Santa Catarina , em razão de um foco da doença de Newcastle encontrado em um estabelecimento de aves…",
+  "i": "animal",
+  "m": []
  },
  {
   "t": "Base da Força Nacional do SUS em Manaus começa a operar e apoia resposta às queimadas no Amazonas",
@@ -379,41 +341,6 @@
   "m": []
  },
  {
-  "t": "Nova vacina combate 21 tipos de bactéria que causa pneumonia e meningite",
-  "u": "https://www.cnnbrasil.com.br/saude/nova-vacina-combate-21-tipos-de-bacteria-que-causa-pneumonia-e-meningite/",
-  "d": "2026-10-20",
-  "df": "20 out 2026",
-  "f": "CNN Brasil",
-  "fn": "CNN Brasil | Saúde",
-  "e": "Internacional",
-  "a": [
-   "Doença meningocócica e meningites"
-  ],
-  "p": 5.5,
-  "se": "2026-42",
-  "r": "",
-  "i": "bacteria",
-  "m": []
- },
- {
-  "t": "Repórter Tâmara Freire, da Agência Brasil, é finalista no Prêmio SBIm",
-  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/reporter-tamara-freire-da-agencia-brasil-e-finalista-no-premio-sbim",
-  "d": "2026-10-20",
-  "df": "20 out 2026",
-  "f": "Agência Brasil",
-  "fn": "Agência Brasil | Saúde",
-  "e": "Brasil",
-  "a": [
-   "Influenza e vírus respiratórios",
-   "COVID-19"
-  ],
-  "p": 4.5,
-  "se": "2026-42",
-  "r": "A repórter da Agência Brasil Tâmara Freire foi selecionada entre os finalistas do VII Prêmio SBIm de Jornalismo em Saúde, com a reportagem Resistência às vacinas contra gripe e covid coloca gestantes em risco . A lista de candidatos ao prêmio foi divulgada…",
-  "i": "respiratorio",
-  "m": []
- },
- {
   "t": "Cenário Epidemiológico Sarampo",
   "u": "https://goias.gov.br/saude/cenario-epidemiologico-sarampo/",
   "d": "2026-10-19",
@@ -428,6 +355,25 @@
   "se": "2026-42",
   "r": "",
   "i": "virus",
+  "m": []
+ },
+ {
+  "t": "Agricultura confirma foco de doença de Newcastle em Santa Catarina",
+  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/agricultura-confirma-foco-de-doenca-de-newcastle-em-santa-catarina",
+  "d": "2026-10-19",
+  "df": "19 out 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Saúde Única: zoonoses e eventos em animais",
+   "Influenza por novo subtipo",
+   "Influenza e vírus respiratórios"
+  ],
+  "p": 10.0,
+  "se": "2026-42",
+  "r": "O Ministério da Agricultura e Pecuária (Mapa) confirmou o registro de um foco da doença de Newcastle em um estabelecimento de avicultura comercial de corte de perus no município de Nova Itaberaba, em Santa Catarina. A existência do foco foi confirmada no…",
+  "i": "animal",
   "m": []
  },
  {
@@ -463,24 +409,6 @@
   "m": [
    "Distrito Federal"
   ]
- },
- {
-  "t": "Agricultura confirma foco de doença de Newcastle em Santa Catarina",
-  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/agricultura-confirma-foco-de-doenca-de-newcastle-em-santa-catarina",
-  "d": "2026-10-19",
-  "df": "19 out 2026",
-  "f": "Agência Brasil",
-  "fn": "Agência Brasil | Saúde",
-  "e": "Brasil",
-  "a": [
-   "Influenza por novo subtipo",
-   "Influenza e vírus respiratórios"
-  ],
-  "p": 8.5,
-  "se": "2026-42",
-  "r": "O Ministério da Agricultura e Pecuária (Mapa) confirmou o registro de um foco da doença de Newcastle em um estabelecimento de avicultura comercial de corte de perus no município de Nova Itaberaba, em Santa Catarina. A existência do foco foi confirmada no…",
-  "i": "respiratorio",
-  "m": []
  },
  {
   "t": "Defesa Civil alerta sobre possibilidade de chuvas intensas nesta segunda (19) e terça-feira (20) em Linhares",
@@ -574,41 +502,6 @@
   "m": []
  },
  {
-  "t": "Veja como se cadastrar para receber alertas de temporais por WhatsApp ou SMS – CGNotícias",
-  "u": "https://www.campogrande.ms.gov.br/cgnoticias/noticia/veja-como-se-cadastrar-para-receber-alertas-de-temporais-por-whatsapp-ou-sms/",
-  "d": "2026-10-17",
-  "df": "17 out 2026",
-  "f": "Defesa Civil",
-  "fn": "Prefeitura de Campo Grande",
-  "e": "Brasil",
-  "a": [
-   "Emergências e desastres",
-   "Saúde ambiental e clima"
-  ],
-  "p": 9.0,
-  "se": "2026-41",
-  "r": "",
-  "i": "desastre",
-  "m": []
- },
- {
-  "t": "Sarampo é uma das doenças mais facilmente transmissíveis, diz especialista",
-  "u": "https://www.cnnbrasil.com.br/saude/sarampo-e-uma-das-doencas-mais-facilmente-transmissiveis-diz-especialista/",
-  "d": "2026-10-17",
-  "df": "17 out 2026",
-  "f": "CNN Brasil",
-  "fn": "CNN Brasil | Saúde",
-  "e": "Internacional",
-  "a": [
-   "Sarampo"
-  ],
-  "p": 5.0,
-  "se": "2026-41",
-  "r": "",
-  "i": "virus",
-  "m": []
- },
- {
   "t": "Dengue grave: estudo identifica fatores de risco para mortes no Brasil",
   "u": "https://www.cnnbrasil.com.br/saude/dengue-grave-estudo-identifica-fatores-de-risco-para-mortes-no-brasil/",
   "d": "2026-10-17",
@@ -681,6 +574,23 @@
   "m": []
  },
  {
+  "t": "Epidemiological Alert:  Myiasis caused by Cochliomyia hominivorax in the Americas Region, 16 October 2026",
+  "u": "https://www.paho.org/en/documents/epidemiological-alert-myiasis-caused-cochliomyia-hominivorax-americas-region-16-october",
+  "d": "2026-10-16",
+  "df": "16 out 2026",
+  "f": "OPAS",
+  "fn": "OPAS | Alertas e atualizações epidemiológicas",
+  "e": "Américas",
+  "a": [
+   "Saúde Única: zoonoses e eventos em animais"
+  ],
+  "p": 10.5,
+  "se": "2026-41",
+  "r": "",
+  "i": "animal",
+  "m": []
+ },
+ {
   "t": "Inema emite alerta para chuvas intensas na Bahia nas próximas 72 horas",
   "u": "http://www.ba.gov.br/inema/noticias/2026-10/93832/inema-emite-alerta-para-chuvas-intensas-na-bahia-nas-proximas-72-horas",
   "d": "2026-10-16",
@@ -744,44 +654,10 @@
    "Febres hemorrágicas virais",
    "Doença pelo vírus Ebola"
   ],
-  "p": 5.5,
+  "p": 6.0,
   "se": "2026-41",
   "r": "This issue of the Communicable disease threats report (CDTR) covers the period 10 - 16 October 2026, and includes updates on respiratory virus epidemiology in the EU/EEA, Ebola, expert deployment, pneumonia of unknown aetiology, mpox in the EU/EEA, West Nile…",
   "i": "virus",
-  "m": []
- },
- {
-  "t": "SES intensifica ações de combate ao Aedes aegypti em todo o Estado e pede apoio da população para eliminar criadouros",
-  "u": "https://goias.gov.br/saude/ses-intensifica-acoes-de-combate-ao-aedes-aegypti-em-todo-o-estado-e-pede-apoio-da-populacao-para-eliminar-criadouros/",
-  "d": "2026-10-16",
-  "df": "16 out 2026",
-  "f": "SES-GO",
-  "fn": "SES-GO | Notícias",
-  "e": "Brasil",
-  "a": [
-   "Arboviroses"
-  ],
-  "p": 5.0,
-  "se": "2026-41",
-  "r": "Secretaria reforça combate ao mosquito com monitoramento, uso de novas tecnologias, controle químico, distribuição de insumos/equipamentos e qualificação dos profissionais dos municípios goianos",
-  "i": "mosquito",
-  "m": []
- },
- {
-  "t": "Método Wolbachia contra arboviroses começa a ser implantado no Ceará",
-  "u": "https://agencia.fiocruz.br/metodo-wolbachia-contra-arboviroses-comeca-ser-implantado-no-ceara",
-  "d": "2026-10-16",
-  "df": "16 out 2026",
-  "f": "Fiocruz",
-  "fn": "Agência Fiocruz de Notícias",
-  "e": "Brasil",
-  "a": [
-   "Arboviroses"
-  ],
-  "p": 4.5,
-  "se": "2026-41",
-  "r": "Método Wolbachia contra arboviroses começa a ser implantado no Ceará",
-  "i": "mosquito",
   "m": []
  },
  {
@@ -799,38 +675,6 @@
   "se": "2026-41",
   "r": "",
   "i": "clima",
-  "m": []
- },
- {
-  "t": "New wildfire in Southern California explodes in size, burning multiple homes",
-  "u": "https://www.cnn.com/2026/10/16/weather/california-wildfires-santa-ana-winds-climate",
-  "d": "2026-10-16",
-  "df": "16 out 2026",
-  "f": "CNN",
-  "fn": "CNN",
-  "e": "Internacional",
-  "a": [
-   "Saúde ambiental e clima"
-  ],
-  "p": 4.5,
-  "se": "2026-41",
-  "r": "",
-  "i": "clima",
-  "m": []
- },
- {
-  "t": "Strengthening public health emergency operations centres in Europe through exchange of good practices",
-  "u": "https://www.ecdc.europa.eu/en/news-events/strengthening-public-health-emergency-operations-centres-europe-through-exchange-good",
-  "d": "2026-10-16",
-  "df": "16 out 2026",
-  "f": "ECDC",
-  "fn": "ECDC | News",
-  "e": "Internacional",
-  "a": [],
-  "p": 4.0,
-  "se": "2026-41",
-  "r": "A three-day training workshop organised by ECDC and WHO/Europe and hosted by the Slovenian National Institute of Public Health (NIPH) brought together participants from the EU and a number of accession countries to strengthen their national Public Health…",
-  "i": "alerta",
   "m": []
  },
  {
@@ -880,12 +724,13 @@
   "fn": "OMS | Disease Outbreak News",
   "e": "Internacional",
   "a": [
-   "Síndrome respiratória e coronavírus emergentes"
+   "Síndrome respiratória e coronavírus emergentes",
+   "Saúde Única: zoonoses e eventos em animais"
   ],
-  "p": 9.5,
+  "p": 10.0,
   "se": "2026-41",
   "r": "Between 1 January and 5 October 2026, the Kingdom of Saudi Arabia reported eight laboratory-confirmed cases of Middle East Respiratory Syndrome Coronavirus (MERS-CoV) infection, including one death. Cases were detected across six locations: Al Jouf (1), Arar…",
-  "i": "respiratorio",
+  "i": "animal",
   "m": []
  },
  {
@@ -1008,23 +853,6 @@
   "m": []
  },
  {
-  "t": "A super El Niño winter is coming and the first official forecast is in",
-  "u": "https://edition.cnn.com/2026/10/15/weather/winter-outlook-super-el-nino",
-  "d": "2026-10-15",
-  "df": "15 out 2026",
-  "f": "CNN",
-  "fn": "CNN",
-  "e": "Internacional",
-  "a": [
-   "Saúde ambiental e clima"
-  ],
-  "p": 4.5,
-  "se": "2026-41",
-  "r": "",
-  "i": "clima",
-  "m": []
- },
- {
   "t": "Ebola disease outbreak in the Democratic Republic of the Congo",
   "u": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
   "d": "2026-10-14",
@@ -1044,23 +872,6 @@
  {
   "t": "Defesa Civil de São Paulo alerta para chuva intensa nesta quinta-feira (15), com acumulados que podem chegar a 80 mm",
   "u": "https://www.agenciasp.sp.gov.br/defesa-civil-de-sao-paulo-alerta-para-chuva-intensa-nesta-quinta-feira-15-com-acumulados-que-podem-chegar-a-80-mm/",
-  "d": "2026-10-14",
-  "df": "14 out 2026",
-  "f": "Defesa Civil",
-  "fn": "agenciasp.sp.gov.br",
-  "e": "Brasil",
-  "a": [
-   "Saúde ambiental e clima"
-  ],
-  "p": 9.5,
-  "se": "2026-41",
-  "r": "",
-  "i": "clima",
-  "m": []
- },
- {
-  "t": "Defesa Civil de São Paulo alerta para chuva intensa nesta quinta-feira (15), com acumulados que podem chegar a 80 mm",
-  "u": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-de-sao-paulo-alerta-para-chuva-intensa-nesta-quinta-feira-15-com-acumulados-que-podem-chegar-a-80-mm/",
   "d": "2026-10-14",
   "df": "14 out 2026",
   "f": "Defesa Civil",
@@ -1110,23 +921,6 @@
   "m": []
  },
  {
-  "t": "Aumento do sarampo no Brasil: doença pode levar à morte; entenda riscos",
-  "u": "https://www.cnnbrasil.com.br/saude/aumento-do-sarampo-no-brasil-doenca-pode-levar-a-morte-entenda-riscos/",
-  "d": "2026-10-14",
-  "df": "14 out 2026",
-  "f": "CNN Brasil",
-  "fn": "CNN Brasil | Saúde",
-  "e": "Brasil",
-  "a": [
-   "Sarampo"
-  ],
-  "p": 8.0,
-  "se": "2026-41",
-  "r": "",
-  "i": "virus",
-  "m": []
- },
- {
   "t": "Estudo analisa exposição de CRAS a riscos de inundação e deslizamento em 806 municípios brasileiros",
   "u": "https://www.gov.br/cemaden/pt-br/estudo-analisa-exposicao-de-cras-a-riscos-de-inundacao-e-deslizamento-em-806-municipios-brasileiros",
   "d": "2026-10-14",
@@ -1158,42 +952,6 @@
   "se": "2026-41",
   "r": "",
   "i": "clima",
-  "m": []
- },
- {
-  "t": "Saúde acompanha implantação em Anápolis da metodologia que reduz dengue e chikungunya",
-  "u": "https://goias.gov.br/saude/saude-acompanha-implantacao-em-anapolis-da-metodologia-que-reduz-dengue-e-chikungunya/",
-  "d": "2026-10-14",
-  "df": "14 out 2026",
-  "f": "SES-GO",
-  "fn": "SES-GO | Notícias",
-  "e": "Brasil",
-  "a": [
-   "Dengue",
-   "Chikungunya",
-   "Arboviroses"
-  ],
-  "p": 6.0,
-  "se": "2026-41",
-  "r": "Quando infectado pela bactéria Wolbachia, o mosquito Aedes aegypti perde a capacidade de transmitir essas doenças e repassa a bactéria para seus descendentes, substituindo gradualmente a população de mosquitos",
-  "i": "mosquito",
-  "m": []
- },
- {
-  "t": "Seminário Estadual de Sífilis capacita profissionais para fortalecer diagnóstico, tratamento e prevenção da doença",
-  "u": "https://goias.gov.br/saude/seminario-estadual-de-sifilis-capacita-profissionais-para-fortalecer-diagnostico-tratamento-e-prevencao-da-doenca/",
-  "d": "2026-10-14",
-  "df": "14 out 2026",
-  "f": "SES-GO",
-  "fn": "SES-GO | Notícias",
-  "e": "Brasil",
-  "a": [
-   "Sífilis"
-  ],
-  "p": 5.0,
-  "se": "2026-41",
-  "r": "Encontro promovido na Escola de Saúde Pública reúne profissionais da atenção primária e da vigilância epidemiológica para qualificar assistência e prevenir casos de sífilis congênita",
-  "i": "bacteria",
   "m": []
  },
  {
@@ -1248,6 +1006,23 @@
   "m": []
  },
  {
+  "t": "Fiocruz analisa impacto das queimadas na saúde indígena no Amazonas",
+  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/fiocruz-analisa-impacto-das-queimadas-na-saude-indigena-no-amazonas",
+  "d": "2026-10-13",
+  "df": "13 out 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 8.0,
+  "se": "2026-41",
+  "r": "A poluição do ar provocada por queimadas e incêndios florestais no Amazonas representa um risco à saúde da população, especialmente das comunidades indígenas, que enfrentam dificuldades de acesso aos serviços de saúde. O alerta faze parte de levantamento…",
+  "i": "clima",
+  "m": []
+ },
+ {
   "t": "EL NIÑO ganha intensidade e registra a segunda maior anomalia para setembro desde 1950",
   "u": "https://portal.inmet.gov.br/noticias/el-niño-ganha-intensidade-e-registra-a-segunda-maior-anomalia-para-setembro-desde-1950",
   "d": "2026-10-13",
@@ -1282,42 +1057,8 @@
   "m": []
  },
  {
-  "t": "Fiocruz analisa impacto das queimadas na saúde indígena no Amazonas",
-  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/fiocruz-analisa-impacto-das-queimadas-na-saude-indigena-no-amazonas",
-  "d": "2026-10-13",
-  "df": "13 out 2026",
-  "f": "Agência Brasil",
-  "fn": "Agência Brasil | Saúde",
-  "e": "Brasil",
-  "a": [
-   "Saúde ambiental e clima"
-  ],
-  "p": 5.0,
-  "se": "2026-41",
-  "r": "A poluição do ar provocada por queimadas e incêndios florestais no Amazonas representa um risco à saúde da população, especialmente das comunidades indígenas, que enfrentam dificuldades de acesso aos serviços de saúde. O alerta faze parte de levantamento…",
-  "i": "clima",
-  "m": []
- },
- {
   "t": "Defesa Civil renova alerta para chuvas fortes em São Paulo até quinta-feira (15)",
   "u": "https://www.agenciasp.sp.gov.br/defesa-civil-renova-alerta-para-chuvas-fortes-em-sao-paulo-entre-terca-feira-13-e-quinta-feira-15/",
-  "d": "2026-10-12",
-  "df": "12 out 2026",
-  "f": "Defesa Civil",
-  "fn": "agenciasp.sp.gov.br",
-  "e": "Brasil",
-  "a": [
-   "Saúde ambiental e clima"
-  ],
-  "p": 9.5,
-  "se": "2026-41",
-  "r": "",
-  "i": "clima",
-  "m": []
- },
- {
-  "t": "Defesa Civil renova alerta para chuvas fortes em São Paulo até quinta-feira (15)",
-  "u": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-renova-alerta-para-chuvas-fortes-em-sao-paulo-entre-terca-feira-13-e-quinta-feira-15/",
   "d": "2026-10-12",
   "df": "12 out 2026",
   "f": "Defesa Civil",
@@ -1384,23 +1125,6 @@
   "m": []
  },
  {
-  "t": "Hurricane Simon weakens to Category 2 as it continues to lash Mexico’s Pacific coast",
-  "u": "https://www.cnn.com/2026/10/11/americas/mexico-hurricane-simon-intl-latam",
-  "d": "2026-10-11",
-  "df": "11 out 2026",
-  "f": "CNN",
-  "fn": "CNN",
-  "e": "Américas",
-  "a": [
-   "Emergências e desastres"
-  ],
-  "p": 7.5,
-  "se": "2026-41",
-  "r": "",
-  "i": "desastre",
-  "m": []
- },
- {
   "t": "Pneumonia of undetermined etiology - the Russian Federation",
   "u": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON620",
   "d": "2026-10-10",
@@ -1438,6 +1162,23 @@
   ]
  },
  {
+  "t": "Malária: Anvisa autoriza teste em humanos de vacina 100% brasileira",
+  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/malaria-anvisa-autoriza-teste-em-humanos-de-vacina-100-brasileira",
+  "d": "2026-10-10",
+  "df": "10 out 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Malária"
+  ],
+  "p": 10.0,
+  "se": "2026-40",
+  "r": "A Agência Nacional de Vigilância Sanitária (Anvisa) autorizou o início de testes em humanos da primeira vacina do mundo contra a malária causada pelo Plasmodium vivax , parasita responsável pela maioria dos casos da doença no país. O imunizante é feito com…",
+  "i": "mosquito",
+  "m": []
+ },
+ {
   "t": "Brasil avança no desenvolvimento da primeira vacina do mundo contra malária vivax",
   "u": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/brasil-avanca-no-desenvolvimento-da-primeira-vacina-do-mundo-contra-malaria-vivax",
   "d": "2026-10-10",
@@ -1472,42 +1213,8 @@
   "m": []
  },
  {
-  "t": "Malária: Anvisa autoriza teste em humanos de vacina 100% brasileira",
-  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/malaria-anvisa-autoriza-teste-em-humanos-de-vacina-100-brasileira",
-  "d": "2026-10-10",
-  "df": "10 out 2026",
-  "f": "Agência Brasil",
-  "fn": "Agência Brasil | Saúde",
-  "e": "Brasil",
-  "a": [
-   "Malária"
-  ],
-  "p": 7.0,
-  "se": "2026-40",
-  "r": "A Agência Nacional de Vigilância Sanitária (Anvisa) autorizou o início de testes em humanos da primeira vacina do mundo contra a malária causada pelo Plasmodium vivax , parasita responsável pela maioria dos casos da doença no país. O imunizante é feito com…",
-  "i": "mosquito",
-  "m": []
- },
- {
   "t": "Kenya prepared for Ebola. It still slipped through — a warning of wider cross-border spread",
   "u": "https://edition.cnn.com/2026/10/10/africa/kenya-ebola-cross-border-spread-intl",
-  "d": "2026-10-10",
-  "df": "10 out 2026",
-  "f": "CNN",
-  "fn": "CNN",
-  "e": "Internacional",
-  "a": [
-   "Doença pelo vírus Ebola"
-  ],
-  "p": 6.5,
-  "se": "2026-40",
-  "r": "",
-  "i": "virus",
-  "m": []
- },
- {
-  "t": "Kenya prepared for Ebola. It still slipped through — a warning of wider cross-border spread",
-  "u": "https://www.cnn.com/2026/10/10/africa/kenya-ebola-cross-border-spread-intl",
   "d": "2026-10-10",
   "df": "10 out 2026",
   "f": "CNN",
@@ -1557,23 +1264,6 @@
   "m": []
  },
  {
-  "t": "Powerful earthquake shakes Panama, followed by large aftershocks",
-  "u": "https://us.cnn.com/2026/10/09/americas/panama-earthquake-latam-intl",
-  "d": "2026-10-09",
-  "df": "09 out 2026",
-  "f": "CNN",
-  "fn": "CNN",
-  "e": "Américas",
-  "a": [
-   "Emergências e desastres"
-  ],
-  "p": 7.5,
-  "se": "2026-40",
-  "r": "",
-  "i": "desastre",
-  "m": []
- },
- {
   "t": "Communicable disease threats report, 3 - 9 October, week 41",
   "u": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-3-9-october-week-41",
   "d": "2026-10-09",
@@ -1586,26 +1276,9 @@
    "Febres hemorrágicas virais",
    "Doença pelo vírus Ebola"
   ],
-  "p": 5.5,
+  "p": 6.0,
   "se": "2026-40",
   "r": "This issue of the Communicable disease threats report (CDTR) covers the period 3 - 9October 2026, and includes updates on respiratory virus epidemiology in the EU/EEA, pneumonia of unknown aetiology, Ebola, expert deployment, West Nile Virus, Crimean-Congo…",
-  "i": "virus",
-  "m": []
- },
- {
-  "t": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo",
-  "u": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON619",
-  "d": "2026-10-08",
-  "df": "08 out 2026",
-  "f": "OMS",
-  "fn": "OMS | Disease Outbreak News",
-  "e": "Internacional",
-  "a": [
-   "Doença pelo vírus Ebola"
-  ],
-  "p": 14.5,
-  "se": "2026-40",
-  "r": "On 5 October 2026, WHO was informed about a laboratory-confirmed imported case of Bundibugyo virus disease (BVD) in Kenya with travel history from the Democratic Republic of the Congo. The patient travelled from the Democratic Republic of the Congo to Kenya…",
   "i": "virus",
   "m": []
  },
@@ -1689,27 +1362,10 @@
   "a": [
    "Chikungunya"
   ],
-  "p": 5.5,
+  "p": 6.0,
   "se": "2026-40",
   "r": "Every month ECDC provides detailed epidemiological overview of the worldwide transmission of chikungunya virus disease in its weekly threat report (Communicable Diseases Threat Report).",
   "i": "mosquito",
-  "m": []
- },
- {
-  "t": "EU-led assessment to Albania will strengthen cross-sector response to antimicrobial resistance",
-  "u": "https://www.ecdc.europa.eu/en/news-events/eu-led-assessment-albania-will-strengthen-cross-sector-response-antimicrobial",
-  "d": "2026-10-05",
-  "df": "05 out 2026",
-  "f": "ECDC",
-  "fn": "ECDC | News",
-  "e": "Internacional",
-  "a": [
-   "Resistência antimicrobiana"
-  ],
-  "p": 4.5,
-  "se": "2026-40",
-  "r": "An EU-led mission of experts to Albania this week will identify priority gaps, define areas for further action and support the strengthening of national responses to antimicrobial resistance (AMR) in the country.",
-  "i": "bacteria",
   "m": []
  },
  {
@@ -1730,38 +1386,6 @@
   "m": []
  },
  {
-  "t": "Africa CDC Supports the Government of the Democratic Republic of the Congo in Strengthening Transparency and Accountability in Ebola Response Funding",
-  "u": "https://africacdc.org/news-item/africa-cdc-supports-the-government-of-the-democratic-republic-of-the-congo-in-strengthening-transparency-and-accountability-in-ebola-response-funding/",
-  "d": "2026-10-04",
-  "df": "04 out 2026",
-  "f": "Africa CDC",
-  "fn": "Africa CDC | Notícias",
-  "e": "Internacional",
-  "a": [
-   "Doença pelo vírus Ebola"
-  ],
-  "p": 7.0,
-  "se": "2026-40",
-  "r": "Kinshasa, Democratic Republic of the Congo, 4 October 2026 The Africa Centres for Disease Control and Prevention (Africa CDC) welcomes and supports the position of the Government of the Democratic Republic of the Congo, expressed through the Ministry of…",
-  "i": "virus",
-  "m": []
- },
- {
-  "t": "Ghana Steps Up Emergency Preparedness with Africa CDC Support",
-  "u": "https://africacdc.org/news-item/ghana-steps-up-emergency-preparedness-with-africa-cdc-support/",
-  "d": "2026-10-03",
-  "df": "03 out 2026",
-  "f": "Africa CDC",
-  "fn": "Africa CDC | Notícias",
-  "e": "Internacional",
-  "a": [],
-  "p": 4.5,
-  "se": "2026-39",
-  "r": "Accra, Ghana, 2 October 2026 – The Africa Centres for Disease Control and Prevention (Africa CDC) is supporting Ghana to strengthen its Public Health Emergency Operations Centres (PHEOCs), which coordinate information, expertise and resources during health…",
-  "i": "alerta",
-  "m": []
- },
- {
   "t": "Communicable disease threats report, 26 September - 2 October, week 40",
   "u": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-26-september-2-october-week-40",
   "d": "2026-10-02",
@@ -1774,28 +1398,10 @@
    "Influenza por novo subtipo",
    "Doença pelo vírus Ebola"
   ],
-  "p": 5.5,
+  "p": 6.0,
   "se": "2026-39",
   "r": "This issue of the Communicable disease threats report (CDTR) covers the period 26 September - 2 October 2026, and includes updates on Crimean Congo haemorrhagic fever, Chikungunya virus disease, cholera, COVID-19, dengue, Ebola, avian influenza, seasonal…",
   "i": "virus",
-  "m": []
- },
- {
-  "t": "Health Ministers approve new regional strategy to prevent and control dengue and other arboviral diseases in the Americas",
-  "u": "https://www.paho.org/en/news/1-10-2026-health-ministers-approve-new-regional-strategy-prevent-and-control-dengue-and-other",
-  "d": "2026-10-01",
-  "df": "01 out 2026",
-  "f": "OPAS",
-  "fn": "OPAS | Notícias",
-  "e": "Américas",
-  "a": [
-   "Dengue",
-   "Arboviroses"
-  ],
-  "p": 7.5,
-  "se": "2026-39",
-  "r": "Health Ministers approve new regional strategy to prevent and control dengue and other arboviral diseases in the Americas Oscar Reyes 1 Oct 2026",
-  "i": "mosquito",
   "m": []
  },
  {
@@ -1830,23 +1436,6 @@
   "se": "2026-39",
   "r": "The report brings together surveillance data on hepatitis A from EU candidate countries.",
   "i": "virus",
-  "m": []
- },
- {
-  "t": "New food safety strategy aims to reduce the burden of foodborne diseases affecting 43 million people in the Americas",
-  "u": "https://www.paho.org/en/news/30-9-2026-new-food-safety-strategy-aims-reduce-burden-foodborne-diseases-affecting-43-million",
-  "d": "2026-09-30",
-  "df": "30 set 2026",
-  "f": "OPAS",
-  "fn": "OPAS | Notícias",
-  "e": "Américas",
-  "a": [
-   "Doenças transmitidas por alimentos e água"
-  ],
-  "p": 7.0,
-  "se": "2026-39",
-  "r": "New food safety strategy aims to reduce the burden of foodborne diseases affecting 43 million people in the Americas Oscar Reyes 30 Sep 2026",
-  "i": "agua",
   "m": []
  },
  {
@@ -1913,44 +1502,10 @@
   "a": [
    "Dengue"
   ],
-  "p": 5.5,
+  "p": 6.0,
   "se": "2026-39",
   "r": "Every month ECDC provides detailed epidemiological overview of the worldwide transmission of dengue in its weekly threat report (Communicable Diseases Threat Report).",
   "i": "mosquito",
-  "m": []
- },
- {
-  "t": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo",
-  "u": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON618",
-  "d": "2026-09-25",
-  "df": "25 set 2026",
-  "f": "OMS",
-  "fn": "OMS | Disease Outbreak News",
-  "e": "Internacional",
-  "a": [
-   "Doença pelo vírus Ebola"
-  ],
-  "p": 14.5,
-  "se": "2026-38",
-  "r": "Since the last Disease Outbreak News was published on 11 September 2026, the Bundibugyo virus outbreak in the Democratic Republic of the Congo has expanded further, with two additional health zones affected. These include Bulu health zone in a new province…",
-  "i": "virus",
-  "m": []
- },
- {
-  "t": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo",
-  "u": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON621",
-  "d": "2026-09-25",
-  "df": "25 set 2026",
-  "f": "OMS",
-  "fn": "OMS | Disease Outbreak News",
-  "e": "Internacional",
-  "a": [
-   "Doença pelo vírus Ebola"
-  ],
-  "p": 11.5,
-  "se": "2026-38",
-  "r": "Since the last Disease Outbreak News was published on 11 September 2026, the Bundibugyo virus outbreak in the Democratic Republic of the Congo has expanded further, with two additional health zones affected. These include Bulu health zone in a new province…",
-  "i": "virus",
   "m": []
  },
  {
@@ -1966,7 +1521,7 @@
    "Doença pelo vírus Ebola",
    "Febre do Nilo Ocidental"
   ],
-  "p": 5.5,
+  "p": 6.0,
   "se": "2026-38",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 19-25 September, and includes updates on respiratory virus epidemiology in the EU/EEA Ebola, ECDC expert deployment, West Nile Virus, Crimean-Congo haemorrhagic fever, dengue…",
   "i": "virus",
@@ -2017,7 +1572,7 @@
   "a": [
    "Doença pelo vírus Ebola"
   ],
-  "p": 4.5,
+  "p": 6.5,
   "se": "2026-38",
   "r": "This report describes the first 100 days of the 2026 Ebola outbreak in the Democratic Republic of the Congo compared to other Ebola outbreaks.",
   "i": "virus",
@@ -2036,7 +1591,7 @@
    "Influenza por novo subtipo",
    "Febres hemorrágicas virais"
   ],
-  "p": 5.5,
+  "p": 6.0,
   "se": "2026-37",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 12-18 September, and includes updates on Ebola, malaria, botulism, avian influenza A(H9N2), influenza A(H5), respiratory virus epidemiology in the EU/.EEA, West Nile virus…",
   "i": "virus",
@@ -2055,43 +1610,9 @@
    "Doença pelo vírus Ebola",
    "Febre do Nilo Ocidental"
   ],
-  "p": 5.5,
+  "p": 6.0,
   "se": "2026-36",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 5 -12 September, and includes updates on Ebola, an overview of respiratory virus epidemiology in the EU/EEA, West Nile virus, Crimean-Congo haemorrhagic fever, dengue…",
-  "i": "virus",
-  "m": []
- },
- {
-  "t": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo",
-  "u": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON617",
-  "d": "2026-09-10",
-  "df": "10 set 2026",
-  "f": "OMS",
-  "fn": "OMS | Disease Outbreak News",
-  "e": "Internacional",
-  "a": [
-   "Doença pelo vírus Ebola"
-  ],
-  "p": 14.5,
-  "se": "2026-36",
-  "r": "Since the last Disease Outbreak News was published on 28 August 2026, the Bundibugyo virus outbreak in the Democratic Republic of the Congo has expanded to one additional health zone, Kayna, in North Kivu. This increase brings the total number of affected…",
-  "i": "virus",
-  "m": []
- },
- {
-  "t": "Notes from the Field: Clinical Characteristics of Patients with Ebola Disease Caused by Bundibugyo Virus - Uganda, 2026",
-  "u": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766398",
-  "d": "2026-09-10",
-  "df": "10 set 2026",
-  "f": "CDC",
-  "fn": "CDC | MMWR",
-  "e": "Internacional",
-  "a": [
-   "Doença pelo vírus Ebola"
-  ],
-  "p": 4.5,
-  "se": "2026-36",
-  "r": "This report describes characteristics of Ebola cases reported in Uganda during the 2025 outbreak.",
   "i": "virus",
   "m": []
  },
@@ -2106,9 +1627,26 @@
   "a": [
    "Doença pelo vírus Ebola"
   ],
-  "p": 4.5,
+  "p": 6.5,
   "se": "2026-36",
   "r": "This report describes the ongoing Ebola outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo.",
+  "i": "virus",
+  "m": []
+ },
+ {
+  "t": "Notes from the Field: Clinical Characteristics of Patients with Ebola Disease Caused by Bundibugyo Virus - Uganda, 2026",
+  "u": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766398",
+  "d": "2026-09-10",
+  "df": "10 set 2026",
+  "f": "CDC",
+  "fn": "CDC | MMWR",
+  "e": "Internacional",
+  "a": [
+   "Doença pelo vírus Ebola"
+  ],
+  "p": 4.0,
+  "se": "2026-36",
+  "r": "This report describes characteristics of Ebola cases reported in Uganda during the 2025 outbreak.",
   "i": "virus",
   "m": []
  },
@@ -2125,26 +1663,9 @@
    "Febres hemorrágicas virais",
    "Doença pelo vírus Ebola"
   ],
-  "p": 5.5,
+  "p": 6.0,
   "se": "2026-35",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 29 August - 4 September, and includes updates on Ebola, SARS-CoV-2 variant classification, West Nile virus, Crimean-Congo haemorrhagic fever, dengue, chikungunya, vibrio…",
-  "i": "virus",
-  "m": []
- },
- {
-  "t": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo",
-  "u": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON616",
-  "d": "2026-08-28",
-  "df": "28 ago 2026",
-  "f": "OMS",
-  "fn": "OMS | Disease Outbreak News",
-  "e": "Internacional",
-  "a": [
-   "Doença pelo vírus Ebola"
-  ],
-  "p": 14.5,
-  "se": "2026-34",
-  "r": "Since the last Disease Outbreak News was published on 14 August 2026, the outbreak has spread from 54 to 60 health zones. The number of affected provinces stands at six out of 26 provinces of the country: Bas-Uélé, Haut-Uélé, Ituri, North Kivu, South Kivu…",
   "i": "virus",
   "m": []
  },
@@ -2161,7 +1682,7 @@
    "Febres hemorrágicas virais",
    "Doença pelo vírus Ebola"
   ],
-  "p": 5.5,
+  "p": 6.0,
   "se": "2026-34",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 22 - 28 August, and includes updates on diphtheria, Ebola, swine influenza A(H1N2), respiratory virus epidemiology, Crimean-Congo haemorrhagic fever, dengue, chikungunya virus…",
   "i": "virus",
@@ -2215,7 +1736,7 @@
    "Febres hemorrágicas virais",
    "Doença pelo vírus Ebola"
   ],
-  "p": 5.5,
+  "p": 6.0,
   "se": "2026-33",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 15-21 August 2026, and includes updates on Ebola, respiratory virus epidemiology in the EU/EEA, swine flu, West Nile virus, Crimean-Congo haemorrhagic fever, dengue…",
   "i": "virus",
@@ -2230,28 +1751,12 @@
   "fn": "ECDC | Epidemiological updates",
   "e": "Américas",
   "a": [
+   "Patógeno novo ou incomum em humanos",
    "Hantavirose"
   ],
-  "p": 12.5,
+  "p": 14.0,
   "se": "2026-33",
   "r": "On 6 August 2026, French public health authorities reported an imported case of Andes hantavirus infection in a traveller from Argentina.",
-  "i": "animal",
-  "m": []
- },
- {
-  "t": "Monkeypox Virus Surveillance - United States, 2024-2025",
-  "u": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766283",
-  "d": "2026-08-20",
-  "df": "20 ago 2026",
-  "f": "CDC",
-  "fn": "CDC | MMWR",
-  "e": "Américas",
-  "a": [
-   "Mpox"
-  ],
-  "p": 5.0,
-  "se": "2026-33",
-  "r": "This report describes cases of monkeypox virus infection reported during 2024-2025.",
   "i": "virus",
   "m": []
  },
@@ -2286,7 +1791,7 @@
    "Febres hemorrágicas virais",
    "Doença pelo vírus Ebola"
   ],
-  "p": 5.5,
+  "p": 6.0,
   "se": "2026-32",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 8 - 14 August 2026, and includes updates on Ebola, chikungunya, dengue, West Nile Virus infection, Crimean-Congo haemorrhagic fever, Vibrio, respiratory virus epidemiology in…",
   "i": "virus",
@@ -2322,26 +1827,9 @@
    "Doença pelo vírus Ebola",
    "Febre do Nilo Ocidental"
   ],
-  "p": 5.5,
+  "p": 6.0,
   "se": "2026-31",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 1 - 7 August 2026, and includes updates on Ebola, chikungunya, dengue, West Nile Virus infection, Crimean-Congo haemorrhagic fever, Vibrio, respiratory virus epidemiology in…",
-  "i": "virus",
-  "m": []
- },
- {
-  "t": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo",
-  "u": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON614",
-  "d": "2026-08-01",
-  "df": "01 ago 2026",
-  "f": "OMS",
-  "fn": "OMS | Disease Outbreak News",
-  "e": "Internacional",
-  "a": [
-   "Doença pelo vírus Ebola"
-  ],
-  "p": 14.5,
-  "se": "2026-30",
-  "r": "The Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo is intensifying, with sustained transmission and continued increases in reported cases and deaths. Initially confined to the Mongbwalu health zone in Ituri Province, over the…",
   "i": "virus",
   "m": []
  }
