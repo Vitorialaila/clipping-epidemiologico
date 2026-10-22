@@ -100,6 +100,7 @@ def gerar() -> None:
     shutil.copy(ASSETS / "img" / "logos.png", DOCS / "assets" / "logos.png")
     shutil.copy(ASSETS / "img" / "logos-transparente.png", DOCS / "assets" / "logos-transparente.png")
     shutil.copy(ASSETS / "img" / "favicon.png", DOCS / "assets" / "favicon.png")
+    shutil.copy(ASSETS / "img" / "favicon-cruz.png", DOCS / "assets" / "favicon-cruz.png")
     (DOCS / "assets" / "fonts").mkdir(exist_ok=True)
     for fonte in (ASSETS / "fonts").glob("Inter-*.woff2"):
         shutil.copy(fonte, DOCS / "assets" / "fonts" / fonte.name)
