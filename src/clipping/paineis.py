@@ -102,6 +102,9 @@ class PainelVigilancia:
                 margin=dict(l=50, r=50, t=70, b=50)
             )
 
+            if titulo_x == "Data":
+                fig.update_xaxes(tickformat="%d/%m/%Y", hoverformat="%d/%m/%Y")
+
             # Retornar dados em formato serializável
             fig_dict = fig.to_dict()
             return {

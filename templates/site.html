@@ -404,11 +404,6 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
   border: 1px solid var(--linha);
 }
 
-.painel-grafico svg {
-  width: 100% !important;
-  height: auto !important;
-}
-
 .painel-footer {
   display: flex;
   gap: 16px;
@@ -792,7 +787,7 @@ function renderizarGraficosPainel(idx) {
     const divId = painel.grafico_serie.div_id;
     const div = document.getElementById(divId);
     if (div) {
-      Plotly.newPlot(divId, painel.grafico_serie.data, painel.grafico_serie.layout, {responsive: true});
+      Plotly.newPlot(divId, painel.grafico_serie.data, painel.grafico_serie.layout, {responsive: true, displaylogo: false, modeBarButtonsToRemove: ['select2d', 'lasso2d', 'autoScale2d']});
     }
   }
 
@@ -801,7 +796,7 @@ function renderizarGraficosPainel(idx) {
     const divId = painel.grafico_distribuicao.div_id;
     const div = document.getElementById(divId);
     if (div) {
-      Plotly.newPlot(divId, painel.grafico_distribuicao.data, painel.grafico_distribuicao.layout, {responsive: true});
+      Plotly.newPlot(divId, painel.grafico_distribuicao.data, painel.grafico_distribuicao.layout, {responsive: true, displaylogo: false, modeBarButtonsToRemove: ['select2d', 'lasso2d', 'autoScale2d']});
     }
   }
 }

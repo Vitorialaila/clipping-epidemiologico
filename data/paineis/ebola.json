@@ -2,7 +2,7 @@
  "nome": "Ebola - RDC/Uganda",
  "sigla": "EBOLA",
  "descricao": "Surto de Ebola (Bundibugyo) em vigilância internacional",
- "atualizado_em": "2026-10-22T17:37:41.802093",
+ "atualizado_em": "2026-10-22T17:39:52.093801",
  "fonte_dados": "ECDC - Situação em tempo real",
  "serie_temporal": [
   {
@@ -899,7 +899,9 @@
    "xaxis": {
     "title": {
      "text": "Data"
-    }
+    },
+    "tickformat": "%d/%m/%Y",
+    "hoverformat": "%d/%m/%Y"
    },
    "yaxis": {
     "title": {
