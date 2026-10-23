@@ -42,6 +42,50 @@
   "termos_evento": []
  },
  {
+  "id": "6343851f237f52",
+  "titulo": "Shamonda: o que se sabe sobre vírus que infectou homem na França",
+  "url": "https://www.cnnbrasil.com.br/saude/virus-shamonda-o-que-se-sabe-sobre-doenca-que-infectou-homem-na-franca/",
+  "fonte_id": "cnn-brasil-saude",
+  "fonte": "CNN Brasil | Saúde",
+  "sigla": "CNN Brasil",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T13:24:56+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Patógeno novo ou incomum em humanos"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": []
+ },
+ {
+  "id": "a9e19703a0e0ab",
+  "titulo": "Aviso meteorológico ou Alerta? Entenda a diferença",
+  "url": "https://portal.inmet.gov.br/noticias/aviso-meteorológico-e-alerta-entenda-a-diferença",
+  "fonte_id": "inmet",
+  "fonte": "INMET | Notícias",
+  "sigla": "INMET",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T13:24:56+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "aviso meteorologico"
+  ]
+ },
+ {
   "id": "61831c0f2e2663",
   "titulo": "Mega-Sena acumula para R$ 230 milhões; confira os números sorteados",
   "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/mega-sena-acumula-para-r-230-milhoes-confira-os-numeros-sorteados",
@@ -94,6 +138,170 @@
   "se": "2026-42",
   "descricao": "",
   "coletado_em": "2026-10-23T07:30:13+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "6ba7ae683b76ba",
+  "titulo": "WHO and ENHYPEN join efforts to inspire young blood donors globally",
+  "url": "https://www.who.int/news/item/23-10-2026-who-and-enhypen-join-efforts-to-inspire-young-blood-donors-globally",
+  "fonte_id": "oms-noticias",
+  "fonte": "OMS | Notícias",
+  "sigla": "OMS",
+  "idioma": "en",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T13:24:56+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Internacional",
+  "termos_evento": []
+ },
+ {
+  "id": "f8f8f44bed14f0",
+  "titulo": "Aviso de Licitação do P.E. n.º 209/2026",
+  "url": "https://goias.gov.br/saude/aviso-de-licitacao-do-p-e-n-o-209-2026/",
+  "fonte_id": "ses-go",
+  "fonte": "SES-GO | Notícias",
+  "sigla": "SES-GO",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "PREGÃO ELETRÔNICO – PE SRP n. 209/2026 – SES PROCESSO n. 202600005022074. Número da Contratação – Sislog: 121374 O Estado de Goiás, por intermédio da SES – SECRETARIA DE ESTADO DA SAÚDE torna público, para conhecimento dos interessados, que realizará procedimento na modalidade Pregão Eletrônico – SRP n. 209/2026, tipo menor preço por Item, com […]",
+  "coletado_em": "2026-10-23T13:24:56+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "00918255835b27",
+  "titulo": "Na reta final, candidatos ao GDF avaliam última pesquisa Correio/Opinião",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525908-na-reta-final-candidatos-ao-gdf-avaliam-ultima-pesquisa-correio-opiniao.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T13:24:56+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "42e372fb3cef08",
+  "titulo": "Dupla esfaqueia jovem no Guará para roubar bike e segue foragida",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525945-dupla-esfaqueia-jovem-no-guara-para-roubar-bike-e-segue-foragida.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T13:24:56+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "a1ce0a3ae04fb3",
+  "titulo": "Empresa movimentou R$ 1,3 milhão do tráfico em 60 dias, diz PCDF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7526199-empresa-movimentou-rs-13-milhao-do-trafico-em-60-dias-diz-pcdf.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T13:24:56+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "1aa59368388979",
+  "titulo": "Saúde lidera prioridades dos eleitores para o próximo governo do DF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525638-saude-lidera-prioridades-dos-eleitores-para-o-proximo-governo-do-df.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T13:24:56+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "c41a11f63da6b7",
+  "titulo": "Farmácias ampliam serviços e passam a oferecer exames e vacinas",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525896-farmacias-ampliam-servicos-e-passam-a-oferecer-exames-e-vacinas.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T13:24:56+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "b93ad70b67d382",
+  "titulo": "Segurança pública aposta em uso de tecnologia no segundo turno",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525897-seguranca-publica-aposta-em-uso-de-tecnologia-no-segundo-turno.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T13:24:56+00:00",
   "municipios": [
    "Distrito Federal"
   ],
