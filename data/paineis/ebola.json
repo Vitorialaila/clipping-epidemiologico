@@ -1,8 +1,8 @@
 {
  "nome": "Ebola na RDC, 2026",
  "sigla": "EBOLA",
- "descricao": "Doença pelo vírus Bundibugyo na República Democrática do Congo. Casos e óbitos confirmados segundo o ECDC, até 19/10/2026.",
- "atualizado_em": "2026-10-23T10:26:36.906090",
+ "descricao": "Doença pelo vírus Bundibugyo na República Democrática do Congo. Casos e óbitos confirmados segundo o ECDC, até 21/10/2026.",
+ "atualizado_em": "2026-10-23T15:21:34.662065",
  "fonte_dados": "ECDC",
  "serie_temporal": [],
  "distribuicao_geografica": [],
@@ -11,24 +11,20 @@
  "aba": "Ebola",
  "kpis": [
   {
-   "valor": "9.552",
+   "valor": "9.704",
    "rotulo": "casos confirmados"
   },
   {
-   "valor": "4.602",
+   "valor": "4.687",
    "rotulo": "óbitos entre confirmados"
   },
   {
-   "valor": "48,2%",
+   "valor": "48,3%",
    "rotulo": "letalidade entre confirmados"
   },
   {
-   "valor": "66/178",
+   "valor": "n/d",
    "rotulo": "zonas de saúde afetadas (8 províncias)"
-  },
-  {
-   "valor": "8",
-   "rotulo": "casos confirmados no Quênia (1 óbito)"
   }
  ],
  "graficos": [
@@ -65,6 +61,9 @@
       ],
       [
        "ECDC, Ebola disease outbreak in the Democratic Republic of the Congo"
+      ],
+      [
+       "ECDC, Ebola disease outbreak in the Democratic Republic of the Congo"
       ]
      ],
      "hovertemplate": "%{x|%d/%m/%Y}<br><b>%{y:,}</b> casos confirmados<br><i>%{customdata[0]}</i><extra></extra>",
@@ -87,7 +86,8 @@
       "2026-09-30",
       "2026-10-07",
       "2026-10-15",
-      "2026-10-19"
+      "2026-10-19",
+      "2026-10-21"
      ],
      "y": [
       2124,
@@ -99,7 +99,8 @@
       8224,
       8728,
       9277,
-      9552
+      9552,
+      9704
      ],
      "type": "scatter"
     },
@@ -134,6 +135,9 @@
       ],
       [
        "ECDC, Ebola disease outbreak in the Democratic Republic of the Congo"
+      ],
+      [
+       "ECDC, Ebola disease outbreak in the Democratic Republic of the Congo"
       ]
      ],
      "hovertemplate": "%{x|%d/%m/%Y}<br><b>%{y:,}</b> óbitos entre confirmados<br><i>%{customdata[0]}</i><extra></extra>",
@@ -156,7 +160,8 @@
       "2026-09-30",
       "2026-10-07",
       "2026-10-15",
-      "2026-10-19"
+      "2026-10-19",
+      "2026-10-21"
      ],
      "y": [
       828,
@@ -168,7 +173,8 @@
       3982,
       4205,
       4478,
-      4602
+      4602,
+      4687
      ],
      "type": "scatter"
     }
@@ -1028,6 +1034,10 @@
       [
        "14/10 a 18/10",
        4
+      ],
+      [
+       "18/10 a 20/10",
+       2
       ]
      ],
      "hovertemplate": "%{customdata[0]} (%{customdata[1]} dias)<br><b>%{y:,}</b> novos casos por semana<extra></extra>",
@@ -1043,7 +1053,8 @@
       466560000.0,
       544320000.0,
       622080000.0,
-      311040000.0
+      311040000.0,
+      155520000.0
      ],
      "x": [
       "2026-07-25",
@@ -1054,7 +1065,8 @@
       "2026-09-26",
       "2026-10-02",
       "2026-10-10",
-      "2026-10-16"
+      "2026-10-16",
+      "2026-10-19"
      ],
      "y": [
       643,
@@ -1065,7 +1077,8 @@
       390,
       504,
       480,
-      481
+      481,
+      532
      ],
      "type": "bar"
     }
@@ -3710,10 +3723,8 @@
   }
  ],
  "notas": [
-  "Média de novos casos confirmados por semana: 481 entre 14/10 e 18/10, ante 480 entre 06/10 e 14/10 (+0%). Cálculo a partir dos acumulados publicados pelo ECDC.",
+  "Média de novos casos confirmados por semana: 532 entre 18/10 e 20/10, ante 481 entre 14/10 e 18/10 (+11%). Cálculo a partir dos acumulados publicados pelo ECDC.",
   "Expansão geográfica: as zonas de saúde afetadas passaram de 46 (16/07/2026) para 66 (19/10/2026), e as províncias com casos, de 5 para 8.",
-  "Quênia: 8 casos confirmados, incluindo 1 óbito (ECDC, até 19/10/2026); o primeiro caso foi importado da RDC.",
-  "Na última atualização do ECDC: 97 novos casos confirmados e 41 óbitos.",
   "Segundo o ECDC, os dados da RDC sobre casos e óbitos confirmados estão em revisão e harmonização contínuas."
  ],
  "fontes": [
@@ -3979,6 +3990,25 @@
    "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
    "captura": "automática",
    "capturado_em": "2026-10-22"
+  },
+  {
+   "data_referencia": "2026-10-21",
+   "casos": 9704,
+   "obitos": 4687,
+   "dados_ate": "2026-10-20",
+   "hospitalizados": null,
+   "recuperados": null,
+   "novos_casos": null,
+   "novos_obitos": null,
+   "provincias": null,
+   "zs_afetadas": null,
+   "zs_total": null,
+   "n_provincias": 8,
+   "quenia": null,
+   "fonte": "ECDC, Ebola disease outbreak in the Democratic Republic of the Congo",
+   "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+   "captura": "automática",
+   "capturado_em": "2026-10-23"
   }
  ]
 }
