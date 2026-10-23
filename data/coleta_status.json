@@ -1,8 +1,8 @@
 {
  "oms-don": {
-  "em": "2026-10-23T18:19:59+00:00",
+  "em": "2026-10-23T22:09:08+00:00",
   "lidos": 30,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo, Kenya and Nigeria",
    "Middle East respiratory syndrome coronavirus - Kingdom of Saudi Arabia",
@@ -10,9 +10,9 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-10-23T18:19:59+00:00",
+  "em": "2026-10-23T22:09:08+00:00",
   "lidos": 40,
-  "novos": 2,
+  "novos": 0,
   "exemplos": [
    "WHO launches working papers on traditional medicine",
    "WHO and ENHYPEN join efforts to inspire young blood donors globally",
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-10-23T18:19:59+00:00",
+  "em": "2026-10-23T22:09:08+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,17 +30,17 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-10-23T18:19:59+00:00",
+  "em": "2026-10-23T22:09:08+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "World Polio Day 2026: Americas mark 35 years free of wild poliovirus as vaccination gaps persist",
    "Childhood lead exposure remains a preventable health threat in the Americas",
-   "PAHO calls for strengthened surveillance and preparedness amid increases in dengue and chikungunya in the Americas",
-   "PAHO Director calls for country ownership and regional solidarity in reshaping global health architecture"
+   "PAHO calls for strengthened surveillance and preparedness amid increases in dengue and chikungunya in the Americas"
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-10-23T18:19:59+00:00",
+  "em": "2026-10-23T22:09:08+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,9 +50,9 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-10-23T18:19:59+00:00",
+  "em": "2026-10-23T22:09:08+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Ebola disease: Multi-country outbreak 2026",
    "Chikungunya virus disease worldwide overview",
@@ -60,9 +60,9 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-10-23T18:19:59+00:00",
+  "em": "2026-10-23T22:09:08+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Threat assessment brief – Importation of Ebola disease cases caused by Bundibugyo virus to Kenya and Nigeria",
    "Rapid outbreak assessment – Multi-country outbreak of Salmonella Bovismorbificans ST377 infections linked to the consump",
@@ -70,9 +70,9 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-10-23T18:19:59+00:00",
+  "em": "2026-10-23T22:09:08+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Importation of Ebola cases to Kenya and Nigeria: ECDC assesses the threat",
    "Respiratory infections season",
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-10-23T18:19:59+00:00",
+  "em": "2026-10-23T22:09:08+00:00",
   "lidos": 2345,
   "novos": 0,
   "exemplos": [
@@ -90,57 +90,51 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-10-23T18:19:59+00:00",
-  "lidos": 10,
-  "novos": 0,
-  "exemplos": [
-   "AU Member States Validate African Continental Health Data Governance Framework",
-   "Africa CDC and Ethiopian Airlines Join Forces to Connect Africa’s Public Health Community for CPHIA 2026",
-   "Ebola: Africa CDC réunit les ministres africains de la Santé face à l’extension de l’épidémie à trois régions du contine"
-  ]
+  "em": "2026-10-23T22:09:08+00:00",
+  "erro": "HTTPSConnectionPool(host='africacdc.org', port=443): Read timed out. (read timeout=30)"
  },
  "ms-noticias": {
-  "em": "2026-10-23T18:19:59+00:00",
+  "em": "2026-10-23T22:09:08+00:00",
   "lidos": 15,
-  "novos": 1,
+  "novos": 4,
   "exemplos": [
-   "Bahia: ambulâncias e carreta de saúde da mulher recebem visita técnica",
-   "Hospital Federal do Andaraí recebe certificação como unidade de ensino do SUS",
-   "Abertas inscrições para o EpiSUS Intermediário na Região Sudeste"
+   "Carreta de cardiologia do SUS chega a Guarulhos (SP) para oferta de atendimentos especializados",
+   "Fumaça das queimadas: saiba como proteger a sua saúde e onde buscar atendimento",
+   "El Niño e queimadas: Ministério da Saúde orienta profissionais sobre intoxicação por fumaça"
   ]
  },
  "fiocruz": {
-  "em": "2026-10-23T18:19:59+00:00",
-  "lidos": 10,
-  "novos": 3,
-  "exemplos": [
-   "Fiocruz tem 36 pesquisadores entre os mais citados do mundo",
-   "Nav. ed. pt Entrevista Outubro Rosa Câncer de Mama",
-   "Semana da Educação 2026 enaltece produção acadêmica e científica da Fiocruz"
-  ]
- },
- "agencia-brasil-saude": {
-  "em": "2026-10-23T18:19:59+00:00",
+  "em": "2026-10-23T22:09:08+00:00",
   "lidos": 10,
   "novos": 1,
   "exemplos": [
+   "Evento discute vigilância em saúde integrada no Cerrado",
+   "Fiocruz tem 36 pesquisadores entre os mais citados do mundo",
+   "Nav. ed. pt Entrevista Outubro Rosa Câncer de Mama"
+  ]
+ },
+ "agencia-brasil-saude": {
+  "em": "2026-10-23T22:09:08+00:00",
+  "lidos": 10,
+  "novos": 1,
+  "exemplos": [
+   "Mais Médicos Especialistas oferece 224 vagas imediatas em nova chamada",
    "Desinformação faz com que só 5% das crianças sejam protegidas da covid",
-   "Doença de Newcastle: protocolos sanitários são cumpridos em SC",
-   "Anvisa proíbe venda de teste de glicemia Accu-Check Active na Amazon"
+   "Doença de Newcastle: protocolos sanitários são cumpridos em SC"
   ]
  },
  "ses-go": {
-  "em": "2026-10-23T18:19:59+00:00",
+  "em": "2026-10-23T22:09:08+00:00",
   "lidos": 10,
-  "novos": 3,
+  "novos": 1,
   "exemplos": [
+   "Crer entrega 195 dispositivos ortopédicos em Goianápolis e região",
    "Goiás participa do 9º Encontro de Prefeitos por Municípios Saudáveis e Sustentáveis na Região das Américas e conhece exp",
-   "Hemocentro alerta para estoques críticos de sangue e reforça importância da doação",
-   "8ª CIB de 2026 debate ações de enfrentamento de doenças nos municípios"
+   "Hemocentro alerta para estoques críticos de sangue e reforça importância da doação"
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-10-23T18:19:59+00:00",
+  "em": "2026-10-23T22:09:08+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -150,17 +144,17 @@
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-10-23T18:19:59+00:00",
+  "em": "2026-10-23T22:09:08+00:00",
   "lidos": 26,
   "novos": 0,
   "exemplos": [
-   "Anvisa endurece regras para uso de polilaminina após registro de 9 mortes",
-   "Anvisa proíbe produtos de limpeza irregulares; confira as marcas atingidas",
-   "Entenda como funciona a nova vacina \"personalizada\" contra câncer de pele"
+   "Centro universitário em MG será o primeiro com cirurgia robótica pelo SUS",
+   "Anvisa endurece regras para uso de polilaminina após registro de 8 mortes",
+   "Anvisa proíbe produtos de limpeza irregulares; confira as marcas atingidas"
   ]
  },
  "cnn-saude": {
-  "em": "2026-10-23T18:19:59+00:00",
+  "em": "2026-10-23T22:09:08+00:00",
   "lidos": 18,
   "novos": 0,
   "exemplos": [
@@ -170,8 +164,8 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-10-23T18:19:59+00:00",
-  "lidos": 30,
+  "em": "2026-10-23T22:09:08+00:00",
+  "lidos": 29,
   "novos": 0,
   "exemplos": [
    "One US measles outbreak is proving particularly deadly. Here’s why",
@@ -180,7 +174,7 @@
   ]
  },
  "inmet": {
-  "em": "2026-10-23T18:19:59+00:00",
+  "em": "2026-10-23T22:09:08+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -190,7 +184,7 @@
   ]
  },
  "cemaden": {
-  "em": "2026-10-23T18:19:59+00:00",
+  "em": "2026-10-23T22:09:08+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -200,23 +194,23 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-10-23T18:19:59+00:00",
-  "lidos": 18,
-  "novos": 0,
+  "em": "2026-10-23T22:09:08+00:00",
+  "lidos": 21,
+  "novos": 5,
   "exemplos": [
-   "Autorizado repasse de R$ 1,8 milhão para ações de defesa civil",
-   "Autorizado repasse de R$ 19,2 milhões para ações de defesa civil",
-   "Reconhecida emergência em cinco cidades gaúchas afetadas por desastres"
+   "Autorizado repasse de R$ 1,2 milhão para ações de defesa civil",
+   "Reconhecida emergência em 28 cidades afetadas por desastres",
+   "Reconhecida emergência em 18 cidades afetadas por desastres"
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-10-23T18:19:59+00:00",
+  "em": "2026-10-23T22:09:08+00:00",
   "lidos": 20,
-  "novos": 11,
+  "novos": 8,
   "exemplos": [
-   "Na reta final, candidatos ao GDF avaliam última pesquisa Correio/Opinião",
-   "Dupla esfaqueia jovem no Guará para roubar bike e segue foragida",
-   "Família aguarda laudo para transportar corpo de enfermeira para o Brasil"
+   "Família aguarda laudo para transportar corpo de enfermeira para o Brasil",
+   "TRE-DF inicia envio de quase 7 mil urnas eletrônicas aos locais de votação",
+   "IDP se torna universidade e amplia autonomia para pesquisa e ensino"
   ]
  }
 }

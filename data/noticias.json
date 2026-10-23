@@ -49,6 +49,117 @@
   ]
  },
  {
+  "id": "bbd0d63a56eb1d",
+  "titulo": "Defesa Civil alerta para possibilidade de chuvas intensas em Linhares nesta sexta e sábado (24)",
+  "url": "https://linhares.es.gov.br/2026/10/23/defesa-civil-alerta-para-possibilidade-de-chuvas-intensas-em-linhares-nesta-sexta-e-sabado/",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Prefeitura Municipal de Linhares",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T22:09:08+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alerta para"
+  ]
+ },
+ {
+  "id": "1441df7395ffc1",
+  "titulo": "Defesa Civil alerta para tempestades e ventos fortes em Minas Gerais neste fim de semana",
+  "url": "https://www.agenciaminas.mg.gov.br/noticia/defesa-civil-alerta-para-tempestades-e-ventos-fortes-em-minas-gerais-neste-fim-de-semana",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Agência Minas",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T22:09:08+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alerta para"
+  ]
+ },
+ {
+  "id": "24ac1d332320fd",
+  "titulo": "World Polio Day 2026: Americas mark 35 years free of wild poliovirus as vaccination gaps persist",
+  "url": "https://www.paho.org/en/news/23-10-2026-world-polio-day-2026-americas-mark-35-years-free-wild-poliovirus-vaccination-gaps",
+  "fonte_id": "opas-noticias",
+  "fonte": "OPAS | Notícias",
+  "sigla": "OPAS",
+  "idioma": "en",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "World Polio Day 2026: Americas mark 35 years free of wild poliovirus as vaccination gaps persist Cristina Mitchell 23 Oct 2026",
+  "coletado_em": "2026-10-23T22:09:08+00:00",
+  "municipios": [],
+  "pontuacao": 9.0,
+  "agravos": [
+   "Poliomielite"
+  ],
+  "escopo": "Américas",
+  "termos_evento": []
+ },
+ {
+  "id": "35b8ee6061d6de",
+  "titulo": "Defesa Civil de SP renova alerta de temporais para domingo (25) e monta gabinete de crise",
+  "url": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-renova-alerta-para-domingo-25-e-coloca-todo-o-estado-de-sao-paulo-em-alerta-laranja/",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "agenciasp.sp.gov.br",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T22:09:08+00:00",
+  "municipios": [],
+  "pontuacao": 9.0,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "87fff0c9ea1423",
+  "titulo": "Defesa Civil renova alerta de temporais",
+  "url": "https://cidadeembudasartes.sp.gov.br/defesa-civil-renova-alerta-de-temporais/",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Prefeitura da Estância Turística de Embu das Artes",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T22:09:08+00:00",
+  "municipios": [],
+  "pontuacao": 9.0,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
   "id": "6c31770fab5251",
   "titulo": "Desinformação faz com que só 5% das crianças sejam protegidas da covid",
   "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/desinformacao-faz-com-que-so-5-das-criancas-sejam-protegidas-da-covid",
@@ -65,6 +176,27 @@
   "pontuacao": 8.0,
   "agravos": [
    "COVID-19"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "6c67137afef357",
+  "titulo": "El Niño e queimadas: Ministério da Saúde orienta profissionais sobre intoxicação por fumaça",
+  "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/el-nino-e-queimadas-ministerio-da-saude-orienta-profissionais-sobre-intoxicacao-por-fumaca",
+  "fonte_id": "ms-noticias",
+  "fonte": "Ministério da Saúde | Notícias",
+  "sigla": "MS",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T22:09:08+00:00",
+  "municipios": [],
+  "pontuacao": 8.0,
+  "agravos": [
+   "Saúde ambiental e clima"
   ],
   "escopo": "Brasil",
   "termos_evento": []
@@ -197,6 +329,50 @@
   ],
   "escopo": "Internacional",
   "termos_evento": []
+ },
+ {
+  "id": "ca775911bd0ac2",
+  "titulo": "Fumaça das queimadas: saiba como proteger a sua saúde e onde buscar atendimento",
+  "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/fumaca-das-queimadas-saiba-como-proteger-a-sua-saude-e-onde-buscar-atendimento",
+  "fonte_id": "ms-noticias",
+  "fonte": "Ministério da Saúde | Notícias",
+  "sigla": "MS",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T22:09:08+00:00",
+  "municipios": [],
+  "pontuacao": 5.0,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "5aea69621fc9b2",
+  "titulo": "Ministério da Saúde orienta gestores sobre vigilância em saúde de brigadistas florestais",
+  "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/ministerio-da-saude-orienta-gestores-sobre-vigilancia-em-saude-de-brigadistas-florestais",
+  "fonte_id": "ms-noticias",
+  "fonte": "Ministério da Saúde | Notícias",
+  "sigla": "MS",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T22:09:08+00:00",
+  "municipios": [],
+  "pontuacao": 4.0,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "vigilancia"
+  ]
  },
  {
   "id": "61831c0f2e2663",
@@ -788,6 +964,276 @@
   "agravos": [],
   "escopo": "DF",
   "termos_evento": []
+ },
+ {
+  "id": "536222659fb6be",
+  "titulo": "Carreta de cardiologia do SUS chega a Guarulhos (SP) para oferta de atendimentos especializados",
+  "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/carreta-de-cardiologia-do-sus-chega-a-guarulhos-sp-para-oferta-de-atendimentos-especializados",
+  "fonte_id": "ms-noticias",
+  "fonte": "Ministério da Saúde | Notícias",
+  "sigla": "MS",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T22:09:08+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "21f95ddf19ac03",
+  "titulo": "Evento discute vigilância em saúde integrada no Cerrado",
+  "url": "https://agencia.fiocruz.br/evento-discute-vigilancia-em-saude-integrada-no-cerrado",
+  "fonte_id": "fiocruz",
+  "fonte": "Agência Fiocruz de Notícias",
+  "sigla": "Fiocruz",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "Evento discute vigilância em saúde integrada no Cerrado",
+  "coletado_em": "2026-10-23T22:09:08+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "vigilancia"
+  ]
+ },
+ {
+  "id": "717fd99e38120f",
+  "titulo": "Mais Médicos Especialistas oferece 224 vagas imediatas em nova chamada",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/mais-medicos-especialistas-oferece-224-vagas-imediatas-em-nova-chamada",
+  "fonte_id": "agencia-brasil-saude",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "As inscrições para a segunda chamada do 3º ciclo do Projeto Mais Médicos Especialistas (PMM-E) estão abertas até o dia 29 de outubro. Os interessados devem se inscrever pelo Portal da Universidade Aberta do Sistema Único de Saúde (UNA-SUS) . A estratégia busca incentivar a presença de especialistas em regiões historicamente desassistidas, com o objetivo de ampliar o acesso à atenção especializada no Sistema Único de Saúde (SUS) e reduzir o tempo de espera por consultas, exames e procedimentos. Distribuição de vagas",
+  "coletado_em": "2026-10-23T22:09:08+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "4b536d601cfb55",
+  "titulo": "Crer entrega 195 dispositivos ortopédicos em Goianápolis e região",
+  "url": "https://goias.gov.br/saude/crer-entrega-195-dispositivos-ortopedicos-em-goianapolis-e-regiao/",
+  "fonte_id": "ses-go",
+  "fonte": "SES-GO | Notícias",
+  "sigla": "SES-GO",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "Oficina Ortopédica Itinerante do Governo de Goiás estará no município entre os dias 26 e 31 de outubro, beneficiando 146 pacientes de seis municípios goianos A Oficina Ortopédica Itinerante do Centro Estadual de Reabilitação e Readaptação Dr. Henrique Santillo (Crer), unidade da Secretaria de Estado da Saúde de Goiás (SES-GO), estará em Goianápolis entre os […]",
+  "coletado_em": "2026-10-23T22:09:08+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "532720065915c9",
+  "titulo": "IDP se torna universidade e amplia autonomia para pesquisa e ensino",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7526746-idp-se-torna-universidade-e-amplia-autonomia-para-pesquisa-e-ensino.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T22:09:08+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "cdb27c71bd3a28",
+  "titulo": "TRE-DF espera redução em número de ocorrências de propaganda irregular",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7526608-tre-df-espera-reducao-em-numero-de-ocorrencias-de-propaganda-irregular.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T22:09:08+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "b49b4d15efb0e5",
+  "titulo": "Obituário: 41 funerais nesta sexta-feira (23/10); confira lista",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7526665-obituario-41-funerais-nesta-sexta-feira-23-10-confira-lista.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T22:09:08+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "162f79760e8072",
+  "titulo": "Grass promete hospital, escolas e regularização no Sol Nascente",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7526643-grass-promete-hospital-escolas-e-regularizacao-no-sol-nascente.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T22:09:08+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "421e654514f5e0",
+  "titulo": "Celina anuncia concurso para bombeiros militares, caso seja reeleita",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7526638-celina-promete-concurso-dos-bombeiros-militares-mas-nao-preve-data.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T22:09:08+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "76bec78cf57246",
+  "titulo": "Grass promete priorizar saúde e rever benefícios fiscais em eventual governo",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7526320-grass-promete-priorizar-saude-e-rever-beneficios-fiscais-em-eventual-governo.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T22:09:08+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "db091939e35b7c",
+  "titulo": "Secretário de Segurança detalha mudanças em atos de Celina e Grass neste sábado",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7526596-secretario-de-seguranca-detalha-mudancas-em-atos-de-celina-e-grass-neste-sabado.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T22:09:08+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "19188178412fac",
+  "titulo": "Celina Leão destaca apoio a famílias atípicas em evento corporativo",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7526511-celina-leao-destaca-apoio-a-familias-atipicas-em-evento-corporativo.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T22:09:08+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "de9041d64aa82e",
+  "titulo": "Tempestades com queda de granizo e rajadas de vento atingem o Rio Grande do Sul entre quinta-feira (22) e sábado (24)",
+  "url": "https://www.estado.rs.gov.br/tempestades-com-queda-de-granizo-e-rajadas-de-vento-atingem-o-rio-grande-do-sul-entre-quinta-feira-22-e-sabado-24",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Portal do Estado do Rio Grande do Sul",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-22",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T22:09:08+00:00",
+  "municipios": [],
+  "pontuacao": 11.5,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "granizo"
+  ]
  },
  {
   "id": "bd27d8797e3266",
