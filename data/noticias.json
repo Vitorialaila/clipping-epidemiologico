@@ -1,5 +1,47 @@
 [
  {
+  "id": "003427ccc218e7",
+  "titulo": "What is Shamonda, the livestock virus found for the first time in a person in France?",
+  "url": "https://edition.cnn.com/2026/10/23/health/shamonda-virus-explainer",
+  "fonte_id": "cnn-saude",
+  "fonte": "CNN | Health",
+  "sigla": "CNN",
+  "idioma": "en",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T07:30:13+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Patógeno novo ou incomum em humanos"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": []
+ },
+ {
+  "id": "932759a38b2114",
+  "titulo": "What is Shamonda, the livestock virus found for the first time in a person in France?",
+  "url": "https://www.cnn.com/2026/10/23/health/shamonda-virus-explainer",
+  "fonte_id": "cnn-busca",
+  "fonte": "CNN",
+  "sigla": "CNN",
+  "idioma": "en",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T07:30:13+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Patógeno novo ou incomum em humanos"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": []
+ },
+ {
   "id": "61831c0f2e2663",
   "titulo": "Mega-Sena acumula para R$ 230 milhões; confira os números sorteados",
   "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/mega-sena-acumula-para-r-230-milhoes-confira-os-numeros-sorteados",
@@ -16,6 +58,48 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "ff9bccf811b9af",
+  "titulo": "\"Sem virada no DF\", apostam gestores do Opinião Inteligência Política",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525981-sem-virada-no-df-apostam-gestores-do-opiniao-inteligencia-politica.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T07:30:13+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "db771c2d00af76",
+  "titulo": "Grass promete tarifa zero gradual e ampliação da rede de saúde no DF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7526158-grass-promete-tarifa-zero-gradual-e-ampliacao-da-rede-de-saude-no-df.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T07:30:13+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
   "termos_evento": []
  },
  {
@@ -112,6 +196,29 @@
   ]
  },
  {
+  "id": "7691dd4ffdaf1e",
+  "titulo": "France reports first human case of livestock virus Shamonda after patient dies",
+  "url": "https://www.cnn.com/2026/10/22/europe/france-livestock-virys-shamonda-intl",
+  "fonte_id": "cnn-busca",
+  "fonte": "CNN",
+  "sigla": "CNN",
+  "idioma": "en",
+  "data": "2026-10-22",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T07:30:13+00:00",
+  "municipios": [],
+  "pontuacao": 8.5,
+  "agravos": [
+   "Patógeno novo ou incomum em humanos"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [
+   "human case"
+  ]
+ },
+ {
   "id": "f7647ea9a7b855",
   "titulo": "Doença de Newcastle: protocolos sanitários são cumpridos em SC",
   "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/doenca-de-newcastle-protocolos-sanitarios-sao-cumpridos-em-sc",
@@ -151,6 +258,27 @@
    "Saúde ambiental e clima"
   ],
   "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "33253bb90b4889",
+  "titulo": "‘Worst on record’: Brutal summer heat wave killed more than 50,000 in Europe’s cities",
+  "url": "https://www.cnn.com/2026/10/22/climate/europe-heat-wave-deaths-50000",
+  "fonte_id": "cnn-busca",
+  "fonte": "CNN",
+  "sigla": "CNN",
+  "idioma": "en",
+  "data": "2026-10-22",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T07:30:13+00:00",
+  "municipios": [],
+  "pontuacao": 4.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Internacional",
   "termos_evento": []
  },
  {
