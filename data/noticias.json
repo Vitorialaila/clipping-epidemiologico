@@ -1,5 +1,24 @@
 [
  {
+  "id": "61831c0f2e2663",
+  "titulo": "Mega-Sena acumula para R$ 230 milhões; confira os números sorteados",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/mega-sena-acumula-para-r-230-milhoes-confira-os-numeros-sorteados",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "Nenhum apostador acertou as seis dezenas do Concurso 3.073 da Mega-Sena, realizado nesta quinta-feira (22). O prêmio acumulou novamente e está estimado em R$ 230 milhões para o próximo sorteio. Os números sorteados são: 04 - 13 - 23 - 28 - 41 - 58 203 apostas acertaram cinco dezenas e irão receber R$ 23.138,67 cada 13.143 apostas acertaram quatro dezenas e irão receber R$ 510,55 cada Apostas",
+  "coletado_em": "2026-10-23T01:30:15+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
   "id": "bd27d8797e3266",
   "titulo": "InfoGripe: três estados têm incidência de SRAG em nível de alerta ou risco, com sinal de crescimento",
   "url": "https://agencia.fiocruz.br/infogripe-tres-estados-tem-incidencia-de-srag-em-nivel-de-alerta-ou-risco-com-sinal-de-crescimento",
@@ -1354,6 +1373,46 @@
   "termos_evento": []
  },
  {
+  "id": "42f0a3812ecbf0",
+  "titulo": "Hospital Federal do Andaraí recebe certificação como unidade de ensino do SUS",
+  "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/hospital-federal-do-andarai-recebe-certificacao-como-unidade-de-ensino-do-sus",
+  "fonte_id": "ms-noticias",
+  "fonte": "Ministério da Saúde | Notícias",
+  "sigla": "MS",
+  "idioma": "pt",
+  "data": "2026-10-22",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T01:30:15+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "70cd70bafa6596",
+  "titulo": "TJDFT mantém condenação por dupla tentativa de latrocínio",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7526067-tjdft-mantem-condenacao-por-dupla-tentativa-de-latrocinio.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-22",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T01:30:15+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
   "id": "d6e589646be149",
   "titulo": "Goiás reforça sobre a vigilância contra a poliomielite diante do risco de reintrodução da doença",
   "url": "https://goias.gov.br/saude/goias-reforca-sobre-a-vigilancia-contra-a-poliomielite-diante-do-risco-de-reintroducao-da-doenca/",
@@ -1637,6 +1696,27 @@
   "se": "2026-42",
   "descricao": "",
   "coletado_em": "2026-10-21T22:20:11+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Doença pelo vírus Ebola"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": []
+ },
+ {
+  "id": "d5973f0c7a6fb3",
+  "titulo": "Ebola has spread from Congo to 4 other countries. A look at where things stand",
+  "url": "https://edition.cnn.com/2026/10/21/health/ebola-kenya-congo-nigeria-uganda-france",
+  "fonte_id": "cnn-busca",
+  "fonte": "CNN",
+  "sigla": "CNN",
+  "idioma": "en",
+  "data": "2026-10-21",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-23T01:30:15+00:00",
   "municipios": [],
   "pontuacao": 6.5,
   "agravos": [
