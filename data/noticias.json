@@ -26,6 +26,30 @@
   ]
  },
  {
+  "id": "56cb716d26318d",
+  "titulo": "Defesa Civil alerta para possibilidade de temporais neste domingo (25)",
+  "url": "https://capivari.sp.gov.br/portal/defesa-civil-alerta-para-possibilidade-de-temporais-neste-domingo-25/",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Prefeitura de Capivari",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-24T00:40:51+00:00",
+  "municipios": [],
+  "pontuacao": 11.0,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alerta para"
+  ]
+ },
+ {
   "id": "b509946b92673d",
   "titulo": "Threat assessment brief – Importation of Ebola disease cases caused by Bundibugyo virus to Kenya and Nigeria",
   "url": "https://www.ecdc.europa.eu/en/publications-data/threat-assessment-brief-importation-ebola-disease-cases-caused-bundibugyo-virus",
@@ -1203,6 +1227,90 @@
   "se": "2026-42",
   "descricao": "",
   "coletado_em": "2026-10-23T22:09:08+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "332c71ba493350",
+  "titulo": "22° Prêmio Engenho homanageia finalistas em noite de festa",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7526928-22-premio-engenho-homanageia-finalistas-em-noite-de-festa.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-24T00:40:51+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "8dca920bc7e038",
+  "titulo": "Câmera mostra fuga de dupla que assaltou e esfaqueou adolescente",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7526730-camera-mostra-fuga-de-dupla-que-assaltou-e-esfaqueou-adolescente.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-24T00:40:51+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "6f51383445c46e",
+  "titulo": "Homem é preso por importunação sexual dentro de ônibus",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7526796-homem-e-preso-por-importunacao-sexual-dentro-de-onibus.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-24T00:40:51+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "e61bc3094c7bb2",
+  "titulo": "\"Ceilândia é grande, mas o povo sofre\", destaca Leandro Grass",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7526814-ceilandia-e-grande-mas-o-povo-sofre-destaca-leandro-grass.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-24T00:40:51+00:00",
   "municipios": [
    "Distrito Federal"
   ],
