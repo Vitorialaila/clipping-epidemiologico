@@ -357,6 +357,69 @@
   "termos_evento": []
  },
  {
+  "id": "0be26aba0274bb",
+  "titulo": "Atos pró-Celina/Flávio e pró-Grass/Lula mobilizam eleitores em Brasília",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527195-atos-pro-celina-flavio-e-pro-grass-lula-mobilizam-eleitores-em-brasilia.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-24",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-24T23:12:12+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "4c9fcb9d1c0162",
+  "titulo": "\"Brasília não é da direita, é dos direitos\", afirma Leandro Grass",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527193-brasilia-nao-e-da-direita-e-dos-direitos-afirma-leandro-grass.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-24",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-24T23:12:12+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "eca0381a71d47b",
+  "titulo": "Michelle Bolsonaro pede a apoiadores que não cedam a provocações em ato",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527172-michelle-bolsonaro-pede-a-apoiadores-que-nao-cedam-a-provocacoes-em-ato.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-24",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-24T23:12:12+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
   "id": "da9f539c100a84",
   "titulo": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo, Kenya and Nigeria",
   "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622",
