@@ -1,5 +1,26 @@
 [
  {
+  "id": "d1d2d4f69752b0",
+  "titulo": "Dia Mundial de Combate à Poliomielite: SP celebra 38 anos livre da doença",
+  "url": "https://www.cnnbrasil.com.br/saude/dia-mundial-de-combate-a-poliomielite-sp-celebra-38-anos-livre-da-doenca/",
+  "fonte_id": "cnn-brasil-saude",
+  "fonte": "CNN Brasil | Saúde",
+  "sigla": "CNN Brasil",
+  "idioma": "pt",
+  "data": "2026-10-24",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-24T10:57:22+00:00",
+  "municipios": [],
+  "pontuacao": 1.5,
+  "agravos": [
+   "Poliomielite"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": []
+ },
+ {
   "id": "a8ef4ad0b1bf06",
   "titulo": "Proteção da Esplanada será ampliada, informa secretário de Segurança",
   "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7526733-protecao-da-esplanada-sera-ampliada-informa-secretario-de-seguranca.html",
@@ -12,6 +33,90 @@
   "se": "2026-42",
   "descricao": "",
   "coletado_em": "2026-10-24T05:51:07+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "03987094c06e7e",
+  "titulo": "Reação alérgica alimentar: quais os sintomas e o que fazer",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7526604-reacao-alergica-alimentar-quais-os-sintomas-e-o-que-fazer.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-24",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-24T10:57:22+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "25a764d1ee3628",
+  "titulo": "Do controle ao comando: jovens do DF criam seus próprios games",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7526792-do-controle-ao-comando-jovens-do-df-criam-seus-proprios-games.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-24",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-24T10:57:22+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "0eca5a599f1aa7",
+  "titulo": "Quais são as principais dúvidas dos eleitores para o segundo turno?",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7526931-quais-sao-as-principais-duvidas-dos-eleitores-para-o-segundo-turno.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-24",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-24T10:57:22+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "a9aaf1011b520f",
+  "titulo": "TRE-DF prevê menos ocorrências de crimes eleitorais no segundo turno",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7526652-tre-df-preve-menos-ocorrencias-de-crimes-eleitorais-no-segundo-turno.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-24",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-24T10:57:22+00:00",
   "municipios": [
    "Distrito Federal"
   ],
