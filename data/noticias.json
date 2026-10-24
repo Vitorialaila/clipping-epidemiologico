@@ -168,6 +168,111 @@
   "termos_evento": []
  },
  {
+  "id": "8c6e3a4b9f1724",
+  "titulo": "Cartórios lançam ferramenta que permite pesquisar imóveis no país",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/cartorios-lancam-ferramenta-que-permite-pesquisar-imoveis-no-pais",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-24",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "Já é possível pesquisar informações relacionadas ao vínculo de CPFs e CNPJs a imóveis nos mais de 3,6 mil Registros de Imóveis dos 26 estados e do Distrito Federal. Lançada neste mês, a Pesquisa Nacional de Bens está disponível na plataforma eletrônica oficial que reúne todos os cartórios de Registro de Imóveis do Brasil em um só lugar, o RI Digital . Segundo o Operador Nacional do Sistema de Registro Eletrônico de Imóveis (ONR), a novidade é a evolução de um serviço eletrônico que já permitia buscas patrimoniais, mas era limitado a dez unidades da federação. A ferramenta anterior teve mais de 4,3 milhões de consultas desde 2021, sendo 1,14 milhão somente em 2025 e mais de 800 mil nos primeiros oito meses deste ano. Agora, com a incorporação dos demais estados, a pesquisa passa a ter abrangência nacional.",
+  "coletado_em": "2026-10-24T18:08:08+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "67f1e79ebfd99a",
+  "titulo": "Apoiadores e políticos aliados chegam para última carreata de Celina Leão",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527064-apoiadores-e-politicos-aliados-chegam-para-ultima-carreata-de-celina-leao.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-24",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-24T18:08:08+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "f1e7edef9a9b43",
+  "titulo": "Leandro Grass agradece apoio de eleitores em último dia de campanha",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527082-leandro-grass-agradece-apoio-de-eleitores-em-ultimo-dia-de-campanha.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-24",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-24T18:08:08+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "c4cae713904c0d",
+  "titulo": "Em último dia de campanha, Celina se diz otimista para resultado da eleição",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527074-em-ultimo-dia-de-campanha-celina-se-diz-otimista-para-resultado-da-eleicao.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-24",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-24T18:08:08+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "c4fd6a68d57fbc",
+  "titulo": "Leandro Grass caminha pelo Taguacenter e promete revitalização do comércio",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527069-leandro-grass-caminha-pelo-taguacenter-e-promete-revitalizacao-do-comercio.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-24",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-24T18:08:08+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
   "id": "da9f539c100a84",
   "titulo": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo, Kenya and Nigeria",
   "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622",
