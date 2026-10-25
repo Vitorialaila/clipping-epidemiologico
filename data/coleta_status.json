@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-10-25T11:24:36+00:00",
+  "em": "2026-10-25T16:15:45+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,7 +10,7 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-10-25T11:24:36+00:00",
+  "em": "2026-10-25T16:15:45+00:00",
   "lidos": 40,
   "novos": 0,
   "exemplos": [
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-10-25T11:24:36+00:00",
+  "em": "2026-10-25T16:15:45+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-10-25T11:24:36+00:00",
+  "em": "2026-10-25T16:15:45+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-10-25T11:24:36+00:00",
+  "em": "2026-10-25T16:15:45+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-10-25T11:24:36+00:00",
+  "em": "2026-10-25T16:15:45+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-10-25T11:24:36+00:00",
+  "em": "2026-10-25T16:15:45+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-10-25T11:24:36+00:00",
+  "em": "2026-10-25T16:15:45+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-10-25T11:24:36+00:00",
+  "em": "2026-10-25T16:15:45+00:00",
   "lidos": 2345,
   "novos": 0,
   "exemplos": [
@@ -90,17 +90,17 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-10-25T11:24:36+00:00",
+  "em": "2026-10-25T16:15:45+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Africa CDC Supports the AUC Chairperson’s Call for the Immediate and Unconditional Lifting of Unilateral Sanctions again",
-   "AU Member States Validate African Continental Health Data Governance Framework",
+   "Africa CDC et Ethiopian Airlines s’unissent pour faciliter la participation de la communauté africaine de santé publique",
    "Africa CDC and Ethiopian Airlines Join Forces to Connect Africa’s Public Health Community for CPHIA 2026"
   ]
  },
  "ms-noticias": {
-  "em": "2026-10-25T11:24:36+00:00",
+  "em": "2026-10-25T16:15:45+00:00",
   "lidos": 15,
   "novos": 0,
   "exemplos": [
@@ -110,7 +110,7 @@
   ]
  },
  "fiocruz": {
-  "em": "2026-10-25T11:24:36+00:00",
+  "em": "2026-10-25T16:15:45+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -120,17 +120,17 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-10-25T11:24:36+00:00",
+  "em": "2026-10-25T16:15:45+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "Mudanças climáticas já causam aumento de doenças infecciosas no país",
    "Mais Médicos Especialistas oferece 224 vagas imediatas em nova chamada",
-   "Desinformação faz com que só 5% das crianças sejam protegidas da covid",
-   "Doença de Newcastle: protocolos sanitários são cumpridos em SC"
+   "Desinformação faz com que só 5% das crianças sejam protegidas da covid"
   ]
  },
  "ses-go": {
-  "em": "2026-10-25T11:24:36+00:00",
+  "em": "2026-10-25T16:15:45+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -140,17 +140,17 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-10-25T11:24:36+00:00",
+  "em": "2026-10-25T16:15:45+00:00",
   "lidos": 10,
   "novos": 1,
   "exemplos": [
+   "Gol nega cancelamento de voos em massa para o Nordeste",
    "Mega-Sena acumula, e próximo prêmio será de R$ 300 milhões",
-   "Cartórios lançam ferramenta que permite pesquisar imóveis no país",
-   "Mega-Sena sorteia prêmio acumulado em R$ 230 milhões neste sábado"
+   "Cartórios lançam ferramenta que permite pesquisar imóveis no país"
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-10-25T11:24:36+00:00",
+  "em": "2026-10-25T16:15:45+00:00",
   "lidos": 25,
   "novos": 0,
   "exemplos": [
@@ -160,7 +160,7 @@
   ]
  },
  "cnn-saude": {
-  "em": "2026-10-25T11:24:36+00:00",
+  "em": "2026-10-25T16:15:45+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -170,8 +170,8 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-10-25T11:24:36+00:00",
-  "lidos": 25,
+  "em": "2026-10-25T16:15:45+00:00",
+  "lidos": 23,
   "novos": 0,
   "exemplos": [
    "One US measles outbreak is proving particularly deadly. Here’s why",
@@ -180,7 +180,7 @@
   ]
  },
  "inmet": {
-  "em": "2026-10-25T11:24:36+00:00",
+  "em": "2026-10-25T16:15:45+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -190,7 +190,7 @@
   ]
  },
  "cemaden": {
-  "em": "2026-10-25T11:24:36+00:00",
+  "em": "2026-10-25T16:15:45+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -200,9 +200,9 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-10-25T11:24:36+00:00",
-  "lidos": 26,
-  "novos": 0,
+  "em": "2026-10-25T16:15:45+00:00",
+  "lidos": 27,
+  "novos": 1,
   "exemplos": [
    "Autorizado repasse de R$ 1,2 milhão para ações de defesa civil",
    "Autorizado repasse de R$ 19,2 milhões para ações de defesa civil",
@@ -210,13 +210,13 @@
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-10-25T11:24:36+00:00",
+  "em": "2026-10-25T16:15:45+00:00",
   "lidos": 20,
-  "novos": 4,
+  "novos": 11,
   "exemplos": [
-   "Atos pró-Celina/Flávio e pró-Grass/Lula mobilizam eleitores em Brasília",
-   "Michelle Bolsonaro pede a apoiadores que não cedam a provocações em ato",
-   "Emoções, propostas e esperança: a rotina da campanha de Leandro Grass"
+   "Emoções, propostas e esperança: a rotina da campanha de Leandro Grass",
+   "Eleitores enfrentam filas nas primeiras horas de votação no SIG e Lago Norte",
+   "Operação do TRE-DF apreende mais de 1,1 mil itens de propaganda irregular"
   ]
  }
 }

@@ -1,5 +1,29 @@
 [
  {
+  "id": "c55105641d65ac",
+  "titulo": "Mudanças climáticas já causam aumento de doenças infecciosas no país",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/mudancas-climaticas-ja-causam-aumento-de-doencas-infecciosas-no-pais",
+  "fonte_id": "agencia-brasil-saude",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "Desde a década de 1980, o Brasil registra surtos comprovados de dengue, mas só em 2007 o Rio Grande do Sul teve um caso que não tenha sido importado de outra parte do país. A explicação é simples: como o mosquito Aedes aegypti , que transmite a doença, vive melhor em regiões quentes e úmidas, o clima funcionava como uma barreira de proteção. Essa defesa natural ficou no passado. Em 2024, ano em que o Brasil registrou um número recorde de casos da doença, o Rio Grande do Sul teve quase 210 mil infecções confirmadas e 281 mortes.",
+  "coletado_em": "2026-10-25T16:15:45+00:00",
+  "municipios": [],
+  "pontuacao": 9.0,
+  "agravos": [
+   "Dengue",
+   "Arboviroses"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "surtos"
+  ]
+ },
+ {
   "id": "a74cf2229714b2",
   "titulo": "Crânio humano é encontrado atrás de igreja no Lago Norte",
   "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527257-cranio-humano-e-encontrado-atras-de-igreja-no-lago-norte.html",
@@ -134,6 +158,256 @@
   "se": "2026-43",
   "descricao": "",
   "coletado_em": "2026-10-25T11:24:36+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "c13835316a4bc8",
+  "titulo": "Gol nega cancelamento de voos em massa para o Nordeste",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/gol-nega-cancelamento-de-voos-em-massa-para-o-nordeste",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "Diversas denúncias publicadas nas redes sociais neste sábado (25) acusaram a companhia aérea Gol de ter cancelado voos em massa que sairiam de Porto Alegre para o Nordeste transportando centenas de eleitores. A empresa negou os cancelamentos em massa e afirmou que apenas um voo, com destino a Salvador, foi cancelado no Aeroporto Salgado Filho, em Porto Alegre. Em nota oficial, a companhia informou que “a aeronave do voo G3 1979, entre Porto Alegre e Salvador, deste sábado (24), apresentou problemas técnicos e, por consequência, o voo foi cancelado”.",
+  "coletado_em": "2026-10-25T16:15:45+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "4bc812fe3b6404",
+  "titulo": "Eleitores enfrentam filas nas primeiras horas de votação no SIG e Lago Norte",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527303-eleitores-enfrentam-filas-nas-primeiras-horas-de-votacao-no-sig-e-lago-norte.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-25T16:15:45+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "d46ebe3469dd30",
+  "titulo": "Operação do TRE-DF apreende mais de 1,1 mil itens de propaganda irregular",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527401-operacao-do-tre-df-apreende-mais-de-11-mil-itens-de-propaganda-irregular.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-25T16:15:45+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "1712311f245613",
+  "titulo": "Mesária é detida sob suspeita de fazer boca de urna no Gama",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527376-mesaria-e-detida-sob-suspeita-de-fazer-boca-de-urna-no-gama.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-25T16:15:45+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "d221f0ed6681b6",
+  "titulo": "\"Quero exercer o direito de votar\", afirma eleitora no CEF Vila Areal",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527370-quero-exercer-o-direito-de-votar-afirma-eleitora-no-cef-vila-areal.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-25T16:15:45+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "094e1ff546a0ff",
+  "titulo": "Michelle diz que Jair Bolsonaro está \"esperançoso\" com as eleições",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527369-michelle-diz-que-jair-bolsonaro-esta-esperancoso-com-as-eleicoes.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-25T16:15:45+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "666054ffe30b2c",
+  "titulo": "Ao votar no Guará, Leandro Grass diz ter feito \"uma campanha limpa\"",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527361-ao-votar-no-guara-leandro-grass-diz-ter-feito-uma-campanha-limpa.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-25T16:15:45+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "8ddfb861020ddb",
+  "titulo": "Confusão entre fiscais e apoiadores de Celina marcam votação da candidata; vídeo",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527356-confusao-entre-fiscais-e-apoiadores-de-celina-marcam-votacao-da-candidata.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-25T16:15:45+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "171fa560bf5cf3",
+  "titulo": "Segundo turno no DF registra troca de 5 urnas na manhã deste domingo",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527343-segundo-turno-no-df-registra-troca-de-5-urnas-na-manha-deste-domingo.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-25T16:15:45+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "d101200bc7f23e",
+  "titulo": "\"Estamos confiantes\", diz Celina Leão durante votação no Lago Norte",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527334-estamos-confiantes-diz-celina-leao-durante-votacao-no-lago-norte.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-25T16:15:45+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "db9e4e53547c70",
+  "titulo": "Presidente do TRE-DF reforça a importância do voto durante teste nas urnas",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527299-presidente-do-tre-df-reforca-a-importancia-do-voto-neste-domingo.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-25T16:15:45+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "6e2ef526459d3c",
+  "titulo": "Câncer de mama: direitos e benefícios que amparam pacientes no tratamento",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522414-cancer-de-mama-direitos-e-beneficios-que-amparam-pacientes-no-tratamento.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-25T16:15:45+00:00",
   "municipios": [
    "Distrito Federal"
   ],
@@ -607,6 +881,30 @@
    "confirmed cases",
    "deaths",
    "surveillance"
+  ]
+ },
+ {
+  "id": "b10870776bb575",
+  "titulo": "Defesa Civil alerta para calor de até 34°C e baixa umidade neste fim de semana",
+  "url": "https://www.pmvc.ba.gov.br/defesa-civil-alerta-para-calor-de-ate-34c-e-baixa-umidade-neste-fim-de-semana/",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Prefeitura Municipal de Vitória da Conquista - PMVC",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-25T16:15:45+00:00",
+  "municipios": [],
+  "pontuacao": 12.0,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "baixa umidade",
+   "alerta para"
   ]
  },
  {
