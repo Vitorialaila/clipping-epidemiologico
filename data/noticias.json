@@ -501,6 +501,237 @@
   "termos_evento": []
  },
  {
+  "id": "a7ddf5861fb078",
+  "titulo": "Eleitores relatam impedimento para votar após prorrogação de votação",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527542-eleitores-relatam-impedimento-para-votar-apos-prorrogacao-de-votacao.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-25T21:46:20+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "19b2b421585980",
+  "titulo": "Eleitora encontra La Salle fechado após STF prorrogar votação",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527547-eleitora-encontra-la-salle-fechado-apos-stf-prorrogar-votacao.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-25T21:46:20+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "bde01be39abd14",
+  "titulo": "Distrito Federal não terá ampliação do horário de votação",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527522-distrito-federal-nao-tera-ampliacao-do-horario-de-votacao.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-25T21:46:20+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "6c75bb5e077d42",
+  "titulo": "Prorrogação da votação gera dúvida entre mesários em colégio na Asa Norte",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527503-prorrogacao-da-votacao-gera-duvida-entre-mesarios-em-colegio-na-asa-norte.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-25T21:46:20+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "0b02518d025121",
+  "titulo": "Jovens estreiam nas urnas e esperam mudanças na educação e na saúde",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527504-jovens-estreiam-nas-urnas-e-esperam-mudancas-na-educacao-e-na-saude.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-25T21:46:20+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "27faf28319f0f4",
+  "titulo": "TRE apura adulteração com cola na tecla 3 de urna e registra 53 ocorrências",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527492-tre-apura-adulteracao-com-cola-na-tecla-3-de-urna-e-registra-53-ocorrencias.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-25T21:46:20+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "1feeb822ae468a",
+  "titulo": "Reta final da votação no DF tem clima tranquilo em colégio da Asa Norte",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527497-reta-final-da-votacao-no-df-tem-clima-tranquilo-em-colegio-da-asa-norte.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-25T21:46:20+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "6f2786ff965a49",
+  "titulo": "Eleitores com mais de 70 anos mantêm compromisso com o voto em Águas Claras",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527487-eleitores-com-mais-de-70-anos-mantem-compromisso-com-o-voto-em-aguas-claras.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-25T21:46:20+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "e3cbc85d479296",
+  "titulo": "Jovens eleitores do Varjão divergem sobre influência das redes",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527484-jovens-eleitores-do-varjao-divergem-sobre-influencia-das-redes.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-25T21:46:20+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "3623477b70cc08",
+  "titulo": "Com entrada gratuita, SESI Lab celebra a Semana de Ciência e Tecnologia",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527474-com-entrada-gratuita-sesi-lab-celebra-a-semana-de-ciencia-e-tecnologia.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-25T21:46:20+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "024528e224c583",
+  "titulo": "Cidadania não envelhece: idosos optam pelo voto e vão às urnas no DF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527465-cidadania-nao-envelhece-idosos-optam-pelo-voto-e-vao-as-urnas-no-df.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-25T21:46:20+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
   "id": "d1d2d4f69752b0",
   "titulo": "Dia Mundial de Combate à Poliomielite: SP celebra 38 anos livre da doença",
   "url": "https://www.cnnbrasil.com.br/saude/dia-mundial-de-combate-a-poliomielite-sp-celebra-38-anos-livre-da-doenca/",
