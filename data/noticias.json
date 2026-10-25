@@ -417,6 +417,90 @@
   "termos_evento": []
  },
  {
+  "id": "534d571a1f90da",
+  "titulo": "Eleitores de Planaltina avaliam transporte público no domingo de votação",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527433-eleitores-de-planaltina-avaliam-transporte-publico-no-domingo-de-votacao.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-25T19:05:06+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "ac0e898e894660",
+  "titulo": "\"Tranquilos de que estamos do lado certo\" diz Marcela Sá, mulher de Grass",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527419-tranquilos-de-que-estamos-do-lado-certo-diz-marcela-sa-mulher-de-grass.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-25T19:05:06+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "14378a4d74db8d",
+  "titulo": "Votação transcorre com tranquilidade no CEM 01 de Planaltina",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527408-votacao-transcorre-com-tranquilidade-no-cem-01-de-planaltina.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-25T19:05:06+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "98d6eee2af5218",
+  "titulo": "Clima tranquilo e filas pequenas marcam manhã de votação no Colégio Santo Elias, em Sobradinho",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527395-clima-tranquilo-e-filas-pequenas-marcam-manha-de-votacao-no-colegio-santo-elias-em-sobradinho.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-25T19:05:06+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
   "id": "d1d2d4f69752b0",
   "titulo": "Dia Mundial de Combate à Poliomielite: SP celebra 38 anos livre da doença",
   "url": "https://www.cnnbrasil.com.br/saude/dia-mundial-de-combate-a-poliomielite-sp-celebra-38-anos-livre-da-doenca/",
