@@ -1,0 +1,701 @@
+{
+ "titulo": "Clipping Epidemiológico",
+ "subtitulo": "Sala de Situação de Saúde - UnB | Residência de Vigilância em Saúde",
+ "instituicoes": [
+  "Sala de Situação de Saúde - UnB",
+  "Residência de Vigilância em Saúde"
+ ],
+ "rodape": "",
+ "se_codigo": "2026-42",
+ "se_numero": "42",
+ "se_ano": 2026,
+ "rotulo": "SE 42/2026",
+ "periodo": "18 a 24 de outubro de 2026",
+ "data_geracao": "25 de outubro de 2026",
+ "gerado_em": "2026-10-25T11:26:34+00:00",
+ "panorama": "",
+ "principal": {
+  "ancora": "n1",
+  "titulo": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo, Kenya and Nigeria",
+  "titulo_original": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo, Kenya and Nigeria",
+  "resumo": "Since the previous Disease Outbreak News was published on 8 October 2026, additional confirmed cases and deaths have been reported in the Democratic Republic of the Congo. Cases have been reported in five countries since the declaration of the outbreak on 15 May 2026: the Democratic Republic of the Congo, Uganda, France, and more recently, Kenya and Nigeria. Nigeria is the fifth country affected by the ongoing outbreak, highlighting the continued risk of cross-border transmission.",
+  "local": "",
+  "agravo": "Doença pelo vírus Ebola",
+  "escopo": "Internacional",
+  "fonte": "OMS | Disease Outbreak News",
+  "sigla": "OMS",
+  "data": "2026-10-23",
+  "data_fmt": "23 out 2026",
+  "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622",
+  "dominio": "who.int",
+  "nota_ia": null,
+  "pontuacao": 14.5,
+  "n": 1,
+  "paises": [
+   "COG",
+   "KEN",
+   "NGA",
+   "UGA",
+   "FRA"
+  ],
+  "uf": "",
+  "icone": "virus",
+  "visual": {
+   "tipo": "mapa",
+   "src": "edicoes/img/SE42-2026/n1.svg"
+  }
+ },
+ "secoes": [
+  {
+   "escopo": "DF",
+   "nome": "Distrito Federal",
+   "itens": [
+    {
+     "ancora": "n2",
+     "titulo": "Moradores da 26 de Setembro voltam a enfrentar alagamentos após obra na Rua 2",
+     "titulo_original": "Moradores da 26 de Setembro voltam a enfrentar alagamentos após obra na Rua 2",
+     "resumo": "Moradores da Colônia Agrícola 26 de Setembro, no Distrito Federal, enfrentaram novo alagamento neste domingo (18/10), um dia depois da forte chuva que já havia tomado ruas da região. Segundo relatos, a situação se repetiu, e a Rua 2 foi um dos pontos mais afetados. De acordo com moradores, nesse sábado (17/10), equipes que realizam serviços de asfaltamento no local passaram um trator pela via e informaram que a rua seria rebaixada para evitar novos alagamentos. A obra, porém, ocorreu pouco antes da chuva, e, segundo os relatos, o cenário piorou durante o temporal.",
+     "local": "Brasil",
+     "agravo": "Emergências e desastres",
+     "escopo": "DF",
+     "fonte": "Correio Braziliense | Cidades DF",
+     "sigla": "Correio Braziliense",
+     "data": "2026-10-18",
+     "data_fmt": "18 out 2026",
+     "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522924-moradores-da-26-de-setembro-voltam-a-enfrentar-alagamentos-apos-obra-na-rua-2.html",
+     "dominio": "correiobraziliense.com.br",
+     "nota_ia": null,
+     "pontuacao": 14.5,
+     "n": 2,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "DF",
+     "icone": "desastre",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE42-2026/n2.svg"
+     }
+    },
+    {
+     "ancora": "n9",
+     "titulo": "Criança de 5 anos é picada por escorpião no Zoológico de Brasília",
+     "titulo_original": "Criança de 5 anos é picada por escorpião no Zoológico de Brasília",
+     "resumo": "Uma criança de 5 anos foi picada por um escorpião nesta manhã de quinta-feira (22), no Zoológico de Brasília. Segundo a administração do parque, a vítima visitava o local em um passeio de escola quando o animal foi encontrado dentro do sapato da vítima, que havia trazido de casa. Os brigadistas que estavam no local prestaram atendimento à criança, verificando os sinais vitais e acolhendo para mantê-la calma. Segundo o Zoológico de Brasília, a vítima apresentava um quadro estável e estava bem. Fique por dentro das notÃcias que importam para vocÃª!",
+     "local": "Brasil",
+     "agravo": "Acidentes por animais peçonhentos",
+     "escopo": "DF",
+     "fonte": "Correio Braziliense | Cidades DF",
+     "sigla": "Correio Braziliense",
+     "data": "2026-10-22",
+     "data_fmt": "22 out 2026",
+     "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525838-crianca-de-5-anos-e-picada-por-escorpiao-no-zoologico-de-brasilia.html",
+     "dominio": "correiobraziliense.com.br",
+     "nota_ia": null,
+     "pontuacao": 9.5,
+     "n": 9,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "DF",
+     "icone": "animal",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE42-2026/n9.svg"
+     }
+    }
+   ]
+  },
+  {
+   "escopo": "Brasil",
+   "nome": "Brasil",
+   "itens": [
+    {
+     "ancora": "n3",
+     "titulo": "Goiás reforça sobre a vigilância contra a poliomielite diante do risco de reintrodução da doença",
+     "titulo_original": "Goiás reforça sobre a vigilância contra a poliomielite diante do risco de reintrodução da doença",
+     "resumo": "Estado mobiliza profissionais de saúde para fortalecer a vigilância da Paralisia Flácida Aguda (PFA), ampliar a detecção de casos suspeitos e alcançar indicadores preconizados pelo Ministério da Saúde Mesmo eliminada do Brasil há mais de três décadas, a poliomielite continua sendo uma ameaça que exige atenção permanente dos serviços de saúde. A circulação do poliovírus em alguns países e a redução das coberturas vacinais em diversas regiões do mundo mantêm o risco de reintrodução da doença, o que reforça a importância da vacinação e da vigilância epidemiológica ativa.",
+     "local": "Brasil",
+     "agravo": "Poliomielite",
+     "escopo": "Brasil",
+     "fonte": "SES-GO | Notícias",
+     "sigla": "SES-GO",
+     "data": "2026-10-21",
+     "data_fmt": "21 out 2026",
+     "url": "https://goias.gov.br/saude/goias-reforca-sobre-a-vigilancia-contra-a-poliomielite-diante-do-risco-de-reintroducao-da-doenca/",
+     "dominio": "goias.gov.br",
+     "nota_ia": null,
+     "pontuacao": 13.0,
+     "n": 3,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "GO",
+     "icone": "virus",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE42-2026/n3.svg"
+     }
+    },
+    {
+     "ancora": "n4",
+     "titulo": "Negacionismo impulsiona sarampo nos EUA e representa ameaça ao Brasil",
+     "titulo_original": "Negacionismo impulsiona sarampo nos EUA e representa ameaça ao Brasil",
+     "resumo": "Mudanças recentes no calendário vacinal dos Estados Unidos, impulsionadas por discursos antivacinação do governo Donald Trump, ajudam a explicar por que o país está passando pelo pior surto de sarampo em mais de três décadas. Mais de 4,4 mil casos já foram confirmados este ano, com três mortes. Entre os infectados, 98% não estavam totalmente vacinados.",
+     "local": "",
+     "agravo": "Sarampo",
+     "escopo": "Brasil",
+     "fonte": "Agência Brasil | Saúde",
+     "sigla": "Agência Brasil",
+     "data": "2026-10-21",
+     "data_fmt": "21 out 2026",
+     "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/negacionismo-impulsiona-sarampo-nos-eua-e-representa-ameaca-ao-brasil",
+     "dominio": "agenciabrasil.ebc.com.br",
+     "nota_ia": null,
+     "pontuacao": 12.5,
+     "n": 4,
+     "paises": [
+      "USA",
+      "BRA"
+     ],
+     "uf": "",
+     "icone": "virus",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE42-2026/n4.svg"
+     }
+    },
+    {
+     "ancora": "n5",
+     "titulo": "Cenário Epidemiológico Sarampo",
+     "titulo_original": "Cenário Epidemiológico Sarampo",
+     "resumo": "Publicado em 19 outubro 2026 Última Atualização em 19 de outubro de 2026 Categoria Vigilância Epidemiológica Informe Epidemiológico Sarampo em Goiás nº 04 Informe Epidemiológico Sarampo em Goiás nº 03 Informe Epidemiológico Sarampo em Goiás nº 02 Informe Epidemiológico Sarampo em Goiás nº 01",
+     "local": "Brasil",
+     "agravo": "Sarampo",
+     "escopo": "Brasil",
+     "fonte": "SES-GO | Notícias",
+     "sigla": "SES-GO",
+     "data": "2026-10-19",
+     "data_fmt": "19 out 2026",
+     "url": "https://goias.gov.br/saude/cenario-epidemiologico-sarampo/",
+     "dominio": "goias.gov.br",
+     "nota_ia": null,
+     "pontuacao": 12.0,
+     "n": 5,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "GO",
+     "icone": "virus",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE42-2026/n5.svg"
+     }
+    },
+    {
+     "ancora": "n6",
+     "titulo": "Tempestades com queda de granizo e rajadas de vento atingem o Rio Grande do Sul entre quinta-feira (22) e sábado (24)",
+     "titulo_original": "Tempestades com queda de granizo e rajadas de vento atingem o Rio Grande do Sul entre quinta-feira (22) e sábado (24)",
+     "resumo": "Período de maior risco será na sexta-feira (23), com possibilidade de granizo e rajadas de vento superiores a 90 km/h A Defesa Civil estadual, por meio do Centro de Monitoramento, atualizou nesta quinta-feira (21/10) o Aviso Hidrometeorológico 21/2026. A condição é de alerta para tempestades com queda de granizo (que pode ser grande) e rajadas de vento (que podem superar os 90 km/h). Conforme a previsão, o período de maior risco será na sexta-feira (23/10).",
+     "local": "",
+     "agravo": "Emergências e desastres",
+     "escopo": "Brasil",
+     "fonte": "Portal do Estado do Rio Grande do Sul",
+     "sigla": "Defesa Civil",
+     "data": "2026-10-22",
+     "data_fmt": "22 out 2026",
+     "url": "https://www.estado.rs.gov.br/tempestades-com-queda-de-granizo-e-rajadas-de-vento-atingem-o-rio-grande-do-sul-entre-quinta-feira-22-e-sabado-24",
+     "dominio": "estado.rs.gov.br",
+     "nota_ia": null,
+     "pontuacao": 11.5,
+     "n": 6,
+     "paises": [
+      "BRA",
+      "URY"
+     ],
+     "uf": "RS",
+     "icone": "desastre",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE42-2026/n6.svg"
+     }
+    },
+    {
+     "ancora": "n8",
+     "titulo": "Agricultura confirma foco de doença de Newcastle em Santa Catarina",
+     "titulo_original": "Agricultura confirma foco de doença de Newcastle em Santa Catarina",
+     "resumo": "O Ministério da Agricultura e Pecuária (Mapa) confirmou o registro de um foco da doença de Newcastle em um estabelecimento de avicultura comercial de corte de perus no município de Nova Itaberaba, em Santa Catarina. A existência do foco foi confirmada no domingo (18). O ministério informou que o estabelecimento foi interditado pelo Serviço Veterinário Oficial de Santa Catarina, com a suspensão da movimentação de aves. Além disso, a pasta esclareceu que medidas de controle, contenção e erradicação do foco serão executadas conforme as diretrizes do Plano de Contingência para Influenza Aviária e Doença de Newcastle.",
+     "local": "Brasil",
+     "agravo": "Saúde Única: zoonoses e eventos em animais",
+     "escopo": "Brasil",
+     "fonte": "Agência Brasil | Saúde",
+     "sigla": "Agência Brasil",
+     "data": "2026-10-19",
+     "data_fmt": "19 out 2026",
+     "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/agricultura-confirma-foco-de-doenca-de-newcastle-em-santa-catarina",
+     "dominio": "agenciabrasil.ebc.com.br",
+     "nota_ia": null,
+     "pontuacao": 10.0,
+     "n": 8,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "SC",
+     "icone": "animal",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE42-2026/n8.svg"
+     }
+    },
+    {
+     "ancora": "n10",
+     "titulo": "Defesa Civil de Barra do Piraí alerta para possíveis impactos do El Niño e reforça medidas de prevenção",
+     "titulo_original": "Defesa Civil de Barra do Piraí alerta para possíveis impactos do El Niño e reforça medidas de prevenção",
+     "resumo": "| Notícias",
+     "local": "Brasil",
+     "agravo": "Saúde ambiental e clima",
+     "escopo": "Brasil",
+     "fonte": "Prefeitura Municipal de Barra do Piraí",
+     "sigla": "Defesa Civil",
+     "data": "2026-10-19",
+     "data_fmt": "19 out 2026",
+     "url": "https://barradopirai.rj.gov.br/todas-as-noticias/21d86a60-5156-49f7-a146-d627ee99939a",
+     "dominio": "barradopirai.rj.gov.br",
+     "nota_ia": null,
+     "pontuacao": 9.5,
+     "n": 10,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "",
+     "icone": "clima",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE42-2026/n10.svg"
+     }
+    }
+   ]
+  },
+  {
+   "escopo": "Américas",
+   "nome": "Américas",
+   "itens": [
+    {
+     "ancora": "n7",
+     "titulo": "Epidemiological Update: Dengue and Chikungunya in the Americas Region - 20 October 2026",
+     "titulo_original": "Epidemiological Update: Dengue and Chikungunya in the Americas Region - 20 October 2026",
+     "resumo": "| | Given the increase in dengue cases observed in some countries of the Andean, Central American, and Caribbean subregions of the Americas Region, as well as the increase in chikungunya cases experienced between late 2025 and 2026, accompanied by the resurgence of chikungunya transmission in countries and territories of the Region where no viral circulation had been recorded for several years, the anticipated intensification of the El Niño phenomenon over the coming months, and the approaching peak season for dengue and chikungunya transmission in South America, the Pan American Health Organization/World Health…",
+     "local": "",
+     "agravo": "Dengue",
+     "escopo": "Américas",
+     "fonte": "OPAS | Alertas e atualizações epidemiológicas",
+     "sigla": "OPAS",
+     "data": "2026-10-20",
+     "data_fmt": "20 out 2026",
+     "url": "https://www.paho.org/en/documents/epidemiological-update-dengue-and-chikungunya-americas-region-20-october-2026",
+     "dominio": "paho.org",
+     "nota_ia": null,
+     "pontuacao": 11.0,
+     "n": 7,
+     "paises": [],
+     "uf": "",
+     "icone": "mosquito",
+     "visual": {
+      "tipo": "icone"
+     }
+    }
+   ]
+  }
+ ],
+ "destaques": [
+  {
+   "ancora": "n1",
+   "titulo": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo, Kenya and Nigeria",
+   "titulo_original": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo, Kenya and Nigeria",
+   "resumo": "Since the previous Disease Outbreak News was published on 8 October 2026, additional confirmed cases and deaths have been reported in the Democratic Republic of the Congo. Cases have been reported in five countries since the declaration of the outbreak on 15 May 2026: the Democratic Republic of the Congo, Uganda, France, and more recently, Kenya and Nigeria. Nigeria is the fifth country affected by the ongoing outbreak, highlighting the continued risk of cross-border transmission.",
+   "local": "",
+   "agravo": "Doença pelo vírus Ebola",
+   "escopo": "Internacional",
+   "fonte": "OMS | Disease Outbreak News",
+   "sigla": "OMS",
+   "data": "2026-10-23",
+   "data_fmt": "23 out 2026",
+   "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622",
+   "dominio": "who.int",
+   "nota_ia": null,
+   "pontuacao": 14.5,
+   "n": 1,
+   "paises": [
+    "COG",
+    "KEN",
+    "NGA",
+    "UGA",
+    "FRA"
+   ],
+   "uf": "",
+   "icone": "virus",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE42-2026/n1.svg"
+   }
+  },
+  {
+   "ancora": "n2",
+   "titulo": "Moradores da 26 de Setembro voltam a enfrentar alagamentos após obra na Rua 2",
+   "titulo_original": "Moradores da 26 de Setembro voltam a enfrentar alagamentos após obra na Rua 2",
+   "resumo": "Moradores da Colônia Agrícola 26 de Setembro, no Distrito Federal, enfrentaram novo alagamento neste domingo (18/10), um dia depois da forte chuva que já havia tomado ruas da região. Segundo relatos, a situação se repetiu, e a Rua 2 foi um dos pontos mais afetados. De acordo com moradores, nesse sábado (17/10), equipes que realizam serviços de asfaltamento no local passaram um trator pela via e informaram que a rua seria rebaixada para evitar novos alagamentos. A obra, porém, ocorreu pouco antes da chuva, e, segundo os relatos, o cenário piorou durante o temporal.",
+   "local": "Brasil",
+   "agravo": "Emergências e desastres",
+   "escopo": "DF",
+   "fonte": "Correio Braziliense | Cidades DF",
+   "sigla": "Correio Braziliense",
+   "data": "2026-10-18",
+   "data_fmt": "18 out 2026",
+   "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522924-moradores-da-26-de-setembro-voltam-a-enfrentar-alagamentos-apos-obra-na-rua-2.html",
+   "dominio": "correiobraziliense.com.br",
+   "nota_ia": null,
+   "pontuacao": 14.5,
+   "n": 2,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "DF",
+   "icone": "desastre",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE42-2026/n2.svg"
+   }
+  },
+  {
+   "ancora": "n3",
+   "titulo": "Goiás reforça sobre a vigilância contra a poliomielite diante do risco de reintrodução da doença",
+   "titulo_original": "Goiás reforça sobre a vigilância contra a poliomielite diante do risco de reintrodução da doença",
+   "resumo": "Estado mobiliza profissionais de saúde para fortalecer a vigilância da Paralisia Flácida Aguda (PFA), ampliar a detecção de casos suspeitos e alcançar indicadores preconizados pelo Ministério da Saúde Mesmo eliminada do Brasil há mais de três décadas, a poliomielite continua sendo uma ameaça que exige atenção permanente dos serviços de saúde. A circulação do poliovírus em alguns países e a redução das coberturas vacinais em diversas regiões do mundo mantêm o risco de reintrodução da doença, o que reforça a importância da vacinação e da vigilância epidemiológica ativa.",
+   "local": "Brasil",
+   "agravo": "Poliomielite",
+   "escopo": "Brasil",
+   "fonte": "SES-GO | Notícias",
+   "sigla": "SES-GO",
+   "data": "2026-10-21",
+   "data_fmt": "21 out 2026",
+   "url": "https://goias.gov.br/saude/goias-reforca-sobre-a-vigilancia-contra-a-poliomielite-diante-do-risco-de-reintroducao-da-doenca/",
+   "dominio": "goias.gov.br",
+   "nota_ia": null,
+   "pontuacao": 13.0,
+   "n": 3,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "GO",
+   "icone": "virus",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE42-2026/n3.svg"
+   }
+  },
+  {
+   "ancora": "n4",
+   "titulo": "Negacionismo impulsiona sarampo nos EUA e representa ameaça ao Brasil",
+   "titulo_original": "Negacionismo impulsiona sarampo nos EUA e representa ameaça ao Brasil",
+   "resumo": "Mudanças recentes no calendário vacinal dos Estados Unidos, impulsionadas por discursos antivacinação do governo Donald Trump, ajudam a explicar por que o país está passando pelo pior surto de sarampo em mais de três décadas. Mais de 4,4 mil casos já foram confirmados este ano, com três mortes. Entre os infectados, 98% não estavam totalmente vacinados.",
+   "local": "",
+   "agravo": "Sarampo",
+   "escopo": "Brasil",
+   "fonte": "Agência Brasil | Saúde",
+   "sigla": "Agência Brasil",
+   "data": "2026-10-21",
+   "data_fmt": "21 out 2026",
+   "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/negacionismo-impulsiona-sarampo-nos-eua-e-representa-ameaca-ao-brasil",
+   "dominio": "agenciabrasil.ebc.com.br",
+   "nota_ia": null,
+   "pontuacao": 12.5,
+   "n": 4,
+   "paises": [
+    "USA",
+    "BRA"
+   ],
+   "uf": "",
+   "icone": "virus",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE42-2026/n4.svg"
+   }
+  },
+  {
+   "ancora": "n5",
+   "titulo": "Cenário Epidemiológico Sarampo",
+   "titulo_original": "Cenário Epidemiológico Sarampo",
+   "resumo": "Publicado em 19 outubro 2026 Última Atualização em 19 de outubro de 2026 Categoria Vigilância Epidemiológica Informe Epidemiológico Sarampo em Goiás nº 04 Informe Epidemiológico Sarampo em Goiás nº 03 Informe Epidemiológico Sarampo em Goiás nº 02 Informe Epidemiológico Sarampo em Goiás nº 01",
+   "local": "Brasil",
+   "agravo": "Sarampo",
+   "escopo": "Brasil",
+   "fonte": "SES-GO | Notícias",
+   "sigla": "SES-GO",
+   "data": "2026-10-19",
+   "data_fmt": "19 out 2026",
+   "url": "https://goias.gov.br/saude/cenario-epidemiologico-sarampo/",
+   "dominio": "goias.gov.br",
+   "nota_ia": null,
+   "pontuacao": 12.0,
+   "n": 5,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "GO",
+   "icone": "virus",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE42-2026/n5.svg"
+   }
+  },
+  {
+   "ancora": "n6",
+   "titulo": "Tempestades com queda de granizo e rajadas de vento atingem o Rio Grande do Sul entre quinta-feira (22) e sábado (24)",
+   "titulo_original": "Tempestades com queda de granizo e rajadas de vento atingem o Rio Grande do Sul entre quinta-feira (22) e sábado (24)",
+   "resumo": "Período de maior risco será na sexta-feira (23), com possibilidade de granizo e rajadas de vento superiores a 90 km/h A Defesa Civil estadual, por meio do Centro de Monitoramento, atualizou nesta quinta-feira (21/10) o Aviso Hidrometeorológico 21/2026. A condição é de alerta para tempestades com queda de granizo (que pode ser grande) e rajadas de vento (que podem superar os 90 km/h). Conforme a previsão, o período de maior risco será na sexta-feira (23/10).",
+   "local": "",
+   "agravo": "Emergências e desastres",
+   "escopo": "Brasil",
+   "fonte": "Portal do Estado do Rio Grande do Sul",
+   "sigla": "Defesa Civil",
+   "data": "2026-10-22",
+   "data_fmt": "22 out 2026",
+   "url": "https://www.estado.rs.gov.br/tempestades-com-queda-de-granizo-e-rajadas-de-vento-atingem-o-rio-grande-do-sul-entre-quinta-feira-22-e-sabado-24",
+   "dominio": "estado.rs.gov.br",
+   "nota_ia": null,
+   "pontuacao": 11.5,
+   "n": 6,
+   "paises": [
+    "BRA",
+    "URY"
+   ],
+   "uf": "RS",
+   "icone": "desastre",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE42-2026/n6.svg"
+   }
+  },
+  {
+   "ancora": "n7",
+   "titulo": "Epidemiological Update: Dengue and Chikungunya in the Americas Region - 20 October 2026",
+   "titulo_original": "Epidemiological Update: Dengue and Chikungunya in the Americas Region - 20 October 2026",
+   "resumo": "| | Given the increase in dengue cases observed in some countries of the Andean, Central American, and Caribbean subregions of the Americas Region, as well as the increase in chikungunya cases experienced between late 2025 and 2026, accompanied by the resurgence of chikungunya transmission in countries and territories of the Region where no viral circulation had been recorded for several years, the anticipated intensification of the El Niño phenomenon over the coming months, and the approaching peak season for dengue and chikungunya transmission in South America, the Pan American Health Organization/World Health…",
+   "local": "",
+   "agravo": "Dengue",
+   "escopo": "Américas",
+   "fonte": "OPAS | Alertas e atualizações epidemiológicas",
+   "sigla": "OPAS",
+   "data": "2026-10-20",
+   "data_fmt": "20 out 2026",
+   "url": "https://www.paho.org/en/documents/epidemiological-update-dengue-and-chikungunya-americas-region-20-october-2026",
+   "dominio": "paho.org",
+   "nota_ia": null,
+   "pontuacao": 11.0,
+   "n": 7,
+   "paises": [],
+   "uf": "",
+   "icone": "mosquito",
+   "visual": {
+    "tipo": "icone"
+   }
+  },
+  {
+   "ancora": "n8",
+   "titulo": "Agricultura confirma foco de doença de Newcastle em Santa Catarina",
+   "titulo_original": "Agricultura confirma foco de doença de Newcastle em Santa Catarina",
+   "resumo": "O Ministério da Agricultura e Pecuária (Mapa) confirmou o registro de um foco da doença de Newcastle em um estabelecimento de avicultura comercial de corte de perus no município de Nova Itaberaba, em Santa Catarina. A existência do foco foi confirmada no domingo (18). O ministério informou que o estabelecimento foi interditado pelo Serviço Veterinário Oficial de Santa Catarina, com a suspensão da movimentação de aves. Além disso, a pasta esclareceu que medidas de controle, contenção e erradicação do foco serão executadas conforme as diretrizes do Plano de Contingência para Influenza Aviária e Doença de Newcastle.",
+   "local": "Brasil",
+   "agravo": "Saúde Única: zoonoses e eventos em animais",
+   "escopo": "Brasil",
+   "fonte": "Agência Brasil | Saúde",
+   "sigla": "Agência Brasil",
+   "data": "2026-10-19",
+   "data_fmt": "19 out 2026",
+   "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/agricultura-confirma-foco-de-doenca-de-newcastle-em-santa-catarina",
+   "dominio": "agenciabrasil.ebc.com.br",
+   "nota_ia": null,
+   "pontuacao": 10.0,
+   "n": 8,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "SC",
+   "icone": "animal",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE42-2026/n8.svg"
+   }
+  },
+  {
+   "ancora": "n9",
+   "titulo": "Criança de 5 anos é picada por escorpião no Zoológico de Brasília",
+   "titulo_original": "Criança de 5 anos é picada por escorpião no Zoológico de Brasília",
+   "resumo": "Uma criança de 5 anos foi picada por um escorpião nesta manhã de quinta-feira (22), no Zoológico de Brasília. Segundo a administração do parque, a vítima visitava o local em um passeio de escola quando o animal foi encontrado dentro do sapato da vítima, que havia trazido de casa. Os brigadistas que estavam no local prestaram atendimento à criança, verificando os sinais vitais e acolhendo para mantê-la calma. Segundo o Zoológico de Brasília, a vítima apresentava um quadro estável e estava bem. Fique por dentro das notÃcias que importam para vocÃª!",
+   "local": "Brasil",
+   "agravo": "Acidentes por animais peçonhentos",
+   "escopo": "DF",
+   "fonte": "Correio Braziliense | Cidades DF",
+   "sigla": "Correio Braziliense",
+   "data": "2026-10-22",
+   "data_fmt": "22 out 2026",
+   "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7525838-crianca-de-5-anos-e-picada-por-escorpiao-no-zoologico-de-brasilia.html",
+   "dominio": "correiobraziliense.com.br",
+   "nota_ia": null,
+   "pontuacao": 9.5,
+   "n": 9,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "DF",
+   "icone": "animal",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE42-2026/n9.svg"
+   }
+  },
+  {
+   "ancora": "n10",
+   "titulo": "Defesa Civil de Barra do Piraí alerta para possíveis impactos do El Niño e reforça medidas de prevenção",
+   "titulo_original": "Defesa Civil de Barra do Piraí alerta para possíveis impactos do El Niño e reforça medidas de prevenção",
+   "resumo": "| Notícias",
+   "local": "Brasil",
+   "agravo": "Saúde ambiental e clima",
+   "escopo": "Brasil",
+   "fonte": "Prefeitura Municipal de Barra do Piraí",
+   "sigla": "Defesa Civil",
+   "data": "2026-10-19",
+   "data_fmt": "19 out 2026",
+   "url": "https://barradopirai.rj.gov.br/todas-as-noticias/21d86a60-5156-49f7-a146-d627ee99939a",
+   "dominio": "barradopirai.rj.gov.br",
+   "nota_ia": null,
+   "pontuacao": 9.5,
+   "n": 10,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "",
+   "icone": "clima",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE42-2026/n10.svg"
+   }
+  }
+ ],
+ "outras": [
+  {
+   "titulo": "Defesa Civil alerta para possibilidade de temporais neste domingo (25)",
+   "fonte": "Defesa Civil",
+   "data_fmt": "23 out 2026",
+   "url": "https://capivari.sp.gov.br/portal/defesa-civil-alerta-para-possibilidade-de-temporais-neste-domingo-25/",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Previsão de chuvas intensas e temporais coloca em alerta equipes do município",
+   "fonte": "Defesa Civil",
+   "data_fmt": "21 out 2026",
+   "url": "https://www.foz.pr.gov.br/previsao-de-chuvas-intensas-e-temporais-coloca-em-alerta-equipes-do-municipio/",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Ebola disease: Multi-country outbreak 2026",
+   "fonte": "ECDC",
+   "data_fmt": "19 out 2026",
+   "url": "https://www.ecdc.europa.eu/en/ebola-disease-multi-country-outbreak-2026",
+   "escopo": "Internacional"
+  },
+  {
+   "titulo": "Threat assessment brief – Importation of Ebola disease cases caused by Bundibugyo virus to Kenya and Nigeria",
+   "fonte": "ECDC",
+   "data_fmt": "23 out 2026",
+   "url": "https://www.ecdc.europa.eu/en/publications-data/threat-assessment-brief-importation-ebola-disease-cases-caused-bundibugyo-virus",
+   "escopo": "Internacional"
+  },
+  {
+   "titulo": "Defesa Civil alerta para possibilidade de chuvas intensas em Linhares nesta sexta e sábado (24)",
+   "fonte": "Defesa Civil",
+   "data_fmt": "23 out 2026",
+   "url": "https://linhares.es.gov.br/2026/10/23/defesa-civil-alerta-para-possibilidade-de-chuvas-intensas-em-linhares-nesta-sexta-e-sabado/",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Defesa Civil alerta para tempestades e ventos fortes em Minas Gerais neste fim de semana",
+   "fonte": "Defesa Civil",
+   "data_fmt": "23 out 2026",
+   "url": "https://www.agenciaminas.mg.gov.br/noticia/defesa-civil-alerta-para-tempestades-e-ventos-fortes-em-minas-gerais-neste-fim-de-semana",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "InfoGripe: três estados têm incidência de SRAG em nível de alerta ou risco, com sinal de crescimento",
+   "fonte": "Fiocruz",
+   "data_fmt": "22 out 2026",
+   "url": "https://agencia.fiocruz.br/infogripe-tres-estados-tem-incidencia-de-srag-em-nivel-de-alerta-ou-risco-com-sinal-de-crescimento",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Defesa Civil alerta para possibilidade de tempestades em Três Lagoas",
+   "fonte": "Defesa Civil",
+   "data_fmt": "22 out 2026",
+   "url": "https://www.treslagoas.ms.gov.br/defesa-civil-alerta-para-possibilidade-de-tempestades-em-tres-lagoas/",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Ebola: Africa CDC Convenes African Ministers of Health as Ebola Outbreak Spreads Across Three Regions",
+   "fonte": "Africa CDC",
+   "data_fmt": "21 out 2026",
+   "url": "https://africacdc.org/news-item/africa-cdc-convenes-african-ministers-of-health-as-ebola-outbreak-spreads-across-three-regions/",
+   "escopo": "Internacional"
+  },
+  {
+   "titulo": "Chuvas do fim de semana deixam rastros de destruição na 26 de Setembro",
+   "fonte": "Correio Braziliense",
+   "data_fmt": "19 out 2026",
+   "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522999-chuvas-do-fim-de-semana-deixam-rastros-de-destruicao-na-26-de-setembro.html",
+   "escopo": "DF"
+  },
+  {
+   "titulo": "World Polio Day 2026: Americas mark 35 years free of wild poliovirus as vaccination gaps persist",
+   "fonte": "OPAS",
+   "data_fmt": "23 out 2026",
+   "url": "https://www.paho.org/en/news/23-10-2026-world-polio-day-2026-americas-mark-35-years-free-wild-poliovirus-vaccination-gaps",
+   "escopo": "Américas"
+  },
+  {
+   "titulo": "Defesa Civil de SP renova alerta de temporais para domingo (25) e monta gabinete de crise",
+   "fonte": "Defesa Civil",
+   "data_fmt": "23 out 2026",
+   "url": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-renova-alerta-para-domingo-25-e-coloca-todo-o-estado-de-sao-paulo-em-alerta-laranja/",
+   "escopo": "Brasil"
+  }
+ ],
+ "total_coletado": 376,
+ "fontes": [
+  "Africa CDC",
+  "Agência Brasil",
+  "Agência Fiocruz de Notícias",
+  "CDC",
+  "CNN",
+  "CNN Brasil",
+  "Cemaden",
+  "Correio Braziliense",
+  "Defesa Civil",
+  "Defesa Civil Nacional",
+  "ECDC",
+  "G1",
+  "INMET",
+  "Ministério da Saúde",
+  "OMS",
+  "OPAS",
+  "SES-GO"
+ ],
+ "ia": false,
+ "contagem_escopo": {
+  "DF": 2,
+  "Brasil": 6,
+  "Américas": 1,
+  "Internacional": 1
+ },
+ "mapa": "edicoes/img/SE42-2026/mapa-semana.svg",
+ "mapa_escuro": "edicoes/img/SE42-2026/mapa-semana-escuro.svg",
+ "pdf": "edicoes/clipping-SE42-2026.pdf"
+}
