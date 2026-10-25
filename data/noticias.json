@@ -1,5 +1,26 @@
 [
  {
+  "id": "a74cf2229714b2",
+  "titulo": "Crânio humano é encontrado atrás de igreja no Lago Norte",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527257-cranio-humano-e-encontrado-atras-de-igreja-no-lago-norte.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-25T06:06:44+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
   "id": "d1d2d4f69752b0",
   "titulo": "Dia Mundial de Combate à Poliomielite: SP celebra 38 anos livre da doença",
   "url": "https://www.cnnbrasil.com.br/saude/dia-mundial-de-combate-a-poliomielite-sp-celebra-38-anos-livre-da-doenca/",
