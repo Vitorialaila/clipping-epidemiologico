@@ -1,5 +1,68 @@
 [
  {
+  "id": "c4523db2dae625",
+  "titulo": "Promotoria Eleitoral do MPDFT requisitará à Corregedoria da PM apuração sobre conduta de policiais na Asa Norte",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527777-promotoria-eleitoral-do-mpdft-requisitara-a-corregedoria-da-pm-apuracao-sobre-conduta-de-policiais-na-asa-norte.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-26",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-26T06:11:07+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "3b6ae96657267e",
+  "titulo": "Homem é preso ao desacatar PM que fazia segurança na casa de Bolsonaro",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527769-homem-e-preso-ao-desacatar-pm-que-fazia-seguranca-na-casa-de-bolsonaro.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-26",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-26T06:11:07+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "c6d7d686f5a663",
+  "titulo": "\"A oposição vai cobrar explicações\", diz Gabriel Magno",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527712-a-oposicao-vai-cobrar-explicacoes-diz-gabriel-magno.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-26",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-26T06:11:07+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
   "id": "c55105641d65ac",
   "titulo": "Mudanças climáticas já causam aumento de doenças infecciosas no país",
   "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/mudancas-climaticas-ja-causam-aumento-de-doencas-infecciosas-no-pais",
@@ -996,6 +1059,111 @@
   "se": "2026-43",
   "descricao": "",
   "coletado_em": "2026-10-26T00:22:22+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "f24d8ed0e1e195",
+  "titulo": "Em comemoração com apoiadores, Celina promete governo justo e foco nos mais pobres",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527648-em-comemoracao-com-apoiadores-celina-promete-governo-justo-e-foco-nos-mais-pobres.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-26T06:11:07+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "577c4e329781e6",
+  "titulo": "Apoiadores de Lula celebram a vitória da reeleição na 405 Norte",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527675-apoiadores-de-lula-celebram-a-vitoria-da-reeleicao-na-405-norte.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-26T06:11:07+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "801cc744045138",
+  "titulo": "Com abstenção de 17,37% no DF, 1,85 milhão de eleitores votam no 2º turno",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527674-com-abstencao-de-1737-no-df-185-milhao-de-eleitores-votam-no-2-turno.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-26T06:11:07+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "4595ac5a0ab502",
+  "titulo": "Apoiadores de Flávio deixam ato na Esplanada desolados após vitória de Lula",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527670-apoiadores-de-flavio-deixam-ato-na-esplanada-desolados-apos-vitoria-de-lula.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-26T06:11:07+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "91ccf37f52cbfc",
+  "titulo": "\"Não vamos desistir do DF\", afirma Grass após derrota para Celina",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527642-nao-vamos-desistir-do-df-afirma-grass-apos-derrota-para-celina.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-25",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-26T06:11:07+00:00",
   "municipios": [
    "Distrito Federal"
   ],
