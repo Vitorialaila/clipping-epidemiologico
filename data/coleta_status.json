@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-10-25T21:46:20+00:00",
+  "em": "2026-10-26T00:22:22+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,7 +10,7 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-10-25T21:46:20+00:00",
+  "em": "2026-10-26T00:22:22+00:00",
   "lidos": 40,
   "novos": 0,
   "exemplos": [
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-10-25T21:46:20+00:00",
+  "em": "2026-10-26T00:22:22+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-10-25T21:46:20+00:00",
+  "em": "2026-10-26T00:22:22+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-10-25T21:46:20+00:00",
+  "em": "2026-10-26T00:22:22+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-10-25T21:46:20+00:00",
+  "em": "2026-10-26T00:22:22+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-10-25T21:46:20+00:00",
+  "em": "2026-10-26T00:22:22+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-10-25T21:46:20+00:00",
+  "em": "2026-10-26T00:22:22+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-10-25T21:46:20+00:00",
+  "em": "2026-10-26T00:22:22+00:00",
   "lidos": 2345,
   "novos": 0,
   "exemplos": [
@@ -90,17 +90,11 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-10-25T21:46:20+00:00",
-  "lidos": 10,
-  "novos": 0,
-  "exemplos": [
-   "Africa CDC Supports the AUC Chairperson’s Call for the Immediate and Unconditional Lifting of Unilateral Sanctions again",
-   "Africa CDC et Ethiopian Airlines s’unissent pour faciliter la participation de la communauté africaine de santé publique",
-   "Africa CDC and Ethiopian Airlines Join Forces to Connect Africa’s Public Health Community for CPHIA 2026"
-  ]
+  "em": "2026-10-26T00:22:22+00:00",
+  "erro": "HTTPSConnectionPool(host='africacdc.org', port=443): Read timed out. (read timeout=30)"
  },
  "ms-noticias": {
-  "em": "2026-10-25T21:46:20+00:00",
+  "em": "2026-10-26T00:22:22+00:00",
   "lidos": 15,
   "novos": 0,
   "exemplos": [
@@ -110,7 +104,7 @@
   ]
  },
  "fiocruz": {
-  "em": "2026-10-25T21:46:20+00:00",
+  "em": "2026-10-26T00:22:22+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -120,7 +114,7 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-10-25T21:46:20+00:00",
+  "em": "2026-10-26T00:22:22+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -130,7 +124,7 @@
   ]
  },
  "ses-go": {
-  "em": "2026-10-25T21:46:20+00:00",
+  "em": "2026-10-26T00:22:22+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -140,7 +134,7 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-10-25T21:46:20+00:00",
+  "em": "2026-10-26T00:22:22+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -150,7 +144,7 @@
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-10-25T21:46:20+00:00",
+  "em": "2026-10-26T00:22:22+00:00",
   "lidos": 25,
   "novos": 0,
   "exemplos": [
@@ -160,7 +154,7 @@
   ]
  },
  "cnn-saude": {
-  "em": "2026-10-25T21:46:20+00:00",
+  "em": "2026-10-26T00:22:22+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -170,8 +164,8 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-10-25T21:46:20+00:00",
-  "lidos": 21,
+  "em": "2026-10-26T00:22:22+00:00",
+  "lidos": 20,
   "novos": 0,
   "exemplos": [
    "One US measles outbreak is proving particularly deadly. Here’s why",
@@ -180,7 +174,7 @@
   ]
  },
  "inmet": {
-  "em": "2026-10-25T21:46:20+00:00",
+  "em": "2026-10-26T00:22:22+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -190,7 +184,7 @@
   ]
  },
  "cemaden": {
-  "em": "2026-10-25T21:46:20+00:00",
+  "em": "2026-10-26T00:22:22+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -200,8 +194,8 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-10-25T21:46:20+00:00",
-  "lidos": 29,
+  "em": "2026-10-26T00:22:22+00:00",
+  "lidos": 28,
   "novos": 0,
   "exemplos": [
    "Autorizado repasse de R$ 1,2 milhão para ações de defesa civil",
@@ -210,13 +204,13 @@
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-10-25T21:46:20+00:00",
+  "em": "2026-10-26T00:22:22+00:00",
   "lidos": 21,
-  "novos": 11,
+  "novos": 13,
   "exemplos": [
    "Mesária é detida sob suspeita de fazer boca de urna no Gama",
-   "Confusão entre fiscais e apoiadores de Celina marcam votação da candidata; vídeo",
-   "Eleitores relatam impedimento para votar após prorrogação de votação"
+   "Distrito Federal não terá ampliação do horário de votação",
+   "\"Nós vamos fazer um governo para todos\", afirma Celina Leão após reeleição"
   ]
  }
 }
