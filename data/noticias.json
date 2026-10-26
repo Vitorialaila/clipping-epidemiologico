@@ -1,5 +1,53 @@
 [
  {
+  "id": "edf3988493e032",
+  "titulo": "Defesa Civil de SP alerta para os riscos de se enfrentar enchentes e alagamentos",
+  "url": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-de-sp-alerta-para-os-riscos-de-se-enfrentar-enchentes-e-alagamentos/",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "agenciasp.sp.gov.br",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-26",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-26T19:17:54+00:00",
+  "municipios": [],
+  "pontuacao": 13.5,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "enchentes",
+   "alerta para"
+  ]
+ },
+ {
+  "id": "fcad480cd566c8",
+  "titulo": "Governo de SP reforça ajuda humanitária a municípios e mantém alerta para chuvas intensas nesta segunda-feira",
+  "url": "https://www.agenciasp.sp.gov.br/defesa-civil/governo-de-sp-reforca-ajuda-humanitaria-a-municipios-e-mantem-alerta-para-chuvas-intensas-nesta-segunda-feira/",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "agenciasp.sp.gov.br",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-26",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-26T19:17:54+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alerta para"
+  ]
+ },
+ {
   "id": "b4f8dfd48ea26b",
   "titulo": "Bird flu is raging on a mink farm. It could spark a human pandemic, experts say, but officials won’t act.",
   "url": "https://edition.cnn.com/2026/10/26/health/bird-flu-mink-farm-propublica",
@@ -35,6 +83,69 @@
   "coletado_em": "2026-10-26T12:58:45+00:00",
   "municipios": [],
   "pontuacao": 6.5,
+  "agravos": [
+   "Influenza por novo subtipo"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": []
+ },
+ {
+  "id": "f826308991ddff",
+  "titulo": "Bombeiros encontram corpo de mulher levada por correnteza",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/bombeiros-encontram-corpo-de-mulher-levada-por-correnteza",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-26",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "O Corpo de Bombeiros encontrou nesta segunda-feira (26) o corpo de uma mulher que desapareceu após seu carro ter sido arrastado por uma correnteza no Ribeirão do Pinhal, na zona rural de Pinhalzinho, no interior paulista. Ela estava desaparecida desde a manhã de domingo (25), quando tentou atravessar um trecho alagado em uma ponte. Agora, o estado de São Paulo já soma 26 mortes em decorrência das chuvas neste ano . No domingo, a Defesa Civil já havia confirmado a morte de duas mulheres que haviam sido arrastadas pela correnteza após tentarem atravessar um córrego no bairro Casa Branca, em Jundiaí.",
+  "coletado_em": "2026-10-26T19:17:54+00:00",
+  "municipios": [],
+  "pontuacao": 6.0,
+  "agravos": [
+   "Emergências e desastres"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "da69275fd951c4",
+  "titulo": "Mudanças climáticas impulsionam o avanço da dengue no Brasil, aponta estudo",
+  "url": "https://www.cnnbrasil.com.br/saude/mudancas-climaticas-impulsionam-o-avanco-da-dengue-no-brasil-aponta-estudo/",
+  "fonte_id": "cnn-brasil-saude",
+  "fonte": "CNN Brasil | Saúde",
+  "sigla": "CNN Brasil",
+  "idioma": "pt",
+  "data": "2026-10-26",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-26T19:17:54+00:00",
+  "municipios": [],
+  "pontuacao": 4.5,
+  "agravos": [
+   "Dengue"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "08ddd399a82f27",
+  "titulo": "Estudo identifica novo subtipo de depressão ligado ao relógio biológico",
+  "url": "https://www.cnnbrasil.com.br/saude/estudo-identifica-novo-subtipo-de-depressao-ligado-ao-relogio-biologico/",
+  "fonte_id": "cnn-brasil-saude",
+  "fonte": "CNN Brasil | Saúde",
+  "sigla": "CNN Brasil",
+  "idioma": "pt",
+  "data": "2026-10-26",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-26T19:17:54+00:00",
+  "municipios": [],
+  "pontuacao": 3.5,
   "agravos": [
    "Influenza por novo subtipo"
   ],
@@ -298,6 +409,254 @@
   "se": "2026-43",
   "descricao": "",
   "coletado_em": "2026-10-26T12:58:45+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "ce0229612c1bd5",
+  "titulo": "OPS y Special Olympics International firman acuerdo para promover la salud inclusiva de personas con discapacidad intelectual y del desarrollo",
+  "url": "https://www.paho.org/es/noticias/26-10-2026-ops-special-olympics-international-firman-acuerdo-para-promover-salud-inclusiva",
+  "fonte_id": "opas-noticias",
+  "fonte": "OPAS | Notícias",
+  "sigla": "OPAS",
+  "idioma": "en",
+  "data": "2026-10-26",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "PAHO and Special Olympics International sign framework agreement to advance inclusive health for people with intellectual and developmental disabilities Cristina Mitchell 26 Oct 2026",
+  "coletado_em": "2026-10-26T19:17:54+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Américas",
+  "termos_evento": []
+ },
+ {
+  "id": "9f94570c5983d1",
+  "titulo": "Escala HDT – Novembro",
+  "url": "https://goias.gov.br/saude/escala-hdt-novembro-2026/",
+  "fonte_id": "ses-go",
+  "fonte": "SES-GO | Notícias",
+  "sigla": "SES-GO",
+  "idioma": "pt",
+  "data": "2026-10-26",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-26T19:17:54+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "00cc011b8a489d",
+  "titulo": "PM registra 7 ocorrências e 6 detidos até o meio-dia de domingo em SP",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/pm-registra-7-ocorrencias-e-6-detidos-ate-o-meio-dia-de-domingo-em-sp",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-26",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "Sete ocorrências foram registradas pela Polícia Militar durante o segundo turno das eleições até o meio-dia deste domingo (25). Cinco pessoas foram presas. Entre os casos atendidos estão três ocorrências na capital, além de uma em São Caetano do Sul, uma em Marília, uma em Guarantã e uma em Osasco. Foram cinco registros de crimes eleitorais, um de desacato e um atendimento de apoio a oficial de Justiça. Um eleitor foi flagrado por mesárias, na cidade de São Paulo, fotografando a urna eletrônica. A imagem foi apagada, e os envolvidos foram encaminhados a um Distrito Policial para a elaboração de termo circunstanciado.",
+  "coletado_em": "2026-10-26T19:17:54+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "cdbedd36135310",
+  "titulo": "DF registrou o terceiro maior aumento de votos de Lula no 2º turno",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7528003-df-registrou-o-terceiro-maior-aumento-de-votos-de-lula-no-2-turno.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-26",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-26T19:17:54+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "181fad457fdd75",
+  "titulo": "Semana tem previsão de chuva e calor, diz Inmet",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527914-semana-tem-previsao-de-chuva-e-calor-diz-inmet.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-26",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-26T19:17:54+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [
+   "previsao"
+  ]
+ },
+ {
+  "id": "821c64a4c4ff12",
+  "titulo": "Incêndio deixa Casa da Música no Paranoá destruída nesta segunda",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7528116-incendio-deixa-casa-da-musica-no-paranoa-destruida-na-manha-desta-segunda.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-26",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-26T19:17:54+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "1b79455af4bb5e",
+  "titulo": "Na Hora terá atividades suspensas nesta sexta-feira e sábado",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7528094-na-hora-tera-atividades-suspensas-nesta-sexta-feira-e-sabado.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-26",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-26T19:17:54+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "f7d71c3609e02c",
+  "titulo": "Dois homens são presos em São Sebastião durante comemoração de eleitores",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527958-dois-homens-sao-presos-em-sao-sebastiao-durante-comemoracao-de-eleitores.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-26",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-26T19:17:54+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "ce977a9810024a",
+  "titulo": "DF terá ações de acolhimento no Sol Nascente/Pôr do Sol e no Plano Piloto",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7528054-df-tera-acoes-de-acolhimento-no-sol-nascente-por-do-sol-e-no-plano-piloto.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-26",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-26T19:17:54+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "60794ee13b9ac6",
+  "titulo": "Sinpol-DF parabeniza Lula e destaca prioridades para a segurança pública",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7528025-sinpol-df-parabeniza-lula-e-destaca-prioridades-para-a-seguranca-publica.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-26",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-26T19:17:54+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "1e39731df71062",
+  "titulo": "Operação integrada de segurança garante 2º turno sem graves intercorrências",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527993-operacao-integrada-de-seguranca-garante-2-turno-sem-graves-intercorrencias.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-26",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-26T19:17:54+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "2fccd943d22573",
+  "titulo": "Pós-eleições: 405 Norte tem limpeza e Esplanada é liberada nesta segunda",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7527863-pos-eleicoes-405-norte-tem-limpeza-e-esplanada-e-liberada-nesta-segunda.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-26",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-26T19:17:54+00:00",
   "municipios": [
    "Distrito Federal"
   ],
@@ -3535,6 +3894,27 @@
   "se": "2026-42",
   "descricao": "",
   "coletado_em": "2026-10-22T18:32:04+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "fe40e7e62625cf",
+  "titulo": "Com chuvas no Sul impulsionadas pelo El Niño, rede de pluviômetros expande monitoramento de desastres em 2026",
+  "url": "https://www.gov.br/cemaden/pt-br/assuntos/noticias-cemaden/com-chuvas-no-sul-impulsionadas-pelo-el-nino-rede-de-pluviometros-expande-monitoramento-de-desastres-em-2026",
+  "fonte_id": "cemaden",
+  "fonte": "Cemaden | Notícias",
+  "sigla": "Cemaden",
+  "idioma": "pt",
+  "data": "2026-10-22",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-26T19:17:54+00:00",
   "municipios": [],
   "pontuacao": 7.5,
   "agravos": [
@@ -12773,6 +13153,29 @@
   "se": "2026-41",
   "descricao": "",
   "coletado_em": "2026-10-16T13:26:18+00:00",
+  "municipios": [],
+  "pontuacao": 8.0,
+  "agravos": [
+   "Emergências e desastres"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "inundacao"
+  ]
+ },
+ {
+  "id": "cd65e52191d025",
+  "titulo": "Estudo analisa exposição de CRAS a riscos de inundação e deslizamento em 806 municípios brasileiros",
+  "url": "https://www.gov.br/cemaden/pt-br/assuntos/noticias-cemaden/estudo-analisa-exposicao-de-cras-a-riscos-de-inundacao-e-deslizamento-em-806-municipios-brasileiros",
+  "fonte_id": "cemaden",
+  "fonte": "Cemaden | Notícias",
+  "sigla": "Cemaden",
+  "idioma": "pt",
+  "data": "2026-10-14",
+  "data_estimada": false,
+  "se": "2026-41",
+  "descricao": "",
+  "coletado_em": "2026-10-26T19:17:54+00:00",
   "municipios": [],
   "pontuacao": 8.0,
   "agravos": [

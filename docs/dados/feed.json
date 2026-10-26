@@ -1,5 +1,40 @@
 [
  {
+  "t": "Defesa Civil de SP alerta para os riscos de se enfrentar enchentes e alagamentos",
+  "u": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-de-sp-alerta-para-os-riscos-de-se-enfrentar-enchentes-e-alagamentos/",
+  "d": "2026-10-26",
+  "df": "26 out 2026",
+  "f": "Defesa Civil",
+  "fn": "agenciasp.sp.gov.br",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 13.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "desastre",
+  "m": []
+ },
+ {
+  "t": "Governo de SP reforça ajuda humanitária a municípios e mantém alerta para chuvas intensas nesta segunda-feira",
+  "u": "https://www.agenciasp.sp.gov.br/defesa-civil/governo-de-sp-reforca-ajuda-humanitaria-a-municipios-e-mantem-alerta-para-chuvas-intensas-nesta-segunda-feira/",
+  "d": "2026-10-26",
+  "df": "26 out 2026",
+  "f": "Defesa Civil",
+  "fn": "agenciasp.sp.gov.br",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 9.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "clima",
+  "m": []
+ },
+ {
   "t": "Bird flu is raging on a mink farm. It could spark a human pandemic, experts say, but officials won’t act.",
   "u": "https://edition.cnn.com/2026/10/26/health/bird-flu-mink-farm-propublica",
   "d": "2026-10-26",
@@ -14,6 +49,40 @@
   "se": "2026-43",
   "r": "",
   "i": "respiratorio",
+  "m": []
+ },
+ {
+  "t": "Bombeiros encontram corpo de mulher levada por correnteza",
+  "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/bombeiros-encontram-corpo-de-mulher-levada-por-correnteza",
+  "d": "2026-10-26",
+  "df": "26 out 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Geral",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres"
+  ],
+  "p": 6.0,
+  "se": "2026-43",
+  "r": "O Corpo de Bombeiros encontrou nesta segunda-feira (26) o corpo de uma mulher que desapareceu após seu carro ter sido arrastado por uma correnteza no Ribeirão do Pinhal, na zona rural de Pinhalzinho, no interior paulista. Ela estava desaparecida desde a manhã…",
+  "i": "desastre",
+  "m": []
+ },
+ {
+  "t": "Mudanças climáticas impulsionam o avanço da dengue no Brasil, aponta estudo",
+  "u": "https://www.cnnbrasil.com.br/saude/mudancas-climaticas-impulsionam-o-avanco-da-dengue-no-brasil-aponta-estudo/",
+  "d": "2026-10-26",
+  "df": "26 out 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 4.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "mosquito",
   "m": []
  },
  {
