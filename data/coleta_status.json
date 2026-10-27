@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-10-27T05:01:30+00:00",
+  "em": "2026-10-27T10:32:15+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,7 +10,7 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-10-27T05:01:30+00:00",
+  "em": "2026-10-27T10:32:15+00:00",
   "lidos": 40,
   "novos": 0,
   "exemplos": [
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-10-27T05:01:30+00:00",
+  "em": "2026-10-27T10:32:15+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-10-27T05:01:30+00:00",
+  "em": "2026-10-27T10:32:15+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-10-27T05:01:30+00:00",
+  "em": "2026-10-27T10:32:15+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-10-27T05:01:30+00:00",
+  "em": "2026-10-27T10:32:15+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-10-27T05:01:30+00:00",
+  "em": "2026-10-27T10:32:15+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-10-27T05:01:30+00:00",
+  "em": "2026-10-27T10:32:15+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-10-27T05:01:30+00:00",
+  "em": "2026-10-27T10:32:15+00:00",
   "lidos": 2345,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-10-27T05:01:30+00:00",
+  "em": "2026-10-27T10:32:15+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,7 +100,7 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-10-27T05:01:30+00:00",
+  "em": "2026-10-27T10:32:15+00:00",
   "lidos": 15,
   "novos": 0,
   "exemplos": [
@@ -110,7 +110,7 @@
   ]
  },
  "fiocruz": {
-  "em": "2026-10-27T05:01:30+00:00",
+  "em": "2026-10-27T10:32:15+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -120,7 +120,7 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-10-27T05:01:30+00:00",
+  "em": "2026-10-27T10:32:15+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -130,7 +130,7 @@
   ]
  },
  "ses-go": {
-  "em": "2026-10-27T05:01:30+00:00",
+  "em": "2026-10-27T10:32:15+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -140,7 +140,7 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-10-27T05:01:30+00:00",
+  "em": "2026-10-27T10:32:15+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -150,18 +150,18 @@
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-10-27T05:01:30+00:00",
+  "em": "2026-10-27T10:32:15+00:00",
   "lidos": 26,
   "novos": 0,
   "exemplos": [
+   "Cerca de 90% das brasileiras não conhecem leis voltadas ao câncer de mama",
    "Novo exame para rastrear HPV no Rio tem precisão próxima de 100%",
-   "Crise no plano de saúde testa amizade entre funcionários de restaurante",
-   "Médico explica as diferenças entre nutrólogo e nutricionista"
+   "Crise no plano de saúde testa amizade entre funcionários de restaurante"
   ]
  },
  "cnn-saude": {
-  "em": "2026-10-27T05:01:30+00:00",
-  "lidos": 24,
+  "em": "2026-10-27T10:32:15+00:00",
+  "lidos": 25,
   "novos": 0,
   "exemplos": [
    "At one Atlanta restaurant, workers are family. A health insurance crisis tested that commitment",
@@ -170,9 +170,9 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-10-27T05:01:30+00:00",
-  "lidos": 25,
-  "novos": 1,
+  "em": "2026-10-27T10:32:15+00:00",
+  "lidos": 23,
+  "novos": 0,
   "exemplos": [
    "One US measles outbreak is proving particularly deadly. Here’s why",
    "Bird flu is raging on a mink farm. It could spark a human pandemic, experts say, but officials won’t act.",
@@ -180,7 +180,7 @@
   ]
  },
  "inmet": {
-  "em": "2026-10-27T05:01:30+00:00",
+  "em": "2026-10-27T10:32:15+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -190,12 +190,18 @@
   ]
  },
  "cemaden": {
-  "em": "2026-10-27T05:01:30+00:00",
-  "erro": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  "em": "2026-10-27T10:32:15+00:00",
+  "lidos": 8,
+  "novos": 0,
+  "exemplos": [
+   "Boletim de Impactos de Extremos de Origem Hidro-Geo-Climático em Atividades Estratégicas para o Brasil",
+   "Estado do Clima, Extremos de Clima e Desastres no Brasil",
+   "5. Agrometeorologia e Incêndios Florestais"
+  ]
  },
  "defesa-civil-busca": {
-  "em": "2026-10-27T05:01:30+00:00",
-  "lidos": 27,
+  "em": "2026-10-27T10:32:15+00:00",
+  "lidos": 29,
   "novos": 0,
   "exemplos": [
    "Autorizado repasse de R$ 1,2 milhão para ações de defesa civil",
@@ -204,13 +210,13 @@
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-10-27T05:01:30+00:00",
+  "em": "2026-10-27T10:32:15+00:00",
   "lidos": 20,
-  "novos": 3,
+  "novos": 6,
   "exemplos": [
-   "DF registrou o terceiro maior aumento de votos de Lula no 2º turno",
-   "Sinpol-DF parabeniza Lula e destaca prioridades para a segurança pública",
-   "PCDF investiga morte de bebê com suspeita de maus-tratos em Samambaia"
+   "Semana da Mega-Sena movimenta lotéricas no DF",
+   "Homem é preso após enforcar e esfaquear pescoço da companheira",
+   "Endereços de Vicente Pires ficam sem luz temporariamente nesta terça (27)"
   ]
  }
 }

@@ -1,5 +1,131 @@
 [
  {
+  "id": "61de30c911962a",
+  "titulo": "Endereços de Vicente Pires ficam sem luz temporariamente nesta terça (27)",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7528310-enderecos-de-vicente-pires-ficam-sem-luz-temporariamente-nesta-terca-27.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-27",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-27T10:32:15+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "0aba915b88f180",
+  "titulo": "Agências oferecem mais de 1,8 mil vagas de trabalho nesta terça",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7528347-agencias-oferecem-mais-de-18-mil-vagas-de-trabalho-nesta-terca.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-27",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-27T10:32:15+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "f3d85ae844cfcc",
+  "titulo": "Esquerda prepara projetos e articula oposição na CLDF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7522474-esquerda-prepara-projetos-e-articula-oposicao-na-cldf.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-27",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-27T10:32:15+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "1eb8acfa563ed3",
+  "titulo": "Direita do Distrito Federal define ações no Legislativo",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7518630-direita-do-distrito-federal-define-acoes-no-legislativo.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-27",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-27T10:32:15+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "4ba73ac91c2097",
+  "titulo": "Mães atípicas cobram políticas públicas de apoio a cuidadores no DF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7528103-maes-atipicas-cobram-politicas-publicas-de-apoio-a-cuidadores-no-df.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-27",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-27T10:32:15+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "8c4491ab0c01a2",
+  "titulo": "SSP-DF registra 53 acionamentos por suspeitas eleitorais no 2º turno",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7528342-ssp-df-registra-53-acionamentos-por-suspeitas-eleitorais-no-2-turno.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-27",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-27T10:32:15+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
   "id": "edf3988493e032",
   "titulo": "Defesa Civil de SP alerta para os riscos de se enfrentar enchentes e alagamentos",
   "url": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-de-sp-alerta-para-os-riscos-de-se-enfrentar-enchentes-e-alagamentos/",
