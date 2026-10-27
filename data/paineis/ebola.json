@@ -1,8 +1,8 @@
 {
  "nome": "Ebola na RDC, 2026",
  "sigla": "EBOLA",
- "descricao": "Doença pelo vírus Bundibugyo na República Democrática do Congo. Casos e óbitos confirmados segundo o ECDC, até 25/10/2026.",
- "atualizado_em": "2026-10-27T07:33:50.931311",
+ "descricao": "Doença pelo vírus Bundibugyo na República Democrática do Congo. Casos e óbitos confirmados segundo o ECDC, até 26/10/2026.",
+ "atualizado_em": "2026-10-27T13:38:52.709401",
  "fonte_dados": "ECDC",
  "serie_temporal": [],
  "distribuicao_geografica": [],
@@ -67,6 +67,9 @@
       ],
       [
        "ECDC, Ebola disease outbreak in the Democratic Republic of the Congo"
+      ],
+      [
+       "ECDC, Ebola disease outbreak in the Democratic Republic of the Congo"
       ]
      ],
      "hovertemplate": "%{x|%d/%m/%Y}<br><b>%{y:,}</b> casos confirmados<br><i>%{customdata[0]}</i><extra></extra>",
@@ -91,7 +94,8 @@
       "2026-10-15",
       "2026-10-19",
       "2026-10-21",
-      "2026-10-25"
+      "2026-10-25",
+      "2026-10-26"
      ],
      "y": [
       2124,
@@ -105,6 +109,7 @@
       9277,
       9552,
       9704,
+      9,
       9
      ],
      "type": "scatter"
@@ -146,6 +151,9 @@
       ],
       [
        "ECDC, Ebola disease outbreak in the Democratic Republic of the Congo"
+      ],
+      [
+       "ECDC, Ebola disease outbreak in the Democratic Republic of the Congo"
       ]
      ],
      "hovertemplate": "%{x|%d/%m/%Y}<br><b>%{y:,}</b> óbitos entre confirmados<br><i>%{customdata[0]}</i><extra></extra>",
@@ -170,7 +178,8 @@
       "2026-10-15",
       "2026-10-19",
       "2026-10-21",
-      "2026-10-25"
+      "2026-10-25",
+      "2026-10-26"
      ],
      "y": [
       828,
@@ -184,6 +193,7 @@
       4478,
       4602,
       4687,
+      2,
       2
      ],
      "type": "scatter"
@@ -1052,6 +1062,10 @@
       [
        "20/10 a 25/10",
        5
+      ],
+      [
+       "25/10 a 26/10",
+       1
       ]
      ],
      "hovertemplate": "%{customdata[0]} (%{customdata[1]} dias)<br><b>%{y:,}</b> novos casos por semana<extra></extra>",
@@ -1069,7 +1083,8 @@
       622080000.0,
       311040000.0,
       155520000.0,
-      388800000.0
+      388800000.0,
+      77760000.0
      ],
      "x": [
       "2026-07-25",
@@ -1082,7 +1097,8 @@
       "2026-10-10",
       "2026-10-16",
       "2026-10-19",
-      "2026-10-22"
+      "2026-10-22",
+      "2026-10-25"
      ],
      "y": [
       643,
@@ -1095,7 +1111,8 @@
       480,
       481,
       532,
-      -13573
+      -13573,
+      0
      ],
      "type": "bar"
     }
@@ -3740,7 +3757,7 @@
   }
  ],
  "notas": [
-  "Média de novos casos confirmados por semana: -13.573 entre 20/10 e 25/10, ante 532 entre 18/10 e 20/10 (-2651%). Cálculo a partir dos acumulados publicados pelo ECDC.",
+  "Média de novos casos confirmados por semana: 0 entre 25/10 e 26/10, ante -13.573 entre 20/10 e 25/10 (-100%). Cálculo a partir dos acumulados publicados pelo ECDC.",
   "Expansão geográfica: as zonas de saúde afetadas passaram de 46 (16/07/2026) para 66 (19/10/2026), e as províncias com casos, de 5 para 8.",
   "Segundo o ECDC, os dados da RDC sobre casos e óbitos confirmados estão em revisão e harmonização contínuas."
  ],
@@ -4045,6 +4062,25 @@
    "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
    "captura": "automática",
    "capturado_em": "2026-10-26"
+  },
+  {
+   "data_referencia": "2026-10-26",
+   "casos": 9,
+   "obitos": 2,
+   "dados_ate": null,
+   "hospitalizados": null,
+   "recuperados": null,
+   "novos_casos": null,
+   "novos_obitos": null,
+   "provincias": null,
+   "zs_afetadas": null,
+   "zs_total": null,
+   "n_provincias": 8,
+   "quenia": null,
+   "fonte": "ECDC, Ebola disease outbreak in the Democratic Republic of the Congo",
+   "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+   "captura": "automática",
+   "capturado_em": "2026-10-27"
   }
  ]
 }

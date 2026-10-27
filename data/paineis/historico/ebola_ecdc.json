@@ -107,5 +107,24 @@
   "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
   "captura": "automática",
   "capturado_em": "2026-10-26"
+ },
+ {
+  "data_referencia": "2026-10-26",
+  "casos": 9,
+  "obitos": 2,
+  "dados_ate": null,
+  "hospitalizados": null,
+  "recuperados": null,
+  "novos_casos": null,
+  "novos_obitos": null,
+  "provincias": null,
+  "zs_afetadas": null,
+  "zs_total": null,
+  "n_provincias": 8,
+  "quenia": null,
+  "fonte": "ECDC, Ebola disease outbreak in the Democratic Republic of the Congo",
+  "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+  "captura": "automática",
+  "capturado_em": "2026-10-27"
  }
 ]
