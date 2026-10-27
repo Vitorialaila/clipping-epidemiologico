@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-10-27T16:37:09+00:00",
+  "em": "2026-10-27T21:17:43+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,7 +10,7 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-10-27T16:37:09+00:00",
+  "em": "2026-10-27T21:17:43+00:00",
   "lidos": 40,
   "novos": 0,
   "exemplos": [
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-10-27T16:37:09+00:00",
+  "em": "2026-10-27T21:17:43+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-10-27T16:37:09+00:00",
+  "em": "2026-10-27T21:17:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-10-27T16:37:09+00:00",
+  "em": "2026-10-27T21:17:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-10-27T16:37:09+00:00",
+  "em": "2026-10-27T21:17:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-10-27T16:37:09+00:00",
+  "em": "2026-10-27T21:17:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,9 +70,9 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-10-27T16:37:09+00:00",
+  "em": "2026-10-27T21:17:43+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "ECDC to deploy experts as Ebola cases emerge in Kenya and Nigeria",
    "Importation of Ebola cases to Kenya and Nigeria: ECDC assesses the threat",
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-10-27T16:37:09+00:00",
+  "em": "2026-10-27T21:17:43+00:00",
   "lidos": 2345,
   "novos": 0,
   "exemplos": [
@@ -90,9 +90,9 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-10-27T16:37:09+00:00",
+  "em": "2026-10-27T21:17:43+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Africa CDC Commends Kenya’s Decisive Leadership and Strengthens Joint Efforts to Contain Ebola",
    "Africa CDC Supports the AUC Chairperson’s Call for the Immediate and Unconditional Lifting of Unilateral Sanctions again",
@@ -100,29 +100,29 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-10-27T16:37:09+00:00",
+  "em": "2026-10-27T21:17:43+00:00",
   "lidos": 15,
-  "novos": 1,
+  "novos": 3,
   "exemplos": [
-   "No Dia Nacional de Mobilização Pró-Saúde da População Negra, Ministério da Saúde reforça combate ao racismo na saúde dig",
-   "Telessaúde avança no SUS, chega a 63 núcleos e ultrapassa R$ 248,9 milhões em recursos e incentivos",
-   "Carreta de cardiologia do SUS chega a Guarulhos (SP) para oferta de atendimentos especializados"
+   "Ministério da Saúde economiza mais de R$ 1 bilhão na compra de produtos para o SUS",
+   "Inaep abre inscrições para encontro nacional sobre ética em pesquisa com seres humanos",
+   "Precisa de acolhimento em saúde mental? Saiba como acessar o Acolhe Mais pelo Meu SUS Digital"
   ]
  },
  "fiocruz": {
-  "em": "2026-10-27T16:37:09+00:00",
+  "em": "2026-10-27T21:17:43+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 4,
   "exemplos": [
-   "Nav. ed. pt Estante livros mágico-religiosos",
-   "Como livros mágico-religiosos foram transformados em objetos de cura, feitiçaria e evidência de delito no Rio de Janeiro",
-   "Fiocruz tem primeiro laboratório a conquistar acreditação internacional ISO 15189"
+   "Nav. ed. pt Estante Abril Indígena 2026",
+   "Fiocruz lança publicação que reúne memórias, saberes e experiências do Abril Indígena 2026",
+   "Radis destaca como SUS se prepara para as mudanças climáticas"
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-10-27T16:37:09+00:00",
+  "em": "2026-10-27T21:17:43+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Câncer de mama: mulheres negras morrem 3,8 vezes mais que brancas",
    "Anvisa proíbe venda de picolé com melatonina e suplemento de proteína",
@@ -130,38 +130,32 @@
   ]
  },
  "ses-go": {
-  "em": "2026-10-27T16:37:09+00:00",
-  "lidos": 10,
-  "novos": 4,
-  "exemplos": [
-   "Escala HDS – Novembro",
-   "Ministério Público de Goiás promove encontro voltado à área do Controle Social em novembro",
-   "Escala Hemu – Novembro"
-  ]
+  "em": "2026-10-27T21:17:43+00:00",
+  "erro": "HTTPSConnectionPool(host='goias.gov.br', port=443): Read timed out. (read timeout=30)"
  },
  "agencia-brasil-geral": {
-  "em": "2026-10-27T16:37:09+00:00",
+  "em": "2026-10-27T21:17:43+00:00",
   "lidos": 10,
-  "novos": 3,
+  "novos": 1,
   "exemplos": [
+   "Lula se solidariza com Juca Kfouri pela morte da filha, Camila Kfouri",
    "Zumbi, Finados e Proclamação: confira feriados nacionais de novembro",
-   "Polícia investiga morte de engenheiro agredido após ato pró-Lula",
-   "PF investiga desvio de dinheiro em empresa de previdência de São Roque"
+   "Polícia investiga morte de engenheiro agredido após ato pró-Lula"
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-10-27T16:37:09+00:00",
+  "em": "2026-10-27T21:17:43+00:00",
   "lidos": 25,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
-   "Anvisa aprova ampliação do uso do Implanon de três para cinco anos; entenda",
-   "Outubro Rosa: confira tudo o que você precisa saber sobre o câncer de mama",
-   "\"Psoríase não é contagiosa\": médica alerta para impactos do preconceito"
+   "O cabelo muda na menopausa? Veja cuidados necessários para a saúde dos fios",
+   "Mais de 3 milhões de adolescentes estão com vacinação da dengue incompleta",
+   "Anvisa aprova ampliação do uso do Implanon de três para cinco anos; entenda"
   ]
  },
  "cnn-saude": {
-  "em": "2026-10-27T16:37:09+00:00",
-  "lidos": 25,
+  "em": "2026-10-27T21:17:43+00:00",
+  "lidos": 24,
   "novos": 0,
   "exemplos": [
    "At one Atlanta restaurant, workers are family. A health insurance crisis tested that commitment",
@@ -170,8 +164,8 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-10-27T16:37:09+00:00",
-  "lidos": 24,
+  "em": "2026-10-27T21:17:43+00:00",
+  "lidos": 23,
   "novos": 0,
   "exemplos": [
    "One US measles outbreak is proving particularly deadly. Here’s why",
@@ -180,17 +174,17 @@
   ]
  },
  "inmet": {
-  "em": "2026-10-27T16:37:09+00:00",
+  "em": "2026-10-27T21:17:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
+   "Previsão para quarta-feira (28) e quinta-feira (29)",
    "Previsão para terça-feira (27) e quarta-feira (28)",
-   "INMET divulga previsão para semana de 26 de outubro a 02 de novembro de 2026",
-   "Previsão para sábado (24), domingo (25) e segunda-feira (26)"
+   "INMET divulga previsão para semana de 26 de outubro a 02 de novembro de 2026"
   ]
  },
  "cemaden": {
-  "em": "2026-10-27T16:37:09+00:00",
+  "em": "2026-10-27T21:17:43+00:00",
   "lidos": 8,
   "novos": 0,
   "exemplos": [
@@ -200,23 +194,23 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-10-27T16:37:09+00:00",
-  "lidos": 25,
-  "novos": 0,
+  "em": "2026-10-27T21:17:43+00:00",
+  "lidos": 22,
+  "novos": 2,
   "exemplos": [
-   "Autorizado repasse de R$ 1,2 milhão para ações de defesa civil",
    "Autorizado repasse de R$ 14,3 milhões para ações de defesa civil",
-   "Reconhecida emergência em 28 cidades afetadas por desastres"
+   "Reconhecida emergência na cidade catarinense de São Domingos, atingida por queda de granizo",
+   "Reconhecida emergência em 21 cidades afetadas por desastres"
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-10-27T16:37:09+00:00",
-  "lidos": 20,
-  "novos": 5,
+  "em": "2026-10-27T21:17:43+00:00",
+  "lidos": 21,
+  "novos": 19,
   "exemplos": [
+   "Celina promete diálogo com Lula apesar de divergências políticas",
    "DF tem previsão de chuva e trovoadas nesta terça-feira (27/10)",
-   "Mães atípicas cobram políticas públicas de apoio a cuidadores no DF",
-   "Novo Qualifica DF Móvel abre mais de 900 vagas em cursos gratuitos"
+   "Membros do PCC envolvidos na execução de rivais morrem em confronto com a polícia"
   ]
  }
 }

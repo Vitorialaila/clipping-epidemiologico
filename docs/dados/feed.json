@@ -34,6 +34,23 @@
   "m": []
  },
  {
+  "t": "Mais de 3 milhões de adolescentes estão com vacinação da dengue incompleta",
+  "u": "https://www.cnnbrasil.com.br/saude/mais-de-3-milhoes-de-adolescentes-estao-com-vacinacao-da-dengue-incompleta/",
+  "d": "2026-10-27",
+  "df": "27 out 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Internacional",
+  "a": [
+   "Dengue"
+  ],
+  "p": 4.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "mosquito",
+  "m": []
+ },
+ {
   "t": "Defesa Civil de SP alerta para os riscos de se enfrentar enchentes e alagamentos",
   "u": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-de-sp-alerta-para-os-riscos-de-se-enfrentar-enchentes-e-alagamentos/",
   "d": "2026-10-26",
@@ -46,6 +63,41 @@
    "Saúde ambiental e clima"
   ],
   "p": 13.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "desastre",
+  "m": []
+ },
+ {
+  "t": "Reconhecida emergência na cidade catarinense de São Domingos, atingida por queda de granizo",
+  "u": "https://www.gov.br/mdr/pt-br/noticias-midr/reconhecida-emergencia-na-cidade-catarinense-de-sao-domingos-atingida-por-queda-de-granizo",
+  "d": "2026-10-26",
+  "df": "26 out 2026",
+  "f": "Defesa Civil",
+  "fn": "www.gov.br",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 11.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "desastre",
+  "m": []
+ },
+ {
+  "t": "Reconhecida emergência em seis cidades paranaenses atingidas por vendaval",
+  "u": "https://www.gov.br/mdr/pt-br/noticias-midr/reconhecida-emergencia-em-seis-cidades-paranaenses-atingidas-por-vendaval",
+  "d": "2026-10-26",
+  "df": "26 out 2026",
+  "f": "Defesa Civil",
+  "fn": "www.gov.br",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres"
+  ],
+  "p": 11.0,
   "se": "2026-43",
   "r": "",
   "i": "desastre",
