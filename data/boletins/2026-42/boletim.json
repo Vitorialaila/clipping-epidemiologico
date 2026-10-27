@@ -1,0 +1,1802 @@
+{
+ "edicao": "2026-42",
+ "se": "202642",
+ "origem": {
+  "design_id": "DAHYqQ1RZX0",
+  "titulo": "SITREP SE 42/26",
+  "lido_em": "2026-10-27"
+ },
+ "resumo": "A SE 42 de 2026 foi marcada pela continuidade dos efeitos de eventos extremos sob o El Niño: o terremoto de magnitude 7,5 no Panamá deixou 22 unidades de saúde não operativas e 3.827 pessoas em abrigos, o furacão Simon atingiu a categoria 4 na costa do Pacífico mexicano e a cheia do rio Paraná levou à assistência de 220 famílias na fronteira com Foz do Iguaçu. A seca persiste em grande parte do país, inclusive em todo o Distrito Federal, e o PM2,5 supera 50 µg/m³ no Pará e no Amazonas. A SRAG segue estável no Brasil, com sinal de crescimento em Goiás, Mato Grosso e Sergipe, e os casos caem em todas as regiões de saúde do DF. A dengue soma 25.611 casos prováveis no país nas SE 38 a 41, e o DF acumula 3.596 casos prováveis no ano. Nas Américas, o sarampo chega a 56.978 casos e 83 óbitos, e o Peru registra casos em departamentos da fronteira com o Brasil; nenhuma região brasileira atinge a meta de cobertura da segunda dose. OPAS e SES-GO alertam para muito alto risco de reintrodução da poliomielite. A epidemia de doença pelo vírus Bundibugyo na República Democrática do Congo alcança 9.704 casos confirmados e chega ao Quênia e à Nigéria, e a França notifica o primeiro caso humano de infecção pelo vírus Shamonda no mundo.",
+ "secoes": [
+  {
+   "id": "ambiental",
+   "nome": "Alerta ambiental",
+   "risco": "Risco 2",
+   "risco_desc": "Inundação, chuva, seca e queimada",
+   "itens": [
+    {
+     "slide": 5,
+     "titulo": "Terremoto de magnitude 7,5 deixa 22 unidades de saúde não operativas no Panamá em outubro de 2026",
+     "figura": "Danos em edificação no Panamá após o terremoto de 9 de outubro de 2026 (foto: Reuters/Enea Lebrun)",
+     "texto": "O terremoto de magnitude 7,5 que atingiu o Panamá em 9 de outubro tem como principal desafio sanitário a perda de capacidade assistencial, e não a mortalidade imediata: na atualização de 23 de outubro, havia um óbito confirmado e 27 pessoas feridas. Dos 219 estabelecimentos de saúde avaliados pelo Ministério da Saúde do Panamá (Minsa), 22 estão com infraestrutura não operativa e 38 parcialmente operativos, e 30 mantêm o atendimento em espaços temporários ou adaptados; o Hospital Rural de Tonosí foi inabilitado. O Sistema Nacional de Proteção Civil (Sinaproc) contabiliza 26.018 pessoas diretamente afetadas, entre elas 85 gestantes e 1.026 pessoas com deficiência, e 3.827 pessoas em 55 abrigos ativos, concentradas em Veraguas (69,8%). O Minsa acompanha 908 eventos respiratórios e 473 entéricos e mantém vigilância reforçada para doenças respiratórias, gastrointestinais, dengue e outros eventos transmitidos por vetores e zoonoses. Dos 24 aquedutos rurais afetados em Soná e Mariato, 22 foram reativados, mas persistem dificuldades de acesso às tomadas de água de Malena e Furniales.",
+     "paineis": [
+      {
+       "r": [
+        703,
+        222,
+        890,
+        458
+       ]
+      }
+     ],
+     "indicadores": [
+      {
+       "v": "7,5",
+       "l": "magnitude do terremoto",
+       "d": ""
+      },
+      {
+       "v": "26.018",
+       "l": "pessoas afetadas",
+       "d": ""
+      },
+      {
+       "v": "3.827",
+       "l": "pessoas em 55 abrigos",
+       "d": ""
+      },
+      {
+       "v": "22 de 219",
+       "l": "unidades de saúde não operativas",
+       "d": ""
+      }
+     ],
+     "fonte": "OPAS"
+    },
+    {
+     "slide": 6,
+     "titulo": "Furacão Simon atinge a categoria 4 e passa paralelo à costa do Pacífico do México em 11 de outubro de 2026",
+     "figura": "Previsão de chuva emitida em 10 de outubro de 2026 para as áreas afetadas pelo furacão Simon, México",
+     "texto": "O furacão Simon se formou no Pacífico e ganhou força de furacão entre 8 e 9 de outubro. A intensificação foi rápida, e o sistema chegou à categoria 4 no dia 10, com ventos de cerca de 240 km/h. Em 11 de outubro, o núcleo passou paralelo à costa oeste-central do México, próximo a Colima, Jalisco e Nayarit; depois permaneceu sobre o mar, com oscilações de intensidade, e se dissipou em 16 de outubro. Para a vigilância em saúde, os impactos esperados incluem traumas e afogamentos associados a ventos, ressaca e correntes de retorno; leptospirose e doenças diarreicas agudas após inundações em áreas urbanas e rurais; aumento do risco de arboviroses pela água parada nas semanas seguintes; e deslizamentos provocados pela chuva em encostas, com risco para a população e para os serviços de saúde, de abastecimento de água e de energia.",
+     "paineis": [
+      {
+       "r": [
+        470,
+        168,
+        882,
+        465
+       ]
+      }
+     ],
+     "indicadores": [
+      {
+       "v": "Categoria 4",
+       "l": "pico de intensidade em 10 de outubro",
+       "d": ""
+      },
+      {
+       "v": "240 km/h",
+       "l": "ventos máximos",
+       "d": ""
+      },
+      {
+       "v": "16/10",
+       "l": "dissipação do sistema",
+       "d": ""
+      }
+     ],
+     "fonte": "Unicef, OCHA e NOAA"
+    },
+    {
+     "slide": 7,
+     "titulo": "Cheia do rio Paraná atinge Foz do Iguaçu (PR) e Ciudad del Este (Paraguai), com 220 famílias assistidas até 19 de outubro de 2026",
+     "figura": "Cheia do rio Paraná nas Cataratas do Iguaçu e em Ciudad del Este (Paraguai), outubro de 2026",
+     "texto": "A cheia do rio Paraná, em outubro de 2026, provocou impactos em Foz do Iguaçu, no Brasil, e em Ciudad del Este, no Paraguai. Em 19 de outubro, 220 famílias haviam recebido assistência no bairro San Rafael, no lado paraguaio. O nível do rio, que ultrapassou 121,40 m no pico da cheia, recuou para 116,80 m em 20 de outubro, o que indica redução da água, mas não necessariamente o fim dos riscos, já que a previsão de chuvas intensas mantém a possibilidade de novas elevações. A situação reforça a importância do acompanhamento dos boletins hidrológicos, da permanência das famílias removidas em locais seguros até a liberação pelas autoridades e da prevenção de doenças e acidentes em áreas inundadas.",
+     "paineis": [
+      {
+       "r": [
+        466,
+        128,
+        900,
+        268
+       ],
+       "p": "Passarelas das Cataratas do Iguaçu"
+      },
+      {
+       "r": [
+        518,
+        292,
+        856,
+        486
+       ],
+       "p": "Ciudad del Este, Paraguai"
+      }
+     ],
+     "indicadores": [
+      {
+       "v": "220",
+       "l": "famílias assistidas em San Rafael (Paraguai), em 19/10",
+       "d": ""
+      },
+      {
+       "v": "121,40 m",
+       "l": "nível do rio ultrapassado no pico da cheia",
+       "d": ""
+      },
+      {
+       "v": "116,80 m",
+       "l": "nível do rio em 20/10",
+       "d": ""
+      }
+     ],
+     "fonte": "Prefeitura de Foz do Iguaçu"
+    },
+    {
+     "slide": 8,
+     "titulo": "Monitor de Secas registra seca em grande parte do Brasil e em todo o Distrito Federal em outubro de 2026",
+     "figura": "Intensidade e tipo de impacto da seca no Brasil, Monitor de Secas, elaborado em 16 de outubro de 2026",
+     "texto": "A seca atinge grande parte do território brasileiro, com predomínio da seca fraca e sem registro de seca extrema ou excepcional. As situações mais graves (seca grave, S2) se concentram no norte de Roraima, no centro e sudoeste da Amazônia e, principalmente, no oeste e centro da Bahia. A Região Sul permanece livre de seca, assim como áreas de Mato Grosso do Sul e do sul de Mato Grosso. No Distrito Federal não houve alteração em relação ao mapa anterior: todo o território segue com seca fraca e impactos de curto prazo. Apesar da menor intensidade, as condições ambientais no DF exigem atenção, pois podem contribuir para o agravamento de problemas respiratórios e de outros efeitos sobre a saúde da população.",
+     "paineis": [
+      {
+       "r": [
+        450,
+        100,
+        915,
+        512
+       ],
+       "apagar": [
+        [
+         440,
+         490,
+         620,
+         515
+        ]
+       ]
+      }
+     ],
+     "indicadores": [
+      {
+       "v": "S2",
+       "l": "seca grave em RR, no centro e sudoeste da Amazônia e na Bahia",
+       "d": ""
+      },
+      {
+       "v": "Seca fraca",
+       "l": "em todo o Distrito Federal, impactos de curto prazo",
+       "d": ""
+      }
+     ],
+     "fonte": "Monitor de Secas (ANA)"
+    },
+    {
+     "slide": 9,
+     "titulo": "Concentrações de PM2,5 superam 50 µg/m³ no centro-norte do Pará e no sul do Amazonas em outubro de 2026",
+     "figura": "Concentração de material particulado fino (PM2,5) estimada pelo SISAM, Brasil, outubro de 2026",
+     "texto": "A qualidade do ar piorou na Amazônia Legal e no Centro-Oeste, com concentrações elevadas de material particulado fino (PM2,5). Os níveis mais altos estão no centro-norte do Pará e no sul do Amazonas, acima de 50 µg/m³. Mato Grosso, Tocantins e partes do Maranhão, do Piauí e da Bahia estão na faixa moderada, entre 15 e 50 µg/m³, assim como uma mancha no interior de São Paulo e de Minas Gerais. O Sul, o litoral do Nordeste e o litoral do Sudeste apresentam boa qualidade do ar, abaixo de 15 µg/m³. A exposição a essas partículas pode agravar doenças respiratórias e cardiovasculares, sobretudo em crianças, idosos, gestantes e pessoas com doenças crônicas.",
+     "paineis": [
+      {
+       "r": [
+        480,
+        105,
+        850,
+        512
+       ]
+      }
+     ],
+     "indicadores": [
+      {
+       "v": "> 50 µg/m³",
+       "l": "PM2,5 no centro-norte do Pará e no sul do Amazonas",
+       "d": ""
+      },
+      {
+       "v": "15 a 50 µg/m³",
+       "l": "faixa moderada em MT, TO e partes de MA, PI e BA",
+       "d": ""
+      }
+     ],
+     "fonte": "SISAM/INPE"
+    },
+    {
+     "slide": 10,
+     "titulo": "Brasília registra média de PM2,5 de 9,5 µg/m³ entre 22 de setembro e 20 de outubro de 2026, sem dias insalubres",
+     "figura": "Concentração diária de PM2,5, Brasília (DF), 22 de setembro a 20 de outubro de 2026",
+     "texto": "Entre 22 de setembro e 20 de outubro, Brasília não registrou nenhum dia com qualidade do ar classificada como insalubre, e as concentrações de material particulado fino (PM2,5) permaneceram, em geral, em níveis satisfatórios. Ainda assim, a concentração média foi de 9,5 µg/m³, com aumento em relação aos meses anteriores de 2026. O valor fica abaixo da diretriz diária da Organização Mundial da Saúde (15 µg/m³), mas quase dobra a referência anual (5 µg/m³). Não existe limiar seguro para o material particulado fino: o dano decorre também da exposição prolongada a concentrações moderadas, e não apenas dos picos. Pessoas com asma, crianças e idosos são os primeiros a sentir o efeito, com mais crises e atendimentos. Sob o El Niño, a combinação de calor, baixa umidade e incêndios no Cerrado e na Amazônia favorece o transporte de fumaça a longas distâncias, e as concentrações podem subir nas próximas semanas.",
+     "paineis": [
+      {
+       "r": [
+        110,
+        155,
+        850,
+        365
+       ]
+      }
+     ],
+     "indicadores": [
+      {
+       "v": "9,5 µg/m³",
+       "l": "média de PM2,5 em Brasília no período",
+       "d": ""
+      },
+      {
+       "v": "0",
+       "l": "dias com qualidade do ar insalubre",
+       "d": ""
+      }
+     ],
+     "fonte": "IQAir"
+    }
+   ]
+  },
+  {
+   "id": "respiratorio",
+   "nome": "Síndrome gripal e SRAG",
+   "risco": "Risco 2",
+   "risco_desc": "Humanos",
+   "itens": [
+    {
+     "slide": 14,
+     "titulo": "Vigilância sentinela de síndrome gripal identifica 46.524 vírus respiratórios no Brasil até a SE 41 de 2026",
+     "figura": "Vírus respiratórios identificados na vigilância sentinela de síndrome gripal, por SE, Brasil, 2026 até a SE 41",
+     "texto": "A vigilância sentinela de síndrome gripal identificou 46.524 vírus respiratórios no Brasil até a SE 41 de 2026. Do total, 70% correspondem a outros vírus respiratórios e 30% à influenza. Entre os outros vírus, o rinovírus segue como o mais detectado (60%), seguido pelo vírus sincicial respiratório (VSR, 16%). Entre os casos de influenza, a influenza B responde por 45% e a influenza A(H3N2) por 37%. Ao longo do ano, o rinovírus foi o vírus mais frequente em todas as semanas. A influenza A(H3N2) teve maior peso no início do ano, com pico entre as SE 9 e 11, e depois perdeu espaço. A influenza B ganhou destaque a partir da SE 19, manteve alta circulação até cerca da SE 28 e vem diminuindo desde então. O VSR aumentou entre as SE 19 e 26 e segue em queda. O SARS-CoV-2 manteve baixa detecção em todo o período. Nas últimas semanas há redução geral das detecções, sobretudo nas SE 40 e 41, que ainda devem ser atualizadas e por isso precisam ser interpretadas com cautela.",
+     "paineis": [
+      {
+       "r": [
+        50,
+        128,
+        745,
+        495
+       ],
+       "apagar": [
+        [
+         55,
+         450,
+         203,
+         495
+        ]
+       ]
+      }
+     ],
+     "indicadores": [
+      {
+       "v": "46.524",
+       "l": "vírus respiratórios identificados",
+       "d": ""
+      },
+      {
+       "v": "60%",
+       "l": "rinovírus entre os outros vírus",
+       "d": ""
+      },
+      {
+       "v": "45%",
+       "l": "influenza B entre os casos de influenza",
+       "d": ""
+      },
+      {
+       "v": "37%",
+       "l": "influenza A(H3N2) entre os casos de influenza",
+       "d": ""
+      }
+     ],
+     "fonte": "Ministério da Saúde"
+    },
+    {
+     "slide": 15,
+     "titulo": "InfoGripe aponta estabilidade da SRAG no Brasil até a SE 41 de 2026, com sinal de crescimento em Goiás, Mato Grosso e Sergipe",
+     "figura": "Incidência semanal de SRAG e casos novos por faixa etária, Brasil, 2026 até a SE 41",
+     "texto": "A incidência semanal de SRAG no Brasil está em queda desde o pico ocorrido entre as SE 20 e 22, quando chegou a cerca de 3,2 casos por 100 mil habitantes. Desde aproximadamente a SE 32, a incidência se mantém estável, em torno de 1,3 caso por 100 mil habitantes, e a redução observada nas SE 40 e 41 deve ser vista com cautela, pois ainda sofre o efeito do atraso de notificação. Por faixa etária, os menores de 2 anos concentram o maior número de casos, hoje em torno de 1.000 por semana; as demais faixas mostram queda ou estabilidade, com leve aumento em crianças de 2 a 4 e de 5 a 14 anos por volta das SE 32 a 34. Três estados apresentam incidência de SRAG com sinal de crescimento: Goiás, Mato Grosso e Sergipe.",
+     "paineis": [
+      {
+       "r": [
+        55,
+        130,
+        435,
+        385
+       ],
+       "p": "Incidência semanal de SRAG"
+      },
+      {
+       "r": [
+        440,
+        150,
+        940,
+        465
+       ],
+       "p": "Casos novos de SRAG por faixa etária"
+      }
+     ],
+     "indicadores": [
+      {
+       "v": "3,2",
+       "l": "casos por 100 mil hab. no pico, SE 20 a 22",
+       "d": ""
+      },
+      {
+       "v": "1,3",
+       "l": "casos por 100 mil hab. desde a SE 32",
+       "d": ""
+      },
+      {
+       "v": "3 UF",
+       "l": "com sinal de crescimento: GO, MT e SE",
+       "d": ""
+      }
+     ],
+     "fonte": "InfoGripe (Fiocruz)"
+    },
+    {
+     "slide": 16,
+     "titulo": "Brasil registra 6.977 óbitos por SRAG entre 160.632 casos confirmados até a SE 41 de 2026",
+     "figura": "Óbitos por SRAG e detecção de vírus respiratórios em óbitos, Brasil, até a SE 41 de 2026",
+     "texto": "Até a SE 41 de 2026, o Brasil registrou 6.977 óbitos por SRAG entre 160.632 casos confirmados. Em relação à semana anterior, os casos e os óbitos aumentaram 1,8%. A mortalidade se concentra nas pessoas com 65 anos ou mais, que respondem por grande parte das detecções virais em óbitos, com destaque para influenza A, rinovírus e covid-19, enquanto nos menores de 2 anos predominam o VSR e o rinovírus.",
+     "paineis": [
+      {
+       "r": [
+        25,
+        205,
+        535,
+        465
+       ],
+       "p": "Detecção de vírus respiratórios em óbitos por semana"
+      },
+      {
+       "r": [
+        535,
+        170,
+        957,
+        505
+       ],
+       "p": "Detecção viral em óbitos por faixa etária"
+      }
+     ],
+     "indicadores": [
+      {
+       "v": "160.632",
+       "l": "casos de SRAG confirmados",
+       "d": "alta de 1,8%"
+      },
+      {
+       "v": "6.977",
+       "l": "óbitos por SRAG",
+       "d": "alta de 1,8%"
+      }
+     ],
+     "fonte": "Ministério da Saúde"
+    },
+    {
+     "slide": 17,
+     "titulo": "Vigilância sentinela do Distrito Federal registra aumento discreto de SARS-CoV-2 entre as SE 36 e 41 de 2026",
+     "figura": "Distribuição dos vírus identificados pela vigilância sentinela do Distrito Federal, por SE, 2026",
+     "texto": "No Distrito Federal, a distribuição percentual dos vírus respiratórios causadores de síndrome gripal identificados pela vigilância sentinela até a SE 41 de 2026 mostra padrão relativamente estável ao longo do ano. O rinovírus segue como o vírus mais identificado em praticamente todas as semanas, seguido pela influenza B, que ganhou destaque a partir da SE 17 e se mantém presente, e pela influenza A não subtipada. O VSR e o adenovírus aparecem em menor proporção. O metapneumovírus, que teve participação importante até cerca da SE 13, ainda não voltou a aumentar. Já o SARS-CoV-2 aumentou de forma discreta nas últimas semanas, com participação maior entre as SE 36 e 41, ainda que a proporção possa oscilar pelo pequeno número de amostras. Na SE 40 foram coletadas e processadas 50 amostras (100%); na SE 41, 39 coletadas e 27 processadas (69%); e na SE 42, 8 coletadas e 4 processadas (50%). As semanas mais recentes ainda serão atualizadas, pois o processamento das amostras não foi concluído.",
+     "paineis": [
+      {
+       "r": [
+        55,
+        120,
+        705,
+        525
+       ],
+       "apagar": [
+        [
+         40,
+         495,
+         170,
+         530
+        ]
+       ]
+      }
+     ],
+     "indicadores": [
+      {
+       "v": "50 (100%)",
+       "l": "amostras processadas na SE 40",
+       "d": ""
+      },
+      {
+       "v": "27 (69%)",
+       "l": "amostras processadas na SE 41",
+       "d": ""
+      },
+      {
+       "v": "4 (50%)",
+       "l": "amostras processadas na SE 42",
+       "d": ""
+      }
+     ],
+     "fonte": "SIVEP-Gripe"
+    },
+    {
+     "slide": 18,
+     "titulo": "Casos de SRAG caem em todas as regiões de saúde do Distrito Federal nas SE 38 a 41 de 2026",
+     "figura": "Casos de SRAG por região de saúde do Distrito Federal, SE 38 a 41 de 2026",
+     "texto": "Os casos de SRAG apresentaram queda em todas as regiões de saúde do Distrito Federal entre as SE 38 e 41, em comparação com o intervalo das SE 37 a 40. A Região Oeste segue com o maior número de casos nas últimas quatro semanas, 64, com queda de 9,8%, seguida da Região Sudoeste (63 casos, queda de 13,7%) e da Região Centro-Sul (48 casos, queda de 14,2%). As maiores reduções percentuais ocorreram nas regiões Leste (42,8%) e Central (21,4%), e a menor, na Região Norte (6,6%). Esses números ainda podem aumentar, pois a notificação tem atraso natural: o agravamento da síndrome gripal costuma ocorrer algum tempo depois dos primeiros sintomas.",
+     "paineis": [
+      {
+       "r": [
+        590,
+        195,
+        905,
+        455
+       ]
+      }
+     ],
+     "indicadores": [
+      {
+       "v": "64",
+       "l": "casos na Região Oeste, a maior do DF",
+       "d": "queda de 9,8%"
+      },
+      {
+       "v": "42,8%",
+       "l": "maior queda, na Região Leste",
+       "d": ""
+      }
+     ],
+     "tabela": {
+      "titulo": "Casos de SRAG por região de saúde, Distrito Federal, SE 38 a 41 de 2026",
+      "cab": [
+       "Região de saúde",
+       "SE 38",
+       "SE 39",
+       "SE 40",
+       "SE 41",
+       "Total",
+       "Variação*"
+      ],
+      "linhas": [
+       [
+        "Oeste",
+        "16",
+        "21",
+        "14",
+        "13",
+        "64",
+        "queda de 9,8%"
+       ],
+       [
+        "Sudoeste",
+        "20",
+        "20",
+        "11",
+        "12",
+        "63",
+        "queda de 13,7%"
+       ],
+       [
+        "Centro-Sul",
+        "12",
+        "17",
+        "13",
+        "6",
+        "48",
+        "queda de 14,2%"
+       ],
+       [
+        "Sul",
+        "11",
+        "6",
+        "10",
+        "5",
+        "32",
+        "queda de 15,7%"
+       ],
+       [
+        "Norte",
+        "8",
+        "10",
+        "7",
+        "3",
+        "28",
+        "queda de 6,6%"
+       ],
+       [
+        "Central",
+        "5",
+        "8",
+        "6",
+        "3",
+        "22",
+        "queda de 21,4%"
+       ],
+       [
+        "Leste",
+        "8",
+        "4",
+        "4",
+        "0",
+        "16",
+        "queda de 42,8%"
+       ]
+      ],
+      "nota": "*Em relação às SE 37 a 40."
+     },
+     "fonte": "SIVEP-Gripe"
+    }
+   ]
+  },
+  {
+   "id": "vacinal",
+   "nome": "Cobertura vacinal",
+   "risco": "Risco 0",
+   "risco_desc": "Humanos",
+   "itens": [
+    {
+     "slide": 22,
+     "titulo": "Cobertura vacinal contra influenza em crianças e idosos fica abaixo da meta no DF e na RIDE-DF em 2026",
+     "figura": "Cobertura vacinal contra influenza em crianças de 6 meses a 6 anos, gestantes e idosos, DF e RIDE-DF, 2026",
+     "texto": "A cobertura vacinal contra a influenza em 2026 no Distrito Federal e nos municípios da RIDE-DF permanece abaixo da meta de 90% definida pelo Ministério da Saúde para os grupos prioritários na maior parte do território. Em crianças de 6 meses a menores de 6 anos, nenhum município alcança 80%: predominam coberturas entre 41% e 60%, inclusive no Distrito Federal, e há municípios na faixa de 21% a 40%, concentrados nas porções oeste e central da região. A necessidade de duas doses na primovacinação contribui para esquemas incompletos nessa faixa etária. Entre os idosos, o cenário é o mais desfavorável: a maioria dos municípios, sobretudo no norte e no centro da região, registra coberturas entre 21% e 40%, e o Distrito Federal está entre 41% e 60%. O dado é relevante porque os idosos concentram a maior carga de hospitalizações e óbitos por influenza e, historicamente, apresentavam maior adesão à vacinação. Nas gestantes, a situação é mais favorável e heterogênea, com vários municípios acima de 95% e o Distrito Federal acima de 80%; coberturas muito elevadas nesse grupo devem ser interpretadas com cautela, pois o denominador é estimado a partir dos nascidos vivos e pode subestimar a população-alvo. A coexistência de municípios com baixa cobertura favorece bolsões de suscetíveis em uma região de intensa mobilidade pendular com o Distrito Federal.",
+     "paineis": [
+      {
+       "r": [
+        20,
+        125,
+        936,
+        500
+       ]
+      }
+     ],
+     "indicadores": [
+      {
+       "v": "90%",
+       "l": "meta de cobertura para os grupos prioritários",
+       "d": ""
+      },
+      {
+       "v": "41% a 60%",
+       "l": "cobertura em crianças e idosos no Distrito Federal",
+       "d": ""
+      },
+      {
+       "v": "> 80%",
+       "l": "cobertura em gestantes no Distrito Federal",
+       "d": ""
+      }
+     ],
+     "fonte": "Ministério da Saúde"
+    },
+    {
+     "slide": 23,
+     "titulo": "OPAS e SES-GO alertam para muito alto risco de reintrodução da poliomielite no Brasil em outubro de 2026",
+     "figura": "",
+     "texto": "Em outubro de 2026, durante as mobilizações do Dia Mundial de Combate à Poliomielite, a Organização Pan-Americana da Saúde (OPAS) e a Secretaria de Estado da Saúde de Goiás (SES-GO) alertaram para o risco de reintrodução da doença no Brasil. Embora as Américas completem 35 anos sem casos de poliomielite causados pelo poliovírus selvagem (o último ocorreu no Peru, em 1991), a cobertura regional com a vacina inativada (VIP) permanece abaixo da meta de 95%, com 91% na primeira dose, 89% na segunda e 87% na terceira em 2025. A taxa de notificação de paralisia flácida aguda (PFA) foi de 0,85 caso por 100 mil menores de 15 anos, abaixo da meta de pelo menos 1. A circulação do poliovírus selvagem tipo 1 no Afeganistão e no Paquistão, com 48 casos em 2026, mantém o risco de importação, especialmente em populações com baixa cobertura vacinal. No Brasil, sem casos desde 1989, as avaliações nacionais classificam o país como de muito alto risco para a reintrodução, principalmente pelas baixas coberturas e por fragilidades nos indicadores de vigilância. Nesse cenário, Goiás reforça a vigilância da PFA, com notificação de todo caso em menores de 15 anos em até 24 horas, investigação epidemiológica, coleta oportuna de fezes para o Lacen-GO e investigação de adolescentes e adultos com quadro compatível. O fortalecimento da vacinação de rotina e da vigilância é essencial para detectar precocemente a circulação viral.",
+     "paineis": [],
+     "indicadores": [
+      {
+       "v": "35 anos",
+       "l": "sem poliovírus selvagem nas Américas",
+       "d": ""
+      },
+      {
+       "v": "87%",
+       "l": "cobertura da 3ª dose de VIP nas Américas em 2025",
+       "d": "meta de 95%"
+      },
+      {
+       "v": "0,85",
+       "l": "caso de PFA por 100 mil menores de 15 anos",
+       "d": "meta de pelo menos 1"
+      },
+      {
+       "v": "48",
+       "l": "casos de poliovírus selvagem tipo 1 no mundo em 2026",
+       "d": ""
+      }
+     ],
+     "fonte": "OPAS/OMS e SES-GO"
+    }
+   ]
+  },
+  {
+   "id": "arboviroses",
+   "nome": "Arboviroses e malária",
+   "risco": "Risco 2",
+   "risco_desc": "Humanos",
+   "itens": [
+    {
+     "slide": 26,
+     "titulo": "Brasil registra 25.611 casos prováveis de dengue e 1 óbito entre as SE 38 e 41 de 2026",
+     "figura": "Incidência de casos prováveis e de casos graves de dengue e letalidade em casos graves por UF, Brasil, SE 38 a 41 de 2026",
+     "texto": "Entre as SE 38 e 41 de 2026, o Brasil registrou 25.611 casos prováveis de dengue, incidência de 12,0 por 100 mil habitantes, redução de 5,7% em relação às SE 37 a 40. Os casos graves e com sinais de alarme somaram 264, com um óbito confirmado e 30 em investigação, o que resulta em letalidade de 0,38% entre os casos graves. Goiás e Espírito Santo apresentam as maiores incidências do país, enquanto São Paulo, Goiás e Minas Gerais concentram o maior volume absoluto de casos. A SE 41 ainda está incompleta por atraso de notificação, e parte da redução observada tende a ser revista.",
+     "paineis": [
+      {
+       "r": [
+        18,
+        215,
+        302,
+        460
+       ],
+       "p": "Incidência de casos prováveis"
+      },
+      {
+       "r": [
+        303,
+        215,
+        615,
+        460
+       ],
+       "p": "Incidência de casos graves"
+      },
+      {
+       "r": [
+        640,
+        215,
+        945,
+        500
+       ],
+       "p": "Letalidade em casos graves"
+      }
+     ],
+     "indicadores": [
+      {
+       "v": "25.611",
+       "l": "casos prováveis",
+       "d": "queda de 5,7%"
+      },
+      {
+       "v": "264",
+       "l": "casos graves e com sinais de alarme",
+       "d": ""
+      },
+      {
+       "v": "1",
+       "l": "óbito confirmado, 30 em investigação",
+       "d": "queda de 50%"
+      }
+     ],
+     "fonte": "Ministério da Saúde"
+    },
+    {
+     "slide": 27,
+     "titulo": "Goiás registra 6.264 casos prováveis de dengue nas SE 38 a 41 de 2026, com maior incidência no município de Panamá",
+     "figura": "Incidência de casos prováveis de dengue por município, Goiás, SE 38 a 41 de 2026",
+     "texto": "Em Goiás, entre as SE 38 e 41 de 2026, foram registrados 6.264 casos prováveis de dengue, incidência de 84 por 100 mil habitantes, estável em relação às quatro semanas anteriores (queda de 1,5%). As maiores incidências ocorrem em municípios de pequeno porte, como Panamá, com 658 por 100 mil, e Campestre de Goiás, com 541, onde poucos casos elevam o indicador. Mineiros e Bela Vista de Goiás combinam incidência acima de 400 por 100 mil com volume absoluto expressivo, de 318 e 156 casos. No acumulado das SE 1 a 42, o estado soma cerca de 170 mil notificações, 17% acima do mesmo período de 2025.",
+     "paineis": [
+      {
+       "r": [
+        15,
+        195,
+        410,
+        512
+       ],
+       "apagar": [
+        [
+         40,
+         495,
+         150,
+         520
+        ]
+       ]
+      }
+     ],
+     "indicadores": [
+      {
+       "v": "6.264",
+       "l": "casos prováveis",
+       "d": "queda de 1,5%"
+      },
+      {
+       "v": "84",
+       "l": "casos por 100 mil hab.",
+       "d": ""
+      },
+      {
+       "v": "170 mil",
+       "l": "notificações no ano, 17% acima de 2025",
+       "d": ""
+      }
+     ],
+     "tabela": {
+      "titulo": "Municípios de Goiás com maior incidência de casos prováveis de dengue, SE 38 a 41 de 2026",
+      "cab": [
+       "Município",
+       "População",
+       "Casos prováveis",
+       "Por 100 mil hab."
+      ],
+      "linhas": [
+       [
+        "Panamá",
+        "2.432",
+        "16",
+        "658"
+       ],
+       [
+        "Campestre de Goiás",
+        "3.879",
+        "21",
+        "541"
+       ],
+       [
+        "Mineiros",
+        "74.999",
+        "318",
+        "424"
+       ],
+       [
+        "Bela Vista de Goiás",
+        "37.305",
+        "156",
+        "418"
+       ]
+      ]
+     },
+     "fonte": "SES-GO"
+    },
+    {
+     "slide": 28,
+     "titulo": "Distrito Federal acumula 3.596 casos prováveis de dengue em 2026, sem óbitos, até a SE 41",
+     "figura": "Incidência de casos prováveis de dengue por região administrativa, Distrito Federal, SE 38 a 41 de 2026",
+     "texto": "No Distrito Federal, até a SE 41 de 2026, foram registrados 3.596 casos prováveis de dengue, aumento de 1,9% em relação ao informe anterior. Do total, 232 foram confirmados, 16 com sinais de alarme, sem casos graves nem óbitos. As maiores incidências acumuladas estão nas regiões de saúde Leste, Sul e Oeste, todas acima de 138 casos por 100 mil habitantes, enquanto a Região Central registra 30,6. Dos 17.683 exames de RT-PCR realizados, 133 foram positivos (positividade de 0,8%), com predomínio do sorotipo DENV-3, seguido do DENV-2; 20 desses casos tiveram relação temporal com a vacina atenuada.",
+     "paineis": [
+      {
+       "r": [
+        440,
+        150,
+        890,
+        455
+       ]
+      }
+     ],
+     "indicadores": [
+      {
+       "v": "3.596",
+       "l": "casos prováveis",
+       "d": "alta de 1,9%"
+      },
+      {
+       "v": "232",
+       "l": "casos confirmados",
+       "d": "alta de 10%"
+      },
+      {
+       "v": "16",
+       "l": "casos com sinais de alarme",
+       "d": ""
+      },
+      {
+       "v": "0",
+       "l": "óbitos",
+       "d": ""
+      }
+     ],
+     "fonte": "SES-DF"
+    },
+    {
+     "slide": 29,
+     "titulo": "Brasil registra 2.607 casos prováveis de chikungunya nas SE 38 a 41 de 2026, com alta em Mato Grosso do Sul",
+     "figura": "Coeficiente de incidência de casos prováveis de chikungunya por UF, Brasil, SE 38 a 41 de 2026",
+     "texto": "Entre as SE 38 e 41 de 2026, o Brasil registrou 2.607 casos prováveis de chikungunya, incidência de 1,2 por 100 mil habitantes, redução de 14,4% em relação às SE 37 a 40, sem óbitos confirmados e com um óbito em investigação em Pernambuco. Mato Grosso do Sul mantém a maior incidência do país, 16,5 por 100 mil, e foi a única unidade federada entre as de maior incidência com aumento no período, de 15,3%. A Bahia concentra o maior volume absoluto, com 562 casos, e, assim como Alagoas, Pernambuco e Rio Grande do Norte, apresentou queda. Parte da redução reflete o atraso de notificação da SE 41.",
+     "paineis": [
+      {
+       "r": [
+        395,
+        150,
+        925,
+        505
+       ]
+      }
+     ],
+     "indicadores": [
+      {
+       "v": "2.607",
+       "l": "casos prováveis",
+       "d": "queda de 14,4%"
+      },
+      {
+       "v": "16,5",
+       "l": "casos por 100 mil hab. em Mato Grosso do Sul",
+       "d": "alta de 15,3%"
+      }
+     ],
+     "tabela": {
+      "titulo": "Estados com maior incidência de casos prováveis de chikungunya, SE 38 a 41 de 2026",
+      "cab": [
+       "UF",
+       "Casos prováveis",
+       "Por 100 mil hab.",
+       "Variação*"
+      ],
+      "linhas": [
+       [
+        "Mato Grosso do Sul",
+        "482",
+        "16,5",
+        "alta de 15,3%"
+       ],
+       [
+        "Bahia",
+        "562",
+        "3,8",
+        "queda de 19,9%"
+       ],
+       [
+        "Alagoas",
+        "115",
+        "3,6",
+        "queda de 47,0%"
+       ],
+       [
+        "Pernambuco",
+        "238",
+        "2,5",
+        "queda de 23,7%"
+       ],
+       [
+        "Rio Grande do Norte",
+        "78",
+        "2,3",
+        "queda de 17,0%"
+       ]
+      ],
+      "nota": "*Em relação às SE 37 a 40."
+     },
+     "fonte": "Ministério da Saúde"
+    },
+    {
+     "slide": 30,
+     "titulo": "Distrito Federal registra 261 casos prováveis de chikungunya em 2026 até a SE 41",
+     "figura": "Incidência acumulada de casos prováveis de chikungunya por região administrativa, Distrito Federal, até a SE 41 de 2026",
+     "texto": "No Distrito Federal, até a SE 41 de 2026, foram registrados 261 casos prováveis de chikungunya, seis a mais que no informe anterior, com incidência acumulada de 4 casos por 100 mil habitantes. Desses, 203 foram confirmados por critério laboratorial e 58 permanecem em investigação, sem óbitos registrados. A Região Sul apresenta a maior incidência acumulada, 24,3 por 100 mil, seguida da Região Central, com 12,8. Dos 10.344 exames de RT-PCR processados, 79 foram positivos (positividade de 0,8%), na estratégia multiplex que identifica dengue, chikungunya e Zika na mesma amostra.",
+     "paineis": [
+      {
+       "r": [
+        440,
+        158,
+        890,
+        470
+       ]
+      }
+     ],
+     "indicadores": [
+      {
+       "v": "261",
+       "l": "casos prováveis",
+       "d": "6 casos a mais"
+      },
+      {
+       "v": "203",
+       "l": "casos confirmados",
+       "d": "1 caso a mais"
+      },
+      {
+       "v": "58",
+       "l": "casos em investigação",
+       "d": "5 casos a mais"
+      },
+      {
+       "v": "0",
+       "l": "óbitos",
+       "d": ""
+      }
+     ],
+     "fonte": "SES-DF"
+    },
+    {
+     "slide": 31,
+     "titulo": "RIDE-DF registra 377 casos prováveis de dengue nas SE 38 a 41 de 2026, com Unaí (MG) em destaque",
+     "figura": "Incidência de casos prováveis de dengue e de chikungunya na RIDE-DF, SE 38 a 41 de 2026",
+     "texto": "Nos 33 municípios da RIDE-DF, excluído o Distrito Federal, foram notificados 377 casos prováveis de dengue entre as SE 38 e 41 de 2026, redução de 20,6% em relação às SE 37 a 40, e 12.294 casos no acumulado do ano. Unaí (MG) concentra o maior volume, com 93 casos, e a maior incidência da região, 107,1 por 100 mil habitantes, seguido de Novo Gama (GO), com 43 casos, e Luziânia (GO), com 38. A chikungunya mantém circulação baixa, com seis casos no período, distribuídos entre Goianésia, Unaí e Luziânia, e 209 casos acumulados em 2026.",
+     "paineis": [
+      {
+       "r": [
+        228,
+        165,
+        445,
+        485
+       ],
+       "apagar": [
+        [
+         220,
+         160,
+         240,
+         425
+        ]
+       ],
+       "p": "Dengue"
+      },
+      {
+       "r": [
+        575,
+        175,
+        935,
+        485
+       ],
+       "apagar": [
+        [
+         560,
+         165,
+         690,
+         440
+        ]
+       ],
+       "p": "Chikungunya"
+      }
+     ],
+     "indicadores": [
+      {
+       "v": "377",
+       "l": "casos prováveis de dengue nas SE 38 a 41",
+       "d": "queda de 20,6%"
+      },
+      {
+       "v": "12.294",
+       "l": "casos prováveis de dengue em 2026",
+       "d": ""
+      },
+      {
+       "v": "6",
+       "l": "casos prováveis de chikungunya nas SE 38 a 41",
+       "d": "queda de 25%"
+      },
+      {
+       "v": "209",
+       "l": "casos prováveis de chikungunya em 2026",
+       "d": "alta de 0,5%"
+      }
+     ],
+     "fonte": "InfoDengue"
+    },
+    {
+     "slide": 33,
+     "titulo": "Região Amazônica acumula 76.285 casos de malária em 2026 até a SE 41, com Jacareacanga (PA) como maior foco",
+     "figura": "Situação epidemiológica da malária na Região Amazônica, 2026 até a SE 41",
+     "texto": "Até a SE 41 de 2026, a Região Amazônica registrou 76.285 casos de malária. Por local provável de infecção foram contabilizados 76.258 casos e, por local de notificação, 78.643; outros 2.683 casos tiveram infecção em outros países. Todos os indicadores cresceram cerca de 2,3% em relação à SE 40. Entre os municípios com mais casos por local provável de infecção estão Jacareacanga (PA), com 9.695, Manaus (AM), Alto Alegre (RR), Porto Velho (RO), Calçoene (AP), Cruzeiro do Sul (AC) e Colniza (MT). Por local de notificação, também se destacam Jacareacanga, Manaus, Porto Velho, Alto Alegre, Calçoene, Cruzeiro do Sul e Colniza. A série histórica de 2007 a 2026 permite acompanhar a evolução dos registros na região.",
+     "paineis": [
+      {
+       "r": [
+        10,
+        145,
+        375,
+        470
+       ],
+       "apagar": [
+        [
+         10,
+         375,
+         195,
+         470
+        ],
+        [
+         345,
+         155,
+         380,
+         230
+        ]
+       ],
+       "p": "Casos por local provável de infecção"
+      },
+      {
+       "r": [
+        380,
+        145,
+        745,
+        520
+       ],
+       "apagar": [
+        [
+         370,
+         375,
+         545,
+         488
+        ],
+        [
+         370,
+         488,
+         505,
+         506
+        ],
+        [
+         378,
+         155,
+         415,
+         230
+        ]
+       ],
+       "p": "Casos por local de notificação"
+      },
+      {
+       "r": [
+        755,
+        362,
+        910,
+        505
+       ],
+       "p": "Série histórica, 2007 a 2026"
+      }
+     ],
+     "indicadores": [
+      {
+       "v": "76.285",
+       "l": "casos em 2026",
+       "d": "alta de 2,3%"
+      },
+      {
+       "v": "76.258",
+       "l": "por local provável de infecção",
+       "d": "alta de 2,3%"
+      },
+      {
+       "v": "78.643",
+       "l": "por local de notificação",
+       "d": "alta de 2,3%"
+      },
+      {
+       "v": "2.683",
+       "l": "casos com infecção em outros países",
+       "d": "alta de 3,3%"
+      }
+     ],
+     "tabela": {
+      "titulo": "Municípios com mais casos de malária por local provável de infecção, Região Amazônica, 2026 até a SE 41",
+      "cab": [
+       "UF",
+       "Município",
+       "Casos"
+      ],
+      "linhas": [
+       [
+        "PA",
+        "Jacareacanga",
+        "9.695"
+       ],
+       [
+        "AM",
+        "Manaus",
+        "5.737"
+       ],
+       [
+        "RR",
+        "Alto Alegre",
+        "4.189"
+       ],
+       [
+        "RO",
+        "Porto Velho",
+        "3.472"
+       ],
+       [
+        "AP",
+        "Calçoene",
+        "2.245"
+       ],
+       [
+        "AC",
+        "Cruzeiro do Sul",
+        "1.586"
+       ],
+       [
+        "MT",
+        "Colniza",
+        "663"
+       ],
+       [
+        "MA",
+        "Santa Luzia",
+        "4"
+       ]
+      ]
+     },
+     "fonte": "Ministério da Saúde"
+    },
+    {
+     "slide": 34,
+     "titulo": "Região Extra-Amazônica registra 27 casos de malária por local provável de infecção e 326 notificações em 2026 até a SE 41",
+     "figura": "Situação epidemiológica da malária na Região Extra-Amazônica, 2026 até a SE 41",
+     "texto": "Até a SE 41 de 2026, a Região Extra-Amazônica registrou 27 casos de malária por local provável de infecção e 326 casos por local de notificação, alta de 1,2% nas notificações em relação à SE 40. A diferença entre os dois indicadores mostra que parte dos casos notificados na região teve infecção em outras localidades, o que exige distinguir o local provável de infecção do local de registro. Os casos por local provável de infecção estão distribuídos por municípios de diferentes estados, e as notificações abrangem diversas áreas do território extra-amazônico. A série histórica de 2007 a 2026 contextualiza os dados atuais. O monitoramento desses casos é importante para identificar ocorrências importadas, acompanhar a distribuição territorial da doença e orientar as ações de vigilância.",
+     "paineis": [
+      {
+       "r": [
+        50,
+        140,
+        385,
+        485
+       ],
+       "p": "Casos por local provável de infecção"
+      },
+      {
+       "r": [
+        452,
+        140,
+        715,
+        470
+       ],
+       "p": "Casos por local de notificação"
+      },
+      {
+       "r": [
+        755,
+        362,
+        918,
+        500
+       ],
+       "p": "Série histórica, 2007 a 2026"
+      }
+     ],
+     "indicadores": [
+      {
+       "v": "27",
+       "l": "casos por local provável de infecção",
+       "d": ""
+      },
+      {
+       "v": "326",
+       "l": "notificações",
+       "d": "alta de 1,2%"
+      }
+     ],
+     "fonte": "Ministério da Saúde"
+    }
+   ]
+  },
+  {
+   "id": "sarampo",
+   "nome": "Sarampo",
+   "risco": "Risco 4",
+   "risco_desc": "Humanos e primatas não humanos",
+   "itens": [
+    {
+     "slide": 39,
+     "titulo": "Região das Américas acumula 56.978 casos de sarampo e 83 óbitos em 2026 até a SE 41",
+     "figura": "Casos acumulados confirmados de sarampo e coeficiente de incidência por 100 mil habitantes, Região das Américas, SE 1 a 41 de 2026",
+     "texto": "A Região das Américas soma 56.978 casos confirmados de sarampo e 83 óbitos em 2026. Segundo a OPAS, o número de casos é 4,8 vezes maior que o do mesmo período de 2025. A carga é concentrada: a Guatemala responde por 61% dos casos e 64% dos óbitos e, somada ao México, por 85% do total regional; com Estados Unidos, Peru e Canadá, cinco países reúnem mais de 99% dos casos. O coeficiente de incidência acompanha essa concentração, com os valores mais altos na Guatemala, acima de 20 casos por 100 mil habitantes, seguida por México e Peru, entre 5 e 20; no Brasil, a incidência permanece inferior a 1 caso por 100 mil. A letalidade regional é de 0,15%. Oito países tiveram casos entre as SE 38 e 41: Guatemala, México, Estados Unidos, Peru, Canadá, Bolívia, Brasil e Colômbia. Em El Salvador, Honduras, Belize, Panamá e Costa Rica, o último caso ocorreu entre as SE 15 e 31. O contexto é de perda do status de eliminação: em novembro de 2025, a OPAS anunciou que as Américas deixaram de ser região livre do sarampo após o restabelecimento da transmissão endêmica no Canadá. Em 2025, a cobertura regional foi de 88% na primeira dose e 85% na segunda, abaixo dos 95% necessários, e a OPAS classifica como muito alto o risco de disseminação diante de eventos religiosos de massa previstos na América do Sul.",
+     "paineis": [
+      {
+       "r": [
+        520,
+        140,
+        900,
+        485
+       ],
+       "apagar": [
+        [
+         860,
+         265,
+         880,
+         285
+        ]
+       ]
+      }
+     ],
+     "indicadores": [
+      {
+       "v": "56.978",
+       "l": "casos confirmados em 2026",
+       "d": ""
+      },
+      {
+       "v": "83",
+       "l": "óbitos, letalidade de 0,15%",
+       "d": ""
+      },
+      {
+       "v": "61%",
+       "l": "dos casos na Guatemala",
+       "d": ""
+      }
+     ],
+     "tabela": {
+      "titulo": "Casos confirmados e óbitos por sarampo na Região das Américas, 2026",
+      "cab": [
+       "País",
+       "Confirmados",
+       "Última SE",
+       "Óbitos"
+      ],
+      "linhas": [
+       [
+        "Guatemala",
+        "34.535",
+        "41",
+        "53"
+       ],
+       [
+        "México",
+        "13.718",
+        "40",
+        "23"
+       ],
+       [
+        "Estados Unidos",
+        "4.588",
+        "41",
+        "5"
+       ],
+       [
+        "Peru",
+        "2.709",
+        "40",
+        "1"
+       ],
+       [
+        "Canadá",
+        "1.124",
+        "40",
+        "0"
+       ],
+       [
+        "Bolívia",
+        "120",
+        "39",
+        "1"
+       ],
+       [
+        "Brasil",
+        "61",
+        "40",
+        "0"
+       ],
+       [
+        "El Salvador",
+        "58",
+        "30",
+        "0"
+       ],
+       [
+        "Colômbia",
+        "16",
+        "38",
+        "0"
+       ],
+       [
+        "Honduras",
+        "15",
+        "31",
+        "0"
+       ],
+       [
+        "Belize",
+        "15",
+        "31",
+        "0"
+       ],
+       [
+        "Panamá",
+        "9",
+        "23",
+        "0"
+       ],
+       [
+        "Costa Rica",
+        "5",
+        "15",
+        "0"
+       ],
+       [
+        "Outros",
+        "5",
+        "",
+        "0"
+       ]
+      ],
+      "total": [
+       "Total",
+       "56.978",
+       "",
+       "83"
+      ]
+     },
+     "fonte": "OPAS, CDC, PA DOH, DGE/SSA, Minsa/DGE, PHAC, MSPAS, Minsalud e Ministério da Saúde"
+    },
+    {
+     "slide": 40,
+     "titulo": "Estados Unidos acumulam 4.588 casos de sarampo em 2026 até 22 de outubro, o dobro do total de 2025",
+     "figura": "Casos confirmados de sarampo por semana de início do exantema e por jurisdição, Estados Unidos, 2026",
+     "texto": "Os Estados Unidos registram 4.588 casos confirmados de sarampo em 2026 até 22 de outubro, segundo o CDC, mais que o dobro dos 2.289 casos de 2025 e mais de 15 vezes o total de 2024. Há casos em 47 jurisdições, e 96% estão associados a surtos, incluindo 1.384 casos vinculados a surtos iniciados em 2025, o que evidencia a continuidade da transmissão entre os anos. A curva semanal por início do exantema mostra duas ondas: a primeira, com pico próximo de 300 casos em janeiro, e a segunda, iniciada em julho, com mais de 200 casos semanais entre agosto e setembro. A redução recente deve ser interpretada com cautela, pelo atraso de notificação. A última atualização acrescentou 178 casos, aumento de 4,4% no acumulado. A distribuição é concentrada: Pensilvânia, Carolina do Sul e Utah somam mais da metade dos casos, enquanto o Texas, epicentro em 2025, teve redução de 76%. O CDC contabiliza três óbitos confirmados, número inferior ao divulgado pelos estados por causa da defasagem na confirmação federal.",
+     "paineis": [
+      {
+       "r": [
+        130,
+        115,
+        745,
+        285
+       ],
+       "p": "Casos por semana de início do exantema"
+      },
+      {
+       "r": [
+        130,
+        290,
+        490,
+        505
+       ],
+       "p": "Casos por jurisdição"
+      }
+     ],
+     "indicadores": [
+      {
+       "v": "4.588",
+       "l": "casos confirmados",
+       "d": "alta de 4,4% (178 casos)"
+      },
+      {
+       "v": "3",
+       "l": "óbitos confirmados pelo CDC",
+       "d": ""
+      },
+      {
+       "v": "47",
+       "l": "jurisdições com casos",
+       "d": ""
+      }
+     ],
+     "fonte": "CDC"
+    },
+    {
+     "slide": 41,
+     "titulo": "Pensilvânia (EUA) soma 1.338 casos de sarampo e 5 óbitos em 2026, o maior surto do país",
+     "figura": "Casos confirmados de sarampo por semana epidemiológica e por condado, Pensilvânia, Estados Unidos, 2026",
+     "texto": "A Pensilvânia concentra o maior surto de sarampo dos Estados Unidos em 2026, com 1.338 casos confirmados pelo Departamento de Saúde estadual até 23 de outubro, cerca de 29% do total nacional. Até junho havia apenas casos esporádicos; a partir de julho a transmissão acelerou, com pico na semana iniciada em 7 de setembro, com quase 140 casos. A última atualização somou 116 casos (alta de 9,5% no acumulado), o maior incremento entre as localidades monitoradas, mas parte relevante deles teve início de sintomas há mais de duas semanas e confirmação tardia, de modo que o aumento não indica necessariamente aceleração da transmissão atual. O estado contabiliza 255 hospitalizações e 5 óbitos, letalidade de cerca de 0,4%. Menos de 1% dos casos ocorreu em pessoas vacinadas, o que indica transmissão predominante entre não vacinados.",
+     "paineis": [
+      {
+       "r": [
+        50,
+        150,
+        535,
+        365
+       ],
+       "p": "Casos por semana epidemiológica"
+      },
+      {
+       "r": [
+        550,
+        150,
+        920,
+        385
+       ],
+       "p": "Casos por condado"
+      }
+     ],
+     "indicadores": [
+      {
+       "v": "1.338",
+       "l": "casos confirmados",
+       "d": "alta de 9,5% (116 casos)"
+      },
+      {
+       "v": "5",
+       "l": "óbitos",
+       "d": ""
+      },
+      {
+       "v": "255",
+       "l": "hospitalizações",
+       "d": ""
+      }
+     ],
+     "fonte": "Pennsylvania Department of Health"
+    },
+    {
+     "slide": 42,
+     "titulo": "México soma 13.722 casos e 23 óbitos por sarampo em 2026, em fase de baixa transmissão",
+     "figura": "Situação epidemiológica do sarampo no México em 2026",
+     "texto": "O México acumula 13.722 casos confirmados de sarampo em 2026 e 23 óbitos, com letalidade de 0,17%. O total representa aumento de 106% em relação a 2025, quando foram registrados 6.664 casos. A curva epidêmica atingiu o pico na SE 6, com cerca de 1.200 casos, e desde então apresenta declínio sustentado, com menos de 150 casos semanais a partir da SE 22 e oscilações pontuais nas SE 28, 29 e 35. A última atualização acrescentou 31 casos, incremento de 0,2% no acumulado, o que reforça a fase de baixa transmissão. A incidência municipal é heterogênea: as taxas mais altas se concentram em municípios do norte do país, em especial no estado de Chihuahua, na fronteira com os Estados Unidos. A coexistência de municípios sem casos e de municípios com incidência superior a 29,9 por 100 mil habitantes caracteriza transmissão focal, restrita a comunidades específicas, e não disseminação homogênea no território.",
+     "paineis": [
+      {
+       "r": [
+        30,
+        140,
+        500,
+        410
+       ],
+       "p": "Incidência por 100 mil habitantes"
+      },
+      {
+       "r": [
+        500,
+        125,
+        940,
+        340
+       ],
+       "p": "Casos por semana epidemiológica"
+      }
+     ],
+     "indicadores": [
+      {
+       "v": "13.722",
+       "l": "casos confirmados",
+       "d": "alta de 0,2% (31 casos)"
+      },
+      {
+       "v": "23",
+       "l": "óbitos, letalidade de 0,17%",
+       "d": ""
+      },
+      {
+       "v": "106%",
+       "l": "de aumento em relação a 2025",
+       "d": ""
+      }
+     ],
+     "fonte": "Gobierno de México"
+    },
+    {
+     "slide": 43,
+     "titulo": "Peru registra 2.805 casos de sarampo em 2026, com casos em departamentos da fronteira com o Brasil",
+     "figura": "Situação epidemiológica do sarampo no Peru em 2026",
+     "texto": "O Peru registra 2.805 casos confirmados de sarampo em 2026 e 1 óbito. A transmissão se intensificou a partir da SE 12 e manteve patamar elevado e sustentado, entre 90 e 155 casos semanais, da SE 20 à 37, com o maior valor na SE 36. A redução nas SE 38 a 40 deve ser interpretada com cautela, pelo atraso de notificação e de confirmação laboratorial. A última atualização acrescentou 96 casos, incremento de 3,5% no acumulado. A maior carga está no sul andino: Puno, que faz divisa com a Bolívia, ultrapassa 1.000 casos, e Arequipa está na faixa de 201 a 999. O dado de maior relevância para o Brasil é a ocorrência de casos em Loreto, Ucayali e Madre de Dios, departamentos amazônicos que fazem fronteira com o Amazonas e o Acre. Loreto integra a tríplice fronteira do Alto Solimões, onde estão Tabatinga e Benjamin Constant. A cronologia é compatível com a introdução recente do vírus no território brasileiro a partir dessa região, já que os surtos no Amazonas começaram entre as SE 35 e 39, período de maior intensidade da transmissão peruana.",
+     "paineis": [
+      {
+       "r": [
+        40,
+        120,
+        412,
+        490
+       ],
+       "p": "Casos por departamento"
+      },
+      {
+       "r": [
+        415,
+        245,
+        935,
+        522
+       ],
+       "p": "Casos por semana epidemiológica"
+      }
+     ],
+     "indicadores": [
+      {
+       "v": "2.805",
+       "l": "casos confirmados",
+       "d": "alta de 3,5% (96 casos)"
+      },
+      {
+       "v": "1",
+       "l": "óbito",
+       "d": ""
+      },
+      {
+       "v": "> 1.000",
+       "l": "casos em Puno",
+       "d": ""
+      }
+     ],
+     "fonte": "Ministerio de Salud del Perú"
+    },
+    {
+     "slide": 45,
+     "titulo": "Nenhuma região do Brasil atinge a meta de 95% de cobertura da segunda dose contra o sarampo em 2026",
+     "figura": "",
+     "texto": "A cobertura vacinal contra o sarampo em 2026 tem comportamento distinto entre as duas doses. Na primeira dose, apenas o Sudeste, com 95,5%, e o Sul, com 96,5%, atingem a meta de 95%; Norte, Nordeste e Centro-Oeste ficam entre 91,4% e 94,7%. Na segunda dose, nenhuma região alcança a meta, com valores entre 73,3%, no Norte, e 82,2%, no Sul. A diferença entre as doses expressa o abandono do esquema vacinal, que chega a cerca de 20% na Região Norte e fica próximo de 15% mesmo nas regiões de melhor desempenho. Como o sarampo tem número básico de reprodução estimado entre 12 e 18, a interrupção da transmissão exige imunidade populacional próxima de 95%. Uma dose confere cerca de 93% de proteção, e duas doses, cerca de 97%; a baixa adesão à segunda dose resulta, portanto, em acúmulo progressivo de suscetíveis a cada coorte de nascidos. A Região Norte reúne as menores coberturas nas duas doses e é justamente onde ocorre o surto mais recente, no Alto Solimões e em Rio Branco. Coberturas regionais elevadas também podem ocultar bolsões municipais de baixa cobertura, nos quais a transmissão se sustenta mesmo com médias satisfatórias.",
+     "paineis": [],
+     "indicadores": [
+      {
+       "v": "73,3%",
+       "l": "menor cobertura da 2ª dose, Região Norte",
+       "d": ""
+      },
+      {
+       "v": "82,2%",
+       "l": "maior cobertura da 2ª dose, Região Sul",
+       "d": ""
+      },
+      {
+       "v": "97%",
+       "l": "proteção conferida por duas doses",
+       "d": ""
+      }
+     ],
+     "tabela": {
+      "titulo": "Cobertura vacinal contra o sarampo por região, Brasil, 2026",
+      "cab": [
+       "Região",
+       "1ª dose",
+       "2ª dose"
+      ],
+      "calor": true,
+      "linhas": [
+       [
+        "Norte",
+        "91,4%",
+        "73,3%"
+       ],
+       [
+        "Nordeste",
+        "94,2%",
+        "79,1%"
+       ],
+       [
+        "Centro-Oeste",
+        "94,7%",
+        "77,2%"
+       ],
+       [
+        "Sudeste",
+        "95,5%",
+        "81,8%"
+       ],
+       [
+        "Sul",
+        "96,5%",
+        "82,2%"
+       ]
+      ],
+      "nota": "Meta de cobertura do PNI: 95%."
+     },
+     "fonte": "Ministério da Saúde"
+    }
+   ]
+  },
+  {
+   "id": "ebola",
+   "nome": "Ebola",
+   "risco": "Risco 4",
+   "risco_desc": "Humanos e primatas não humanos",
+   "itens": [
+    {
+     "slide": 46,
+     "titulo": "República Democrática do Congo acumula 9.704 casos confirmados e 4.687 óbitos por doença pelo vírus Bundibugyo até 23 de outubro de 2026",
+     "figura": "Casos confirmados de Ebola por data de notificação, República Democrática do Congo, maio a outubro de 2026",
+     "texto": "A epidemia de doença pelo vírus Bundibugyo na República Democrática do Congo, declarada pela OMS em 15 de maio de 2026, mantém transmissão sustentada e de alta intensidade. Até 23 de outubro, foram confirmados 9.704 casos e 4.687 óbitos, com letalidade bruta de 48,3%, além de 2.595 recuperados; em relação à semana anterior, os casos cresceram 4,6% e os óbitos, 4,7%. Desde a atualização anterior da OMS, de 8 de outubro, somaram-se 976 casos e 482 óbitos, dos quais 307 ocorreram na comunidade, o que evidencia atraso na detecção e no acesso ao isolamento. É o maior surto de doença pelo vírus Ebola já registrado no país, independentemente da espécie viral, e apenas o segundo causado pelo Bundibugyo, depois do de 2012. Há 924 pacientes hospitalizados em isolamento, e o seguimento diário alcançou 80% dos 30.130 contatos ativos, abaixo da meta de 95%, com o pior desempenho em Kivu do Norte (73,3%). Não há vacina nem tratamento específico licenciados para essa espécie viral; em 23 de outubro começou em Bunia o ensaio clínico de fase 2/3 TUMAINI, que avalia candidatas vacinais contra o Bundibugyo. A OMS classifica o risco como muito alto no país, alto para os países fronteiriços e baixo para o restante da região africana e em nível global.",
+     "paineis": [
+      {
+       "r": [
+        425,
+        115,
+        920,
+        470
+       ]
+      }
+     ],
+     "indicadores": [
+      {
+       "v": "9.704",
+       "l": "casos confirmados",
+       "d": "alta de 4,6%"
+      },
+      {
+       "v": "4.687",
+       "l": "óbitos, letalidade de 48,3%",
+       "d": "alta de 4,7%"
+      },
+      {
+       "v": "924",
+       "l": "hospitalizados em isolamento",
+       "d": ""
+      },
+      {
+       "v": "80%",
+       "l": "dos contatos em monitoramento",
+       "d": "meta de 95%"
+      }
+     ],
+     "fonte": "MSPHP (RDC) e OMS"
+    },
+    {
+     "slide": 47,
+     "titulo": "Surto de Ebola atinge 66 zonas de saúde em oito províncias da República Democrática do Congo até 20 de outubro de 2026",
+     "figura": "Áreas afetadas pelo surto de Ebola na República Democrática do Congo, outubro de 2026",
+     "texto": "O surto atinge 66 zonas de saúde em oito províncias, e 50 delas notificaram ao menos um caso nos últimos 21 dias. Ituri permanece como epicentro, com 7.040 casos confirmados e 3.271 óbitos, cerca de 73% dos casos do país, e 28 de suas 36 zonas de saúde afetadas; Mandima, Beni e Bunia concentram a maior carga recente. Kivu do Norte, com 2.146 casos e 1.199 óbitos, cresceu em ritmo semanal duas vezes maior que Ituri e tem a maior letalidade provincial, de 55,9%, o que pode refletir maior proporção de óbitos na comunidade e menor detecção de casos leves. Haut-Uélé e Tshopo seguem com transmissão ativa, e Tshopo teve o maior incremento relativo da semana, de 18,8% nos casos. Nord Ubangi tornou-se a oitava província afetada, com três casos e um óbito, e Dakwa, em Haut-Uélé, é a zona de saúde de introdução mais recente. Bas-Uélé, Kivu do Sul e Sud Ubangi não registraram novos casos no período. O avanço para o norte aproxima a transmissão das fronteiras com a República Centro-Africana e o Sudão do Sul, em um contexto de crise humanitária que dificulta o rastreamento de contatos e o acesso aos serviços de saúde.",
+     "paineis": [
+      {
+       "r": [
+        560,
+        120,
+        940,
+        500
+       ]
+      }
+     ],
+     "indicadores": [
+      {
+       "v": "66",
+       "l": "zonas de saúde afetadas",
+       "d": ""
+      },
+      {
+       "v": "8",
+       "l": "províncias afetadas",
+       "d": ""
+      },
+      {
+       "v": "55,9%",
+       "l": "letalidade em Kivu do Norte, a maior do país",
+       "d": ""
+      }
+     ],
+     "tabela": {
+      "titulo": "Casos, óbitos e letalidade por Ebola por província, República Democrática do Congo, até 20 de outubro de 2026",
+      "cab": [
+       "Província",
+       "Casos (variação)",
+       "Óbitos (variação)",
+       "Letalidade"
+      ],
+      "linhas": [
+       [
+        "Ituri",
+        "7.040 (3,4%)",
+        "3.271 (3,9%)",
+        "46,5%"
+       ],
+       [
+        "Kivu do Norte",
+        "2.146 (7,8%)",
+        "1.199 (5,8%)",
+        "55,9%"
+       ],
+       [
+        "Haut-Uélé",
+        "421 (5,8%)",
+        "183 (9,6%)",
+        "43,5%"
+       ],
+       [
+        "Tshopo",
+        "76 (18,8%)",
+        "27 (12,5%)",
+        "35,5%"
+       ],
+       [
+        "Bas-Uélé",
+        "13",
+        "4",
+        "30,8%"
+       ],
+       [
+        "Kivu do Sul",
+        "3",
+        "1",
+        "33,3%"
+       ],
+       [
+        "Sud Ubangi",
+        "2",
+        "1",
+        "50,0%"
+       ],
+       [
+        "Nord Ubangi",
+        "3 (nova)",
+        "1 (nova)",
+        "33,3%"
+       ]
+      ],
+      "total": [
+       "Total",
+       "9.704 (4,6%)",
+       "4.687 (4,7%)",
+       "48,3%"
+      ],
+      "nota": "Variação percentual em relação à SE anterior; sem variação indicada, sem mudança."
+     },
+     "fonte": "MSPHP (RDC) e ECDC"
+    },
+    {
+     "slide": 48,
+     "titulo": "Quênia e Nigéria somam 10 casos de Ebola e 1 óbito fora da República Democrática do Congo em outubro de 2026",
+     "figura": "Casos de Ebola fora da República Democrática do Congo, outubro de 2026",
+     "texto": "Em outubro, a epidemia ultrapassou a República Democrática do Congo, com casos importados no Quênia e na Nigéria, ambos com trânsito pela Uganda em 3 de outubro. No Quênia, o caso índice chegou a Nairóbi por via aérea após cerca de um mês de doença, morreu em 5 de outubro e foi notificado no dia seguinte. Até 22 de outubro, o país somava nove casos e um óbito: o caso índice e oito secundários, quatro familiares e quatro profissionais de saúde, todos já em quarentena ao iniciar os sintomas, o que reduz a probabilidade de cadeias não identificadas. Os 135 contatos foram rastreados, sem evidência de transmissão comunitária. Em 23 de outubro, o Ministério da Saúde do Quênia anunciou um segundo óbito, de uma familiar do caso índice, ainda não incorporado aos informes da OMS e do ECDC. Na Nigéria, o caso de Abuja iniciou sintomas em 7 de outubro, quatro dias após a chegada, buscou atendimento em 11 de outubro e só foi confirmado em 20 de outubro. Esse intervalo de nove dias entre o atendimento e a confirmação amplia a janela de exposição em serviços de saúde; 44 contatos estão em monitoramento. A OMS mantém a recomendação contra restrições de viagem e comércio.",
+     "paineis": [
+      {
+       "r": [
+        50,
+        105,
+        500,
+        395
+       ]
+      }
+     ],
+     "indicadores": [
+      {
+       "v": "10",
+       "l": "casos confirmados fora da RDC",
+       "d": ""
+      },
+      {
+       "v": "1",
+       "l": "óbito",
+       "d": ""
+      },
+      {
+       "v": "2",
+       "l": "países: Quênia e Nigéria",
+       "d": ""
+      }
+     ],
+     "linha_tempo": [
+      [
+       "03/10",
+       "Os dois casos transitam pela Uganda"
+      ],
+      [
+       "06/10",
+       "Quênia notifica o 1º caso, já em óbito"
+      ],
+      [
+       "07/10",
+       "Início de sintomas na Nigéria"
+      ],
+      [
+       "20/10",
+       "Nigéria confirma o caso"
+      ],
+      [
+       "20/10",
+       "Quênia chega a 9 casos"
+      ]
+     ],
+     "fonte": "MSPHP (RDC) e OMS"
+    }
+   ]
+  },
+  {
+   "id": "atualidades",
+   "nome": "Atualidades",
+   "risco": "",
+   "risco_desc": "",
+   "itens": [
+    {
+     "slide": 50,
+     "titulo": "França notifica o primeiro caso humano de infecção pelo vírus Shamonda no mundo em outubro de 2026",
+     "figura": "Local de ocorrência do caso humano de infecção pelo vírus Shamonda, região de Lyon, França, outubro de 2026",
+     "texto": "Enquanto o cenário internacional exige atenção a emergências infecciosas como o Ebola na República Democrática do Congo, a identificação de novos eventos de transmissão de patógenos de animais para humanos também merece destaque. Em outubro de 2026, a França notificou o primeiro caso humano documentado de infecção pelo vírus Shamonda, até então conhecido principalmente pela circulação em animais. O vírus pertence ao gênero Orthobunyavirus, do sorogrupo Simbu, a mesma família do vírus Oropouche, e está associado a infecções em ruminantes, nos quais pode causar febre, redução da produção de leite, abortos e malformações. A transmissão ocorre principalmente pela picada de insetos do gênero Culicoides (mosquito-pólvora). O paciente, um homem imunocomprometido que trabalhava no manejo de bovinos na região de Lyon, morreu no início de outubro; o caso foi notificado em 7 de outubro e divulgado pelo ECDC e pela OMS em 22 de outubro, e a contribuição da infecção para o óbito ainda depende dos resultados da investigação. Em 20 de outubro, havia bovinos infectados em 52 departamentos franceses, e a hipótese principal é a picada de Culicoides, sem transmissão entre pessoas. O caso reforça a importância de monitorar eventos de spillover, a transmissão de agentes infecciosos entre espécies, que podem representar etapas iniciais da emergência de zoonoses. Sob a perspectiva de Saúde Única, a integração entre as vigilâncias humana, animal e ambiental é essencial para detectar precocemente esses eventos e orientar medidas de prevenção e controle.",
+     "paineis": [
+      {
+       "r": [
+        560,
+        312,
+        925,
+        530
+       ]
+      }
+     ],
+     "indicadores": [
+      {
+       "v": "1º",
+       "l": "caso humano de infecção pelo vírus Shamonda no mundo",
+       "d": ""
+      },
+      {
+       "v": "52",
+       "l": "departamentos franceses com bovinos infectados, em 20/10",
+       "d": ""
+      }
+     ],
+     "fonte": "ECDC"
+    }
+   ]
+  }
+ ],
+ "elaboracao": {
+  "eixos": [
+   [
+    "Alerta ambiental",
+    "Gustavo Manço"
+   ],
+   [
+    "Síndrome gripal",
+    "Anna Karolina"
+   ],
+   [
+    "SRAG",
+    "Anna Karolina"
+   ],
+   [
+    "Imunopreveníveis",
+    "Antonia Santos"
+   ],
+   [
+    "Arboviroses",
+    "Sérgio Alves"
+   ],
+   [
+    "Sarampo",
+    "Antonia Santos"
+   ],
+   [
+    "Ebola",
+    "Vitória Chagas"
+   ],
+   [
+    "Atualidades",
+    "Bárbara e Layanne"
+   ]
+  ],
+  "revisao": [
+   "Clara Feitosa",
+   "Jonas Brant"
+  ]
+ }
+}

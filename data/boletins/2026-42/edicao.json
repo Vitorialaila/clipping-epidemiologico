@@ -1,0 +1,48 @@
+{
+ "edicao": "2026-42",
+ "se_codigo": "2026-42",
+ "rotulo": "SE 42/2026",
+ "se_numero": "42",
+ "se_ano": 2026,
+ "periodo": "18 a 24 de outubro de 2026",
+ "pdf": "boletins/boletim-SE42-2026.pdf",
+ "resumo": "A SE 42 de 2026 foi marcada pela continuidade dos efeitos de eventos extremos sob o El Niño: o terremoto de magnitude 7,5 no Panamá deixou 22 unidades de saúde não operativas e 3.827 pessoas em abrigos, o furacão Simon atingiu a categoria 4 na costa do Pacífico mexicano e a cheia do rio Paraná levou à assistência de 220 famílias na fronteira com Foz do Iguaçu. A seca persiste em grande parte do país, inclusive em todo o Distrito Federal, e o PM2,5 supera 50 µg/m³ no Pará e no Amazonas. A SRAG segue estável no Brasil, com sinal de crescimento em Goiás, Mato Grosso e Sergipe, e os casos caem em todas as regiões de saúde do DF. A dengue soma 25.611 casos prováveis no país nas SE 38 a 41, e o DF acumula 3.596 casos prováveis no ano. Nas Américas, o sarampo chega a 56.978 casos e 83 óbitos, e o Peru registra casos em departamentos da fronteira com o Brasil; nenhuma região brasileira atinge a meta de cobertura da segunda dose. OPAS e SES-GO alertam para muito alto risco de reintrodução da poliomielite. A epidemia de doença pelo vírus Bundibugyo na República Democrática do Congo alcança 9.704 casos confirmados e chega ao Quênia e à Nigéria, e a França notifica o primeiro caso humano de infecção pelo vírus Shamonda no mundo.",
+ "secoes": [
+  {
+   "nome": "Alerta ambiental",
+   "risco": "Risco 2",
+   "itens": 6
+  },
+  {
+   "nome": "Síndrome gripal e SRAG",
+   "risco": "Risco 2",
+   "itens": 5
+  },
+  {
+   "nome": "Cobertura vacinal",
+   "risco": "Risco 0",
+   "itens": 2
+  },
+  {
+   "nome": "Arboviroses e malária",
+   "risco": "Risco 2",
+   "itens": 8
+  },
+  {
+   "nome": "Sarampo",
+   "risco": "Risco 4",
+   "itens": 6
+  },
+  {
+   "nome": "Ebola",
+   "risco": "Risco 4",
+   "itens": 3
+  },
+  {
+   "nome": "Atualidades",
+   "risco": "",
+   "itens": 1
+  }
+ ],
+ "gerado_em": "2026-10-27T17:02:24+00:00"
+}
