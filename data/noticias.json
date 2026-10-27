@@ -132,6 +132,27 @@
   "termos_evento": []
  },
  {
+  "id": "036558d6fe01d9",
+  "titulo": "First confirmed Ebola patient in Nigeria evacuated to Switzerland",
+  "url": "https://www.cnn.com/2026/10/26/europe/switzerland-nigeria-ebola-intl",
+  "fonte_id": "cnn-busca",
+  "fonte": "CNN",
+  "sigla": "CNN",
+  "idioma": "en",
+  "data": "2026-10-26",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-27T05:01:30+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Doença pelo vírus Ebola"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": []
+ },
+ {
   "id": "f826308991ddff",
   "titulo": "Bombeiros encontram corpo de mulher levada por correnteza",
   "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/bombeiros-encontram-corpo-de-mulher-levada-por-correnteza",
@@ -1019,6 +1040,69 @@
   "se": "2026-43",
   "descricao": "",
   "coletado_em": "2026-10-26T23:51:49+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "6550e377f6737b",
+  "titulo": "PCDF investiga morte de bebê com suspeita de maus-tratos em Samambaia",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7528398-pcdf-investiga-morte-de-bebe-com-suspeita-de-maus-tratos-em-samambaia.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-26",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-27T05:01:30+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "9903230964c2cf",
+  "titulo": "Homem é preso após enforcar e esfaquear pescoço da companheira",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7528447-homem-e-preso-apos-enforcar-e-esfaquear-pescoco-da-companheira.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-26",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-27T05:01:30+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "af206d91e9bc58",
+  "titulo": "Quadrilha é detida com drogas, dinheiro e munições em Samambaia",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7528432-quadrilha-e-detida-com-drogas-dinheiro-e-municoes-em-samambaia.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-26",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-27T05:01:30+00:00",
   "municipios": [
    "Distrito Federal"
   ],
