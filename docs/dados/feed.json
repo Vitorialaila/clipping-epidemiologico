@@ -1,5 +1,22 @@
 [
  {
+  "t": "Shamonda: o que se sabe sobre vírus que infectou homem na França",
+  "u": "https://stories.cnnbrasil.com.br/saude/shamonda-o-que-se-sabe-sobre-virus-que-infectou-homem-na-franca/",
+  "d": "2026-10-28",
+  "df": "28 out 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Internacional",
+  "a": [
+   "Patógeno novo ou incomum em humanos"
+  ],
+  "p": 6.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "virus",
+  "m": []
+ },
+ {
   "t": "Defesa Civil alerta para temporais em São Paulo, com chuvas mais abrangentes na quinta-feira (29)",
   "u": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-alerta-para-temporais-em-sao-paulo-com-chuvas-mais-abrangentes-na-quinta-feira-29/",
   "d": "2026-10-27",
@@ -83,6 +100,23 @@
   "se": "2026-43",
   "r": "",
   "i": "mosquito",
+  "m": []
+ },
+ {
+  "t": "Types of data requested to inform December 2026 COVID-19 vaccine antigen composition deliberations",
+  "u": "https://www.who.int/news/item/27-10-2026-types-of-data-requested-to-inform-december-2026-covid-19-vaccine-antigen-composition-deliberations",
+  "d": "2026-10-27",
+  "df": "27 out 2026",
+  "f": "OMS",
+  "fn": "OMS | Notícias",
+  "e": "Internacional",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 4.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "respiratorio",
   "m": []
  },
  {
@@ -524,23 +558,6 @@
   "df": "23 out 2026",
   "f": "CNN",
   "fn": "CNN | Health",
-  "e": "Internacional",
-  "a": [
-   "Patógeno novo ou incomum em humanos"
-  ],
-  "p": 6.5,
-  "se": "2026-42",
-  "r": "",
-  "i": "virus",
-  "m": []
- },
- {
-  "t": "Shamonda: o que se sabe sobre vírus que infectou homem na França",
-  "u": "https://www.cnnbrasil.com.br/saude/virus-shamonda-o-que-se-sabe-sobre-doenca-que-infectou-homem-na-franca/",
-  "d": "2026-10-23",
-  "df": "23 out 2026",
-  "f": "CNN Brasil",
-  "fn": "CNN Brasil | Saúde",
   "e": "Internacional",
   "a": [
    "Patógeno novo ou incomum em humanos"
