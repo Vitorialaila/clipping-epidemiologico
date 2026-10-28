@@ -1,5 +1,52 @@
 [
  {
+  "id": "f2ba285acdcdd0",
+  "titulo": "Defesa Civil alerta para temporais em São Paulo, com chuvas mais abrangentes na quinta-feira (29)",
+  "url": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-alerta-para-temporais-em-sao-paulo-com-chuvas-mais-abrangentes-na-quinta-feira-29/",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "agenciasp.sp.gov.br",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-27",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-28T00:33:46+00:00",
+  "municipios": [],
+  "pontuacao": 11.0,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alerta para"
+  ]
+ },
+ {
+  "id": "9b43753c70c1b8",
+  "titulo": "Homem em surto morre em abordagem policial; Corregedoria da PMDF apura",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7528973-homem-em-surto-morre-em-abordagem-policial-corregedoria-da-pmdf-apura.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-27",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-28T00:33:46+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 9.5,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [
+   "surto"
+  ]
+ },
+ {
   "id": "dba2e64d45ac91",
   "titulo": "ECDC to deploy experts as Ebola cases emerge in Kenya and Nigeria",
   "url": "https://www.ecdc.europa.eu/en/news-events/ecdc-deploy-experts-ebola-cases-emerge-kenya-and-nigeria",
@@ -1013,6 +1060,210 @@
   "se": "2026-43",
   "descricao": "",
   "coletado_em": "2026-10-27T21:17:43+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "3943910d72152f",
+  "titulo": "Campanha do Ministério da Saúde reforça importância de conversar com a família sobre doação de órgãos",
+  "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/campanha-do-ministerio-da-saude-reforca-importancia-de-conversar-com-a-familia-sobre-doacao-de-orgaos",
+  "fonte_id": "ms-noticias",
+  "fonte": "Ministério da Saúde | Notícias",
+  "sigla": "MS",
+  "idioma": "pt",
+  "data": "2026-10-27",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-28T00:33:46+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "6aeb0b001d0a9b",
+  "titulo": "Ministro da Saúde visita Unicamp e conhece tecnologia inédita para diagnóstico de câncer na América Latina",
+  "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/ministro-da-saude-visita-unicamp-e-conhece-tecnologia-inedita-para-diagnostico-de-cancer-na-america-latina",
+  "fonte_id": "ms-noticias",
+  "fonte": "Ministério da Saúde | Notícias",
+  "sigla": "MS",
+  "idioma": "pt",
+  "data": "2026-10-27",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-28T00:33:46+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "15c8980d0183d2",
+  "titulo": "EBC tem quatro jornalistas entre os finalistas do prêmio +Admirados",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/ebc-tem-quatro-jornalistas-entre-os-finalistas-do-premio-admirados",
+  "fonte_id": "agencia-brasil-saude",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-27",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "A Agência Brasil e quatro jornalistas da Empresa Brasil de Comunicação ( EBC ) foram reconhecidas como as mais admiradas no país pelo Prêmio Einstein +Admirados da Imprensa de Saúde, Ciência e Bem-Estar de 2026. A lista dos profissionais e veículos selecionados foi divulgada nesta terça-feira (28). A Agência Brasil está entre as três agências de notícias mais admiradas ao lado da Agência da Fiocruz e da Agência Fapesp.",
+  "coletado_em": "2026-10-28T00:33:46+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "af114ac510e509",
+  "titulo": "PCDF prende, na Paraíba, homem que descumpriu medidas protetivas contra ex",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7529144-pcdf-prende-na-paraiba-homem-que-descumpriu-medidas-protetivas-contra-ex.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-27",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-28T00:33:46+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "4b7dfcdbec4241",
+  "titulo": "Dupla faccionada morta em confronto entregaria drogas e pistolas em Ceilândia",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7529128-dupla-faccionada-morta-em-confronto-entregaria-drogas-e-pistolas-em-ceilandia.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-27",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-28T00:33:46+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "9f6dd660f7d6ea",
+  "titulo": "Ônibus pega fogo na 601 Sul e passageiros são retirados às pressas",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7529114-onibus-pega-fogo-na-601-sul-e-passageiros-sao-retirados-as-pressas.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-27",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-28T00:33:46+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "f9c5a6039a8d8b",
+  "titulo": "Homem é preso por violência doméstica contra mulher com deficiência intelectual",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7529088-homem-e-preso-por-violencia-domestica-contra-mulher-com-deficiencia-intelectual.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-27",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-28T00:33:46+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "9cf0a7350bc682",
+  "titulo": "CLDF aprova proposta que abre caminho para reeleição na Mesa Diretora",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7528986-cldf-aprova-proposta-que-abre-caminho-para-reeleicao-na-mesa-diretora.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-27",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-28T00:33:46+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "7bbb7530dd8e0b",
+  "titulo": "Ministério Público do Trabalho apura demissões por escolha política",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7528983-ministerio-publico-do-trabalho-apura-demissoes-por-escolha-politica.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-27",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-28T00:33:46+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "6894dfab064ef4",
+  "titulo": "157 votos foram registrados após 17h no Distrito Federal, segundo o TRE-DF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7529035-157-votos-foram-registrados-apos-17h-no-distrito-federal-segundo-o-tre-df.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-27",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-28T00:33:46+00:00",
   "municipios": [
    "Distrito Federal"
   ],
