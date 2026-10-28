@@ -1,5 +1,24 @@
 [
  {
+  "id": "67d1efd0a771fd",
+  "titulo": "Mega-Sena acumula novamente e prêmio vai a R$ 320 milhões",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/mega-sena-acumula-novamente-e-premio-vai-r-320-milhoes",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-28",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "O Concurso 3.076 da Mega-Sena, sorteado nesta terça-feira (27), não teve ganhador. O prêmio acumulou novamente e está estimado em R$ 320 milhões para a nova rodada. Os números sorteados são: 06 - 30 - 32 - 38 - 49 - 57.",
+  "coletado_em": "2026-10-28T06:51:24+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
   "id": "f2ba285acdcdd0",
   "titulo": "Defesa Civil alerta para temporais em São Paulo, com chuvas mais abrangentes na quinta-feira (29)",
   "url": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-alerta-para-temporais-em-sao-paulo-com-chuvas-mais-abrangentes-na-quinta-feira-29/",
@@ -109,6 +128,27 @@
    "Dengue"
   ],
   "escopo": "Internacional",
+  "termos_evento": []
+ },
+ {
+  "id": "deb9a827e55001",
+  "titulo": "São Carlos sedia treinamento da SP Sempre Alerta – Operação El Niño 2026/2027, com R$ 3,5 milhões em investimentos",
+  "url": "https://www.agenciasp.sp.gov.br/defesa-civil/sao-carlos-sedia-treinamento-da-sp-sempre-alerta-operacao-el-nino-2026-2027-com-r-35-milhoes-em-investimentos/",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "agenciasp.sp.gov.br",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-27",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-28T06:51:24+00:00",
+  "municipios": [],
+  "pontuacao": 2.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
   "termos_evento": []
  },
  {
@@ -1264,6 +1304,27 @@
   "se": "2026-43",
   "descricao": "",
   "coletado_em": "2026-10-28T00:33:46+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "8707dd89e225fc",
+  "titulo": "Polícia prende mulher que pagou R$ 400 por equipamentos furtados de vocalista",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7529154-policia-prende-mulher-que-pagou-rs-400-por-equipamentos-furtados-de-vocalista.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-27",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-28T06:51:24+00:00",
   "municipios": [
    "Distrito Federal"
   ],
@@ -4115,6 +4176,29 @@
   "se": "2026-42",
   "descricao": "",
   "coletado_em": "2026-10-23T22:09:08+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alerta para"
+  ]
+ },
+ {
+  "id": "7e32968f9f3332",
+  "titulo": "Defesa Civil alerta para possibilidade de chuvas fortes ainda nesta sexta-feira em Barretos",
+  "url": "https://barretos.sp.gov.br/noticia/18492/defesa-civil-alerta-para-possibilidade-de-chuvas-fortes-ainda-nesta-sexta-feira-em-barretos",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Prefeitura de Barretos",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-23",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-28T06:51:24+00:00",
   "municipios": [],
   "pontuacao": 9.5,
   "agravos": [
