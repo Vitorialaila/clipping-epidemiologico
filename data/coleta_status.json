@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-10-28T14:00:24+00:00",
+  "em": "2026-10-28T19:33:34+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,9 +10,9 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-10-28T14:00:24+00:00",
+  "em": "2026-10-28T19:33:34+00:00",
   "lidos": 40,
-  "novos": 3,
+  "novos": 1,
   "exemplos": [
    "Climate change is a growing health emergency, Lancet Countdown warns",
    "WHO releases target regimen profiles for long-acting injectables for TB",
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-10-28T14:00:24+00:00",
+  "em": "2026-10-28T19:33:34+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-10-28T14:00:24+00:00",
+  "em": "2026-10-28T19:33:34+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-10-28T14:00:24+00:00",
+  "em": "2026-10-28T19:33:34+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-10-28T14:00:24+00:00",
+  "em": "2026-10-28T19:33:34+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-10-28T14:00:24+00:00",
+  "em": "2026-10-28T19:33:34+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,9 +70,9 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-10-28T14:00:24+00:00",
+  "em": "2026-10-28T19:33:34+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "As the cold season nears, immunisation of newborns against universal RSV could significantly reduce infant hospitalisati",
    "ECDC to deploy experts as Ebola cases emerge in Kenya and Nigeria",
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-10-28T14:00:24+00:00",
+  "em": "2026-10-28T19:33:34+00:00",
   "lidos": 2345,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-10-28T14:00:24+00:00",
+  "em": "2026-10-28T19:33:34+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,97 +100,97 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-10-28T14:00:24+00:00",
+  "em": "2026-10-28T19:33:34+00:00",
   "lidos": 15,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "Teste para detecção precoce do câncer do colo do útero já está disponível em 26 estados do país",
    "Campanha do Ministério da Saúde reforça importância de conversar com a família sobre doação de órgãos",
-   "Ministro da Saúde visita Unicamp e conhece tecnologia inédita para diagnóstico de câncer na América Latina",
-   "Ministério da Saúde economiza mais de R$ 1 bilhão na compra de produtos para o SUS"
+   "Ministro da Saúde visita Unicamp e conhece tecnologia inédita para diagnóstico de câncer na América Latina"
   ]
  },
  "fiocruz": {
-  "em": "2026-10-28T14:00:24+00:00",
+  "em": "2026-10-28T19:33:34+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 4,
   "exemplos": [
-   "Nav. ed. pt Estante Abril Indígena 2026",
-   "Fiocruz lança publicação que reúne memórias, saberes e experiências do Abril Indígena 2026",
-   "Radis destaca como SUS se prepara para as mudanças climáticas"
+   "Jogo sobre investigação de parasitos em cães conquista Prêmio Ciência ao Vivo",
+   "Revista Poli aborda relação entre planejamento urbano e SUS",
+   "Evento apresenta estudo sobre desinformação em comunidades indígenas no Alto Rio Negro"
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-10-28T14:00:24+00:00",
+  "em": "2026-10-28T19:33:34+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 4,
   "exemplos": [
-   "EBC tem quatro jornalistas entre os finalistas do prêmio +Admirados",
-   "Câncer de mama: mulheres negras morrem 3,8 vezes mais que brancas",
-   "Anvisa proíbe venda de picolé com melatonina e suplemento de proteína"
+   "Médicos lançam guia para evitar recusa de mamografia digital",
+   "Anvisa suspende venda de linguiça defumada após detecção de bactéria",
+   "Anvisa suspende propaganda enganosa de suplementos alimentares"
   ]
  },
  "ses-go": {
-  "em": "2026-10-28T14:00:24+00:00",
+  "em": "2026-10-28T19:33:34+00:00",
   "lidos": 10,
-  "novos": 10,
+  "novos": 3,
   "exemplos": [
-   "Extrato da Portaria nº 2671/2026 – SES/GO",
-   "Extrato do Termo de Colaboração nº 73/2026 – SES/GO",
-   "Extrato do Termo de Colaboração nº 72/2026 – SES/GO"
+   "Extrato da Portaria nº 3300/2026 – SES/GO",
+   "Policlínica Estadual de Formosa promove atividade lúdica e educativa no mês das crianças",
+   "Unidades estaduais de saúde de Formosa encerram Outubro Rosa com ações de conscientização e prevenção"
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-10-28T14:00:24+00:00",
+  "em": "2026-10-28T19:33:34+00:00",
   "lidos": 10,
   "novos": 1,
   "exemplos": [
+   "INSS alerta para golpes que usam informação falsa sobre biometria",
    "PF impede desvio de até R$ 10 bi no seguro defeso no Maranhão",
-   "Mega-Sena acumula novamente e prêmio vai a R$ 320 milhões",
-   "Lula se solidariza com Juca Kfouri pela morte da filha, Camila Kfouri"
+   "Mega-Sena acumula novamente e prêmio vai a R$ 320 milhões"
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-10-28T14:00:24+00:00",
+  "em": "2026-10-28T19:33:34+00:00",
   "lidos": 25,
   "novos": 1,
   "exemplos": [
-   "Mortalidade por câncer de mama é quase quatro vezes maior em negras",
-   "O cabelo muda na menopausa? Veja cuidados necessários para a saúde dos fios",
-   "Mais de 3 milhões de adolescentes estão com vacinação da dengue incompleta"
+   "Projeto de controle da hipertensão reduz em 54% internações por AVC",
+   "Anvisa suspende lote de linguiça defumada por contaminação de bactéria",
+   "Estudo: 'Freio' genético pode inovar tratamento de doenças do sangue"
   ]
  },
  "cnn-saude": {
-  "em": "2026-10-28T14:00:24+00:00",
-  "lidos": 24,
+  "em": "2026-10-28T19:33:34+00:00",
+  "lidos": 25,
   "novos": 0,
   "exemplos": [
+   "FDA scientists opposed the Trump administration’s move to ease peptides access",
    "At one Atlanta restaurant, workers are family. A health insurance crisis tested that commitment",
-   "Experimental mRNA vaccine cuts risk melanoma returns by 42%",
-   "A mutated virus is driving the US into an early flu season, especially on the West Coast"
+   "Bird flu is raging on a mink farm. It could spark a human pandemic, experts say, but officials won’t act."
   ]
  },
  "cnn-busca": {
-  "em": "2026-10-28T14:00:24+00:00",
-  "lidos": 20,
+  "em": "2026-10-28T19:33:34+00:00",
+  "lidos": 21,
   "novos": 0,
   "exemplos": [
    "Bird flu is raging on a mink farm. It could spark a human pandemic, experts say, but officials won’t act.",
-   "First confirmed Ebola patient in Nigeria evacuated to Switzerland",
-   "A mutated virus is driving the US into an early flu season, especially on the West Coast"
+   "A mutated virus is driving the US into an early flu season, especially on the West Coast",
+   "First confirmed Ebola patient in Nigeria evacuated to Switzerland"
   ]
  },
  "inmet": {
-  "em": "2026-10-28T14:00:24+00:00",
+  "em": "2026-10-28T19:33:34+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
-   "Previsão para quarta-feira (28) e quinta-feira (29)",
-   "Previsão para terça-feira (27) e quarta-feira (28)",
-   "INMET divulga previsão para semana de 26 de outubro a 02 de novembro de 2026"
+   "Previsão para quinta-feira (29) e sexta-feira (30)",
+   "Novembro: como será o clima no Brasil?",
+   "Previsão para quarta-feira (28) e quinta-feira (29)"
   ]
  },
  "cemaden": {
-  "em": "2026-10-28T14:00:24+00:00",
+  "em": "2026-10-28T19:33:34+00:00",
   "lidos": 8,
   "novos": 0,
   "exemplos": [
@@ -200,9 +200,9 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-10-28T14:00:24+00:00",
-  "lidos": 24,
-  "novos": 0,
+  "em": "2026-10-28T19:33:34+00:00",
+  "lidos": 20,
+  "novos": 1,
   "exemplos": [
    "Autorizado repasse de R$ 14,3 milhões para ações de defesa civil",
    "Reconhecida emergência na cidade catarinense de São Domingos, atingida por queda de granizo",
@@ -210,13 +210,13 @@
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-10-28T14:00:24+00:00",
-  "lidos": 20,
-  "novos": 11,
+  "em": "2026-10-28T19:33:34+00:00",
+  "lidos": 19,
+  "novos": 9,
   "exemplos": [
-   "UnB lamenta morte de Denys Carvalho, ativista da valorização da população negra",
+   "Marechal tem 90 ônibus impedidos de operar no DF por determinação judicial",
    "Caminho aberto para a reeleição de Wellington Luiz na CLDF",
-   "Pastor preso na Estrutural é suspeito de organizar reocupações"
+   "Polícia Militar prende foragido condenado a mais de 17 anos em Ceilândia"
   ]
  }
 }
