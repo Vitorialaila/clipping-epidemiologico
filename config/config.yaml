@@ -82,6 +82,7 @@ fontes:
     base_link: "https://www.who.int/emergencies/disease-outbreak-news/item/"
     peso: 3
     canal_alerta: true  # canal oficial de alerta: cada item é um evento (piso de pontuação)
+    categoria_minima: alerta  # todo comunicado deste canal é classificado como Alerta
     idioma: en
 
   - id: oms-noticias
@@ -101,6 +102,7 @@ fontes:
     padrao_link: "paho\\.org/en/documents/epidemiological-(alert|update)"
     peso: 3
     canal_alerta: true  # canal oficial de alerta: cada item é um evento (piso de pontuação)
+    categoria_minima: alerta  # todo comunicado deste canal é classificado como Alerta
     escopo_padrao: "Américas"
     idioma: en
 
@@ -120,6 +122,7 @@ fontes:
     url: "https://www.ecdc.europa.eu/en/taxonomy/term/1505/feed"
     peso: 2
     canal_alerta: true  # canal oficial de alerta: cada item é um evento (piso de pontuação)
+    categoria_minima: atencao  # Atenção; Alerta quando o título é de alerta ou avaliação de risco
     idioma: en
 
   - id: ecdc-atualizacoes
@@ -129,6 +132,7 @@ fontes:
     url: "https://www.ecdc.europa.eu/en/taxonomy/term/1310/feed"
     peso: 2
     canal_alerta: true  # canal oficial de alerta: cada item é um evento (piso de pontuação)
+    categoria_minima: atencao  # Atenção; Alerta quando o título é de alerta ou avaliação de risco
     idioma: en
 
   - id: ecdc-avaliacoes
@@ -138,6 +142,7 @@ fontes:
     url: "https://www.ecdc.europa.eu/en/taxonomy/term/1295/feed"
     peso: 2
     canal_alerta: true  # canal oficial de alerta: cada item é um evento (piso de pontuação)
+    categoria_minima: atencao  # Atenção; Alerta quando o título é de alerta ou avaliação de risco
     idioma: en
 
   - id: ecdc-noticias

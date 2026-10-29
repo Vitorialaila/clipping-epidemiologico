@@ -175,6 +175,28 @@ section.bloco + section.bloco { border-top: 1px solid var(--linha); }
 .filtros { display: grid; gap: 12px; margin-bottom: 18px; }
 @media (min-width: 640px) { .filtros { grid-template-columns: 1fr 1fr; } .filtros #busca { grid-column: 1 / -1; } }
 @media (min-width: 980px) { .filtros { grid-template-columns: repeat(3, 1fr); } .filtros #busca { grid-column: auto; } }
+.categorias { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 0 0 10px; }
+.categorias-rot { font-size: 12px; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; color: var(--cinza); margin-right: 4px; }
+.cat { display: inline-flex; align-items: center; gap: 8px; padding: 7px 14px; border-radius: 999px; border: 1.5px solid var(--linha); background: #fff; font-size: 14px; font-weight: 600; cursor: pointer; color: var(--cinza); }
+.cat::before { content: ""; width: 10px; height: 10px; border-radius: 50%; background: currentColor; opacity: .35; }
+.cat[aria-pressed="true"]::before { opacity: 1; }
+.cat-n { font-weight: 500; font-variant-numeric: tabular-nums; color: var(--cinza); }
+.cat.cat-alerta[aria-pressed="true"] { color: #A3262A; border-color: #A3262A; background: #FBEDED; }
+.cat.cat-atencao[aria-pressed="true"] { color: #8A6A0E; border-color: #B8921A; background: var(--ouro-3); }
+.cat.cat-monitoramento[aria-pressed="true"] { color: var(--navy-2); border-color: #9FB2CC; background: #EEF3F9; }
+.cat[aria-pressed="false"] .cat-nome { text-decoration: line-through; text-decoration-thickness: 1px; }
+.legenda-cat { margin: 0 0 18px; font-size: 13px; color: var(--cinza); }
+.legenda-cat summary { cursor: pointer; font-weight: 600; color: var(--navy); }
+.legenda-cat dl { display: grid; grid-template-columns: max-content 1fr; gap: 8px 14px; margin: 12px 0 8px; }
+.legenda-cat dd { margin: 0; color: var(--texto); }
+.legenda-cat p { margin: 0; }
+.cat-tag { display: inline-block; padding: 3px 10px; border-radius: 999px; font-size: 11px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; white-space: nowrap; }
+.cat-tag.cat-alerta { color: #fff; background: #A3262A; }
+.cat-tag.cat-atencao { color: #5C4508; background: #F0D88A; }
+.cat-tag.cat-monitoramento { color: var(--navy-2); background: #E3EAF4; }
+.motivo { margin: 6px 0 0; font-size: 12.5px; color: var(--cinza); }
+.motivo b { font-weight: 600; color: var(--texto); }
+@media (max-width: 719px) { .legenda-cat dl { grid-template-columns: 1fr; } }
 .legenda-relev { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 14px; font-size: 13px; color: var(--cinza); margin: -4px 0 18px; }
 .legenda-relev .relev { padding: 0; }
 .relev-rot { display: block; text-align: right; font-size: 11px; font-weight: 600; letter-spacing: .04em; color: var(--cinza); margin-top: 4px; }
@@ -189,7 +211,7 @@ section.bloco + section.bloco { border-top: 1px solid var(--linha); }
 .contagem { font-size: 14px; color: var(--cinza); margin-bottom: 8px; }
 .lista { list-style: none; margin: 0; padding: 0; }
 .item { display: grid; grid-template-columns: 1fr; gap: 6px; padding: 18px 0; border-bottom: 1px solid var(--linha); }
-@media (min-width: 720px) { .item { grid-template-columns: 110px 1fr 70px; gap: 20px; align-items: start; } }
+@media (min-width: 720px) { .item { grid-template-columns: 110px 1fr 128px; gap: 20px; align-items: start; } .col-cat { text-align: right; padding-top: 2px; } }
 .item .data { font-size: 13px; color: var(--cinza); font-weight: 500; }
 .item .data b { display: block; color: var(--tinta); font-weight: 700; letter-spacing: .04em; }
 .item .meta { display: flex; flex-wrap: wrap; gap: 6px 12px; align-items: center; margin-bottom: 4px; }
@@ -490,20 +512,26 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
         <option value="">Todas as semanas</option>
         {% for cod, rot in semanas %}<option value="{{ cod }}">{{ rot }}</option>{% endfor %}
       </select>
-      <select id="relevancia" aria-label="Relevância epidemiológica">
-        <option value="1">Toda relevância</option>
-        <option value="2">Moderada ou mais</option>
-        <option value="3">Alta ou mais</option>
-        <option value="4">Muito alta ou mais</option>
-        <option value="5">Máxima</option>
-      </select>
       <select id="ordem" aria-label="Ordenar">
         <option value="data">Mais recentes</option>
         <option value="relevancia">Mais relevantes</option>
       </select>
     </div>
-    <p class="legenda-relev"><span class="relev"><i class="on"></i><i class="on"></i><i class="on"></i><i></i><i></i></span>
-      Relevância epidemiológica estimada pela gravidade do agravo, natureza do evento (surto, alerta, óbitos), proximidade do DF e tipo de fonte.</p>
+    <div class="categorias" role="group" aria-label="Categoria de relevância">
+      <span class="categorias-rot">Relevância</span>
+      <button class="cat cat-alerta" data-cat="alerta" aria-pressed="true"><span class="cat-nome">Alerta</span><span class="cat-n" id="n-alerta"></span></button>
+      <button class="cat cat-atencao" data-cat="atencao" aria-pressed="true"><span class="cat-nome">Atenção</span><span class="cat-n" id="n-atencao"></span></button>
+      <button class="cat cat-monitoramento" data-cat="monitoramento" aria-pressed="true"><span class="cat-nome">Monitoramento</span><span class="cat-n" id="n-monitoramento"></span></button>
+    </div>
+    <details class="legenda-cat">
+      <summary>Como as notícias são classificadas</summary>
+      <dl>
+        <dt><span class="cat-tag cat-alerta">Alerta</span></dt><dd>Comunicado de canal oficial de alerta (OMS, OPAS, avaliações de risco do ECDC); agravo de notificação imediata com ocorrência relatada (surto, caso confirmado, primeiro caso, transmissão local, óbito); ou ocorrência de agravo ou desastre no DF e na RIDE.</dd>
+        <dt><span class="cat-tag cat-atencao">Atenção</span></dt><dd>Agravo de notificação semanal com ocorrência; agravo de notificação imediata em situação de risco ou boletim de situação; desastre com impacto na população; demais comunicados dos canais oficiais.</dd>
+        <dt><span class="cat-tag cat-monitoramento">Monitoramento</span></dt><dd>Demais notícias de interesse: vacinação, orientações, avisos e previsões meteorológicas, estudos e notícias sem ocorrência relatada.</dd>
+      </dl>
+      <p>Notificação imediata e semanal conforme a Lista Nacional de Notificação Compulsória (Portaria GM/MS nº 6.734/2025).</p>
+    </details>
     <div class="chips" role="group" aria-label="Escopo geográfico">
       <button class="chip" data-escopo="" aria-pressed="true">Todos</button>
       {% for e in ordem_escopo %}<button class="chip e-{{ e }}" data-escopo="{{ e }}" aria-pressed="false"><span class="ponto"></span><span style="color:var(--tinta)">{{ nome_escopo[e] }}</span></button>{% endfor %}
@@ -655,13 +683,13 @@ const NOMES = {{ nome_escopo|tojson }};
 const ICONES = {{ icones_json|safe }};
 const svgIcone = (n) => `<svg viewBox="0 0 48 48" width="22" height="22" aria-hidden="true">${ICONES[n] || ICONES.alerta}</svg>`;
 const POR_PAGINA = 40;
-const estado = { busca: "", agravo: "", fonte: "", escopo: "", se: "", municipio: "", nivel: 1, ordem: "data", limite: POR_PAGINA };
-const NIVEIS = ["", "Baixa", "Moderada", "Alta", "Muito alta", "Máxima"];
-const nivelDe = (p) => Math.max(1, Math.min(5, Math.round((p - 3) / 2.5)));
+const estado = { busca: "", agravo: "", fonte: "", escopo: "", se: "", municipio: "", cats: new Set(["alerta", "atencao", "monitoramento"]), ordem: "data", limite: POR_PAGINA };
+const CATS = { alerta: "Alerta", atencao: "Atenção", monitoramento: "Monitoramento" };
+const RANK = { alerta: 0, atencao: 1, monitoramento: 2 };
 const $ = (id) => document.getElementById(id);
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const norm = (s) => String(s ?? "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
-FEED.forEach((x) => { x.m = x.m || []; x._b = norm([x.t, x.r, x.fn, x.a.join(" "), NOMES[x.e], x.m.join(" ")].join(" ")); x.n = nivelDe(x.p); });
+FEED.forEach((x) => { x.m = x.m || []; x.c = x.c || "monitoramento"; x._b = norm([x.t, x.r, x.fn, x.a.join(" "), NOMES[x.e], x.m.join(" ")].join(" ")); });
 
 function relevancia(n) {
   return Array.from({ length: 5 }, (_, i) => `<i class="${i < n ? "on" : ""}"></i>`).join("");
@@ -670,18 +698,21 @@ function relevancia(n) {
 function filtrar() {
   const termos = norm(estado.busca).split(/\s+/).filter(Boolean);
   const lista = FEED.filter((x) =>
-    x.n >= estado.nivel &&
+    estado.cats.has(x.c) &&
     (!estado.se || x.se === estado.se) &&
     (!estado.escopo || x.e === estado.escopo) &&
     (!estado.agravo || x.a.includes(estado.agravo)) &&
     (!estado.fonte || x.f === estado.fonte) &&
     termos.every((t) => x._b.includes(t)));
-  if (estado.ordem === "relevancia") lista.sort((a, b) => b.p - a.p || b.d.localeCompare(a.d));
+  if (estado.ordem === "relevancia") lista.sort((a, b) => RANK[a.c] - RANK[b.c] || b.p - a.p || b.d.localeCompare(a.d));
   return lista;
 }
 
 function render() {
   const itens = filtrar();
+  // contagem por categoria com os demais filtros aplicados
+  const base = (() => { const guardado = estado.cats; estado.cats = new Set(Object.keys(CATS)); const l = filtrar(); estado.cats = guardado; return l; })();
+  Object.keys(CATS).forEach((c) => { $("n-" + c).textContent = base.filter((x) => x.c === c).length; });
   $("contagem").textContent = itens.length === 1 ? "1 notícia" : `${itens.length.toLocaleString("pt-BR")} notícias`;
   $("lista").innerHTML = itens.slice(0, estado.limite).map((x) => `
     <li class="item">
@@ -690,8 +721,9 @@ function render() {
         <div class="meta"><span class="selo e-${esc(x.e)}">${esc(NOMES[x.e] || x.e)}</span>${x.a.slice(0, 2).map((a) => `<span class="tag">${esc(a)}</span>`).join("")}</div>
         <a class="titulo" href="${esc(x.u)}" target="_blank" rel="noopener">${esc(x.t)}</a>
         ${x.r ? `<p class="resumo">${esc(x.r)}</p>` : ""}
+        ${x.w ? `<p class="motivo"><b>Por quê:</b> ${esc(x.w)}</p>` : ""}
       </div>
-      <div title="Relevância epidemiológica: ${NIVEIS[x.n]}"><div class="relev">${relevancia(x.n)}</div><span class="relev-rot">${NIVEIS[x.n]}</span></div>
+      <div class="col-cat"><span class="cat-tag cat-${esc(x.c)}">${CATS[x.c] || ""}</span></div>
     </li>`).join("") || '<li class="item"><div></div><div>Nenhuma notícia encontrada com esses filtros.</div></li>';
   $("mais").hidden = itens.length <= estado.limite;
 }
@@ -700,7 +732,12 @@ $("busca").addEventListener("input", (e) => { estado.busca = e.target.value; est
 $("agravo").addEventListener("change", (e) => { estado.agravo = e.target.value; estado.limite = POR_PAGINA; render(); });
 $("fonte").addEventListener("change", (e) => { estado.fonte = e.target.value; estado.limite = POR_PAGINA; render(); });
 $("semana").addEventListener("change", (e) => { estado.se = e.target.value; estado.limite = POR_PAGINA; render(); });
-$("relevancia").addEventListener("change", (e) => { estado.nivel = Number(e.target.value); estado.limite = POR_PAGINA; render(); });
+document.querySelectorAll(".cat").forEach((b) => b.addEventListener("click", () => {
+  const c = b.dataset.cat, ligado = b.getAttribute("aria-pressed") === "true";
+  if (ligado && estado.cats.size === 1) return;  // pelo menos uma categoria fica ligada
+  ligado ? estado.cats.delete(c) : estado.cats.add(c);
+  b.setAttribute("aria-pressed", String(!ligado)); estado.limite = POR_PAGINA; render();
+}));
 $("ordem").addEventListener("change", (e) => { estado.ordem = e.target.value; estado.limite = POR_PAGINA; render(); });
 // A marca no topo só aparece depois que o bloco institucional sai da tela
 (() => {
