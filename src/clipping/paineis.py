@@ -486,6 +486,7 @@ class PainelEbolaECDC(PainelVigilancia):
             return False
         atual = regs[-1]
         com_prov = next((r for r in reversed(regs) if r.get("provincias")), None)
+        com_zs = next((r for r in reversed(regs) if r.get("zs_afetadas")), None)
         ref = _data_br(atual["data_referencia"])
         letal = atual["obitos"] / atual["casos"] * 100
         fmt = lambda n: f"{n:,}".replace(",", ".")
@@ -495,8 +496,9 @@ class PainelEbolaECDC(PainelVigilancia):
             {"valor": fmt(atual["casos"]), "rotulo": "casos confirmados"},
             {"valor": fmt(atual["obitos"]), "rotulo": "óbitos entre confirmados"},
             {"valor": f"{letal:.1f}%".replace(".", ","), "rotulo": "letalidade entre confirmados"},
-            {"valor": f"{atual['zs_afetadas']}/{atual['zs_total']}" if atual.get("zs_afetadas") else "n/d",
-             "rotulo": f"zonas de saúde afetadas ({atual.get('n_provincias') or '?'} províncias)"},
+            {"valor": f"{com_zs['zs_afetadas']}/{com_zs['zs_total']}" if com_zs else "n/d",
+             "rotulo": (f"zonas de saúde afetadas ({atual.get('n_provincias') or '?'} províncias)"
+                        + ("" if com_zs is atual or not com_zs else f"; ZS até {_data_br(com_zs['data_referencia'])}"))},
         ]
         if atual.get("quenia"):
             q = atual["quenia"]
@@ -528,6 +530,8 @@ class PainelEbolaECDC(PainelVigilancia):
         if q:
             notas.append(f"Quênia: {q['casos']} casos confirmados, incluindo {q['obitos']} óbito{'s' if q['obitos'] != 1 else ''} "
                          f"(ECDC, até {ref}); o primeiro caso foi importado da RDC.")
+        if atual.get("outros_paises"):
+            notas.append(f"ECDC: {atual['outros_paises']}")
         if atual.get("novos_casos") is not None:
             notas.append(f"Na última atualização do ECDC: {fmt(atual['novos_casos'])} novos casos confirmados e "
                          f"{fmt(atual['novos_obitos'])} óbitos.")

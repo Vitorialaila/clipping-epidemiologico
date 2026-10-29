@@ -52,7 +52,17 @@ def extrair(texto: str, ano_padrao: int | None = None) -> dict | None:
     """Lê os números do ECDC (página ou CDTR). Devolve None se não achar o total nacional."""
     t = normalizar(sem_html(texto)).replace("’", "'")
     ano_padrao = ano_padrao or date.today().year
-    m = re.search(rf"total of {N} confirmed cases,? including {N} (?:related )?deaths", t)
+    # O total nacional é a frase "total of N confirmed cases, including N deaths" sobre a RDC. A página traz
+    # frases iguais para outros países (Quênia, Uganda, Nigéria): vale a ocorrência cujo país citado mais
+    # perto, antes dela, é a RDC.
+    m = None
+    for cand in re.finditer(rf"total of {N} confirmed cases?,? including {N} (?:related )?deaths?", t):
+        antes_c = t[max(0, cand.start() - 300):cand.start()]
+        paises = [(x.end(), x.group(0)) for x in re.finditer(
+            r"\(drc\)|\bdrc\b|democratic republic of the congo|\bkenya\b|\buganda\b|\bnigeria\b|\bswitzerland\b", antes_c)]
+        if paises and max(paises)[1] in ("(drc)", "drc", "democratic republic of the congo"):
+            m = cand
+            break
     if not m:
         return None
     casos, obitos = _n(m.group(1)), _n(m.group(2))
@@ -109,8 +119,12 @@ def extrair(texto: str, ano_padrao: int | None = None) -> dict | None:
     x = re.search(rf"{N} provinces have been affected|across the {N} provinces", rdc)
     reg["n_provincias"] = _n(x.group(1) or x.group(2)) if x else (len(provincias) or None)
 
-    x = re.search(rf"in kenya, as of [^,]{{3,30}}, a total of {N} confirmed cases?,? including {N} deaths?", t)
+    x = re.search(rf"(?:in kenya,? as of [^,]{{3,30}}|as of [^,]{{3,30}},? in kenya),? a total of {N} confirmed cases?,? including {N} deaths?", t)
     reg["quenia"] = {"casos": _n(x.group(1)), "obitos": _n(x.group(2))} if x else None
+    # Casos em outros países fora do Quênia (ex.: Nigéria): frase oficial do ECDC, sem reescrita
+    original = re.sub(r"\s+", " ", sem_html(texto))
+    x = re.search(r"On \d{1,2} [A-Z][a-z]+ 20\d\d, an Ebola case was reported in [A-Z][A-Za-z ]+\.(?: [^.]{0,200}\.)?", original)
+    reg["outros_paises"] = x.group(0).strip() if x else None
     reg.update(fonte=FONTE_ECDC, url=URL_ECDC, captura="automática")
     return reg
 
@@ -137,10 +151,20 @@ def capturar() -> dict | None:
         _status(False, "texto da página não reconhecido", http=r.status_code, trecho=trecho)
         return None
     historico = ler_json(ARQ_HISTORICO, [])
-    if not any(h["data_referencia"] == reg["data_referencia"] and h["casos"] == reg["casos"] for h in historico):
-        reg["capturado_em"] = date.today().isoformat()
-        historico = [h for h in historico if h["data_referencia"] != reg["data_referencia"]] + [reg]
-        salvar_json(ARQ_HISTORICO, sorted(historico, key=lambda h: h["data_referencia"]))
+    anteriores = [r for r in registros(capturar_agora=False) if r["data_referencia"] < reg["data_referencia"]]
+    if anteriores and reg["casos"] < 0.95 * max(r["casos"] for r in anteriores):
+        maior = max(r["casos"] for r in anteriores)
+        log.warning("Ebola/ECDC: captura recusada (%d casos, abaixo do acumulado anterior de %d).", reg["casos"], maior)
+        _status(False, f"captura recusada: {reg['casos']} casos é menor que o acumulado anterior ({maior})",
+                trecho=trecho)
+        return None
+    # Um registro por data de referência: a captura mais recente substitui a anterior da mesma data
+    # (assim uma melhoria no leitor, como o Quênia, também chega aos registros já gravados)
+    novo = not any(h["data_referencia"] == reg["data_referencia"] for h in historico)
+    reg["capturado_em"] = date.today().isoformat()
+    historico = [h for h in historico if h["data_referencia"] != reg["data_referencia"]] + [reg]
+    salvar_json(ARQ_HISTORICO, sorted(historico, key=lambda h: h["data_referencia"]))
+    if novo:
         log.info("Ebola/ECDC: novo registro %s, %d casos.", reg["data_referencia"], reg["casos"])
     _status(True, "ok", **{k: reg[k] for k in ("data_referencia", "casos", "obitos", "zs_afetadas")},
             provincias_ok=bool(reg["provincias"]), trecho=trecho)
