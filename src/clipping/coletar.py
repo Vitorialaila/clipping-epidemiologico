@@ -233,6 +233,7 @@ def coletar() -> dict:
     agora = datetime.now(timezone.utc).isoformat(timespec="seconds")
     resumo = {"novas": 0, "fontes_ok": [], "fontes_erro": {}}
     status = {}  # diagnóstico por fonte, salvo em data/coleta_status.json
+    eventos = None  # índice de eventos já guardados (fontes com deduplicar_evento), criado sob demanda
     teste = {}  # fontes marcadas com "teste: true": relatório em data/teste_fontes.json, fora do site
 
     # Links antigos do Google Notícias (até 30 por execução, das últimas duas semanas): busca o endereço original
@@ -272,6 +273,16 @@ def coletar() -> dict:
                 continue
             p = pontuar(it["titulo"], limpar_descricao(it["descricao"]), fonte, d.year)
             descarte = _descarte(fonte, p)  # fontes amplas (imprensa, buscas): guarda só o que tem relevância
+            if not descarte and fonte.get("deduplicar_evento"):
+                if eventos is None:
+                    from .eventos import Eventos
+                    eventos = Eventos(list(base.values()))
+                agravo = (p.get("agravos") or [""])[0]
+                igual = eventos.igual(it["titulo"], agravo, d.isoformat())
+                if igual:
+                    descarte = f"mesmo evento de: {igual[0][:120]} ({igual[1]})"
+                else:
+                    eventos.adicionar(it["titulo"], agravo, d.isoformat(), it.get("sigla") or fonte.get("sigla", ""))
             if fonte.get("teste"):  # fonte em teste: vai para o relatório, não para o site
                 teste.setdefault(fonte["id"], {"aceitas": [], "descartadas": []})[
                     "descartadas" if descarte else "aceitas"].append(

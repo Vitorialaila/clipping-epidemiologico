@@ -23,6 +23,8 @@ categorias:
   impacto_desastre: [alagamento, alagamentos, alagada, alagadas, enchente, enchentes, inundacao, inundacoes, desabrigados, desalojados, desabamento, deslizamento, deslizamentos, "situacao de emergencia", "estado de calamidade", "calamidade publica", "decreta emergencia", "reconhece emergencia", "reconhecida emergencia", mortos, feridos, "atendimentos respiratorios", "qualidade do ar critica", "qualidade do ar perigosa", atinge, atingem, atingida, atingidas, atingido, atingidos, estragos, destruicao, danos, rastros, "queda de arvores", "arvores caidas", "sem energia", transborda, arrastados, desabam, desabou]
   # Previsão, aviso ou orientação: não é impacto ocorrido (salvo se o título também relatar o impacto)
   previsao: ["alerta para", "alerta sobre", "emite alerta", "renova alerta", "em alerta", "sob alerta", previsao, preve, "pode chegar", "podem chegar", "possibilidade de", "risco de", "riscos de", orienta, "como se proteger", "veja como", "cuidados"]
+  # Hipótese ou projeção ("pode contribuir para o aumento de casos"): não é ocorrência, salvo se o título trouxer números
+  hipotese: ["pode contribuir", "podem contribuir", "pode aumentar", "podem aumentar", "pode provocar", "podem provocar", "pode causar", "podem causar", "pode levar", "podem levar", "pode elevar", "podera", "poderao", "could", "may increase", "might"]
   # Situação epidemiológica de agravo de notificação imediata, mesmo sem ocorrência nova no título
   situacao: [boletim, "cenario epidemiologico", "situacao epidemiologica", "informe", reintroducao, "risco de reintroducao", "nota tecnica", "nota informativa", tendencia, "nivel de alerta", ameaca, threat, risco, risk, pandemia, pandemic]
   # Título que caracteriza um alerta ou avaliação de risco oficial

@@ -113,6 +113,9 @@ def categoria(titulo_n: str, corpo: str, nomes_agravos: list[str], escopo: str, 
     busca = lambda chave: pad[chave].search(titulo_n) if chave in pad else None
     m_oc, m_num = busca("ocorrencia"), _NUM_CASOS.search(titulo_n)
     ocorrencia = (m_oc.group(1) if m_oc else None) or (m_num.group(0) if m_num else None)
+    m_hip = busca("hipotese")
+    if ocorrencia and m_oc and not m_num and m_hip and m_hip.start() < m_oc.start():
+        ocorrencia = None  # projeção ou hipótese ("pode contribuir para o aumento de casos"), não ocorrência relatada
     obito = busca("obito")
     impacto = busca("impacto_desastre") or (m_num if m_num and re.search(r"incendios|focos", m_num.group(0)) else None)
     previsao = busca("previsao")
