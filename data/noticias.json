@@ -1077,6 +1077,29 @@
   "motivo": ""
  },
  {
+  "id": "5c5f7f2b09eae2",
+  "titulo": "Treinamento antiterrorista dos bombeiros movimenta Mané Garrincha",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7530298-treinamento-antiterrorista-dos-bombeiros-movimenta-mane-garrincha.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-29",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-29T18:34:51+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
   "id": "ed2027eda47cf8",
   "titulo": "Virus Shamonda: ¿qué significa el primer caso humano para las Américas?",
   "url": "https://www.paho.org/es/noticias/28-10-2026-virus-shamonda-que-significa-primer-caso-humano-para-americas",
