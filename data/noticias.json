@@ -1056,6 +1056,27 @@
   "motivo": ""
  },
  {
+  "id": "be5e638986276b",
+  "titulo": "Fiocruz integra debates centrais do World Health Summit 2026",
+  "url": "https://agencia.fiocruz.br/fiocruz-integra-debates-centrais-do-world-health-summit-2026",
+  "fonte_id": "fiocruz",
+  "fonte": "Agência Fiocruz de Notícias",
+  "sigla": "Fiocruz",
+  "idioma": "pt",
+  "data": "2026-10-29",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "Fiocruz integra debates centrais do World Health Summit 2026",
+  "coletado_em": "2026-10-29T18:30:39+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
   "id": "ed2027eda47cf8",
   "titulo": "Virus Shamonda: ¿qué significa el primer caso humano para las Américas?",
   "url": "https://www.paho.org/es/noticias/28-10-2026-virus-shamonda-que-significa-primer-caso-humano-para-americas",
