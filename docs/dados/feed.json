@@ -19,6 +19,24 @@
   "c": "monitoramento"
  },
  {
+  "t": "Aulas são suspensas em Itapeva após identificação de parasita na água durante surto de gastroenterite",
+  "u": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/29/aulas-sao-suspensas-em-itapeva-apos-identificacao-de-parasita-na-agua-durante-surto-de-gastroenterite.ghtml",
+  "d": "2026-10-29",
+  "df": "29 out 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Doenças transmitidas por alimentos e água"
+  ],
+  "p": 10.0,
+  "se": "2026-43",
+  "r": "",
+  "i": "agua",
+  "m": [],
+  "c": "atencao"
+ },
+ {
   "t": "InfoGripe: cinco estados têm SRAG em nível de alerta ou risco, com sinal de crescimento",
   "u": "https://agencia.fiocruz.br/infogripe-cinco-estados-tem-srag-em-nivel-de-alerta-ou-risco-com-sinal-de-crescimento",
   "d": "2026-10-29",
@@ -55,6 +73,24 @@
   "c": "alerta"
  },
  {
+  "t": "Sobe para 16 número de pacientes que passaram mal após exames em clínica de SC; mulher morreu após colonoscopia",
+  "u": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/29/sobe-16-numero-pacientes-passaram-mal-apos-exames-clinica-sc-mulher-morreu.ghtml",
+  "d": "2026-10-29",
+  "df": "29 out 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Surto ou óbitos em serviço de saúde"
+  ],
+  "p": 8.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "bacteria",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Série de Debates do Cemaden discute os desafios da proteção social diante dos riscos de desastres associados ao El Niño",
   "u": "https://www.gov.br/cemaden/pt-br/assuntos/noticias-cemaden/serie-de-debates-do-cemaden-discute-os-desafios-da-protecao-social-diante-dos-riscos-de-desastres-associados-ao-el-nino",
   "d": "2026-10-29",
@@ -71,6 +107,42 @@
   "i": "clima",
   "m": [],
   "c": "monitoramento"
+ },
+ {
+  "t": "Machado confirma sete casos de escabiose; região já soma mais de 400 registros da doença",
+  "u": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/10/29/machado-confirma-sete-casos-de-escabiose-regiao-ja-soma-mais-de-400-registros-da-doenca.ghtml",
+  "d": "2026-10-29",
+  "df": "29 out 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Escabiose"
+  ],
+  "p": 7.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "saude",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Aulas são suspensas após casos de sarna humana em escola municipal, em Taubaté",
+  "u": "https://g1.globo.com/google/amp/sp/vale-do-paraiba-regiao/noticia/2026/10/29/aulas-sao-suspensas-apos-casos-de-sarna-humana-em-escola-municipal-em-taubate.ghtml",
+  "d": "2026-10-29",
+  "df": "29 out 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Escabiose"
+  ],
+  "p": 7.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "saude",
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "First public health emergency preparedness assessments across Europe show both commitment and recurring challenges",
@@ -144,6 +216,24 @@
   "c": "alerta"
  },
  {
+  "t": "Canas suspende aulas em creche após surto de mão-pé-boca",
+  "u": "https://g1.globo.com/sp/vale-do-paraiba-regiao/videos-jornal-vanguarda/video/canas-suspende-aulas-em-creche-apos-surto-de-mao-pe-boca-15139475.ghtml",
+  "d": "2026-10-28",
+  "df": "28 out 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Doença mão-pé-boca"
+  ],
+  "p": 10.0,
+  "se": "2026-43",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "atencao"
+ },
+ {
   "t": "Defesa Civil alerta para previsão de chuvas fortes em São Paulo nesta quarta e quinta-feira",
   "u": "https://capivari.sp.gov.br/portal/defesa-civil-alerta-para-previsao-de-chuvas-fortes-em-sao-paulo-nesta-quarta-e-quinta-feira/",
   "d": "2026-10-28",
@@ -179,6 +269,133 @@
   "i": "bacteria",
   "m": [],
   "c": "monitoramento"
+ },
+ {
+  "t": "Amparo cria centro de emergência e vai realizar pesquisa sobre carrapatos após mortes por febre maculosa",
+  "u": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/28/amparo-cria-centro-emergencia-vai-realizar-pesquisa-carrapatos-mortes-febre-maculosa.ghtml",
+  "d": "2026-10-28",
+  "df": "28 out 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Febre maculosa e riquetsioses",
+   "Doenças transmitidas por carrapatos"
+  ],
+  "p": 9.0,
+  "se": "2026-43",
+  "r": "",
+  "i": "animal",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Secretaria Estadual de Saúde investiga morte de criança com suspeita de meningite",
+  "u": "https://g1.globo.com/go/goias/videos-bom-dia-go/video/secretaria-estadual-de-saude-investiga-morte-de-crianca-com-suspeita-de-meningite-15136612.ghtml",
+  "d": "2026-10-28",
+  "df": "28 out 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Doença meningocócica e meningites"
+  ],
+  "p": 8.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "bacteria",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Morte de menina de 8 anos na Bahia é confirmada como causada por meningite, diz Sesab",
+  "u": "https://g1.globo.com/google/amp/ba/bahia/noticia/2026/10/28/morte-de-menina-de-8-anos-na-bahia-e-confirmada-como-causada-por-meningite-diz-sesab.ghtml",
+  "d": "2026-10-28",
+  "df": "28 out 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Doença meningocócica e meningites"
+  ],
+  "p": 8.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "bacteria",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Hantavirose: região de Ribeirão Preto tem dois dos quatro casos registrados em SP em 2026, diz SES",
+  "u": "https://g1.globo.com/google/amp/sp/ribeirao-preto-franca/noticia/2026/10/28/hantavirose-regiao-de-ribeirao-preto-tem-dois-dos-quatro-casos-registrados-em-sp-em-2026-diz-ses.ghtml",
+  "d": "2026-10-28",
+  "df": "28 out 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Hantavirose"
+  ],
+  "p": 8.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "animal",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Bebê morre de meningite em Pouso Alegre",
+  "u": "https://g1.globo.com/mg/minas-gerais/bom-dia-minas/video/bebe-morre-de-meningite-em-pouso-alegre-15137199.ghtml",
+  "d": "2026-10-28",
+  "df": "28 out 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Doença meningocócica e meningites"
+  ],
+  "p": 8.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "bacteria",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Após quatro mortes por febre maculosa, Amparo realiza ações visando o feriado",
+  "u": "https://g1.globo.com/sp/campinas-regiao/videos-jornal-da-eptv-1-edicao-campinas-e-piracicaba/video/apos-quatro-mortes-por-febre-maculosa-amparo-realiza-acoes-visando-o-feriado-15138450.ghtml",
+  "d": "2026-10-28",
+  "df": "28 out 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Febre maculosa e riquetsioses"
+  ],
+  "p": 8.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "animal",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Síndrome mão-pé-boca: creche do interior de SP suspende aulas após 16 crianças serem infectadas; veja sintomas",
+  "u": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/28/sindrome-mao-pe-boca-creche-do-interior-de-sp-suspende-aulas-apos-16-criancas-serem-infectadas-veja-sintomas.ghtml",
+  "d": "2026-10-28",
+  "df": "28 out 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Doença mão-pé-boca"
+  ],
+  "p": 7.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Anvisa suspende venda de linguiça defumada após detecção de bactéria",
@@ -234,6 +451,78 @@
   "i": "desastre",
   "m": [],
   "c": "monitoramento"
+ },
+ {
+  "t": "Após surto de virose, Câmara abre CEI para investigar qualidade da água distribuída pela Sabesp em Itapeva",
+  "u": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/27/apos-surto-de-virose-camara-abre-cei-para-investigar-qualidade-da-agua-distribuida-pela-sabesp-em-itapeva.ghtml",
+  "d": "2026-10-27",
+  "df": "27 out 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Doenças transmitidas por alimentos e água"
+  ],
+  "p": 10.0,
+  "se": "2026-43",
+  "r": "",
+  "i": "agua",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Ebola: casos passam de 10 mil no Congo, e surto se torna o segundo mais letal da história",
+  "u": "https://g1.globo.com/google/amp/saude/noticia/2026/10/27/casos-de-ebola-no-congo-ultrapassam-10-mil-em-meio-a-temores-de-disseminacao-mais-ampla-na-africa.ghtml",
+  "d": "2026-10-27",
+  "df": "27 out 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Internacional",
+  "a": [
+   "Doença pelo vírus Ebola"
+  ],
+  "p": 9.0,
+  "se": "2026-43",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Criança de 4 anos morre com suspeita de meningite em Inhumas",
+  "u": "https://g1.globo.com/go/goias/videos-ja-1-edicao/video/crianca-de-4-anos-morre-com-suspeita-de-meningite-em-inhumas-15135356.ghtml",
+  "d": "2026-10-27",
+  "df": "27 out 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Doença meningocócica e meningites"
+  ],
+  "p": 8.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "bacteria",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Paulínia confirma 1ª caso de febre maculosa em 2026",
+  "u": "https://g1.globo.com/google/amp/sp/campinas-regiao/noticia/2026/10/27/paulinia-confirma-1a-caso-de-febre-maculosa-em-2026.ghtml",
+  "d": "2026-10-27",
+  "df": "27 out 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Febre maculosa e riquetsioses"
+  ],
+  "p": 8.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "animal",
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "ECDC to deploy experts as Ebola cases emerge in Kenya and Nigeria",
@@ -509,6 +798,60 @@
   "c": "monitoramento"
  },
  {
+  "t": "Doença de Newcastle: SC confirma 2° foco em granja de perus e também detecta vírus em pombos",
+  "u": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/25/doenca-de-newcastle-sc-confirma-segundo-foco-granja-de-perus-e-pombos.ghtml",
+  "d": "2026-10-25",
+  "df": "25 out 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Saúde Única: zoonoses e eventos em animais"
+  ],
+  "p": 7.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "animal",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Surto de sarampo: autoridades dos EUA relatam mais 178 casos da doença",
+  "u": "https://www.metropoles.com/saude/surto-de-sarampo-autoridades-dos-eua-relatam-mais-178-casos-da-doenca",
+  "d": "2026-10-24",
+  "df": "24 out 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "Américas",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 11.0,
+  "se": "2026-42",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Maranhão registra mais de 8,9 mil casos de dengue e dez mortes em 2026",
+  "u": "https://g1.globo.com/ma/maranhao/videos-jmtv-1-edicao/video/maranhao-registra-mais-de-89-mil-casos-de-dengue-e-dez-mortes-em-2026-15118892.ghtml",
+  "d": "2026-10-24",
+  "df": "24 out 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 7.5,
+  "se": "2026-42",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Dia Mundial de Combate à Poliomielite: SP celebra 38 anos livre da doença",
   "u": "https://www.cnnbrasil.com.br/saude/dia-mundial-de-combate-a-poliomielite-sp-celebra-38-anos-livre-da-doenca/",
   "d": "2026-10-24",
@@ -600,6 +943,42 @@
   "c": "monitoramento"
  },
  {
+  "t": "Escola de Atibaia passa por desinfecção após surto de sarna; aulas voltam na segunda-feira",
+  "u": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/23/escola-de-atibaia-passa-por-desinfeccao-apos-surto-de-sarna-aulas-voltam-na-segunda-feira.ghtml",
+  "d": "2026-10-23",
+  "df": "23 out 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Escabiose"
+  ],
+  "p": 10.0,
+  "se": "2026-42",
+  "r": "",
+  "i": "saude",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Surto de Covid-19 atinge mais de 100 detentos, em Rio Verde",
+  "u": "https://g1.globo.com/go/goias/noticia/2026/10/23/surto-de-covid-19-atinge-mais-de-100-detentos-em-rio-verde.ghtml",
+  "d": "2026-10-23",
+  "df": "23 out 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 10.0,
+  "se": "2026-42",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Threat assessment brief – Importation of Ebola disease cases caused by Bundibugyo virus to Kenya and Nigeria",
   "u": "https://www.ecdc.europa.eu/en/publications-data/threat-assessment-brief-importation-ebola-disease-cases-caused-bundibugyo-virus",
   "d": "2026-10-23",
@@ -672,6 +1051,60 @@
   "c": "monitoramento"
  },
  {
+  "t": "Morte de 5 macacos-prego em Pastos Bons é investigada por suspeita de febre amarela e raiva",
+  "u": "https://g1.globo.com/ma/maranhao/noticia/2026/10/23/morte-de-5-macacos-prego-em-pastos-bons-e-investigada-por-suspeita-de-febre-amarela-e-raiva.ghtml",
+  "d": "2026-10-23",
+  "df": "23 out 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Febre amarela"
+  ],
+  "p": 9.5,
+  "se": "2026-42",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Coren, Cremesp e Vigilância Sanitária apuram mortes de bebês em hospital",
+  "u": "https://www.metropoles.com/sao-paulo/coren-cremesp-e-vigilancia-sanitaria-apuram-mortes-de-bebes-em-hospital",
+  "d": "2026-10-23",
+  "df": "23 out 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "Brasil",
+  "a": [
+   "Surto ou óbitos em serviço de saúde"
+  ],
+  "p": 9.5,
+  "se": "2026-42",
+  "r": "",
+  "i": "bacteria",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "SP: 36 bebês morrem em hospital e Polícia Civil abre investigação",
+  "u": "https://www.metropoles.com/sao-paulo/sp-36-bebes-morrem-em-hospital-e-policia-civil-abre-investigacao",
+  "d": "2026-10-23",
+  "df": "23 out 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "Brasil",
+  "a": [
+   "Surto ou óbitos em serviço de saúde"
+  ],
+  "p": 9.5,
+  "se": "2026-42",
+  "r": "",
+  "i": "bacteria",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "World Polio Day 2026: Americas mark 35 years free of wild poliovirus as vaccination gaps persist",
   "u": "https://www.paho.org/en/news/23-10-2026-world-polio-day-2026-americas-mark-35-years-free-wild-poliovirus-vaccination-gaps",
   "d": "2026-10-23",
@@ -726,6 +1159,42 @@
   "i": "desastre",
   "m": [],
   "c": "monitoramento"
+ },
+ {
+  "t": "Amparo decreta emergência por febre maculosa após quatro mortes e interdita pesqueiro",
+  "u": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/23/amparo-decreta-emergencia-por-febre-maculosa-apos-quatro-mortes-suspeitas-e-interdita-pesqueiro.ghtml",
+  "d": "2026-10-23",
+  "df": "23 out 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Febre maculosa e riquetsioses"
+  ],
+  "p": 8.5,
+  "se": "2026-42",
+  "r": "",
+  "i": "animal",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Polícia investiga mortes de bebês em hospital particular na zona leste",
+  "u": "https://g1.globo.com/sp/sao-paulo/sp1/video/policia-investiga-mortes-de-bebes-em-hospital-particular-na-zona-leste-15115907.ghtml",
+  "d": "2026-10-23",
+  "df": "23 out 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Surto ou óbitos em serviço de saúde"
+  ],
+  "p": 8.5,
+  "se": "2026-42",
+  "r": "",
+  "i": "bacteria",
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Desinformação faz com que só 5% das crianças sejam protegidas da covid",
@@ -1035,6 +1504,42 @@
   "i": "clima",
   "m": [],
   "c": "monitoramento"
+ },
+ {
+  "t": "Barreiras sanitárias são instaladas na região onde caso de Newcastle foi confirmado em SC",
+  "u": "https://g1.globo.com/sc/santa-catarina/videos-nsc-noticias/video/barreiras-sanitarias-sao-instaladas-na-regiao-onde-caso-de-newcastle-foi-confirmado-em-sc-15114166.ghtml",
+  "d": "2026-10-22",
+  "df": "22 out 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Saúde Única: zoonoses e eventos em animais"
+  ],
+  "p": 7.5,
+  "se": "2026-42",
+  "r": "",
+  "i": "animal",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Seis mortes por dengue foram confirmadas, este ano, em Pernambuco",
+  "u": "https://g1.globo.com/pe/pernambuco/ne2/video/seis-mortes-por-dengue-foram-confirmadas-este-ano-em-pernambuco-15114162.ghtml",
+  "d": "2026-10-22",
+  "df": "22 out 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 7.5,
+  "se": "2026-42",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "‘Worst on record’: Brutal summer heat wave killed more than 50,000 in Europe’s cities",
