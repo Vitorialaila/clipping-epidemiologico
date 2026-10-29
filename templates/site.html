@@ -523,15 +523,6 @@ footer .linha-ouro { height: 2px; background: var(--ouro); width: 72px; }
       <button class="cat cat-atencao" data-cat="atencao" aria-pressed="true"><span class="cat-nome">Atenção</span><span class="cat-n" id="n-atencao"></span></button>
       <button class="cat cat-monitoramento" data-cat="monitoramento" aria-pressed="true"><span class="cat-nome">Monitoramento</span><span class="cat-n" id="n-monitoramento"></span></button>
     </div>
-    <details class="legenda-cat">
-      <summary>Como as notícias são classificadas</summary>
-      <dl>
-        <dt><span class="cat-tag cat-alerta">Alerta</span></dt><dd>Comunicado de canal oficial de alerta (OMS, OPAS, avaliações de risco do ECDC); agravo de notificação imediata com ocorrência relatada (surto, caso confirmado, primeiro caso, transmissão local, óbito); ou ocorrência de agravo ou desastre no DF e na RIDE.</dd>
-        <dt><span class="cat-tag cat-atencao">Atenção</span></dt><dd>Agravo de notificação semanal com ocorrência; agravo de notificação imediata em situação de risco ou boletim de situação; desastre com impacto na população; demais comunicados dos canais oficiais.</dd>
-        <dt><span class="cat-tag cat-monitoramento">Monitoramento</span></dt><dd>Demais notícias de interesse: vacinação, orientações, avisos e previsões meteorológicas, estudos e notícias sem ocorrência relatada.</dd>
-      </dl>
-      <p>Notificação imediata e semanal conforme a Lista Nacional de Notificação Compulsória (Portaria GM/MS nº 6.734/2025).</p>
-    </details>
     <div class="chips" role="group" aria-label="Escopo geográfico">
       <button class="chip" data-escopo="" aria-pressed="true">Todos</button>
       {% for e in ordem_escopo %}<button class="chip e-{{ e }}" data-escopo="{{ e }}" aria-pressed="false"><span class="ponto"></span><span style="color:var(--tinta)">{{ nome_escopo[e] }}</span></button>{% endfor %}
@@ -721,7 +712,6 @@ function render() {
         <div class="meta"><span class="selo e-${esc(x.e)}">${esc(NOMES[x.e] || x.e)}</span>${x.a.slice(0, 2).map((a) => `<span class="tag">${esc(a)}</span>`).join("")}</div>
         <a class="titulo" href="${esc(x.u)}" target="_blank" rel="noopener">${esc(x.t)}</a>
         ${x.r ? `<p class="resumo">${esc(x.r)}</p>` : ""}
-        ${x.w ? `<p class="motivo"><b>Por quê:</b> ${esc(x.w)}</p>` : ""}
       </div>
       <div class="col-cat"><span class="cat-tag cat-${esc(x.c)}">${CATS[x.c] || ""}</span></div>
     </li>`).join("") || '<li class="item"><div></div><div>Nenhuma notícia encontrada com esses filtros.</div></li>';

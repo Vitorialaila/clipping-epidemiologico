@@ -47,7 +47,7 @@ def gerar() -> None:
         "p": n["pontuacao"], "se": n.get("se", ""), "r": truncar(n.get("descricao", ""), 260),
         "i": icones.icone_para(*(n.get("agravos") or [n["titulo"]])),
         "m": n.get("municipios", []),
-        "c": n.get("categoria", "monitoramento"), "w": n.get("motivo", ""),
+        "c": n.get("categoria", "monitoramento"),
     } for n in noticias if n["pontuacao"] >= limiar_feed and n["data"] >= corte]
     # A mesma matéria pode chegar por dois caminhos (ex.: página da CNN e busca da CNN): fica a de maior pontuação
     unicos: dict[str, dict] = {}
