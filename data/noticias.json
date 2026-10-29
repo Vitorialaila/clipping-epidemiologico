@@ -1,5 +1,26 @@
 [
  {
+  "id": "f89527d0a1348e",
+  "titulo": "\"Nada acontece sem educação\", afirma presidente do Brasília Ambiental",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7529792-nada-acontece-sem-educacao-afirma-presidente-do-brasilia-ambiental.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-29",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-29T05:45:58+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
   "id": "ed2027eda47cf8",
   "titulo": "Virus Shamonda: ¿qué significa el primer caso humano para las Américas?",
   "url": "https://www.paho.org/es/noticias/28-10-2026-virus-shamonda-que-significa-primer-caso-humano-para-americas",
@@ -1354,6 +1375,46 @@
   "se": "2026-43",
   "descricao": "",
   "coletado_em": "2026-10-29T00:00:17+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": []
+ },
+ {
+  "id": "ca855bb01de19f",
+  "titulo": "Discriminação política no atendimento em saúde pode ser denunciada pelo 136 da Ouvidoria do SUS",
+  "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/outubro/discriminacao-politica-no-atendimento-em-saude-pode-ser-denunciada-pelo-136-da-ouvidoria-do-sus",
+  "fonte_id": "ms-noticias",
+  "fonte": "Ministério da Saúde | Notícias",
+  "sigla": "MS",
+  "idioma": "pt",
+  "data": "2026-10-28",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-29T05:45:58+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": []
+ },
+ {
+  "id": "d40b842d83106f",
+  "titulo": "PCDF prende motoboy que guardava drogas para traficantes de São Sebastião",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7529941-pcdf-prende-motoboy-que-guardava-drogas-para-traficantes-de-sao-sebastiao.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-28",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-29T05:45:58+00:00",
   "municipios": [
    "Distrito Federal"
   ],
