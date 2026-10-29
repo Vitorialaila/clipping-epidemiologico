@@ -12,7 +12,8 @@
   "se": "2026-43",
   "r": "The first cycle of Public Health Emergency Preparedness Assessments (PHEPAs) coordinated by the European Centre for Disease Prevention and Control (ECDC) has shown a strong commitment to emergency preparedness across Europe, with a number of common challenges…",
   "i": "alerta",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Virus Shamonda: ¿qué significa el primer caso humano para las Américas?",
@@ -29,7 +30,8 @@
   "se": "2026-43",
   "r": "Shamonda virus: What does the first human case mean for the Americas? Cristina Mitchell 28 Oct 2026",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Defesa Civil de Lages alerta para retorno das chuvas intensas e risco de temporais nesta quinta (29) e sexta-feira (30)",
@@ -47,7 +49,26 @@
   "se": "2026-43",
   "r": "",
   "i": "desastre",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "SP registra quatro casos de hantavirose em 2026; letalidade é de 51%",
+  "u": "https://www.cnnbrasil.com.br/saude/sp-registra-quatro-casos-de-hantavirose-em-2026-letalidade-e-de-51/",
+  "d": "2026-10-28",
+  "df": "28 out 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Hantavirose"
+  ],
+  "p": 10.0,
+  "se": "2026-43",
+  "r": "",
+  "i": "animal",
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Defesa Civil alerta para previsão de chuvas fortes em São Paulo nesta quarta e quinta-feira",
@@ -64,7 +85,8 @@
   "se": "2026-43",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Ministério da Saúde desenvolve painel para monitorar cobertura vacinal contra meningite em adolescentes",
@@ -82,24 +104,8 @@
   "se": "2026-43",
   "r": "",
   "i": "bacteria",
-  "m": []
- },
- {
-  "t": "Boletins mensais sobre a seca é tema de debate nesta quinta-feira",
-  "u": "https://www.gov.br/mdr/pt-br/noticias/boletins-mensais-sobre-a-seca-e-tema-de-debate-nesta-quinta-feira",
-  "d": "2026-10-28",
-  "df": "28 out 2026",
-  "f": "Defesa Civil",
-  "fn": "GOV.BR",
-  "e": "Brasil",
-  "a": [
-   "Saúde ambiental e clima"
-  ],
-  "p": 7.5,
-  "se": "2026-43",
-  "r": "",
-  "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Anvisa suspende venda de linguiça defumada após detecção de bactéria",
@@ -116,24 +122,8 @@
   "se": "2026-43",
   "r": "A Agência Nacional de Vigilância Sanitária (Anvisa) suspendeu nesta quarta-feira (28) a venda da linguiça de carne suína defumada da marca KF Embutidos. Um laudo de análise microbiológica detectou a presença da bactéria Listeria monocytogenes no Lote…",
   "i": "agua",
-  "m": []
- },
- {
-  "t": "SP registra quatro casos de hantavirose em 2026; letalidade é de 51%",
-  "u": "https://www.cnnbrasil.com.br/saude/sp-registra-quatro-casos-de-hantavirose-em-2026-letalidade-e-de-51/",
-  "d": "2026-10-28",
-  "df": "28 out 2026",
-  "f": "CNN Brasil",
-  "fn": "CNN Brasil | Saúde",
-  "e": "Internacional",
-  "a": [
-   "Hantavirose"
-  ],
-  "p": 7.0,
-  "se": "2026-43",
-  "r": "",
-  "i": "animal",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Shamonda: o que se sabe sobre vírus que infectou homem na França",
@@ -150,7 +140,8 @@
   "se": "2026-43",
   "r": "",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Defesa Civil alerta para temporais em São Paulo, com chuvas mais abrangentes na quinta-feira (29)",
@@ -168,24 +159,8 @@
   "se": "2026-43",
   "r": "",
   "i": "desastre",
-  "m": []
- },
- {
-  "t": "Homem em surto morre em abordagem policial; Corregedoria da PMDF apura",
-  "u": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7528973-homem-em-surto-morre-em-abordagem-policial-corregedoria-da-pmdf-apura.html",
-  "d": "2026-10-27",
-  "df": "27 out 2026",
-  "f": "Correio Braziliense",
-  "fn": "Correio Braziliense | Cidades DF",
-  "e": "DF",
-  "a": [],
-  "p": 9.5,
-  "se": "2026-43",
-  "r": "",
-  "i": "alerta",
-  "m": [
-   "Distrito Federal"
-  ]
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "ECDC to deploy experts as Ebola cases emerge in Kenya and Nigeria",
@@ -202,7 +177,8 @@
   "se": "2026-43",
   "r": "Following the emergence of Ebola disease in Kenya and Nigeria, and with the situation in the DRC remaining serious, ECDC is increasing its efforts to support investigations and local response by sending a team of ECDC experts to Nigeria.",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Africa CDC Commends Kenya’s Decisive Leadership and Strengthens Joint Efforts to Contain Ebola",
@@ -219,7 +195,8 @@
   "se": "2026-43",
   "r": "Nairobi, Kenya, 27 October 2026 H.E. Dr Jean Kaseya, Director-General of the Africa Centres for Disease Control and Prevention (Africa CDC), met with Hon. Aden Duale, Cabinet Secretary for Health of the Republic of Kenya, to commend Kenya’s decisive…",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Mais de 3 milhões de adolescentes estão com vacinação da dengue incompleta",
@@ -236,7 +213,8 @@
   "se": "2026-43",
   "r": "",
   "i": "mosquito",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Types of data requested to inform December 2026 COVID-19 vaccine antigen composition deliberations",
@@ -253,7 +231,8 @@
   "se": "2026-43",
   "r": "",
   "i": "respiratorio",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Defesa Civil de SP alerta para os riscos de se enfrentar enchentes e alagamentos",
@@ -271,7 +250,8 @@
   "se": "2026-43",
   "r": "",
   "i": "desastre",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Reconhecida emergência na cidade catarinense de São Domingos, atingida por queda de granizo",
@@ -289,7 +269,8 @@
   "se": "2026-43",
   "r": "",
   "i": "desastre",
-  "m": []
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Reconhecida emergência em seis cidades paranaenses atingidas por vendaval",
@@ -306,7 +287,8 @@
   "se": "2026-43",
   "r": "",
   "i": "desastre",
-  "m": []
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Governo de SP reforça ajuda humanitária a municípios e mantém alerta para chuvas intensas nesta segunda-feira",
@@ -323,7 +305,8 @@
   "se": "2026-43",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Dengue: 3 milhões de adolescentes estão com vacinação incompleta",
@@ -340,7 +323,8 @@
   "se": "2026-43",
   "r": "Mais de 3 milhões de adolescentes que tomaram a primeira dose da vacina contra a dengue ainda precisam voltar aos postos de saúde para completar o esquema vacinal. Como a vacina é aplicada em duas doses, a proteção completa só é adquirida após a segunda, que…",
   "i": "mosquito",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Bird flu is raging on a mink farm. It could spark a human pandemic, experts say, but officials won’t act.",
@@ -357,7 +341,8 @@
   "se": "2026-43",
   "r": "",
   "i": "respiratorio",
-  "m": []
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "First confirmed Ebola patient in Nigeria evacuated to Switzerland",
@@ -374,7 +359,8 @@
   "se": "2026-43",
   "r": "",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Bombeiros encontram corpo de mulher levada por correnteza",
@@ -391,7 +377,8 @@
   "se": "2026-43",
   "r": "O Corpo de Bombeiros encontrou nesta segunda-feira (26) o corpo de uma mulher que desapareceu após seu carro ter sido arrastado por uma correnteza no Ribeirão do Pinhal, na zona rural de Pinhalzinho, no interior paulista. Ela estava desaparecida desde a manhã…",
   "i": "desastre",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Mudanças climáticas impulsionam o avanço da dengue no Brasil, aponta estudo",
@@ -408,7 +395,8 @@
   "se": "2026-43",
   "r": "",
   "i": "mosquito",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Fiocruz e MS lançam curso para qualificar o diagnóstico das infecções sexualmente transmissíveis",
@@ -425,7 +413,8 @@
   "se": "2026-43",
   "r": "Fiocruz e MS lançam curso para qualificar o diagnóstico das infecções sexualmente transmissíveis",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Mudanças climáticas já causam aumento de doenças infecciosas no país",
@@ -443,7 +432,26 @@
   "se": "2026-43",
   "r": "Desde a década de 1980, o Brasil registra surtos comprovados de dengue, mas só em 2007 o Rio Grande do Sul teve um caso que não tenha sido importado de outra parte do país. A explicação é simples: como o mosquito Aedes aegypti , que transmite a doença, vive…",
   "i": "mosquito",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Dia Mundial de Combate à Poliomielite: SP celebra 38 anos livre da doença",
+  "u": "https://www.cnnbrasil.com.br/saude/dia-mundial-de-combate-a-poliomielite-sp-celebra-38-anos-livre-da-doenca/",
+  "d": "2026-10-24",
+  "df": "24 out 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Poliomielite"
+  ],
+  "p": 4.5,
+  "se": "2026-42",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo, Kenya and Nigeria",
@@ -460,7 +468,8 @@
   "se": "2026-42",
   "r": "Since the publication of the previous Disease Outbreak News on 8 October 2026, the Bundibugyo virus disease (BVD) outbreak has expanded geographically in the Democratic Republic of the Congo, as well as in the African Region, with Kenya and Nigeria reporting…",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Defesa Civil alerta para calor de até 34°C e baixa umidade neste fim de semana",
@@ -477,7 +486,8 @@
   "se": "2026-42",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Defesa Civil alerta para possibilidade de temporais neste domingo (25)",
@@ -495,7 +505,8 @@
   "se": "2026-42",
   "r": "",
   "i": "desastre",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Threat assessment brief – Importation of Ebola disease cases caused by Bundibugyo virus to Kenya and Nigeria",
@@ -512,7 +523,8 @@
   "se": "2026-42",
   "r": "This Threat Assessment Brief assesses the risk for people from the EU/EEA living in or travelling to Kenya and Nigeria, and the overall risk for the general EU/EEA population. It is intended for public health authorities in the EU/EEA.",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Defesa Civil alerta para possibilidade de chuvas intensas em Linhares nesta sexta e sábado (24)",
@@ -529,7 +541,8 @@
   "se": "2026-42",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Defesa Civil alerta para tempestades e ventos fortes em Minas Gerais neste fim de semana",
@@ -546,7 +559,8 @@
   "se": "2026-42",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Defesa Civil alerta para possibilidade de chuvas fortes ainda nesta sexta-feira em Barretos",
@@ -563,7 +577,8 @@
   "se": "2026-42",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "World Polio Day 2026: Americas mark 35 years free of wild poliovirus as vaccination gaps persist",
@@ -580,7 +595,8 @@
   "se": "2026-42",
   "r": "World Polio Day 2026: Americas mark 35 years free of wild poliovirus as vaccination gaps persist Cristina Mitchell 23 Oct 2026",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Defesa Civil de SP renova alerta de temporais para domingo (25) e monta gabinete de crise",
@@ -598,7 +614,8 @@
   "se": "2026-42",
   "r": "",
   "i": "desastre",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Defesa Civil renova alerta de temporais",
@@ -616,7 +633,8 @@
   "se": "2026-42",
   "r": "",
   "i": "desastre",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Desinformação faz com que só 5% das crianças sejam protegidas da covid",
@@ -633,7 +651,8 @@
   "se": "2026-42",
   "r": "A covid-19 causou mais de 1 mil internações e 25 mortes de crianças e adolescentes no Brasil em 2026. Mesmo assim, apenas 5% das crianças pequenas do país estão protegidas com as três doses da vacina contra a doença, segundo o Programa Nacional de Imunizações…",
   "i": "respiratorio",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "El Niño e queimadas: Ministério da Saúde orienta profissionais sobre intoxicação por fumaça",
@@ -650,25 +669,8 @@
   "se": "2026-42",
   "r": "",
   "i": "clima",
-  "m": []
- },
- {
-  "t": "8ª CIB de 2026 debate ações de enfrentamento de doenças nos municípios",
-  "u": "https://goias.gov.br/saude/8a-cib-de-2026-debate-acoes-de-enfrentamento-de-doencas-nos-municipios/",
-  "d": "2026-10-23",
-  "df": "23 out 2026",
-  "f": "SES-GO",
-  "fn": "SES-GO | Notícias",
-  "e": "Brasil",
-  "a": [
-   "Sarampo",
-   "Arboviroses"
-  ],
-  "p": 7.5,
-  "se": "2026-42",
-  "r": "SES e Cosems debatem prevenção de doenças respiratórias, sarampo, arboviroses e campanha de conscientização sobre saúde do homem, entre outros temas",
-  "i": "virus",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Tempestade chega à Região Sul neste sábado — Ministério da Integração e do Desenvolvimento Regional",
@@ -685,7 +687,8 @@
   "se": "2026-42",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "What is Shamonda, the livestock virus found for the first time in a person in France?",
@@ -702,7 +705,8 @@
   "se": "2026-42",
   "r": "",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Aviso meteorológico ou Alerta? Entenda a diferença",
@@ -719,7 +723,8 @@
   "se": "2026-42",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Importation of Ebola cases to Kenya and Nigeria: ECDC assesses the threat",
@@ -736,7 +741,8 @@
   "se": "2026-42",
   "r": "With cases of Ebola disease caused by Bundibugyo virus recently detected in Kenya and Nigeria, ECDC reiterates the low risk for Europe while highlighting the need for preparedness.",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Fumaça das queimadas: saiba como proteger a sua saúde e onde buscar atendimento",
@@ -753,7 +759,8 @@
   "se": "2026-42",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Ministério da Saúde orienta gestores sobre vigilância em saúde de brigadistas florestais",
@@ -770,7 +777,8 @@
   "se": "2026-42",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Tempestades com queda de granizo e rajadas de vento atingem o Rio Grande do Sul entre quinta-feira (22) e sábado (24)",
@@ -788,7 +796,8 @@
   "se": "2026-42",
   "r": "",
   "i": "desastre",
-  "m": []
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "InfoGripe: três estados têm incidência de SRAG em nível de alerta ou risco, com sinal de crescimento",
@@ -805,7 +814,8 @@
   "se": "2026-42",
   "r": "InfoGripe: três estados têm incidência de SRAG em nível de alerta ou risco, com sinal de crescimento",
   "i": "respiratorio",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Criança de 5 anos é picada por escorpião no Zoológico de Brasília",
@@ -824,7 +834,8 @@
   "i": "animal",
   "m": [
    "Distrito Federal"
-  ]
+  ],
+  "c": "monitoramento"
  },
  {
   "t": "Defesa Civil alerta para possibilidade de tempestades em Três Lagoas",
@@ -841,7 +852,8 @@
   "se": "2026-42",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Chuvas: Defesa Civil decreta situação de emergência em cidades do Sul",
@@ -858,7 +870,8 @@
   "se": "2026-42",
   "r": "A Secretaria Nacional de Proteção e Defesa Civil reconheceu nesta quinta-feira (22) situação de emergência em sete municípios atingidos por tempestades na Região Sul . A Portaria nº 3.646 cita cidades do Paraná, Rio Grande do Sul e Santa Catarina que…",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Severely ill patient in France becomes first ever human infected with Shamonda virus",
@@ -875,7 +888,8 @@
   "se": "2026-42",
   "r": "The European Centre for Disease Prevention and Control (ECDC) is carefully monitoring the situation after the French authorities announced the first ever reported human infection with Shamonda virus (SHAV), a disease that has until now only affected animals.",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "France reports first human case of livestock virus Shamonda after patient dies",
@@ -892,7 +906,8 @@
   "se": "2026-42",
   "r": "",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Doença de Newcastle: protocolos sanitários são cumpridos em SC",
@@ -909,7 +924,8 @@
   "se": "2026-42",
   "r": "O Ministério da Agricultura e Pecuária informou que foi concluído o despovoamento sanitário do estabelecimento comercial de criação de perus de corte no município de Nova Itaberaba , em Santa Catarina, onde foi identificado um foco da doença de Newcastle . De…",
   "i": "animal",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Com chuvas no Sul impulsionadas pelo El Niño, rede de pluviômetros expande monitoramento de desastres em 2026",
@@ -926,7 +942,8 @@
   "se": "2026-42",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "‘Worst on record’: Brutal summer heat wave killed more than 50,000 in Europe’s cities",
@@ -943,7 +960,8 @@
   "se": "2026-42",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Goiás reforça sobre a vigilância contra a poliomielite diante do risco de reintrodução da doença",
@@ -960,7 +978,8 @@
   "se": "2026-42",
   "r": "Estado mobiliza profissionais de saúde para fortalecer a vigilância da Paralisia Flácida Aguda (PFA), ampliar a detecção de casos suspeitos e alcançar indicadores preconizados pelo Ministério da Saúde",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Negacionismo impulsiona sarampo nos EUA e representa ameaça ao Brasil",
@@ -977,7 +996,8 @@
   "se": "2026-42",
   "r": "Mudanças recentes no calendário vacinal dos Estados Unidos, impulsionadas por discursos antivacinação do governo Donald Trump, ajudam a explicar por que o país está passando pelo pior surto de sarampo em mais de três décadas . Mais de 4,4 mil casos já foram…",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Previsão de chuvas intensas e temporais coloca em alerta equipes do município",
@@ -995,7 +1015,8 @@
   "se": "2026-42",
   "r": "",
   "i": "desastre",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Ebola: Africa CDC Convenes African Ministers of Health as Ebola Outbreak Spreads Across Three Regions",
@@ -1012,7 +1033,8 @@
   "se": "2026-42",
   "r": "Addis Ababa, Ethiopia, 21 October 2026 The Africa Centres for Disease Control and Prevention (Africa CDC) will convene a high-level virtual meeting of African Ministers of Health on Wednesday, 28 October 2026, as the ongoing Ebola outbreak poses an escalating…",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "One US measles outbreak is proving particularly deadly. Here’s why",
@@ -1029,7 +1051,8 @@
   "se": "2026-42",
   "r": "",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "PAHO calls for strengthened surveillance and preparedness amid increases in dengue and chikungunya in the Americas",
@@ -1047,7 +1070,8 @@
   "se": "2026-42",
   "r": "PAHO calls for strengthened surveillance and preparedness amid increases in dengue and chikungunya in the Americas Cristina Mitchell 21 Oct 2026",
   "i": "mosquito",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Tempestades voltam a atingir o Rio Grande do Sul a partir desta quarta-feira (21)",
@@ -1064,7 +1088,8 @@
   "se": "2026-42",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Ebola: Africa CDC réunit les ministres africains de la Santé face à l’extension de l’épidémie à trois régions du continent",
@@ -1081,7 +1106,8 @@
   "se": "2026-42",
   "r": "Addis-Abeba, Éthiopie, 21 octobre 2026 Les Centres africains de contrôle et de prévention des maladies (Africa CDC) convoquent une réunion virtuelle de haut niveau des ministres africains de la Santé le mercredi 28 octobre 2026, face à l’aggravation de…",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Força Nacional do SUS apoia atendimentos no Amazonas após incêndios",
@@ -1098,7 +1124,8 @@
   "se": "2026-42",
   "r": "Com o aumento da demanda de atendimento em saúde em razão dos incêndios florestais na região, começou a funcionar em Manaus uma base regional da Força Nacional do SUS. Segundo a última atualização da Fundação de Vigilância em Saúde do Amazonas, desde que a…",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Aumento do sarampo no Brasil: doença pode levar à morte; entenda riscos",
@@ -1115,7 +1142,8 @@
   "se": "2026-42",
   "r": "",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Ebola has spread from Congo to 4 other countries. A look at where things stand",
@@ -1132,7 +1160,8 @@
   "se": "2026-42",
   "r": "",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Epidemiological Update: Dengue and Chikungunya in the Americas Region - 20 October 2026",
@@ -1150,7 +1179,8 @@
   "se": "2026-42",
   "r": "",
   "i": "mosquito",
-  "m": []
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Governo impõe emergência zoossanitária após detectar Newcastle em SC",
@@ -1167,7 +1197,8 @@
   "se": "2026-42",
   "r": "O governo federal declarou estado de emergência zoossanitária nos municípios de Nova Itaberaba, Águas Frias, Coronel Freitas e Nova Erechim, todos em Santa Catarina , em razão de um foco da doença de Newcastle encontrado em um estabelecimento de aves…",
   "i": "animal",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Base da Força Nacional do SUS em Manaus começa a operar e apoia resposta às queimadas no Amazonas",
@@ -1184,7 +1215,8 @@
   "se": "2026-42",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Cenário Epidemiológico Sarampo",
@@ -1201,7 +1233,8 @@
   "se": "2026-42",
   "r": "",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Agricultura confirma foco de doença de Newcastle em Santa Catarina",
@@ -1220,7 +1253,8 @@
   "se": "2026-42",
   "r": "O Ministério da Agricultura e Pecuária (Mapa) confirmou o registro de um foco da doença de Newcastle em um estabelecimento de avicultura comercial de corte de perus no município de Nova Itaberaba, em Santa Catarina. A existência do foco foi confirmada no…",
   "i": "animal",
-  "m": []
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Ebola disease: Multi-country outbreak 2026",
@@ -1237,7 +1271,8 @@
   "se": "2026-42",
   "r": "Since May 2026, an Ebola virus disease outbreak caused by Bundibugyo virus has been ongoing in the Democratic Republic of the Congo (DRC).",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Defesa Civil de Barra do Piraí alerta para possíveis impactos do El Niño e reforça medidas de prevenção",
@@ -1254,7 +1289,8 @@
   "se": "2026-42",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Chuvas do fim de semana deixam rastros de destruição na 26 de Setembro",
@@ -1271,7 +1307,8 @@
   "i": "alerta",
   "m": [
    "Distrito Federal"
-  ]
+  ],
+  "c": "monitoramento"
  },
  {
   "t": "Defesa Civil alerta sobre possibilidade de chuvas intensas nesta segunda (19) e terça-feira (20) em Linhares",
@@ -1288,7 +1325,8 @@
   "se": "2026-42",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Moradores da 26 de Setembro voltam a enfrentar alagamentos após obra na Rua 2",
@@ -1308,7 +1346,8 @@
   "i": "desastre",
   "m": [
    "Distrito Federal"
-  ]
+  ],
+  "c": "alerta"
  },
  {
   "t": "Queimadas no Amazonas: quais são os riscos de inalar fumaça?",
@@ -1325,7 +1364,8 @@
   "se": "2026-42",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Chuva forte provoca alagamentos na 26 de Setembro neste sábado (17/10)",
@@ -1345,7 +1385,8 @@
   "i": "desastre",
   "m": [
    "Distrito Federal"
-  ]
+  ],
+  "c": "alerta"
  },
  {
   "t": "Africa CDC Reaffirms Support to Kenya Following Confirmation of Four Additional Ebola Cases",
@@ -1362,7 +1403,8 @@
   "se": "2026-41",
   "r": "Addis Ababa, Ethiopia, 17 October 2026 The Africa Centres for Disease Control and Prevention (Africa CDC) acknowledges the announcement by the Ministry of Health of the Republic of Kenya confirming four additional cases of Ebola Virus Disease (Bundibugyo…",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Dengue grave: estudo identifica fatores de risco para mortes no Brasil",
@@ -1379,7 +1421,8 @@
   "se": "2026-41",
   "r": "",
   "i": "mosquito",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Inmet prevê chuvas acompanhadas de vento, raios e granizo",
@@ -1399,7 +1442,8 @@
   "i": "desastre",
   "m": [
    "Distrito Federal"
-  ]
+  ],
+  "c": "monitoramento"
  },
  {
   "t": "Governo monitora saúde de amazonenses em locais afetados por queimadas",
@@ -1416,7 +1460,8 @@
   "se": "2026-41",
   "r": "O Ministério da Saúde vem monitorando os impactos das queimadas na saúde dos amazonenses e sobre o Sistema Único de Saúde (SUS) na região. A medida ocorre depois que o governo do Amazonas decretou situação de emergência em 36 municípios, no último dia 10, em…",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Operação El Niño: Governo de SP monitora os impactos da chuva e alerta para novos temporais",
@@ -1434,7 +1479,8 @@
   "se": "2026-41",
   "r": "",
   "i": "desastre",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Epidemiological Alert:  Myiasis caused by Cochliomyia hominivorax in the Americas Region, 16 October 2026",
@@ -1451,7 +1497,8 @@
   "se": "2026-41",
   "r": "",
   "i": "animal",
-  "m": []
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Inema emite alerta para chuvas intensas na Bahia nas próximas 72 horas",
@@ -1468,7 +1515,8 @@
   "se": "2026-41",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Defesa Civil reforça cuidados após alerta para tempestades em Vitória da Conquista até segunda-feira, 19",
@@ -1485,7 +1533,8 @@
   "se": "2026-41",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Defesa Civil emite alerta para chuvas intensas e risco de...",
@@ -1502,7 +1551,8 @@
   "se": "2026-41",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Communicable disease threats report, 10 - 16 October, week 42",
@@ -1521,7 +1571,8 @@
   "se": "2026-41",
   "r": "This issue of the Communicable disease threats report (CDTR) covers the period 10 - 16 October 2026, and includes updates on respiratory virus epidemiology in the EU/EEA, Ebola, expert deployment, pneumonia of unknown aetiology, mpox in the EU/EEA, West Nile…",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "New wildfire in Southern California explodes in size, burning multiple homes",
@@ -1538,7 +1589,8 @@
   "se": "2026-41",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Após chuva mudar o tempo no DF, previsão indica temporais até segunda",
@@ -1558,7 +1610,8 @@
   "i": "desastre",
   "m": [
    "Distrito Federal"
-  ]
+  ],
+  "c": "monitoramento"
  },
  {
   "t": "São Paulo terá mais chuvas fortes no fim da tarde desta quinta (15)",
@@ -1576,7 +1629,8 @@
   "se": "2026-41",
   "r": "Segundo o Centro de Gerenciamento de Emergências Climática da Prefeitura de São Paulo (CGE), a cidade deve enfrentar nesta quinta-feira (14) situação parecida com a desta quarta (13), graças à aproximação de uma frente fria. Entre o final da tarde e início da…",
   "i": "desastre",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Middle East respiratory syndrome coronavirus - Kingdom of Saudi Arabia",
@@ -1594,7 +1648,8 @@
   "se": "2026-41",
   "r": "Between 1 January and 5 October 2026, the Kingdom of Saudi Arabia reported eight laboratory-confirmed cases of Middle East Respiratory Syndrome Coronavirus (MERS-CoV) infection, including one death. Cases were detected across six locations: Al Jouf (1), Arar…",
   "i": "animal",
-  "m": []
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "InfoGripe: apenas Sergipe tem SRAG em nível de alerta e tendência de aumento",
@@ -1611,7 +1666,8 @@
   "se": "2026-41",
   "r": "InfoGripe: apenas Sergipe tem SRAG em nível de alerta e tendência de aumento",
   "i": "respiratorio",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "La OPS entrega insumos críticos para reforzar la atención de emergencia en comunidades afectadas por el terremoto en Panamá",
@@ -1628,7 +1684,8 @@
   "se": "2026-41",
   "r": "PAHO delivers critical supplies to strengthen emergency care in communities affected by the earthquake in Panama Cristina Mitchell 14 Oct 2026",
   "i": "desastre",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Serra está sob alerta de chuvas e possibilidade de tempestades",
@@ -1645,7 +1702,8 @@
   "se": "2026-41",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Communiqué d’Africa CDC sur le financement de la riposte à l’épidémie d’Ebola en RDC.",
@@ -1662,7 +1720,8 @@
   "se": "2026-41",
   "r": "Addis-Abeba, 15 octobre 2026 À la suite de la conférence de presse tenue le 14 octobre 2026 à Kinshasa par son Directeur Général, Son Excellence Dr Jean Kaseya, Africa CDC souhaite réaffirmer et clarifier les messages qu’il a clairement exprimés concernant la…",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Record-high West Nile virus infections reported amid spread to new parts of Europe",
@@ -1679,7 +1738,8 @@
   "se": "2026-41",
   "r": "With the EU experiencing its most intense West Nile virus season to date and detections of the virus in new areas further north in Europe, ECDC calls for sustained prevention, surveillance and mosquito control.",
   "i": "mosquito",
-  "m": []
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Countries move to accelerate action against lead poisoning",
@@ -1696,7 +1756,8 @@
   "se": "2026-41",
   "r": "",
   "i": "quimico",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "A super El Niño winter is coming and the first official forecast is in",
@@ -1713,7 +1774,8 @@
   "se": "2026-41",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Ebola disease outbreak in the Democratic Republic of the Congo",
@@ -1730,7 +1792,8 @@
   "se": "2026-41",
   "r": "Since May 2026, an Ebola virus disease outbreak caused by Bundibugyo virus has been ongoing in the Democratic Republic of the Congo (DRC).",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Defesa Civil de São Paulo alerta para chuva intensa nesta quinta-feira (15), com acumulados que podem chegar a 80 mm",
@@ -1747,7 +1810,8 @@
   "se": "2026-41",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Candeias: Defesa Civil alerta para aumento de focos de incêndio durante período de estiagem e orienta população sobre medidas de prevenção",
@@ -1764,7 +1828,8 @@
   "se": "2026-41",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Parte do teto de túnel da Câmara desabou nesta quarta-feira",
@@ -1781,7 +1846,8 @@
   "se": "2026-41",
   "r": "Uma parte do reboco do teto do chamado Túnel do Tempo, da Câmara dos Deputados, desabou durante a madrugada desta quarta-feira (14). O túnel forma um corredor que liga o Anexo II da Câmara, onde ficam as comissões permanentes, até o Salão Verde, que é o…",
   "i": "desastre",
-  "m": []
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Estudo analisa exposição de CRAS a riscos de inundação e deslizamento em 806 municípios brasileiros",
@@ -1798,7 +1864,8 @@
   "se": "2026-41",
   "r": "",
   "i": "desastre",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Reconhecida emergência em 82 cidades potiguares afetadas pela seca",
@@ -1815,7 +1882,8 @@
   "se": "2026-41",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Nota técnica aborda impactos das queimadas na qualidade do ar e riscos à saúde indígena no Amazonas",
@@ -1832,7 +1900,8 @@
   "se": "2026-41",
   "r": "Nota técnica aborda impactos das queimadas na qualidade do ar e riscos à saúde indígena no Amazonas",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Defesa Civil alerta para chuvas fortes entre essa terça-feira (13) e quinta-feira (15)",
@@ -1849,7 +1918,8 @@
   "se": "2026-41",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Defesa Civil do Estado alerta para chuvas fortes entre terça (13) e quinta-feira (15)",
@@ -1866,7 +1936,8 @@
   "se": "2026-41",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Fiocruz analisa impacto das queimadas na saúde indígena no Amazonas",
@@ -1883,7 +1954,8 @@
   "se": "2026-41",
   "r": "A poluição do ar provocada por queimadas e incêndios florestais no Amazonas representa um risco à saúde da população, especialmente das comunidades indígenas, que enfrentam dificuldades de acesso aos serviços de saúde. O alerta faze parte de levantamento…",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "EL NIÑO ganha intensidade e registra a segunda maior anomalia para setembro desde 1950",
@@ -1900,7 +1972,8 @@
   "se": "2026-41",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Reconhecida emergência na cidade de Filadélfia, em Tocantins, afetada pela estiagem",
@@ -1917,7 +1990,8 @@
   "se": "2026-41",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Defesa Civil renova alerta para chuvas fortes em São Paulo até quinta-feira (15)",
@@ -1934,7 +2008,8 @@
   "se": "2026-41",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Chuvas fortes levam Defesa Civil a emitir 29 alertas no estado de São Paulo",
@@ -1951,7 +2026,8 @@
   "se": "2026-41",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Governo Federal acelera socorro aos incêndios florestais no Amazonas",
@@ -1968,7 +2044,8 @@
   "se": "2026-41",
   "r": "",
   "i": "clima",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Hurricane Simon weakens to Category 2 as it continues to lash Mexico’s Pacific coast",
@@ -1985,7 +2062,8 @@
   "se": "2026-41",
   "r": "",
   "i": "desastre",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Pneumonia of undetermined etiology - the Russian Federation",
@@ -2003,7 +2081,8 @@
   "se": "2026-40",
   "r": "On 2 October 2026, WHO became aware through media reports of the death of an employee of the Irkutsk Antiplague Research Institute (APRI) of Siberia and the Far East, the Russian Federation. According to these reports, the individual died on 2 October…",
   "i": "respiratorio",
-  "m": []
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "DF registra 39 incêndios em vegetação somente neste sábado (10/10), diz CBMDF",
@@ -2022,7 +2101,8 @@
   "i": "clima",
   "m": [
    "Distrito Federal"
-  ]
+  ],
+  "c": "alerta"
  },
  {
   "t": "Malária: Anvisa autoriza teste em humanos de vacina 100% brasileira",
@@ -2039,7 +2119,8 @@
   "se": "2026-40",
   "r": "A Agência Nacional de Vigilância Sanitária (Anvisa) autorizou o início de testes em humanos da primeira vacina do mundo contra a malária causada pelo Plasmodium vivax , parasita responsável pela maioria dos casos da doença no país. O imunizante é feito com…",
   "i": "mosquito",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Brasil avança no desenvolvimento da primeira vacina do mundo contra malária vivax",
@@ -2056,7 +2137,8 @@
   "se": "2026-40",
   "r": "",
   "i": "mosquito",
-  "m": []
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "La OPS/OMS coordina con el Ministerio de Salud el apoyo a la respuesta en salud tras el terremoto en Panamá",
@@ -2073,7 +2155,8 @@
   "se": "2026-40",
   "r": "PAHO/WHO coordinates with Ministry of Health to support health response following earthquake in Panama Cristina Mitchell 10 Oct 2026",
   "i": "desastre",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Kenya prepared for Ebola. It still slipped through — a warning of wider cross-border spread",
@@ -2090,7 +2173,8 @@
   "se": "2026-40",
   "r": "",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "PAHO assesses risk of measles spread as very high ahead of religious mass gatherings in the Americas",
@@ -2107,7 +2191,8 @@
   "se": "2026-40",
   "r": "PAHO assesses risk of measles spread as very high ahead of religious mass gatherings in the Americas Oscar Reyes 9 Oct 2026",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Powerful earthquake shakes Panama, followed by large aftershocks",
@@ -2124,7 +2209,8 @@
   "se": "2026-40",
   "r": "",
   "i": "desastre",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Communicable disease threats report, 3 - 9 October, week 41",
@@ -2143,7 +2229,8 @@
   "se": "2026-40",
   "r": "This issue of the Communicable disease threats report (CDTR) covers the period 3 - 9October 2026, and includes updates on respiratory virus epidemiology in the EU/EEA, pneumonia of unknown aetiology, Ebola, expert deployment, West Nile Virus, Crimean-Congo…",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "InfoGripe alerta para a importância da vacinação contra Covid-19 e VSR",
@@ -2161,7 +2248,8 @@
   "se": "2026-40",
   "r": "InfoGripe alerta para a importância da vacinação contra Covid-19 e VSR",
   "i": "respiratorio",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Africa CDC Expresses Solidarity with Kenya and Calls for Stronger Regional Ebola Preparedness",
@@ -2178,7 +2266,8 @@
   "se": "2026-40",
   "r": "Addis Ababa, Ethiopia, 6 October 2026 The Africa Centres for Disease Control and Prevention (Africa CDC) has reaffirmed its support to Kenya following confirmation of the country’s first imported case of Bundibugyo Ebola Virus Disease and the subsequent death…",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Africa CDC exprime sa solidarité avec le Kenya et appelle à renforcer la préparation régionale face à Ebola",
@@ -2195,7 +2284,8 @@
   "se": "2026-40",
   "r": "Addis-Abeba, Éthiopie, 6 octobre 2026 Les Centres africains de contrôle et de prévention des maladies (Africa CDC) ont réaffirmé leur soutien au Kenya à la suite de la confirmation du premier cas importé de maladie à virus Ebola de souche Bundibugyo dans le…",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "ECDC closely monitoring situation following case of pneumonia of unknown origin in Russia",
@@ -2212,7 +2302,8 @@
   "se": "2026-40",
   "r": "Following the reported death of a laboratory worker in Irkutsk, Russia, from pneumonia that is suspected to be pneumonic plague, ECDC is closely monitoring the situation.",
   "i": "bacteria",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Chikungunya virus disease worldwide overview",
@@ -2229,7 +2320,8 @@
   "se": "2026-40",
   "r": "Every month ECDC provides detailed epidemiological overview of the worldwide transmission of chikungunya virus disease in its weekly threat report (Communicable Diseases Threat Report).",
   "i": "mosquito",
-  "m": []
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Africa CDC soutient le Gouvernement de la République démocratique du Congo dans le renforcement de la transparence et de la redevabilité du financement de la riposte à Ebola",
@@ -2246,7 +2338,8 @@
   "se": "2026-40",
   "r": "Kinshasa, République démocratique du Congo, le 4 octobre 2026 Le Centre africain de contrôle et de prévention des maladies (Africa CDC) salue et soutient la position du Gouvernement de la République démocratique du Congo, exprimée par l’intermédiaire du…",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Communicable disease threats report, 26 September - 2 October, week 40",
@@ -2265,7 +2358,8 @@
   "se": "2026-39",
   "r": "This issue of the Communicable disease threats report (CDTR) covers the period 26 September - 2 October 2026, and includes updates on Crimean Congo haemorrhagic fever, Chikungunya virus disease, cholera, COVID-19, dengue, Ebola, avian influenza, seasonal…",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Risk to general population remains very low following fourth imported Ebola case in Europe",
@@ -2282,7 +2376,8 @@
   "se": "2026-39",
   "r": "A healthcare worker from Europe based in the DRC who tested positive for Bundibugyo virus on 29 September has been medically evacuated to receive specialised care.",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "New hepatitis surveillance report shows strengthened public health cooperation with EU candidate countries",
@@ -2299,7 +2394,8 @@
   "se": "2026-39",
   "r": "The report brings together surveillance data on hepatitis A from EU candidate countries.",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "WHO reports latest global trends in cholera, meningitis and plague",
@@ -2318,7 +2414,8 @@
   "se": "2026-39",
   "r": "",
   "i": "agua",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "MERS-CoV worldwide overview",
@@ -2335,7 +2432,8 @@
   "se": "2026-39",
   "r": "Summary Since the beginning of 2026, and as of 31 August 2026, two MERS cases, including one fatality, have been reported in Saudi Arabia.",
   "i": "respiratorio",
-  "m": []
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Cholera worldwide overview",
@@ -2352,7 +2450,8 @@
   "se": "2026-39",
   "r": "A worldwide epidemiological summary of the countries most affected by cholera.",
   "i": "agua",
-  "m": []
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Dengue worldwide overview",
@@ -2369,7 +2468,8 @@
   "se": "2026-39",
   "r": "Every month ECDC provides detailed epidemiological overview of the worldwide transmission of dengue in its weekly threat report (Communicable Diseases Threat Report).",
   "i": "mosquito",
-  "m": []
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Communicable disease threats report, 19-25 September, week 39",
@@ -2388,7 +2488,8 @@
   "se": "2026-38",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 19-25 September, and includes updates on respiratory virus epidemiology in the EU/EEA Ebola, ECDC expert deployment, West Nile Virus, Crimean-Congo haemorrhagic fever, dengue…",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Recommendations announced for influenza vaccine composition for the 2027 southern hemisphere influenza season",
@@ -2405,7 +2506,8 @@
   "se": "2026-38",
   "r": "",
   "i": "respiratorio",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Hepatitis A Outbreak Associated with Cuba - Florida, June 2024-February 2026",
@@ -2422,7 +2524,8 @@
   "se": "2026-38",
   "r": "This report describes an unusually high number of hepatitis A cases among Florida travelers who had recently been to Cuba.",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Notes from the Field: The First 100 Days of Five Ebola Outbreaks - Democratic Republic of the Congo, Uganda, and West Africa, 2007-2026",
@@ -2439,7 +2542,8 @@
   "se": "2026-38",
   "r": "This report describes the first 100 days of the 2026 Ebola outbreak in the Democratic Republic of the Congo compared to other Ebola outbreaks.",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Communicable disease threats report, 12-18 September, week 38",
@@ -2458,7 +2562,8 @@
   "se": "2026-37",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 12-18 September, and includes updates on Ebola, malaria, botulism, avian influenza A(H9N2), influenza A(H5), respiratory virus epidemiology in the EU/.EEA, West Nile virus…",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Communicable disease threats report, 5 - 11 September, week 37",
@@ -2477,7 +2582,8 @@
   "se": "2026-36",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 5 -12 September, and includes updates on Ebola, an overview of respiratory virus epidemiology in the EU/EEA, West Nile virus, Crimean-Congo haemorrhagic fever, dengue…",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Notes from the Field: Characteristics and Monitoring of the 2026 Outbreak of Ebola Disease Caused by Bundibugyo Virus - Democratic Republic of the Congo, August 2026",
@@ -2494,7 +2600,8 @@
   "se": "2026-36",
   "r": "This report describes the ongoing Ebola outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo.",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Notes from the Field: Clinical Characteristics of Patients with Ebola Disease Caused by Bundibugyo Virus - Uganda, 2026",
@@ -2511,7 +2618,8 @@
   "se": "2026-36",
   "r": "This report describes characteristics of Ebola cases reported in Uganda during the 2025 outbreak.",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Communicable disease threats report, 29 August - 4 September, week 36",
@@ -2530,7 +2638,8 @@
   "se": "2026-35",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 29 August - 4 September, and includes updates on Ebola, SARS-CoV-2 variant classification, West Nile virus, Crimean-Congo haemorrhagic fever, dengue, chikungunya, vibrio…",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Communicable disease threats report, 22 - 28 August, week 35",
@@ -2549,7 +2658,8 @@
   "se": "2026-34",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 22 - 28 August, and includes updates on diphtheria, Ebola, swine influenza A(H1N2), respiratory virus epidemiology, Crimean-Congo haemorrhagic fever, dengue, chikungunya virus…",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Use of Nowcasting to Estimate Real-Time Transmission Trends During a Measles Outbreak - South Carolina, October 2025-March 2026",
@@ -2566,7 +2676,8 @@
   "se": "2026-34",
   "r": "This report describes CDC's nowcast model that provided real-time estimates of measles case counts during outbreaks in South Carolina.",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Epidemiological Update Avian Influenza A(H5) in the Americas Region - 26 August 2026",
@@ -2584,7 +2695,8 @@
   "se": "2026-34",
   "r": "",
   "i": "respiratorio",
-  "m": []
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Communicable disease threats report, 15 - 21 August 2026, week 34",
@@ -2603,7 +2715,8 @@
   "se": "2026-33",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 15-21 August 2026, and includes updates on Ebola, respiratory virus epidemiology in the EU/EEA, swine flu, West Nile virus, Crimean-Congo haemorrhagic fever, dengue…",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Epidemiological update – 11 August 2026: Imported case of Andes hantavirus in the EU/EEA",
@@ -2621,7 +2734,8 @@
   "se": "2026-33",
   "r": "On 6 August 2026, French public health authorities reported an imported case of Andes hantavirus infection in a traveller from Argentina.",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo",
@@ -2639,7 +2753,8 @@
   "se": "2026-32",
   "r": "The Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo is in a phase of intense transmission. It is the largest Ebola outbreak ever reported in the country and expanding faster than any previous Ebola outbreak. The epidemic is…",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Communicable disease threats report, 8 - 14 August 2026, week 33",
@@ -2658,7 +2773,8 @@
   "se": "2026-32",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 8 - 14 August 2026, and includes updates on Ebola, chikungunya, dengue, West Nile Virus infection, Crimean-Congo haemorrhagic fever, Vibrio, respiratory virus epidemiology in…",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Epidemiological Alert Measles in the Americas Region - 7 August 2026",
@@ -2675,7 +2791,8 @@
   "se": "2026-31",
   "r": "",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Communicable disease threats report, 1 - 7 August 2026, week 32",
@@ -2694,6 +2811,7 @@
   "se": "2026-31",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 1 - 7 August 2026, and includes updates on Ebola, chikungunya, dengue, West Nile Virus infection, Crimean-Congo haemorrhagic fever, Vibrio, respiratory virus epidemiology in…",
   "i": "virus",
-  "m": []
+  "m": [],
+  "c": "atencao"
  }
 ]
