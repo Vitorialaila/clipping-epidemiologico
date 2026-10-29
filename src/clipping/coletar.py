@@ -202,6 +202,25 @@ def _link_original(url: str) -> str:
 
 
 COLETORES = {"rss": _rss, "who_api": _who_api, "html": _html, "google_news": _google_news}
+RANK_CATEGORIA = {"alerta": 2, "atencao": 1, "monitoramento": 0}
+
+
+def _descarte(fonte: dict, p: dict) -> str | None:
+    """Filtro de entrada das fontes amplas (imprensa). Devolve o motivo do descarte, ou None se a notícia entra.
+
+    entrada_minima: categoria mínima para a notícia ser guardada (ex.: "atencao" descarta o monitoramento).
+    sem_desastres: descarta notícias cujo único assunto é tempo, clima ou desastre."""
+    if (fonte["tipo"] == "google_news" or fonte.get("apenas_relevantes")) and p["pontuacao"] <= 0:
+        return "sem relevância epidemiológica"
+    minima = fonte.get("entrada_minima")
+    if minima and RANK_CATEGORIA.get(p.get("categoria"), 0) < RANK_CATEGORIA[minima]:
+        return "abaixo da categoria mínima (" + (p.get("motivo") or "sem agravo no título") + ")"
+    if fonte.get("sem_desastres"):
+        from .pontuar import _categorias
+        info = _categorias()[0]
+        if not any(info.get(a, ("nao",))[0] != "desastre" for a in p.get("agravos", [])):
+            return "tempo, clima ou desastre"
+    return None
 
 
 def coletar() -> dict:
@@ -214,6 +233,7 @@ def coletar() -> dict:
     agora = datetime.now(timezone.utc).isoformat(timespec="seconds")
     resumo = {"novas": 0, "fontes_ok": [], "fontes_erro": {}}
     status = {}  # diagnóstico por fonte, salvo em data/coleta_status.json
+    teste = {}  # fontes marcadas com "teste: true": relatório em data/teste_fontes.json, fora do site
 
     # Links antigos do Google Notícias (até 30 por execução, das últimas duas semanas): busca o endereço original
     recentes = (hoje - timedelta(days=14)).isoformat()
@@ -239,7 +259,7 @@ def coletar() -> dict:
             nid = id_noticia(it["url"])
             if nid in base:
                 continue
-            if fonte["tipo"] == "google_news":
+            if fonte["tipo"] == "google_news" and not fonte.get("teste"):
                 it["url"] = _link_original(it["url"])
             d = it["data"]
             estimada = False
@@ -251,8 +271,16 @@ def coletar() -> dict:
             if d < hoje - timedelta(days=retencao) or d > hoje + timedelta(days=1):
                 continue
             p = pontuar(it["titulo"], limpar_descricao(it["descricao"]), fonte, d.year)
-            if (fonte["tipo"] == "google_news" or fonte.get("apenas_relevantes")) and p["pontuacao"] <= 0:
-                continue  # fontes amplas (imprensa, meteorologia, buscas): guarda só o que tem relevância epidemiológica
+            descarte = _descarte(fonte, p)  # fontes amplas (imprensa, buscas): guarda só o que tem relevância
+            if fonte.get("teste"):  # fonte em teste: vai para o relatório, não para o site
+                teste.setdefault(fonte["id"], {"aceitas": [], "descartadas": []})[
+                    "descartadas" if descarte else "aceitas"].append(
+                    {"data": d.isoformat(), "titulo": it["titulo"], "fonte": it.get("sigla") or fonte.get("sigla"),
+                     "url": it["url"], "pontuacao": p["pontuacao"], "categoria": p["categoria"],
+                     "escopo": p["escopo"], "motivo": descarte or p["motivo"]})
+                continue
+            if descarte:
+                continue
             base[nid] = {
                 "id": nid,
                 "titulo": truncar(it["titulo"], 300),
@@ -280,6 +308,8 @@ def coletar() -> dict:
                       key=lambda n: (n["data"], n["pontuacao"]), reverse=True)
     salvar_json(ARQ_NOTICIAS, noticias)
     salvar_json(ARQ_NOTICIAS.parent / "coleta_status.json", status)
+    if teste:
+        salvar_json(ARQ_NOTICIAS.parent / "teste_fontes.json", {"em": agora, "fontes": teste})
     log.info("Coleta concluída: %d novas notícias, %d na base.", resumo["novas"], len(noticias))
     return resumo
 
@@ -293,5 +323,8 @@ def repontuar() -> None:
         n["descricao"] = limpar_descricao(n.get("descricao", ""))
         n.update(pontuar(n["titulo"], n["descricao"], fontes.get(n["fonte_id"], {}), int(n["data"][:4])))
         n["municipios"] = _municipios_item(n["titulo"], n["descricao"], n["escopo"])
+    f = lambda n: fontes.get(n["fonte_id"], {"tipo": ""})
+    noticias = [n for n in noticias if not (f(n).get("entrada_minima") or f(n).get("sem_desastres"))
+                or _descarte(f(n), n) is None]
     salvar_json(ARQ_NOTICIAS, noticias)
     log.info("Base repontuada: %d notícias.", len(noticias))

@@ -7052,8 +7052,8 @@
   ],
   "escopo": "Internacional",
   "termos_evento": [],
-  "categoria": "atencao",
-  "motivo": "Doença pelo vírus Ebola (notificação imediata) · situação ou risco (threat) · internacional"
+  "categoria": "alerta",
+  "motivo": "Doença pelo vírus Ebola (notificação imediata) · Ebola cases · internacional"
  },
  {
   "id": "ca775911bd0ac2",
@@ -15819,15 +15819,15 @@
   "descricao": "",
   "coletado_em": "2026-10-16T23:34:40+00:00",
   "municipios": [],
-  "pontuacao": 4.5,
+  "pontuacao": 6.5,
   "agravos": [
    "Saúde ambiental e clima"
   ],
-  "escopo": "Internacional",
+  "escopo": "Américas",
   "termos_evento": [],
   "link_tentado": true,
   "categoria": "monitoramento",
-  "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · internacional"
+  "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · Américas"
  },
  {
   "id": "a21024766ccb8d",
@@ -15843,15 +15843,15 @@
   "descricao": "",
   "coletado_em": "2026-10-17T04:23:32+00:00",
   "municipios": [],
-  "pontuacao": 4.5,
+  "pontuacao": 6.5,
   "agravos": [
    "Saúde ambiental e clima"
   ],
-  "escopo": "Internacional",
+  "escopo": "Américas",
   "termos_evento": [],
   "link_tentado": true,
   "categoria": "monitoramento",
-  "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · internacional"
+  "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · Américas"
  },
  {
   "id": "6ce27ac93ba2da",
@@ -21280,8 +21280,8 @@
   "escopo": "Internacional",
   "termos_evento": [],
   "municipios": [],
-  "categoria": "atencao",
-  "motivo": "Doença pelo vírus Ebola (notificação imediata) · situação ou risco (Risk) · internacional"
+  "categoria": "alerta",
+  "motivo": "Doença pelo vírus Ebola (notificação imediata) · Ebola case · internacional"
  },
  {
   "id": "76a92ed20c087b",
@@ -21321,15 +21321,15 @@
   "se": "2026-39",
   "descricao": "This report describes mystery patient drills conducted in health care facilities in New Jersey, New York, and the U.S. Virgin Islands to simulate response to an infectious disease outbreak.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 3.0,
+  "pontuacao": 5.0,
   "agravos": [],
-  "escopo": "Internacional",
+  "escopo": "Américas",
   "termos_evento": [
    "outbreaks"
   ],
   "municipios": [],
   "categoria": "monitoramento",
-  "motivo": "internacional"
+  "motivo": "Américas"
  },
  {
   "id": "a0499f2f5019bc",
@@ -21368,17 +21368,17 @@
   "se": "2026-39",
   "descricao": "This report describes a case of fatal pneumonic plague reported in Arizona during 2025.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 0.0,
+  "pontuacao": 1.5,
   "agravos": [
    "Peste"
   ],
-  "escopo": "Internacional",
+  "escopo": "Américas",
   "termos_evento": [
    "fatal"
   ],
   "municipios": [],
   "categoria": "monitoramento",
-  "motivo": "Peste (notificação imediata) · estudo, orientação ou relato retrospectivo · internacional"
+  "motivo": "Peste (notificação imediata) · estudo, orientação ou relato retrospectivo · Américas"
  },
  {
   "id": "3a245e7cb5455e",
@@ -22003,18 +22003,18 @@
   "se": "2026-38",
   "descricao": "This report describes a Campylobacter jejuni outbreak among wedding attendees in Pennsylvania who drank untreated spring water.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 1.5,
+  "pontuacao": 3.5,
   "agravos": [
    "Doenças transmitidas por alimentos e água"
   ],
-  "escopo": "Internacional",
+  "escopo": "Américas",
   "termos_evento": [
    "outbreak",
    "investigation"
   ],
   "municipios": [],
   "categoria": "monitoramento",
-  "motivo": "Doenças transmitidas por alimentos e água (notificação semanal) · estudo, orientação ou relato retrospectivo · internacional"
+  "motivo": "Doenças transmitidas por alimentos e água (notificação semanal) · estudo, orientação ou relato retrospectivo · Américas"
  },
  {
   "id": "e5947acfa9b990",
@@ -22608,17 +22608,17 @@
   "se": "2026-34",
   "descricao": "This report describes CDC's nowcast model that provided real-time estimates of measles case counts during outbreaks in South Carolina.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 8.5,
+  "pontuacao": 10.5,
   "agravos": [
    "Sarampo"
   ],
-  "escopo": "Internacional",
+  "escopo": "Américas",
   "termos_evento": [
    "outbreak"
   ],
   "municipios": [],
   "categoria": "alerta",
-  "motivo": "Sarampo (notificação imediata) · Outbreak · internacional"
+  "motivo": "Sarampo (notificação imediata) · Outbreak · Américas"
  },
  {
   "id": "5ffdf0a2028fce",
@@ -22859,15 +22859,15 @@
   "se": "2026-32",
   "descricao": "This report describes a possible HIV exposure from donated breast milk received through social media.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 1.0,
+  "pontuacao": 3.0,
   "agravos": [
    "HIV/aids e IST"
   ],
-  "escopo": "Internacional",
+  "escopo": "Américas",
   "termos_evento": [],
   "municipios": [],
   "categoria": "monitoramento",
-  "motivo": "HIV/aids e IST (notificação semanal) · estudo, orientação ou relato retrospectivo · internacional"
+  "motivo": "HIV/aids e IST (notificação semanal) · estudo, orientação ou relato retrospectivo · Américas"
  },
  {
   "id": "d57c399cae2128",
@@ -23131,11 +23131,11 @@
   "agravos": [
    "Doença meningocócica e meningites"
   ],
-  "escopo": "Internacional",
+  "escopo": "Américas",
   "termos_evento": [],
   "municipios": [],
   "categoria": "monitoramento",
-  "motivo": "Doença meningocócica e meningites (notificação imediata) · estudo, orientação ou relato retrospectivo · internacional"
+  "motivo": "Doença meningocócica e meningites (notificação imediata) · estudo, orientação ou relato retrospectivo · Américas"
  },
  {
   "id": "a0f9672769ef0e",
@@ -23293,19 +23293,19 @@
   "se": "2026-27",
   "descricao": "This report describes illnesses and infection prevention and control protocols at a wildfire evacuation shelter during the Eaton wildfire in Pasadena, California.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 1.5,
+  "pontuacao": 3.5,
   "agravos": [
    "Saúde ambiental e clima",
    "Influenza e vírus respiratórios",
    "Doenças transmitidas por alimentos e água"
   ],
-  "escopo": "Internacional",
+  "escopo": "Américas",
   "termos_evento": [
    "outbreaks"
   ],
   "municipios": [],
   "categoria": "monitoramento",
-  "motivo": "Influenza e vírus respiratórios (notificação semanal) · estudo, orientação ou relato retrospectivo · internacional"
+  "motivo": "Influenza e vírus respiratórios (notificação semanal) · estudo, orientação ou relato retrospectivo · Américas"
  },
  {
   "id": "4d9d4afe532e9c",
@@ -23672,17 +23672,17 @@
   "se": "2026-24",
   "descricao": "This report describes the public health response to a measles outbreak in a Texas community.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 0.5,
+  "pontuacao": 2.5,
   "agravos": [
    "Sarampo"
   ],
-  "escopo": "Internacional",
+  "escopo": "Américas",
   "termos_evento": [
    "outbreak"
   ],
   "municipios": [],
   "categoria": "monitoramento",
-  "motivo": "Sarampo (notificação imediata) · estudo, orientação ou relato retrospectivo · internacional"
+  "motivo": "Sarampo (notificação imediata) · estudo, orientação ou relato retrospectivo · Américas"
  },
  {
   "id": "79e1d41165b9ee",
@@ -23994,11 +23994,11 @@
   "agravos": [
    "Legionelose"
   ],
-  "escopo": "Internacional",
+  "escopo": "Américas",
   "termos_evento": [],
   "municipios": [],
   "categoria": "monitoramento",
-  "motivo": "Legionelose · estudo, orientação ou relato retrospectivo · internacional"
+  "motivo": "Legionelose · estudo, orientação ou relato retrospectivo · Américas"
  },
  {
   "id": "afe63c27b7bf62",
@@ -24040,17 +24040,17 @@
   "se": "2026-22",
   "descricao": "This report describes characteristics of patients who were hospitalized during a large measles outbreak in west Texas.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 2.5,
+  "pontuacao": 4.5,
   "agravos": [
    "Sarampo"
   ],
-  "escopo": "Internacional",
+  "escopo": "Américas",
   "termos_evento": [
    "outbreak"
   ],
   "municipios": [],
   "categoria": "monitoramento",
-  "motivo": "Sarampo (notificação imediata) · estudo, orientação ou relato retrospectivo · internacional"
+  "motivo": "Sarampo (notificação imediata) · estudo, orientação ou relato retrospectivo · Américas"
  },
  {
   "id": "2ce5d6d3b55923",
@@ -24069,11 +24069,11 @@
   "agravos": [
    "Doenças transmitidas por carrapatos"
   ],
-  "escopo": "Internacional",
+  "escopo": "Américas",
   "termos_evento": [],
   "municipios": [],
   "categoria": "monitoramento",
-  "motivo": "Doenças transmitidas por carrapatos · estudo, orientação ou relato retrospectivo · internacional"
+  "motivo": "Doenças transmitidas por carrapatos · estudo, orientação ou relato retrospectivo · Américas"
  },
  {
   "id": "f70e50d290df69",
@@ -24198,15 +24198,15 @@
   "se": "2026-21",
   "descricao": "This report describes an outbreak of 39 cases of amatoxin mushroom poisoning in Northern California.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 4.0,
+  "pontuacao": 6.0,
   "agravos": [
    "Intoxicações"
   ],
-  "escopo": "Internacional",
+  "escopo": "Américas",
   "termos_evento": [],
   "municipios": [],
   "categoria": "monitoramento",
-  "motivo": "Intoxicações (notificação semanal) · sem ocorrência relatada no título · internacional"
+  "motivo": "Intoxicações (notificação semanal) · sem ocorrência relatada no título · Américas"
  },
  {
   "id": "1f12ce7bff7f72",
@@ -24221,17 +24221,17 @@
   "se": "2026-21",
   "descricao": "This report describes characteristics of patients who were hospitalized during a large measles outbreak in west Texas.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 2.5,
+  "pontuacao": 4.5,
   "agravos": [
    "Sarampo"
   ],
-  "escopo": "Internacional",
+  "escopo": "Américas",
   "termos_evento": [
    "outbreak"
   ],
   "municipios": [],
   "categoria": "monitoramento",
-  "motivo": "Sarampo (notificação imediata) · estudo, orientação ou relato retrospectivo · internacional"
+  "motivo": "Sarampo (notificação imediata) · estudo, orientação ou relato retrospectivo · Américas"
  },
  {
   "id": "3691f4a914201d",
@@ -24683,16 +24683,16 @@
   "se": "2026-18",
   "descricao": "This report describes 139 human exposures to cats infected with A(H5N1) in Los Angeles, California.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 0.5,
+  "pontuacao": 2.5,
   "agravos": [
    "Influenza por novo subtipo",
    "Influenza e vírus respiratórios"
   ],
-  "escopo": "Internacional",
+  "escopo": "Américas",
   "termos_evento": [],
   "municipios": [],
   "categoria": "monitoramento",
-  "motivo": "Influenza por novo subtipo (notificação imediata) · estudo, orientação ou relato retrospectivo · internacional"
+  "motivo": "Influenza por novo subtipo (notificação imediata) · estudo, orientação ou relato retrospectivo · Américas"
  },
  {
   "id": "fc341c9b35b02b",
@@ -25342,15 +25342,15 @@
   "se": "2026-10",
   "descricao": "This report describes interim estimates of 2025-26 flu vaccine effectiveness in California during October 2025-January 2026.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 1.0,
+  "pontuacao": 3.0,
   "agravos": [
    "Influenza e vírus respiratórios"
   ],
-  "escopo": "Internacional",
+  "escopo": "Américas",
   "termos_evento": [],
   "municipios": [],
   "categoria": "monitoramento",
-  "motivo": "Influenza e vírus respiratórios (notificação semanal) · estudo, orientação ou relato retrospectivo · internacional"
+  "motivo": "Influenza e vírus respiratórios (notificação semanal) · estudo, orientação ou relato retrospectivo · Américas"
  },
  {
   "id": "989850b68a3800",
@@ -25395,11 +25395,11 @@
   "agravos": [
    "Rubéola"
   ],
-  "escopo": "Internacional",
+  "escopo": "Américas",
   "termos_evento": [],
   "municipios": [],
   "categoria": "monitoramento",
-  "motivo": "Rubéola (notificação imediata) · estudo, orientação ou relato retrospectivo · internacional"
+  "motivo": "Rubéola (notificação imediata) · estudo, orientação ou relato retrospectivo · Américas"
  },
  {
   "id": "114e5c008aabc6",
@@ -25667,17 +25667,17 @@
   "se": "2026-06",
   "descricao": "This report describes the public health response to a Purpureocillium lilacinum keratitis outbreak in New York City associated with an ophthalmology clinic.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 0.0,
+  "pontuacao": 1.5,
   "agravos": [
    "Micobactérias não tuberculosas e outras infecções"
   ],
-  "escopo": "Internacional",
+  "escopo": "Américas",
   "termos_evento": [
    "outbreak"
   ],
   "municipios": [],
   "categoria": "monitoramento",
-  "motivo": "Micobactérias não tuberculosas e outras infecções · estudo, orientação ou relato retrospectivo · internacional"
+  "motivo": "Micobactérias não tuberculosas e outras infecções · estudo, orientação ou relato retrospectivo · Américas"
  },
  {
   "id": "546c8951dc698f",
@@ -25916,17 +25916,17 @@
   "se": "2026-02",
   "descricao": "This report describes a human rabies case with a delayed diagnosis that led to health care provider exposures in two states: Kentucky and Ohio.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 1.5,
+  "pontuacao": 3.5,
   "agravos": [
    "Raiva"
   ],
-  "escopo": "Internacional",
+  "escopo": "Américas",
   "termos_evento": [
    "deaths"
   ],
   "municipios": [],
   "categoria": "monitoramento",
-  "motivo": "Raiva (notificação imediata) · estudo, orientação ou relato retrospectivo · internacional"
+  "motivo": "Raiva (notificação imediata) · estudo, orientação ou relato retrospectivo · Américas"
  },
  {
   "id": "53183af1b71f52",
@@ -26293,17 +26293,17 @@
   "se": "2025-48",
   "descricao": "This report describes CDC's multistate investigation to confirm the genetic relatedness of infections in an E. coli outbreak linked to walnuts and identify additional cases.",
   "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 0.0,
+  "pontuacao": 0.5,
   "agravos": [
    "Doenças transmitidas por alimentos e água"
   ],
-  "escopo": "Internacional",
+  "escopo": "Américas",
   "termos_evento": [
    "outbreak"
   ],
   "municipios": [],
   "categoria": "monitoramento",
-  "motivo": "Doenças transmitidas por alimentos e água (notificação semanal) · estudo, orientação ou relato retrospectivo · internacional"
+  "motivo": "Doenças transmitidas por alimentos e água (notificação semanal) · estudo, orientação ou relato retrospectivo · Américas"
  },
  {
   "id": "7819e03194d67c",

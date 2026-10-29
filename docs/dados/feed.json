@@ -742,7 +742,7 @@
   "r": "With cases of Ebola disease caused by Bundibugyo virus recently detected in Kenya and Nigeria, ECDC reiterates the low risk for Europe while highlighting the need for preparedness.",
   "i": "virus",
   "m": [],
-  "c": "atencao"
+  "c": "alerta"
  },
  {
   "t": "Fumaça das queimadas: saiba como proteger a sua saúde e onde buscar atendimento",
@@ -1555,6 +1555,24 @@
   "c": "monitoramento"
  },
  {
+  "t": "New wildfire in Southern California explodes in size, burning multiple homes",
+  "u": "https://edition.cnn.com/2026/10/16/weather/california-wildfires-santa-ana-winds-climate",
+  "d": "2026-10-16",
+  "df": "16 out 2026",
+  "f": "CNN",
+  "fn": "CNN",
+  "e": "Américas",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 6.5,
+  "se": "2026-41",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "Communicable disease threats report, 10 - 16 October, week 42",
   "u": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-10-16-october-week-42",
   "d": "2026-10-16",
@@ -1573,24 +1591,6 @@
   "i": "virus",
   "m": [],
   "c": "atencao"
- },
- {
-  "t": "New wildfire in Southern California explodes in size, burning multiple homes",
-  "u": "https://edition.cnn.com/2026/10/16/weather/california-wildfires-santa-ana-winds-climate",
-  "d": "2026-10-16",
-  "df": "16 out 2026",
-  "f": "CNN",
-  "fn": "CNN",
-  "e": "Internacional",
-  "a": [
-   "Saúde ambiental e clima"
-  ],
-  "p": 4.5,
-  "se": "2026-41",
-  "r": "",
-  "i": "clima",
-  "m": [],
-  "c": "monitoramento"
  },
  {
   "t": "Após chuva mudar o tempo no DF, previsão indica temporais até segunda",
@@ -2377,7 +2377,23 @@
   "r": "A healthcare worker from Europe based in the DRC who tested positive for Bundibugyo virus on 29 September has been medically evacuated to receive specialised care.",
   "i": "virus",
   "m": [],
-  "c": "atencao"
+  "c": "alerta"
+ },
+ {
+  "t": "Unannounced Drills Using Patient Actors to Evaluate Health Care Facility Readiness for Infectious Disease Outbreaks - New Jersey, New York, and U.S. Virgin Islands, January-June 2026",
+  "u": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766555",
+  "d": "2026-10-01",
+  "df": "01 out 2026",
+  "f": "CDC",
+  "fn": "CDC | MMWR",
+  "e": "Américas",
+  "a": [],
+  "p": 5.0,
+  "se": "2026-39",
+  "r": "This report describes mystery patient drills conducted in health care facilities in New Jersey, New York, and the U.S. Virgin Islands to simulate response to an infectious disease outbreak.",
+  "i": "alerta",
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "New hepatitis surveillance report shows strengthened public health cooperation with EU candidate countries",
@@ -2668,11 +2684,11 @@
   "df": "27 ago 2026",
   "f": "CDC",
   "fn": "CDC | MMWR",
-  "e": "Internacional",
+  "e": "Américas",
   "a": [
    "Sarampo"
   ],
-  "p": 8.5,
+  "p": 10.5,
   "se": "2026-34",
   "r": "This report describes CDC's nowcast model that provided real-time estimates of measles case counts during outbreaks in South Carolina.",
   "i": "virus",

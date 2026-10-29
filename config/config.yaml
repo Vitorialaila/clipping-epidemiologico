@@ -216,26 +216,54 @@ fontes:
     escopo_padrao: "Brasil"
     idioma: pt
 
-  # G1: busca no índice do Google Notícias restrita ao g1.globo.com (os RSS de editoria do G1
-  # devolvem matérias antigas). Só entram as notícias com relevância pelos critérios de pontuação.
+  # Imprensa nacional (G1, inclusive os portais regionais, e Metrópoles), pela busca do Google Notícias.
+  # Só eventos de saúde: as consultas não têm tempo nem Defesa Civil, e o filtro de entrada guarda apenas
+  # notícias que os critérios classificam como Alerta ou Atenção (agravo e ocorrência no título).
+  # O G1 antigo (até 22/10/2026) trazia muitos alertas de tempo e passava de metade do feed.
+  # teste: true = a coleta vai para data/teste_fontes.json, sem entrar no site.
   - id: g1-busca
-    ativo: false  # desativado em 22/10/2026: trazia muitos alertas de tempo e passava de metade do feed
-    nome: "G1 | Busca de saúde e eventos"
+    nome: "G1 | Busca de eventos de saúde"
     sigla: "G1"
     tipo: google_news
     dominios_permitidos: ["g1.globo.com"]
     nomes_fontes: {"g1.globo.com": "G1"}
     consultas:
-      - "site:g1.globo.com surto OR epidemia OR casos confirmados OR óbitos"
-      - "site:g1.globo.com sarampo OR dengue OR chikungunya OR oropouche OR febre amarela OR coqueluche"
-      - "site:g1.globo.com gripe OR SRAG OR covid OR influenza aviária OR mpox OR meningite"
-      - "site:g1.globo.com vírus OR bactéria OR infecção OR vigilância epidemiológica"
-      - "site:g1.globo.com/df saúde OR dengue OR surto OR chuva OR incêndio"
-      - "site:g1.globo.com Defesa Civil alerta OR alagamento OR enchente OR queimadas"
+      - "site:g1.globo.com suspeita de OR caso suspeito OR investiga morte OR morte suspeita OR óbito suspeito"
+      - "site:g1.globo.com surto OR casos confirmados OR caso confirmado OR primeiro caso"
+      - "site:g1.globo.com infecção hospitalar OR superbactéria OR KPC OR mortes em hospital OR morrem em hospital OR UTI surto"
+      - "site:g1.globo.com sarampo OR febre amarela OR raiva humana OR botulismo OR cólera OR mpox OR coqueluche OR difteria"
+      - "site:g1.globo.com meningite OR febre maculosa OR hantavirose OR oropouche OR leptospirose OR doença de Chagas"
+      - "site:g1.globo.com dengue OR chikungunya OR zika OR influenza OR gripe aviária OR SRAG morte OR óbitos"
+      - "site:g1.globo.com intoxicação OR surto alimentar OR metanol OR botulismo OR envenenamento"
     dias: 7
     peso: 1
     escopo_padrao: "Brasil"
     idioma: pt
+    entrada_minima: atencao
+    sem_desastres: true
+    teste: true
+
+  - id: metropoles-busca
+    nome: "Metrópoles | Busca de eventos de saúde"
+    sigla: "Metrópoles"
+    tipo: google_news
+    dominios_permitidos: ["metropoles.com"]
+    nomes_fontes: {"metropoles.com": "Metrópoles"}
+    consultas:
+      - "site:metropoles.com suspeita de OR caso suspeito OR investiga morte OR morte suspeita OR óbito suspeito"
+      - "site:metropoles.com surto OR casos confirmados OR caso confirmado OR primeiro caso"
+      - "site:metropoles.com infecção hospitalar OR superbactéria OR KPC OR mortes em hospital OR morrem em hospital OR UTI surto"
+      - "site:metropoles.com sarampo OR febre amarela OR raiva humana OR botulismo OR cólera OR mpox OR coqueluche OR difteria"
+      - "site:metropoles.com meningite OR febre maculosa OR hantavirose OR oropouche OR leptospirose OR doença de Chagas"
+      - "site:metropoles.com dengue OR chikungunya OR zika OR influenza OR gripe aviária OR SRAG morte OR óbitos"
+      - "site:metropoles.com intoxicação OR surto alimentar OR metanol OR botulismo OR envenenamento"
+    dias: 7
+    peso: 1
+    escopo_padrao: "Brasil"
+    idioma: pt
+    entrada_minima: atencao
+    sem_desastres: true
+    teste: true
 
   # Sinais precoces na imprensa: notícias que costumam sair antes dos canais oficiais (ex.: surtos nos EUA).
   # Só entram as que têm relevância epidemiológica pelos critérios de pontuação.
@@ -271,6 +299,7 @@ fontes:
       - "site:cnn.com measles OR outbreak OR epidemic"
       - "site:cnn.com bird flu OR H5N1 OR mpox OR ebola OR dengue OR cholera"
       - "site:cnn.com CDC cases OR virus OR infections"
+      - "site:cnn.com health alert OR health advisory OR congenital OR suspected case"
     dias: 7
     peso: 1
     idioma: en

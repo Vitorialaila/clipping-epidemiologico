@@ -37,6 +37,12 @@ def _criterios():
 
 
 @lru_cache(maxsize=1)
+def _exterior():
+    termos = _criterios()[0].get("exterior")
+    return _padrao(termos) if termos else None
+
+
+@lru_cache(maxsize=1)
 def _categorias():
     c = _criterios()[0]
     cat = c.get("categorias", {})
@@ -58,6 +64,28 @@ def _no_original(titulo: str, termo: str) -> str:
                 mapa.append(i)
     k = "".join(norm).find(termo)
     return titulo[mapa[k]:mapa[k + len(termo) - 1] + 1] if k >= 0 and termo else termo
+
+
+# "caso de sarampo", "casos suspeitos de raiva", "suspeita de meningite" ("em caso de" fica de fora: é orientação)
+_ANTES_AGRAVO = re.compile(r"(?<!em )(?<![\w-])(casos? suspeitos? de|casos? confirmados? de|casos? de|suspeitas? de|suspeitos? de)"
+                           r"\s+(?:[a-z-]+\s+)?$")
+# "measles case", "caso de sarampo congênito" já coberto acima; aqui o caso vem depois do agravo
+_DEPOIS_AGRAVO = re.compile(r"^\s+(?:[a-z-]+\s+)?(case|cases|patient|patients|infection|infections)(?![\w])")
+
+
+def _caso_do_agravo(titulo_n: str, nomes: set) -> str | None:
+    """Ocorrência expressa como caso ou suspeita de um agravo de notificação imediata citado no título."""
+    for nome, _, padrao in _criterios()[1]:
+        if nome not in nomes:
+            continue
+        for m in padrao.finditer(titulo_n):
+            antes = _ANTES_AGRAVO.search(titulo_n[max(0, m.start() - 40):m.start()])
+            if antes:
+                return antes.group(1) + " " + m.group(1)
+            depois = _DEPOIS_AGRAVO.search(titulo_n[m.end():m.end() + 30])
+            if depois:
+                return m.group(1) + " " + depois.group(1)
+    return None
 
 
 ROTULO_ESCOPO = {"DF": "DF e RIDE", "Brasil": "Brasil", "Américas": "Américas", "Internacional": "internacional"}
@@ -112,6 +140,8 @@ def categoria(titulo_n: str, corpo: str, nomes_agravos: list[str], escopo: str, 
 
     if minima == "alerta" or (minima == "atencao" and titulo_alerta):
         return "alerta", motivo("comunicado oficial de alerta", notif(doencas[0]) if doencas else None, onde)
+    if imediatas and not ocorrencia:
+        ocorrencia = _caso_do_agravo(titulo_n, {a[0] for a in imediatas})
     if imediatas and ocorrencia:
         return "alerta", motivo(notif(imediatas[0]), orig(ocorrencia), onde)
     if obito_imediato and obito:
@@ -189,6 +219,15 @@ def pontuar(titulo: str, descricao: str, fonte: dict, ano_referencia: int | None
     for nome, peso, padrao in locais:
         if peso > pts_local and padrao.search(texto):
             escopo, pts_local = nome, peso
+    # Fonte brasileira (escopo padrão "Brasil") noticiando outro país: o título cita um país estrangeiro e
+    # nenhuma localidade brasileira (ex.: G1 sobre a França ou os EUA)
+    if escopo == "Brasil" and fonte.get("escopo_padrao") == "Brasil":
+        pad_loc = {n: pd for n, _, pd in locais}
+        if not any(pad_loc[n].search(titulo_n) for n in ("DF", "Brasil") if n in pad_loc):
+            if "Américas" in pad_loc and pad_loc["Américas"].search(titulo_n):
+                escopo, pts_local = "Américas", next(p for n, p, _ in locais if n == "Américas")
+            elif _exterior() and _exterior().search(titulo_n):
+                escopo, pts_local = "Internacional", 0.0
     pts += pts_local
 
     # Penalidades olham só o título: é ele que diz do que a matéria trata; o corpo de notícias sobre eventos
