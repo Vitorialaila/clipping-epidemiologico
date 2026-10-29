@@ -1,5 +1,40 @@
 [
  {
+  "t": "Virus Shamonda: ¿qué significa el primer caso humano para las Américas?",
+  "u": "https://www.paho.org/es/noticias/28-10-2026-virus-shamonda-que-significa-primer-caso-humano-para-americas",
+  "d": "2026-10-28",
+  "df": "28 out 2026",
+  "f": "OPAS",
+  "fn": "OPAS | Notícias",
+  "e": "Américas",
+  "a": [
+   "Patógeno novo ou incomum em humanos"
+  ],
+  "p": 11.0,
+  "se": "2026-43",
+  "r": "Shamonda virus: What does the first human case mean for the Americas? Cristina Mitchell 28 Oct 2026",
+  "i": "virus",
+  "m": []
+ },
+ {
+  "t": "Defesa Civil de Lages alerta para retorno das chuvas intensas e risco de temporais nesta quinta (29) e sexta-feira (30)",
+  "u": "https://www.lages.sc.gov.br/noticia-descricao/11153/defesa-civil-de-lages-alerta-para-retorno-das-chuvas-intensas-e-risco-de-temporais-nesta-quinta-(29)-e-sexta-feira-(30)",
+  "d": "2026-10-28",
+  "df": "28 out 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura de Lages",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 11.0,
+  "se": "2026-43",
+  "r": "",
+  "i": "desastre",
+  "m": []
+ },
+ {
   "t": "Defesa Civil alerta para previsão de chuvas fortes em São Paulo nesta quarta e quinta-feira",
   "u": "https://capivari.sp.gov.br/portal/defesa-civil-alerta-para-previsao-de-chuvas-fortes-em-sao-paulo-nesta-quarta-e-quinta-feira/",
   "d": "2026-10-28",
@@ -11,6 +46,41 @@
    "Saúde ambiental e clima"
   ],
   "p": 9.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "clima",
+  "m": []
+ },
+ {
+  "t": "Ministério da Saúde desenvolve painel para monitorar cobertura vacinal contra meningite em adolescentes",
+  "u": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/outubro/ministerio-da-saude-desenvolve-painel-para-monitorar-cobertura-vacinal-contra-meningite-em-adolescentes",
+  "d": "2026-10-28",
+  "df": "28 out 2026",
+  "f": "MS",
+  "fn": "Ministério da Saúde | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Doença meningocócica e meningites",
+   "Imunização"
+  ],
+  "p": 9.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "bacteria",
+  "m": []
+ },
+ {
+  "t": "Boletins mensais sobre a seca é tema de debate nesta quinta-feira",
+  "u": "https://www.gov.br/mdr/pt-br/noticias/boletins-mensais-sobre-a-seca-e-tema-de-debate-nesta-quinta-feira",
+  "d": "2026-10-28",
+  "df": "28 out 2026",
+  "f": "Defesa Civil",
+  "fn": "GOV.BR",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
   "se": "2026-43",
   "r": "",
   "i": "clima",

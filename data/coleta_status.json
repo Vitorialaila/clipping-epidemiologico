@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-10-28T19:33:34+00:00",
+  "em": "2026-10-29T00:00:17+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,17 +10,17 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-10-28T19:33:34+00:00",
+  "em": "2026-10-29T00:00:17+00:00",
   "lidos": 40,
   "novos": 1,
   "exemplos": [
+   "WHO advises coexistence of digital and non-digital ship-related health documents",
    "Climate change is a growing health emergency, Lancet Countdown warns",
-   "WHO releases target regimen profiles for long-acting injectables for TB",
-   "Types of data requested to inform December 2026 COVID-19 vaccine antigen composition deliberations"
+   "WHO releases target regimen profiles for long-acting injectables for TB"
   ]
  },
  "opas-alertas": {
-  "em": "2026-10-28T19:33:34+00:00",
+  "em": "2026-10-29T00:00:17+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,17 +30,17 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-10-28T19:33:34+00:00",
+  "em": "2026-10-29T00:00:17+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 2,
   "exemplos": [
-   "OPS y Special Olympics International firman acuerdo para promover la salud inclusiva de personas con discapacidad intele",
-   "World Polio Day 2026: Americas mark 35 years free of wild poliovirus as vaccination gaps persist",
-   "Childhood lead exposure remains a preventable health threat in the Americas"
+   "Americas face growing need for long-term care as populations age",
+   "Virus Shamonda: ¿qué significa el primer caso humano para las Américas?",
+   "OPS y Special Olympics International firman acuerdo para promover la salud inclusiva de personas con discapacidad intele"
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-10-28T19:33:34+00:00",
+  "em": "2026-10-29T00:00:17+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-10-28T19:33:34+00:00",
+  "em": "2026-10-29T00:00:17+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-10-28T19:33:34+00:00",
+  "em": "2026-10-29T00:00:17+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-10-28T19:33:34+00:00",
+  "em": "2026-10-29T00:00:17+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-10-28T19:33:34+00:00",
+  "em": "2026-10-29T00:00:17+00:00",
   "lidos": 2345,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-10-28T19:33:34+00:00",
+  "em": "2026-10-29T00:00:17+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,19 +100,19 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-10-28T19:33:34+00:00",
+  "em": "2026-10-29T00:00:17+00:00",
   "lidos": 15,
-  "novos": 1,
+  "novos": 15,
   "exemplos": [
+   "Ministério da Saúde desenvolve painel para monitorar cobertura vacinal contra meningite em adolescentes",
    "Teste para detecção precoce do câncer do colo do útero já está disponível em 26 estados do país",
-   "Campanha do Ministério da Saúde reforça importância de conversar com a família sobre doação de órgãos",
-   "Ministro da Saúde visita Unicamp e conhece tecnologia inédita para diagnóstico de câncer na América Latina"
+   "Campanha do Ministério da Saúde reforça importância de conversar com a família sobre doação de órgãos"
   ]
  },
  "fiocruz": {
-  "em": "2026-10-28T19:33:34+00:00",
+  "em": "2026-10-29T00:00:17+00:00",
   "lidos": 10,
-  "novos": 4,
+  "novos": 0,
   "exemplos": [
    "Jogo sobre investigação de parasitos em cães conquista Prêmio Ciência ao Vivo",
    "Revista Poli aborda relação entre planejamento urbano e SUS",
@@ -120,9 +120,9 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-10-28T19:33:34+00:00",
+  "em": "2026-10-29T00:00:17+00:00",
   "lidos": 10,
-  "novos": 4,
+  "novos": 0,
   "exemplos": [
    "Médicos lançam guia para evitar recusa de mamografia digital",
    "Anvisa suspende venda de linguiça defumada após detecção de bactéria",
@@ -130,9 +130,9 @@
   ]
  },
  "ses-go": {
-  "em": "2026-10-28T19:33:34+00:00",
+  "em": "2026-10-29T00:00:17+00:00",
   "lidos": 10,
-  "novos": 3,
+  "novos": 0,
   "exemplos": [
    "Extrato da Portaria nº 3300/2026 – SES/GO",
    "Policlínica Estadual de Formosa promove atividade lúdica e educativa no mês das crianças",
@@ -140,27 +140,27 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-10-28T19:33:34+00:00",
+  "em": "2026-10-29T00:00:17+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 2,
   "exemplos": [
-   "INSS alerta para golpes que usam informação falsa sobre biometria",
-   "PF impede desvio de até R$ 10 bi no seguro defeso no Maranhão",
-   "Mega-Sena acumula novamente e prêmio vai a R$ 320 milhões"
+   "Santos: Polícia apreende dois menores suspeitos da morte de engenheiro",
+   "Afastamentos por vício em jogos cresceram 5 vezes em três anos",
+   "INSS alerta para golpes que usam informação falsa sobre biometria"
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-10-28T19:33:34+00:00",
-  "lidos": 25,
-  "novos": 1,
+  "em": "2026-10-29T00:00:17+00:00",
+  "lidos": 26,
+  "novos": 0,
   "exemplos": [
-   "Projeto de controle da hipertensão reduz em 54% internações por AVC",
-   "Anvisa suspende lote de linguiça defumada por contaminação de bactéria",
-   "Estudo: 'Freio' genético pode inovar tratamento de doenças do sangue"
+   "SUS detecta HPV de alto risco em 9 mil amostras com exame inovador",
+   "Saúde planeja programa no SUS para tratamento de mulheres na menopausa",
+   "Projeto de controle da hipertensão reduz em 54% internações por AVC"
   ]
  },
  "cnn-saude": {
-  "em": "2026-10-28T19:33:34+00:00",
+  "em": "2026-10-29T00:00:17+00:00",
   "lidos": 25,
   "novos": 0,
   "exemplos": [
@@ -170,8 +170,8 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-10-28T19:33:34+00:00",
-  "lidos": 21,
+  "em": "2026-10-29T00:00:17+00:00",
+  "lidos": 20,
   "novos": 0,
   "exemplos": [
    "Bird flu is raging on a mink farm. It could spark a human pandemic, experts say, but officials won’t act.",
@@ -180,7 +180,7 @@
   ]
  },
  "inmet": {
-  "em": "2026-10-28T19:33:34+00:00",
+  "em": "2026-10-29T00:00:17+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -190,8 +190,8 @@
   ]
  },
  "cemaden": {
-  "em": "2026-10-28T19:33:34+00:00",
-  "lidos": 8,
+  "em": "2026-10-29T00:00:17+00:00",
+  "lidos": 7,
   "novos": 0,
   "exemplos": [
    "Boletim de Impactos de Extremos de Origem Hidro-Geo-Climático em Atividades Estratégicas para o Brasil",
@@ -200,23 +200,23 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-10-28T19:33:34+00:00",
-  "lidos": 20,
-  "novos": 1,
+  "em": "2026-10-29T00:00:17+00:00",
+  "lidos": 26,
+  "novos": 2,
   "exemplos": [
    "Autorizado repasse de R$ 14,3 milhões para ações de defesa civil",
    "Reconhecida emergência na cidade catarinense de São Domingos, atingida por queda de granizo",
-   "Reconhecida emergência em 21 cidades afetadas por desastres"
+   "Reconhecida emergência em cinco cidades gaúchas afetadas por desastres"
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-10-28T19:33:34+00:00",
+  "em": "2026-10-29T00:00:17+00:00",
   "lidos": 19,
-  "novos": 9,
+  "novos": 8,
   "exemplos": [
    "Marechal tem 90 ônibus impedidos de operar no DF por determinação judicial",
-   "Caminho aberto para a reeleição de Wellington Luiz na CLDF",
-   "Polícia Militar prende foragido condenado a mais de 17 anos em Ceilândia"
+   "Mega-Sena acumula de novo, e prêmio vai a R$ 320 milhões",
+   "Mulher que ateou fogo e matou filho de 2 anos em Goiás é presa em Brazlândia"
   ]
  }
 }
