@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-10-29T12:58:09+00:00",
+  "em": "2026-10-29T18:20:16+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,17 +10,17 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-10-29T12:58:09+00:00",
+  "em": "2026-10-29T18:20:16+00:00",
   "lidos": 40,
-  "novos": 0,
+  "novos": 5,
   "exemplos": [
-   "WHO advises coexistence of digital and non-digital ship-related health documents",
-   "Climate change is a growing health emergency, Lancet Countdown warns",
-   "WHO releases target regimen profiles for long-acting injectables for TB"
+   "Announcement of candidates for the position of WHO Director-General",
+   "Message by the Director of the Department of Immunization, Vaccines and Biologicals at WHO - October 2026",
+   "WHO country leaders strengthen skills to advance tobacco control"
   ]
  },
  "opas-alertas": {
-  "em": "2026-10-29T12:58:09+00:00",
+  "em": "2026-10-29T18:20:16+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-10-29T12:58:09+00:00",
+  "em": "2026-10-29T18:20:16+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-10-29T12:58:09+00:00",
+  "em": "2026-10-29T18:20:16+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-10-29T12:58:09+00:00",
+  "em": "2026-10-29T18:20:16+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-10-29T12:58:09+00:00",
+  "em": "2026-10-29T18:20:16+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,27 +70,27 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-10-29T12:58:09+00:00",
+  "em": "2026-10-29T18:20:16+00:00",
   "lidos": 10,
   "novos": 1,
   "exemplos": [
    "First public health emergency preparedness assessments across Europe show both commitment and recurring challenges",
-   "As the cold season nears, immunisation of newborns against universal RSV could significantly reduce infant hospitalisati",
+   "As the cold season nears, universal immunisation of newborns against RSV could significantly reduce infant hospitalisati",
    "ECDC to deploy experts as Ebola cases emerge in Kenya and Nigeria"
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-10-29T12:58:09+00:00",
-  "lidos": 2345,
-  "novos": 0,
+  "em": "2026-10-29T18:20:16+00:00",
+  "lidos": 2348,
+  "novos": 3,
   "exemplos": [
-   "Notes from the Field: Nontuberculous Mycobacteria Infections After Cosmetic Surgery Procedures in Mexico - United States",
-   "Acute Kidney Injury Among Patients with Drug Overdose-Involved Hospitalizations - United States, 2016-2025",
-   "Notes from the Field: Molecular Detections of Cladophialophora bantiana at a Clinical Reference Laboratory - United Stat"
+   "QuickStats: Percentage of Children and Adolescents Aged 5-17 Years Who Had Ever Received a Diagnosis of Attention-Defici",
+   "Notes from the Field: Use of Enhanced Surveillance to Detect Severe Group A Streptococcus Infections Among Persons Exper",
+   "Notes from the Field: Use of Enhanced Surveillance to Detect Severe Group A Streptococcus Infections Among Persons Exper"
   ]
  },
  "africa-cdc": {
-  "em": "2026-10-29T12:58:09+00:00",
+  "em": "2026-10-29T18:20:16+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,27 +100,27 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-10-29T12:58:09+00:00",
-  "lidos": 15,
-  "novos": 0,
+  "em": "2026-10-29T18:20:16+00:00",
+  "lidos": 14,
+  "novos": 3,
   "exemplos": [
-   "Discriminação política no atendimento em saúde pode ser denunciada pelo 136 da Ouvidoria do SUS",
-   "Ministério da Saúde desenvolve painel para monitorar cobertura vacinal contra meningite em adolescentes",
-   "Teste para detecção precoce do câncer do colo do útero já está disponível em 26 estados do país"
+   "Ministério da Saúde moderniza tratamento e incorpora novo medicamento no SUS para hemoglobinúria paroxística noturna",
+   "SUS amplia acesso à mamografia e ao tratamento do câncer de mama",
+   "Ministério da Saúde lança orientações para fortalecer o cuidado em liberdade de pessoas com transtorno mental em conflit"
   ]
  },
  "fiocruz": {
-  "em": "2026-10-29T12:58:09+00:00",
+  "em": "2026-10-29T18:20:16+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 2,
   "exemplos": [
-   "Jogo sobre investigação de parasitos em cães conquista Prêmio Ciência ao Vivo",
-   "Revista Poli aborda relação entre planejamento urbano e SUS",
-   "Evento apresenta estudo sobre desinformação em comunidades indígenas no Alto Rio Negro"
+   "InfoGripe: cinco estados têm SRAG em nível de alerta ou risco, com sinal de crescimento",
+   "Fiocruz Petrópolis comemora 15 anos com programação especial",
+   "Jogo sobre investigação de parasitos em cães conquista Prêmio Ciência ao Vivo"
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-10-29T12:58:09+00:00",
+  "em": "2026-10-29T18:20:16+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -130,37 +130,57 @@
   ]
  },
  "ses-go": {
-  "em": "2026-10-29T12:58:09+00:00",
+  "em": "2026-10-29T18:20:16+00:00",
   "lidos": 10,
-  "novos": 5,
+  "novos": 3,
   "exemplos": [
-   "Extrato do 3º Termo Aditivo ao Contrato n.º 45/2023 – SES/GO",
-   "Extrato do Contrato n.º 104/2026 – SES/GO",
-   "Iniciativa do HDS é destaque na Conferência Mundial de Hospitais na Coreia do Sul"
+   "Crer destaca importância do acolhimento e da presença nos cuidados paliativos",
+   "Centro Estadual de Assistência aos Radioacidentados promove ação especial do Outubro Rosa",
+   "Unidades de saúde estaduais terão funcionamento alterado durante ponto facultativo do Dia do Servidor Público e no feria"
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-10-29T12:58:09+00:00",
+  "em": "2026-10-29T18:20:16+00:00",
   "lidos": 10,
+  "novos": 1,
+  "exemplos": [
+   "Biometria facial será obrigatória para usuários de telefonia móvel",
+   "Santos: Polícia apreende dois menores suspeitos da morte de engenheiro",
+   "Afastamentos por vício em jogos cresceram 5 vezes em três anos"
+  ]
+ },
+ "g1-busca": {
+  "em": "2026-10-29T18:20:16+00:00",
+  "lidos": 201,
   "novos": 0,
   "exemplos": [
-   "Santos: Polícia apreende dois menores suspeitos da morte de engenheiro",
-   "Afastamentos por vício em jogos cresceram 5 vezes em três anos",
-   "INSS alerta para golpes que usam informação falsa sobre biometria"
+   "Suspeito de matar americano desenvolvedor de jogos no Paraná entra na lista de procurados da Interpol; suspeita é de que",
+   "Menina de 4 anos morre com suspeita de meningite em Goiás, diz secretaria",
+   "Homem apontado como integrante do PCC é preso por suspeita de matar jovem e abandonar corpo em terreno em SP"
+  ]
+ },
+ "metropoles-busca": {
+  "em": "2026-10-29T18:20:16+00:00",
+  "lidos": 59,
+  "novos": 0,
+  "exemplos": [
+   "Crime no motel: suspeito tinha R$ 15 milhões em seguros no nome da vítima",
+   "Homem é preso suspeito de matar jovem encontrado em banheira de motel em SP",
+   "MG: casal suspeito da morte de Beatriz tem prisão convertida em preventiva"
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-10-29T12:58:09+00:00",
+  "em": "2026-10-29T18:20:16+00:00",
   "lidos": 26,
   "novos": 0,
   "exemplos": [
-   "Anvisa aprova cinco novas canetas emagrecedoras de GLP-1",
-   "Seus hábitos podem aumentar o risco de AVC? Saiba como prevenir doença",
-   "SUS detecta HPV de alto risco em 9 mil amostras com exame inovador"
+   "Mulher com epilepsia morre após ChatGPT orientar redução de remédios",
+   "AVC mata cerca de 11 pessoas por hora no Brasil; veja quais são os sintomas",
+   "Estudo associa excesso de proteína animal a níveis baixos de testosterona"
   ]
  },
  "cnn-saude": {
-  "em": "2026-10-29T12:58:09+00:00",
+  "em": "2026-10-29T18:20:16+00:00",
   "lidos": 25,
   "novos": 0,
   "exemplos": [
@@ -170,9 +190,9 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-10-29T12:58:09+00:00",
-  "lidos": 17,
-  "novos": 0,
+  "em": "2026-10-29T18:20:16+00:00",
+  "lidos": 30,
+  "novos": 2,
   "exemplos": [
    "Bird flu is raging on a mink farm. It could spark a human pandemic, experts say, but officials won’t act.",
    "First confirmed Ebola patient in Nigeria evacuated to Switzerland",
@@ -180,19 +200,19 @@
   ]
  },
  "inmet": {
-  "em": "2026-10-29T12:58:09+00:00",
+  "em": "2026-10-29T18:20:16+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
+   "Previsão para sexta-feira (30), sábado (31), domingo (1) e segunda-feira (2)",
    "Previsão para quinta-feira (29) e sexta-feira (30)",
-   "Novembro: como será o clima no Brasil?",
-   "Previsão para quarta-feira (28) e quinta-feira (29)"
+   "Novembro: como será o clima no Brasil?"
   ]
  },
  "cemaden": {
-  "em": "2026-10-29T12:58:09+00:00",
+  "em": "2026-10-29T18:20:16+00:00",
   "lidos": 7,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
    "Boletim de Impactos de Extremos de Origem Hidro-Geo-Climático em Atividades Estratégicas para o Brasil",
    "Estado do Clima, Extremos de Clima e Desastres no Brasil",
@@ -200,23 +220,23 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-10-29T12:58:09+00:00",
-  "lidos": 29,
+  "em": "2026-10-29T18:20:16+00:00",
+  "lidos": 25,
   "novos": 1,
   "exemplos": [
    "Autorizado repasse de R$ 14,3 milhões para ações de defesa civil",
-   "Reconhecida emergência em 21 cidades afetadas por desastres",
-   "Boletins mensais sobre a seca é tema de debate nesta quinta-feira"
+   "Boletins mensais sobre a seca é tema de debate nesta quinta-feira",
+   "Reconhecida emergência na cidade catarinense de São Domingos, atingida por queda de granizo"
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-10-29T12:58:09+00:00",
-  "lidos": 19,
-  "novos": 10,
+  "em": "2026-10-29T18:20:16+00:00",
+  "lidos": 20,
+  "novos": 12,
   "exemplos": [
    "Mais de três mil pessoas vivem em áreas de risco no DF",
    "PCDF investiga fraudes com cartões que causaram prejuízo de R$ 3 milhões",
-   "Homem que matou mulher a facadas no DF é condenado a 21 anos de prisão"
+   "Polícia desmantela rede de venda ilegal de medicamentos emagrecedores"
   ]
  }
 }

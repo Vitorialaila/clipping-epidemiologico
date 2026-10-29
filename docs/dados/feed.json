@@ -1,5 +1,78 @@
 [
  {
+  "t": "Defesa Civil alerta para risco de temporais durante feriadão – CGNotícias",
+  "u": "https://www.campogrande.ms.gov.br/cgnoticias/noticia/defesa-civil-alerta-para-risco-de-temporais-durante-feriadao/",
+  "d": "2026-10-29",
+  "df": "29 out 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura de Campo Grande",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 11.0,
+  "se": "2026-43",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "InfoGripe: cinco estados têm SRAG em nível de alerta ou risco, com sinal de crescimento",
+  "u": "https://agencia.fiocruz.br/infogripe-cinco-estados-tem-srag-em-nivel-de-alerta-ou-risco-com-sinal-de-crescimento",
+  "d": "2026-10-29",
+  "df": "29 out 2026",
+  "f": "Fiocruz",
+  "fn": "Agência Fiocruz de Notícias",
+  "e": "Brasil",
+  "a": [
+   "Influenza e vírus respiratórios"
+  ],
+  "p": 9.5,
+  "se": "2026-43",
+  "r": "InfoGripe: cinco estados têm SRAG em nível de alerta ou risco, com sinal de crescimento",
+  "i": "respiratorio",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "It’s an outbreak of a ‘huge magnitude’: The race to contain Ebola",
+  "u": "https://www.cnn.com/2026/10/29/tv/video/amanpour-ebola-outbreak-catherine-smallwood-jean-kaseya",
+  "d": "2026-10-29",
+  "df": "29 out 2026",
+  "f": "CNN",
+  "fn": "CNN",
+  "e": "Internacional",
+  "a": [
+   "Doença pelo vírus Ebola"
+  ],
+  "p": 9.0,
+  "se": "2026-43",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Série de Debates do Cemaden discute os desafios da proteção social diante dos riscos de desastres associados ao El Niño",
+  "u": "https://www.gov.br/cemaden/pt-br/assuntos/noticias-cemaden/serie-de-debates-do-cemaden-discute-os-desafios-da-protecao-social-diante-dos-riscos-de-desastres-associados-ao-el-nino",
+  "d": "2026-10-29",
+  "df": "29 out 2026",
+  "f": "Cemaden",
+  "fn": "Cemaden | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "First public health emergency preparedness assessments across Europe show both commitment and recurring challenges",
   "u": "https://www.ecdc.europa.eu/en/news-events/first-public-health-emergency-preparedness-assessments-across-europe-show-both",
   "d": "2026-10-29",
@@ -450,6 +523,24 @@
   "se": "2026-42",
   "r": "",
   "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "‘Unknown Wanderer’ may hold clues to Tylenol poisonings",
+  "u": "https://www.cnn.com/2026/10/24/us/tylenol-poisonings-investigation-unkown-wanderer",
+  "d": "2026-10-24",
+  "df": "24 out 2026",
+  "f": "CNN",
+  "fn": "CNN",
+  "e": "Internacional",
+  "a": [
+   "Intoxicações"
+  ],
+  "p": 4.5,
+  "se": "2026-42",
+  "r": "",
+  "i": "quimico",
   "m": [],
   "c": "monitoramento"
  },
