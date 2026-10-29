@@ -37,7 +37,7 @@
   "data_estimada": false,
   "se": "2026-43",
   "descricao": "",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
   "municipios": [],
   "pontuacao": 10.0,
   "agravos": [
@@ -112,7 +112,7 @@
   "data_estimada": false,
   "se": "2026-43",
   "descricao": "",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
   "municipios": [],
   "pontuacao": 8.5,
   "agravos": [
@@ -147,7 +147,7 @@
   "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · Brasil"
  },
  {
-  "id": "73f242f9a4e83d",
+  "id": "ff4e05e0721251",
   "titulo": "Machado confirma sete casos de escabiose; região já soma mais de 400 registros da doença",
   "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/10/29/machado-confirma-sete-casos-de-escabiose-regiao-ja-soma-mais-de-400-registros-da-doenca.ghtml",
   "fonte_id": "g1-busca",
@@ -158,7 +158,7 @@
   "data_estimada": false,
   "se": "2026-43",
   "descricao": "",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
   "municipios": [],
   "pontuacao": 7.5,
   "agravos": [
@@ -181,7 +181,7 @@
   "data_estimada": false,
   "se": "2026-43",
   "descricao": "",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
   "municipios": [],
   "pontuacao": 7.5,
   "agravos": [
@@ -1205,7 +1205,7 @@
   "data_estimada": false,
   "se": "2026-43",
   "descricao": "",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
   "municipios": [],
   "pontuacao": 0.0,
   "agravos": [],
@@ -1226,7 +1226,7 @@
   "data_estimada": false,
   "se": "2026-43",
   "descricao": "",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
   "municipios": [],
   "pontuacao": 0.0,
   "agravos": [],
@@ -1247,7 +1247,7 @@
   "data_estimada": false,
   "se": "2026-43",
   "descricao": "Unidade atendeu 4.762 vítimas entre janeiro e setembro de 2026; motociclistas representam a maior parte dos casos, e hospital alerta para os riscos de comportamentos imprudentes",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
   "municipios": [],
   "pontuacao": 0.0,
   "agravos": [],
@@ -1255,6 +1255,29 @@
   "termos_evento": [
    "alerta para"
   ],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "4163d7adf9c4e9",
+  "titulo": "Suspeito de violência doméstica é preso com espingarda no Recanto das Emas",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7530320-suspeito-de-violencia-domestica-e-preso-com-espingarda-no-recanto-das-emas.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-29",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
   "categoria": "monitoramento",
   "motivo": ""
  },
@@ -1270,7 +1293,7 @@
   "data_estimada": false,
   "se": "2026-43",
   "descricao": "",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
   "municipios": [
    "Distrito Federal"
   ],
@@ -1369,7 +1392,7 @@
   "data_estimada": false,
   "se": "2026-43",
   "descricao": "",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
   "municipios": [],
   "pontuacao": 10.0,
   "agravos": [
@@ -1443,7 +1466,7 @@
   "data_estimada": false,
   "se": "2026-43",
   "descricao": "",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
   "municipios": [],
   "pontuacao": 9.0,
   "agravos": [
@@ -1467,7 +1490,7 @@
   "data_estimada": false,
   "se": "2026-43",
   "descricao": "",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
   "municipios": [],
   "pontuacao": 8.5,
   "agravos": [
@@ -1490,7 +1513,7 @@
   "data_estimada": false,
   "se": "2026-43",
   "descricao": "",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
   "municipios": [],
   "pontuacao": 8.5,
   "agravos": [
@@ -1513,7 +1536,7 @@
   "data_estimada": false,
   "se": "2026-43",
   "descricao": "",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
   "municipios": [],
   "pontuacao": 8.5,
   "agravos": [
@@ -1536,7 +1559,7 @@
   "data_estimada": false,
   "se": "2026-43",
   "descricao": "",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
   "municipios": [],
   "pontuacao": 8.5,
   "agravos": [
@@ -1559,7 +1582,7 @@
   "data_estimada": false,
   "se": "2026-43",
   "descricao": "",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
   "municipios": [],
   "pontuacao": 8.5,
   "agravos": [
@@ -1582,7 +1605,7 @@
   "data_estimada": false,
   "se": "2026-43",
   "descricao": "",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
   "municipios": [],
   "pontuacao": 7.5,
   "agravos": [
@@ -3091,7 +3114,7 @@
   "data_estimada": false,
   "se": "2026-43",
   "descricao": "",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
   "municipios": [],
   "pontuacao": 10.0,
   "agravos": [
@@ -3116,7 +3139,7 @@
   "data_estimada": false,
   "se": "2026-43",
   "descricao": "",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
   "municipios": [],
   "pontuacao": 9.0,
   "agravos": [
@@ -3141,7 +3164,7 @@
   "data_estimada": false,
   "se": "2026-43",
   "descricao": "",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
   "municipios": [],
   "pontuacao": 8.5,
   "agravos": [
@@ -3164,7 +3187,7 @@
   "data_estimada": false,
   "se": "2026-43",
   "descricao": "",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
   "municipios": [],
   "pontuacao": 8.5,
   "agravos": [
@@ -6139,7 +6162,7 @@
   "data_estimada": false,
   "se": "2026-43",
   "descricao": "",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
   "municipios": [],
   "pontuacao": 7.5,
   "agravos": [
@@ -7352,7 +7375,7 @@
   "data_estimada": false,
   "se": "2026-42",
   "descricao": "",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
   "municipios": [],
   "pontuacao": 11.0,
   "agravos": [
@@ -7377,7 +7400,7 @@
   "data_estimada": false,
   "se": "2026-42",
   "descricao": "",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
   "municipios": [],
   "pontuacao": 7.5,
   "agravos": [
@@ -7985,7 +8008,7 @@
   "data_estimada": false,
   "se": "2026-42",
   "descricao": "",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
   "municipios": [],
   "pontuacao": 10.0,
   "agravos": [
@@ -8010,7 +8033,7 @@
   "data_estimada": false,
   "se": "2026-42",
   "descricao": "",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
   "municipios": [],
   "pontuacao": 10.0,
   "agravos": [
@@ -8135,7 +8158,7 @@
   "data_estimada": false,
   "se": "2026-42",
   "descricao": "",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
   "municipios": [],
   "pontuacao": 9.5,
   "agravos": [
@@ -8158,7 +8181,7 @@
   "data_estimada": false,
   "se": "2026-42",
   "descricao": "",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
   "municipios": [],
   "pontuacao": 9.5,
   "agravos": [
@@ -8183,7 +8206,7 @@
   "data_estimada": false,
   "se": "2026-42",
   "descricao": "",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
   "municipios": [],
   "pontuacao": 9.5,
   "agravos": [
@@ -8279,7 +8302,7 @@
   "data_estimada": false,
   "se": "2026-42",
   "descricao": "",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
   "municipios": [],
   "pontuacao": 8.5,
   "agravos": [
@@ -8302,7 +8325,7 @@
   "data_estimada": false,
   "se": "2026-42",
   "descricao": "",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
   "municipios": [],
   "pontuacao": 8.5,
   "agravos": [
@@ -10070,29 +10093,6 @@
   "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · Brasil"
  },
  {
-  "id": "23f45d7990ecb3",
-  "titulo": "Barreiras sanitárias são instaladas na região onde caso de Newcastle foi confirmado em SC",
-  "url": "https://g1.globo.com/sc/santa-catarina/videos-nsc-noticias/video/barreiras-sanitarias-sao-instaladas-na-regiao-onde-caso-de-newcastle-foi-confirmado-em-sc-15114166.ghtml",
-  "fonte_id": "g1-busca",
-  "fonte": "G1",
-  "sigla": "G1",
-  "idioma": "pt",
-  "data": "2026-10-22",
-  "data_estimada": false,
-  "se": "2026-42",
-  "descricao": "",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
-  "municipios": [],
-  "pontuacao": 7.5,
-  "agravos": [
-   "Saúde Única: zoonoses e eventos em animais"
-  ],
-  "escopo": "Brasil",
-  "termos_evento": [],
-  "categoria": "atencao",
-  "motivo": "Saúde Única: zoonoses e eventos em animais · confirmado · Brasil"
- },
- {
   "id": "beab722d2a991d",
   "titulo": "Seis mortes por dengue foram confirmadas, este ano, em Pernambuco",
   "url": "https://g1.globo.com/pe/pernambuco/ne2/video/seis-mortes-por-dengue-foram-confirmadas-este-ano-em-pernambuco-15114162.ghtml",
@@ -10104,7 +10104,7 @@
   "data_estimada": false,
   "se": "2026-42",
   "descricao": "",
-  "coletado_em": "2026-10-29T18:55:43+00:00",
+  "coletado_em": "2026-10-29T19:08:50+00:00",
   "municipios": [],
   "pontuacao": 7.5,
   "agravos": [
