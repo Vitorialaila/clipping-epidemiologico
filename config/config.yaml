@@ -221,7 +221,7 @@ fontes:
   # notícias que os critérios classificam como Alerta ou Atenção (agravo e ocorrência no título).
   # O G1 antigo (até 22/10/2026) trazia muitos alertas de tempo e passava de metade do feed.
   # deduplicar_evento: notícia sobre um evento já guardado (de qualquer fonte, até 4 dias antes ou depois) não entra.
-  # teste: true = a coleta vai para data/teste_fontes.json, sem entrar no site.
+  # Ativadas em 29/10/2026 após teste (teste: true manda a coleta para data/teste_fontes.json, fora do site).
   - id: g1-busca
     nome: "G1 | Busca de eventos de saúde"
     sigla: "G1"
@@ -244,7 +244,6 @@ fontes:
     entrada_minima: atencao
     sem_desastres: true
     deduplicar_evento: true
-    teste: true
 
   - id: metropoles-busca
     nome: "Metrópoles | Busca de eventos de saúde"
@@ -267,7 +266,6 @@ fontes:
     entrada_minima: atencao
     sem_desastres: true
     deduplicar_evento: true
-    teste: true
 
   # Sinais precoces na imprensa: notícias que costumam sair antes dos canais oficiais (ex.: surtos nos EUA).
   # Só entram as que têm relevância epidemiológica pelos critérios de pontuação.
