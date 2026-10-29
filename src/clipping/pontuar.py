@@ -50,7 +50,7 @@ def _categorias():
     return info, {k: _padrao(v) for k, v in cat.items()}
 
 
-_NUM_CASOS = re.compile(r"(?<![\w-])(\d[\d.]*|um|uma|dois|duas|tres|quatro|cinco|seis|sete|oito|nove|dez|onze|doze|"
+_NUM_CASOS = re.compile(r"(?<![\w-])(\d[\d.,]*|um|uma|dois|duas|tres|quatro|cinco|seis|sete|oito|nove|dez|onze|doze|"
                         r"vinte|trinta|cem|mil|one|two|three|four|five|six|seven|eight|nine|ten)\s+(?:[a-z-]+\s+){0,2}?"
                         r"(?:casos|cases|obitos|mortes|deaths|incendios|focos)(?![\w])")
 def _no_original(titulo: str, termo: str) -> str:
@@ -233,7 +233,9 @@ def pontuar(titulo: str, descricao: str, fonte: dict, ano_referencia: int | None
     # Penalidades olham só o título: é ele que diz do que a matéria trata; o corpo de notícias sobre eventos
     # costuma trazer jargão institucional ("strengthen", "pesquisadores") que não muda a natureza da notícia
     rebaixar = False
-    for peso, padrao in ajustes:
+    # Resposta de emergência no título (COE, centro de emergência): é evento, mesmo que cite pesquisa ou orientação
+    resposta = re.search(r"\b(centro de (operacoes de )?emergencia|coe|emergencia em saude publica|gabinete de crise sanitaria)\b", titulo_n)
+    for peso, padrao in ([] if resposta else ajustes):
         if padrao.search(titulo_n):
             pts += peso
             rebaixar = True
