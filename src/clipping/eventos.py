@@ -25,6 +25,11 @@ neste desta deste dia diz dizem segundo ja tem ter veja saiba entenda caso casos
 confirmado confirmada confirmados""".split())
 _OBITO = {"morte", "mortes", "morre", "morrem", "morreu", "morreram", "morto", "mortos", "obito", "obitos",
           "death", "deaths", "dies", "died"}
+# Palavras que descrevem o tipo de evento ou a pessoa, comuns a eventos diferentes: não bastam para casar
+_GENERICAS = {"obito", "menina", "menino", "crianca", "bebe", "homem", "mulher", "paciente", "idoso", "idosa", "jovem",
+              "adolescente", "suspeita", "suspeito", "surto", "investiga", "investigada", "investigado", "secretaria",
+              "saude", "estadual", "municipal", "prefeitura", "hospital", "cidade", "regiao", "alerta", "mai", "mil",
+              "aula", "suspensa", "suspenso", "suspende", "suspendem", "escola", "creche", "interior", "estado"}
 _UF = {"ac": ["acre"], "al": ["alagoas"], "ap": ["amapa"], "am": ["amazonas", "manaus"], "ba": ["bahia", "salvador"],
        "ce": ["ceara", "fortaleza"], "df": ["distrito federal", "brasilia"], "es": ["espirito santo"],
        "go": ["goias", "goiania"], "ma": ["maranhao", "sao luis"], "mt": ["mato grosso", "cuiaba"],
@@ -52,7 +57,7 @@ def _termos_agravo() -> set:
 def _palavras(titulo: str, agravo_termos: set) -> list[str]:
     out = []
     for w in re.findall(r"[a-z0-9]+", normalizar(titulo)):
-        if len(w) <= 2 or w in _PALAVRAS_VAZIAS or w in agravo_termos:
+        if not w.isdigit() and (len(w) <= 2 or w in _PALAVRAS_VAZIAS or w in agravo_termos):
             continue
         if w in _OBITO:
             w = "obito"
@@ -100,7 +105,13 @@ class Eventos:
                 continue
             if ufs and ufs2 and not ufs & ufs2:
                 continue  # estados diferentes: eventos diferentes
-            comum = sum(v[w] for w in v.keys() & v2.keys())
+            n1, n2 = {w for w in v if w.isdigit()}, {w for w in v2 if w.isdigit()}
+            if n1 and n2 and not n1 & n2:
+                continue  # números diferentes (idade, quantidade de casos): eventos diferentes
+            compartilhadas = v.keys() & v2.keys()
+            if not compartilhadas - _GENERICAS:
+                continue  # só têm em comum palavras genéricas ("menina", "morte", "suspeita")
+            comum = sum(v[w] for w in compartilhadas)
             s = comum / min(sum(v.values()), sum(v2.values()))
             if s > melhor:
                 melhor, achado = s, (t2, f2)
