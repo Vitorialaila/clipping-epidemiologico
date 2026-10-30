@@ -1,5 +1,78 @@
 [
  {
+  "t": "Preocupação com bronquiolite e vírus sincicial cresce entre gestantes",
+  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/preocupacao-com-bronquiolite-e-virus-sincicial-cresce-entre-gestantes",
+  "d": "2026-10-30",
+  "df": "30 out 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Influenza e vírus respiratórios",
+   "Imunização"
+  ],
+  "p": 8.5,
+  "se": "2026-43",
+  "r": "A percepção sobre o vírus sincicial respiratório (VSR), a bronquiolite e a dinâmica de imunização vem avançando no país desde 2024, segundo pesquisa feita com gestantes em todos os estados. Os dados, coletados pelo Instituto Inteligência em Pesquisa e…",
+  "i": "respiratorio",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "SC não registra mortes por dengue em 2026",
+  "u": "https://g1.globo.com/google/amp/sc/santa-catarina/videos-nsc-noticias/video/sc-nao-registra-mortes-por-dengue-em-2026-15144472.ghtml",
+  "d": "2026-10-30",
+  "df": "30 out 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 7.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Ebola health workers celebrate last patients discharged in DRC",
+  "u": "https://edition.cnn.com/2026/10/30/world/video/ebola-health-workers-celebrate-last-patients-discharged-in-drc",
+  "d": "2026-10-30",
+  "df": "30 out 2026",
+  "f": "CNN",
+  "fn": "CNN",
+  "e": "Internacional",
+  "a": [
+   "Doença pelo vírus Ebola"
+  ],
+  "p": 6.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Barbados eliminates mother-to-child transmission of HIV",
+  "u": "https://www.paho.org/en/news/30-10-2026-barbados-eliminates-mother-child-transmission-hiv",
+  "d": "2026-10-30",
+  "df": "30 out 2026",
+  "f": "OPAS",
+  "fn": "OPAS | Notícias",
+  "e": "Américas",
+  "a": [
+   "HIV/aids e IST"
+  ],
+  "p": 6.0,
+  "se": "2026-43",
+  "r": "Barbados eliminates mother-to-child transmission of HIV Cristina Mitchell 30 Oct 2026",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "Defesa Civil alerta para risco de temporais durante feriadão – CGNotícias",
   "u": "https://www.campogrande.ms.gov.br/cgnoticias/noticia/defesa-civil-alerta-para-risco-de-temporais-durante-feriadao/",
   "d": "2026-10-29",
@@ -521,6 +594,22 @@
   "se": "2026-43",
   "r": "",
   "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Hayden Panettiere death investigation closed by police in South Carolina",
+  "u": "https://www.cnn.com/2026/10/28/us/hayden-panettiere-death-investigation-closed",
+  "d": "2026-10-28",
+  "df": "28 out 2026",
+  "f": "CNN",
+  "fn": "CNN",
+  "e": "Américas",
+  "a": [],
+  "p": 5.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "alerta",
   "m": [],
   "c": "monitoramento"
  },
