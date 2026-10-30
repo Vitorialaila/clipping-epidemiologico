@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-10-29T23:17:20+00:00",
+  "em": "2026-10-30T02:40:05+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,7 +10,7 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-10-29T23:17:20+00:00",
+  "em": "2026-10-30T02:40:05+00:00",
   "lidos": 40,
   "novos": 0,
   "exemplos": [
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-10-29T23:17:20+00:00",
+  "em": "2026-10-30T02:40:05+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-10-29T23:17:20+00:00",
+  "em": "2026-10-30T02:40:05+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-10-29T23:17:20+00:00",
+  "em": "2026-10-30T02:40:05+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-10-29T23:17:20+00:00",
+  "em": "2026-10-30T02:40:05+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-10-29T23:17:20+00:00",
+  "em": "2026-10-30T02:40:05+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-10-29T23:17:20+00:00",
+  "em": "2026-10-30T02:40:05+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-10-29T23:17:20+00:00",
+  "em": "2026-10-30T02:40:05+00:00",
   "lidos": 2348,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-10-29T23:17:20+00:00",
+  "em": "2026-10-30T02:40:05+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,9 +100,9 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-10-29T23:17:20+00:00",
+  "em": "2026-10-30T02:40:05+00:00",
   "lidos": 14,
-  "novos": 3,
+  "novos": 0,
   "exemplos": [
    "Brasil institui Política Nacional de Informação e Saúde Digital e consolida transformação digital do SUS",
    "Ministério da Saúde disponibiliza painel para monitorar imunização contra o Vírus Sincicial Respiratório (VSR)",
@@ -110,9 +110,9 @@
   ]
  },
  "fiocruz": {
-  "em": "2026-10-29T23:17:20+00:00",
+  "em": "2026-10-30T02:40:05+00:00",
   "lidos": 10,
-  "novos": 2,
+  "novos": 0,
   "exemplos": [
    "Minas Gerais recebe II Fórum de Qualidade em Bancos de Leite Humano",
    "Simpósio internacional na Fiocruz promove debate sobre a neurociência e a biologia",
@@ -120,7 +120,7 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-10-29T23:17:20+00:00",
+  "em": "2026-10-30T02:40:05+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -130,7 +130,7 @@
   ]
  },
  "ses-go": {
-  "em": "2026-10-29T23:17:20+00:00",
+  "em": "2026-10-30T02:40:05+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -140,9 +140,9 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-10-29T23:17:20+00:00",
+  "em": "2026-10-30T02:40:05+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "EBC conquista mais R$ 23 milhões para investimento na TV 3.0 no Brasil",
    "Biometria facial será obrigatória para usuários de telefonia móvel",
@@ -150,8 +150,8 @@
   ]
  },
  "g1-busca": {
-  "em": "2026-10-29T23:17:20+00:00",
-  "lidos": 421,
+  "em": "2026-10-30T02:40:05+00:00",
+  "lidos": 433,
   "novos": 0,
   "exemplos": [
    "Secretaria Estadual de Saúde investiga morte de criança com suspeita de meningite",
@@ -160,8 +160,8 @@
   ]
  },
  "metropoles-busca": {
-  "em": "2026-10-29T23:17:20+00:00",
-  "lidos": 68,
+  "em": "2026-10-30T02:40:05+00:00",
+  "lidos": 70,
   "novos": 0,
   "exemplos": [
    "Criança de 4 anos morre com suspeita de meningite em Goiás",
@@ -170,17 +170,17 @@
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-10-29T23:17:20+00:00",
+  "em": "2026-10-30T02:40:05+00:00",
   "lidos": 26,
   "novos": 0,
   "exemplos": [
+   "Brincadeiras desafiadoras preparam crianças para situações de estresse",
    "Corpos de Lewy e Alzheimer: entenda diagnóstico que afetava Patrick Stewart",
-   "Câncer de pulmão: 1 a cada 5 pacientes não realizaram o teste genômico",
-   "Canetas emagrecedoras ilegais: entenda riscos do transporte inadequado"
+   "Câncer de pulmão: 1 a cada 5 pacientes não realizaram o teste genômico"
   ]
  },
  "cnn-saude": {
-  "em": "2026-10-29T23:17:20+00:00",
+  "em": "2026-10-30T02:40:05+00:00",
   "lidos": 25,
   "novos": 0,
   "exemplos": [
@@ -190,8 +190,8 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-10-29T23:17:20+00:00",
-  "lidos": 36,
+  "em": "2026-10-30T02:40:05+00:00",
+  "lidos": 38,
   "novos": 0,
   "exemplos": [
    "Bird flu is raging on a mink farm. It could spark a human pandemic, experts say, but officials won’t act.",
@@ -200,9 +200,9 @@
   ]
  },
  "inmet": {
-  "em": "2026-10-29T23:17:20+00:00",
+  "em": "2026-10-30T02:40:05+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Painel El Niño: Boletim de outubro é divulgado",
    "Previsão para sexta-feira (30), sábado (31), domingo (1) e segunda-feira (2)",
@@ -210,7 +210,7 @@
   ]
  },
  "cemaden": {
-  "em": "2026-10-29T23:17:20+00:00",
+  "em": "2026-10-30T02:40:05+00:00",
   "lidos": 7,
   "novos": 0,
   "exemplos": [
@@ -220,9 +220,9 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-10-29T23:17:20+00:00",
-  "lidos": 31,
-  "novos": 1,
+  "em": "2026-10-30T02:40:05+00:00",
+  "lidos": 30,
+  "novos": 0,
   "exemplos": [
    "Autorizado repasse de R$ 14,3 milhões para ações de defesa civil",
    "Boletins mensais sobre a seca é tema de debate nesta quinta-feira",
@@ -230,13 +230,13 @@
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-10-29T23:17:20+00:00",
+  "em": "2026-10-30T02:40:05+00:00",
   "lidos": 21,
-  "novos": 15,
+  "novos": 6,
   "exemplos": [
+   "Diretora que zombou de beneficiários do Bolsa Família sai do SLU",
    "Falha em trem do Metrô-DF provoca evacuação na estação Águas Claras",
-   "Diretora que zombou de beneficiários do Bolsa Família sai da SLU",
-   "Especialista alerta para fatores de risco do câncer de mama masculino"
+   "Obituário: 36 funerais nesta quinta-feira (29/10); confira lista"
   ]
  }
 }
