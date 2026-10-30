@@ -1,5 +1,74 @@
 [
  {
+  "id": "dec69d9d843bd7",
+  "titulo": "Osteoporose: hábitos simples garantem ossos fortes, diz especialista",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7530492-osteoporose-habitos-simples-garantem-ossos-fortes-diz-especialista.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-30",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-30T09:58:50+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "e4010f14ccf49a",
+  "titulo": "\"É preciso superar o estigma do câncer\", afirmam especialistas",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7530533-e-preciso-superar-o-estigma-do-cancer-afirmam-especialistas.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-30",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-30T09:58:50+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "49fdf3321f550b",
+  "titulo": "Eleitores buscam detox pós-eleição longe das redes sociais",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7530235-eleitores-buscam-detox-pos-eleicao-longe-das-redes-sociais.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-30",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-30T09:58:50+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
   "id": "d9d4ad063ef40e",
   "titulo": "Defesa Civil alerta para risco de temporais durante feriadão – CGNotícias",
   "url": "https://www.campogrande.ms.gov.br/cgnoticias/noticia/defesa-civil-alerta-para-risco-de-temporais-durante-feriadao/",
@@ -288,6 +357,29 @@
   "termos_evento": [],
   "categoria": "monitoramento",
   "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · Brasil"
+ },
+ {
+  "id": "361091634736fd",
+  "titulo": "Atibaia monitora 75 casos suspeitos de sarna humana",
+  "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/videos-jornal-vanguarda/video/atibaia-monitora-75-casos-suspeitos-de-sarna-humana-15143745.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-29",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-30T09:58:50+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Escabiose"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "atencao",
+  "motivo": "Escabiose · 75 casos · Brasil"
  },
  {
   "id": "3af1e1a4fa51a3",
@@ -5623,6 +5715,29 @@
   "termos_evento": [],
   "categoria": "monitoramento",
   "motivo": "Dengue (notificação semanal) · sem ocorrência relatada no título · Brasil"
+ },
+ {
+  "id": "42ddcf4cb1213c",
+  "titulo": "Reconhecida emergência em duas cidades mato-grossenses afetadas pela estiagem",
+  "url": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-em-duas-cidades-mato-grossenses-afetadas-pela-estiagem",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "www.gov.br",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-26",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-30T09:58:50+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "atencao",
+  "motivo": "Saúde ambiental e clima · Reconhecida emergência · Brasil"
  },
  {
   "id": "b4f8dfd48ea26b",

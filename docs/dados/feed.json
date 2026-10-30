@@ -218,6 +218,24 @@
   "c": "monitoramento"
  },
  {
+  "t": "Atibaia monitora 75 casos suspeitos de sarna humana",
+  "u": "https://g1.globo.com/sp/vale-do-paraiba-regiao/videos-jornal-vanguarda/video/atibaia-monitora-75-casos-suspeitos-de-sarna-humana-15143745.ghtml",
+  "d": "2026-10-29",
+  "df": "29 out 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Escabiose"
+  ],
+  "p": 7.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "saude",
+  "m": [],
+  "c": "atencao"
+ },
+ {
   "t": "First public health emergency preparedness assessments across Europe show both commitment and recurring challenges",
   "u": "https://www.ecdc.europa.eu/en/news-events/first-public-health-emergency-preparedness-assessments-across-europe-show-both",
   "d": "2026-10-29",
@@ -760,6 +778,24 @@
   "i": "mosquito",
   "m": [],
   "c": "monitoramento"
+ },
+ {
+  "t": "Reconhecida emergência em duas cidades mato-grossenses afetadas pela estiagem",
+  "u": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-em-duas-cidades-mato-grossenses-afetadas-pela-estiagem",
+  "d": "2026-10-26",
+  "df": "26 out 2026",
+  "f": "Defesa Civil",
+  "fn": "www.gov.br",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Bird flu is raging on a mink farm. It could spark a human pandemic, experts say, but officials won’t act.",
