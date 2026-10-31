@@ -1,5 +1,23 @@
 [
  {
+  "t": "Rio de Janeiro registra 74 casos de Mpox em dois meses",
+  "u": "https://www.metropoles.com/brasil/rio-de-janeiro-registra-74-casos-de-mpox-em-dois-meses",
+  "d": "2026-10-31",
+  "df": "31 out 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Casos de Mpox aumentam 7 vezes no Rio em dois meses; capital está sem vacina contra a doença",
   "u": "https://g1.globo.com/google/amp/rj/rio-de-janeiro/noticia/2026/10/30/casos-de-mpox-aumentam-no-rio.ghtml",
   "d": "2026-10-30",
@@ -1100,6 +1118,24 @@
   "se": "2026-42",
   "r": "",
   "i": "quimico",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "New maps reveal who could see more snow during this year’s super El Niño",
+  "u": "https://edition.cnn.com/2026/10/24/weather/new-snow-maps-el-nino-climate",
+  "d": "2026-10-24",
+  "df": "24 out 2026",
+  "f": "CNN",
+  "fn": "CNN",
+  "e": "Internacional",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 4.5,
+  "se": "2026-42",
+  "r": "",
+  "i": "clima",
   "m": [],
   "c": "monitoramento"
  },

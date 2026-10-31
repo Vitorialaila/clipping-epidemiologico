@@ -1,5 +1,28 @@
 [
  {
+  "id": "dbf90507320594",
+  "titulo": "Rio de Janeiro registra 74 casos de Mpox em dois meses",
+  "url": "https://www.metropoles.com/brasil/rio-de-janeiro-registra-74-casos-de-mpox-em-dois-meses",
+  "fonte_id": "metropoles-busca",
+  "fonte": "Metrópoles",
+  "sigla": "Metrópoles",
+  "idioma": "pt",
+  "data": "2026-10-31",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-31T08:25:08+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Mpox"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "Mpox (notificação imediata) · 74 casos · Brasil"
+ },
+ {
   "id": "3df909470096d0",
   "titulo": "On World Cities Day 2026, WHO calls for safe, healthy housing for all",
   "url": "https://www.who.int/news/item/31-10-2026-on-world-cities-day-2026--who-calls-for-safe--healthy-housing-for-all",
@@ -16,6 +39,52 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Internacional",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "074ae340acee05",
+  "titulo": "Mulheres enfrentam as marcas invisíveis da violência psicológica",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7507519-mulheres-enfrentam-as-marcas-invisiveis-da-violencia-psicologica.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-31",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-31T08:25:08+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "365478d0a5831a",
+  "titulo": "Dia de Finados aquece comércio no DF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7529432-dia-de-finados-aquece-comercio-no-df.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-31",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-31T08:25:08+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
   "termos_evento": [],
   "categoria": "monitoramento",
   "motivo": ""
@@ -9052,6 +9121,29 @@
   "termos_evento": [],
   "categoria": "monitoramento",
   "motivo": "Intoxicações (notificação semanal) · sem ocorrência relatada no título · internacional"
+ },
+ {
+  "id": "a10815b3e4891c",
+  "titulo": "New maps reveal who could see more snow during this year’s super El Niño",
+  "url": "https://edition.cnn.com/2026/10/24/weather/new-snow-maps-el-nino-climate",
+  "fonte_id": "cnn-busca",
+  "fonte": "CNN",
+  "sigla": "CNN",
+  "idioma": "en",
+  "data": "2026-10-24",
+  "data_estimada": false,
+  "se": "2026-42",
+  "descricao": "",
+  "coletado_em": "2026-10-31T08:25:08+00:00",
+  "municipios": [],
+  "pontuacao": 4.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · internacional"
  },
  {
   "id": "a8ef4ad0b1bf06",
@@ -29598,76 +29690,5 @@
   "municipios": [],
   "categoria": "monitoramento",
   "motivo": ""
- },
- {
-  "id": "c80036e0621c6e",
-  "titulo": "Influenza-Associated Pediatric Deaths - United States, 2024-25 Influenza Season",
-  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=760284",
-  "fonte_id": "cdc-mmwr",
-  "fonte": "CDC | MMWR",
-  "sigla": "CDC",
-  "idioma": "en",
-  "data": "2025-09-25",
-  "data_estimada": false,
-  "se": "2025-39",
-  "descricao": "This report describes pediatric deaths during the 2024-25 influenza season.",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 1.5,
-  "agravos": [
-   "Influenza e vírus respiratórios"
-  ],
-  "escopo": "Américas",
-  "termos_evento": [
-   "deaths"
-  ],
-  "municipios": [],
-  "categoria": "monitoramento",
-  "motivo": "Influenza e vírus respiratórios (notificação semanal) · estudo, orientação ou relato retrospectivo · Américas"
- },
- {
-  "id": "2258abff25251a",
-  "titulo": "Interim Effectiveness Estimates of 2025 Southern Hemisphere Influenza Vaccines in Preventing Influenza-Associated Outpatient and Hospitalized Illness - Eight Southern Hemisphere Countries, March-September 2025",
-  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=760285",
-  "fonte_id": "cdc-mmwr",
-  "fonte": "CDC | MMWR",
-  "sigla": "CDC",
-  "idioma": "en",
-  "data": "2025-09-25",
-  "data_estimada": false,
-  "se": "2025-39",
-  "descricao": "This report describes flu vaccine effectiveness in the Southern Hemisphere during the 2025 flu season.",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 1.0,
-  "agravos": [
-   "Influenza e vírus respiratórios"
-  ],
-  "escopo": "Internacional",
-  "termos_evento": [],
-  "municipios": [],
-  "categoria": "monitoramento",
-  "motivo": "Influenza e vírus respiratórios (notificação semanal) · estudo, orientação ou relato retrospectivo · internacional"
- },
- {
-  "id": "298814003b2e3d",
-  "titulo": "Pediatric Influenza-Associated Encephalopathy and Acute Necrotizing Encephalopathy - United States, 2024-25 Influenza Season",
-  "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=760282",
-  "fonte_id": "cdc-mmwr",
-  "fonte": "CDC | MMWR",
-  "sigla": "CDC",
-  "idioma": "en",
-  "data": "2025-09-25",
-  "data_estimada": false,
-  "se": "2025-39",
-  "descricao": "This report describes 109 U.S. cases of pediatric influenza-associated encephalopathy during the 2024-25 flu season - a high-severity season.",
-  "coletado_em": "2026-10-15T16:45:38+00:00",
-  "pontuacao": 0.0,
-  "agravos": [
-   "Influenza e vírus respiratórios"
-  ],
-  "escopo": "Américas",
-  "termos_evento": [],
-  "municipios": [],
-  "categoria": "monitoramento",
-  "motivo": "Influenza e vírus respiratórios (notificação semanal) · estudo, orientação ou relato retrospectivo · Américas"
  }
 ]
