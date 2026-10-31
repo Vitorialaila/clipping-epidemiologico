@@ -26,6 +26,31 @@
   "motivo": "Influenza por novo subtipo (notificação imediata) · suspeita de gripe aviária · DF e RIDE"
  },
  {
+  "id": "5fc212b7389ec8",
+  "titulo": "Mpox: governo reforça volume de vacina no Rio para lidar com alta de casos",
+  "url": "https://www.metropoles.com/saude/mpox-governo-reforca-volumes-de-vacina-no-rio-para-lidar-com-alta-de-casos",
+  "fonte_id": "metropoles-busca",
+  "fonte": "Metrópoles",
+  "sigla": "Metrópoles",
+  "idioma": "pt",
+  "data": "2026-10-31",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-31T23:23:08+00:00",
+  "municipios": [],
+  "pontuacao": 10.5,
+  "agravos": [
+   "Mpox"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alta de casos"
+  ],
+  "categoria": "alerta",
+  "motivo": "Mpox (notificação imediata) · alta de casos · Brasil"
+ },
+ {
   "id": "dbf90507320594",
   "titulo": "Rio de Janeiro registra 74 casos de Mpox em dois meses",
   "url": "https://www.metropoles.com/brasil/rio-de-janeiro-registra-74-casos-de-mpox-em-dois-meses",
@@ -438,6 +463,146 @@
   "agravos": [],
   "escopo": "DF",
   "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "c03067f2a57531",
+  "titulo": "Motociclista tenta se esconder em lava-jato após fuga da PM",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7531555-motociclista-tenta-se-esconder-em-lava-jato-apos-fuga-da-pm.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-31",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-31T23:23:08+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "80ca759303dd87",
+  "titulo": "Dupla é presa por tráfico de drogas e receptação em São Sebastião",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7531550-dupla-e-presa-por-trafico-de-drogas-e-receptacao-em-sao-sebastiao.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-31",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-31T23:23:08+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "92a6fb1a54385a",
+  "titulo": "Guará abre seleção comunitária para novo gerente de Cultura",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7531529-guara-abre-selecao-comunitaria-para-novo-gerente-de-cultura.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-31",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-31T23:23:08+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "a85b0d6b64e820",
+  "titulo": "Caminhão tomba em Ceilândia após colisão com carro",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7531515-caminhao-tomba-em-ceilandia-apos-colisao-com-carro.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-31",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-31T23:23:08+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "d3629079638e36",
+  "titulo": "PT convoca festa no Eixão Norte para celebrar vitória de Lula",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7531494-pt-convoca-festa-no-eixao-norte-para-celebrar-vitoria-de-lula.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-31",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-31T23:23:08+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "57bfec24dd6cfd",
+  "titulo": "Tragédia com jovem no DF alerta para armazenamento seguro de armas de fogo",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7531464-tragedia-com-jovem-no-df-alerta-para-guarda-segura-de-armas-e-omissao-de-cautela-noticias-do-dia-noticias-sobre-seguranca-noticias-perto-de-mim-noticias-sobre-cacs.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-31",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-31T23:23:08+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [
+   "alerta para"
+  ],
   "categoria": "monitoramento",
   "motivo": ""
  },
@@ -1615,6 +1780,29 @@
   "termos_evento": [],
   "categoria": "atencao",
   "motivo": "Escabiose · 75 casos · Brasil"
+ },
+ {
+  "id": "de98a73fd5f014",
+  "titulo": "Estado registra 94 mortes por dengue e reforça importância dos cuidados preventivos",
+  "url": "https://g1.globo.com/go/goias/videos-ja-1-edicao/video/estado-registra-94-mortes-por-dengue-e-reforca-importancia-dos-cuidados-preventivos-15142809.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-10-29",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-31T23:23:08+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Dengue"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "Dengue (óbito de notificação imediata) · mortes · Brasil"
  },
  {
   "id": "3af1e1a4fa51a3",

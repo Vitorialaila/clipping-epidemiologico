@@ -21,6 +21,24 @@
   "c": "alerta"
  },
  {
+  "t": "Mpox: governo reforça volume de vacina no Rio para lidar com alta de casos",
+  "u": "https://www.metropoles.com/saude/mpox-governo-reforca-volumes-de-vacina-no-rio-para-lidar-com-alta-de-casos",
+  "d": "2026-10-31",
+  "df": "31 out 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 10.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Rio de Janeiro registra 74 casos de Mpox em dois meses",
   "u": "https://www.metropoles.com/brasil/rio-de-janeiro-registra-74-casos-de-mpox-em-dois-meses",
   "d": "2026-10-31",
@@ -418,6 +436,24 @@
   "i": "saude",
   "m": [],
   "c": "atencao"
+ },
+ {
+  "t": "Estado registra 94 mortes por dengue e reforça importância dos cuidados preventivos",
+  "u": "https://g1.globo.com/go/goias/videos-ja-1-edicao/video/estado-registra-94-mortes-por-dengue-e-reforca-importancia-dos-cuidados-preventivos-15142809.ghtml",
+  "d": "2026-10-29",
+  "df": "29 out 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 7.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "First public health emergency preparedness assessments across Europe show both commitment and recurring challenges",
