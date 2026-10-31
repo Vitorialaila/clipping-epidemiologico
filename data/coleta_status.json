@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-10-31T15:19:35+00:00",
+  "em": "2026-10-31T19:58:24+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,7 +10,7 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-10-31T15:19:35+00:00",
+  "em": "2026-10-31T19:58:24+00:00",
   "lidos": 40,
   "novos": 0,
   "exemplos": [
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-10-31T15:19:35+00:00",
+  "em": "2026-10-31T19:58:24+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-10-31T15:19:35+00:00",
+  "em": "2026-10-31T19:58:24+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-10-31T15:19:35+00:00",
+  "em": "2026-10-31T19:58:24+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-10-31T15:19:35+00:00",
+  "em": "2026-10-31T19:58:24+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-10-31T15:19:35+00:00",
+  "em": "2026-10-31T19:58:24+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-10-31T15:19:35+00:00",
+  "em": "2026-10-31T19:58:24+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-10-31T15:19:35+00:00",
+  "em": "2026-10-31T19:58:24+00:00",
   "lidos": 2348,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-10-31T15:19:35+00:00",
+  "em": "2026-10-31T19:58:24+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,7 +100,7 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-10-31T15:19:35+00:00",
+  "em": "2026-10-31T19:58:24+00:00",
   "lidos": 14,
   "novos": 0,
   "exemplos": [
@@ -110,7 +110,7 @@
   ]
  },
  "fiocruz": {
-  "em": "2026-10-31T15:19:35+00:00",
+  "em": "2026-10-31T19:58:24+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -120,7 +120,7 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-10-31T15:19:35+00:00",
+  "em": "2026-10-31T19:58:24+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -130,7 +130,7 @@
   ]
  },
  "ses-go": {
-  "em": "2026-10-31T15:19:35+00:00",
+  "em": "2026-10-31T19:58:24+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -140,19 +140,19 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-10-31T15:19:35+00:00",
+  "em": "2026-10-31T19:58:24+00:00",
   "lidos": 10,
-  "novos": 2,
+  "novos": 1,
   "exemplos": [
+   "Inscrições para Prêmio Desenvolvimento em Jogo terminam neste domingo",
    "Inmet alerta para chuvas no Norte, Sudeste e Centro-Oeste",
-   "\"Luto é permanente\", diz viúva 30 anos após acidente com Fokker da TAM",
-   "Terceira edição do CNU pode ter até 3 mil vagas"
+   "\"Luto é permanente\", diz viúva 30 anos após acidente com Fokker da TAM"
   ]
  },
  "g1-busca": {
-  "em": "2026-10-31T15:19:35+00:00",
-  "lidos": 453,
-  "novos": 0,
+  "em": "2026-10-31T19:58:24+00:00",
+  "lidos": 500,
+  "novos": 1,
   "exemplos": [
    "Atibaia monitora 75 casos suspeitos de sarna humana",
    "Secretaria Estadual de Saúde investiga morte de criança com suspeita de meningite",
@@ -160,17 +160,17 @@
   ]
  },
  "metropoles-busca": {
-  "em": "2026-10-31T15:19:35+00:00",
-  "lidos": 52,
-  "novos": 2,
+  "em": "2026-10-31T19:58:24+00:00",
+  "lidos": 51,
+  "novos": 0,
   "exemplos": [
-   "Criança de 4 anos morre com suspeita de meningite em Goiás",
    "Teste com cotonete pode evitar biópsias em casos suspeitos de câncer",
+   "Criança de 4 anos morre com suspeita de meningite em Goiás",
    "Rio de Janeiro registra 74 casos de Mpox em dois meses"
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-10-31T15:19:35+00:00",
+  "em": "2026-10-31T19:58:24+00:00",
   "lidos": 26,
   "novos": 0,
   "exemplos": [
@@ -180,7 +180,7 @@
   ]
  },
  "cnn-saude": {
-  "em": "2026-10-31T15:19:35+00:00",
+  "em": "2026-10-31T19:58:24+00:00",
   "lidos": 25,
   "novos": 0,
   "exemplos": [
@@ -190,17 +190,17 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-10-31T15:19:35+00:00",
-  "lidos": 72,
-  "novos": 1,
+  "em": "2026-10-31T19:58:24+00:00",
+  "lidos": 75,
+  "novos": 0,
   "exemplos": [
    "It’s an outbreak of a ‘huge magnitude’: The race to contain Ebola",
-   "Bird flu is raging on a mink farm. It could spark a human pandemic, experts say, but officials won’t act.",
-   "First confirmed Ebola patient in Nigeria evacuated to Switzerland"
+   "How RFK Jr. is highlighting a GOP vulnerability in 2026",
+   "Bird flu is raging on a mink farm. It could spark a human pandemic, experts say, but officials won’t act."
   ]
  },
  "inmet": {
-  "em": "2026-10-31T15:19:35+00:00",
+  "em": "2026-10-31T19:58:24+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -210,7 +210,7 @@
   ]
  },
  "cemaden": {
-  "em": "2026-10-31T15:19:35+00:00",
+  "em": "2026-10-31T19:58:24+00:00",
   "lidos": 7,
   "novos": 0,
   "exemplos": [
@@ -220,8 +220,8 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-10-31T15:19:35+00:00",
-  "lidos": 18,
+  "em": "2026-10-31T19:58:24+00:00",
+  "lidos": 16,
   "novos": 0,
   "exemplos": [
    "Reconhecida emergência em duas cidades mato-grossenses afetadas pela estiagem",
@@ -230,13 +230,13 @@
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-10-31T15:19:35+00:00",
+  "em": "2026-10-31T19:58:24+00:00",
   "lidos": 20,
-  "novos": 7,
+  "novos": 2,
   "exemplos": [
-   "Sábado (31/10) no DF será de pancadas de chuva e trovoadas isoladas",
-   "\"Jesus usaria as redes sociais\", afirma padre Gevanildo Torres, da Canção Nova",
-   "Templo da Boa Vontade realiza programação especial para o Dia de Finados"
+   "Templo da Boa Vontade realiza programação especial para o Dia de Finados",
+   "Operação Gerente: homem em surto é contido após ameaçar pai com faca",
+   "Safras do Cerrado recebe expositores do DF e celebra bioma da capital"
   ]
  }
 }
