@@ -1,5 +1,31 @@
 [
  {
+  "id": "f2379ce19ae82f",
+  "titulo": "Araras debilitadas são resgatadas no DF; BPMA suspeita de gripe aviária",
+  "url": "https://www.metropoles.com/distrito-federal/araras-debilitadas-sao-resgatadas-no-df-bpma-suspeita-de-gripe-aviaria",
+  "fonte_id": "metropoles-busca",
+  "fonte": "Metrópoles",
+  "sigla": "Metrópoles",
+  "idioma": "pt",
+  "data": "2026-10-31",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-31T15:19:35+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 13.0,
+  "agravos": [
+   "Influenza por novo subtipo",
+   "Influenza e vírus respiratórios"
+  ],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "Influenza por novo subtipo (notificação imediata) · suspeita de gripe aviária · DF e RIDE"
+ },
+ {
   "id": "dbf90507320594",
   "titulo": "Rio de Janeiro registra 74 casos de Mpox em dois meses",
   "url": "https://www.metropoles.com/brasil/rio-de-janeiro-registra-74-casos-de-mpox-em-dois-meses",
@@ -21,6 +47,56 @@
   "termos_evento": [],
   "categoria": "alerta",
   "motivo": "Mpox (notificação imediata) · 74 casos · Brasil"
+ },
+ {
+  "id": "a2577b6192b916",
+  "titulo": "Surto de ebola já matou mais de 5 mil pessoas na RD do Congo",
+  "url": "https://www.metropoles.com/mundo/surto-de-ebola-ja-matou-mais-de-5-mil-pessoas-na-rd-do-congo",
+  "fonte_id": "metropoles-busca",
+  "fonte": "Metrópoles",
+  "sigla": "Metrópoles",
+  "idioma": "pt",
+  "data": "2026-10-31",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-31T15:19:35+00:00",
+  "municipios": [],
+  "pontuacao": 9.0,
+  "agravos": [
+   "Doença pelo vírus Ebola"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [
+   "surto"
+  ],
+  "categoria": "alerta",
+  "motivo": "Doença pelo vírus Ebola (notificação imediata) · Surto · internacional"
+ },
+ {
+  "id": "5edbcf3bb113bc",
+  "titulo": "Inmet alerta para chuvas no Norte, Sudeste e Centro-Oeste",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/inmet-alerta-para-chuvas-no-norte-sudeste-e-centro-oeste",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-31",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "O Instituto Nacional de Meteorologia (Inmet) divulgou alertas de perigo potencial de chuvas intensas neste sábado (31) em diversos partes do país. O aviso amarelo vale para partes do Sudeste, Norte e Centro-Oeste, além do sul da Bahia. A previsão é de chuvas de até 50 milímetros (mm) por dia e ventos intensos, de até 60 quilômetros por hora (km/h).",
+  "coletado_em": "2026-10-31T15:19:35+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alerta para"
+  ],
+  "categoria": "monitoramento",
+  "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · Brasil"
  },
  {
   "id": "3df909470096d0",
@@ -79,6 +155,190 @@
   "se": "2026-43",
   "descricao": "",
   "coletado_em": "2026-10-31T08:25:08+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "4ddf2df7ed1d80",
+  "titulo": "\"Luto é permanente\", diz viúva 30 anos após acidente com Fokker da TAM",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/luto-e-permanente-diz-viuva-30-anos-apos-acidente-com-fokker-da-tam",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-10-31",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "Há 30 anos, Sandra Assali havia levado o marido, o médico cardiologista José Rahal Abu Assali, até o Aeroporto de Congonhas, na zona sul de São Paulo. Ele iria embarcar em um voo da então companhia aérea TAM (atual Latam) com destino ao Rio de Janeiro, onde daria aula em um congresso. Seria um bate e volta, já que o retorno à capital paulista era esperado para o mesmo dia. Mas o cardiologista nunca chegou ao seu destino. Apenas 24 segundos depois da decolagem, de acordo com o relatório final elaborado pelo Centro de Investigação e Prevenção de Acidentes Aeronáuticos (Cenipa), a aeronave em que ele estava bateu em três prédios e caiu em cima de diversas casas na Rua Luís Orsini de Castro, a cerca de 2 quilômetros do aeroporto. Com a queda, o avião pegou fogo, matando todas as 96 pessoas a bordo. Três pessoas que estavam no solo também morreram.",
+  "coletado_em": "2026-10-31T15:19:35+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "investigacao"
+  ],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "3f238e0e6c71be",
+  "titulo": "Sábado (31/10) no DF será de pancadas de chuva e trovoadas isoladas",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7531360-sabado-31-10-no-df-sera-de-pancadas-de-chuva-e-trovoadas-isoladas.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-31",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-31T15:19:35+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "fe8d5420f3049c",
+  "titulo": "\"Jesus usaria as redes sociais\", afirma padre Gevanildo Torres, da Canção Nova",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7531226-jesus-usaria-as-redes-sociais-afirma-padre-gevanildo-torres-da-cancao-nova.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-31",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-31T15:19:35+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "8466f0c7d8fcd8",
+  "titulo": "Templo da Boa Vontade realiza programação especial para o Dia de Finados",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7531385-templo-da-boa-vontade-realiza-programacao-especial-para-o-dia-de-finados.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-31",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-31T15:19:35+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "bdf970866b7559",
+  "titulo": "Operação Gerente: homem em surto é contido após ameaçar pai com faca",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7531375-operacao-gerente-homem-em-surto-e-contido-apos-ameacar-pai-com-faca.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-31",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-31T15:19:35+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "22365147688500",
+  "titulo": "Motoristas ficam feridas após colisão entre carros e moto em Planaltina",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7531366-motoristas-ficam-feridas-apos-colisao-entre-carros-e-moto-em-planaltina.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-31",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-31T15:19:35+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "6ecdf085cbde6a",
+  "titulo": "Conheça histórias de mulheres que abraçam o mundo viajando sozinhas",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7530167-conheca-historias-de-mulheres-que-abracam-o-mundo-viajando-sozinhas.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-31",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-31T15:19:35+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "e257229669d348",
+  "titulo": "Mais de 400 ações contra a grilagem de terras no DF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7530387-mais-de-400-acoes-contra-a-grilagem-de-terras-no-df.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-31",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-31T15:19:35+00:00",
   "municipios": [
    "Distrito Federal"
   ],
@@ -172,6 +432,29 @@
   "se": "2026-43",
   "descricao": "",
   "coletado_em": "2026-10-30T16:41:52+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Doença pelo vírus Ebola"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": "Doença pelo vírus Ebola (notificação imediata) · sem ocorrência relatada no título · internacional"
+ },
+ {
+  "id": "36519a3fb39364",
+  "titulo": "Ebola health workers celebrate last patients discharged in DRC",
+  "url": "https://www.cnn.com/2026/10/30/world/video/ebola-health-workers-celebrate-last-patients-discharged-in-drc",
+  "fonte_id": "cnn-busca",
+  "fonte": "CNN",
+  "sigla": "CNN",
+  "idioma": "en",
+  "data": "2026-10-30",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-10-31T15:19:35+00:00",
   "municipios": [],
   "pontuacao": 6.5,
   "agravos": [

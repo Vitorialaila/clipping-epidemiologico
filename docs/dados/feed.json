@@ -1,5 +1,26 @@
 [
  {
+  "t": "Araras debilitadas são resgatadas no DF; BPMA suspeita de gripe aviária",
+  "u": "https://www.metropoles.com/distrito-federal/araras-debilitadas-sao-resgatadas-no-df-bpma-suspeita-de-gripe-aviaria",
+  "d": "2026-10-31",
+  "df": "31 out 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "DF",
+  "a": [
+   "Influenza por novo subtipo",
+   "Influenza e vírus respiratórios"
+  ],
+  "p": 13.0,
+  "se": "2026-43",
+  "r": "",
+  "i": "respiratorio",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "alerta"
+ },
+ {
   "t": "Rio de Janeiro registra 74 casos de Mpox em dois meses",
   "u": "https://www.metropoles.com/brasil/rio-de-janeiro-registra-74-casos-de-mpox-em-dois-meses",
   "d": "2026-10-31",
@@ -16,6 +37,42 @@
   "i": "virus",
   "m": [],
   "c": "alerta"
+ },
+ {
+  "t": "Surto de ebola já matou mais de 5 mil pessoas na RD do Congo",
+  "u": "https://www.metropoles.com/mundo/surto-de-ebola-ja-matou-mais-de-5-mil-pessoas-na-rd-do-congo",
+  "d": "2026-10-31",
+  "df": "31 out 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "Internacional",
+  "a": [
+   "Doença pelo vírus Ebola"
+  ],
+  "p": 9.0,
+  "se": "2026-43",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Inmet alerta para chuvas no Norte, Sudeste e Centro-Oeste",
+  "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/inmet-alerta-para-chuvas-no-norte-sudeste-e-centro-oeste",
+  "d": "2026-10-31",
+  "df": "31 out 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Geral",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-43",
+  "r": "O Instituto Nacional de Meteorologia (Inmet) divulgou alertas de perigo potencial de chuvas intensas neste sábado (31) em diversos partes do país. O aviso amarelo vale para partes do Sudeste, Norte e Centro-Oeste, além do sul da Bahia. A previsão é de chuvas…",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Casos de Mpox aumentam 7 vezes no Rio em dois meses; capital está sem vacina contra a doença",
