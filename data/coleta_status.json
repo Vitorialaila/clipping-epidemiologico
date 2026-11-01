@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-10-31T23:23:08+00:00",
+  "em": "2026-11-01T05:59:53+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,7 +10,7 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-10-31T23:23:08+00:00",
+  "em": "2026-11-01T05:59:53+00:00",
   "lidos": 40,
   "novos": 0,
   "exemplos": [
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-10-31T23:23:08+00:00",
+  "em": "2026-11-01T05:59:53+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-10-31T23:23:08+00:00",
+  "em": "2026-11-01T05:59:53+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-10-31T23:23:08+00:00",
+  "em": "2026-11-01T05:59:53+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-10-31T23:23:08+00:00",
+  "em": "2026-11-01T05:59:53+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-10-31T23:23:08+00:00",
+  "em": "2026-11-01T05:59:53+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-10-31T23:23:08+00:00",
+  "em": "2026-11-01T05:59:53+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-10-31T23:23:08+00:00",
+  "em": "2026-11-01T05:59:53+00:00",
   "lidos": 2348,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-10-31T23:23:08+00:00",
+  "em": "2026-11-01T05:59:53+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,7 +100,7 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-10-31T23:23:08+00:00",
+  "em": "2026-11-01T05:59:53+00:00",
   "lidos": 14,
   "novos": 0,
   "exemplos": [
@@ -110,7 +110,7 @@
   ]
  },
  "fiocruz": {
-  "em": "2026-10-31T23:23:08+00:00",
+  "em": "2026-11-01T05:59:53+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -120,7 +120,7 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-10-31T23:23:08+00:00",
+  "em": "2026-11-01T05:59:53+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -130,7 +130,7 @@
   ]
  },
  "ses-go": {
-  "em": "2026-10-31T23:23:08+00:00",
+  "em": "2026-11-01T05:59:53+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -140,7 +140,7 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-10-31T23:23:08+00:00",
+  "em": "2026-11-01T05:59:53+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -150,27 +150,15 @@
   ]
  },
  "g1-busca": {
-  "em": "2026-10-31T23:23:08+00:00",
-  "lidos": 480,
-  "novos": 1,
-  "exemplos": [
-   "Atibaia monitora 75 casos suspeitos de sarna humana",
-   "Secretaria Estadual de Saúde investiga morte de criança com suspeita de meningite",
-   "Criança de 4 anos morre com suspeita de meningite em Inhumas"
-  ]
+  "em": "2026-11-01T05:59:53+00:00",
+  "erro": "404 Client Error: Not Found for url: https://news.google.com/rss/search?q=site%3Ag1.globo.com%20%22caso%20suspeito%22%20OR%20%22casos%20suspeitos%22%20OR%20%22%C3%B3bito%20suspeito%22%20OR%20%22suspeita%20de%20meningite%22%20OR%20%22suspeita%20de%20sarampo%22%20OR%20%22suspeita%20de%20raiva%22%20OR%"
  },
  "metropoles-busca": {
-  "em": "2026-10-31T23:23:08+00:00",
-  "lidos": 51,
-  "novos": 1,
-  "exemplos": [
-   "Criança de 4 anos morre com suspeita de meningite em Goiás",
-   "Teste com cotonete pode evitar biópsias em casos suspeitos de câncer",
-   "Rio de Janeiro registra 74 casos de Mpox em dois meses"
-  ]
+  "em": "2026-11-01T05:59:53+00:00",
+  "erro": "404 Client Error: Not Found for url: https://news.google.com/rss/search?q=site%3Ametropoles.com%20surto%20OR%20%22casos%20confirmados%22%20OR%20%22caso%20confirmado%22%20OR%20%22primeiro%20caso%22%20OR%20%22aulas%20suspensas%22%20when%3A7d&hl=pt-BR&gl=BR&ceid=BR:pt-419"
  },
  "cnn-brasil-saude": {
-  "em": "2026-10-31T23:23:08+00:00",
+  "em": "2026-11-01T05:59:53+00:00",
   "lidos": 26,
   "novos": 0,
   "exemplos": [
@@ -180,7 +168,7 @@
   ]
  },
  "cnn-saude": {
-  "em": "2026-10-31T23:23:08+00:00",
+  "em": "2026-11-01T05:59:53+00:00",
   "lidos": 25,
   "novos": 0,
   "exemplos": [
@@ -190,17 +178,11 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-10-31T23:23:08+00:00",
-  "lidos": 70,
-  "novos": 0,
-  "exemplos": [
-   "It’s an outbreak of a ‘huge magnitude’: The race to contain Ebola",
-   "How RFK Jr. is highlighting a GOP vulnerability in 2026",
-   "Bird flu is raging on a mink farm. It could spark a human pandemic, experts say, but officials won’t act."
-  ]
+  "em": "2026-11-01T05:59:53+00:00",
+  "erro": "404 Client Error: Not Found for url: https://news.google.com/rss/search?q=site%3Acnn.com%20measles%20OR%20outbreak%20OR%20epidemic%20when%3A7d&hl=en-US&gl=US&ceid=US:en"
  },
  "inmet": {
-  "em": "2026-10-31T23:23:08+00:00",
+  "em": "2026-11-01T05:59:53+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -210,7 +192,7 @@
   ]
  },
  "cemaden": {
-  "em": "2026-10-31T23:23:08+00:00",
+  "em": "2026-11-01T05:59:53+00:00",
   "lidos": 7,
   "novos": 0,
   "exemplos": [
@@ -220,9 +202,9 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-10-31T23:23:08+00:00",
-  "lidos": 13,
-  "novos": 0,
+  "em": "2026-11-01T05:59:53+00:00",
+  "lidos": 20,
+  "novos": 1,
   "exemplos": [
    "Reconhecida emergência em duas cidades mato-grossenses afetadas pela estiagem",
    "Reconhecida emergência na cidade gaúcha de Palmitinho — Ministério da Integração e do Desenvolvimento Regional",
@@ -230,13 +212,13 @@
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-10-31T23:23:08+00:00",
+  "em": "2026-11-01T05:59:53+00:00",
   "lidos": 20,
-  "novos": 6,
+  "novos": 5,
   "exemplos": [
-   "Templo da Boa Vontade realiza programação especial para o Dia de Finados",
-   "Operação Gerente: homem em surto é contido após ameaçar pai com faca",
-   "Motociclista tenta se esconder em lava-jato após fuga da PM"
+   "Jovem de 18 anos morre baleada em Sobradinho II; adolescentes são apreendidos",
+   "PT convoca festa no Eixão Norte para celebrar vitória de Lula",
+   "MC Jeffe conquista Duelo Estadual de MCs e representará o DF nacionalmente"
   ]
  }
 }

@@ -1,5 +1,28 @@
 [
  {
+  "id": "9509e0d363f464",
+  "titulo": "Calor extremo: saiba como receber alertas da Defesa Civil de Maceió no celular",
+  "url": "https://maceio.al.gov.br/noticias/defesa-civil/calor-extremo-saiba-como-receber-alertas-da-defesa-civil-de-maceio-no-celular",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Prefeitura de Maceió",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-11-01",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-01T05:59:53+00:00",
+  "municipios": [],
+  "pontuacao": 4.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": "Saúde ambiental e clima · estudo, orientação ou relato retrospectivo · Brasil"
+ },
+ {
   "id": "f2379ce19ae82f",
   "titulo": "Araras debilitadas são resgatadas no DF; BPMA suspeita de gripe aviária",
   "url": "https://www.metropoles.com/distrito-federal/araras-debilitadas-sao-resgatadas-no-df-bpma-suspeita-de-gripe-aviaria",
@@ -603,6 +626,121 @@
   "termos_evento": [
    "alerta para"
   ],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "fa8263301b95e9",
+  "titulo": "MC Jeffe conquista Duelo Estadual de MCs e representará o DF nacionalmente",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7531604-mc-jeffe-conquista-duelo-estadual-de-mcs-e-representara-o-df.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-31",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-11-01T05:59:53+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "baf93707e0c00e",
+  "titulo": "Hip-Hop, representatividade e resistência marcam competição de MCs do DF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7531600-hip-hop-representatividade-e-resistencia-marcam-competicao-mcs.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-31",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-11-01T05:59:53+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "63061d17ef8cbf",
+  "titulo": "Homem é preso em flagrante por furtar bandejas de carne em Santa Maria",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7531597-homem-e-preso-em-flagrante-por-furtar-bandejas-de-carne-em-santa-maria.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-31",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-11-01T05:59:53+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "6278a61e760799",
+  "titulo": "Foragido é capturado após tentar se esconder em casa no Coer Park",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7531595-foragido-e-capturado-apos-tentar-se-esconder-em-casa-no-coer-park.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-31",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-11-01T05:59:53+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "64ec9e978eacc1",
+  "titulo": "Jovem é apreendido por roubo de bicicleta em Vicente Pires",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7531594-jovem-e-apreendido-por-roubo-de-bicicleta-em-vicente-pires.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-10-31",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-11-01T05:59:53+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
   "categoria": "monitoramento",
   "motivo": ""
  },
