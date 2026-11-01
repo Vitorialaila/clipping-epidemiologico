@@ -1,5 +1,58 @@
 [
  {
+  "id": "6791dbf0a72161",
+  "titulo": "Temporal com ventos e granizo deixa rastro de estragos no Recanto das Emas",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7531730-temporal-com-ventos-e-granizo-deixa-rastro-de-estragos-no-recanto-das-emas.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-01",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-01T22:47:43+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 14.5,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "DF",
+  "termos_evento": [
+   "granizo"
+  ],
+  "categoria": "alerta",
+  "motivo": "Emergências e desastres · estragos · DF e RIDE"
+ },
+ {
+  "id": "12ebf0fb7c312d",
+  "titulo": "Confins confirma primeiro caso de mpox; Minas Gerais registra 33 casos da doença em 2026",
+  "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/01/confins-confirma-primeiro-caso-de-mpox-minas-gerais-registra-33-casos-da-doenca-em-2026.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-01",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-01T22:47:43+00:00",
+  "municipios": [],
+  "pontuacao": 11.5,
+  "agravos": [
+   "Mpox"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "primeiro caso"
+  ],
+  "categoria": "alerta",
+  "motivo": "Mpox (notificação imediata) · confirma · Brasil"
+ },
+ {
   "id": "0935a57d782f47",
   "titulo": "Hoje é Dia: datas, fatos e feriados de novembro de 2026",
   "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/hoje-e-dia-datas-fatos-e-feriados-de-novembro-de-2026",
@@ -312,6 +365,121 @@
   "se": "2026-44",
   "descricao": "",
   "coletado_em": "2026-11-01T18:55:22+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "d5a59dc2f060a8",
+  "titulo": "Chuva forte destelha casa no Riacho Fundo 2",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7531705-chuva-forte-destelha-casa-no-riacho-fundo-2.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-01",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-01T22:47:43+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "6d4e8d22db179d",
+  "titulo": "\"Rei da AR 19\" é preso em operação contra o tráfico em Sobradinho",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7531790-rei-da-ar-19-e-preso-em-operacao-contra-o-trafico-em-sobradinho.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-01",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-01T22:47:43+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "170d8ab78cf7a3",
+  "titulo": "Rotam apreende grande quantidade de Maconha durante ações em Samambaia",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7531779-rotam-apreende-grande-quantidade-de-maconha-durante-acoes-em-samambaia.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-01",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-01T22:47:43+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "a4734298aeb9aa",
+  "titulo": "Jovem sofre traumatismo craniano, após cair em bar na Asa Sul",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7531754-jovem-sofre-traumatismo-craniano-apos-cair-em-bar-na-asa-sul.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-01",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-01T22:47:43+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "20df75a33dee4c",
+  "titulo": "Aposta de Brasília quase leva Mega-Sena deste domingo; veja os números sorteados",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7531703-aposta-de-brasilia-quase-leva-mega-sena-deste-domingo-veja.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-01",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-01T22:47:43+00:00",
   "municipios": [
    "Distrito Federal"
   ],
@@ -2057,6 +2225,31 @@
   ],
   "categoria": "monitoramento",
   "motivo": "DF e RIDE"
+ },
+ {
+  "id": "ee13e1a831c2ca",
+  "titulo": "Defesa Civil alerta para risco de chuvas fortes e transtornos em Capivari nesta segunda e terça-feira",
+  "url": "https://capivari.sp.gov.br/portal/defesa-civil-alerta-para-risco-de-chuvas-fortes-e-transtornos-em-capivari-nesta-segunda-e-terca-feira/",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Prefeitura de Capivari",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-29",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-11-01T22:47:43+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alerta para"
+  ],
+  "categoria": "monitoramento",
+  "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · Brasil"
  },
  {
   "id": "f6e61ea29fc91f",
