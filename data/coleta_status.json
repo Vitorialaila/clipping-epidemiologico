@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-11-01T13:19:58+00:00",
+  "em": "2026-11-01T18:55:22+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,7 +10,7 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-11-01T13:19:58+00:00",
+  "em": "2026-11-01T18:55:22+00:00",
   "lidos": 40,
   "novos": 0,
   "exemplos": [
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-11-01T13:19:58+00:00",
+  "em": "2026-11-01T18:55:22+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-11-01T13:19:58+00:00",
+  "em": "2026-11-01T18:55:22+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-11-01T13:19:58+00:00",
+  "em": "2026-11-01T18:55:22+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-11-01T13:19:58+00:00",
+  "em": "2026-11-01T18:55:22+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-11-01T13:19:58+00:00",
+  "em": "2026-11-01T18:55:22+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-11-01T13:19:58+00:00",
+  "em": "2026-11-01T18:55:22+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-11-01T13:19:58+00:00",
+  "em": "2026-11-01T18:55:22+00:00",
   "lidos": 2348,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-11-01T13:19:58+00:00",
+  "em": "2026-11-01T18:55:22+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,7 +100,7 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-11-01T13:19:58+00:00",
+  "em": "2026-11-01T18:55:22+00:00",
   "lidos": 14,
   "novos": 0,
   "exemplos": [
@@ -110,27 +110,27 @@
   ]
  },
  "fiocruz": {
-  "em": "2026-11-01T13:19:58+00:00",
+  "em": "2026-11-01T18:55:22+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "Fiocruz manifesta solidariedade aos povos indígenas e repudia atos de violência após eleições",
    "Minas Gerais recebe II Fórum de Qualidade em Bancos de Leite Humano",
-   "Simpósio internacional na Fiocruz promove debate sobre a neurociência e a biologia",
-   "Fiocruz integra debates centrais do World Health Summit 2026"
+   "Simpósio internacional na Fiocruz promove debate sobre a neurociência e a biologia"
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-11-01T13:19:58+00:00",
+  "em": "2026-11-01T18:55:22+00:00",
   "lidos": 10,
-  "novos": 2,
+  "novos": 1,
   "exemplos": [
+   "Anvisa aprova 5 novas canetas para tratamento de diabetes e obesidade",
    "Campanha alerta para doença em diabéticos que pode causar cegueira",
-   "Câncer de próstata matou 50 homens por dia no país em 2025",
-   "SUS detecta quase 10 mil testes positivos para HPV de alto risco"
+   "Câncer de próstata matou 50 homens por dia no país em 2025"
   ]
  },
  "ses-go": {
-  "em": "2026-11-01T13:19:58+00:00",
+  "em": "2026-11-01T18:55:22+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -140,29 +140,29 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-11-01T13:19:58+00:00",
+  "em": "2026-11-01T18:55:22+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 2,
   "exemplos": [
-   "Hoje é Dia: datas, fatos e feriados de novembro de 2026",
-   "Inscrições para Prêmio Desenvolvimento em Jogo terminam neste domingo",
-   "Inmet alerta para chuvas no Norte, Sudeste e Centro-Oeste"
+   "Mega-Sena acumula; prêmio para sorteio de quarta vai a R$ 46 milhões",
+   "Recebimento de vales-alimentação e refeição mudam a partir do dia 7",
+   "Hoje é Dia: datas, fatos e feriados de novembro de 2026"
   ]
  },
  "g1-busca": {
-  "em": "2026-11-01T13:19:58+00:00",
-  "lidos": 487,
+  "em": "2026-11-01T18:55:22+00:00",
+  "lidos": 476,
   "novos": 0,
   "exemplos": [
    "Atibaia monitora 75 casos suspeitos de sarna humana",
    "Secretaria Estadual de Saúde investiga morte de criança com suspeita de meningite",
-   "Criança de 4 anos morre com suspeita de meningite em Inhumas"
+   "Menina de 4 anos morre com suspeita de meningite, em Inhumas"
   ]
  },
  "metropoles-busca": {
-  "em": "2026-11-01T13:19:58+00:00",
-  "lidos": 54,
-  "novos": 1,
+  "em": "2026-11-01T18:55:22+00:00",
+  "lidos": 56,
+  "novos": 0,
   "exemplos": [
    "Teste com cotonete pode evitar biópsias em casos suspeitos de câncer",
    "Criança de 4 anos morre com suspeita de meningite em Goiás",
@@ -170,28 +170,28 @@
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-11-01T13:19:58+00:00",
+  "em": "2026-11-01T18:55:22+00:00",
   "lidos": 26,
   "novos": 0,
   "exemplos": [
+   "Remédio para câncer de pulmão pode evitar avanço da doença por 7 anos",
    "Apenas 30% dos hipertensos seguem o tratamento, dizem médicos ao Dr. Kalil",
-   "Novembro Azul: câncer de próstata é o segundo tipo mais comum em homens",
-   "Álcool faz bem à saúde? Por que a ideia de proteção merece cuidado"
+   "Novembro Azul: câncer de próstata é o segundo tipo mais comum em homens"
   ]
  },
  "cnn-saude": {
-  "em": "2026-11-01T13:19:58+00:00",
+  "em": "2026-11-01T18:55:22+00:00",
   "lidos": 25,
   "novos": 0,
   "exemplos": [
-   "RFK Jr. acts to ease access to unproven peptides despite opposition from FDA scientists",
-   "At one Atlanta restaurant, workers are family. A health insurance crisis tested that commitment",
-   "Bird flu is raging on a mink farm. It could spark a human pandemic, experts say, but officials won’t act."
+   "A record number of health professionals are running for office. Could they help heal US politics?",
+   "Judge blocks Trump administration’s Medicaid rule forcing sick recipients to prove they can’t work",
+   "New study suggests 3 in 4 former NFL players who died from 2008 to 2023 had CTE"
   ]
  },
  "cnn-busca": {
-  "em": "2026-11-01T13:19:58+00:00",
-  "lidos": 76,
+  "em": "2026-11-01T18:55:22+00:00",
+  "lidos": 77,
   "novos": 0,
   "exemplos": [
    "It’s an outbreak of a ‘huge magnitude’: The race to contain Ebola",
@@ -200,7 +200,7 @@
   ]
  },
  "inmet": {
-  "em": "2026-11-01T13:19:58+00:00",
+  "em": "2026-11-01T18:55:22+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -210,7 +210,7 @@
   ]
  },
  "cemaden": {
-  "em": "2026-11-01T13:19:58+00:00",
+  "em": "2026-11-01T18:55:22+00:00",
   "lidos": 7,
   "novos": 0,
   "exemplos": [
@@ -220,9 +220,9 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-11-01T13:19:58+00:00",
-  "lidos": 21,
-  "novos": 1,
+  "em": "2026-11-01T18:55:22+00:00",
+  "lidos": 14,
+  "novos": 0,
   "exemplos": [
    "Reconhecida emergência em duas cidades mato-grossenses afetadas pela estiagem",
    "Reconhecida emergência na cidade gaúcha de Palmitinho — Ministério da Integração e do Desenvolvimento Regional",
@@ -230,13 +230,13 @@
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-11-01T13:19:58+00:00",
+  "em": "2026-11-01T18:55:22+00:00",
   "lidos": 20,
-  "novos": 4,
+  "novos": 1,
   "exemplos": [
    "Pelo corpo e pela mente: Circuito na Flona une esporte e natureza",
-   "Homem é preso em flagrante por furtar bandejas de carne em Santa Maria",
-   "Chuvas no DF causam infiltrações em casas em Sobradinho e Planaltina"
+   "Domingo (1°) no DF será de trovoadas e Finados (2) terá céu encoberto",
+   "Apoiadores do PT celebram vitória do presidente Lula no Eixão Norte"
   ]
  }
 }
