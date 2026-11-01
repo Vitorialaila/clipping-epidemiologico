@@ -1,0 +1,696 @@
+{
+ "titulo": "Clipping Epidemiológico",
+ "subtitulo": "Sala de Situação de Saúde - UnB | Residência de Vigilância em Saúde",
+ "instituicoes": [
+  "Sala de Situação de Saúde - UnB",
+  "Residência de Vigilância em Saúde"
+ ],
+ "rodape": "",
+ "se_codigo": "2026-43",
+ "se_numero": "43",
+ "se_ano": 2026,
+ "rotulo": "SE 43/2026",
+ "periodo": "25 a 31 de outubro de 2026",
+ "data_geracao": "1 de novembro de 2026",
+ "gerado_em": "2026-11-01T13:34:09+00:00",
+ "panorama": "",
+ "principal": {
+  "ancora": "n1",
+  "titulo": "Defesa Civil de SP alerta para os riscos de se enfrentar enchentes e alagamentos",
+  "titulo_original": "Defesa Civil de SP alerta para os riscos de se enfrentar enchentes e alagamentos",
+  "resumo": "As chuvas intensas provocadas pelo fenômeno El Niño exigem atenção redobrada por parte da população. Na noite deste sábado (24) e madrugada de domingo (25), os temporais provocaram alagamentos, queda de árvores, destelhamento e deslizamento de terra em várias regiões do estado. Diante do alto risco à segurança, a Defesa Civil alerta para que a população evite transitar em áreas alagadas, onde corre o risco de cair em um buraco ou boca de lobo aberta que fica escondida sob as águas. Outro risco grande é tentar atravessar ruas inundadas ou trechos com correnteza, a pé ou de carro.",
+  "local": "Brasil",
+  "agravo": "Emergências e desastres",
+  "escopo": "Brasil",
+  "fonte": "agenciasp.sp.gov.br",
+  "sigla": "Defesa Civil",
+  "data": "2026-10-26",
+  "data_fmt": "26 out 2026",
+  "url": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-de-sp-alerta-para-os-riscos-de-se-enfrentar-enchentes-e-alagamentos/",
+  "dominio": "agenciasp.sp.gov.br",
+  "nota_ia": null,
+  "pontuacao": 13.5,
+  "n": 1,
+  "paises": [
+   "BRA"
+  ],
+  "uf": "SP",
+  "icone": "desastre",
+  "visual": {
+   "tipo": "mapa",
+   "src": "edicoes/img/SE43-2026/n1.svg"
+  }
+ },
+ "secoes": [
+  {
+   "escopo": "DF",
+   "nome": "Distrito Federal",
+   "itens": [
+    {
+     "ancora": "n2",
+     "titulo": "Araras debilitadas são resgatadas no DF; BPMA suspeita de gripe aviária",
+     "titulo_original": "Araras debilitadas são resgatadas no DF; BPMA suspeita de gripe aviária",
+     "resumo": "Araras debilitadas são resgatadas no DF pelo Batalhão de Polícia Ambiental De acordo com a Polícia Militar Ambiental, seis aves foram resgatadas na última semana Uma sequência de resgates de araras-canindé debilitadas em diferentes regiões do Distrito Federal tem chamado a atenção do Batalhão de Polícia Militar Ambiental (BPMA). Entre terça-feira (27/10) e este sábado (31/10), seis aves foram recolhidas após apresentarem sinais de fraqueza, penas arrepiadas e dificuldade ou incapacidade de voar.",
+     "local": "Brasil",
+     "agravo": "Influenza por novo subtipo",
+     "escopo": "DF",
+     "fonte": "Metrópoles",
+     "sigla": "Metrópoles",
+     "data": "2026-10-31",
+     "data_fmt": "31 out 2026",
+     "url": "https://www.metropoles.com/distrito-federal/araras-debilitadas-sao-resgatadas-no-df-bpma-suspeita-de-gripe-aviaria",
+     "dominio": "metropoles.com",
+     "nota_ia": null,
+     "pontuacao": 13.0,
+     "n": 2,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "DF",
+     "icone": "respiratorio",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE43-2026/n2.svg"
+     }
+    },
+    {
+     "ancora": "n10",
+     "titulo": "Chuva forte e ventos causam estragos no Gama nesta quinta-feira",
+     "titulo_original": "Chuva forte e ventos causam estragos no Gama nesta quinta-feira",
+     "resumo": "A tarde desta quinta-feira (29/10) foi marcada por transtornos e estragos provocados por um temporal acompanhado de rajadas de vento no Gama. O volume de água e a força das rajadas causaram quedas de estruturas, danos a veículos e pontos de alagamento em diferentes setores da região administrativa. No Setor Central, uma árvore de grande porte caiu devido à tempestade e atingiu três carros que estavam estacionados nas proximidades. De acordo com o Corpo de Bombeiros Militar (CBMDF), apesar dos estragos materiais provocados nos automóveis, felizmente não houve registro de vítimas no local.",
+     "local": "Brasil",
+     "agravo": "Outros eventos",
+     "escopo": "DF",
+     "fonte": "Correio Braziliense | Cidades DF",
+     "sigla": "Correio Braziliense",
+     "data": "2026-10-29",
+     "data_fmt": "29 out 2026",
+     "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7530507-chuva-forte-e-ventos-causam-estragos-no-gama-nesta-quinta-feira.html",
+     "dominio": "correiobraziliense.com.br",
+     "nota_ia": null,
+     "pontuacao": 9.5,
+     "n": 10,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "DF",
+     "icone": "alerta",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE43-2026/n10.svg"
+     }
+    }
+   ]
+  },
+  {
+   "escopo": "Brasil",
+   "nome": "Brasil",
+   "itens": [
+    {
+     "ancora": "n3",
+     "titulo": "Reconhecida emergência na cidade catarinense de São Domingos, atingida por queda de granizo",
+     "titulo_original": "Reconhecida emergência na cidade catarinense de São Domingos, atingida por queda de granizo",
+     "resumo": "Cidades com o reconhecimento federal de situação de emergência ou de estado de calamidade pública podem solicitar ao MIDR recursos para ações de defesa civil. A solicitação pelos municípios em situação de emergência deve ser feita por meio do Sistema Integrado de Informações sobre Desastres (S2iD). Com base nas informações enviadas nos planos de trabalho, a equipe técnica da Defesa Civil Nacional avalia as metas e os valores solicitados. Com a aprovação, é publicada portaria no DOU com o valor a ser liberado.",
+     "local": "Brasil",
+     "agravo": "Emergências e desastres",
+     "escopo": "Brasil",
+     "fonte": "www.gov.br",
+     "sigla": "Defesa Civil",
+     "data": "2026-10-26",
+     "data_fmt": "26 out 2026",
+     "url": "https://www.gov.br/mdr/pt-br/noticias-midr/reconhecida-emergencia-na-cidade-catarinense-de-sao-domingos-atingida-por-queda-de-granizo",
+     "dominio": "gov.br",
+     "nota_ia": null,
+     "pontuacao": 11.5,
+     "n": 3,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "DF",
+     "icone": "desastre",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE43-2026/n3.svg"
+     }
+    },
+    {
+     "ancora": "n5",
+     "titulo": "Mpox: governo reforça volume de vacina no Rio para lidar com alta de casos",
+     "titulo_original": "Mpox: governo reforça volume de vacina no Rio para lidar com alta de casos",
+     "resumo": "Rio de Janeiro registrou 74 casos de Mpox entre setembro e outubro. Ministro da saúde Alexandre Padilha nega surto da doença O ministro da Saúde, Alexandre Padilha, reforçou que o Brasil não está vivendo um surto de casos de mpox, causada pelo vírus MPXV, como em 2022. O ministro se manifestou após o Rio de Janeiro registrar 74 casos da doença entre setembro e outubro. MPOX: o @minsaude mantém vigilância ativa junto aos estados e municípios do país, e o SUS está preparado para diagnosticar, tratar e monitorar os casos.",
+     "local": "Brasil",
+     "agravo": "Mpox",
+     "escopo": "Brasil",
+     "fonte": "Metrópoles",
+     "sigla": "Metrópoles",
+     "data": "2026-10-31",
+     "data_fmt": "31 out 2026",
+     "url": "https://www.metropoles.com/saude/mpox-governo-reforca-volumes-de-vacina-no-rio-para-lidar-com-alta-de-casos",
+     "dominio": "metropoles.com",
+     "nota_ia": null,
+     "pontuacao": 10.5,
+     "n": 5,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "RJ",
+     "icone": "virus",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE43-2026/n5.svg"
+     }
+    },
+    {
+     "ancora": "n6",
+     "titulo": "Aulas são suspensas em Itapeva após identificação de parasita na água durante surto de gastroenterite",
+     "titulo_original": "Aulas são suspensas em Itapeva após identificação de parasita na água durante surto de gastroenterite",
+     "resumo": "A Prefeitura de Itapeva (SP) cancelou as aulas da rede municipal e estadual de ensino, nesta quinta-feira (29), após uma análise feita pelo Instituto Adolfo Lutz apontar um parasita na água que estava abastecendo a população. A cidade chegou a registrar 2,6 mil casos de gastroenterite em apenas 20 dias. A decisão do cancelamento das aulas foi informada através das redes sociais da prefeita Adriana Duch Machado (MDB), na noite desta quarta-feira (28). De acordo com o comunicado, a medida busca preservar a saúde dos estudantes, professores e servidores.",
+     "local": "Brasil",
+     "agravo": "Doenças transmitidas por alimentos e água",
+     "escopo": "Brasil",
+     "fonte": "G1",
+     "sigla": "G1",
+     "data": "2026-10-29",
+     "data_fmt": "29 out 2026",
+     "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/29/aulas-sao-suspensas-em-itapeva-apos-identificacao-de-parasita-na-agua-durante-surto-de-gastroenterite.ghtml",
+     "dominio": "g1.globo.com",
+     "nota_ia": null,
+     "pontuacao": 10.0,
+     "n": 6,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "",
+     "icone": "agua",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE43-2026/n6.svg"
+     }
+    },
+    {
+     "ancora": "n7",
+     "titulo": "SP registra quatro casos de hantavirose em 2026; letalidade é de 51%",
+     "titulo_original": "SP registra quatro casos de hantavirose em 2026; letalidade é de 51%",
+     "resumo": "Segundo o governo do estado, uma morte associada ao hantavírus foi confirmada; doença é causada pela exposição à urina ou fezes de roedores O estado de São Paulo registrou, até o momento, quatro casos de hantavirose, doença rara causada pela exposição à urina ou fezes de roedores infectados com o hantavírus. Uma morte associada à infecção foi confirmada em 2026. Segundo o governo de São Paulo, Desde 2007, foram registrados 199 casos de hantavirose no estado. Desses, 101 evoluíram para óbito, o que corresponde a uma letalidade de aproximadamente 51%.",
+     "local": "",
+     "agravo": "Hantavirose",
+     "escopo": "Brasil",
+     "fonte": "CNN Brasil | Saúde",
+     "sigla": "CNN Brasil",
+     "data": "2026-10-28",
+     "data_fmt": "28 out 2026",
+     "url": "https://www.cnnbrasil.com.br/saude/sp-registra-quatro-casos-de-hantavirose-em-2026-letalidade-e-de-51/",
+     "dominio": "cnnbrasil.com.br",
+     "nota_ia": null,
+     "pontuacao": 10.0,
+     "n": 7,
+     "paises": [
+      "BRA",
+      "ARG",
+      "CPV"
+     ],
+     "uf": "SP",
+     "icone": "animal",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE43-2026/n7.svg"
+     }
+    },
+    {
+     "ancora": "n8",
+     "titulo": "Canas suspende aulas em creche após surto de mão-pé-boca",
+     "titulo_original": "Canas suspende aulas em creche após surto de mão-pé-boca",
+     "resumo": "",
+     "local": "",
+     "agravo": "Doença mão-pé-boca",
+     "escopo": "Brasil",
+     "fonte": "G1",
+     "sigla": "G1",
+     "data": "2026-10-28",
+     "data_fmt": "28 out 2026",
+     "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/videos-jornal-vanguarda/video/canas-suspende-aulas-em-creche-apos-surto-de-mao-pe-boca-15139475.ghtml",
+     "dominio": "g1.globo.com",
+     "nota_ia": null,
+     "pontuacao": 10.0,
+     "n": 8,
+     "paises": [
+      "BRA",
+      "UKR"
+     ],
+     "uf": "PB",
+     "icone": "virus",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE43-2026/n8.svg"
+     }
+    },
+    {
+     "ancora": "n9",
+     "titulo": "Painel El Niño: Boletim de outubro é divulgado",
+     "titulo_original": "Painel El Niño: Boletim de outubro é divulgado",
+     "resumo": "Entre novembro de 2026 e janeiro de 2027, há maior probabilidade de chuvas acima da normal no Sul e em partes do Sudeste e Centro-Oeste, e abaixo da normal em grande parte do Norte e em áreas do Nordeste. As temperaturas tendem a ficar acima da normal em quase todo o país.",
+     "local": "Brasil",
+     "agravo": "Saúde ambiental e clima",
+     "escopo": "Brasil",
+     "fonte": "INMET | Notícias",
+     "sigla": "INMET",
+     "data": "2026-10-29",
+     "data_fmt": "29 out 2026",
+     "url": "https://portal.inmet.gov.br/noticias/painel-el-niño-boletim-de-outubro-é-divulgado",
+     "dominio": "portal.inmet.gov.br",
+     "nota_ia": null,
+     "pontuacao": 9.5,
+     "n": 9,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "",
+     "icone": "clima",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE43-2026/n9.svg"
+     }
+    }
+   ]
+  },
+  {
+   "escopo": "Américas",
+   "nome": "Américas",
+   "itens": [
+    {
+     "ancora": "n4",
+     "titulo": "Virus Shamonda: ¿qué significa el primer caso humano para las Américas?",
+     "titulo_original": "Virus Shamonda: ¿qué significa el primer caso humano para las Américas?",
+     "resumo": "Washington, DC, 28 de octubre de 2026 (OPS)- Tras la notificación en Francia del primer caso documentado de enfermedad humana causada por el virus Shamonda, Jairo Méndez Rico, asesor regional en enfermedades virales de la Organización Panamericana de la Salud (OPS), explica qué se sabe hasta ahora, cuál es la situación en las Américas y por qué es importante mantener la vigilancia. La Organización Mundial de la Salud (OMS) informó que, hasta el momento, solo se ha notificado un caso humano de enfermedad por el virus Shamonda.",
+     "local": "",
+     "agravo": "Patógeno novo ou incomum em humanos",
+     "escopo": "Américas",
+     "fonte": "OPAS | Notícias",
+     "sigla": "OPAS",
+     "data": "2026-10-28",
+     "data_fmt": "28 out 2026",
+     "url": "https://www.paho.org/es/noticias/28-10-2026-virus-shamonda-que-significa-primer-caso-humano-para-americas",
+     "dominio": "paho.org",
+     "nota_ia": null,
+     "pontuacao": 11.0,
+     "n": 4,
+     "paises": [],
+     "uf": "",
+     "icone": "virus",
+     "visual": {
+      "tipo": "icone"
+     }
+    }
+   ]
+  }
+ ],
+ "destaques": [
+  {
+   "ancora": "n1",
+   "titulo": "Defesa Civil de SP alerta para os riscos de se enfrentar enchentes e alagamentos",
+   "titulo_original": "Defesa Civil de SP alerta para os riscos de se enfrentar enchentes e alagamentos",
+   "resumo": "As chuvas intensas provocadas pelo fenômeno El Niño exigem atenção redobrada por parte da população. Na noite deste sábado (24) e madrugada de domingo (25), os temporais provocaram alagamentos, queda de árvores, destelhamento e deslizamento de terra em várias regiões do estado. Diante do alto risco à segurança, a Defesa Civil alerta para que a população evite transitar em áreas alagadas, onde corre o risco de cair em um buraco ou boca de lobo aberta que fica escondida sob as águas. Outro risco grande é tentar atravessar ruas inundadas ou trechos com correnteza, a pé ou de carro.",
+   "local": "Brasil",
+   "agravo": "Emergências e desastres",
+   "escopo": "Brasil",
+   "fonte": "agenciasp.sp.gov.br",
+   "sigla": "Defesa Civil",
+   "data": "2026-10-26",
+   "data_fmt": "26 out 2026",
+   "url": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-de-sp-alerta-para-os-riscos-de-se-enfrentar-enchentes-e-alagamentos/",
+   "dominio": "agenciasp.sp.gov.br",
+   "nota_ia": null,
+   "pontuacao": 13.5,
+   "n": 1,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "SP",
+   "icone": "desastre",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE43-2026/n1.svg"
+   }
+  },
+  {
+   "ancora": "n2",
+   "titulo": "Araras debilitadas são resgatadas no DF; BPMA suspeita de gripe aviária",
+   "titulo_original": "Araras debilitadas são resgatadas no DF; BPMA suspeita de gripe aviária",
+   "resumo": "Araras debilitadas são resgatadas no DF pelo Batalhão de Polícia Ambiental De acordo com a Polícia Militar Ambiental, seis aves foram resgatadas na última semana Uma sequência de resgates de araras-canindé debilitadas em diferentes regiões do Distrito Federal tem chamado a atenção do Batalhão de Polícia Militar Ambiental (BPMA). Entre terça-feira (27/10) e este sábado (31/10), seis aves foram recolhidas após apresentarem sinais de fraqueza, penas arrepiadas e dificuldade ou incapacidade de voar.",
+   "local": "Brasil",
+   "agravo": "Influenza por novo subtipo",
+   "escopo": "DF",
+   "fonte": "Metrópoles",
+   "sigla": "Metrópoles",
+   "data": "2026-10-31",
+   "data_fmt": "31 out 2026",
+   "url": "https://www.metropoles.com/distrito-federal/araras-debilitadas-sao-resgatadas-no-df-bpma-suspeita-de-gripe-aviaria",
+   "dominio": "metropoles.com",
+   "nota_ia": null,
+   "pontuacao": 13.0,
+   "n": 2,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "DF",
+   "icone": "respiratorio",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE43-2026/n2.svg"
+   }
+  },
+  {
+   "ancora": "n3",
+   "titulo": "Reconhecida emergência na cidade catarinense de São Domingos, atingida por queda de granizo",
+   "titulo_original": "Reconhecida emergência na cidade catarinense de São Domingos, atingida por queda de granizo",
+   "resumo": "Cidades com o reconhecimento federal de situação de emergência ou de estado de calamidade pública podem solicitar ao MIDR recursos para ações de defesa civil. A solicitação pelos municípios em situação de emergência deve ser feita por meio do Sistema Integrado de Informações sobre Desastres (S2iD). Com base nas informações enviadas nos planos de trabalho, a equipe técnica da Defesa Civil Nacional avalia as metas e os valores solicitados. Com a aprovação, é publicada portaria no DOU com o valor a ser liberado.",
+   "local": "Brasil",
+   "agravo": "Emergências e desastres",
+   "escopo": "Brasil",
+   "fonte": "www.gov.br",
+   "sigla": "Defesa Civil",
+   "data": "2026-10-26",
+   "data_fmt": "26 out 2026",
+   "url": "https://www.gov.br/mdr/pt-br/noticias-midr/reconhecida-emergencia-na-cidade-catarinense-de-sao-domingos-atingida-por-queda-de-granizo",
+   "dominio": "gov.br",
+   "nota_ia": null,
+   "pontuacao": 11.5,
+   "n": 3,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "DF",
+   "icone": "desastre",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE43-2026/n3.svg"
+   }
+  },
+  {
+   "ancora": "n4",
+   "titulo": "Virus Shamonda: ¿qué significa el primer caso humano para las Américas?",
+   "titulo_original": "Virus Shamonda: ¿qué significa el primer caso humano para las Américas?",
+   "resumo": "Washington, DC, 28 de octubre de 2026 (OPS)- Tras la notificación en Francia del primer caso documentado de enfermedad humana causada por el virus Shamonda, Jairo Méndez Rico, asesor regional en enfermedades virales de la Organización Panamericana de la Salud (OPS), explica qué se sabe hasta ahora, cuál es la situación en las Américas y por qué es importante mantener la vigilancia. La Organización Mundial de la Salud (OMS) informó que, hasta el momento, solo se ha notificado un caso humano de enfermedad por el virus Shamonda.",
+   "local": "",
+   "agravo": "Patógeno novo ou incomum em humanos",
+   "escopo": "Américas",
+   "fonte": "OPAS | Notícias",
+   "sigla": "OPAS",
+   "data": "2026-10-28",
+   "data_fmt": "28 out 2026",
+   "url": "https://www.paho.org/es/noticias/28-10-2026-virus-shamonda-que-significa-primer-caso-humano-para-americas",
+   "dominio": "paho.org",
+   "nota_ia": null,
+   "pontuacao": 11.0,
+   "n": 4,
+   "paises": [],
+   "uf": "",
+   "icone": "virus",
+   "visual": {
+    "tipo": "icone"
+   }
+  },
+  {
+   "ancora": "n5",
+   "titulo": "Mpox: governo reforça volume de vacina no Rio para lidar com alta de casos",
+   "titulo_original": "Mpox: governo reforça volume de vacina no Rio para lidar com alta de casos",
+   "resumo": "Rio de Janeiro registrou 74 casos de Mpox entre setembro e outubro. Ministro da saúde Alexandre Padilha nega surto da doença O ministro da Saúde, Alexandre Padilha, reforçou que o Brasil não está vivendo um surto de casos de mpox, causada pelo vírus MPXV, como em 2022. O ministro se manifestou após o Rio de Janeiro registrar 74 casos da doença entre setembro e outubro. MPOX: o @minsaude mantém vigilância ativa junto aos estados e municípios do país, e o SUS está preparado para diagnosticar, tratar e monitorar os casos.",
+   "local": "Brasil",
+   "agravo": "Mpox",
+   "escopo": "Brasil",
+   "fonte": "Metrópoles",
+   "sigla": "Metrópoles",
+   "data": "2026-10-31",
+   "data_fmt": "31 out 2026",
+   "url": "https://www.metropoles.com/saude/mpox-governo-reforca-volumes-de-vacina-no-rio-para-lidar-com-alta-de-casos",
+   "dominio": "metropoles.com",
+   "nota_ia": null,
+   "pontuacao": 10.5,
+   "n": 5,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "RJ",
+   "icone": "virus",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE43-2026/n5.svg"
+   }
+  },
+  {
+   "ancora": "n6",
+   "titulo": "Aulas são suspensas em Itapeva após identificação de parasita na água durante surto de gastroenterite",
+   "titulo_original": "Aulas são suspensas em Itapeva após identificação de parasita na água durante surto de gastroenterite",
+   "resumo": "A Prefeitura de Itapeva (SP) cancelou as aulas da rede municipal e estadual de ensino, nesta quinta-feira (29), após uma análise feita pelo Instituto Adolfo Lutz apontar um parasita na água que estava abastecendo a população. A cidade chegou a registrar 2,6 mil casos de gastroenterite em apenas 20 dias. A decisão do cancelamento das aulas foi informada através das redes sociais da prefeita Adriana Duch Machado (MDB), na noite desta quarta-feira (28). De acordo com o comunicado, a medida busca preservar a saúde dos estudantes, professores e servidores.",
+   "local": "Brasil",
+   "agravo": "Doenças transmitidas por alimentos e água",
+   "escopo": "Brasil",
+   "fonte": "G1",
+   "sigla": "G1",
+   "data": "2026-10-29",
+   "data_fmt": "29 out 2026",
+   "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/29/aulas-sao-suspensas-em-itapeva-apos-identificacao-de-parasita-na-agua-durante-surto-de-gastroenterite.ghtml",
+   "dominio": "g1.globo.com",
+   "nota_ia": null,
+   "pontuacao": 10.0,
+   "n": 6,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "",
+   "icone": "agua",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE43-2026/n6.svg"
+   }
+  },
+  {
+   "ancora": "n7",
+   "titulo": "SP registra quatro casos de hantavirose em 2026; letalidade é de 51%",
+   "titulo_original": "SP registra quatro casos de hantavirose em 2026; letalidade é de 51%",
+   "resumo": "Segundo o governo do estado, uma morte associada ao hantavírus foi confirmada; doença é causada pela exposição à urina ou fezes de roedores O estado de São Paulo registrou, até o momento, quatro casos de hantavirose, doença rara causada pela exposição à urina ou fezes de roedores infectados com o hantavírus. Uma morte associada à infecção foi confirmada em 2026. Segundo o governo de São Paulo, Desde 2007, foram registrados 199 casos de hantavirose no estado. Desses, 101 evoluíram para óbito, o que corresponde a uma letalidade de aproximadamente 51%.",
+   "local": "",
+   "agravo": "Hantavirose",
+   "escopo": "Brasil",
+   "fonte": "CNN Brasil | Saúde",
+   "sigla": "CNN Brasil",
+   "data": "2026-10-28",
+   "data_fmt": "28 out 2026",
+   "url": "https://www.cnnbrasil.com.br/saude/sp-registra-quatro-casos-de-hantavirose-em-2026-letalidade-e-de-51/",
+   "dominio": "cnnbrasil.com.br",
+   "nota_ia": null,
+   "pontuacao": 10.0,
+   "n": 7,
+   "paises": [
+    "BRA",
+    "ARG",
+    "CPV"
+   ],
+   "uf": "SP",
+   "icone": "animal",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE43-2026/n7.svg"
+   }
+  },
+  {
+   "ancora": "n8",
+   "titulo": "Canas suspende aulas em creche após surto de mão-pé-boca",
+   "titulo_original": "Canas suspende aulas em creche após surto de mão-pé-boca",
+   "resumo": "",
+   "local": "",
+   "agravo": "Doença mão-pé-boca",
+   "escopo": "Brasil",
+   "fonte": "G1",
+   "sigla": "G1",
+   "data": "2026-10-28",
+   "data_fmt": "28 out 2026",
+   "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/videos-jornal-vanguarda/video/canas-suspende-aulas-em-creche-apos-surto-de-mao-pe-boca-15139475.ghtml",
+   "dominio": "g1.globo.com",
+   "nota_ia": null,
+   "pontuacao": 10.0,
+   "n": 8,
+   "paises": [
+    "BRA",
+    "UKR"
+   ],
+   "uf": "PB",
+   "icone": "virus",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE43-2026/n8.svg"
+   }
+  },
+  {
+   "ancora": "n9",
+   "titulo": "Painel El Niño: Boletim de outubro é divulgado",
+   "titulo_original": "Painel El Niño: Boletim de outubro é divulgado",
+   "resumo": "Entre novembro de 2026 e janeiro de 2027, há maior probabilidade de chuvas acima da normal no Sul e em partes do Sudeste e Centro-Oeste, e abaixo da normal em grande parte do Norte e em áreas do Nordeste. As temperaturas tendem a ficar acima da normal em quase todo o país.",
+   "local": "Brasil",
+   "agravo": "Saúde ambiental e clima",
+   "escopo": "Brasil",
+   "fonte": "INMET | Notícias",
+   "sigla": "INMET",
+   "data": "2026-10-29",
+   "data_fmt": "29 out 2026",
+   "url": "https://portal.inmet.gov.br/noticias/painel-el-niño-boletim-de-outubro-é-divulgado",
+   "dominio": "portal.inmet.gov.br",
+   "nota_ia": null,
+   "pontuacao": 9.5,
+   "n": 9,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "",
+   "icone": "clima",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE43-2026/n9.svg"
+   }
+  },
+  {
+   "ancora": "n10",
+   "titulo": "Chuva forte e ventos causam estragos no Gama nesta quinta-feira",
+   "titulo_original": "Chuva forte e ventos causam estragos no Gama nesta quinta-feira",
+   "resumo": "A tarde desta quinta-feira (29/10) foi marcada por transtornos e estragos provocados por um temporal acompanhado de rajadas de vento no Gama. O volume de água e a força das rajadas causaram quedas de estruturas, danos a veículos e pontos de alagamento em diferentes setores da região administrativa. No Setor Central, uma árvore de grande porte caiu devido à tempestade e atingiu três carros que estavam estacionados nas proximidades. De acordo com o Corpo de Bombeiros Militar (CBMDF), apesar dos estragos materiais provocados nos automóveis, felizmente não houve registro de vítimas no local.",
+   "local": "Brasil",
+   "agravo": "Outros eventos",
+   "escopo": "DF",
+   "fonte": "Correio Braziliense | Cidades DF",
+   "sigla": "Correio Braziliense",
+   "data": "2026-10-29",
+   "data_fmt": "29 out 2026",
+   "url": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7530507-chuva-forte-e-ventos-causam-estragos-no-gama-nesta-quinta-feira.html",
+   "dominio": "correiobraziliense.com.br",
+   "nota_ia": null,
+   "pontuacao": 9.5,
+   "n": 10,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "DF",
+   "icone": "alerta",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE43-2026/n10.svg"
+   }
+  }
+ ],
+ "outras": [
+  {
+   "titulo": "Reconhecida emergência na cidade catarinense de São Domingos, atingida por queda de granizo",
+   "fonte": "Defesa Civil",
+   "data_fmt": "26 out 2026",
+   "url": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-na-cidade-catarinense-de-sao-domingos-atingida-por-queda-de-granizo",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Defesa Civil alerta para possibilidade de temporais, gran...",
+   "fonte": "Defesa Civil",
+   "data_fmt": "30 out 2026",
+   "url": "https://www.vacaria.rs.gov.br/noticia/5737/defesa-civil-alerta-para-possibilidade-de-temporais-granizo-e-ventos-fortes-em-vacaria/",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Defesa Civil alerta para risco de temporais durante feriadão – CGNotícias",
+   "fonte": "Defesa Civil",
+   "data_fmt": "29 out 2026",
+   "url": "https://www.campogrande.ms.gov.br/cgnoticias/noticia/defesa-civil-alerta-para-risco-de-temporais-durante-feriadao/",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Defesa Civil de Lages alerta para retorno das chuvas intensas e risco de temporais nesta quinta (29) e sexta-feira (30)",
+   "fonte": "Defesa Civil",
+   "data_fmt": "28 out 2026",
+   "url": "https://www.lages.sc.gov.br/noticia-descricao/11153/defesa-civil-de-lages-alerta-para-retorno-das-chuvas-intensas-e-risco-de-temporais-nesta-quinta-(29)-e-sexta-feira-(30)",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Defesa Civil alerta para temporais em São Paulo, com chuvas mais abrangentes na quinta-feira (29)",
+   "fonte": "Defesa Civil",
+   "data_fmt": "27 out 2026",
+   "url": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-alerta-para-temporais-em-sao-paulo-com-chuvas-mais-abrangentes-na-quinta-feira-29/",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Reconhecida emergência em seis cidades paranaenses atingidas por vendaval",
+   "fonte": "Defesa Civil",
+   "data_fmt": "26 out 2026",
+   "url": "https://www.gov.br/mdr/pt-br/noticias-midr/reconhecida-emergencia-em-seis-cidades-paranaenses-atingidas-por-vendaval",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Após surto de virose, Câmara abre CEI para investigar qualidade da água distribuída pela Sabesp em Itapeva",
+   "fonte": "G1",
+   "data_fmt": "27 out 2026",
+   "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/27/apos-surto-de-virose-camara-abre-cei-para-investigar-qualidade-da-agua-distribuida-pela-sabesp-em-itapeva.ghtml",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Rio de Janeiro registra 74 casos de Mpox em dois meses",
+   "fonte": "Metrópoles",
+   "data_fmt": "31 out 2026",
+   "url": "https://www.metropoles.com/brasil/rio-de-janeiro-registra-74-casos-de-mpox-em-dois-meses",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "RJ registra 211 casos de Mpox em 2026, supera total de 2025 e investiga outros 119 suspeitos",
+   "fonte": "G1",
+   "data_fmt": "31 out 2026",
+   "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/31/rj-registra-211-casos-de-mpox-em-2026-supera-total-de-2025-e-investiga-outros-119-suspeitos.ghtml",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Casos de Mpox aumentam 7 vezes no Rio em dois meses; capital está sem vacina contra a doença",
+   "fonte": "G1",
+   "data_fmt": "30 out 2026",
+   "url": "https://g1.globo.com/google/amp/rj/rio-de-janeiro/noticia/2026/10/30/casos-de-mpox-aumentam-no-rio.ghtml",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "InfoGripe: cinco estados têm SRAG em nível de alerta ou risco, com sinal de crescimento",
+   "fonte": "Fiocruz",
+   "data_fmt": "29 out 2026",
+   "url": "https://agencia.fiocruz.br/infogripe-cinco-estados-tem-srag-em-nivel-de-alerta-ou-risco-com-sinal-de-crescimento",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Defesa Civil alerta para previsão de chuvas fortes em São Paulo nesta quarta e quinta-feira",
+   "fonte": "Defesa Civil",
+   "data_fmt": "28 out 2026",
+   "url": "https://capivari.sp.gov.br/portal/defesa-civil-alerta-para-previsao-de-chuvas-fortes-em-sao-paulo-nesta-quarta-e-quinta-feira/",
+   "escopo": "Brasil"
+  }
+ ],
+ "total_coletado": 429,
+ "fontes": [
+  "Africa CDC",
+  "Agência Brasil",
+  "Agência Fiocruz de Notícias",
+  "CDC",
+  "CNN",
+  "CNN Brasil",
+  "Cemaden",
+  "Correio Braziliense",
+  "Defesa Civil",
+  "Defesa Civil Nacional",
+  "ECDC",
+  "G1",
+  "INMET",
+  "Metrópoles",
+  "Ministério da Saúde",
+  "OMS",
+  "OPAS",
+  "SES-GO"
+ ],
+ "ia": false,
+ "contagem_escopo": {
+  "DF": 2,
+  "Brasil": 7,
+  "Américas": 1,
+  "Internacional": 0
+ },
+ "mapa": "edicoes/img/SE43-2026/mapa-semana.svg",
+ "mapa_escuro": "edicoes/img/SE43-2026/mapa-semana-escuro.svg",
+ "pdf": "edicoes/clipping-SE43-2026.pdf"
+}

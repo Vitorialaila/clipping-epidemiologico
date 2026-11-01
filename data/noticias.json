@@ -1,5 +1,57 @@
 [
  {
+  "id": "0935a57d782f47",
+  "titulo": "Hoje é Dia: datas, fatos e feriados de novembro de 2026",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/hoje-e-dia-datas-fatos-e-feriados-de-novembro-de-2026",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-11-01",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "Iniciamos esta edição do Hoje é Dia com a campanha mais importante do mês: o Novembro Azul , de conscientização para o combate ao câncer de próstata. A doença é o tipo de tumor mais frequente entre homens no Brasil (excluindo o câncer de pele não melanoma), com estimativas de 77.920 novos casos por ano para o triênio de 2026 a 2028, segundo o Instituto Nacional de Câncer (INCA). Os veículos da Empresa Brasil de Comunicação ( EBC ) sempre deram grande destaque à mobilização. A Agência Brasil , inclusive, publicou uma matéria em 2023 mostrando que a campanha deve alcançar todas as pessoas que podem ser acometidas pela doença, o que inclui as mulheres transexuais e travestis. O Revista Rio , da Rádio Nacional , mostrou em 2025 que o preconceito ainda é um vilão no enfrentamento à doença. O Novembro Azul também recebeu grande destaque da TV Brasil , em edição do Repórter São Paulo de 2022. Logo no começo do mês temos o Dia de Finados , data dedicada a homenagear a memória dos entes queridos que faleceram. O Repórter Brasil , da TV Brasil , explicou em 2012 como a data surgiu. Em 2016, o Repórter DF , também da TV Brasil , mostrou como a tradição de visitar os cemitérios é ligada principalmente ao catolicismo. O Tarde Nacional , da Rádio Nacional , em 2022, entrevistou uma psicóloga sobre qual é o melhor comportamento e o que dizer ou não para uma pessoa enlutada. Escute: O Dia Mundial em Memória das Vítimas de Trânsito é uma data móvel, que sempre acontece no terceiro domingo de…",
+  "coletado_em": "2026-11-01T13:19:58+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 10.5,
+  "agravos": [
+   "Emergências e desastres",
+   "HIV/aids e IST"
+  ],
+  "escopo": "DF",
+  "termos_evento": [
+   "investigacao"
+  ],
+  "categoria": "monitoramento",
+  "motivo": "HIV/aids e IST (notificação semanal) · sem ocorrência relatada no título · DF e RIDE"
+ },
+ {
+  "id": "3a199630ba0a3e",
+  "titulo": "Colômbia confirma casos de malária vindos do Congo e investiga ebola",
+  "url": "https://www.metropoles.com/saude/colombia-confirma-casos-de-malaria-vindos-do-congo-e-investiga-ebola",
+  "fonte_id": "metropoles-busca",
+  "fonte": "Metrópoles",
+  "sigla": "Metrópoles",
+  "idioma": "pt",
+  "data": "2026-11-01",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-01T13:19:58+00:00",
+  "municipios": [],
+  "pontuacao": 9.0,
+  "agravos": [
+   "Doença pelo vírus Ebola",
+   "Malária"
+  ],
+  "escopo": "Américas",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "Doença pelo vírus Ebola (notificação imediata) · confirma · Américas"
+ },
+ {
   "id": "9509e0d363f464",
   "titulo": "Calor extremo: saiba como receber alertas da Defesa Civil de Maceió no celular",
   "url": "https://maceio.al.gov.br/noticias/defesa-civil/calor-extremo-saiba-como-receber-alertas-da-defesa-civil-de-maceio-no-celular",
@@ -21,6 +73,145 @@
   "termos_evento": [],
   "categoria": "monitoramento",
   "motivo": "Saúde ambiental e clima · estudo, orientação ou relato retrospectivo · Brasil"
+ },
+ {
+  "id": "eddb1e87c177ca",
+  "titulo": "Campanha alerta para doença em diabéticos que pode causar cegueira",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/campanha-alerta-para-doenca-em-diabeticos-que-pode-causar-cegueira",
+  "fonte_id": "agencia-brasil-saude",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-11-01",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "A partir deste domingo (1º), o Conselho Brasileiro de Oftalmologia (CBO) inicia a campanha 24 Dias pelo Diabetes. O objetivo é conscientizar a população em geral e, sobretudo, quem vive com diabetes, sobre a prevenção, o diagnóstico e o tratamento da retinopatia diabética . A doença figura como uma das principais causas de perda visual evitável entre adultos em idade produtiva. Dados da entidade mostram ainda que uma em cada três pessoas com diabetes no Brasil, em algum momento da vida, vai desenvolver o quadro de retinopatia diabética.",
+  "coletado_em": "2026-11-01T13:19:58+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alerta para"
+  ],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "496e38b2a2d884",
+  "titulo": "Câncer de próstata matou 50 homens por dia no país em 2025",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/cancer-de-prostata-matou-50-homens-por-dia-no-pais-em-2025",
+  "fonte_id": "agencia-brasil-saude",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-11-01",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "Cerca de 18,5 mil homens morreram no Brasil em 2025 vítimas do câncer de próstata. Isso equivale a 50 mortes por dia, segundo dados do Ministério da Saúde, divulgados pela Sociedade Brasileira de Urologia (SBU). De acordo com a SBU, de 2017 a setembro deste ano, foram registradas mais de 160 mil mortes pela doença. E há uma tendência de alta. O número de óbitos em 2025, é 20% maior do que há dez anos (15,4 mil óbitos).",
+  "coletado_em": "2026-11-01T13:19:58+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "tendencia",
+   "obitos"
+  ],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "4dc00445d4bf6d",
+  "titulo": "Pelo corpo e pela mente: Circuito na Flona une esporte e natureza",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7531502-pelo-corpo-e-pela-mente-circuito-na-flona-une-esporte-e-natureza.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-01",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-01T13:19:58+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "37955d770689cd",
+  "titulo": "Chuvas no DF causam infiltrações em casas em Sobradinho e Planaltina",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7531643-chuvas-no-df-causam-infiltracoes-em-casas-em-sobradinho-e-planaltina.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-01",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-01T13:19:58+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "279aabc536a989",
+  "titulo": "Domingo (1°) no DF será de trovoadas e Finados (2) terá céu encoberto",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7531633-domingo-1-no-df-sera-de-trovoadas-e-finados-2-tera-ceu-encoberto.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-01",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-01T13:19:58+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "aa00e96d064df2",
+  "titulo": "Cemitérios se preparam para receber 400 mil pessoas no Dia de Finados",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7531496-cemiterios-se-preparam-para-receber-400-mil-pessoas-no-dia-de-finados.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-01",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-01T13:19:58+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
  },
  {
   "id": "f2379ce19ae82f",
@@ -743,6 +934,32 @@
   "termos_evento": [],
   "categoria": "monitoramento",
   "motivo": ""
+ },
+ {
+  "id": "a90cb9d2ad67e0",
+  "titulo": "Defesa Civil alerta para possibilidade de temporais, gran...",
+  "url": "https://www.vacaria.rs.gov.br/noticia/5737/defesa-civil-alerta-para-possibilidade-de-temporais-granizo-e-ventos-fortes-em-vacaria/",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Prefeitura Municipal de Vacaria",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-10-30",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "",
+  "coletado_em": "2026-11-01T13:19:58+00:00",
+  "municipios": [],
+  "pontuacao": 11.0,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alerta para"
+  ],
+  "categoria": "monitoramento",
+  "motivo": "Emergências e desastres · aviso, previsão ou sem impacto relatado · Brasil"
  },
  {
   "id": "b3a6bf26f99855",

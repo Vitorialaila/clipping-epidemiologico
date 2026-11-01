@@ -1,5 +1,45 @@
 [
  {
+  "t": "Hoje é Dia: datas, fatos e feriados de novembro de 2026",
+  "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/hoje-e-dia-datas-fatos-e-feriados-de-novembro-de-2026",
+  "d": "2026-11-01",
+  "df": "01 nov 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Geral",
+  "e": "DF",
+  "a": [
+   "Emergências e desastres",
+   "HIV/aids e IST"
+  ],
+  "p": 10.5,
+  "se": "2026-44",
+  "r": "Iniciamos esta edição do Hoje é Dia com a campanha mais importante do mês: o Novembro Azul , de conscientização para o combate ao câncer de próstata. A doença é o tipo de tumor mais frequente entre homens no Brasil (excluindo o câncer de pele não melanoma)…",
+  "i": "virus",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Colômbia confirma casos de malária vindos do Congo e investiga ebola",
+  "u": "https://www.metropoles.com/saude/colombia-confirma-casos-de-malaria-vindos-do-congo-e-investiga-ebola",
+  "d": "2026-11-01",
+  "df": "01 nov 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "Américas",
+  "a": [
+   "Doença pelo vírus Ebola",
+   "Malária"
+  ],
+  "p": 9.0,
+  "se": "2026-44",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Calor extremo: saiba como receber alertas da Defesa Civil de Maceió no celular",
   "u": "https://maceio.al.gov.br/noticias/defesa-civil/calor-extremo-saiba-como-receber-alertas-da-defesa-civil-de-maceio-no-celular",
   "d": "2026-11-01",
@@ -125,6 +165,25 @@
   "se": "2026-43",
   "r": "O Instituto Nacional de Meteorologia (Inmet) divulgou alertas de perigo potencial de chuvas intensas neste sábado (31) em diversos partes do país. O aviso amarelo vale para partes do Sudeste, Norte e Centro-Oeste, além do sul da Bahia. A previsão é de chuvas…",
   "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Defesa Civil alerta para possibilidade de temporais, gran...",
+  "u": "https://www.vacaria.rs.gov.br/noticia/5737/defesa-civil-alerta-para-possibilidade-de-temporais-granizo-e-ventos-fortes-em-vacaria/",
+  "d": "2026-10-30",
+  "df": "30 out 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura Municipal de Vacaria",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 11.0,
+  "se": "2026-43",
+  "r": "",
+  "i": "desastre",
   "m": [],
   "c": "monitoramento"
  },
