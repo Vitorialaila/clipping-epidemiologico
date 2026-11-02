@@ -20,6 +20,60 @@
   "c": "monitoramento"
  },
  {
+  "t": "MG registra 33 casos de Mpox; novo caso foi confirmado neste fim de semana",
+  "u": "https://www.cnnbrasil.com.br/saude/mg-registra-33-casos-de-mpox-novo-caso-foi-confirmado-neste-fim-de-semana/",
+  "d": "2026-11-02",
+  "df": "02 nov 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Washington reports first US bird flu death of 2026; health officials say risk to the public is low",
+  "u": "https://edition.cnn.com/2026/11/02/health/bird-flu-death-2026",
+  "d": "2026-11-02",
+  "df": "02 nov 2026",
+  "f": "CNN",
+  "fn": "CNN | Health",
+  "e": "Internacional",
+  "a": [
+   "Influenza por novo subtipo"
+  ],
+  "p": 8.0,
+  "se": "2026-44",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "First US bird flu death of 2026 reported in Washington; health officials say the risk to public is low",
+  "u": "https://edition.cnn.com/2026/11/02/health/bird-flu-death-2026",
+  "d": "2026-11-02",
+  "df": "02 nov 2026",
+  "f": "CNN",
+  "fn": "CNN",
+  "e": "Internacional",
+  "a": [
+   "Influenza por novo subtipo"
+  ],
+  "p": 8.0,
+  "se": "2026-44",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Temporal com ventos e granizo deixa rastro de estragos no Recanto das Emas",
   "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7531730-temporal-com-ventos-e-granizo-deixa-rastro-de-estragos-no-recanto-das-emas.html",
   "d": "2026-11-01",
@@ -136,6 +190,24 @@
    "Distrito Federal"
   ],
   "c": "alerta"
+ },
+ {
+  "t": "Notícia - Defesa Civil Estadual alerta para onda de calor e risco elevado de incêndios em SP",
+  "u": "https://www.itapetininga.sp.gov.br/noticia/10739/defesa-civil-estadual-alerta-para-onda-de-calor-e-risco-elevado-de-incendios-em-sp/",
+  "d": "2026-10-31",
+  "df": "31 out 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura Municipal de ITAPETININGA",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 12.0,
+  "se": "2026-43",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Mpox: governo reforça volume de vacina no Rio para lidar com alta de casos",
