@@ -1,5 +1,99 @@
 [
  {
+  "id": "1b286760646668",
+  "titulo": "Desmatamento e queimadas colocam em risco preservação das árvores do Cerrado",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7531174-desmatamento-e-queimadas-colocam-em-risco-preservacao-das-arvores-do-cerrado.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-02",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-02T11:00:26+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 10.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · DF e RIDE"
+ },
+ {
+  "id": "8616e4d98f7548",
+  "titulo": "A nova correlação de forças na CLDF após a reeleição de Celina Leão",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7530273-a-nova-correlacao-de-forcas-na-cldf-apos-a-reeleicao-de-celina-leao.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-02",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-02T11:00:26+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "8ad685b1ab9528",
+  "titulo": "Atendimento por IA vira labirinto para o consumidor",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7529590-atendimento-por-ia-vira-labirinto-para-o-consumidor.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-02",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-02T11:00:26+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "71ddb13b6bc82a",
+  "titulo": "Brasilienses antecipam homenagens no Dia de Finados",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7531229-brasilienses-antecipam-homenagens-no-dia-de-finados.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-02",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-02T11:00:26+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
   "id": "6791dbf0a72161",
   "titulo": "Temporal com ventos e granizo deixa rastro de estragos no Recanto das Emas",
   "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7531730-temporal-com-ventos-e-granizo-deixa-rastro-de-estragos-no-recanto-das-emas.html",
@@ -618,6 +712,29 @@
   "se": "2026-44",
   "descricao": "",
   "coletado_em": "2026-11-02T02:29:44+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "edd29188500d01",
+  "titulo": "Bombeiros buscam mulher arrastada em cachoeira no Recanto das Emas",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7531829-bombeiros-buscam-mulher-arrastada-em-cachoeira-no-recanto-das-emas.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-01",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-02T11:00:26+00:00",
   "municipios": [
    "Distrito Federal"
   ],
@@ -9146,6 +9263,29 @@
   "termos_evento": [],
   "categoria": "monitoramento",
   "motivo": ""
+ },
+ {
+  "id": "3c2ac881c0ba49",
+  "titulo": "Strengthening Africa’s outbreak-ready evidence generation capabilities",
+  "url": "https://africacdc.org/news-item/strengthening-africas-outbreak-ready-evidence-generation-capabilities/",
+  "fonte_id": "africa-cdc",
+  "fonte": "Africa CDC | Notícias",
+  "sigla": "Africa CDC",
+  "idioma": "en",
+  "data": "2026-10-26",
+  "data_estimada": false,
+  "se": "2026-43",
+  "descricao": "26 October 2026; OSLO; — CEPI’s Research Preparedness Program, which aims to strengthen regional clinical trial readiness and emergency evidence generation, today announced up to US$8.2 million in additional funding to the Technical Coordinating Partners leading its West Africa component — the International Vaccine Institute (IVI) and MRC Unit The Gambia at LSHTM (MRCG) — […] The post Strengthening Africa’s outbreak-ready evidence generation capabilities appeared first on Africa CDC .",
+  "coletado_em": "2026-11-02T11:00:26+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Internacional",
+  "termos_evento": [
+   "outbreak"
+  ],
+  "categoria": "monitoramento",
+  "motivo": "estudo, orientação ou relato retrospectivo · internacional"
  },
  {
   "id": "c55105641d65ac",
