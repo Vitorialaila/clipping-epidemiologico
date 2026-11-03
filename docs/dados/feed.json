@@ -20,6 +20,24 @@
   "c": "monitoramento"
  },
  {
+  "t": "Restrição de água potável após surto de virose muda rotina dos moradores de Itapeva",
+  "u": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/02/restricao-de-agua-potavel-apos-surto-de-virose-muda-rotina-dos-moradores-de-itapeva.ghtml",
+  "d": "2026-11-02",
+  "df": "02 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Doenças transmitidas por alimentos e água"
+  ],
+  "p": 10.0,
+  "se": "2026-44",
+  "r": "",
+  "i": "agua",
+  "m": [],
+  "c": "atencao"
+ },
+ {
   "t": "MG registra 33 casos de Mpox; novo caso foi confirmado neste fim de semana",
   "u": "https://www.cnnbrasil.com.br/saude/mg-registra-33-casos-de-mpox-novo-caso-foi-confirmado-neste-fim-de-semana/",
   "d": "2026-11-02",
@@ -36,6 +54,24 @@
   "i": "virus",
   "m": [],
   "c": "alerta"
+ },
+ {
+  "t": "Child in New York dies after contracting measles, governor says",
+  "u": "https://edition.cnn.com/2026/11/02/health/new-york-measles-death",
+  "d": "2026-11-02",
+  "df": "02 nov 2026",
+  "f": "CNN",
+  "fn": "CNN | Health",
+  "e": "Américas",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 8.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Washington reports first US bird flu death of 2026; health officials say risk to the public is low",
@@ -111,6 +147,25 @@
   "i": "virus",
   "m": [],
   "c": "alerta"
+ },
+ {
+  "t": "Tempestades com vento e granizo voltam a atuar no território gaúcho neste domingo (1º)",
+  "u": "https://www.estado.rs.gov.br/tempestades-com-vento-e-granizo-voltam-a-atuar-no-territorio-gaucho-neste-domingo-1",
+  "d": "2026-11-01",
+  "df": "01 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Portal do Estado do Rio Grande do Sul",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 11.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Hoje é Dia: datas, fatos e feriados de novembro de 2026",
@@ -406,6 +461,24 @@
   "se": "2026-43",
   "r": "Barbados eliminates mother-to-child transmission of HIV Cristina Mitchell 30 Oct 2026",
   "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Defesa Civil de Araxá alerta para chuvas intensas e risco de deslizamentos durante o feriado de Finados",
+  "u": "https://araxa.mg.gov.br/noticia/9425/defesa-civil-de-araxa-alerta-para-chuvas-intensas-e-risco-de-deslizamentos-durante-o-feriado-de-finados",
+  "d": "2026-10-29",
+  "df": "29 out 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura de Araxá",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 12.0,
+  "se": "2026-43",
+  "r": "",
+  "i": "clima",
   "m": [],
   "c": "monitoramento"
  },
@@ -931,6 +1004,24 @@
   "se": "2026-43",
   "r": "",
   "i": "virus",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Reconhecida emergência em duas cidades paraenses afetadas pela estiagem",
+  "u": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-em-duas-cidades-paraenses-afetadas-pela-estiagem",
+  "d": "2026-10-28",
+  "df": "28 out 2026",
+  "f": "Defesa Civil",
+  "fn": "GOV.BR",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-43",
+  "r": "",
+  "i": "clima",
   "m": [],
   "c": "atencao"
  },
