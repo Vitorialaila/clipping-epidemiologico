@@ -1,5 +1,76 @@
 [
  {
+  "id": "5ff7b1b632848b",
+  "titulo": "Vacinação contra o sarampo: 2ª dose está abaixo da meta no Vale; aumento de casos em SP acende alerta",
+  "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/03/vacinacao-contra-o-sarampo-2a-dose-esta-abaixo-da-meta-no-vale-aumento-de-casos-em-sp-acende-alerta.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-03",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-03T10:50:26+00:00",
+  "municipios": [],
+  "pontuacao": 10.5,
+  "agravos": [
+   "Sarampo"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "aumento de casos"
+  ],
+  "categoria": "alerta",
+  "motivo": "Sarampo (notificação imediata) · aumento de casos · Brasil"
+ },
+ {
+  "id": "9ee18bb4457f32",
+  "titulo": "Africa CDC solidaire du Kenya, appelle à la levée des restrictions de voyage injustifiées liées à Ebola.",
+  "url": "https://africacdc.org/news-item/africa-cdc-solidaire-du-kenya-appelle-a-la-levee-des-restrictions-de-voyage-injustifiees-liees-a-ebola/",
+  "fonte_id": "africa-cdc",
+  "fonte": "Africa CDC | Notícias",
+  "sigla": "Africa CDC",
+  "idioma": "en",
+  "data": "2026-11-03",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "Addis-Abeba, le 3 novembre 2026 Le Centre africain de contrôle et de prévention des maladies (Africa CDC) exprime sa pleine solidarité avec le Gouvernement et le peuple de la République du Kenya et soutient leur appel à un réexamen urgent et à la levée des restrictions de voyage liées à Ebola imposées par le Royaume […] The post Africa CDC solidaire du Kenya, appelle à la levée des restrictions de voyage injustifiées liées à Ebola. appeared first on Africa CDC .",
+  "coletado_em": "2026-11-03T10:50:26+00:00",
+  "municipios": [],
+  "pontuacao": 7.0,
+  "agravos": [
+   "Doença pelo vírus Ebola"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": "Doença pelo vírus Ebola (notificação imediata) · sem ocorrência relatada no título · internacional"
+ },
+ {
+  "id": "0e8f0e3631171a",
+  "titulo": "Africa CDC Stands with Kenya, Calls for Lifting of Unjustified Ebola Travel Restrictions",
+  "url": "https://africacdc.org/news-item/africa-cdc-stands-with-kenya-calls-for-lifting-of-unjustified-ebola-travel-restrictions/",
+  "fonte_id": "africa-cdc",
+  "fonte": "Africa CDC | Notícias",
+  "sigla": "Africa CDC",
+  "idioma": "en",
+  "data": "2026-11-03",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "Addis Ababa, 3 November 2026 The Africa Centres for Disease Control and Prevention (Africa CDC) expresses its strong solidarity with the Government and people of the Republic of Kenya and supports their call for the urgent review and lifting of the Ebola-related travel restrictions imposed by the Kingdom of Saudi Arabia. Africa CDC recognises and […] The post Africa CDC Stands with Kenya, Calls for Lifting of Unjustified Ebola Travel Restrictions appeared first on Africa CDC .",
+  "coletado_em": "2026-11-03T10:50:26+00:00",
+  "municipios": [],
+  "pontuacao": 7.0,
+  "agravos": [
+   "Doença pelo vírus Ebola"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": "Doença pelo vírus Ebola (notificação imediata) · sem ocorrência relatada no título · internacional"
+ },
+ {
   "id": "13a1f95376d73f",
   "titulo": "Dia de Finados é marcado por homenagens e amor a parentes, amigos e aos antepassados",
   "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7531987-dia-de-finados-e-marcado-por-homenagens-e-amor-a-parentes-amigos-e-aos-antepassados.html",
@@ -12,6 +83,29 @@
   "se": "2026-44",
   "descricao": "",
   "coletado_em": "2026-11-03T02:54:55+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "1db9078c82312c",
+  "titulo": "Produção de trigo no DF deve aumentar mais de 70% este ano, estima IBGE",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7531230-producao-de-trigo-no-df-deve-aumentar-mais-de-70-este-ano-estima-ibge.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-03",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-03T10:50:26+00:00",
   "municipios": [
    "Distrito Federal"
   ],
@@ -131,6 +225,29 @@
   "se": "2026-44",
   "descricao": "",
   "coletado_em": "2026-11-03T02:54:55+00:00",
+  "municipios": [],
+  "pontuacao": 8.5,
+  "agravos": [
+   "Sarampo"
+  ],
+  "escopo": "Américas",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": "Sarampo (notificação imediata) · sem ocorrência relatada no título · Américas"
+ },
+ {
+  "id": "577d34a6233152",
+  "titulo": "Child in New York dies after contracting measles, governor says",
+  "url": "https://edition.cnn.com/2026/11/02/health/new-york-measles-death",
+  "fonte_id": "cnn-busca",
+  "fonte": "CNN",
+  "sigla": "CNN",
+  "idioma": "en",
+  "data": "2026-11-02",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-03T10:50:26+00:00",
   "municipios": [],
   "pontuacao": 8.5,
   "agravos": [
