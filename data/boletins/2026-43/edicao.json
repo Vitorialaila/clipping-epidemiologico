@@ -1,0 +1,53 @@
+{
+ "edicao": "2026-43",
+ "se_codigo": "2026-43",
+ "rotulo": "SE 43/2026",
+ "se_numero": "43",
+ "se_ano": 2026,
+ "periodo": "25 a 31 de outubro de 2026",
+ "pdf": "boletins/boletim-SE43-2026.pdf",
+ "resumo": "A SE 43 de 2026 foi marcada pelo fortalecimento do El Niño, com anomalias acima de 3 °C no Pacífico central e leste e projeção de até 3,8 °C entre novembro e janeiro. Na Índia, o ciclone Arnab atingiu Andhra Pradesh em 28 de outubro, com 4 óbitos e 28 mil pessoas desabrigadas. No Brasil, a seca grave alcança 28% do Nordeste e 8% do Norte, 307 municípios estão em alerta alto de risco de fogo e 70 polos-base indígenas enfrentam seca severa, enquanto Brasília manteve PM2,5 médio de 7,4 µg/m³, sem dias insalubres. A vigilância sentinela identificou 47.440 vírus respiratórios no país, e o Brasil soma 7.137 óbitos por SRAG até a SE 42; no DF, os casos de SRAG subiram 5,9% nas SE 39 a 42, e Guajará lidera a incidência de SRAG no Amazonas. O município do Rio de Janeiro acumula 167 casos confirmados de mpox. A dengue soma 25.611 casos prováveis no país nas SE 39 a 42, Goiás registra 6.564 e o DF acumula 3.652 casos prováveis no ano, e a chikungunya cresce 35,1% em Mato Grosso do Sul. Nas Américas, o sarampo chega a 56.978 casos e 83 óbitos, e o Brasil confirma 61 casos, sem nenhuma região com a meta de cobertura da segunda dose. A epidemia pelo vírus Bundibugyo na República Democrática do Congo ultrapassa 10 mil casos confirmados, atinge 67 zonas de saúde e soma 10 casos no Quênia e na Nigéria. O DF ampliou a vacinação contra influenza a toda a população a partir de 6 meses, e a Pensilvânia (EUA) emitiu alerta sobre sarampo congênito.",
+ "secoes": [
+  {
+   "nome": "Alerta ambiental",
+   "risco": "Risco 2",
+   "itens": 5
+  },
+  {
+   "nome": "Síndrome gripal e SRAG",
+   "risco": "Risco 2",
+   "itens": 5
+  },
+  {
+   "nome": "Cobertura vacinal",
+   "risco": "Risco 0",
+   "itens": 1
+  },
+  {
+   "nome": "Mpox",
+   "risco": "Risco 4",
+   "itens": 2
+  },
+  {
+   "nome": "Arboviroses",
+   "risco": "Risco 2",
+   "itens": 5
+  },
+  {
+   "nome": "Sarampo",
+   "risco": "Risco 4",
+   "itens": 7
+  },
+  {
+   "nome": "Ebola",
+   "risco": "Risco 4",
+   "itens": 3
+  },
+  {
+   "nome": "Atualidades",
+   "risco": "",
+   "itens": 2
+  }
+ ],
+ "gerado_em": "2026-11-03T17:04:20+00:00"
+}
