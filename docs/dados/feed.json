@@ -18,6 +18,170 @@
   "c": "alerta"
  },
  {
+  "t": "Aumento de casos de sarampo acende alerta em João Pessoa",
+  "u": "https://g1.globo.com/pb/paraiba/videos-jpb1/video/aumento-de-casos-de-sarampo-acende-alerta-em-joao-pessoa-15155243.ghtml",
+  "d": "2026-11-03",
+  "df": "03 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 10.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Ministério da Saúde alerta para quase 7 mil casos de meningite no país",
+  "u": "https://g1.globo.com/google/amp/ma/maranhao/videos-bom-dia-mirante/video/ministerio-da-saude-alerta-para-quase-7-mil-casos-de-meningite-no-pais-15153817.ghtml",
+  "d": "2026-11-03",
+  "df": "03 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Doença meningocócica e meningites"
+  ],
+  "p": 10.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "bacteria",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Casos de Mpox no Brasil chegam a 665 em 2026, diz Ministério da Saúde",
+  "u": "https://www.cnnbrasil.com.br/saude/casos-de-mpox-no-brasil-chegam-a-665-em-2026-diz-ministerio-da-saude/",
+  "d": "2026-11-03",
+  "df": "03 nov 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Gripe aviária causa morte de morador do estado de Washington nos EUA",
+  "u": "https://www.metropoles.com/saude/gripe-aviaria-causa-morte-de-morador-do-estado-de-washington-nos-eua",
+  "d": "2026-11-03",
+  "df": "03 nov 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "Américas",
+  "a": [
+   "Influenza por novo subtipo",
+   "Influenza e vírus respiratórios"
+  ],
+  "p": 9.0,
+  "se": "2026-44",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Alerta amarelo com risco de temporal continua até a noite desta terça-feira (03) – CGNotícias",
+  "u": "https://www.campogrande.ms.gov.br/cgnoticias/noticia/alerta-amarelo-com-risco-de-temporal-continua-ate-a-noite-desta-terca-feira-03/",
+  "d": "2026-11-03",
+  "df": "03 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura de Campo Grande",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 9.0,
+  "se": "2026-44",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Criança morre por sarampo em Nova York e estado registra primeira morte pela doença em mais de 30 anos",
+  "u": "https://g1.globo.com/saude/noticia/2026/11/03/eua-confirmam-6a-morte-por-sarampo-este-ano-e-tem-pior-quadro-de-sarampo-em-mais-de-30-anos-entenda.ghtml",
+  "d": "2026-11-03",
+  "df": "03 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Américas",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 8.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Paraná implementa método Wolbachia em Cascavel, Ponta Grossa, Cambé e Londrina",
+  "u": "https://agencia.fiocruz.br/parana-implementa-metodo-wolbachia-em-cascavel-ponta-grossa-cambe-e-londrina",
+  "d": "2026-11-03",
+  "df": "03 nov 2026",
+  "f": "Fiocruz",
+  "fn": "Agência Fiocruz de Notícias",
+  "e": "Brasil",
+  "a": [
+   "Arboviroses"
+  ],
+  "p": 7.5,
+  "se": "2026-44",
+  "r": "Paraná implementa método Wolbachia em Cascavel, Ponta Grossa, Cambé e Londrina",
+  "i": "mosquito",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Luminárias confirma sete casos de escabiose e reforça medidas para evitar avanço da doença",
+  "u": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/03/luminarias-confirma-sete-casos-de-escabiose-e-reforca-medidas-para-evitar-avanco-da-doenca.ghtml",
+  "d": "2026-11-03",
+  "df": "03 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Escabiose"
+  ],
+  "p": 7.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "saude",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Goiás já registrou quase 300 casos de mão-pé-boca este ano",
+  "u": "https://g1.globo.com/go/goias/videos-bom-dia-go/video/goias-ja-registrou-quase-300-casos-de-mao-pe-boca-este-ano-15154089.ghtml",
+  "d": "2026-11-03",
+  "df": "03 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Doença mão-pé-boca"
+  ],
+  "p": 7.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "atencao"
+ },
+ {
   "t": "Africa CDC solidaire du Kenya, appelle à la levée des restrictions de voyage injustifiées liées à Ebola.",
   "u": "https://africacdc.org/news-item/africa-cdc-solidaire-du-kenya-appelle-a-la-levee-des-restrictions-de-voyage-injustifiees-liees-a-ebola/",
   "d": "2026-11-03",
@@ -50,6 +214,24 @@
   "se": "2026-44",
   "r": "Addis Ababa, 3 November 2026 The Africa Centres for Disease Control and Prevention (Africa CDC) expresses its strong solidarity with the Government and people of the Republic of Kenya and supports their call for the urgent review and lifting of the…",
   "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Notificações de tuberculose crescem 3,5% em Goiás",
+  "u": "https://goias.gov.br/saude/notificacoes-de-tuberculose-crescem-35-em-goias/",
+  "d": "2026-11-03",
+  "df": "03 nov 2026",
+  "f": "SES-GO",
+  "fn": "SES-GO | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Tuberculose"
+  ],
+  "p": 7.0,
+  "se": "2026-44",
+  "r": "Especialista do HDT atribui aumento discreto à ampliação do acesso aos exames, que permite identificar mais casos da doença",
+  "i": "bacteria",
   "m": [],
   "c": "monitoramento"
  },
