@@ -1,5 +1,23 @@
 [
  {
+  "t": "Rio de Janeiro confirma 269 casos de Mpox em 2026; sem óbitos até o momento",
+  "u": "https://www.cnnbrasil.com.br/saude/rio-de-janeiro-confirma-269-casos-de-mpox-em-2026-sem-obitos-ate-o-momento/",
+  "d": "2026-11-03",
+  "df": "03 nov 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 11.0,
+  "se": "2026-44",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Vacinação contra o sarampo: 2ª dose está abaixo da meta no Vale; aumento de casos em SP acende alerta",
   "u": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/03/vacinacao-contra-o-sarampo-2a-dose-esta-abaixo-da-meta-no-vale-aumento-de-casos-em-sp-acende-alerta.ghtml",
   "d": "2026-11-03",
@@ -234,6 +252,24 @@
   "i": "clima",
   "m": [],
   "c": "monitoramento"
+ },
+ {
+  "t": "Reconhecida emergência na cidade sergipana de Macambira, afetada pela estiagem",
+  "u": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-na-cidade-sergipana-de-macambira-afetada-pela-estiagem",
+  "d": "2026-11-03",
+  "df": "03 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "www.gov.br",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Africa CDC solidaire du Kenya, appelle à la levée des restrictions de voyage injustifiées liées à Ebola.",

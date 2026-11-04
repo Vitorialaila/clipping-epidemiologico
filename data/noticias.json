@@ -1,5 +1,30 @@
 [
  {
+  "id": "e59688e8923d0f",
+  "titulo": "Rio de Janeiro confirma 269 casos de Mpox em 2026; sem óbitos até o momento",
+  "url": "https://www.cnnbrasil.com.br/saude/rio-de-janeiro-confirma-269-casos-de-mpox-em-2026-sem-obitos-ate-o-momento/",
+  "fonte_id": "cnn-brasil-saude",
+  "fonte": "CNN Brasil | Saúde",
+  "sigla": "CNN Brasil",
+  "idioma": "pt",
+  "data": "2026-11-03",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-04T06:16:42+00:00",
+  "municipios": [],
+  "pontuacao": 11.0,
+  "agravos": [
+   "Mpox"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "obitos"
+  ],
+  "categoria": "alerta",
+  "motivo": "Mpox (notificação imediata) · confirma · Brasil"
+ },
+ {
   "id": "5ff7b1b632848b",
   "titulo": "Vacinação contra o sarampo: 2ª dose está abaixo da meta no Vale; aumento de casos em SP acende alerta",
   "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/03/vacinacao-contra-o-sarampo-2a-dose-esta-abaixo-da-meta-no-vale-aumento-de-casos-em-sp-acende-alerta.ghtml",
@@ -307,6 +332,29 @@
   "termos_evento": [],
   "categoria": "monitoramento",
   "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · Brasil"
+ },
+ {
+  "id": "90417280ce20af",
+  "titulo": "Reconhecida emergência na cidade sergipana de Macambira, afetada pela estiagem",
+  "url": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-na-cidade-sergipana-de-macambira-afetada-pela-estiagem",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "www.gov.br",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-11-03",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-04T06:16:42+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "atencao",
+  "motivo": "Saúde ambiental e clima · Reconhecida emergência · Brasil"
  },
  {
   "id": "9ee18bb4457f32",

@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-11-03T23:59:03+00:00",
+  "em": "2026-11-04T06:16:42+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,7 +10,7 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-11-03T23:59:03+00:00",
+  "em": "2026-11-04T06:16:42+00:00",
   "lidos": 40,
   "novos": 0,
   "exemplos": [
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-11-03T23:59:03+00:00",
+  "em": "2026-11-04T06:16:42+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-11-03T23:59:03+00:00",
+  "em": "2026-11-04T06:16:42+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-11-03T23:59:03+00:00",
+  "em": "2026-11-04T06:16:42+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-11-03T23:59:03+00:00",
+  "em": "2026-11-04T06:16:42+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-11-03T23:59:03+00:00",
+  "em": "2026-11-04T06:16:42+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-11-03T23:59:03+00:00",
+  "em": "2026-11-04T06:16:42+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-11-03T23:59:03+00:00",
+  "em": "2026-11-04T06:16:42+00:00",
   "lidos": 2348,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-11-03T23:59:03+00:00",
+  "em": "2026-11-04T06:16:42+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,9 +100,9 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-11-03T23:59:03+00:00",
+  "em": "2026-11-04T06:16:42+00:00",
   "lidos": 14,
-  "novos": 2,
+  "novos": 0,
   "exemplos": [
    "Ministério da Saúde divulga edital que cria Cadastro Nacional de Centros de Pesquisa Clínica",
    "SUS em Pauta: Edição de novembro debate a participação da sociedade na criação de regras para a saúde pública",
@@ -110,9 +110,9 @@
   ]
  },
  "fiocruz": {
-  "em": "2026-11-03T23:59:03+00:00",
+  "em": "2026-11-04T06:16:42+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Fiocruz divulga orientações para proteção à saúde em nota técnica sobre queimadas na Amazônia",
    "Paraná implementa método Wolbachia em Cascavel, Ponta Grossa, Cambé e Londrina",
@@ -120,9 +120,9 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-11-03T23:59:03+00:00",
+  "em": "2026-11-04T06:16:42+00:00",
   "lidos": 10,
-  "novos": 2,
+  "novos": 0,
   "exemplos": [
    "Padilha defende proibição das bets e cita impacto no SUS",
    "Novembro Roxo alerta para cuidados com prematuros após alta",
@@ -130,9 +130,9 @@
   ]
  },
  "ses-go": {
-  "em": "2026-11-03T23:59:03+00:00",
+  "em": "2026-11-04T06:16:42+00:00",
   "lidos": 10,
-  "novos": 10,
+  "novos": 0,
   "exemplos": [
    "Extrato da Portaria nº 1934/2026 – SES/GO",
    "Extrato do Termo de Colaboração nº 81/2026 – SES/GO",
@@ -140,9 +140,9 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-11-03T23:59:03+00:00",
+  "em": "2026-11-04T06:16:42+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "PF inaugura laboratório para combater garimpo ilegal na Amazônia",
    "Polícia investiga acidente com asa-delta que deixou dois mortos no Rio",
@@ -150,7 +150,7 @@
   ]
  },
  "g1-busca": {
-  "em": "2026-11-03T23:59:03+00:00",
+  "em": "2026-11-04T06:16:42+00:00",
   "lidos": 467,
   "novos": 0,
   "exemplos": [
@@ -160,8 +160,8 @@
   ]
  },
  "metropoles-busca": {
-  "em": "2026-11-03T23:59:03+00:00",
-  "lidos": 45,
+  "em": "2026-11-04T06:16:42+00:00",
+  "lidos": 46,
   "novos": 0,
   "exemplos": [
    "Teste com cotonete pode evitar biópsias em casos suspeitos de câncer",
@@ -170,17 +170,17 @@
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-11-03T23:59:03+00:00",
+  "em": "2026-11-04T06:16:42+00:00",
   "lidos": 26,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "Rio de Janeiro confirma 269 casos de Mpox em 2026; sem óbitos até o momento",
    "Morre paciente que cantou Legião Urbana durante cirurgia no cérebro em SP",
-   "Saúde do planeta: como o ambiente e os animais afetam nosso organismo?",
-   "Casos de Mpox no Brasil chegam a 665 em 2026, diz Ministério da Saúde"
+   "Saúde do planeta: como o ambiente e os animais afetam nosso organismo?"
   ]
  },
  "cnn-saude": {
-  "em": "2026-11-03T23:59:03+00:00",
+  "em": "2026-11-04T06:16:42+00:00",
   "lidos": 25,
   "novos": 0,
   "exemplos": [
@@ -190,8 +190,8 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-11-03T23:59:03+00:00",
-  "lidos": 54,
+  "em": "2026-11-04T06:16:42+00:00",
+  "lidos": 50,
   "novos": 0,
   "exemplos": [
    "Child in New York dies after contracting measles, the state’s first such death in 30 years",
@@ -200,9 +200,9 @@
   ]
  },
  "inmet": {
-  "em": "2026-11-03T23:59:03+00:00",
+  "em": "2026-11-04T06:16:42+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "El Niño atinge anomalia recorde para outubro",
    "Previsão para quarta-feira (4) e quinta-feira (5)",
@@ -210,7 +210,7 @@
   ]
  },
  "cemaden": {
-  "em": "2026-11-03T23:59:03+00:00",
+  "em": "2026-11-04T06:16:42+00:00",
   "lidos": 7,
   "novos": 0,
   "exemplos": [
@@ -220,19 +220,19 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-11-03T23:59:03+00:00",
-  "lidos": 18,
+  "em": "2026-11-04T06:16:42+00:00",
+  "lidos": 17,
   "novos": 1,
   "exemplos": [
-   "Reconhecida emergência em duas cidades paraenses afetadas pela estiagem",
-   "Boletins mensais sobre a seca é tema de debate nesta quinta-feira",
-   "Técnicos preparam Região Sul para tempestade — Ministério da Integração e do Desenvolvimento Regional"
+   "Autorizado repasse de R$ 16,5 milhões para ações de defesa civil",
+   "CEIIS fortalece rede de solidariedade em parceria com evento Elvis in Concert, em Brasília",
+   "Reconhecida emergência na cidade sergipana de Macambira, afetada pela estiagem"
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-11-03T23:59:03+00:00",
+  "em": "2026-11-04T06:16:42+00:00",
   "lidos": 20,
-  "novos": 8,
+  "novos": 0,
   "exemplos": [
    "Zoológico de Brasília tenta aproximar onças-pintadas para acasalamento",
    "Ex-governador da PB vai à delegacia após confusão no DF, mas nega envolvimento",
