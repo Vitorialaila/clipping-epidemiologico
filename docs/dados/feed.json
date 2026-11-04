@@ -19,6 +19,44 @@
   "c": "monitoramento"
  },
  {
+  "t": "Defesa Civil alerta: condição de ALERTA para tempestade com vento e granizo que atuam nas proximidades de São Gabriel",
+  "u": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-alerta-para-tempestade-com-vento-e-granizo-que-atuam-nas-proximidades-de-sao-gabriel",
+  "d": "2026-11-04",
+  "df": "04 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Defesa Civil do Rio Grande do Sul",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 13.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Defesa Civil alerta: condição de ALERTA para tempestade com vento e granizo nas proximidades de Barracão e Erechim",
+  "u": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-alerta-para-tempestade-com-vento-e-granizo-nas-proximidades-de-barracao-e-erechim-6aeb2df2d1643",
+  "d": "2026-11-04",
+  "df": "04 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Defesa Civil do Rio Grande do Sul",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 13.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "DF tem aumento de mpox com 23 casos até 4/11; veja sintomas e prevenção",
   "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7532892-df-registra-aumento-de-casos-de-mpox-sao-23-registros-ate-4-11.html",
   "d": "2026-11-04",
@@ -39,6 +77,26 @@
   "c": "alerta"
  },
  {
+  "t": "DF não tem vacina contra mpox e pede ao Ministério da Saúde",
+  "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7533082-df-pede-vacina-contra-a-mpox-ao-ministerio-da-saude.html",
+  "d": "2026-11-04",
+  "df": "04 nov 2026",
+  "f": "Correio Braziliense",
+  "fn": "Correio Braziliense | Cidades DF",
+  "e": "DF",
+  "a": [
+   "Mpox"
+  ],
+  "p": 12.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "virus",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "monitoramento"
+ },
+ {
   "t": "Mpox: DF teve 23 casos confirmados em 2026, sendo 8 apenas em outubro",
   "u": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/04/mpox-df-teve-23-casos-confirmados-em-2026-sendo-8-apenas-em-outubro.ghtml",
   "d": "2026-11-04",
@@ -57,12 +115,105 @@
   "c": "alerta"
  },
  {
+  "t": "Ministério da Saúde reforça vacinação e vigilância da mpox no Rio de Janeiro",
+  "u": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/ministerio-da-saude-reforca-vacinacao-e-vigilancia-da-mpox-no-rio-de-janeiro",
+  "d": "2026-11-04",
+  "df": "04 nov 2026",
+  "f": "MS",
+  "fn": "Ministério da Saúde | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 11.0,
+  "se": "2026-44",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Surto de antraz mata 30 hipopótamos no Congo e país emite alerta",
+  "u": "https://www.metropoles.com/saude/surto-de-antraz-mata-30-hipopotamos-no-congo-e-pais-emite-alerta",
+  "d": "2026-11-04",
+  "df": "04 nov 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "Internacional",
+  "a": [
+   "Antraz"
+  ],
+  "p": 11.0,
+  "se": "2026-44",
+  "r": "",
+  "i": "bacteria",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Defesa Civil de SP alerta para risco de temporais em diferentes regiões do estado entre quinta-feira (5) e sábado (7)",
+  "u": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-de-sp-alerta-para-risco-de-temporais-em-diferentes-regioes-do-estado-entre-quinta-feira-5-e-sabado-7/",
+  "d": "2026-11-04",
+  "df": "04 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "agenciasp.sp.gov.br",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 11.0,
+  "se": "2026-44",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Vacina contra influenza é liberada para todas as idades no DF",
+  "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7532974-vacina-contra-influenza-e-liberada-para-todas-as-idades-no-df.html",
+  "d": "2026-11-04",
+  "df": "04 nov 2026",
+  "f": "Correio Braziliense",
+  "fn": "Correio Braziliense | Cidades DF",
+  "e": "DF",
+  "a": [
+   "Influenza e vírus respiratórios"
+  ],
+  "p": 10.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "respiratorio",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "monitoramento"
+ },
+ {
   "t": "Defesa Civil alerta: condição de ALERTA para tempestade com chuva e vento que atuam nas proximidades de Erval Seco",
   "u": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-alerta-para-tempestade-com-chuva-e-vento-que-atuam-nas-proximidades-de-erval-seco",
   "d": "2026-11-04",
   "df": "04 nov 2026",
   "f": "Defesa Civil",
   "fn": "Defesa Civil do Rio Grande do Sul",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 9.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Defesa Civil alerta para previsão de chuvas fortes em São Paulo entre quinta-feira e sábado",
+  "u": "https://capivari.sp.gov.br/portal/defesa-civil-alerta-para-previsao-de-chuvas-fortes-em-sao-paulo-entre-quinta-feira-e-sabado/",
+  "d": "2026-11-04",
+  "df": "04 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura de Capivari",
   "e": "Brasil",
   "a": [
    "Saúde ambiental e clima"
@@ -111,6 +262,42 @@
   "c": "monitoramento"
  },
  {
+  "t": "Webinário apresenta projeções para a temporada 2027 de dengue",
+  "u": "https://agencia.fiocruz.br/webinario-apresenta-projecoes-para-temporada-2027-de-dengue",
+  "d": "2026-11-04",
+  "df": "04 nov 2026",
+  "f": "Fiocruz",
+  "fn": "Agência Fiocruz de Notícias",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 7.5,
+  "se": "2026-44",
+  "r": "Webinário apresenta projeções para a temporada 2027 de dengue",
+  "i": "mosquito",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Temperaturas elevadas e irregularidade das chuvas mantêm a demanda hídrica elevada no MATOPIBA",
+  "u": "https://portal.inmet.gov.br/noticias/temperaturas-elevadas-e-irregularidade-das-chuvas-mantêm-a-demanda-hídrica-elevada-no-matopiba",
+  "d": "2026-11-04",
+  "df": "04 nov 2026",
+  "f": "INMET",
+  "fn": "INMET | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "DF soma 425 casos de mpox desde 2022; oito foram confirmados em outubro deste ano",
   "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7532907-df-soma-425-casos-de-mpox-desde-2022-oito-foram-confirmados-em-outubro-deste-ano.html",
   "d": "2026-11-04",
@@ -128,6 +315,43 @@
   "m": [
    "Distrito Federal"
   ],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Brasil segue livre do sarampo e intensifica vigilância com busca ativa em todo o país nesta quarta (4)",
+  "u": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/brasil-segue-livre-do-sarampo-e-intensifica-vigilancia-com-busca-ativa-em-todo-o-pais-nesta-quarta-4",
+  "d": "2026-11-04",
+  "df": "04 nov 2026",
+  "f": "MS",
+  "fn": "Ministério da Saúde | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 6.0,
+  "se": "2026-44",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Saúde projeta aumento de até 40% nos casos de dengue com El Nino",
+  "u": "https://www.cnnbrasil.com.br/saude/saude-projeta-aumento-de-ate-40-nos-casos-de-dengue-com-el-nino/",
+  "d": "2026-11-04",
+  "df": "04 nov 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Internacional",
+  "a": [
+   "Saúde ambiental e clima",
+   "Dengue"
+  ],
+  "p": 5.0,
+  "se": "2026-44",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
   "c": "monitoramento"
  },
  {
@@ -152,6 +376,25 @@
  {
   "t": "Defesa Civil alerta: condição de ALERTA para tempestade com vento e granizo que atuam nas proximidades de Quaraí",
   "u": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-alerta-para-tempestade-com-vento-e-granizo-que-atuam-nas-proximidades-de-quarai",
+  "d": "2026-11-03",
+  "df": "03 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Defesa Civil do Rio Grande do Sul",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 13.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Defesa Civil alerta: condição de ALERTA para tempestade com granizo e vento que atuam nas proximidades de Cacequi",
+  "u": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-alerta-para-tempestade-com-granizo-e-vento-que-atuam-nas-proximidades-de-cacequi",
   "d": "2026-11-03",
   "df": "03 nov 2026",
   "f": "Defesa Civil",
