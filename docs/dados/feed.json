@@ -1,5 +1,174 @@
 [
  {
+  "t": "Defesa Civil alerta: condição de ALERTA para tempestade com vento e granizo nas proximidades de Nonoai",
+  "u": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-alerta-para-tempestade-com-vento-e-granizo-nas-proximidades-de-nonoai",
+  "d": "2026-11-04",
+  "df": "04 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Defesa Civil do Rio Grande do Sul",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 13.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "DF tem aumento de mpox com 23 casos até 4/11; veja sintomas e prevenção",
+  "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7532892-df-registra-aumento-de-casos-de-mpox-sao-23-registros-ate-4-11.html",
+  "d": "2026-11-04",
+  "df": "04 nov 2026",
+  "f": "Correio Braziliense",
+  "fn": "Correio Braziliense | Cidades DF",
+  "e": "DF",
+  "a": [
+   "Mpox"
+  ],
+  "p": 12.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "virus",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "alerta"
+ },
+ {
+  "t": "Mpox: DF teve 23 casos confirmados em 2026, sendo 8 apenas em outubro",
+  "u": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/04/mpox-df-teve-23-casos-confirmados-em-2026-sendo-8-apenas-em-outubro.ghtml",
+  "d": "2026-11-04",
+  "df": "04 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 11.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Defesa Civil alerta: condição de ALERTA para tempestade com chuva e vento que atuam nas proximidades de Erval Seco",
+  "u": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-alerta-para-tempestade-com-chuva-e-vento-que-atuam-nas-proximidades-de-erval-seco",
+  "d": "2026-11-04",
+  "df": "04 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Defesa Civil do Rio Grande do Sul",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 9.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Exposição à seca na gestação eleva chance de prematuridade e afeta crescimento do bebê",
+  "u": "https://agencia.fiocruz.br/exposicao-seca-na-gestacao-eleva-chance-de-prematuridade-e-afeta-crescimento-do-bebe",
+  "d": "2026-11-04",
+  "df": "04 nov 2026",
+  "f": "Fiocruz",
+  "fn": "Agência Fiocruz de Notícias",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-44",
+  "r": "Exposição à seca na gestação eleva chance de prematuridade e afeta crescimento do bebê",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Prefeitura de Lages mobiliza equipes da Defesa Civil e atende, até o momento, 41 ocorrências provocadas pelas chuvas intensas e tempestades",
+  "u": "https://www.lages.sc.gov.br/noticia-descricao/11185/prefeitura-de-lages-mobiliza-equipes-da-defesa-civil-e-atende-ate-o-momento-41-ocorrencias-provocadas-pelas-chuvas-intensas-e-tempestades",
+  "d": "2026-11-04",
+  "df": "04 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura de Lages",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "DF soma 425 casos de mpox desde 2022; oito foram confirmados em outubro deste ano",
+  "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7532907-df-soma-425-casos-de-mpox-desde-2022-oito-foram-confirmados-em-outubro-deste-ano.html",
+  "d": "2026-11-04",
+  "df": "04 nov 2026",
+  "f": "Correio Braziliense",
+  "fn": "Correio Braziliense | Cidades DF",
+  "e": "DF",
+  "a": [
+   "Mpox"
+  ],
+  "p": 6.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "virus",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Defesa Civil alerta: condição de ALERTA para tempestade com granizo e vento que atuam nas proximidades de Alegrete",
+  "u": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-alerta-para-tempestade-com-granizo-e-vento-que-atuam-nas-proximidades-de-alegrete",
+  "d": "2026-11-03",
+  "df": "03 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Defesa Civil do Rio Grande do Sul",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 13.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Defesa Civil alerta: condição de ALERTA para tempestade com vento e granizo que atuam nas proximidades de Quaraí",
+  "u": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-alerta-para-tempestade-com-vento-e-granizo-que-atuam-nas-proximidades-de-quarai",
+  "d": "2026-11-03",
+  "df": "03 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Defesa Civil do Rio Grande do Sul",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 13.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "Rio de Janeiro confirma 269 casos de Mpox em 2026; sem óbitos até o momento",
   "u": "https://www.cnnbrasil.com.br/saude/rio-de-janeiro-confirma-269-casos-de-mpox-em-2026-sem-obitos-ate-o-momento/",
   "d": "2026-11-03",
