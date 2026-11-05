@@ -1,5 +1,45 @@
 [
  {
+  "t": "Mpox: DF confirma oito casos em outubro e investiga circulação do vírus",
+  "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7533212-mpox-df-confirma-oito-casos-em-outubro-e-investiga-circulacao-do-virus.html",
+  "d": "2026-11-05",
+  "df": "05 nov 2026",
+  "f": "Correio Braziliense",
+  "fn": "Correio Braziliense | Cidades DF",
+  "e": "DF",
+  "a": [
+   "Mpox"
+  ],
+  "p": 12.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "virus",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "alerta"
+ },
+ {
+  "t": "Secretaria de Saúde libera 40 mil doses de vacina contra a influenza",
+  "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7533009-secretaria-de-saude-libera-40-mil-doses-de-vacina-contra-a-influenza.html",
+  "d": "2026-11-05",
+  "df": "05 nov 2026",
+  "f": "Correio Braziliense",
+  "fn": "Correio Braziliense | Cidades DF",
+  "e": "DF",
+  "a": [
+   "Influenza e vírus respiratórios"
+  ],
+  "p": 10.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "respiratorio",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "monitoramento"
+ },
+ {
   "t": "Defesa Civil alerta: condição de ALERTA para tempestade com vento e granizo nas proximidades de Nonoai",
   "u": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-alerta-para-tempestade-com-vento-e-granizo-nas-proximidades-de-nonoai",
   "d": "2026-11-04",
@@ -40,6 +80,25 @@
  {
   "t": "Defesa Civil alerta: condição de ALERTA para tempestade com vento e granizo nas proximidades de Barracão e Erechim",
   "u": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-alerta-para-tempestade-com-vento-e-granizo-nas-proximidades-de-barracao-e-erechim-6aeb2df2d1643",
+  "d": "2026-11-04",
+  "df": "04 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Defesa Civil do Rio Grande do Sul",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 13.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Defesa Civil alerta: condição de ALERTA para tempestade com vento e granizo que atuam nas proximidades de Fontoura Xavier",
+  "u": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-alerta-para-tempestade-com-vento-e-granizo-que-atuam-nas-proximidades-de-fontoura-xavier",
   "d": "2026-11-04",
   "df": "04 nov 2026",
   "f": "Defesa Civil",
@@ -724,6 +783,24 @@
  {
   "t": "Reconhecida emergência na cidade sergipana de Macambira, afetada pela estiagem",
   "u": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-na-cidade-sergipana-de-macambira-afetada-pela-estiagem",
+  "d": "2026-11-03",
+  "df": "03 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "www.gov.br",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Reconhecida emergência em duas cidades potiguares afetadas pela estiagem",
+  "u": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-em-duas-cidades-potiguares-afetadas-pela-estiagem-1",
   "d": "2026-11-03",
   "df": "03 nov 2026",
   "f": "Defesa Civil",
