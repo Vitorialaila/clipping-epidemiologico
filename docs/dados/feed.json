@@ -20,6 +20,63 @@
   "c": "alerta"
  },
  {
+  "t": "Hantavirus Outbreak Caused by Andes Virus Linked to International Cruise Ship Travel - United States, 2026",
+  "u": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766796",
+  "d": "2026-11-05",
+  "df": "05 nov 2026",
+  "f": "CDC",
+  "fn": "CDC | MMWR",
+  "e": "Américas",
+  "a": [
+   "Patógeno novo ou incomum em humanos",
+   "Hantavirose"
+  ],
+  "p": 11.0,
+  "se": "2026-44",
+  "r": "This report describes cases of hantavirus among people on a cruise ship in the Atlantic Ocean.",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Defesa Civil alerta para risco de temporais em Rio Preto até sábado",
+  "u": "https://www.riopreto.sp.gov.br/noticias/defesa-civil-alerta-para-risco-de-temporais-em-rio-preto-ate-sabado",
+  "d": "2026-11-05",
+  "df": "05 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura de São José do Rio Preto",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 11.0,
+  "se": "2026-44",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Defesa Civil de SP alerta para risco de temporais no estado entre quinta-feira e sábado",
+  "u": "https://www.caraguatatuba.sp.gov.br/pmc/2026/11/defesa-civil-de-sp-alerta-para-risco-de-temporais-no-estado-entre-quinta-feira-e-sabado/",
+  "d": "2026-11-05",
+  "df": "05 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura de Caraguatatuba",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 11.0,
+  "se": "2026-44",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "Secretaria de Saúde libera 40 mil doses de vacina contra a influenza",
   "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7533009-secretaria-de-saude-libera-40-mil-doses-de-vacina-contra-a-influenza.html",
   "d": "2026-11-05",
@@ -37,6 +94,152 @@
   "m": [
    "Distrito Federal"
   ],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Ministério da Saúde autoriza aquisição de 20 mil doses da vacina contra mpox por meio da Opas",
+  "u": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/ministerio-da-saude-autoriza-aquisicao-de-20-mil-doses-da-vacina-contra-mpox-por-meio-da-opas",
+  "d": "2026-11-05",
+  "df": "05 nov 2026",
+  "f": "MS",
+  "fn": "Ministério da Saúde | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 10.0,
+  "se": "2026-44",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "InfoGripe: cresce o número de casos de SRAG por metapneumovírus, rinovírus e Covid-19",
+  "u": "https://agencia.fiocruz.br/infogripe-cresce-o-numero-de-casos-de-srag-por-metapneumovirus-rinovirus-e-covid-19",
+  "d": "2026-11-05",
+  "df": "05 nov 2026",
+  "f": "Fiocruz",
+  "fn": "Agência Fiocruz de Notícias",
+  "e": "Brasil",
+  "a": [
+   "Influenza e vírus respiratórios",
+   "COVID-19"
+  ],
+  "p": 10.0,
+  "se": "2026-44",
+  "r": "InfoGripe: cresce o número de casos de SRAG por metapneumovírus, rinovírus e Covid-19",
+  "i": "respiratorio",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Dengue: cidades do oeste paulista registram risco de surto da doença",
+  "u": "https://g1.globo.com/sp/bauru-marilia/videos-bom-dia-cidade/video/dengue-cidades-do-oeste-paulista-registram-risco-de-surto-da-doenca-15161030.ghtml",
+  "d": "2026-11-05",
+  "df": "05 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 10.0,
+  "se": "2026-44",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Defesa Civil alerta para chuvas intensas e ventos fortes nos próximos dias",
+  "u": "https://cotia.sp.gov.br/defesa-civil-alerta-para-chuvas-intensas-e-ventos-fortes-nos-proximos-dias/",
+  "d": "2026-11-05",
+  "df": "05 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura de Cotia",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 9.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Defesa Civil de SP renova alerta de temporais e ativa gabinete de crise",
+  "u": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-de-sp-renova-alerta-de-temporais-e-ativa-gabinete-de-crise-remoto/",
+  "d": "2026-11-05",
+  "df": "05 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "agenciasp.sp.gov.br",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 9.0,
+  "se": "2026-44",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Maranhão registra quase 9 mil casos de dengue e alta de 143% no ano",
+  "u": "https://g1.globo.com/ma/maranhao/videos-jmtv-1-edicao/video/maranhao-registra-quase-9-mil-casos-de-dengue-e-alta-de-143-no-ano-15162075.ghtml",
+  "d": "2026-11-05",
+  "df": "05 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 7.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Morte levanta suspeita de intoxicação por metanol",
+  "u": "https://g1.globo.com/ba/bahia/videos-jornal-da-manha/video/morte-levanta-suspeita-de-intoxicacao-por-metanol-15160969.ghtml",
+  "d": "2026-11-05",
+  "df": "05 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Intoxicações"
+  ],
+  "p": 7.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "quimico",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Anvisa define cepas das vacinas contra a gripe para 2027",
+  "u": "https://www.cnnbrasil.com.br/saude/anvisa-define-cepas-das-vacinas-contra-a-gripe-para-2027/",
+  "d": "2026-11-05",
+  "df": "05 nov 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Influenza e vírus respiratórios"
+  ],
+  "p": 7.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
   "c": "monitoramento"
  },
  {
@@ -630,6 +833,24 @@
   "p": 9.5,
   "se": "2026-44",
   "r": "Fiocruz divulga orientações para proteção à saúde em nota técnica sobre queimadas na Amazônia",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Defesa Civil de Lages alerta para possibilidade de tempestades, chuva intensa e ventos fortes entre esta terça e quarta-feira",
+  "u": "https://www.lages.sc.gov.br/noticia-descricao/11176/defesa-civil-de-lages-alerta-para-possibilidade-de-tempestades-chuva-intensa-e-ventos-fortes-entre-esta-terca-e-quarta-feira",
+  "d": "2026-11-03",
+  "df": "03 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura de Lages",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 9.5,
+  "se": "2026-44",
+  "r": "",
   "i": "clima",
   "m": [],
   "c": "monitoramento"

@@ -174,5 +174,25 @@
   "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
   "captura": "automática",
   "capturado_em": "2026-11-05"
+ },
+ {
+  "data_referencia": "2026-11-04",
+  "casos": 10668,
+  "obitos": 5198,
+  "dados_ate": "2026-11-03",
+  "hospitalizados": null,
+  "recuperados": null,
+  "novos_casos": null,
+  "novos_obitos": null,
+  "provincias": null,
+  "zs_afetadas": null,
+  "zs_total": null,
+  "n_provincias": 8,
+  "quenia": null,
+  "outros_paises": "On 20 October 2026, an Ebola case was reported in Nigeria. The person has since been medically evacuated to Switzerland.",
+  "fonte": "ECDC, Ebola disease outbreak in the Democratic Republic of the Congo",
+  "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+  "captura": "automática",
+  "capturado_em": "2026-11-05"
  }
 ]
