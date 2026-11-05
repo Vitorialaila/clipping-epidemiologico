@@ -97,6 +97,26 @@
   "c": "monitoramento"
  },
  {
+  "t": "Entidades LGBT+ cobram restabelecimento de vacinação contra mpox no DF",
+  "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7533328-entidades-lgbt-cobram-restabelecimento-de-vacinacao-contra-mpox-no-df.html",
+  "d": "2026-11-04",
+  "df": "04 nov 2026",
+  "f": "Correio Braziliense",
+  "fn": "Correio Braziliense | Cidades DF",
+  "e": "DF",
+  "a": [
+   "Mpox"
+  ],
+  "p": 12.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "virus",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "monitoramento"
+ },
+ {
   "t": "Mpox: DF teve 23 casos confirmados em 2026, sendo 8 apenas em outubro",
   "u": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/04/mpox-df-teve-23-casos-confirmados-em-2026-sendo-8-apenas-em-outubro.ghtml",
   "d": "2026-11-04",
@@ -226,6 +246,24 @@
   "c": "monitoramento"
  },
  {
+  "t": "Terra Indígena Yanomami não registra mortes por malária no primeiro semestre de 2026",
+  "u": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/terra-indigena-yanomami-nao-registra-mortes-por-malaria-no-primeiro-semestre-de-2026",
+  "d": "2026-11-04",
+  "df": "04 nov 2026",
+  "f": "MS",
+  "fn": "Ministério da Saúde | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Malária"
+  ],
+  "p": 9.0,
+  "se": "2026-44",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "atencao"
+ },
+ {
   "t": "Exposição à seca na gestação eleva chance de prematuridade e afeta crescimento do bebê",
   "u": "https://agencia.fiocruz.br/exposicao-seca-na-gestacao-eleva-chance-de-prematuridade-e-afeta-crescimento-do-bebe",
   "d": "2026-11-04",
@@ -348,6 +386,24 @@
    "Dengue"
   ],
   "p": 5.0,
+  "se": "2026-44",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Brasil sedia reunião de cooperação para eliminar a malária no Escudo das Guianas",
+  "u": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/brasil-sedia-reuniao-de-cooperacao-para-eliminar-a-malaria-no-escudo-das-guianas",
+  "d": "2026-11-04",
+  "df": "04 nov 2026",
+  "f": "MS",
+  "fn": "Ministério da Saúde | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Malária"
+  ],
+  "p": 4.0,
   "se": "2026-44",
   "r": "",
   "i": "mosquito",

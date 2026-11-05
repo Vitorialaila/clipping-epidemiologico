@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-11-04T21:20:34+00:00",
+  "em": "2026-11-05T02:25:55+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,7 +10,7 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-11-04T21:20:34+00:00",
+  "em": "2026-11-05T02:25:55+00:00",
   "lidos": 40,
   "novos": 0,
   "exemplos": [
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-11-04T21:20:34+00:00",
+  "em": "2026-11-05T02:25:55+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-11-04T21:20:34+00:00",
+  "em": "2026-11-05T02:25:55+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-11-04T21:20:34+00:00",
+  "em": "2026-11-05T02:25:55+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-11-04T21:20:34+00:00",
+  "em": "2026-11-05T02:25:55+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-11-04T21:20:34+00:00",
+  "em": "2026-11-05T02:25:55+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-11-04T21:20:34+00:00",
+  "em": "2026-11-05T02:25:55+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-11-04T21:20:34+00:00",
+  "em": "2026-11-05T02:25:55+00:00",
   "lidos": 2348,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-11-04T21:20:34+00:00",
+  "em": "2026-11-05T02:25:55+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,19 +100,19 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-11-04T21:20:34+00:00",
+  "em": "2026-11-05T02:25:55+00:00",
   "lidos": 15,
-  "novos": 4,
+  "novos": 3,
   "exemplos": [
-   "Ministério da Saúde reforça vacinação e vigilância da mpox no Rio de Janeiro",
-   "Brasil segue livre do sarampo e intensifica vigilância com busca ativa em todo o país nesta quarta (4)",
-   "Brasil apresentará na COP31 modelo de resposta do SUS às emergências climáticas"
+   "Terra Indígena Yanomami não registra mortes por malária no primeiro semestre de 2026",
+   "Brasil sedia reunião de cooperação para eliminar a malária no Escudo das Guianas",
+   "Ministério da Saúde promove 1º encontro intercultural entre parteiras, parteiros, lideranças e profissionais de saúde in"
   ]
  },
  "fiocruz": {
-  "em": "2026-11-04T21:20:34+00:00",
+  "em": "2026-11-05T02:25:55+00:00",
   "lidos": 10,
-  "novos": 2,
+  "novos": 0,
   "exemplos": [
    "Pesquisador da Fiocruz participa da Reforma da Arquitetura Global da Saúde da OMS",
    "Webinário apresenta projeções para a temporada 2027 de dengue",
@@ -120,59 +120,47 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-11-04T21:20:34+00:00",
+  "em": "2026-11-05T02:25:55+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "SUS e Einstein desenvolvem IA para identificação de doenças de pele",
    "Anvisa aprova primeiro medicamento de GLP-1 oral para obesidade",
-   "Padilha defende proibição das bets e cita impacto no SUS",
-   "Novembro Roxo alerta para cuidados com prematuros após alta"
+   "Padilha defende proibição das bets e cita impacto no SUS"
   ]
  },
  "ses-go": {
-  "em": "2026-11-04T21:20:34+00:00",
+  "em": "2026-11-05T02:25:55+00:00",
   "lidos": 10,
-  "novos": 9,
+  "novos": 1,
   "exemplos": [
+   "Policlínicas Estaduais e carreta do Cora realizam mais de 3,2 mil mamografias",
    "SES apresenta resultados da Saúde Estadual em audiência pública na Alego",
-   "Hugol leva serviços gratuitos de saúde e cidadania à região Noroeste de Goiânia",
-   "Escala Policlínica de Goianésia – Novembro"
+   "Hugol leva serviços gratuitos de saúde e cidadania à região Noroeste de Goiânia"
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-11-04T21:20:34+00:00",
+  "em": "2026-11-05T02:25:55+00:00",
   "lidos": 10,
-  "novos": 2,
+  "novos": 1,
   "exemplos": [
+   "Receita apreende 15 toneladas de produtos irregulares no Porto do Rio",
    "OAB-RJ tem mais de 3 mil denúncias sobre golpe do falso advogado",
-   "Estado de SP tem queda em roubos de celulares entre janeiro e setembro",
-   "Mega-Sena sorteia prêmio acumulado de R$ 46 milhões nesta quarta-feira"
+   "Estado de SP tem queda em roubos de celulares entre janeiro e setembro"
   ]
  },
  "g1-busca": {
-  "em": "2026-11-04T21:20:34+00:00",
-  "lidos": 401,
-  "novos": 0,
-  "exemplos": [
-   "Programa SOS AVC registra mais de 900 atendimentos em dois anos em Cuiabá",
-   "Atibaia monitora 75 casos suspeitos de sarna humana",
-   "Mpox: DF teve 23 casos confirmados em 2026, sendo 8 apenas em outubro"
-  ]
+  "em": "2026-11-05T02:25:55+00:00",
+  "erro": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Ag1.globo.com%20%22caso%20suspeito%22%20OR%20%22casos%20suspeitos%22%20OR%20%22%C3%B3bito%20suspeito%22%20OR%20%22suspeita%20de%20meningite%22%20OR%20%22suspeita%20de%20sarampo%22%20OR%20%22suspeita%20de%20raiv"
  },
  "metropoles-busca": {
-  "em": "2026-11-04T21:20:34+00:00",
-  "lidos": 46,
-  "novos": 1,
-  "exemplos": [
-   "Teste com cotonete pode evitar biópsias em casos suspeitos de câncer",
-   "Rio de Janeiro registra 74 casos de Mpox em dois meses",
-   "Mpox: governo reforça volume de vacina no Rio para lidar com alta de casos"
-  ]
+  "em": "2026-11-05T02:25:55+00:00",
+  "erro": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Ametropoles.com%20%22caso%20suspeito%22%20OR%20%22casos%20suspeitos%22%20OR%20%22%C3%B3bito%20suspeito%22%20OR%20%22suspeita%20de%20meningite%22%20OR%20%22suspeita%20de%20sarampo%22%20OR%20%22suspeita%20de%20ra"
  },
  "cnn-brasil-saude": {
-  "em": "2026-11-04T21:20:34+00:00",
+  "em": "2026-11-05T02:25:55+00:00",
   "lidos": 26,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Saúde projeta aumento de até 40% nos casos de dengue com El Nino",
    "Estudo associa miopia elevada ao olho seco em crianças",
@@ -180,7 +168,7 @@
   ]
  },
  "cnn-saude": {
-  "em": "2026-11-04T21:20:34+00:00",
+  "em": "2026-11-05T02:25:55+00:00",
   "lidos": 24,
   "novos": 0,
   "exemplos": [
@@ -190,19 +178,13 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-11-04T21:20:34+00:00",
-  "lidos": 39,
-  "novos": 0,
-  "exemplos": [
-   "Child in New York dies after contracting measles, the state’s first such death in 30 years",
-   "MAHA helped power Trump’s 2024 victory — but now RFK Jr. is exposing a GOP midterm vulnerability",
-   "Expecting a new grandchild? Here’s why you may need to see your doctor first"
-  ]
+  "em": "2026-11-05T02:25:55+00:00",
+  "erro": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Acnn.com%20measles%20OR%20outbreak%20OR%20epidemic%20when%3A7d&hl=en-US&gl=US&ceid=US:en"
  },
  "inmet": {
-  "em": "2026-11-04T21:20:34+00:00",
+  "em": "2026-11-05T02:25:55+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Previsão para quinta-feira (5) e sexta-feira (6)",
    "Temperaturas elevadas e irregularidade das chuvas mantêm a demanda hídrica elevada no MATOPIBA",
@@ -210,7 +192,7 @@
   ]
  },
  "cemaden": {
-  "em": "2026-11-04T21:20:34+00:00",
+  "em": "2026-11-05T02:25:55+00:00",
   "lidos": 7,
   "novos": 0,
   "exemplos": [
@@ -220,23 +202,17 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-11-04T21:20:34+00:00",
-  "lidos": 25,
-  "novos": 5,
-  "exemplos": [
-   "Autorizado repasse de R$ 16,5 milhões para ações de defesa civil",
-   "Reconhecida emergência na cidade sergipana de Macambira, afetada pela estiagem",
-   "Técnicos preparam Região Sul para tempestade — Ministério da Integração e do Desenvolvimento Regional"
-  ]
+  "em": "2026-11-05T02:25:55+00:00",
+  "erro": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Defesa%20Civil%22%20Distrito%20Federal%20when%3A7d&hl=pt-BR&gl=BR&ceid=BR:pt-419"
  },
  "correio-braziliense-df": {
-  "em": "2026-11-04T21:20:34+00:00",
-  "lidos": 20,
-  "novos": 9,
+  "em": "2026-11-05T02:25:55+00:00",
+  "lidos": 21,
+  "novos": 10,
   "exemplos": [
-   "Criminosos se passam por funcionários de banco e dão golpe de R$ 115 milhões",
-   "DF tem aumento de mpox com 23 casos até 4/11; veja sintomas e prevenção",
-   "Patury vê avanços na PEC da Segurança e cobra combate à reincidência"
+   "Mulher morre atropelada por motociclista sem habilitação no Recanto das Emas",
+   "DF soma 425 casos de mpox desde 2022; oito foram confirmados em outubro deste ano",
+   "Homem é preso por roubo a pedestres no Recanto das Emas e em Samambaia"
   ]
  }
 }
