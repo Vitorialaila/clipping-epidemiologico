@@ -1,5 +1,99 @@
 [
  {
+  "t": "São Paulo confirma 67 casos de mpox em um mês",
+  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/sao-paulo-registra-67-casos-confirmados-de-mpox-em-um-mes",
+  "d": "2026-11-06",
+  "df": "06 nov 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 13.5,
+  "se": "2026-44",
+  "r": "Desde o dia 4 de outubro, que corresponde ao início da 40ª semana epidemiológica, o estado de São Paulo registrou 67 casos confirmados de mpox. O número representa cerca de 22% do total de casos confirmados no território paulista em todo este ano, o que…",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Sorocaba tem três casos confirmados de mpox e um registro em investigação em 2026",
+  "u": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/06/casos-mpox-sorocaba.ghtml",
+  "d": "2026-11-06",
+  "df": "06 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 12.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Mpox: Ministério de Saúde envia 100 doses de vacina após DF registrar 23 casos",
+  "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7534439-mpox-ministerio-de-saude-envia-100-doses-de-vacina-apos-df-registrar-23-casos.html",
+  "d": "2026-11-06",
+  "df": "06 nov 2026",
+  "f": "Correio Braziliense",
+  "fn": "Correio Braziliense | Cidades DF",
+  "e": "DF",
+  "a": [
+   "Mpox"
+  ],
+  "p": 12.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "virus",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "alerta"
+ },
+ {
+  "t": "Giro Saúde destaca Novembro Azul, mpox e temporada de dengue 2027",
+  "u": "https://agencia.fiocruz.br/giro-saude-destaca-novembro-azul-mpox-e-temporada-de-dengue-2027",
+  "d": "2026-11-06",
+  "df": "06 nov 2026",
+  "f": "Fiocruz",
+  "fn": "Agência Fiocruz de Notícias",
+  "e": "Brasil",
+  "a": [
+   "Mpox",
+   "Dengue",
+   "Sarampo"
+  ],
+  "p": 11.5,
+  "se": "2026-44",
+  "r": "Giro Saúde destaca Novembro Azul, mpox e temporada de dengue 2027 No programa desta semana o podcast Giro Saúde aborda a campanha Novembro Azul, que busca chamar atenção dos homens para a prevenção do câncer de próstata e sobre o crescimento no número de…",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Infectologista faz alerta para casos de Mpox no RJ",
+  "u": "https://g1.globo.com/google/amp/rj/sul-do-rio-costa-verde/videos-rj1-tv-rio-sul/video/infectologista-faz-alerta-para-casos-de-mpox-no-rj-15165495.ghtml",
+  "d": "2026-11-06",
+  "df": "06 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 11.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Defesa Civil alerta para possibilidade de novos temporais em Lages nesta sexta-feira e sábado",
   "u": "https://www.lages.sc.gov.br/noticia-descricao/11219/defesa-civil-alerta-para-possibilidade-de-novos-temporais-em-lages-nesta-sexta-feira-e-sabado",
   "d": "2026-11-06",
@@ -17,6 +111,24 @@
   "i": "desastre",
   "m": [],
   "c": "monitoramento"
+ },
+ {
+  "t": "Fiocruz alerta para alta de casos graves de Covid em capitais brasileiras",
+  "u": "https://www.metropoles.com/saude/fiocruz-alerta-para-alta-de-casos-graves-de-covid-em-capitais-brasileiras",
+  "d": "2026-11-06",
+  "df": "06 nov 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 10.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Cidades paulistas fazem varredura para rastrear casos de sarampo e rubéola",
@@ -38,6 +150,60 @@
   "c": "alerta"
  },
  {
+  "t": "Varginha confirma cinco casos de sarna humana e prefeitura trata situação como surto",
+  "u": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/06/varginha-confirma-casos-de-sarna-humana-e-prefeitura-trata-situacao-como-surto.ghtml",
+  "d": "2026-11-06",
+  "df": "06 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Escabiose"
+  ],
+  "p": 10.0,
+  "se": "2026-44",
+  "r": "",
+  "i": "saude",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "PAHO issues measles prevention advice for travelers ahead of Pope Leo XIV’s visit to Latin America",
+  "u": "https://www.paho.org/en/news/6-11-2026-paho-issues-measles-prevention-advice-travelers-ahead-pope-leo-xivs-visit-latin",
+  "d": "2026-11-06",
+  "df": "06 nov 2026",
+  "f": "OPAS",
+  "fn": "OPAS | Notícias",
+  "e": "Américas",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 9.0,
+  "se": "2026-44",
+  "r": "PAHO issues measles prevention advice for travelers ahead of Pope Leo XIV’s visit to Latin America Cristina Mitchell 6 Nov 2026",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Instituto Evandro Chagas comemora 90 anos com programação científica e atividades gratuitas em Belém",
+  "u": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/instituto-evandro-chagas-comemora-90-anos-com-programacao-cientifica-e-atividades-gratuitas-em-belem",
+  "d": "2026-11-06",
+  "df": "06 nov 2026",
+  "f": "MS",
+  "fn": "Ministério da Saúde | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Doença de Chagas aguda"
+  ],
+  "p": 9.0,
+  "se": "2026-44",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "País pode chegar a 860 mil casos prováveis de dengue em 2027",
   "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/pais-pode-chegar-860-mil-casos-provaveis-de-dengue-em-2027",
   "d": "2026-11-06",
@@ -57,6 +223,24 @@
   "c": "atencao"
  },
  {
+  "t": "New PAHO plan aims to accelerate malaria elimination in the Americas over the next four years",
+  "u": "https://www.paho.org/en/news/6-11-2026-new-paho-plan-aims-accelerate-malaria-elimination-americas-over-next-four-years",
+  "d": "2026-11-06",
+  "df": "06 nov 2026",
+  "f": "OPAS",
+  "fn": "OPAS | Notícias",
+  "e": "Américas",
+  "a": [
+   "Malária"
+  ],
+  "p": 8.0,
+  "se": "2026-44",
+  "r": "New PAHO plan aims to accelerate malaria elimination in the Americas over the next four years Cristina Mitchell 6 Nov 2026",
+  "i": "mosquito",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "Projeções de dengue para 2027 apontam cenário parecido com o de anos anteriores",
   "u": "https://agencia.fiocruz.br/projecoes-de-dengue-para-2027-apontam-cenario-parecido-com-o-de-anos-anteriores",
   "d": "2026-11-06",
@@ -71,6 +255,61 @@
   "se": "2026-44",
   "r": "Projeções de dengue para 2027 apontam cenário parecido com o de anos anteriores",
   "i": "mosquito",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Casos de Covid-19 chegam a 54 entre pacientes e funcionários da UPA de Divinópolis",
+  "u": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/06/casos-de-covid-19-chegam-a-54-entre-pacientes-e-funcionarios-da-upa-de-divinopolis.ghtml",
+  "d": "2026-11-06",
+  "df": "06 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 7.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Divinópolis registra quatro mortes por dengue e mais de 2 mil casos em 2026",
+  "u": "https://g1.globo.com/mg/centro-oeste/videos-mgtv-1-edicao/video/divinopolis-registra-quatro-mortes-por-dengue-e-mais-de-2-mil-casos-em-2026-15166260.ghtml",
+  "d": "2026-11-06",
+  "df": "06 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 7.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Nav. ed. pt Giro Saude 6 de novembro de 2026",
+  "u": "https://agencia.fiocruz.br/nav-ed-pt-giro-saude-6-de-novembro-de-2026",
+  "d": "2026-11-06",
+  "df": "06 nov 2026",
+  "f": "Fiocruz",
+  "fn": "Agência Fiocruz de Notícias",
+  "e": "Brasil",
+  "a": [
+   "Mpox",
+   "Dengue"
+  ],
+  "p": 7.0,
+  "se": "2026-44",
+  "r": "Nav. ed. pt Giro Saude 6 de novembro de 2026 Tipo de caixa Duplo horizontal Título Giro Saúde Imagem Chamada Novo episódio do podcast destaca Novembro Azul, mpox e temporada de dengue 2027",
+  "i": "virus",
   "m": [],
   "c": "monitoramento"
  },
