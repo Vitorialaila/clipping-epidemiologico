@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-11-05T18:44:05+00:00",
+  "em": "2026-11-06T00:15:03+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,7 +10,7 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-11-05T18:44:05+00:00",
+  "em": "2026-11-06T00:15:03+00:00",
   "lidos": 40,
   "novos": 0,
   "exemplos": [
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-11-05T18:44:05+00:00",
+  "em": "2026-11-06T00:15:03+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,9 +30,9 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-11-05T18:44:05+00:00",
+  "em": "2026-11-06T00:15:03+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "PAHO calls for health to take a central place on Ibero-America’s political agenda",
    "PAHO expands partnerships with Barcelona institutions to drive innovation and strengthen health systems in the Americas",
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-11-05T18:44:05+00:00",
+  "em": "2026-11-06T00:15:03+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-11-05T18:44:05+00:00",
+  "em": "2026-11-06T00:15:03+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-11-05T18:44:05+00:00",
+  "em": "2026-11-06T00:15:03+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-11-05T18:44:05+00:00",
+  "em": "2026-11-06T00:15:03+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,9 +80,9 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-11-05T18:44:05+00:00",
+  "em": "2026-11-06T00:15:03+00:00",
   "lidos": 2350,
-  "novos": 2,
+  "novos": 0,
   "exemplos": [
    "Cutaneous Aspergillosis Among Extremely Preterm Neonates in Neonatal Intensive Care Units - Michigan and New York, 2023-",
    "Hantavirus Outbreak Caused by Andes Virus Linked to International Cruise Ship Travel - United States, 2026",
@@ -90,9 +90,9 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-11-05T18:44:05+00:00",
+  "em": "2026-11-06T00:15:03+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Call for Volunteers: Session Rapporteurs – CPHIA 2026",
    "Africa CDC solidaire du Kenya, appelle à la levée des restrictions de voyage injustifiées liées à Ebola.",
@@ -100,58 +100,58 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-11-05T18:44:05+00:00",
+  "em": "2026-11-06T00:15:03+00:00",
   "lidos": 15,
-  "novos": 2,
+  "novos": 3,
   "exemplos": [
-   "Pesquisa Nacional de Saúde reforça mobilização no Rio de Janeiro para ampliar participação na coleta de material biológi",
-   "Ministério da Saúde autoriza aquisição de 20 mil doses da vacina contra mpox por meio da Opas",
-   "Terra Indígena Yanomami não registra mortes por malária no primeiro semestre de 2026"
+   "Ministério da Saúde lança novo Regimento Interno com foco em inovação e saúde digital",
+   "Saúde antirracista: Ministério da Saúde participa da Campanha do Mês da Consciência Negra 2026",
+   "Pesquisa Nacional de Saúde Mental retoma coleta em todo o país"
   ]
  },
  "fiocruz": {
-  "em": "2026-11-05T18:44:05+00:00",
+  "em": "2026-11-06T00:15:03+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 4,
   "exemplos": [
-   "InfoGripe: cresce o número de casos de SRAG por metapneumovírus, rinovírus e Covid-19",
-   "Pesquisador da Fiocruz participa da Reforma da Arquitetura Global da Saúde da OMS",
-   "Webinário apresenta projeções para a temporada 2027 de dengue"
+   "Pesquisador da Fiocruz recebe título de Doutor Honoris Causa da Universidade de Córdoba",
+   "Nav. ed. pt Estante comunicação, imprensa e saúde pública",
+   "E-book reúne reflexões sobre a relação entre comunicação, imprensa e saúde pública"
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-11-05T18:44:05+00:00",
+  "em": "2026-11-06T00:15:03+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "Ministério da Saúde vai comprar até 20 mil doses da vacina contra mpox",
    "SUS e Einstein desenvolvem IA para identificação de doenças de pele",
-   "Anvisa aprova primeiro medicamento de GLP-1 oral para obesidade",
-   "Padilha defende proibição das bets e cita impacto no SUS"
+   "Anvisa aprova primeiro medicamento de GLP-1 oral para obesidade"
   ]
  },
  "ses-go": {
-  "em": "2026-11-05T18:44:05+00:00",
-  "lidos": 10,
-  "novos": 3,
-  "exemplos": [
-   "Saúde capacita servidores em gestão de risco nas contratações públicas",
-   "Personagens infantis levam diversão a crianças internadas no Hecad",
-   "Escala Hugo – Novembro"
-  ]
- },
- "agencia-brasil-geral": {
-  "em": "2026-11-05T18:44:05+00:00",
+  "em": "2026-11-06T00:15:03+00:00",
   "lidos": 10,
   "novos": 2,
   "exemplos": [
+   "Crer recebe representantes do Comitê Paralímpico Brasileiro e da Diretoria de Paradesporto de Goiânia para discutir opor",
+   "Goiás participa da articulação nacional para retomar obras públicas paralisadas",
+   "Saúde capacita servidores em gestão de risco nas contratações públicas"
+  ]
+ },
+ "agencia-brasil-geral": {
+  "em": "2026-11-06T00:15:03+00:00",
+  "lidos": 10,
+  "novos": 1,
+  "exemplos": [
+   "Operação contra fraudes faz 34 prisões em dez estados e no DF",
    "Receita apreende brinquedos falsificados da Lego no Porto do Rio",
-   "PF faz operação no Rio para conter repasses ilegais de arma a CACs",
-   "Mega-Sena acumula para R$ 55 milhões; confira os números sorteados"
+   "PF faz operação no Rio para conter repasses ilegais de arma a CACs"
   ]
  },
  "g1-busca": {
-  "em": "2026-11-05T18:44:05+00:00",
-  "lidos": 350,
+  "em": "2026-11-06T00:15:03+00:00",
+  "lidos": 382,
   "novos": 3,
   "exemplos": [
    "Programa SOS AVC registra mais de 900 atendimentos em dois anos em Cuiabá",
@@ -160,8 +160,8 @@
   ]
  },
  "metropoles-busca": {
-  "em": "2026-11-05T18:44:05+00:00",
-  "lidos": 49,
+  "em": "2026-11-06T00:15:03+00:00",
+  "lidos": 47,
   "novos": 0,
   "exemplos": [
    "Teste com cotonete pode evitar biópsias em casos suspeitos de câncer",
@@ -170,9 +170,9 @@
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-11-05T18:44:05+00:00",
+  "em": "2026-11-06T00:15:03+00:00",
   "lidos": 26,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Justiça barra 'mounjaro manipulado' a moradores em cidade do interior de SP",
    "Anvisa define cepas das vacinas contra a gripe para 2027",
@@ -180,27 +180,27 @@
   ]
  },
  "cnn-saude": {
-  "em": "2026-11-05T18:44:05+00:00",
+  "em": "2026-11-06T00:15:03+00:00",
   "lidos": 24,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "Wisconsin infant is US’ third measles-related death this week",
    "A 24-year-old running the NYC marathon collapsed 2 miles from the finish line and died",
-   "Child in New York dies after contracting measles, the state’s first such death in 30 years",
    "Judge blocks Trump administration’s Medicaid rule forcing sick recipients to prove they can’t work"
   ]
  },
  "cnn-busca": {
-  "em": "2026-11-05T18:44:05+00:00",
-  "lidos": 44,
-  "novos": 0,
+  "em": "2026-11-06T00:15:03+00:00",
+  "lidos": 40,
+  "novos": 1,
   "exemplos": [
+   "Wisconsin infant is US’ third measles-related death this week",
    "Child in New York dies after contracting measles, the state’s first such death in 30 years",
-   "How RFK Jr. is highlighting a GOP vulnerability in 2026",
-   "Expecting a new grandchild? Here’s why you may need to see your doctor first"
+   "How RFK Jr. is highlighting a GOP vulnerability in 2026"
   ]
  },
  "inmet": {
-  "em": "2026-11-05T18:44:05+00:00",
+  "em": "2026-11-06T00:15:03+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -210,7 +210,7 @@
   ]
  },
  "cemaden": {
-  "em": "2026-11-05T18:44:05+00:00",
+  "em": "2026-11-06T00:15:03+00:00",
   "lidos": 8,
   "novos": 0,
   "exemplos": [
@@ -220,9 +220,9 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-11-05T18:44:05+00:00",
+  "em": "2026-11-06T00:15:03+00:00",
   "lidos": 24,
-  "novos": 5,
+  "novos": 0,
   "exemplos": [
    "Autorizado repasse de R$ 16,5 milhões para ações de defesa civil",
    "Técnicos preparam Região Sul para tempestade — Ministério da Integração e do Desenvolvimento Regional",
@@ -230,13 +230,13 @@
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-11-05T18:44:05+00:00",
+  "em": "2026-11-06T00:15:03+00:00",
   "lidos": 20,
-  "novos": 11,
+  "novos": 7,
   "exemplos": [
-   "Golpe do falso bancário dá prejuízo de R$ 115 milhões; brasiliense é vítima",
-   "Mpox: DF confirma oito casos em outubro e investiga circulação do vírus",
-   "\"Sem repasse de subsídio, preço dos combustíveis não reduz\""
+   "Nota Legal: morador do DF fatura R$ 1 milhão após comprar sorvete",
+   "Operação desmantela quadrilha do golpe da falsa garota de programa",
+   "Crianças do Jardim de Infância visitam o Mané Garrincha pela primeira vez"
   ]
  }
 }

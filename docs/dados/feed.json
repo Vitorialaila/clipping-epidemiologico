@@ -97,6 +97,25 @@
   "c": "monitoramento"
  },
  {
+  "t": "Ministério da Saúde vai comprar até 20 mil doses da vacina contra mpox",
+  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/ministerio-da-saude-vai-comprar-20-mil-doses-da-vacina-contra-mpox",
+  "d": "2026-11-05",
+  "df": "05 nov 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Mpox",
+   "Saúde Única: zoonoses e eventos em animais"
+  ],
+  "p": 10.5,
+  "se": "2026-44",
+  "r": "O Ministério da Saúde vai adquirir até 20 mil doses da vacina contra a mpox para reforçar o estoque do imunizante no Sistema Único de Saúde (SUS). Segundo a pasta, a compra tem caráter preventivo e estratégico. A mpox é uma doença viral zoonótica…",
+  "i": "animal",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "Ministério da Saúde autoriza aquisição de 20 mil doses da vacina contra mpox por meio da Opas",
   "u": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/ministerio-da-saude-autoriza-aquisicao-de-20-mil-doses-da-vacina-contra-mpox-por-meio-da-opas",
   "d": "2026-11-05",
@@ -152,6 +171,24 @@
   "c": "atencao"
  },
  {
+  "t": "Itapeva suspende cobrança de água e esgoto por 30 dias após surto de virose",
+  "u": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/05/itapeva-suspende-cobranca-de-agua-e-esgoto-por-30-dias-apos-surto-de-virose.ghtml",
+  "d": "2026-11-05",
+  "df": "05 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Doenças transmitidas por alimentos e água"
+  ],
+  "p": 10.0,
+  "se": "2026-44",
+  "r": "",
+  "i": "agua",
+  "m": [],
+  "c": "atencao"
+ },
+ {
   "t": "Defesa Civil alerta para chuvas intensas e ventos fortes nos próximos dias",
   "u": "https://cotia.sp.gov.br/defesa-civil-alerta-para-chuvas-intensas-e-ventos-fortes-nos-proximos-dias/",
   "d": "2026-11-05",
@@ -187,6 +224,44 @@
   "i": "desastre",
   "m": [],
   "c": "monitoramento"
+ },
+ {
+  "t": "E-book reúne reflexões sobre a relação entre comunicação, imprensa e saúde pública",
+  "u": "https://agencia.fiocruz.br/e-book-reune-reflexoes-sobre-relacao-entre-comunicacao-imprensa-e-saude-publica",
+  "d": "2026-11-05",
+  "df": "05 nov 2026",
+  "f": "Fiocruz",
+  "fn": "Agência Fiocruz de Notícias",
+  "e": "DF",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 8.5,
+  "se": "2026-44",
+  "r": "E-book reúne reflexões sobre a relação entre comunicação, imprensa e saúde pública A comunicação como direito fundamental, instrumento de promoção da saúde e estratégia de enfrentamento à desinformação é o tema central do e-book As relações da saúde pública…",
+  "i": "respiratorio",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Wisconsin infant is US’ third measles-related death this week",
+  "u": "https://edition.cnn.com/2026/11/05/health/measles-death-wisconsin-infant",
+  "d": "2026-11-05",
+  "df": "05 nov 2026",
+  "f": "CNN",
+  "fn": "CNN | Health",
+  "e": "Internacional",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 8.0,
+  "se": "2026-44",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Maranhão registra quase 9 mil casos de dengue e alta de 143% no ano",
@@ -239,6 +314,42 @@
   "se": "2026-44",
   "r": "",
   "i": "respiratorio",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Tubarão reforça combate à dengue após registrar 733 focos do mosquito",
+  "u": "https://g1.globo.com/rs/rio-grande-do-sul/videos-jornal-do-almoco/video/tubarao-reforca-combate-a-dengue-apos-registrar-733-focos-do-mosquito-15162995.ghtml",
+  "d": "2026-11-05",
+  "df": "05 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 7.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Pesquisador da Fiocruz recebe título de Doutor Honoris Causa da Universidade de Córdoba",
+  "u": "https://agencia.fiocruz.br/pesquisador-da-fiocruz-recebe-titulo-de-doutor-honoris-causa-da-universidade-de-cordoba",
+  "d": "2026-11-05",
+  "df": "05 nov 2026",
+  "f": "Fiocruz",
+  "fn": "Agência Fiocruz de Notícias",
+  "e": "Brasil",
+  "a": [
+   "Malária"
+  ],
+  "p": 6.0,
+  "se": "2026-44",
+  "r": "Pesquisador da Fiocruz recebe título de Doutor Honoris Causa da Universidade de Córdoba O pesquisador da Fiocruz Cláudio Tadeu Daniel-Ribeiro recebeu, em 27 de outubro, o título de Doutor Honoris Causa da Universidade Nacional de Córdoba (UNC), na Argentina…",
+  "i": "mosquito",
   "m": [],
   "c": "monitoramento"
  },
@@ -895,6 +1006,24 @@
  },
  {
   "t": "Criança morre por sarampo em Nova York e estado registra primeira morte pela doença em mais de 30 anos",
+  "u": "https://g1.globo.com/saude/noticia/2026/11/03/eua-confirmam-6a-morte-por-sarampo-este-ano-e-tem-pior-quadro-de-sarampo-em-mais-de-30-anos-entenda.ghtml",
+  "d": "2026-11-03",
+  "df": "03 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Américas",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 8.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "EUA confirmam 6ª morte por sarampo este ano e tem pior quadro de saram",
   "u": "https://g1.globo.com/saude/noticia/2026/11/03/eua-confirmam-6a-morte-por-sarampo-este-ano-e-tem-pior-quadro-de-sarampo-em-mais-de-30-anos-entenda.ghtml",
   "d": "2026-11-03",
   "df": "03 nov 2026",
