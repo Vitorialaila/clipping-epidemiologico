@@ -207,6 +207,24 @@
   "c": "monitoramento"
  },
  {
+  "t": "São Paulo confirma cerca de 60 casos de Mpox nos últimos 30 dias",
+  "u": "https://www.cnnbrasil.com.br/saude/sao-paulo-confirma-cerca-de-60-casos-de-mpox-nos-ultimos-30-dias/",
+  "d": "2026-11-05",
+  "df": "05 nov 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Defesa Civil de SP renova alerta de temporais e ativa gabinete de crise",
   "u": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-de-sp-renova-alerta-de-temporais-e-ativa-gabinete-de-crise-remoto/",
   "d": "2026-11-05",
@@ -320,6 +338,24 @@
  {
   "t": "Tubarão reforça combate à dengue após registrar 733 focos do mosquito",
   "u": "https://g1.globo.com/rs/rio-grande-do-sul/videos-jornal-do-almoco/video/tubarao-reforca-combate-a-dengue-apos-registrar-733-focos-do-mosquito-15162995.ghtml",
+  "d": "2026-11-05",
+  "df": "05 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 7.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Prudente entra em alerta de risco para dengue e Fiocruz projeta 1,5 milhão de casos no paí",
+  "u": "https://g1.globo.com/sp/bauru-marilia/videos-tem-noticias-2-edicao/video/prudente-entra-em-alerta-de-risco-para-dengue-e-fiocruz-projeta-15-milhao-de-casos-no-pai-15164015.ghtml",
   "d": "2026-11-05",
   "df": "05 nov 2026",
   "f": "G1",
@@ -1163,6 +1199,24 @@
   "se": "2026-44",
   "r": "",
   "i": "clima",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Menina de 4 anos morre vítima de picada de escorpião em meio à alta de casos em cidade de MS",
+  "u": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/03/menina-de-4-anos-morre-vitima-de-picada-de-escorpiao-em-meio-a-alta-de-casos-em-cidade-de-ms.ghtml",
+  "d": "2026-11-03",
+  "df": "03 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Acidentes por animais peçonhentos"
+  ],
+  "p": 7.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "animal",
   "m": [],
   "c": "atencao"
  },
@@ -5267,44 +5321,6 @@
   "p": 6.0,
   "se": "2026-32",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 8 - 14 August 2026, and includes updates on Ebola, chikungunya, dengue, West Nile Virus infection, Crimean-Congo haemorrhagic fever, Vibrio, respiratory virus epidemiology in…",
-  "i": "virus",
-  "m": [],
-  "c": "atencao"
- },
- {
-  "t": "Epidemiological Alert Measles in the Americas Region - 7 August 2026",
-  "u": "https://www.paho.org/en/documents/epidemiological-alert-measles-americas-region-7-august-2026",
-  "d": "2026-08-07",
-  "df": "07 ago 2026",
-  "f": "OPAS",
-  "fn": "OPAS | Alertas e atualizações epidemiológicas",
-  "e": "Américas",
-  "a": [
-   "Sarampo"
-  ],
-  "p": 12.5,
-  "se": "2026-31",
-  "r": "",
-  "i": "virus",
-  "m": [],
-  "c": "alerta"
- },
- {
-  "t": "Communicable disease threats report, 1 - 7 August 2026, week 32",
-  "u": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-1-7-august-2026-week-32",
-  "d": "2026-08-07",
-  "df": "07 ago 2026",
-  "f": "ECDC",
-  "fn": "ECDC | Communicable Disease Threats Report",
-  "e": "Internacional",
-  "a": [
-   "Febres hemorrágicas virais",
-   "Doença pelo vírus Ebola",
-   "Febre do Nilo Ocidental"
-  ],
-  "p": 6.0,
-  "se": "2026-31",
-  "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 1 - 7 August 2026, and includes updates on Ebola, chikungunya, dengue, West Nile Virus infection, Crimean-Congo haemorrhagic fever, Vibrio, respiratory virus epidemiology in…",
   "i": "virus",
   "m": [],
   "c": "atencao"

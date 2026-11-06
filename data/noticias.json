@@ -1,5 +1,26 @@
 [
  {
+  "id": "57c02eb2d84698",
+  "titulo": "Equipe da Agência Brasil vence Seleção Petrobras de Jornalismo",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/equipe-da-agencia-brasil-vence-selecao-petrobras-de-jornalismo",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-11-06",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "O repórter Rafael Cardoso e a fotógrafa Tânia Rêgo estão entre os vencedores da Seleção Petrobras de Jornalismo. Eles receberão uma bolsa para desenvolver reportagem com o tema Ciência e Energias do Futuro. O resultado da seleção foi divulgado nesta quinta-feira (5). Ao todo, 14 propostas de reportagens foram contempladas em 12 estados do país. Os jornalistas ou equipes de jornalistas selecionados receberão bolsas no valor de R$ 20 mil reais cada para a produção das reportagens. A bolsa permitirá que a equipe desenvolva conteúdos especiais. A proposta selecionada é Quem mantém a luz acesa? Ciência, energia solar e autonomia Baniwa no Rio Negro. \"O acesso à energia ainda é um desafio para populações periféricas e comunidades mais isoladas dos centros urbanos. E uma das funções da comunicação pública é justamente olhar para lugares e pessoas que podem passar à margem da cobertura da mídia tradicional privada. Nesse sentido, a bolsa de reportagem permite que cheguemos até essas regiões e consigamos dar voz para quem não costuma ser ouvido\", diz Rafael Cardoso. \"A premiação do Rafael Cardoso e da Tânia Rêgo reafirma o compromisso histórico da EBC com o jornalismo público, investigativo e de profundidade. Levar a cobertura para o interior da Amazônia, dando luz à inovação e à autonomia do povo Baniwa, é a essência da nossa missão: mostrar um Brasil diverso, sustentável e que muitas vezes fica fora da grande mídia privada.\", afirmou a diretora de Jornalismo da EBC, Myrian Pereira…",
+  "coletado_em": "2026-11-06T06:49:02+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
   "id": "a41da29cc656c5",
   "titulo": "Mpox: DF confirma oito casos em outubro e investiga circulação do vírus",
   "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7533212-mpox-df-confirma-oito-casos-em-outubro-e-investiga-circulacao-do-virus.html",
@@ -276,6 +297,29 @@
   "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · Brasil"
  },
  {
+  "id": "690dd2659ca696",
+  "titulo": "São Paulo confirma cerca de 60 casos de Mpox nos últimos 30 dias",
+  "url": "https://www.cnnbrasil.com.br/saude/sao-paulo-confirma-cerca-de-60-casos-de-mpox-nos-ultimos-30-dias/",
+  "fonte_id": "cnn-brasil-saude",
+  "fonte": "CNN Brasil | Saúde",
+  "sigla": "CNN Brasil",
+  "idioma": "pt",
+  "data": "2026-11-05",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-06T06:49:02+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Mpox"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "Mpox (notificação imediata) · confirma · Brasil"
+ },
+ {
   "id": "b3908d6052fd18",
   "titulo": "Defesa Civil de SP renova alerta de temporais e ativa gabinete de crise",
   "url": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-de-sp-renova-alerta-de-temporais-e-ativa-gabinete-de-crise-remoto/",
@@ -465,6 +509,29 @@
   "termos_evento": [],
   "categoria": "atencao",
   "motivo": "Dengue (notificação semanal) · focos · Brasil"
+ },
+ {
+  "id": "99fb0cc135a2b9",
+  "titulo": "Prudente entra em alerta de risco para dengue e Fiocruz projeta 1,5 milhão de casos no paí",
+  "url": "https://g1.globo.com/sp/bauru-marilia/videos-tem-noticias-2-edicao/video/prudente-entra-em-alerta-de-risco-para-dengue-e-fiocruz-projeta-15-milhao-de-casos-no-pai-15164015.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-05",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-06T06:49:02+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Dengue"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "atencao",
+  "motivo": "Dengue (notificação semanal) · 1,5 milhão de casos · Brasil"
  },
  {
   "id": "fc54f25d835eed",
@@ -1564,6 +1631,52 @@
   "se": "2026-44",
   "descricao": "",
   "coletado_em": "2026-11-06T00:15:03+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "4ff37feb02eb09",
+  "titulo": "Distrito Federal altera legislação do transporte coletivo escolar",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7534157-distrito-federal-altera-legislacao-do-transporte-coletivo-escolar.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-05",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-06T06:49:02+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "75de91cdd03e34",
+  "titulo": "Treze gatos em situação de maus-tratos são resgatados em Planaltina",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7534100-treze-gatos-em-situacao-de-maus-tratos-sao-resgatados-em-planaltina.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-05",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-06T06:49:02+00:00",
   "municipios": [
    "Distrito Federal"
   ],
@@ -3762,6 +3875,31 @@
   "termos_evento": [],
   "categoria": "atencao",
   "motivo": "Saúde ambiental e clima · Reconhecida emergência · Brasil"
+ },
+ {
+  "id": "f144d23a4d9e4c",
+  "titulo": "Menina de 4 anos morre vítima de picada de escorpião em meio à alta de casos em cidade de MS",
+  "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/03/menina-de-4-anos-morre-vitima-de-picada-de-escorpiao-em-meio-a-alta-de-casos-em-cidade-de-ms.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-03",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-06T06:49:02+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Acidentes por animais peçonhentos"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alta de casos"
+  ],
+  "categoria": "atencao",
+  "motivo": "Acidentes por animais peçonhentos (notificação semanal) · morre · Brasil"
  },
  {
   "id": "9ee18bb4457f32",
