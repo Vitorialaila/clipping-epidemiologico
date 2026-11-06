@@ -1,5 +1,80 @@
 [
  {
+  "t": "Defesa Civil alerta para possibilidade de novos temporais em Lages nesta sexta-feira e sábado",
+  "u": "https://www.lages.sc.gov.br/noticia-descricao/11219/defesa-civil-alerta-para-possibilidade-de-novos-temporais-em-lages-nesta-sexta-feira-e-sabado",
+  "d": "2026-11-06",
+  "df": "06 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura de Lages",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 11.0,
+  "se": "2026-44",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Cidades paulistas fazem varredura para rastrear casos de sarampo e rubéola",
+  "u": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/videos-bom-dia-cidade/video/cidades-paulistas-fazem-varredura-para-rastrear-casos-de-sarampo-e-rubeola-15164524.ghtml",
+  "d": "2026-11-06",
+  "df": "06 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Sarampo",
+   "Rubéola"
+  ],
+  "p": 10.0,
+  "se": "2026-44",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "País pode chegar a 860 mil casos prováveis de dengue em 2027",
+  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/pais-pode-chegar-860-mil-casos-provaveis-de-dengue-em-2027",
+  "d": "2026-11-06",
+  "df": "06 nov 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Dengue",
+   "Saúde ambiental e clima"
+  ],
+  "p": 8.5,
+  "se": "2026-44",
+  "r": "O Brasil pode chegar a contabilizar 860 mil casos prováveis de dengue em 2027. Os resultados foram apresentados nesta sexta-feira (6) no webinário Preparação para a temporada de dengue 2027, promovido pela Fundação Oswaldo Cruz), Fundação Getulio Vargas…",
+  "i": "mosquito",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Projeções de dengue para 2027 apontam cenário parecido com o de anos anteriores",
+  "u": "https://agencia.fiocruz.br/projecoes-de-dengue-para-2027-apontam-cenario-parecido-com-o-de-anos-anteriores",
+  "d": "2026-11-06",
+  "df": "06 nov 2026",
+  "f": "Fiocruz",
+  "fn": "Agência Fiocruz de Notícias",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 7.5,
+  "se": "2026-44",
+  "r": "Projeções de dengue para 2027 apontam cenário parecido com o de anos anteriores",
+  "i": "mosquito",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "Mpox: DF confirma oito casos em outubro e investiga circulação do vírus",
   "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7533212-mpox-df-confirma-oito-casos-em-outubro-e-investiga-circulacao-do-virus.html",
   "d": "2026-11-05",
