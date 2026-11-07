@@ -1,5 +1,23 @@
 [
  {
+  "t": "Teto de loja de roupas desaba no Brás, em São Paulo",
+  "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/teto-de-loja-de-roupas-desaba-no-bras-em-sao-paulo",
+  "d": "2026-11-07",
+  "df": "07 nov 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Geral",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres"
+  ],
+  "p": 8.5,
+  "se": "2026-44",
+  "r": "O teto de uma loja de roupas desabou no Brás, na capital paulista, na noite desta sexta-feira (6). O estabelecimento fica na Rua Maria Joaquina, número 192. Equipes da Polícia Militar, do Corpo de Bombeiros e da Defesa Civil de São Paulo atuam no atendimento…",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "São Paulo confirma 67 casos de mpox em um mês",
   "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/sao-paulo-registra-67-casos-confirmados-de-mpox-em-um-mes",
   "d": "2026-11-06",
@@ -168,6 +186,24 @@
   "c": "atencao"
  },
  {
+  "t": "ES registra recorde de seis casos de mpox em apenas uma semana; total no ano chega a 17",
+  "u": "https://g1.globo.com/google/amp/es/espirito-santo/noticia/2026/11/06/es-registra-recorde-de-seis-casos-de-mpox-em-apenas-uma-semana-total-no-ano-chega-a-17.ghtml",
+  "d": "2026-11-06",
+  "df": "06 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "PAHO issues measles prevention advice for travelers ahead of Pope Leo XIV’s visit to Latin America",
   "u": "https://www.paho.org/en/news/6-11-2026-paho-issues-measles-prevention-advice-travelers-ahead-pope-leo-xivs-visit-latin",
   "d": "2026-11-06",
@@ -293,6 +329,24 @@
   "i": "mosquito",
   "m": [],
   "c": "alerta"
+ },
+ {
+  "t": "Região Sul se prepara para novas tempestades — Ministério da Integração e do Desenvolvimento Regional",
+  "u": "https://www.gov.br/mdr/pt-br/noticias/regiao-sul-se-prepara-para-novas-tempestades",
+  "d": "2026-11-06",
+  "df": "06 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Governo Federal",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Nav. ed. pt Giro Saude 6 de novembro de 2026",
@@ -1533,6 +1587,22 @@
   "i": "animal",
   "m": [],
   "c": "atencao"
+ },
+ {
+  "t": "Rio das Flores (RJ) obtém o reconhecimento federal de situação de emergência por causa de fortes chuvas",
+  "u": "https://www.gov.br/mdr/pt-br/noticias/rio-das-flores-rj-obtem-o-reconhecimento-federal-de-situacao-de-emergencia-por-causa-de-fortes-chuvas",
+  "d": "2026-11-03",
+  "df": "03 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "www.gov.br",
+  "e": "Brasil",
+  "a": [],
+  "p": 7.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "alerta",
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Africa CDC solidaire du Kenya, appelle à la levée des restrictions de voyage injustifiées liées à Ebola.",
