@@ -1,5 +1,30 @@
 [
  {
+  "id": "a657b17472c3d3",
+  "titulo": "Vacinação focada em grupos mais vulneráveis é eficaz contra mpox",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/nao-ha-necessidade-de-vacinacao-da-populacao-contra-mpox",
+  "fonte_id": "agencia-brasil-saude",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "Os casos de mpox que surgiram no Brasil em 2026 levaram o Ministério da Saúde a comprar até 20 mil doses da vacina em caráter preventivo e estratégico. A doença se manifesta no início com erupções na pele, manchas, viram bolhas e forma crostas. Os sintomas da doença aparecem com mais frequência no rosto, mãos, pés, boca e região genital e ínguas na virilha. De acordo com a médica infectologista Carolina Lázari, que integra a Sociedade Brasileira de Patologia Clínica e Medicina Laboratorial (SBPC/ML) disse que o Brasil já registrou até outubro, 665 casos da doença, sem óbito.",
+  "coletado_em": "2026-11-07T13:59:54+00:00",
+  "municipios": [],
+  "pontuacao": 11.5,
+  "agravos": [
+   "Mpox"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "obito"
+  ],
+  "categoria": "monitoramento",
+  "motivo": "Mpox (notificação imediata) · sem ocorrência relatada no título · Brasil"
+ },
+ {
   "id": "89283e1407b159",
   "titulo": "Teto de loja de roupas desaba no Brás, em São Paulo",
   "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/teto-de-loja-de-roupas-desaba-no-bras-em-sao-paulo",
@@ -37,6 +62,144 @@
   "se": "2026-44",
   "descricao": "",
   "coletado_em": "2026-11-07T07:08:22+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "0acdffc819d2ff",
+  "titulo": "Vice-governador eleito, Gustavo Rocha assume função estratégica desde já",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7534796-vice-governador-eleito-gustavo-rocha-assume-funcao-estrategica-desde-ja.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-07T13:59:54+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "fdac92bc2e347e",
+  "titulo": "Acidente na BR-040 deixa um morto e três feridos em Santa Maria",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7534855-acidente-na-br-040-deixa-um-morto-e-tres-feridos-em-santa-maria.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-07T13:59:54+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "89395b8e96d03f",
+  "titulo": "Com máxima de 31°C, DF tem sábado de céu nublado e umidade caindo para 35%",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7534852-com-maxima-de-31-c-df-tem-sabado-de-ceu-nublado-e-umidade-caindo-para-35.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-07T13:59:54+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "de5f08fb8ad3f4",
+  "titulo": "Na era do comércio eletrônico, feiras lutam para se manter no DF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7532535-na-era-do-comercio-eletronico-feiras-lutam-para-se-manter-no-df.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-07T13:59:54+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "4dc66c7c441cac",
+  "titulo": "Passeio em cachoeira: confira as dicas para garantir diversão com segurança",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7534036-passeio-em-cachoeira-confira-as-dicas-para-garantir-diversao-com-seguranca.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-07T13:59:54+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "2386473fcd0bed",
+  "titulo": "Consumidores estão em alerta contra golpes nas compras de fim de ano",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7534475-consumidores-estao-em-alerta-contra-golpes-nas-compras-de-fim-de-ano.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-07T13:59:54+00:00",
   "municipios": [
    "Distrito Federal"
   ],
