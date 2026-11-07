@@ -1,5 +1,60 @@
 [
  {
+  "id": "81f56841f995a8",
+  "titulo": "Covid-19: pelo menos 5 estados registram aumento de casos graves",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/covid-19-pelo-menos-5-estados-registram-aumento-de-casos-graves",
+  "fonte_id": "agencia-brasil-saude",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "O número de casos de Síndrome Respiratória Aguda Grave (SRAG) no Brasil aumentou ao longo dos meses de setembro e outubro, incluindo os casos causados por quadros graves de infecção por covid-19. Os dados são da Fundação Oswaldo Cruz (Fiocruz). De acordo com o último Boletim InfoGripe, há sinais de aumento do número de casos graves de covid-19 em pelo menos cinco unidades da Federação: Mato Grosso, Distrito Federal, São Paulo, Rio de Janeiro e Santa Catarina.",
+  "coletado_em": "2026-11-07T18:46:52+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 14.5,
+  "agravos": [
+   "COVID-19",
+   "Influenza e vírus respiratórios"
+  ],
+  "escopo": "DF",
+  "termos_evento": [
+   "boletim",
+   "aumento de casos"
+  ],
+  "categoria": "alerta",
+  "motivo": "COVID-19 (notificação imediata) · aumento de casos · DF e RIDE"
+ },
+ {
+  "id": "534624a75d4b13",
+  "titulo": "Frio diminui a partir de quinta em SP e Defesa Civil alerta para baixa umidade; veja como está o clima na sua região",
+  "url": "https://www.agenciasp.sp.gov.br/defesa-civil/frio-vai-ate-quinta-feira-13-no-estado-de-sp-veja-previsao-da-semana-na-sua-regiao/",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "agenciasp.sp.gov.br",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-07T18:46:52+00:00",
+  "municipios": [],
+  "pontuacao": 12.0,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "baixa umidade",
+   "alerta para"
+  ],
+  "categoria": "monitoramento",
+  "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · Brasil"
+ },
+ {
   "id": "a657b17472c3d3",
   "titulo": "Vacinação focada em grupos mais vulneráveis é eficaz contra mpox",
   "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/nao-ha-necessidade-de-vacinacao-da-populacao-contra-mpox",
@@ -25,6 +80,79 @@
   "motivo": "Mpox (notificação imediata) · sem ocorrência relatada no título · Brasil"
  },
  {
+  "id": "ab7eef0bfcfb21",
+  "titulo": "Surto de doença de Chagas por vinho de patauá mobiliza saúde e deixa paciente em UTI no Pará",
+  "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/07/surto-de-doenca-de-chagas-por-vinho-de-pataua-mobiliza-saude-e-deixa-paciente-em-uti-no-para.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-07T18:46:52+00:00",
+  "municipios": [],
+  "pontuacao": 11.0,
+  "agravos": [
+   "Doença de Chagas aguda"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "surto"
+  ],
+  "categoria": "alerta",
+  "motivo": "Doença de Chagas aguda (notificação imediata) · Surto · Brasil"
+ },
+ {
+  "id": "a34ff7e2c0e4b8",
+  "titulo": "Mais de 5 mil casos: surto de sarampo nos EUA em 2026 é o maior em 35 anos",
+  "url": "https://www.metropoles.com/saude/mais-de-5-mil-casos-surto-de-sarampo-nos-eua-em-2026-e-o-maior-em-35-anos",
+  "fonte_id": "metropoles-busca",
+  "fonte": "Metrópoles",
+  "sigla": "Metrópoles",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-07T18:46:52+00:00",
+  "municipios": [],
+  "pontuacao": 11.0,
+  "agravos": [
+   "Sarampo"
+  ],
+  "escopo": "Américas",
+  "termos_evento": [
+   "surto"
+  ],
+  "categoria": "alerta",
+  "motivo": "Sarampo (notificação imediata) · surto · Américas"
+ },
+ {
+  "id": "2de5520851036e",
+  "titulo": "Dia D de vacinação contra o sarampo mobiliza a tríplice fronteira neste sábado (7)",
+  "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/dia-d-de-vacinacao-contra-o-sarampo-mobiliza-a-triplice-fronteira-neste-sabado-7",
+  "fonte_id": "ms-noticias",
+  "fonte": "Ministério da Saúde | Notícias",
+  "sigla": "MS",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-07T18:46:52+00:00",
+  "municipios": [],
+  "pontuacao": 10.0,
+  "agravos": [
+   "Sarampo"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": "Sarampo (notificação imediata) · sem ocorrência relatada no título · Brasil"
+ },
+ {
   "id": "89283e1407b159",
   "titulo": "Teto de loja de roupas desaba no Brás, em São Paulo",
   "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/teto-de-loja-de-roupas-desaba-no-bras-em-sao-paulo",
@@ -48,6 +176,29 @@
   ],
   "categoria": "monitoramento",
   "motivo": "Emergências e desastres · aviso, previsão ou sem impacto relatado · Brasil"
+ },
+ {
+  "id": "d47a7371b19ae5",
+  "titulo": "Municípios da tríplice fronteira recebem mobilização contra o sarampo",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/municipios-da-triplice-fronteira-recebem-mobilizacao-contra-o-sarampo",
+  "fonte_id": "agencia-brasil-saude",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "Municípios da chamada tríplice fronteira entre Brasil, Peru e Colômbia recebem neste sábado (7) uma mobilização conjunta de vacinação contra o sarampo. No lado brasileiro, a ação acontece em Tabatinga (AM), Benjamin Constant (AM), São Paulo de Olivença (AM) e Atalaia do Norte (AM). Em nota, o Ministério da Saúde informou que a estratégia, realizada em parceria com os governos locais, busca ampliar a proteção da população diante do avanço do sarampo nas Américas, incluindo em países vizinhos ao Brasil. A proposta é intensificar a vacinação em portos, comunidades ribeirinhas e áreas indígenas.",
+  "coletado_em": "2026-11-07T18:46:52+00:00",
+  "municipios": [],
+  "pontuacao": 5.0,
+  "agravos": [
+   "Sarampo"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": "Sarampo (notificação imediata) · estudo, orientação ou relato retrospectivo · Brasil"
  },
  {
   "id": "32a0e1afd9f82f",
@@ -206,6 +357,48 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "c93602192fe094",
+  "titulo": "Ministério da Saúde inaugura unidade de saúde indígena no Pará",
+  "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/ministerio-da-saude-inaugura-unidade-de-saude-indigena-no-para",
+  "fonte_id": "ms-noticias",
+  "fonte": "Ministério da Saúde | Notícias",
+  "sigla": "MS",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-07T18:46:52+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "879717f2e749f7",
+  "titulo": "Bombeiros continuam buscas em prédio que desabou no Brás",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/bombeiros-continuam-buscas-em-predio-que-desabou-no-bras",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "O Corpo de Bombeiros retomou as buscas na manhã deste sábado (7) nos escombros do prédio que desabou na noite desta sexta-feira (6) no bairro do Brás, região central da cidade de São Paulo. As equipes de salvamento atuam com dois cães de salvamento para auxiliar na indicação de vítimas. “O trabalho de retirada de material com o uso dos maquinários continuará até termos certeza que não há vítimas sob os escombros. Com essas informações, as chances de termos pessoas lá diminuíram consideravelmente, mas não podemos excluir totalmente essa possibilidade”, disse o Corpo de Bombeiros. Segundo a corporação, foram resgatadas 29 pessoas e testemunhas disseram que havia 36 no local, mas até o momento a indicação é que essas outras 13 não estavam no local quando o salvamento chegou. Quatro pessoas foram encaminhadas para a UPA (Unidade de Pronto Atendimento) com escoriações sem gravidade e as demais foram saíram antes da chegada dos Bombeiros. Segundo as informações do Corpo de Bombeiros, no imóvel, na Rua Maria Joaquina, número 192, funcionava uma loja de roupas e no momento do acidente, trabalhadores estavam descarregando mercadorias. Um homem, retirado pelas equipes de salvamento, teria entrado no estabelecimento apenas para usar o banheiro.",
+  "coletado_em": "2026-11-07T18:46:52+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
   "termos_evento": [],
   "categoria": "monitoramento",
   "motivo": ""

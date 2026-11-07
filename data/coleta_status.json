@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-11-07T13:59:54+00:00",
+  "em": "2026-11-07T18:46:52+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,7 +10,7 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-11-07T13:59:54+00:00",
+  "em": "2026-11-07T18:46:52+00:00",
   "lidos": 40,
   "novos": 0,
   "exemplos": [
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-11-07T13:59:54+00:00",
+  "em": "2026-11-07T18:46:52+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-11-07T13:59:54+00:00",
+  "em": "2026-11-07T18:46:52+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-11-07T13:59:54+00:00",
+  "em": "2026-11-07T18:46:52+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-11-07T13:59:54+00:00",
+  "em": "2026-11-07T18:46:52+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-11-07T13:59:54+00:00",
+  "em": "2026-11-07T18:46:52+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-11-07T13:59:54+00:00",
+  "em": "2026-11-07T18:46:52+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-11-07T13:59:54+00:00",
+  "em": "2026-11-07T18:46:52+00:00",
   "lidos": 2350,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-11-07T13:59:54+00:00",
+  "em": "2026-11-07T18:46:52+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,17 +100,17 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-11-07T13:59:54+00:00",
+  "em": "2026-11-07T18:46:52+00:00",
   "lidos": 15,
-  "novos": 0,
+  "novos": 2,
   "exemplos": [
-   "Lula sanciona lei que fortalece avaliação da formação médica e torna Enamed requisito para exercício da profissão",
-   "Pesquisa financiada pelo Ministério da Saúde disponibiliza plataforma com dados genéticos nacionais que qualificam diagn",
-   "Dois anos do Novo Acordo do Rio Doce: ações de saúde chegam R$ 825,6 milhões repassados a 49 municípios"
+   "Ministério da Saúde inaugura unidade de saúde indígena no Pará",
+   "Dia D de vacinação contra o sarampo mobiliza a tríplice fronteira neste sábado (7)",
+   "Lula sanciona lei que fortalece avaliação da formação médica e torna Enamed requisito para exercício da profissão"
   ]
  },
  "fiocruz": {
-  "em": "2026-11-07T13:59:54+00:00",
+  "em": "2026-11-07T18:46:52+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -120,17 +120,17 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-11-07T13:59:54+00:00",
+  "em": "2026-11-07T18:46:52+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 2,
   "exemplos": [
-   "Vacinação focada em grupos mais vulneráveis é eficaz contra mpox",
-   "São Paulo confirma 67 casos de mpox em um mês",
-   "Governo altera regras da perícia para concessão do auxílio-doença"
+   "Covid-19: pelo menos 5 estados registram aumento de casos graves",
+   "Municípios da tríplice fronteira recebem mobilização contra o sarampo",
+   "Vacinação focada em grupos mais vulneráveis é eficaz contra mpox"
   ]
  },
  "ses-go": {
-  "em": "2026-11-07T13:59:54+00:00",
+  "em": "2026-11-07T18:46:52+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -140,67 +140,67 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-11-07T13:59:54+00:00",
+  "em": "2026-11-07T18:46:52+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "Bombeiros continuam buscas em prédio que desabou no Brás",
    "Teto de loja de roupas desaba no Brás, em São Paulo",
-   "Moradores do campo receberão moradias do Minha Casa, Minha Vida",
-   "Receita apreende artigos de futebol falsificados no Porto do Rio"
+   "Moradores do campo receberão moradias do Minha Casa, Minha Vida"
   ]
  },
  "g1-busca": {
-  "em": "2026-11-07T13:59:54+00:00",
-  "lidos": 355,
-  "novos": 0,
+  "em": "2026-11-07T18:46:52+00:00",
+  "lidos": 345,
+  "novos": 1,
   "exemplos": [
+   "Instituto Federal investiga uso de IA em caso suspeito de racismo contra aluna no interior de SP",
    "Mobilização nacional busca casos suspeitos de sarampo",
-   "Programa SOS AVC registra mais de 900 atendimentos em dois anos em Cuiabá",
-   "Ministério da Saúde envia 100 doses de vacina contra Mpox ao DF; público-alvo é restrito"
+   "Programa SOS AVC registra mais de 900 atendimentos em dois anos em Cuiabá"
   ]
  },
  "metropoles-busca": {
-  "em": "2026-11-07T13:59:54+00:00",
-  "lidos": 50,
-  "novos": 0,
+  "em": "2026-11-07T18:46:52+00:00",
+  "lidos": 49,
+  "novos": 1,
   "exemplos": [
-   "Teste com cotonete pode evitar biópsias em casos suspeitos de câncer",
    "Mpox: governo reforça volume de vacina no Rio para lidar com alta de casos",
-   "\"Compramos um sonho\", diz mulher vítima de golpe da falsa cirurgia de mama"
+   "\"Compramos um sonho\", diz mulher vítima de golpe da falsa cirurgia de mama",
+   "Áudios e prints revelam golpe em mulheres que pagaram por cirurgia de mama"
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-11-07T13:59:54+00:00",
+  "em": "2026-11-07T18:46:52+00:00",
   "lidos": 25,
   "novos": 0,
   "exemplos": [
+   "Acupuntura e infertilidade: entenda como ela pode ajudar no tratamento",
    "Perda súbita de visão: saiba quando procurar um especialista com Dr. Kalil",
-   "SemaClique: nova caneta com fabricação nacional chega às farmácias",
-   "Terçol que não cura pode ser sinal de câncer, diz especialista a Kalil"
+   "SemaClique: nova caneta com fabricação nacional chega às farmácias"
   ]
  },
  "cnn-saude": {
-  "em": "2026-11-07T13:59:54+00:00",
+  "em": "2026-11-07T18:46:52+00:00",
   "lidos": 24,
   "novos": 0,
   "exemplos": [
+   "A promising drug for an inherited heart risk flops, stunning doctors",
    "Wisconsin infant is US’ third measles-related death this week",
-   "A 24-year-old running the NYC marathon collapsed 2 miles from the finish line and died",
-   "Judge blocks Trump administration’s Medicaid rule forcing sick recipients to prove they can’t work"
+   "A 24-year-old running the NYC marathon collapsed 2 miles from the finish line and died"
   ]
  },
  "cnn-busca": {
-  "em": "2026-11-07T13:59:54+00:00",
-  "lidos": 39,
+  "em": "2026-11-07T18:46:52+00:00",
+  "lidos": 41,
   "novos": 0,
   "exemplos": [
    "Wisconsin infant is US’ third measles-related death this week",
    "Child in New York dies after contracting measles, the state’s first such death in 30 years",
-   "How RFK Jr. is highlighting a GOP vulnerability in 2026"
+   "Washington reports first US bird flu death of 2026; health officials say risk to the public is low"
   ]
  },
  "inmet": {
-  "em": "2026-11-07T13:59:54+00:00",
+  "em": "2026-11-07T18:46:52+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -210,7 +210,7 @@
   ]
  },
  "cemaden": {
-  "em": "2026-11-07T13:59:54+00:00",
+  "em": "2026-11-07T18:46:52+00:00",
   "lidos": 8,
   "novos": 0,
   "exemplos": [
@@ -220,9 +220,9 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-11-07T13:59:54+00:00",
-  "lidos": 30,
-  "novos": 0,
+  "em": "2026-11-07T18:46:52+00:00",
+  "lidos": 32,
+  "novos": 1,
   "exemplos": [
    "Com previsão de chuvas no DF, Defesa Civil reforça orientações de segurança e importância dos alertas à população",
    "Autorizado repasse de R$ 16,5 milhões para ações de defesa civil",
@@ -230,13 +230,13 @@
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-11-07T13:59:54+00:00",
+  "em": "2026-11-07T18:46:52+00:00",
   "lidos": 20,
-  "novos": 6,
+  "novos": 0,
   "exemplos": [
    "Vice-governador eleito, Gustavo Rocha assume função estratégica desde já",
-   "Homem com histórico de surto é contido por militares e encaminhado ao hospital",
-   "Acidente na BR-040 deixa um morto e três feridos em Santa Maria"
+   "Acidente na BR-040 deixa um morto e três feridos em Santa Maria",
+   "Com máxima de 31°C, DF tem sábado de céu nublado e umidade caindo para 35%"
   ]
  }
 }

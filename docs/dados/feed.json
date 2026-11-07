@@ -1,5 +1,44 @@
 [
  {
+  "t": "Covid-19: pelo menos 5 estados registram aumento de casos graves",
+  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/covid-19-pelo-menos-5-estados-registram-aumento-de-casos-graves",
+  "d": "2026-11-07",
+  "df": "07 nov 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Saúde",
+  "e": "DF",
+  "a": [
+   "COVID-19",
+   "Influenza e vírus respiratórios"
+  ],
+  "p": 14.5,
+  "se": "2026-44",
+  "r": "O número de casos de Síndrome Respiratória Aguda Grave (SRAG) no Brasil aumentou ao longo dos meses de setembro e outubro, incluindo os casos causados por quadros graves de infecção por covid-19. Os dados são da Fundação Oswaldo Cruz (Fiocruz). De acordo com…",
+  "i": "respiratorio",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "alerta"
+ },
+ {
+  "t": "Frio diminui a partir de quinta em SP e Defesa Civil alerta para baixa umidade; veja como está o clima na sua região",
+  "u": "https://www.agenciasp.sp.gov.br/defesa-civil/frio-vai-ate-quinta-feira-13-no-estado-de-sp-veja-previsao-da-semana-na-sua-regiao/",
+  "d": "2026-11-07",
+  "df": "07 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "agenciasp.sp.gov.br",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 12.0,
+  "se": "2026-44",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "Vacinação focada em grupos mais vulneráveis é eficaz contra mpox",
   "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/nao-ha-necessidade-de-vacinacao-da-populacao-contra-mpox",
   "d": "2026-11-07",
@@ -13,6 +52,60 @@
   "p": 11.5,
   "se": "2026-44",
   "r": "Os casos de mpox que surgiram no Brasil em 2026 levaram o Ministério da Saúde a comprar até 20 mil doses da vacina em caráter preventivo e estratégico. A doença se manifesta no início com erupções na pele, manchas, viram bolhas e forma crostas. Os sintomas da…",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Surto de doença de Chagas por vinho de patauá mobiliza saúde e deixa paciente em UTI no Pará",
+  "u": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/07/surto-de-doenca-de-chagas-por-vinho-de-pataua-mobiliza-saude-e-deixa-paciente-em-uti-no-para.ghtml",
+  "d": "2026-11-07",
+  "df": "07 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Doença de Chagas aguda"
+  ],
+  "p": 11.0,
+  "se": "2026-44",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Mais de 5 mil casos: surto de sarampo nos EUA em 2026 é o maior em 35 anos",
+  "u": "https://www.metropoles.com/saude/mais-de-5-mil-casos-surto-de-sarampo-nos-eua-em-2026-e-o-maior-em-35-anos",
+  "d": "2026-11-07",
+  "df": "07 nov 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "Américas",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 11.0,
+  "se": "2026-44",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Dia D de vacinação contra o sarampo mobiliza a tríplice fronteira neste sábado (7)",
+  "u": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/dia-d-de-vacinacao-contra-o-sarampo-mobiliza-a-triplice-fronteira-neste-sabado-7",
+  "d": "2026-11-07",
+  "df": "07 nov 2026",
+  "f": "MS",
+  "fn": "Ministério da Saúde | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 10.0,
+  "se": "2026-44",
+  "r": "",
   "i": "virus",
   "m": [],
   "c": "monitoramento"
@@ -32,6 +125,24 @@
   "se": "2026-44",
   "r": "O teto de uma loja de roupas desabou no Brás, na capital paulista, na noite desta sexta-feira (6). O estabelecimento fica na Rua Maria Joaquina, número 192. Equipes da Polícia Militar, do Corpo de Bombeiros e da Defesa Civil de São Paulo atuam no atendimento…",
   "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Municípios da tríplice fronteira recebem mobilização contra o sarampo",
+  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/municipios-da-triplice-fronteira-recebem-mobilizacao-contra-o-sarampo",
+  "d": "2026-11-07",
+  "df": "07 nov 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 5.0,
+  "se": "2026-44",
+  "r": "Municípios da chamada tríplice fronteira entre Brasil, Peru e Colômbia recebem neste sábado (7) uma mobilização conjunta de vacinação contra o sarampo. No lado brasileiro, a ação acontece em Tabatinga (AM), Benjamin Constant (AM), São Paulo de Olivença (AM) e…",
+  "i": "virus",
   "m": [],
   "c": "monitoramento"
  },
