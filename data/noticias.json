@@ -25,6 +25,29 @@
   "motivo": "Emergências e desastres · aviso, previsão ou sem impacto relatado · Brasil"
  },
  {
+  "id": "32a0e1afd9f82f",
+  "titulo": "Emater-DF quer os produtos locais nas prateleiras dos supermercados",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7534496-emater-df-quer-os-produtos-locais-nas-prateleiras-dos-supermercados.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-07T07:08:22+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
   "id": "95138d572157b0",
   "titulo": "São Paulo confirma 67 casos de mpox em um mês",
   "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/sao-paulo-registra-67-casos-confirmados-de-mpox-em-um-mes",
@@ -278,6 +301,54 @@
   "motivo": "Mpox (notificação imediata) · seis casos · Brasil"
  },
  {
+  "id": "03a6336405c4cd",
+  "titulo": "Ceará registra 40 casos de MPOX",
+  "url": "https://g1.globo.com/google/amp/ce/ceara/videos-cetv-2-edicao/video/ceara-registra-40-casos-de-mpox-15167384.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-06",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-07T07:08:22+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Mpox"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "Mpox (notificação imediata) · 40 casos · Brasil"
+ },
+ {
+  "id": "18b5799a73cc06",
+  "titulo": "Homem com histórico de surto é contido por militares e encaminhado ao hospital",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7534820-homem-com-historico-de-surto-e-contido-por-militares-e-encaminhado-ao-hospital.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-06",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-07T07:08:22+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 9.5,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [
+   "surto"
+  ],
+  "categoria": "monitoramento",
+  "motivo": "DF e RIDE"
+ },
+ {
   "id": "7c3154984f057c",
   "titulo": "PAHO issues measles prevention advice for travelers ahead of Pope Leo XIV’s visit to Latin America",
   "url": "https://www.paho.org/en/news/6-11-2026-paho-issues-measles-prevention-advice-travelers-ahead-pope-leo-xivs-visit-latin",
@@ -452,6 +523,29 @@
   "se": "2026-44",
   "descricao": "",
   "coletado_em": "2026-11-07T00:55:44+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · Brasil"
+ },
+ {
+  "id": "d7508904874ecf",
+  "titulo": "Tempestades voltam a atingir o Rio Grande do Sul a partir desta sexta-feira (6)",
+  "url": "https://www.defesacivil.rs.gov.br/tempestades-voltam-a-atingir-o-rio-grande-do-sul-a-partir-desta-sexta-feira-6",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Defesa Civil do Rio Grande do Sul",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-11-06",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-07T07:08:22+00:00",
   "municipios": [],
   "pontuacao": 7.5,
   "agravos": [
