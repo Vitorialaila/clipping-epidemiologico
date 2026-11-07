@@ -29,6 +29,33 @@
   "motivo": "COVID-19 (notificação imediata) · aumento de casos · DF e RIDE"
  },
  {
+  "id": "504fe7c7ae03c5",
+  "titulo": "Rio de Janeiro registra chuva intensa e rajadas de vento",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/rio-de-janeiro-registra-chuva-intensa-e-rajadas-de-vento",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "O estado do Rio de Janeiro registrou chuvas de moderadas a intensas e rajadas de vento na capital e em diversos municípios neste sábado (7). A previsão é de chuva até o fim da manhã de domingo (8). De acordo com a Defesa Civil estadual, ocorreram alagamentos na Penha, na zona norte da capital. Em Duque de Caxias, na Baixada Fluminense, a chuva e o vento derrubaram barracas de feira.",
+  "coletado_em": "2026-11-07T22:44:24+00:00",
+  "municipios": [],
+  "pontuacao": 12.5,
+  "agravos": [
+   "Saúde ambiental e clima",
+   "Emergências e desastres"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alagamentos",
+   "previsao"
+  ],
+  "categoria": "monitoramento",
+  "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · Brasil"
+ },
+ {
   "id": "534624a75d4b13",
   "titulo": "Frio diminui a partir de quinta em SP e Defesa Civil alerta para baixa umidade; veja como está o clima na sua região",
   "url": "https://www.agenciasp.sp.gov.br/defesa-civil/frio-vai-ate-quinta-feira-13-no-estado-de-sp-veja-previsao-da-semana-na-sua-regiao/",
@@ -130,6 +157,31 @@
   "motivo": "Sarampo (notificação imediata) · surto · Américas"
  },
  {
+  "id": "d38f50ecbdd5a9",
+  "titulo": "Surto de doença de Chagas em Óbidos: paciente morre na UTI e município registra seis casos ativos",
+  "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/07/surto-de-doenca-de-chagas-em-obidos-paciente-morre-na-uti-e-municipio-registra-seis-casos-ativos.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-07T22:44:24+00:00",
+  "municipios": [],
+  "pontuacao": 11.0,
+  "agravos": [
+   "Doença de Chagas aguda"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "surto"
+  ],
+  "categoria": "alerta",
+  "motivo": "Doença de Chagas aguda (notificação imediata) · Surto · Brasil"
+ },
+ {
   "id": "2de5520851036e",
   "titulo": "Dia D de vacinação contra o sarampo mobiliza a tríplice fronteira neste sábado (7)",
   "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/dia-d-de-vacinacao-contra-o-sarampo-mobiliza-a-triplice-fronteira-neste-sabado-7",
@@ -151,6 +203,81 @@
   "termos_evento": [],
   "categoria": "monitoramento",
   "motivo": "Sarampo (notificação imediata) · sem ocorrência relatada no título · Brasil"
+ },
+ {
+  "id": "977405df95907d",
+  "titulo": "Frente fria provoca queda de temperatura e risco de tempestades",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/frente-fria-provoca-queda-de-temperatura-e-risco-de-tempestades",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "A passagem de uma frente fria pela região Centro-Sul pode provocar chuvas, trovoadas e ventos fortes na maior parte do país nos próximos dias. De acordo com a previsão do tempo divulgada pelo Instituto Nacional de Meteorologia (Inmet), a passagem de uma massa de ar frio deve provocar o declínio acentuado das temperaturas na Região Sul, no Centro-Oeste e em parte do Sudeste.",
+  "coletado_em": "2026-11-07T22:44:24+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "previsao"
+  ],
+  "categoria": "monitoramento",
+  "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · Brasil"
+ },
+ {
+  "id": "f0f15b4e01011f",
+  "titulo": "Com 42 casos, Presidente Prudente entra em alerta para risco de dengue",
+  "url": "https://g1.globo.com/google/amp/sp/presidente-prudente-e-regiao/noticia/2026/11/07/com-42-casos-presidente-prudente-entra-em-alerta-para-risco-de-dengue.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-07T22:44:24+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Dengue"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alerta para"
+  ],
+  "categoria": "atencao",
+  "motivo": "Dengue (notificação semanal) · 42 casos · Brasil"
+ },
+ {
+  "id": "949428669bea26",
+  "titulo": "Mpox: saiba quem poderá receber a vacina no Distrito Federal",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7534929-mpox-saiba-quem-podera-receber-a-vacina-no-distrito-federal.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-07T22:44:24+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Mpox"
+  ],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": "Mpox (notificação imediata) · estudo, orientação ou relato retrospectivo · DF e RIDE"
  },
  {
   "id": "89283e1407b159",
@@ -399,6 +526,140 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "7b80e615b79957",
+  "titulo": "Anvisa vai certificar insumos farmacêuticos ativos fabricados no país",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/anvisa-vai-certificar-insumos-farmaceuticos-ativos-fabricados-no-pais",
+  "fonte_id": "agencia-brasil-saude",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "A Agência Nacional de Vigilância Sanitária (Anvisa) vai selecionar dossiês de insumos farmacêuticos ativos (IFAs) fabricados no Brasil por empresas que tenham interesse em obter Carta de Adequação de Dossiê de Insumo Farmacêutico Ativo. Em nota, a Anvisa informou que a iniciativa prevê a seleção de até oito dossiês para avaliação, independentemente de sua associação a petições de registro ou pós-registro de medicamentos. “O chamamento busca fortalecer a produção nacional de IFAs, contribuindo para a redução da dependência de fornecedores estrangeiros e para o desenvolvimento do Complexo Econômico-Industrial da Saúde”, destacou a agência. Podem participar empresas detentoras de dossiês de IFAs fabricados em território nacional e que sigam os seguintes critérios de elegibilidade: - o IFA deve estar contemplado na relação de substâncias estabelecida no edital; - a fabricação deve incluir, no mínimo, a última etapa de síntese química realizada no Brasil; - o fabricante deve possuir Certificado de Boas Práticas de Fabricação válido, emitido pela Anvisa. A seleção, de acordo com a agência, vai considerar critérios relacionados ao desenvolvimento nacional do IFA, à participação em programas públicos de pesquisa, desenvolvimento e inovação e à realização das etapas produtivas no Brasil. Empresas interessadas devem preencher formulário eletrônico no prazo de 60 dias corridos, contados da publicação do edital. O resultado será divulgado em até 60 dias corridos após o término do…",
+  "coletado_em": "2026-11-07T22:44:24+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "vigilancia"
+  ],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "dbded87b6edae4",
+  "titulo": "SES-TO conhece experiência goiana na implantação do protocolo dos 5Rs da sepse",
+  "url": "https://goias.gov.br/saude/ses-to-conhece-experiencia-goiana-na-implantacao-do-protocolo-dos-5rs-da-sepse/",
+  "fonte_id": "ses-go",
+  "fonte": "SES-GO | Notícias",
+  "sigla": "SES-GO",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "Gestoras do Estado vizinho cumprem agenda técnica na SES-GO para observar estratégias de gestão, alertas em tempo real e aplicação prática da metodologia",
+  "coletado_em": "2026-11-07T22:44:24+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "262072199621c3",
+  "titulo": "Goiás adere à mobilização nacional e zera fila para aplicação de injeção intravítrea no SUS",
+  "url": "https://goias.gov.br/saude/goias-adere-a-mobilizacao-nacional-e-zera-fila-para-aplicacao-de-injecao-intravitrea-no-sus/",
+  "fonte_id": "ses-go",
+  "fonte": "SES-GO | Notícias",
+  "sigla": "SES-GO",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "Ação da SES e do Cerof-UFG garante cerca de 400 procedimentos especializados em retina e conscientiza sobre riscos de cegueira causada por retinopatia diabética",
+  "coletado_em": "2026-11-07T22:44:24+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "c5567d2187beea",
+  "titulo": "Homem é preso suspeito de invadir casas e tentar estuprar moradora",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7534890-homem-e-preso-suspeito-de-invadir-casas-e-tentar-estuprar-moradora.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-07T22:44:24+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "5769baa96cfbd4",
+  "titulo": "Chuvas em Samambaia derrubam árvores, destroem fiações e destelham residências",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7534958-chuvas-em-samambaia-derrubam-arvores-destroem-fiacoes-e-destelham-residencias.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-07T22:44:24+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "59583df0719175",
+  "titulo": "Aruc celebra 65 anos com feijoada, samba e memória do carnaval de Brasília",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7534934-aruc-celebra-65-anos-com-feijoada-samba-e-memoria-do-carnaval-de-brasilia.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-07T22:44:24+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
   "termos_evento": [],
   "categoria": "monitoramento",
   "motivo": ""

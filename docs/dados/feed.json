@@ -21,6 +21,25 @@
   "c": "alerta"
  },
  {
+  "t": "Rio de Janeiro registra chuva intensa e rajadas de vento",
+  "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/rio-de-janeiro-registra-chuva-intensa-e-rajadas-de-vento",
+  "d": "2026-11-07",
+  "df": "07 nov 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Geral",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima",
+   "Emergências e desastres"
+  ],
+  "p": 12.5,
+  "se": "2026-44",
+  "r": "O estado do Rio de Janeiro registrou chuvas de moderadas a intensas e rajadas de vento na capital e em diversos municípios neste sábado (7). A previsão é de chuva até o fim da manhã de domingo (8). De acordo com a Defesa Civil estadual, ocorreram alagamentos…",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "Frio diminui a partir de quinta em SP e Defesa Civil alerta para baixa umidade; veja como está o clima na sua região",
   "u": "https://www.agenciasp.sp.gov.br/defesa-civil/frio-vai-ate-quinta-feira-13-no-estado-de-sp-veja-previsao-da-semana-na-sua-regiao/",
   "d": "2026-11-07",
@@ -93,6 +112,24 @@
   "c": "alerta"
  },
  {
+  "t": "Surto de doença de Chagas em Óbidos: paciente morre na UTI e município registra seis casos ativos",
+  "u": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/07/surto-de-doenca-de-chagas-em-obidos-paciente-morre-na-uti-e-municipio-registra-seis-casos-ativos.ghtml",
+  "d": "2026-11-07",
+  "df": "07 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Doença de Chagas aguda"
+  ],
+  "p": 11.0,
+  "se": "2026-44",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Dia D de vacinação contra o sarampo mobiliza a tríplice fronteira neste sábado (7)",
   "u": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/dia-d-de-vacinacao-contra-o-sarampo-mobiliza-a-triplice-fronteira-neste-sabado-7",
   "d": "2026-11-07",
@@ -108,6 +145,62 @@
   "r": "",
   "i": "virus",
   "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Frente fria provoca queda de temperatura e risco de tempestades",
+  "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/frente-fria-provoca-queda-de-temperatura-e-risco-de-tempestades",
+  "d": "2026-11-07",
+  "df": "07 nov 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Geral",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 9.5,
+  "se": "2026-44",
+  "r": "A passagem de uma frente fria pela região Centro-Sul pode provocar chuvas, trovoadas e ventos fortes na maior parte do país nos próximos dias. De acordo com a previsão do tempo divulgada pelo Instituto Nacional de Meteorologia (Inmet), a passagem de uma massa…",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Com 42 casos, Presidente Prudente entra em alerta para risco de dengue",
+  "u": "https://g1.globo.com/google/amp/sp/presidente-prudente-e-regiao/noticia/2026/11/07/com-42-casos-presidente-prudente-entra-em-alerta-para-risco-de-dengue.ghtml",
+  "d": "2026-11-07",
+  "df": "07 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 9.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Mpox: saiba quem poderá receber a vacina no Distrito Federal",
+  "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7534929-mpox-saiba-quem-podera-receber-a-vacina-no-distrito-federal.html",
+  "d": "2026-11-07",
+  "df": "07 nov 2026",
+  "f": "Correio Braziliense",
+  "fn": "Correio Braziliense | Cidades DF",
+  "e": "DF",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "virus",
+  "m": [
+   "Distrito Federal"
+  ],
   "c": "monitoramento"
  },
  {
