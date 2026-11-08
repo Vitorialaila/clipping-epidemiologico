@@ -19,6 +19,42 @@
   "c": "atencao"
  },
  {
+  "t": "Defesa Civil alerta para possibilidade de chuvas intensas e ventos fortes em Macaé neste domingo (8)",
+  "u": "https://www.macae.rj.gov.br/noticias/leitura/noticia/defesa-civil-alerta-para-possibilidade-de-chuvas-intensas-e-ventos-fortes-em-macae-neste-domingo-8",
+  "d": "2026-11-08",
+  "df": "08 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura Municipal de Macaé",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 9.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Veja as regiões que devem ser mais afetadas pelas tempestades severas previstas pela Defesa Civil",
+  "u": "https://www.agenciasp.sp.gov.br/defesa-civil/veja-as-regioes-que-devem-ser-mais-afetadas-pelas-tempestades-severas-previstas-pela-defesa-civil/",
+  "d": "2026-11-08",
+  "df": "08 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "agenciasp.sp.gov.br",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "Covid-19: pelo menos 5 estados registram aumento de casos graves",
   "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/covid-19-pelo-menos-5-estados-registram-aumento-de-casos-graves",
   "d": "2026-11-07",
@@ -650,6 +686,24 @@
   "df": "06 nov 2026",
   "f": "Defesa Civil",
   "fn": "Defesa Civil do Rio Grande do Sul",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Novo painel do El Niño aponta intensificação da seca e atualiza previsões para o início de 2027",
+  "u": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/novo-painel-do-el-nino-aponta-intensificacao-da-seca-e-atualiza-previsoes-para-o-inicio-de-2027",
+  "d": "2026-11-06",
+  "df": "06 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "GOV.BR",
   "e": "Brasil",
   "a": [
    "Saúde ambiental e clima"
@@ -1414,6 +1468,24 @@
   "df": "04 nov 2026",
   "f": "INMET",
   "fn": "INMET | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Jundiaí poderá ter chuvas intensas e rajadas de ventos de até 60 km/h nos próximos dias",
+  "u": "https://jundiai.sp.gov.br/noticias/2026/11/04/jundiai-podera-ter-chuvas-intensas-e-rajadas-de-ventos-de-ate-60-km-h-nos-proximos-dias/",
+  "d": "2026-11-04",
+  "df": "04 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura de Jundiaí",
   "e": "Brasil",
   "a": [
    "Saúde ambiental e clima"
