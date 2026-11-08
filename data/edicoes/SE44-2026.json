@@ -1,0 +1,704 @@
+{
+ "titulo": "Clipping Epidemiológico",
+ "subtitulo": "Sala de Situação de Saúde - UnB | Residência de Vigilância em Saúde",
+ "instituicoes": [
+  "Sala de Situação de Saúde - UnB",
+  "Residência de Vigilância em Saúde"
+ ],
+ "rodape": "",
+ "se_codigo": "2026-44",
+ "se_numero": "44",
+ "se_ano": 2026,
+ "rotulo": "SE 44/2026",
+ "periodo": "1 a 7 de novembro de 2026",
+ "data_geracao": "8 de novembro de 2026",
+ "gerado_em": "2026-11-08T10:27:31+00:00",
+ "panorama": "",
+ "principal": {
+  "ancora": "n1",
+  "titulo": "Covid-19: pelo menos 5 estados registram aumento de casos graves",
+  "titulo_original": "Covid-19: pelo menos 5 estados registram aumento de casos graves",
+  "resumo": "O número de casos de Síndrome Respiratória Aguda Grave (SRAG) no Brasil aumentou ao longo dos meses de setembro e outubro, incluindo os casos causados por quadros graves de infecção por covid-19. Os dados são da Fundação Oswaldo Cruz (Fiocruz). De acordo com o último Boletim InfoGripe, há sinais de aumento do número de casos graves de covid-19 em pelo menos cinco unidades da Federação: Mato Grosso, Distrito Federal, São Paulo, Rio de Janeiro e Santa Catarina. “No entanto, nessas quatro últimas unidades da Federação, a incidência de SRAG por covid-19 permanece em níveis muito baixos”, destacou o documento.",
+  "local": "Brasil",
+  "agravo": "COVID-19",
+  "escopo": "DF",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
+  "data": "2026-11-07",
+  "data_fmt": "07 nov 2026",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/covid-19-pelo-menos-5-estados-registram-aumento-de-casos-graves",
+  "dominio": "agenciabrasil.ebc.com.br",
+  "nota_ia": null,
+  "pontuacao": 14.5,
+  "n": 1,
+  "paises": [
+   "BRA"
+  ],
+  "uf": "MT",
+  "icone": "respiratorio",
+  "visual": {
+   "tipo": "mapa",
+   "src": "edicoes/img/SE44-2026/n1.svg"
+  }
+ },
+ "secoes": [
+  {
+   "escopo": "DF",
+   "nome": "Distrito Federal",
+   "itens": [
+    {
+     "ancora": "n2",
+     "titulo": "Temporal com ventos e granizo deixa rastro de estragos no Recanto das Emas",
+     "titulo_original": "Temporal com ventos e granizo deixa rastro de estragos no Recanto das Emas",
+     "resumo": "A chuva segue sem dar trégua para o Distrito Federal. Neste domingo (1º/11), um temporal provocou tensão e transtornos no Recantos das Emas. Moradores registraram os momentos de maior intensidade do temporal. Imagens obtidas pelo perfil no Instagram Recanto Alerta (@recantoalerta_oficial) mostram que, apesar do curto período de duração, a força do vento derrubou tapumes de obras, destelhou casas e alagou vias. Veja: Fique por dentro das notÃcias que importam para vocÃª!",
+     "local": "Brasil",
+     "agravo": "Emergências e desastres",
+     "escopo": "DF",
+     "fonte": "Correio Braziliense | Cidades DF",
+     "sigla": "Correio Braziliense",
+     "data": "2026-11-01",
+     "data_fmt": "01 nov 2026",
+     "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7531730-temporal-com-ventos-e-granizo-deixa-rastro-de-estragos-no-recanto-das-emas.html",
+     "dominio": "correiobraziliense.com.br",
+     "nota_ia": null,
+     "pontuacao": 14.5,
+     "n": 2,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "DF",
+     "icone": "desastre",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE44-2026/n2.svg"
+     }
+    }
+   ]
+  },
+  {
+   "escopo": "Brasil",
+   "nome": "Brasil",
+   "itens": [
+    {
+     "ancora": "n3",
+     "titulo": "São Paulo confirma 67 casos de mpox em um mês",
+     "titulo_original": "São Paulo confirma 67 casos de mpox em um mês",
+     "resumo": "Desde o dia 4 de outubro, que corresponde ao início da 40ª semana epidemiológica, o estado de São Paulo registrou 67 casos confirmados de mpox. O número representa cerca de 22% do total de casos confirmados no território paulista em todo este ano, o que demonstra um aumento de infecção nos últimos dias. Entre janeiro e esta sexta-feira (6), o estado já confirmou 300 casos da doença, sem óbitos. Do total de casos confirmados neste ano, 197 foram registrados na capital paulista. Os dados estão disponibilizados na plataforma Núcleo de Informações Estratégicas em Saúde, da Secretaria Estadual da Saúde de São Paulo.",
+     "local": "Brasil",
+     "agravo": "Mpox",
+     "escopo": "Brasil",
+     "fonte": "Agência Brasil | Saúde",
+     "sigla": "Agência Brasil",
+     "data": "2026-11-06",
+     "data_fmt": "06 nov 2026",
+     "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/sao-paulo-registra-67-casos-confirmados-de-mpox-em-um-mes",
+     "dominio": "agenciabrasil.ebc.com.br",
+     "nota_ia": null,
+     "pontuacao": 13.5,
+     "n": 3,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "SP",
+     "icone": "virus",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE44-2026/n3.svg"
+     }
+    },
+    {
+     "ancora": "n4",
+     "titulo": "Defesa Civil alerta: condição de ALERTA para tempestade com vento e granizo nas proximidades de Nonoai",
+     "titulo_original": "Defesa Civil alerta: condição de ALERTA para tempestade com vento e granizo nas proximidades de Nonoai",
+     "resumo": "Defesa Civil alerta: condição de ALERTA para tempestade com vento e granizo que atuam nas proximidades de Nonoai. Risco ALTO de alagamento e destelhamento. Válido até 10h45 do dia 4 de novembro. Evite áreas de risco. Emergência ligue 190/193. Procure informações junto à Defesa Civil da sua cidade, conheça os Planos de Contingência municipais para saber quais os riscos e como agir em caso de desastre no seu município.",
+     "local": "Brasil",
+     "agravo": "Emergências e desastres",
+     "escopo": "Brasil",
+     "fonte": "Defesa Civil do Rio Grande do Sul",
+     "sigla": "Defesa Civil",
+     "data": "2026-11-04",
+     "data_fmt": "04 nov 2026",
+     "url": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-alerta-para-tempestade-com-vento-e-granizo-nas-proximidades-de-nonoai",
+     "dominio": "defesacivil.rs.gov.br",
+     "nota_ia": null,
+     "pontuacao": 13.5,
+     "n": 4,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "",
+     "icone": "desastre",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE44-2026/n4.svg"
+     }
+    },
+    {
+     "ancora": "n5",
+     "titulo": "Rio de Janeiro registra chuva intensa e rajadas de vento",
+     "titulo_original": "Rio de Janeiro registra chuva intensa e rajadas de vento",
+     "resumo": "O estado do Rio de Janeiro registrou chuvas de moderadas a intensas e rajadas de vento na capital e em diversos municípios neste sábado (7). A previsão é de chuva até o fim da manhã de domingo (8). De acordo com a Defesa Civil estadual, ocorreram alagamentos na Penha, na zona norte da capital. Em Duque de Caxias, na Baixada Fluminense, a chuva e o vento derrubaram barracas de feira. Diante da situação, o governo do estado informou, em nota, que intensificou o monitoramento das chuvas.",
+     "local": "Brasil",
+     "agravo": "Saúde ambiental e clima",
+     "escopo": "Brasil",
+     "fonte": "Agência Brasil | Geral",
+     "sigla": "Agência Brasil",
+     "data": "2026-11-07",
+     "data_fmt": "07 nov 2026",
+     "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/rio-de-janeiro-registra-chuva-intensa-e-rajadas-de-vento",
+     "dominio": "agenciabrasil.ebc.com.br",
+     "nota_ia": null,
+     "pontuacao": 12.5,
+     "n": 5,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "RJ",
+     "icone": "clima",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE44-2026/n5.svg"
+     }
+    },
+    {
+     "ancora": "n6",
+     "titulo": "Giro Saúde destaca Novembro Azul, mpox e temporada de dengue 2027",
+     "titulo_original": "Giro Saúde destaca Novembro Azul, mpox e temporada de dengue 2027",
+     "resumo": "No programa desta semana o podcast Giro Saúde aborda a campanha Novembro Azul, que busca chamar atenção dos homens para a prevenção do câncer de próstata e sobre o crescimento no número de casos de mpox no Rio de Janeiro. O Ministério da Saúde ressalta a autorização para aquisição de 20 mil doses da vacina contra mpox por meio da Opas e a intensificação da vigilância para o sarampo. A Agência Fiocruz de Notícias (AFN) destaca um estudo que apontou que a exposição à seca na gestação eleva a chance de prematuridade e afeta o crescimento do bebê e as projeções para a temporada 2027 de dengue.",
+     "local": "Brasil",
+     "agravo": "Mpox",
+     "escopo": "Brasil",
+     "fonte": "Agência Fiocruz de Notícias",
+     "sigla": "Fiocruz",
+     "data": "2026-11-06",
+     "data_fmt": "06 nov 2026",
+     "url": "https://agencia.fiocruz.br/giro-saude-destaca-novembro-azul-mpox-e-temporada-de-dengue-2027",
+     "dominio": "agencia.fiocruz.br",
+     "nota_ia": null,
+     "pontuacao": 11.5,
+     "n": 6,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "RJ",
+     "icone": "virus",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE44-2026/n6.svg"
+     }
+    },
+    {
+     "ancora": "n7",
+     "titulo": "Surto de doença de Chagas por vinho de patauá mobiliza saúde e deixa paciente em UTI no Pará",
+     "titulo_original": "Surto de doença de Chagas por vinho de patauá mobiliza saúde e deixa paciente em UTI no Pará",
+     "resumo": "A ocorrência de um surto de doença de Chagas foi registrada na zona rural do município, associado ao consumo de vinho de patauá., Foto: Divulgação/ASCOM-PMO A confirmação de um surto de doença de Chagas na zona rural de Óbidos, no oeste do Pará, acendeu um alerta epidemiológico na região. Associado ao consumo de vinho de patauá artesanal, este é o primeiro registro grave da doença no município em mais de 20 anos. Até o momento, sete casos foram confirmados, sendo que três pacientes estão internados, um deles em estado grave em uma Unidade de Terapia Intensiva (UTI).",
+     "local": "Brasil",
+     "agravo": "Doença de Chagas aguda",
+     "escopo": "Brasil",
+     "fonte": "G1",
+     "sigla": "G1",
+     "data": "2026-11-07",
+     "data_fmt": "07 nov 2026",
+     "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/07/surto-de-doenca-de-chagas-por-vinho-de-pataua-mobiliza-saude-e-deixa-paciente-em-uti-no-para.ghtml",
+     "dominio": "g1.globo.com",
+     "nota_ia": null,
+     "pontuacao": 11.0,
+     "n": 7,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "",
+     "icone": "mosquito",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE44-2026/n7.svg"
+     }
+    }
+   ]
+  },
+  {
+   "escopo": "Américas",
+   "nome": "Américas",
+   "itens": [
+    {
+     "ancora": "n8",
+     "titulo": "Mais de 5 mil casos: surto de sarampo nos EUA em 2026 é o maior em 35 anos",
+     "titulo_original": "Mais de 5 mil casos: surto de sarampo nos EUA em 2026 é o maior em 35 anos",
+     "resumo": "Dos estados mais afetados, a Pensilvânia está na dianteira, com 1.487 casos de sarampo. Wisconsin e Nova York relataram mortes nesta semana Desde 1991, os Estados Unidos não ultrapassavam a marca de 5 mil casos de sarampo em um único ano. No entanto, o recorde negativo foi batido em 2026 com a confirmação de 5.182 pessoas diagnosticadas com a doença. Os números são dos Centros de Controle e Prevenção de Doenças (CDC) do país e representam o maior total anual em 35 anos. Dos estados mais afetados, a Pensilvânia está na dianteira, com 1.487 casos e 287 internações registradas até esta sexta-feira (6/11).",
+     "local": "Estados Unidos",
+     "agravo": "Sarampo",
+     "escopo": "Américas",
+     "fonte": "Metrópoles",
+     "sigla": "Metrópoles",
+     "data": "2026-11-07",
+     "data_fmt": "07 nov 2026",
+     "url": "https://www.metropoles.com/saude/mais-de-5-mil-casos-surto-de-sarampo-nos-eua-em-2026-e-o-maior-em-35-anos",
+     "dominio": "metropoles.com",
+     "nota_ia": null,
+     "pontuacao": 11.0,
+     "n": 8,
+     "paises": [
+      "USA"
+     ],
+     "uf": "",
+     "icone": "virus",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE44-2026/n8.svg"
+     }
+    },
+    {
+     "ancora": "n9",
+     "titulo": "Hantavirus Outbreak Caused by Andes Virus Linked to International Cruise Ship Travel - United States, 2026",
+     "titulo_original": "Hantavirus Outbreak Caused by Andes Virus Linked to International Cruise Ship Travel - United States, 2026",
+     "resumo": "This report describes cases of hantavirus among people on a cruise ship in the Atlantic Ocean.",
+     "local": "Estados Unidos",
+     "agravo": "Patógeno novo ou incomum em humanos",
+     "escopo": "Américas",
+     "fonte": "CDC | MMWR",
+     "sigla": "CDC",
+     "data": "2026-11-05",
+     "data_fmt": "05 nov 2026",
+     "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766796",
+     "dominio": "tools.cdc.gov",
+     "nota_ia": null,
+     "pontuacao": 11.0,
+     "n": 9,
+     "paises": [
+      "USA"
+     ],
+     "uf": "",
+     "icone": "virus",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE44-2026/n9.svg"
+     }
+    }
+   ]
+  },
+  {
+   "escopo": "Internacional",
+   "nome": "Internacional",
+   "itens": [
+    {
+     "ancora": "n10",
+     "titulo": "Surto de antraz mata 30 hipopótamos no Congo e país emite alerta",
+     "titulo_original": "Surto de antraz mata 30 hipopótamos no Congo e país emite alerta",
+     "resumo": "Surto atinge o Parque Nacional de Virunga, na República Democrática do Congo; não há registros de pessoas infectadas até o momento Um surto de antraz, doença infecciosa causada pela bactéria Bacillus anthracis, matou pelo menos 30 hipopótamos no Parque Nacional de Virunga, no leste da República Democrática do Congo, no último mês. Segundo reportagem publicada pela revista Nature nesta quarta-feira (4/11), não foram relatados casos em humanos até o momento, mas o risco associado ao contato com os animais infectados mantém as autoridades em alerta.",
+     "local": "",
+     "agravo": "Antraz",
+     "escopo": "Internacional",
+     "fonte": "Metrópoles",
+     "sigla": "Metrópoles",
+     "data": "2026-11-04",
+     "data_fmt": "04 nov 2026",
+     "url": "https://www.metropoles.com/saude/surto-de-antraz-mata-30-hipopotamos-no-congo-e-pais-emite-alerta",
+     "dominio": "metropoles.com",
+     "nota_ia": null,
+     "pontuacao": 11.0,
+     "n": 10,
+     "paises": [
+      "COG",
+      "COD"
+     ],
+     "uf": "",
+     "icone": "bacteria",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE44-2026/n10.svg"
+     }
+    }
+   ]
+  }
+ ],
+ "destaques": [
+  {
+   "ancora": "n1",
+   "titulo": "Covid-19: pelo menos 5 estados registram aumento de casos graves",
+   "titulo_original": "Covid-19: pelo menos 5 estados registram aumento de casos graves",
+   "resumo": "O número de casos de Síndrome Respiratória Aguda Grave (SRAG) no Brasil aumentou ao longo dos meses de setembro e outubro, incluindo os casos causados por quadros graves de infecção por covid-19. Os dados são da Fundação Oswaldo Cruz (Fiocruz). De acordo com o último Boletim InfoGripe, há sinais de aumento do número de casos graves de covid-19 em pelo menos cinco unidades da Federação: Mato Grosso, Distrito Federal, São Paulo, Rio de Janeiro e Santa Catarina. “No entanto, nessas quatro últimas unidades da Federação, a incidência de SRAG por covid-19 permanece em níveis muito baixos”, destacou o documento.",
+   "local": "Brasil",
+   "agravo": "COVID-19",
+   "escopo": "DF",
+   "fonte": "Agência Brasil | Saúde",
+   "sigla": "Agência Brasil",
+   "data": "2026-11-07",
+   "data_fmt": "07 nov 2026",
+   "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/covid-19-pelo-menos-5-estados-registram-aumento-de-casos-graves",
+   "dominio": "agenciabrasil.ebc.com.br",
+   "nota_ia": null,
+   "pontuacao": 14.5,
+   "n": 1,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "MT",
+   "icone": "respiratorio",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE44-2026/n1.svg"
+   }
+  },
+  {
+   "ancora": "n2",
+   "titulo": "Temporal com ventos e granizo deixa rastro de estragos no Recanto das Emas",
+   "titulo_original": "Temporal com ventos e granizo deixa rastro de estragos no Recanto das Emas",
+   "resumo": "A chuva segue sem dar trégua para o Distrito Federal. Neste domingo (1º/11), um temporal provocou tensão e transtornos no Recantos das Emas. Moradores registraram os momentos de maior intensidade do temporal. Imagens obtidas pelo perfil no Instagram Recanto Alerta (@recantoalerta_oficial) mostram que, apesar do curto período de duração, a força do vento derrubou tapumes de obras, destelhou casas e alagou vias. Veja: Fique por dentro das notÃcias que importam para vocÃª!",
+   "local": "Brasil",
+   "agravo": "Emergências e desastres",
+   "escopo": "DF",
+   "fonte": "Correio Braziliense | Cidades DF",
+   "sigla": "Correio Braziliense",
+   "data": "2026-11-01",
+   "data_fmt": "01 nov 2026",
+   "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7531730-temporal-com-ventos-e-granizo-deixa-rastro-de-estragos-no-recanto-das-emas.html",
+   "dominio": "correiobraziliense.com.br",
+   "nota_ia": null,
+   "pontuacao": 14.5,
+   "n": 2,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "DF",
+   "icone": "desastre",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE44-2026/n2.svg"
+   }
+  },
+  {
+   "ancora": "n3",
+   "titulo": "São Paulo confirma 67 casos de mpox em um mês",
+   "titulo_original": "São Paulo confirma 67 casos de mpox em um mês",
+   "resumo": "Desde o dia 4 de outubro, que corresponde ao início da 40ª semana epidemiológica, o estado de São Paulo registrou 67 casos confirmados de mpox. O número representa cerca de 22% do total de casos confirmados no território paulista em todo este ano, o que demonstra um aumento de infecção nos últimos dias. Entre janeiro e esta sexta-feira (6), o estado já confirmou 300 casos da doença, sem óbitos. Do total de casos confirmados neste ano, 197 foram registrados na capital paulista. Os dados estão disponibilizados na plataforma Núcleo de Informações Estratégicas em Saúde, da Secretaria Estadual da Saúde de São Paulo.",
+   "local": "Brasil",
+   "agravo": "Mpox",
+   "escopo": "Brasil",
+   "fonte": "Agência Brasil | Saúde",
+   "sigla": "Agência Brasil",
+   "data": "2026-11-06",
+   "data_fmt": "06 nov 2026",
+   "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/sao-paulo-registra-67-casos-confirmados-de-mpox-em-um-mes",
+   "dominio": "agenciabrasil.ebc.com.br",
+   "nota_ia": null,
+   "pontuacao": 13.5,
+   "n": 3,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "SP",
+   "icone": "virus",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE44-2026/n3.svg"
+   }
+  },
+  {
+   "ancora": "n4",
+   "titulo": "Defesa Civil alerta: condição de ALERTA para tempestade com vento e granizo nas proximidades de Nonoai",
+   "titulo_original": "Defesa Civil alerta: condição de ALERTA para tempestade com vento e granizo nas proximidades de Nonoai",
+   "resumo": "Defesa Civil alerta: condição de ALERTA para tempestade com vento e granizo que atuam nas proximidades de Nonoai. Risco ALTO de alagamento e destelhamento. Válido até 10h45 do dia 4 de novembro. Evite áreas de risco. Emergência ligue 190/193. Procure informações junto à Defesa Civil da sua cidade, conheça os Planos de Contingência municipais para saber quais os riscos e como agir em caso de desastre no seu município.",
+   "local": "Brasil",
+   "agravo": "Emergências e desastres",
+   "escopo": "Brasil",
+   "fonte": "Defesa Civil do Rio Grande do Sul",
+   "sigla": "Defesa Civil",
+   "data": "2026-11-04",
+   "data_fmt": "04 nov 2026",
+   "url": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-alerta-para-tempestade-com-vento-e-granizo-nas-proximidades-de-nonoai",
+   "dominio": "defesacivil.rs.gov.br",
+   "nota_ia": null,
+   "pontuacao": 13.5,
+   "n": 4,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "",
+   "icone": "desastre",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE44-2026/n4.svg"
+   }
+  },
+  {
+   "ancora": "n5",
+   "titulo": "Rio de Janeiro registra chuva intensa e rajadas de vento",
+   "titulo_original": "Rio de Janeiro registra chuva intensa e rajadas de vento",
+   "resumo": "O estado do Rio de Janeiro registrou chuvas de moderadas a intensas e rajadas de vento na capital e em diversos municípios neste sábado (7). A previsão é de chuva até o fim da manhã de domingo (8). De acordo com a Defesa Civil estadual, ocorreram alagamentos na Penha, na zona norte da capital. Em Duque de Caxias, na Baixada Fluminense, a chuva e o vento derrubaram barracas de feira. Diante da situação, o governo do estado informou, em nota, que intensificou o monitoramento das chuvas.",
+   "local": "Brasil",
+   "agravo": "Saúde ambiental e clima",
+   "escopo": "Brasil",
+   "fonte": "Agência Brasil | Geral",
+   "sigla": "Agência Brasil",
+   "data": "2026-11-07",
+   "data_fmt": "07 nov 2026",
+   "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/rio-de-janeiro-registra-chuva-intensa-e-rajadas-de-vento",
+   "dominio": "agenciabrasil.ebc.com.br",
+   "nota_ia": null,
+   "pontuacao": 12.5,
+   "n": 5,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "RJ",
+   "icone": "clima",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE44-2026/n5.svg"
+   }
+  },
+  {
+   "ancora": "n6",
+   "titulo": "Giro Saúde destaca Novembro Azul, mpox e temporada de dengue 2027",
+   "titulo_original": "Giro Saúde destaca Novembro Azul, mpox e temporada de dengue 2027",
+   "resumo": "No programa desta semana o podcast Giro Saúde aborda a campanha Novembro Azul, que busca chamar atenção dos homens para a prevenção do câncer de próstata e sobre o crescimento no número de casos de mpox no Rio de Janeiro. O Ministério da Saúde ressalta a autorização para aquisição de 20 mil doses da vacina contra mpox por meio da Opas e a intensificação da vigilância para o sarampo. A Agência Fiocruz de Notícias (AFN) destaca um estudo que apontou que a exposição à seca na gestação eleva a chance de prematuridade e afeta o crescimento do bebê e as projeções para a temporada 2027 de dengue.",
+   "local": "Brasil",
+   "agravo": "Mpox",
+   "escopo": "Brasil",
+   "fonte": "Agência Fiocruz de Notícias",
+   "sigla": "Fiocruz",
+   "data": "2026-11-06",
+   "data_fmt": "06 nov 2026",
+   "url": "https://agencia.fiocruz.br/giro-saude-destaca-novembro-azul-mpox-e-temporada-de-dengue-2027",
+   "dominio": "agencia.fiocruz.br",
+   "nota_ia": null,
+   "pontuacao": 11.5,
+   "n": 6,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "RJ",
+   "icone": "virus",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE44-2026/n6.svg"
+   }
+  },
+  {
+   "ancora": "n7",
+   "titulo": "Surto de doença de Chagas por vinho de patauá mobiliza saúde e deixa paciente em UTI no Pará",
+   "titulo_original": "Surto de doença de Chagas por vinho de patauá mobiliza saúde e deixa paciente em UTI no Pará",
+   "resumo": "A ocorrência de um surto de doença de Chagas foi registrada na zona rural do município, associado ao consumo de vinho de patauá., Foto: Divulgação/ASCOM-PMO A confirmação de um surto de doença de Chagas na zona rural de Óbidos, no oeste do Pará, acendeu um alerta epidemiológico na região. Associado ao consumo de vinho de patauá artesanal, este é o primeiro registro grave da doença no município em mais de 20 anos. Até o momento, sete casos foram confirmados, sendo que três pacientes estão internados, um deles em estado grave em uma Unidade de Terapia Intensiva (UTI).",
+   "local": "Brasil",
+   "agravo": "Doença de Chagas aguda",
+   "escopo": "Brasil",
+   "fonte": "G1",
+   "sigla": "G1",
+   "data": "2026-11-07",
+   "data_fmt": "07 nov 2026",
+   "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/07/surto-de-doenca-de-chagas-por-vinho-de-pataua-mobiliza-saude-e-deixa-paciente-em-uti-no-para.ghtml",
+   "dominio": "g1.globo.com",
+   "nota_ia": null,
+   "pontuacao": 11.0,
+   "n": 7,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "",
+   "icone": "mosquito",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE44-2026/n7.svg"
+   }
+  },
+  {
+   "ancora": "n8",
+   "titulo": "Mais de 5 mil casos: surto de sarampo nos EUA em 2026 é o maior em 35 anos",
+   "titulo_original": "Mais de 5 mil casos: surto de sarampo nos EUA em 2026 é o maior em 35 anos",
+   "resumo": "Dos estados mais afetados, a Pensilvânia está na dianteira, com 1.487 casos de sarampo. Wisconsin e Nova York relataram mortes nesta semana Desde 1991, os Estados Unidos não ultrapassavam a marca de 5 mil casos de sarampo em um único ano. No entanto, o recorde negativo foi batido em 2026 com a confirmação de 5.182 pessoas diagnosticadas com a doença. Os números são dos Centros de Controle e Prevenção de Doenças (CDC) do país e representam o maior total anual em 35 anos. Dos estados mais afetados, a Pensilvânia está na dianteira, com 1.487 casos e 287 internações registradas até esta sexta-feira (6/11).",
+   "local": "Estados Unidos",
+   "agravo": "Sarampo",
+   "escopo": "Américas",
+   "fonte": "Metrópoles",
+   "sigla": "Metrópoles",
+   "data": "2026-11-07",
+   "data_fmt": "07 nov 2026",
+   "url": "https://www.metropoles.com/saude/mais-de-5-mil-casos-surto-de-sarampo-nos-eua-em-2026-e-o-maior-em-35-anos",
+   "dominio": "metropoles.com",
+   "nota_ia": null,
+   "pontuacao": 11.0,
+   "n": 8,
+   "paises": [
+    "USA"
+   ],
+   "uf": "",
+   "icone": "virus",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE44-2026/n8.svg"
+   }
+  },
+  {
+   "ancora": "n9",
+   "titulo": "Hantavirus Outbreak Caused by Andes Virus Linked to International Cruise Ship Travel - United States, 2026",
+   "titulo_original": "Hantavirus Outbreak Caused by Andes Virus Linked to International Cruise Ship Travel - United States, 2026",
+   "resumo": "This report describes cases of hantavirus among people on a cruise ship in the Atlantic Ocean.",
+   "local": "Estados Unidos",
+   "agravo": "Patógeno novo ou incomum em humanos",
+   "escopo": "Américas",
+   "fonte": "CDC | MMWR",
+   "sigla": "CDC",
+   "data": "2026-11-05",
+   "data_fmt": "05 nov 2026",
+   "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766796",
+   "dominio": "tools.cdc.gov",
+   "nota_ia": null,
+   "pontuacao": 11.0,
+   "n": 9,
+   "paises": [
+    "USA"
+   ],
+   "uf": "",
+   "icone": "virus",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE44-2026/n9.svg"
+   }
+  },
+  {
+   "ancora": "n10",
+   "titulo": "Surto de antraz mata 30 hipopótamos no Congo e país emite alerta",
+   "titulo_original": "Surto de antraz mata 30 hipopótamos no Congo e país emite alerta",
+   "resumo": "Surto atinge o Parque Nacional de Virunga, na República Democrática do Congo; não há registros de pessoas infectadas até o momento Um surto de antraz, doença infecciosa causada pela bactéria Bacillus anthracis, matou pelo menos 30 hipopótamos no Parque Nacional de Virunga, no leste da República Democrática do Congo, no último mês. Segundo reportagem publicada pela revista Nature nesta quarta-feira (4/11), não foram relatados casos em humanos até o momento, mas o risco associado ao contato com os animais infectados mantém as autoridades em alerta.",
+   "local": "",
+   "agravo": "Antraz",
+   "escopo": "Internacional",
+   "fonte": "Metrópoles",
+   "sigla": "Metrópoles",
+   "data": "2026-11-04",
+   "data_fmt": "04 nov 2026",
+   "url": "https://www.metropoles.com/saude/surto-de-antraz-mata-30-hipopotamos-no-congo-e-pais-emite-alerta",
+   "dominio": "metropoles.com",
+   "nota_ia": null,
+   "pontuacao": 11.0,
+   "n": 10,
+   "paises": [
+    "COG",
+    "COD"
+   ],
+   "uf": "",
+   "icone": "bacteria",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE44-2026/n10.svg"
+   }
+  }
+ ],
+ "outras": [
+  {
+   "titulo": "Defesa Civil alerta: condição de ALERTA para tempestade com vento e granizo que atuam nas proximidades de São Gabriel",
+   "fonte": "Defesa Civil",
+   "data_fmt": "04 nov 2026",
+   "url": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-alerta-para-tempestade-com-vento-e-granizo-que-atuam-nas-proximidades-de-sao-gabriel",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Defesa Civil alerta: condição de ALERTA para tempestade com vento e granizo nas proximidades de Barracão e Erechim",
+   "fonte": "Defesa Civil",
+   "data_fmt": "04 nov 2026",
+   "url": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-alerta-para-tempestade-com-vento-e-granizo-nas-proximidades-de-barracao-e-erechim-6aeb2df2d1643",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Defesa Civil alerta: condição de ALERTA para tempestade com vento e granizo que atuam nas proximidades de Fontoura Xavier",
+   "fonte": "Defesa Civil",
+   "data_fmt": "04 nov 2026",
+   "url": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-alerta-para-tempestade-com-vento-e-granizo-que-atuam-nas-proximidades-de-fontoura-xavier",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Defesa Civil alerta: condição de ALERTA para tempestade com granizo e vento que atuam nas proximidades de Alegrete",
+   "fonte": "Defesa Civil",
+   "data_fmt": "03 nov 2026",
+   "url": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-alerta-para-tempestade-com-granizo-e-vento-que-atuam-nas-proximidades-de-alegrete",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Defesa Civil alerta: condição de ALERTA para tempestade com vento e granizo que atuam nas proximidades de Quaraí",
+   "fonte": "Defesa Civil",
+   "data_fmt": "03 nov 2026",
+   "url": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-alerta-para-tempestade-com-vento-e-granizo-que-atuam-nas-proximidades-de-quarai",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Defesa Civil alerta: condição de ALERTA para tempestade com granizo e vento que atuam nas proximidades de Cacequi",
+   "fonte": "Defesa Civil",
+   "data_fmt": "03 nov 2026",
+   "url": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-alerta-para-tempestade-com-granizo-e-vento-que-atuam-nas-proximidades-de-cacequi",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Sorocaba tem três casos confirmados de mpox e um registro em investigação em 2026",
+   "fonte": "G1",
+   "data_fmt": "06 nov 2026",
+   "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/06/casos-mpox-sorocaba.ghtml",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Mpox: Ministério de Saúde envia 100 doses de vacina após DF registrar 23 casos",
+   "fonte": "Correio Braziliense",
+   "data_fmt": "06 nov 2026",
+   "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7534439-mpox-ministerio-de-saude-envia-100-doses-de-vacina-apos-df-registrar-23-casos.html",
+   "escopo": "DF"
+  },
+  {
+   "titulo": "Mpox: DF confirma oito casos em outubro e investiga circulação do vírus",
+   "fonte": "Correio Braziliense",
+   "data_fmt": "05 nov 2026",
+   "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7533212-mpox-df-confirma-oito-casos-em-outubro-e-investiga-circulacao-do-virus.html",
+   "escopo": "DF"
+  },
+  {
+   "titulo": "DF tem aumento de mpox com 23 casos até 4/11; veja sintomas e prevenção",
+   "fonte": "Correio Braziliense",
+   "data_fmt": "04 nov 2026",
+   "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7532892-df-registra-aumento-de-casos-de-mpox-sao-23-registros-ate-4-11.html",
+   "escopo": "DF"
+  },
+  {
+   "titulo": "DF não tem vacina contra mpox e pede ao Ministério da Saúde",
+   "fonte": "Correio Braziliense",
+   "data_fmt": "04 nov 2026",
+   "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7533082-df-pede-vacina-contra-a-mpox-ao-ministerio-da-saude.html",
+   "escopo": "DF"
+  },
+  {
+   "titulo": "Entidades LGBT+ cobram restabelecimento de vacinação contra mpox no DF",
+   "fonte": "Correio Braziliense",
+   "data_fmt": "04 nov 2026",
+   "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7533328-entidades-lgbt-cobram-restabelecimento-de-vacinacao-contra-mpox-no-df.html",
+   "escopo": "DF"
+  }
+ ],
+ "total_coletado": 384,
+ "fontes": [
+  "Africa CDC",
+  "Agência Brasil",
+  "Agência Fiocruz de Notícias",
+  "CDC",
+  "CNN",
+  "CNN Brasil",
+  "Cemaden",
+  "Correio Braziliense",
+  "Defesa Civil",
+  "Defesa Civil Nacional",
+  "ECDC",
+  "G1",
+  "INMET",
+  "Metrópoles",
+  "Ministério da Saúde",
+  "OMS",
+  "OPAS",
+  "SES-GO"
+ ],
+ "ia": false,
+ "contagem_escopo": {
+  "DF": 2,
+  "Brasil": 5,
+  "Américas": 2,
+  "Internacional": 1
+ },
+ "mapa": "edicoes/img/SE44-2026/mapa-semana.svg",
+ "mapa_escuro": "edicoes/img/SE44-2026/mapa-semana-escuro.svg",
+ "pdf": "edicoes/clipping-SE44-2026.pdf"
+}
