@@ -19,6 +19,24 @@
   "c": "atencao"
  },
  {
+  "t": "Mpox: Ministério da Saúde garante 25 mil doses de vacina após negociação internacional",
+  "u": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/mpox-ministerio-da-saude-garante-25-mil-doses-de-vacina-apos-negociacao-internacional",
+  "d": "2026-11-08",
+  "df": "08 nov 2026",
+  "f": "MS",
+  "fn": "Ministério da Saúde | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 10.0,
+  "se": "2026-45",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "Defesa Civil alerta para possibilidade de chuvas intensas e ventos fortes em Macaé neste domingo (8)",
   "u": "https://www.macae.rj.gov.br/noticias/leitura/noticia/defesa-civil-alerta-para-possibilidade-de-chuvas-intensas-e-ventos-fortes-em-macae-neste-domingo-8",
   "d": "2026-11-08",
@@ -33,6 +51,25 @@
   "se": "2026-45",
   "r": "",
   "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Fiocruz: El Niño pode aumentar casos de dengue no Brasil, mas há incerteza",
+  "u": "https://www.cnnbrasil.com.br/saude/fiocruz-el-nino-pode-aumentar-casos-de-dengue-no-brasil-mas-ha-incerteza/",
+  "d": "2026-11-08",
+  "df": "08 nov 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima",
+   "Dengue"
+  ],
+  "p": 8.0,
+  "se": "2026-45",
+  "r": "",
+  "i": "mosquito",
   "m": [],
   "c": "monitoramento"
  },
@@ -53,6 +90,24 @@
   "i": "clima",
   "m": [],
   "c": "monitoramento"
+ },
+ {
+  "t": "Cientistas projetam 866 mil casos de dengue no Brasil em 2027",
+  "u": "https://www.metropoles.com/saude/cientistas-projetam-866-mil-casos-de-dengue-no-brasil-em-2027",
+  "d": "2026-11-08",
+  "df": "08 nov 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 7.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Covid-19: pelo menos 5 estados registram aumento de casos graves",
