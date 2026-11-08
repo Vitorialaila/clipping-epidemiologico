@@ -280,6 +280,31 @@
   "motivo": "Mpox (notificação imediata) · estudo, orientação ou relato retrospectivo · DF e RIDE"
  },
  {
+  "id": "0948c29136ad2b",
+  "titulo": "Alerta Meteorológico: Defesa Civil orienta população para previsão de tempestade a partir de segunda-feira, 9",
+  "url": "https://www.pmvc.ba.gov.br/alerta-meteorologico-defesa-civil-orienta-populacao-para-previsao-de-tempestade-a-partir-de-segunda-feira-9/",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Prefeitura Municipal de Vitória da Conquista - PMVC",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-08T02:28:34+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alerta meteorologico"
+  ],
+  "categoria": "monitoramento",
+  "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · Brasil"
+ },
+ {
   "id": "89283e1407b159",
   "titulo": "Teto de loja de roupas desaba no Brás, em São Paulo",
   "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/teto-de-loja-de-roupas-desaba-no-bras-em-sao-paulo",
@@ -654,6 +679,121 @@
   "se": "2026-44",
   "descricao": "",
   "coletado_em": "2026-11-07T22:44:24+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "e9ade79c93fd07",
+  "titulo": "Chuvas e ventos fortes causam danos em seis regiões do DF neste sábado (7)",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7534980-chuvas-e-ventos-fortes-causam-danos-em-seis-regioes-do-df-neste-sabado-7.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-08T02:28:34+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "3b3556efcfed1c",
+  "titulo": "PMDF apreende R$ 140 mil em drogas na Rodoviária Interestadual de Brasília",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7535030-pmdf-apreende-rs-140-mil-em-drogas-na-rodoviaria-interestadual-de-brasilia.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-08T02:28:34+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "e8e582bff9a298",
+  "titulo": "Mulheres se queixam de tamanhos de camisetas em corrida feminina",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7535022-mulheres-se-queixam-de-tamanhos-de-camisetas-em-corrida-feminina.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-08T02:28:34+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "9d9486709d9e0b",
+  "titulo": "Chuva alaga ruas e causa transtornos no Jardim Ingá",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7535002-chuva-alaga-ruas-e-causa-transtornos-no-jardim-inga.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-08T02:28:34+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "bb89be8ff2ea48",
+  "titulo": "Corpo é encontrado boiando no Lago Paranoá, próximo à Ponte JK",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7534912-corpo-e-encontrado-boiando-no-lago-paranoa-proximo-a-ponte-jk.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-07",
+  "data_estimada": false,
+  "se": "2026-44",
+  "descricao": "",
+  "coletado_em": "2026-11-08T02:28:34+00:00",
   "municipios": [
    "Distrito Federal"
   ],
