@@ -1,5 +1,97 @@
 [
  {
+  "id": "3636d5e15a1667",
+  "titulo": "Homens lideram mortes por dengue no Triângulo Mineiro e Alto Paranaíba",
+  "url": "https://g1.globo.com/google/amp/mg/triangulo-mineiro/noticia/2026/11/09/homens-lideram-mortes-por-dengue-no-triangulo-mineiro-e-alto-paranaiba.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-09",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-09T07:57:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Dengue"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "Dengue (óbito de notificação imediata) · mortes · Brasil"
+ },
+ {
+  "id": "1f0f80a796e587",
+  "titulo": "Alerta de tempestade altera serviços públicos nesta sexta (11) – CGNotícias",
+  "url": "https://www.campogrande.ms.gov.br/cgnoticias/noticia/alerta-de-tempestade-altera-servicos-publicos-nesta-sexta-11/",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Prefeitura de Campo Grande",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-11-09",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-09T07:57:20+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · Brasil"
+ },
+ {
+  "id": "ae202789c8e975",
+  "titulo": "Tema da redação surpreende estudantes no primeiro dia de Enem 2026",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7535111-tema-da-redacao-surpreende-estudantes-no-primeiro-dia-de-enem-2026.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-09",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-09T07:57:20+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "8afa471b59c319",
+  "titulo": "Discussão, ameaças e 15 tiros: veja a sequência de violência na 302 Sul",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7535139-discussao-ameacas-e-15-tiros-veja-a-sequencia-de-violencia-na-302-sul.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-09",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-09T07:57:20+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
   "id": "cfaefa5b5ab40c",
   "titulo": "Ministério informa ter adquirido 25 mil doses de vacina contra mpox",
   "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/ministerio-informa-ter-adquirido-25-mil-doses-de-vacina-contra-mpox",
@@ -608,6 +700,52 @@
   "se": "2026-45",
   "descricao": "",
   "coletado_em": "2026-11-09T00:53:01+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "3441012e264e7d",
+  "titulo": "Corpo de jovem morta por PM na Asa Sul será velado nesta segunda",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7535271-corpo-de-jovem-morta-por-pm-na-asa-sul-sera-velado-nesta-segunda.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-08",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-09T07:57:20+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "f8f02ecbe940da",
+  "titulo": "Homem furta cabos e foge por escola onde ocorria prova do Enem",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7535263-homem-furta-cabos-e-foge-por-escola-onde-ocorria-prova-do-enem.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-08",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-09T07:57:20+00:00",
   "municipios": [
    "Distrito Federal"
   ],
