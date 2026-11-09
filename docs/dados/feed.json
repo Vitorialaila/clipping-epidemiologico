@@ -1,5 +1,41 @@
 [
  {
+  "t": "Saúde repassa R$ 524 mil para conter casos de sarampo no Amazonas",
+  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/saude-repassa-r-524-mil-para-conter-casos-de-sarampo-no-amazonas",
+  "d": "2026-11-09",
+  "df": "09 nov 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 11.0,
+  "se": "2026-45",
+  "r": "O Ministério da Saúde autorizou o repasse de R$ 524 mil para fortalecer ações de vacinação, vigilância e bloqueio da transmissão de casos de sarampo em três municípios do Amazonas: Atalaia do Norte, Benjamin Constant e Tabatinga. A portaria foi publicada…",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Com mais de 400 internações em UTI, SP registra alta de casos de Covid-19",
+  "u": "https://www.metropoles.com/sao-paulo/com-mais-de-400-internacoes-em-uti-sp-registra-alta-de-casos-de-covid-19",
+  "d": "2026-11-09",
+  "df": "09 nov 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 8.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Homens lideram mortes por dengue no Triângulo Mineiro e Alto Paranaíba",
   "u": "https://g1.globo.com/google/amp/mg/triangulo-mineiro/noticia/2026/11/09/homens-lideram-mortes-por-dengue-no-triangulo-mineiro-e-alto-paranaiba.ghtml",
   "d": "2026-11-09",
@@ -34,6 +70,78 @@
   "i": "clima",
   "m": [],
   "c": "monitoramento"
+ },
+ {
+  "t": "Com mais confirmações de sarna humana, Sul de Minas chega a 16 cidades com casos",
+  "u": "https://g1.globo.com/google/amp/mg/sul-de-minas/noticia/2026/11/09/com-mais-confirmacoes-de-sarna-humana-sul-de-minas-chega-a-16-cidades-com-casos.ghtml",
+  "d": "2026-11-09",
+  "df": "09 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Escabiose"
+  ],
+  "p": 7.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "saude",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Defesa Civil orienta população sobre El Niño e medidas de preparação para eventuais emergências",
+  "u": "https://www.natal.rn.gov.br/news/post2/46074",
+  "d": "2026-11-09",
+  "df": "09 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura Municipal do Natal",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Saúde adquire 25 mil doses de vacina contra Mpox; veja quem pode se vacinar",
+  "u": "https://www.cnnbrasil.com.br/saude/saude-adquire-25-mil-doses-de-vacina-contra-mpox-veja-quem-pode-se-vacinar/",
+  "d": "2026-11-09",
+  "df": "09 nov 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Internacional",
+  "a": [
+   "Mpox"
+  ],
+  "p": 6.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "18 estados e o DF têm tendência de aumento da Covid-19, apontam relatórios",
+  "u": "https://www.cnnbrasil.com.br/saude/18-estados-e-o-df-tem-tendencia-de-aumento-da-covid-19-apontam-relatorios/",
+  "d": "2026-11-09",
+  "df": "09 nov 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Internacional",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 6.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Ministério informa ter adquirido 25 mil doses de vacina contra mpox",
@@ -426,6 +534,24 @@
   "c": "monitoramento"
  },
  {
+  "t": "Notícia - Defesa Civil reforça orientações para prevenir incêndios durante o período de estiagem",
+  "u": "https://www.botucatu.sp.gov.br/noticia/5081/defesa-civil-reforca-orientacoes-para-prevenir-incendios-durante-o-periodo-de-estiagem/",
+  "d": "2026-11-07",
+  "df": "07 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura Municipal de Botucatu",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "Municípios da tríplice fronteira recebem mobilização contra o sarampo",
   "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/municipios-da-triplice-fronteira-recebem-mobilizacao-contra-o-sarampo",
   "d": "2026-11-07",
@@ -442,6 +568,43 @@
   "i": "virus",
   "m": [],
   "c": "monitoramento"
+ },
+ {
+  "t": "Yellow fever - WHO African Region",
+  "u": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON624",
+  "d": "2026-11-06",
+  "df": "06 nov 2026",
+  "f": "OMS",
+  "fn": "OMS | Disease Outbreak News",
+  "e": "Internacional",
+  "a": [
+   "Febre amarela",
+   "Imunização"
+  ],
+  "p": 15.0,
+  "se": "2026-44",
+  "r": "Yellow fever transmission continues in the WHO African Region, with recent outbreak activity concentrated in parts of West Africa. Between 1 January and 12 October 2026, 67 confirmed cases, including 18 deaths, were recorded in nine countries in the Region…",
+  "i": "mosquito",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo, Kenya and Nigeria",
+  "u": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON625",
+  "d": "2026-11-06",
+  "df": "06 nov 2026",
+  "f": "OMS",
+  "fn": "OMS | Disease Outbreak News",
+  "e": "Internacional",
+  "a": [
+   "Doença pelo vírus Ebola"
+  ],
+  "p": 14.5,
+  "se": "2026-44",
+  "r": "Since the publication of the previous Disease Outbreak News on 23 October 2026, the Bundibugyo virus disease (BVD) outbreak has expanded geographically in the Democratic Republic of the Congo. While some areas have seen a slight decline in cases, sustained…",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "São Paulo confirma 67 casos de mpox em um mês",
@@ -1649,6 +1812,42 @@
   "c": "monitoramento"
  },
  {
+  "t": "Two new candidate vaccines to join Ebola trial as treatment research advances",
+  "u": "https://www.who.int/news/item/04-11-2026-two-new-candidate-vaccines-to-join-ebola-trial-as-treatment-research-advances",
+  "d": "2026-11-04",
+  "df": "04 nov 2026",
+  "f": "OMS",
+  "fn": "OMS | Notícias",
+  "e": "Internacional",
+  "a": [
+   "Doença pelo vírus Ebola"
+  ],
+  "p": 6.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Community protection for Bundibugyo virus disease: supporting the response through technical publications",
+  "u": "https://www.who.int/news/item/04-11-2026-community-protection-for-bundibugyo-virus-disease--supporting-the-response-through-technical-publications",
+  "d": "2026-11-04",
+  "df": "04 nov 2026",
+  "f": "OMS",
+  "fn": "OMS | Notícias",
+  "e": "Internacional",
+  "a": [
+   "Doença pelo vírus Ebola"
+  ],
+  "p": 6.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "Brasil segue livre do sarampo e intensifica vigilância com busca ativa em todo o país nesta quarta (4)",
   "u": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/brasil-segue-livre-do-sarampo-e-intensifica-vigilancia-com-busca-ativa-em-todo-o-pais-nesta-quarta-4",
   "d": "2026-11-04",
@@ -2173,6 +2372,26 @@
   "i": "bacteria",
   "m": [],
   "c": "monitoramento"
+ },
+ {
+  "t": "Shamonda virus in human - France",
+  "u": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON623",
+  "d": "2026-11-02",
+  "df": "02 nov 2026",
+  "f": "OMS",
+  "fn": "OMS | Disease Outbreak News",
+  "e": "Internacional",
+  "a": [
+   "Patógeno novo ou incomum em humanos",
+   "Encefalites virais",
+   "Doenças transmitidas por alimentos e água"
+  ],
+  "p": 15.5,
+  "se": "2026-44",
+  "r": "On 20 October 2026, the National IHR Focal Point (NFP) of France notified WHO regarding the first documented human infection with Shamonda virus (SHAV). The case was an immunocompromised older man from eastern France with no travel history during the…",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Desmatamento e queimadas colocam em risco preservação das árvores do Cerrado",
@@ -3741,24 +3960,6 @@
   "i": "clima",
   "m": [],
   "c": "monitoramento"
- },
- {
-  "t": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo, Kenya and Nigeria",
-  "u": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622",
-  "d": "2026-10-23",
-  "df": "23 out 2026",
-  "f": "OMS",
-  "fn": "OMS | Disease Outbreak News",
-  "e": "Internacional",
-  "a": [
-   "Doença pelo vírus Ebola"
-  ],
-  "p": 14.5,
-  "se": "2026-42",
-  "r": "Since the publication of the previous Disease Outbreak News on 8 October 2026, the Bundibugyo virus disease (BVD) outbreak has expanded geographically in the Democratic Republic of the Congo, as well as in the African Region, with Kenya and Nigeria reporting…",
-  "i": "virus",
-  "m": [],
-  "c": "alerta"
  },
  {
   "t": "Defesa Civil alerta para calor de até 34°C e baixa umidade neste fim de semana",
