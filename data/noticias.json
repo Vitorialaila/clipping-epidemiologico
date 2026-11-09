@@ -1,5 +1,30 @@
 [
  {
+  "id": "cfaefa5b5ab40c",
+  "titulo": "Ministério informa ter adquirido 25 mil doses de vacina contra mpox",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/ministerio-informa-ter-adquirido-25-mil-doses-de-vacina-contra-mpox",
+  "fonte_id": "agencia-brasil-saude",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-11-08",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "O Ministério da Saúde informou ter adquirido 25 mil doses da vacina contra a mpox. A remessa foi possível após negociações da pasta com o laboratório dinamarquês fabricante do imunizante para vender a quantidade máxima de doses ao Brasil. Com isso, o ministério conseguiu ampliar o envio de 5 mil para 20 mil doses, com entrega prevista nas próximas três semanas. De acordo com o ministério, as novas doses irão reforçar o estoque nacional. Nove unidades da Federação foram abastecidas com 3.650 doses, entre elas Rio de Janeiro, Ceará e Distrito Federal.",
+  "coletado_em": "2026-11-09T00:53:01+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 13.0,
+  "agravos": [
+   "Mpox"
+  ],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": "Mpox (notificação imediata) · sem ocorrência relatada no título · DF e RIDE"
+ },
+ {
   "id": "0cb084a2f18738",
   "titulo": "El Niño acende alerta para dengue em 2027; projeção aponta chance de 866 mil casos",
   "url": "https://g1.globo.com/google/amp/saude/dengue/noticia/2026/11/08/el-nino-alerta-para-dengue-em-2027.ghtml",
@@ -142,6 +167,31 @@
   "termos_evento": [],
   "categoria": "atencao",
   "motivo": "Dengue (notificação semanal) · 866 mil casos · Brasil"
+ },
+ {
+  "id": "f4a993b173607d",
+  "titulo": "AFRICA CDC WELCOMES THE APPOINTMENT OF DR MARK DYBUL AS EXECUTIVE DIRECTOR OF THE GLOBAL FUND AND CALLS FOR A NEW ERA OF AFRICAN OWNERSHIP AND HEALTH SOVEREIGNTY",
+  "url": "https://africacdc.org/news-item/africa-cdc-welcomes-the-appointment-of-dr-mark-dybul-as-executive-director-of-the-global-fund-and-calls-for-a-new-era-of-african-ownership-and-health-sovereignty/",
+  "fonte_id": "africa-cdc",
+  "fonte": "Africa CDC | Notícias",
+  "sigla": "Africa CDC",
+  "idioma": "en",
+  "data": "2026-11-08",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "Addis Ababa, 9 November 2026 The Africa Centres for Disease Control and Prevention (Africa CDC) welcomes the appointment of Dr Mark Dybul as the next Executive Director of the Global Fund to Fight AIDS, Tuberculosis and Malaria and looks forward to deepening cooperation in support of Africa’s health priorities. Following a telephone conversation with Dr […] The post AFRICA CDC WELCOMES THE APPOINTMENT OF DR MARK DYBUL AS EXECUTIVE DIRECTOR OF THE GLOBAL FUND AND CALLS FOR A NEW ERA OF AFRICAN OWNERSHIP AND HEALTH SOVEREIGNTY appeared first on Africa CDC .",
+  "coletado_em": "2026-11-09T00:53:01+00:00",
+  "municipios": [],
+  "pontuacao": 4.5,
+  "agravos": [
+   "Malária",
+   "Tuberculose",
+   "HIV/aids e IST"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": "Malária (notificação semanal) · sem ocorrência relatada no título · internacional"
  },
  {
   "id": "c19e0fc7f44ba8",
@@ -489,6 +539,75 @@
   "se": "2026-45",
   "descricao": "",
   "coletado_em": "2026-11-08T21:09:47+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "f527677639f7f2",
+  "titulo": "PM atira em van e mata uma mulher em Brasília",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/pm-atira-em-van-e-mata-uma-mulher-em-brasilia",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-11-08",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "Um policial militar efetuou disparos contra uma van, na madrugada deste domingo (8), na Asa Sul, centro de Brasília, e matou uma mulher, de aproximadamente 26 anos. Outras quatro pessoas ficaram feridas. Segundo a Polícia Militar do Distrito Federal, o policial foi preso e a ocorrência foi encaminhada para Polícia Civil. O caso permanece em andamento na delegacia para os procedimentos legais e a apuração dos fatos.",
+  "coletado_em": "2026-11-09T00:53:01+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "4f0bc69ff367e2",
+  "titulo": "\"Foram muitos disparos, em sequência\": estudante relata ataque a tiros contra van",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7535221-foram-muitos-disparos-em-sequencia-estudante-relata-ataque-a-tiros-contra-van.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-08",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-09T00:53:01+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "6ea8c3cf62bacf",
+  "titulo": "Comissão de Direitos Humanos repudia atos de PM que matou mulher na Asa Sul",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7535151-comissao-de-direitos-humanos-repudia-atos-de-pm-que-matou-mulher-na-asa-sul.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-08",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-09T00:53:01+00:00",
   "municipios": [
    "Distrito Federal"
   ],
