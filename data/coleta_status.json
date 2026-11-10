@@ -1,8 +1,8 @@
 {
  "oms-don": {
-  "em": "2026-11-09T18:46:38+00:00",
+  "em": "2026-11-10T02:06:23+00:00",
   "lidos": 30,
-  "novos": 3,
+  "novos": 0,
   "exemplos": [
    "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo, Kenya and Nigeria",
    "Yellow fever - WHO African Region",
@@ -10,9 +10,9 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-11-09T18:46:38+00:00",
+  "em": "2026-11-10T02:06:23+00:00",
   "lidos": 40,
-  "novos": 15,
+  "novos": 0,
   "exemplos": [
    "WHO training strengthens global capacity for healthier, more equitable cities",
    "New WHO policy options call for stronger integration of health and care workforce",
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-11-09T18:46:38+00:00",
+  "em": "2026-11-10T02:06:23+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,17 +30,17 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-11-09T18:46:38+00:00",
+  "em": "2026-11-10T02:06:23+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "One in four adolescents worldwide reported no active days in the previous week",
    "PAHO issues advice for travelers ahead of Pope Leo XIV’s visit to Latin America",
-   "New PAHO plan aims to accelerate malaria elimination in the Americas over the next four years",
-   "PAHO calls for health to take a central place on Ibero-America’s political agenda"
+   "New PAHO plan aims to accelerate malaria elimination in the Americas over the next four years"
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-11-09T18:46:38+00:00",
+  "em": "2026-11-10T02:06:23+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-11-09T18:46:38+00:00",
+  "em": "2026-11-10T02:06:23+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-11-09T18:46:38+00:00",
+  "em": "2026-11-10T02:06:23+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-11-09T18:46:38+00:00",
+  "em": "2026-11-10T02:06:23+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-11-09T18:46:38+00:00",
+  "em": "2026-11-10T02:06:23+00:00",
   "lidos": 2350,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-11-09T18:46:38+00:00",
+  "em": "2026-11-10T02:06:23+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,58 +100,58 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-11-09T18:46:38+00:00",
+  "em": "2026-11-10T02:06:23+00:00",
   "lidos": 15,
-  "novos": 0,
+  "novos": 2,
   "exemplos": [
-   "Mpox: Ministério da Saúde garante 25 mil doses de vacina após negociação internacional",
-   "Ministério da Saúde inaugura unidade de saúde indígena no Pará",
-   "Dia D de vacinação contra o sarampo mobiliza a tríplice fronteira neste sábado (7)"
+   "Brasil anuncia Marco de Financiamento do Plano de Ação em Saúde de Belém na COP31",
+   "Ministério da Saúde promove ações sobre cuidado integral à saúde dos homens no Ceará e no Rio de Janeiro",
+   "Mpox: Ministério da Saúde garante 25 mil doses de vacina após negociação internacional"
   ]
  },
  "fiocruz": {
-  "em": "2026-11-09T18:46:38+00:00",
+  "em": "2026-11-10T02:06:23+00:00",
   "lidos": 10,
-  "novos": 3,
+  "novos": 2,
   "exemplos": [
-   "Nav. ed. pt Estante Saude Indigena no Ceara",
-   "E-book apresenta indicadores demográficos e de saúde da população indígena do Ceará",
-   "Cadernos de Saúde Pública lança blog para aproximar a produção científica da sociedade"
+   "Fiocruz abre inscrições para a 4ª edição do Curso de Atualidades em Saúde Global e Diplomacia da Saúde",
+   "Roda de Conversa debate valorização das mulheres na ciência",
+   "Nav. ed. pt Estante Saude Indigena no Ceara"
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-11-09T18:46:38+00:00",
-  "lidos": 10,
-  "novos": 3,
-  "exemplos": [
-   "Anvisa determina recolhimento de emagrecedor Ultra Shape",
-   "Saúde repassa R$ 524 mil para conter casos de sarampo no Amazonas",
-   "Girl Up Brasil lança almanaque para adolescentes sobre 1ª menstruação"
-  ]
- },
- "ses-go": {
-  "em": "2026-11-09T18:46:38+00:00",
-  "lidos": 10,
-  "novos": 8,
-  "exemplos": [
-   "SES-GO revitaliza túmulos das vítimas do acidente com Césio-137 em Goiânia",
-   "Hospitais estaduais realizam mais de 8,7 mil cirurgias pediátricas em nove meses",
-   "Ex-secretário de Estado da Saúde, Sérgio Vencio, toma posse na Academia Goiana de Medicina"
-  ]
- },
- "agencia-brasil-geral": {
-  "em": "2026-11-09T18:46:38+00:00",
+  "em": "2026-11-10T02:06:23+00:00",
   "lidos": 10,
   "novos": 1,
   "exemplos": [
-   "Criança de 3 anos é morta a tiros dentro de casa no Rio de Janeiro",
-   "PM atira em van e mata uma mulher em Brasília",
-   "Defesa Civil diz não haver motivo para pânico por kit de emergência"
+   "Nível de conhecimento e prevenção ao câncer de próstata cai no Brasil",
+   "Anvisa determina recolhimento de emagrecedor Ultra Shape",
+   "Saúde repassa R$ 524 mil para conter casos de sarampo no Amazonas"
+  ]
+ },
+ "ses-go": {
+  "em": "2026-11-10T02:06:23+00:00",
+  "lidos": 10,
+  "novos": 5,
+  "exemplos": [
+   "Herso realiza segunda captação de órgãos de 2026",
+   "Extrato da Portaria nº 3340/2026 – SES/GO",
+   "Extrato do Termo de Permissão de Uso nº 81/2026 – SES/GO"
+  ]
+ },
+ "agencia-brasil-geral": {
+  "em": "2026-11-10T02:06:23+00:00",
+  "lidos": 10,
+  "novos": 3,
+  "exemplos": [
+   "Chuvas deixam feridos, desabrigados e casas destelhadas no Sul",
+   "Classe C: número de famílias sem dinheiro guardado cai de 61% para 29%",
+   "Correios: campanha já recebeu mais de 100 mil cartas para o papai noel"
   ]
  },
  "g1-busca": {
-  "em": "2026-11-09T18:46:38+00:00",
-  "lidos": 351,
+  "em": "2026-11-10T02:06:23+00:00",
+  "lidos": 341,
   "novos": 1,
   "exemplos": [
    "Instituto Federal investiga uso de IA em caso suspeito de racismo contra aluna no interior de SP",
@@ -160,8 +160,8 @@
   ]
  },
  "metropoles-busca": {
-  "em": "2026-11-09T18:46:38+00:00",
-  "lidos": 54,
+  "em": "2026-11-10T02:06:23+00:00",
+  "lidos": 56,
   "novos": 1,
   "exemplos": [
    "Áudios e prints revelam golpe em mulheres que pagaram por cirurgia de mama",
@@ -170,18 +170,18 @@
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-11-09T18:46:38+00:00",
+  "em": "2026-11-10T02:06:23+00:00",
   "lidos": 26,
-  "novos": 2,
+  "novos": 1,
   "exemplos": [
-   "Saúde adquire 25 mil doses de vacina contra Mpox; veja quem pode se vacinar",
-   "18 estados e o DF têm tendência de aumento da Covid-19, apontam relatórios",
-   "Anvisa proíbe emagrecedor \"Ultra Shape\" e quatro produtos em cápsulas"
+   "Saúde e Einstein desenvolvem IA para identificar doenças de pele no SUS",
+   "Brasil registra 832 casos e uma morte por Mpox em 2026, diz ministério",
+   "Saúde adquire 25 mil doses de vacina contra Mpox; veja quem pode se vacinar"
   ]
  },
  "cnn-saude": {
-  "em": "2026-11-09T18:46:38+00:00",
-  "lidos": 25,
+  "em": "2026-11-10T02:06:23+00:00",
+  "lidos": 24,
   "novos": 0,
   "exemplos": [
    "A promising drug for an inherited heart risk flops, stunning doctors",
@@ -190,27 +190,27 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-11-09T18:46:38+00:00",
-  "lidos": 31,
+  "em": "2026-11-10T02:06:23+00:00",
+  "lidos": 34,
   "novos": 0,
   "exemplos": [
    "Wisconsin infant is US’ third measles-related death this week",
    "Expecting a new grandchild? Here’s why you may need to see your doctor first",
-   "Child in New York dies after contracting measles, the state’s first such death in 30 years"
+   "Florida carries out its 19th execution of year as 3 states administer the death penalty in a day"
   ]
  },
  "inmet": {
-  "em": "2026-11-09T18:46:38+00:00",
+  "em": "2026-11-10T02:06:23+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
+   "BOLETIM AGROCLIMATOLÓGICO MENSAL - NOVEMBRO/2026",
    "Previsão para terça-feira (10) e quarta-feira (11)",
-   "INMET divulga previsão para semana de 9 a 16 de novembro de 2026",
-   "Nota sobre os Destaques Meteorológicos de outubro de 2026"
+   "INMET divulga previsão para semana de 9 a 16 de novembro de 2026"
   ]
  },
  "cemaden": {
-  "em": "2026-11-09T18:46:38+00:00",
+  "em": "2026-11-10T02:06:23+00:00",
   "lidos": 8,
   "novos": 0,
   "exemplos": [
@@ -220,9 +220,9 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-11-09T18:46:38+00:00",
-  "lidos": 38,
-  "novos": 2,
+  "em": "2026-11-10T02:06:23+00:00",
+  "lidos": 33,
+  "novos": 1,
   "exemplos": [
    "MIDR esclarece que kit de emergência é medida preventiva e não tem relação com alerta nacional",
    "Autorizado repasse de R$ 16,5 milhões para ações de defesa civil",
@@ -230,13 +230,13 @@
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-11-09T18:46:38+00:00",
-  "lidos": 20,
+  "em": "2026-11-10T02:06:23+00:00",
+  "lidos": 21,
   "novos": 17,
   "exemplos": [
-   "Discussão, ameaças e 15 tiros: veja a sequência de violência na 302 Sul",
-   "Clínica lamenta morte de jovem assassinada por PM e suspende atividades",
-   "Jovem que caiu em bar na Asa Sul morre após nove dias internado"
+   "Militar que abriu fogo contra van é transferido para Papudinha",
+   "Familiares e amigos se despedem de Alessandra e pedem justiça em Taguatinga",
+   "Dia Mundial da Filosofia terá programação especial em Brasília"
   ]
  }
 }

@@ -1,5 +1,24 @@
 [
  {
+  "t": "Chuvas deixam feridos, desabrigados e casas destelhadas no Sul",
+  "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/chuvas-deixam-feridos-desabrigados-e-casas-destelhadas-no-sul",
+  "d": "2026-11-09",
+  "df": "09 nov 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Geral",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 11.5,
+  "se": "2026-45",
+  "r": "Dezenas de cidades do Sul do país organizaram força-tarefa para atendimento à população afetadas pelas chuvas que atingiram a região entre quinta-feira (5) e sábado (7). Há distribuição de cestas básicas, colchões, kits de higiene e telhas. Os três estados…",
+  "i": "desastre",
+  "m": [],
+  "c": "atencao"
+ },
+ {
   "t": "Saúde repassa R$ 524 mil para conter casos de sarampo no Amazonas",
   "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/saude-repassa-r-524-mil-para-conter-casos-de-sarampo-no-amazonas",
   "d": "2026-11-09",
@@ -13,6 +32,42 @@
   "p": 11.0,
   "se": "2026-45",
   "r": "O Ministério da Saúde autorizou o repasse de R$ 524 mil para fortalecer ações de vacinação, vigilância e bloqueio da transmissão de casos de sarampo em três municípios do Amazonas: Atalaia do Norte, Benjamin Constant e Tabatinga. A portaria foi publicada…",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Brasil registra 832 casos e uma morte por Mpox em 2026",
+  "u": "https://www.metropoles.com/brasil/brasil-registra-832-casos-e-uma-morte-por-mpox-em-2026",
+  "d": "2026-11-09",
+  "df": "09 nov 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Brasil registra 832 casos e uma morte por Mpox em 2026, diz ministério",
+  "u": "https://www.cnnbrasil.com.br/saude/brasil-registra-832-casos-e-uma-morte-por-mpox-em-2026-diz-ministerio/",
+  "d": "2026-11-09",
+  "df": "09 nov 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-45",
+  "r": "",
   "i": "virus",
   "m": [],
   "c": "alerta"
@@ -106,6 +161,24 @@
   "i": "clima",
   "m": [],
   "c": "monitoramento"
+ },
+ {
+  "t": "Combate à dengue em Santarém: 6 mortes foram registradas este ano",
+  "u": "https://g1.globo.com/google/amp/pa/santarem-regiao/videos-jornal-tapajos-1-edicao/video/combate-a-dengue-em-santarem-6-mortes-foram-registradas-este-ano-15172777.ghtml",
+  "d": "2026-11-09",
+  "df": "09 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 7.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Saúde adquire 25 mil doses de vacina contra Mpox; veja quem pode se vacinar",
@@ -998,6 +1071,24 @@
   "df": "06 nov 2026",
   "f": "Defesa Civil",
   "fn": "GOV.BR",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-44",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Defesa Civil emite alertas para tempestade e queda de temperatura – CGNotícias",
+  "u": "https://www.campogrande.ms.gov.br/cgnoticias/noticia/defesa-civil-emite-alertas-para-tempestade-e-queda-de-temperatura/",
+  "d": "2026-11-06",
+  "df": "06 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura de Campo Grande",
   "e": "Brasil",
   "a": [
    "Saúde ambiental e clima"
