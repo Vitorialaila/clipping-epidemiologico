@@ -21,6 +21,24 @@
   "c": "monitoramento"
  },
  {
+  "t": "Caso de febre amarela em macaco reforça alerta para vacinação",
+  "u": "https://g1.globo.com/mg/triangulo-mineiro/mg1-uberlandia/video/caso-de-febre-amarela-em-macaco-reforca-alerta-para-vacinacao-15175890.ghtml",
+  "d": "2026-11-10",
+  "df": "10 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Febre amarela"
+  ],
+  "p": 11.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Saúde apreende máquina que bateu patauá e usa teste de DNA para conter surto de doença de Chagas no PA",
   "u": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/10/saude-apreende-maquina-que-bateu-pataua-e-usa-teste-de-dna-para-conter-surto-de-doenca-de-chagas-no-pa.ghtml",
   "d": "2026-11-10",
@@ -57,6 +75,42 @@
   "c": "alerta"
  },
  {
+  "t": "Em Óbidos, surto de doença de Chagas preocupa os moradores",
+  "u": "https://g1.globo.com/pa/para/videos-jornal-liberal-1-edicao/video/em-obidos-surto-de-doenca-de-chagas-preocupa-os-moradores-15176463.ghtml",
+  "d": "2026-11-10",
+  "df": "10 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Doença de Chagas aguda"
+  ],
+  "p": 11.0,
+  "se": "2026-45",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Doença de Chagas em Óbidos: equipes de saúde investigam origem do surto",
+  "u": "https://g1.globo.com/google/amp/pa/santarem-regiao/videos-jornal-tapajos-1-edicao/video/doenca-de-chagas-em-obidos-equipes-de-saude-investigam-origem-do-surto-15175587.ghtml",
+  "d": "2026-11-10",
+  "df": "10 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Doença de Chagas aguda"
+  ],
+  "p": 11.0,
+  "se": "2026-45",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "El Niño deve persistir no DF até outono de 2027, prevê Inmet",
   "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7535964-el-nino-deve-persistir-no-df-ate-o-outono-de-2027-preve-inmet.html",
   "d": "2026-11-10",
@@ -75,6 +129,46 @@
    "Distrito Federal"
   ],
   "c": "monitoramento"
+ },
+ {
+  "t": "Inmet participa de coletiva sobre o período chuvoso e os efeitos do El Niño no DF",
+  "u": "https://portal.inmet.gov.br/noticias/inmet-participa-de-coletiva-sobre-o-período-chuvoso-e-os-efeitos-do-el-niño-no-df",
+  "d": "2026-11-10",
+  "df": "10 nov 2026",
+  "f": "INMET",
+  "fn": "INMET | Notícias",
+  "e": "DF",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 10.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "clima",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Casos de covid-19 despencam 76% no DF e reforçam importância da vacina",
+  "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7536416-casos-de-covid-19-despencam-76-no-df-e-reforcam-importancia-da-vacina.html",
+  "d": "2026-11-10",
+  "df": "10 nov 2026",
+  "f": "Correio Braziliense",
+  "fn": "Correio Braziliense | Cidades DF",
+  "e": "DF",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 10.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "respiratorio",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "alerta"
  },
  {
   "t": "Escolas suspendem aulas após surto de sarna",
@@ -111,6 +205,42 @@
   "i": "mosquito",
   "m": [],
   "c": "atencao"
+ },
+ {
+  "t": "Surto de esporotricose em Guaíba",
+  "u": "https://g1.globo.com/rs/rio-grande-do-sul/videos-jornal-do-almoco/video/surto-de-esporotricose-em-guaiba-15175936.ghtml",
+  "d": "2026-11-10",
+  "df": "10 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Micoses endêmicas"
+  ],
+  "p": 10.0,
+  "se": "2026-45",
+  "r": "",
+  "i": "fungo",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Covid-19: casos e óbitos seguem em queda no Brasil",
+  "u": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/covid-19-casos-e-obitos-seguem-em-queda-no-brasil",
+  "d": "2026-11-10",
+  "df": "10 nov 2026",
+  "f": "MS",
+  "fn": "Ministério da Saúde | Notícias",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 9.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Especialistas alertam para risco de reinfecção da dengue",
@@ -222,6 +352,115 @@
   "c": "monitoramento"
  },
  {
+  "t": "Roraima registra 543 casos de dengue em 2026, aumento de 51% em relação a 2025",
+  "u": "https://g1.globo.com/google/amp/rr/roraima/videos-jornal-de-roraima-1-edicao/video/roraima-registra-543-casos-de-dengue-em-2026-aumento-de-51-em-relacao-a-2025-15176637.ghtml",
+  "d": "2026-11-10",
+  "df": "10 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 7.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Divinópolis tem mais de 4,6 mil casos notificados de dengue e quatro mortes",
+  "u": "https://g1.globo.com/google/amp/mg/centro-oeste/videos-integracao-noticia/video/divinopolis-tem-mais-de-46-mil-casos-notificados-de-dengue-e-quatro-mortes-15175162.ghtml",
+  "d": "2026-11-10",
+  "df": "10 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 7.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Casos de covid-19 caem 64,8% em Santos na contramão da alta no Brasil",
+  "u": "https://g1.globo.com/sp/santos-regiao/mais-saude/noticia/2026/11/10/casos-de-covid-19-caem-648percent-em-santos-na-contramao-da-alta-no-brasil.ghtml",
+  "d": "2026-11-10",
+  "df": "10 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 7.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Casos de Covid-19 crescem em BH e poder público recomenda vacinação",
+  "u": "https://www.metropoles.com/minas-gerais/casos-de-covid-19-crescem-em-bh-e-poder-publico-recomenda-vacinacao",
+  "d": "2026-11-10",
+  "df": "10 nov 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 7.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Pesquisadora da Fiocruz integra grupo técnico de assessoramento da OMS sobre leishmanioses",
+  "u": "https://agencia.fiocruz.br/pesquisadora-da-fiocruz-integra-grupo-tecnico-de-assessoramento-da-oms-sobre-leishmanioses",
+  "d": "2026-11-10",
+  "df": "10 nov 2026",
+  "f": "Fiocruz",
+  "fn": "Agência Fiocruz de Notícias",
+  "e": "Brasil",
+  "a": [
+   "Malária",
+   "Leishmanioses"
+  ],
+  "p": 6.5,
+  "se": "2026-45",
+  "r": "Pesquisadora da Fiocruz integra grupo técnico de assessoramento da OMS sobre leishmanioses A chefe do Laboratório de Pesquisa em Leishmanioses do Instituto Oswaldo Cruz (IOC/Fiocruz), Elisa Cupolillo, foi convidada pela Organização Mundial da Saúde (OMS) para…",
+  "i": "mosquito",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "CDC chief says agency will not change measles response if US loses elimination status",
+  "u": "https://edition.cnn.com/2026/11/10/health/cdc-measles-elimination-response",
+  "d": "2026-11-10",
+  "df": "10 nov 2026",
+  "f": "CNN",
+  "fn": "CNN | Health",
+  "e": "Internacional",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 6.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "Hecad nas Escolas reúne mais de 800 estudantes em ação de conscientização e prevenção",
   "u": "https://goias.gov.br/saude/hecad-nas-escolas-reune-mais-de-800-estudantes-em-acao-de-conscientizacao-e-prevencao/",
   "d": "2026-11-10",
@@ -236,6 +475,24 @@
   "se": "2026-45",
   "r": "Terceira edição do programa abordou temas como namoro seguro, infecções sexualmente transmissíveis e prevenção da violência sexual entre crianças e adolescentes",
   "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Instituto Evandro Chagas comemora 90 anos com congresso científico",
+  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/instituto-evandro-chagas-comemora-90-anos-com-congresso-cientifico",
+  "d": "2026-11-10",
+  "df": "10 nov 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Doença de Chagas aguda"
+  ],
+  "p": 5.0,
+  "se": "2026-45",
+  "r": "A partir desta quarta-feira (11) Belém recebe o Congresso Científico “IEC: 90 anos de contribuição à ciência e à saúde pública”. A programação celebra as nove décadas da instituição e conta com a apresentação de 79 trabalhos científicos na área de saúde de…",
+  "i": "mosquito",
   "m": [],
   "c": "monitoramento"
  },
