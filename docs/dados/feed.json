@@ -1,5 +1,26 @@
 [
  {
+  "t": "Neoenergia pode ampliar em até cinco vezes equipes durante temporais no DF",
+  "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7536100-neoenergia-pode-ampliar-em-ate-cinco-vezes-equipes-durante-temporais-no-df.html",
+  "d": "2026-11-10",
+  "df": "10 nov 2026",
+  "f": "Correio Braziliense",
+  "fn": "Correio Braziliense | Cidades DF",
+  "e": "DF",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 12.0,
+  "se": "2026-45",
+  "r": "",
+  "i": "desastre",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "monitoramento"
+ },
+ {
   "t": "Saúde apreende máquina que bateu patauá e usa teste de DNA para conter surto de doença de Chagas no PA",
   "u": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/10/saude-apreende-maquina-que-bateu-pataua-e-usa-teste-de-dna-para-conter-surto-de-doenca-de-chagas-no-pa.ghtml",
   "d": "2026-11-10",
@@ -16,6 +37,225 @@
   "i": "mosquito",
   "m": [],
   "c": "alerta"
+ },
+ {
+  "t": "Surto de doença de Chagas em Óbidos deixa sete pessoas infectadas e uma morta, no PA",
+  "u": "https://g1.globo.com/pa/para/videos-bom-dia-para/video/surto-de-doenca-de-chagas-em-obidos-deixa-sete-pessoas-infectadas-e-uma-morta-no-pa-15174677.ghtml",
+  "d": "2026-11-10",
+  "df": "10 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Doença de Chagas aguda"
+  ],
+  "p": 11.0,
+  "se": "2026-45",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "El Niño deve persistir no DF até outono de 2027, prevê Inmet",
+  "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7535964-el-nino-deve-persistir-no-df-ate-o-outono-de-2027-preve-inmet.html",
+  "d": "2026-11-10",
+  "df": "10 nov 2026",
+  "f": "Correio Braziliense",
+  "fn": "Correio Braziliense | Cidades DF",
+  "e": "DF",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 10.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "clima",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Escolas suspendem aulas após surto de sarna",
+  "u": "https://g1.globo.com/ba/bahia/videos-jornal-da-manha/video/escolas-suspendem-aulas-apos-surto-de-sarna-15174187.ghtml",
+  "d": "2026-11-10",
+  "df": "10 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Escabiose"
+  ],
+  "p": 10.0,
+  "se": "2026-45",
+  "r": "",
+  "i": "saude",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Casos de dengue: após surto da doença, Santarém observa redução no número de casos",
+  "u": "https://g1.globo.com/pa/santarem-regiao/videos-jornal-tapajos-2-edicao/video/casos-de-dengue-apos-surto-da-doenca-santarem-observa-reducao-no-numero-de-casos-15174537.ghtml",
+  "d": "2026-11-10",
+  "df": "10 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 10.0,
+  "se": "2026-45",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Especialistas alertam para risco de reinfecção da dengue",
+  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/especialistas-alertam-pessoas-que-ja-tiveram-dengue-pela-2a-vez",
+  "d": "2026-11-10",
+  "df": "10 nov 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Dengue",
+   "Arboviroses"
+  ],
+  "p": 8.5,
+  "se": "2026-45",
+  "r": "O dia 21 de novembro marca o Dia Nacional de Combate à Dengue e com a proximidade da data e do início do verão, período de maior proliferação do mosquito transmissor da doença, o Aedes aegypti , e de aumento dos casos, especialistas reforçam que quem já teve…",
+  "i": "mosquito",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Doença de Chagas: morte é confirmada em Óbidos; Sespa faz alerta sobre cuidados",
+  "u": "https://g1.globo.com/google/amp/pa/santarem-regiao/videos-jornal-tapajos-2-edicao/video/doenca-de-chagas-morte-e-confirmada-em-obidos-sespa-faz-alerta-sobre-cuidados-15174519.ghtml",
+  "d": "2026-11-10",
+  "df": "10 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Doença de Chagas aguda"
+  ],
+  "p": 8.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Advogado e jornalista, Sidnei Carvalho Pimentel morre após complicações de dengue",
+  "u": "https://g1.globo.com/go/goias/noticia/2026/11/10/advogado-e-jornalista-sidnei-carvalho-morre-apos-complicacoes-de-dengue.ghtml",
+  "d": "2026-11-10",
+  "df": "10 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 7.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Goiás já registra mais de 100 mil casos de dengue",
+  "u": "https://g1.globo.com/google/amp/go/goias/videos-bom-dia-go/video/goias-ja-registra-mais-de-100-mil-casos-de-dengue-15174665.ghtml",
+  "d": "2026-11-10",
+  "df": "10 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 7.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Chuvas fortes levam Defesa Civil a emitir 29 alertas no estado de São Paulo",
+  "u": "https://www.agenciasp.sp.gov.br/defesa-civil/chuvas-fortes-levam-defesa-civil-a-emitir-29-alertas-no-estado-de-sao-paulo/",
+  "d": "2026-11-10",
+  "df": "10 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "agenciasp.sp.gov.br",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Recomendação sobre ‘kit de emergência’ é educativa; Roraima mantém foco no combate aos efeitos da estiagem",
+  "u": "https://portal.rr.gov.br/recomendacao-sobre-kit-de-emergencia-e-educativa-roraima-mantem-foco-no-combate-aos-efeitos-da-estiagem/",
+  "d": "2026-11-10",
+  "df": "10 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "portal do governo de roraima",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Hecad nas Escolas reúne mais de 800 estudantes em ação de conscientização e prevenção",
+  "u": "https://goias.gov.br/saude/hecad-nas-escolas-reune-mais-de-800-estudantes-em-acao-de-conscientizacao-e-prevencao/",
+  "d": "2026-11-10",
+  "df": "10 nov 2026",
+  "f": "SES-GO",
+  "fn": "SES-GO | Notícias",
+  "e": "Brasil",
+  "a": [
+   "HIV/aids e IST"
+  ],
+  "p": 5.5,
+  "se": "2026-45",
+  "r": "Terceira edição do programa abordou temas como namoro seguro, infecções sexualmente transmissíveis e prevenção da violência sexual entre crianças e adolescentes",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Estudo associa seca com maior risco de parto prematuro no Brasil",
+  "u": "https://www.cnnbrasil.com.br/saude/estudo-associa-seca-com-maior-risco-de-parto-prematuro-no-brasil/",
+  "d": "2026-11-10",
+  "df": "10 nov 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 4.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Chuvas deixam feridos, desabrigados e casas destelhadas no Sul",
@@ -5748,24 +5988,6 @@
    "Saúde ambiental e clima"
   ],
   "p": 9.5,
-  "se": "2026-41",
-  "r": "",
-  "i": "clima",
-  "m": [],
-  "c": "monitoramento"
- },
- {
-  "t": "Chuvas fortes levam Defesa Civil a emitir 29 alertas no estado de São Paulo",
-  "u": "https://www.agenciasp.sp.gov.br/chuvas-fortes-levam-defesa-civil-a-emitir-29-alertas-no-estado-de-sao-paulo/",
-  "d": "2026-10-11",
-  "df": "11 out 2026",
-  "f": "Defesa Civil",
-  "fn": "agenciasp.sp.gov.br",
-  "e": "Brasil",
-  "a": [
-   "Saúde ambiental e clima"
-  ],
-  "p": 7.5,
   "se": "2026-41",
   "r": "",
   "i": "clima",

@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-11-10T09:47:03+00:00",
+  "em": "2026-11-10T17:49:14+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,17 +10,17 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-11-10T09:47:03+00:00",
+  "em": "2026-11-10T17:49:14+00:00",
   "lidos": 40,
   "novos": 1,
   "exemplos": [
    "WHO launches “Together for Science and Health” movement to strengthen trust worldwide",
    "WHO training strengthens global capacity for healthier, more equitable cities",
-   "New WHO policy options call for stronger integration of health and care workforce"
+   "WHO releases global mega-map on age-friendly environments"
   ]
  },
  "opas-alertas": {
-  "em": "2026-11-10T09:47:03+00:00",
+  "em": "2026-11-10T17:49:14+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-11-10T09:47:03+00:00",
+  "em": "2026-11-10T17:49:14+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-11-10T09:47:03+00:00",
+  "em": "2026-11-10T17:49:14+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,17 +50,11 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-11-10T09:47:03+00:00",
-  "lidos": 10,
-  "novos": 0,
-  "exemplos": [
-   "Ebola disease: Multi-country outbreak 2026",
-   "Chikungunya virus disease worldwide overview",
-   "Dengue worldwide overview"
-  ]
+  "em": "2026-11-10T17:49:14+00:00",
+  "erro": "503 Server Error: Service Unavailable for url: https://www.ecdc.europa.eu/en/taxonomy/term/1310/feed"
  },
  "ecdc-avaliacoes": {
-  "em": "2026-11-10T09:47:03+00:00",
+  "em": "2026-11-10T17:49:14+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +64,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-11-10T09:47:03+00:00",
+  "em": "2026-11-10T17:49:14+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +74,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-11-10T09:47:03+00:00",
+  "em": "2026-11-10T17:49:14+00:00",
   "lidos": 2350,
   "novos": 0,
   "exemplos": [
@@ -90,7 +84,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-11-10T09:47:03+00:00",
+  "em": "2026-11-10T17:49:14+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,7 +94,7 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-11-10T09:47:03+00:00",
+  "em": "2026-11-10T17:49:14+00:00",
   "lidos": 15,
   "novos": 0,
   "exemplos": [
@@ -110,77 +104,77 @@
   ]
  },
  "fiocruz": {
-  "em": "2026-11-10T09:47:03+00:00",
+  "em": "2026-11-10T17:49:14+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "Missão da Fiocruz avança na implementação da Escola de Saúde Pública de Moçambique",
    "Fiocruz abre inscrições para a 4ª edição do Curso de Atualidades em Saúde Global e Diplomacia da Saúde",
-   "Roda de Conversa debate valorização das mulheres na ciência",
-   "Nav. ed. pt Estante Saude Indigena no Ceara"
+   "Roda de Conversa debate valorização das mulheres na ciência"
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-11-10T09:47:03+00:00",
+  "em": "2026-11-10T17:49:14+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 5,
   "exemplos": [
-   "Nível de conhecimento e prevenção ao câncer de próstata cai no Brasil",
-   "Anvisa determina recolhimento de emagrecedor Ultra Shape",
-   "Saúde repassa R$ 524 mil para conter casos de sarampo no Amazonas"
+   "Especialistas alertam para risco de reinfecção da dengue",
+   "Anvisa registra duas novas canetas emagrecedoras de semaglutida",
+   "Entidades da pediatria defendem que bets devem continuar proibidas"
   ]
  },
  "ses-go": {
-  "em": "2026-11-10T09:47:03+00:00",
+  "em": "2026-11-10T17:49:14+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 9,
   "exemplos": [
-   "Herso realiza segunda captação de órgãos de 2026",
-   "Extrato da Portaria nº 3340/2026 – SES/GO",
-   "Extrato do Termo de Permissão de Uso nº 81/2026 – SES/GO"
+   "HCN registra mais de 560 mil atendimentos entre janeiro e outubro de 2026",
+   "Hecad nas Escolas reúne mais de 800 estudantes em ação de conscientização e prevenção",
+   "Extrato do Termo de Colaboração nº 69/2026 – SES/GO"
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-11-10T09:47:03+00:00",
+  "em": "2026-11-10T17:49:14+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 5,
   "exemplos": [
-   "Chuvas deixam feridos, desabrigados e casas destelhadas no Sul",
-   "Classe C: número de famílias sem dinheiro guardado cai de 61% para 29%",
-   "Correios: campanha já recebeu mais de 100 mil cartas para o papai noel"
+   "PF prende ex-servidor do STJ suspeito de vazar informações sigilosas",
+   "Polícia Civil prende homem que fornecia fuzis a traficantes da Rocinha",
+   "PF faz ação para recuperar livros raros e outros bens furtados"
   ]
  },
  "g1-busca": {
-  "em": "2026-11-10T09:47:03+00:00",
-  "lidos": 348,
-  "novos": 1,
+  "em": "2026-11-10T17:49:14+00:00",
+  "lidos": 349,
+  "novos": 6,
   "exemplos": [
    "Instituto Federal investiga uso de IA em caso suspeito de racismo contra aluna no interior de SP",
    "Mobilização nacional busca casos suspeitos de sarampo",
-   "CHS registra terceira morte após hemodiálise e família relata contaminação; causa é investigada"
+   "Carros fumacê vão circular em 12 bairros de Feira de Santana a partir desta terça-feira; veja esquema"
   ]
  },
  "metropoles-busca": {
-  "em": "2026-11-10T09:47:03+00:00",
-  "lidos": 58,
+  "em": "2026-11-10T17:49:14+00:00",
+  "lidos": 59,
   "novos": 0,
   "exemplos": [
-   "Áudios e prints revelam golpe em mulheres que pagaram por cirurgia de mama",
    "Ministério da Saúde envia ao DF 100 doses de vacina contra mpox",
+   "Áudios e prints revelam golpe em mulheres que pagaram por cirurgia de mama",
    "Mais de 5 mil casos: surto de sarampo nos EUA em 2026 é o maior em 35 anos"
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-11-10T09:47:03+00:00",
+  "em": "2026-11-10T17:49:14+00:00",
   "lidos": 25,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
-   "Um em cada quatro adolescentes não pratica exercícios físicos, diz estudo",
-   "Saúde e Einstein desenvolvem IA para identificar doenças de pele no SUS",
-   "Brasil registra 832 casos e uma morte por Mpox em 2026, diz ministério"
+   "TJ libera distribuição de 'mounjaro manipulado' a moradores em cidade de SP",
+   "Anvisa registra duas novas canetas à base de semaglutida; veja quais são",
+   "Risco de perda de visão: EUA exige novo alerta para canetas emagrecedoras"
   ]
  },
  "cnn-saude": {
-  "em": "2026-11-10T09:47:03+00:00",
+  "em": "2026-11-10T17:49:14+00:00",
   "lidos": 24,
   "novos": 0,
   "exemplos": [
@@ -190,17 +184,17 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-11-10T09:47:03+00:00",
-  "lidos": 30,
+  "em": "2026-11-10T17:49:14+00:00",
+  "lidos": 37,
   "novos": 0,
   "exemplos": [
    "Wisconsin infant is US’ third measles-related death this week",
    "Expecting a new grandchild? Here’s why you may need to see your doctor first",
-   "Florida carries out its 19th execution of year as 3 states administer the death penalty in a day"
+   "First snow, coldest air in months headed for eastern US in wake of storm"
   ]
  },
  "inmet": {
-  "em": "2026-11-10T09:47:03+00:00",
+  "em": "2026-11-10T17:49:14+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -210,7 +204,7 @@
   ]
  },
  "cemaden": {
-  "em": "2026-11-10T09:47:03+00:00",
+  "em": "2026-11-10T17:49:14+00:00",
   "lidos": 8,
   "novos": 0,
   "exemplos": [
@@ -220,9 +214,9 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-11-10T09:47:03+00:00",
-  "lidos": 34,
-  "novos": 0,
+  "em": "2026-11-10T17:49:14+00:00",
+  "lidos": 33,
+  "novos": 2,
   "exemplos": [
    "MIDR esclarece que kit de emergência é medida preventiva e não tem relação com alerta nacional",
    "Autorizado repasse de R$ 16,5 milhões para ações de defesa civil",
@@ -230,13 +224,13 @@
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-11-10T09:47:03+00:00",
+  "em": "2026-11-10T17:49:14+00:00",
   "lidos": 20,
-  "novos": 6,
+  "novos": 11,
   "exemplos": [
-   "Militar tem prisão preventiva decretada após audiência de custódia",
-   "Governadora admite congelamento de despesas se DF perder R$ 1,8 bilhão",
-   "Lojistas do DF esticam promoções da Black Friday pelo mês inteiro"
+   "Velório de fisioterapeuta morta por PM é marcado por pedidos de justiça",
+   "PCDF indicia policial que atirou em van por cinco crimes",
+   "Neoenergia pode ampliar em até cinco vezes equipes durante temporais no DF"
   ]
  }
 }
