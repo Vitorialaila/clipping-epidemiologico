@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-11-10T02:06:23+00:00",
+  "em": "2026-11-10T09:47:03+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,17 +10,17 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-11-10T02:06:23+00:00",
+  "em": "2026-11-10T09:47:03+00:00",
   "lidos": 40,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "WHO launches “Together for Science and Health” movement to strengthen trust worldwide",
    "WHO training strengthens global capacity for healthier, more equitable cities",
-   "New WHO policy options call for stronger integration of health and care workforce",
-   "WHO invites feedback on a draft target product profile for wearable devices to measure physical activity and sedentary b"
+   "New WHO policy options call for stronger integration of health and care workforce"
   ]
  },
  "opas-alertas": {
-  "em": "2026-11-10T02:06:23+00:00",
+  "em": "2026-11-10T09:47:03+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,9 +30,9 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-11-10T02:06:23+00:00",
+  "em": "2026-11-10T09:47:03+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "One in four adolescents worldwide reported no active days in the previous week",
    "PAHO issues advice for travelers ahead of Pope Leo XIV’s visit to Latin America",
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-11-10T02:06:23+00:00",
+  "em": "2026-11-10T09:47:03+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-11-10T02:06:23+00:00",
+  "em": "2026-11-10T09:47:03+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-11-10T02:06:23+00:00",
+  "em": "2026-11-10T09:47:03+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-11-10T02:06:23+00:00",
+  "em": "2026-11-10T09:47:03+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-11-10T02:06:23+00:00",
+  "em": "2026-11-10T09:47:03+00:00",
   "lidos": 2350,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-11-10T02:06:23+00:00",
+  "em": "2026-11-10T09:47:03+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,9 +100,9 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-11-10T02:06:23+00:00",
+  "em": "2026-11-10T09:47:03+00:00",
   "lidos": 15,
-  "novos": 2,
+  "novos": 0,
   "exemplos": [
    "Brasil anuncia Marco de Financiamento do Plano de Ação em Saúde de Belém na COP31",
    "Ministério da Saúde promove ações sobre cuidado integral à saúde dos homens no Ceará e no Rio de Janeiro",
@@ -110,9 +110,9 @@
   ]
  },
  "fiocruz": {
-  "em": "2026-11-10T02:06:23+00:00",
+  "em": "2026-11-10T09:47:03+00:00",
   "lidos": 10,
-  "novos": 2,
+  "novos": 0,
   "exemplos": [
    "Fiocruz abre inscrições para a 4ª edição do Curso de Atualidades em Saúde Global e Diplomacia da Saúde",
    "Roda de Conversa debate valorização das mulheres na ciência",
@@ -120,9 +120,9 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-11-10T02:06:23+00:00",
+  "em": "2026-11-10T09:47:03+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Nível de conhecimento e prevenção ao câncer de próstata cai no Brasil",
    "Anvisa determina recolhimento de emagrecedor Ultra Shape",
@@ -130,9 +130,9 @@
   ]
  },
  "ses-go": {
-  "em": "2026-11-10T02:06:23+00:00",
+  "em": "2026-11-10T09:47:03+00:00",
   "lidos": 10,
-  "novos": 5,
+  "novos": 0,
   "exemplos": [
    "Herso realiza segunda captação de órgãos de 2026",
    "Extrato da Portaria nº 3340/2026 – SES/GO",
@@ -140,9 +140,9 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-11-10T02:06:23+00:00",
+  "em": "2026-11-10T09:47:03+00:00",
   "lidos": 10,
-  "novos": 3,
+  "novos": 0,
   "exemplos": [
    "Chuvas deixam feridos, desabrigados e casas destelhadas no Sul",
    "Classe C: número de famílias sem dinheiro guardado cai de 61% para 29%",
@@ -150,19 +150,19 @@
   ]
  },
  "g1-busca": {
-  "em": "2026-11-10T02:06:23+00:00",
-  "lidos": 341,
+  "em": "2026-11-10T09:47:03+00:00",
+  "lidos": 348,
   "novos": 1,
   "exemplos": [
    "Instituto Federal investiga uso de IA em caso suspeito de racismo contra aluna no interior de SP",
    "Mobilização nacional busca casos suspeitos de sarampo",
-   "Manaus tem vacinação contra o sarampo em 10 unidades de saúde neste sábado; veja locais e horários"
+   "CHS registra terceira morte após hemodiálise e família relata contaminação; causa é investigada"
   ]
  },
  "metropoles-busca": {
-  "em": "2026-11-10T02:06:23+00:00",
-  "lidos": 56,
-  "novos": 1,
+  "em": "2026-11-10T09:47:03+00:00",
+  "lidos": 58,
+  "novos": 0,
   "exemplos": [
    "Áudios e prints revelam golpe em mulheres que pagaram por cirurgia de mama",
    "Ministério da Saúde envia ao DF 100 doses de vacina contra mpox",
@@ -170,28 +170,28 @@
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-11-10T02:06:23+00:00",
-  "lidos": 26,
-  "novos": 1,
+  "em": "2026-11-10T09:47:03+00:00",
+  "lidos": 25,
+  "novos": 0,
   "exemplos": [
+   "Um em cada quatro adolescentes não pratica exercícios físicos, diz estudo",
    "Saúde e Einstein desenvolvem IA para identificar doenças de pele no SUS",
-   "Brasil registra 832 casos e uma morte por Mpox em 2026, diz ministério",
-   "Saúde adquire 25 mil doses de vacina contra Mpox; veja quem pode se vacinar"
+   "Brasil registra 832 casos e uma morte por Mpox em 2026, diz ministério"
   ]
  },
  "cnn-saude": {
-  "em": "2026-11-10T02:06:23+00:00",
+  "em": "2026-11-10T09:47:03+00:00",
   "lidos": 24,
   "novos": 0,
   "exemplos": [
    "A promising drug for an inherited heart risk flops, stunning doctors",
    "Wisconsin infant is US’ third measles-related death this week",
-   "A 24-year-old running the NYC marathon collapsed 2 miles from the finish line and died"
+   "Expecting a new grandchild? Here’s why you may need to see your doctor first"
   ]
  },
  "cnn-busca": {
-  "em": "2026-11-10T02:06:23+00:00",
-  "lidos": 34,
+  "em": "2026-11-10T09:47:03+00:00",
+  "lidos": 30,
   "novos": 0,
   "exemplos": [
    "Wisconsin infant is US’ third measles-related death this week",
@@ -200,7 +200,7 @@
   ]
  },
  "inmet": {
-  "em": "2026-11-10T02:06:23+00:00",
+  "em": "2026-11-10T09:47:03+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -210,7 +210,7 @@
   ]
  },
  "cemaden": {
-  "em": "2026-11-10T02:06:23+00:00",
+  "em": "2026-11-10T09:47:03+00:00",
   "lidos": 8,
   "novos": 0,
   "exemplos": [
@@ -220,23 +220,23 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-11-10T02:06:23+00:00",
-  "lidos": 33,
-  "novos": 1,
+  "em": "2026-11-10T09:47:03+00:00",
+  "lidos": 34,
+  "novos": 0,
   "exemplos": [
    "MIDR esclarece que kit de emergência é medida preventiva e não tem relação com alerta nacional",
    "Autorizado repasse de R$ 16,5 milhões para ações de defesa civil",
-   "Autorizado repasse de R$ 11,2 milhões para ações de defesa civil"
+   "Reconhecida emergência na cidade catarinense de Fraiburgo"
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-11-10T02:06:23+00:00",
-  "lidos": 21,
-  "novos": 17,
+  "em": "2026-11-10T09:47:03+00:00",
+  "lidos": 20,
+  "novos": 6,
   "exemplos": [
-   "Militar que abriu fogo contra van é transferido para Papudinha",
-   "Familiares e amigos se despedem de Alessandra e pedem justiça em Taguatinga",
-   "Dia Mundial da Filosofia terá programação especial em Brasília"
+   "Militar tem prisão preventiva decretada após audiência de custódia",
+   "Governadora admite congelamento de despesas se DF perder R$ 1,8 bilhão",
+   "Lojistas do DF esticam promoções da Black Friday pelo mês inteiro"
   ]
  }
 }
