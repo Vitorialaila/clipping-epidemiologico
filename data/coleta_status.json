@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-11-11T06:13:09+00:00",
+  "em": "2026-11-11T21:56:10+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,17 +10,17 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-11-11T06:13:09+00:00",
+  "em": "2026-11-11T21:56:10+00:00",
   "lidos": 40,
-  "novos": 0,
+  "novos": 2,
   "exemplos": [
+   "WHO and African Medicines Agency advance regulatory cooperation at inaugural Agency Week in Kigali",
    "WHO launches “Together for Science and Health” movement to strengthen trust worldwide",
-   "From commitments to implementation: ATACH Day at COP31 delivers practical solutions for climate and health",
-   "WHO updates global catalogue for interpreting tuberculosis drug resistance mutations"
+   "From commitments to implementation: ATACH Day at COP31 delivers practical solutions for climate and health"
   ]
  },
  "opas-alertas": {
-  "em": "2026-11-11T06:13:09+00:00",
+  "em": "2026-11-11T21:56:10+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,17 +30,17 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-11-11T06:13:09+00:00",
+  "em": "2026-11-11T21:56:10+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "PAHO secures first-ever region-wide access agreements for HPV testing across Latin America and the Caribbean, with suppo",
    "PAHO calls for stronger menopause care to promote healthy aging in the Americas",
-   "One in four adolescents worldwide reported no active days in the previous week",
-   "PAHO issues advice for travelers ahead of Pope Leo XIV’s visit to Latin America"
+   "One in four adolescents worldwide reported no active days in the previous week"
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-11-11T06:13:09+00:00",
+  "em": "2026-11-11T21:56:10+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-11-11T06:13:09+00:00",
+  "em": "2026-11-11T21:56:10+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-11-11T06:13:09+00:00",
+  "em": "2026-11-11T21:56:10+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,17 +70,17 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-11-11T06:13:09+00:00",
+  "em": "2026-11-11T21:56:10+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "Preparations continue for rollout of new public health surveillance platform in nine pilot countries",
    "From preparedness to response: EU Reference Laboratories for Public Health in action",
-   "First public health emergency preparedness assessments across Europe show both commitment and recurring challenges",
-   "As the cold season nears, universal immunisation of newborns against RSV could significantly reduce infant hospitalisati"
+   "First public health emergency preparedness assessments across Europe show both commitment and recurring challenges"
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-11-11T06:13:09+00:00",
+  "em": "2026-11-11T21:56:10+00:00",
   "lidos": 2350,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-11-11T06:13:09+00:00",
+  "em": "2026-11-11T21:56:10+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,27 +100,27 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-11-11T06:13:09+00:00",
+  "em": "2026-11-11T21:56:10+00:00",
   "lidos": 15,
-  "novos": 0,
+  "novos": 5,
   "exemplos": [
-   "Novo PAC Saúde prevê economia de R$ 3,37 bilhões com projetos padronizados e compras em escala",
-   "Covid-19: casos e óbitos seguem em queda no Brasil",
-   "Justiça Federal determina medidas de proteção à população em situação de rua em Belém (PA)"
+   "Ministério da Saúde defende integração entre setores público e privado para fortalecer o SUS durante o Rio Health Forum ",
+   "Programa Nacional das Medicinas Indígenas fortalece o diálogo entre saberes tradicionais e o SUS",
+   "Instituto Evandro Chagas celebra 90 anos de contribuição à ciência e à saúde pública"
   ]
  },
  "fiocruz": {
-  "em": "2026-11-11T06:13:09+00:00",
+  "em": "2026-11-11T21:56:10+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 3,
   "exemplos": [
-   "Fiocruz promove roda de conversa virtual sobre visibilidade do SUS",
-   "Pesquisadora da Fiocruz integra grupo técnico de assessoramento da OMS sobre leishmanioses",
-   "2ª Flipeja celebra protagonismo de mulheres negras na produção de conhecimento e cuidado"
+   "Fiocruz lança Campanha do Laço Branco e convida homens a combater a violência contra as mulheres",
+   "Fiocruz participa de cerimônia dos 90 anos do Instituto Evandro Chagas",
+   "Programa Cozinha Solidária fortalece iniciativas comunitárias no combate à fome"
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-11-11T06:13:09+00:00",
+  "em": "2026-11-11T21:56:10+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -130,87 +130,81 @@
   ]
  },
  "ses-go": {
-  "em": "2026-11-11T06:13:09+00:00",
+  "em": "2026-11-11T21:56:10+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 10,
   "exemplos": [
-   "SES-GO fortalece regionalização da saúde com reuniões dos Comitês Gestores Macrorregionais em Goiás",
-   "HCN registra mais de 560 mil atendimentos entre janeiro e outubro de 2026",
-   "Hecad nas Escolas reúne mais de 800 estudantes em ação de conscientização e prevenção"
+   "Extrato do Contrato n.º 106/2026 – SES/GO",
+   "Hospital Estadual de Jataí é referência nacional no uso racional de antimicrobianos",
+   "Extrato do Contrato n.º 108/2026 – SES/GO"
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-11-11T06:13:09+00:00",
+  "em": "2026-11-11T21:56:10+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 7,
   "exemplos": [
-   "Bolão de Iturama (MG) leva R$ 3,2 milhões na Mega-Sena",
-   "Brasileiros encontram fake news com frequência, diz pesquisa",
-   "MP mira bingos ligados à cúpula do jogo do bicho no Rio"
+   "Polícia Civil indicia influenciador e marido por vídeo na casa de FHC",
+   "Concurso da Transpetro terá novos locais de prova em quatro estados",
+   "Free flow: governo envia notificações sobre débitos pendentes"
   ]
  },
  "g1-busca": {
-  "em": "2026-11-11T06:13:09+00:00",
-  "lidos": 348,
-  "novos": 2,
+  "em": "2026-11-11T21:56:10+00:00",
+  "lidos": 353,
+  "novos": 10,
   "exemplos": [
    "Instituto Federal investiga uso de IA em caso suspeito de racismo contra aluna no interior de SP",
    "Mobilização nacional busca casos suspeitos de sarampo",
-   "Carros fumacê vão circular em 12 bairros de Feira de Santana a partir desta terça-feira; veja esquema"
+   "BH registra maior percentual de testes positivos para Covid-19 do ano e reforça alerta para vacinação"
   ]
  },
  "metropoles-busca": {
-  "em": "2026-11-11T06:13:09+00:00",
+  "em": "2026-11-11T21:56:10+00:00",
   "lidos": 57,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
    "Casos de Covid-19 crescem em BH e poder público recomenda vacinação",
    "Ministério da Saúde envia ao DF 100 doses de vacina contra mpox",
-   "Mais de 5 mil casos: surto de sarampo nos EUA em 2026 é o maior em 35 anos"
+   "Vinho de patauá contaminado provoca surto de Chagas e deixa 1 morto no Pará"
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-11-11T06:13:09+00:00",
-  "lidos": 25,
-  "novos": 1,
+  "em": "2026-11-11T21:56:10+00:00",
+  "lidos": 26,
+  "novos": 0,
   "exemplos": [
-   "Casos e mortes por Covid-19 sofrem queda de 68,8% em 2026",
-   "Médico alerta que uso ocasional de cannabis não é livre de riscos",
-   "Brasileiro com mais tempo de coração transplantado morre aos 73 anos"
+   "Retatrutida reduz dores no joelho em pelo menos 50%, mostra estudo",
+   "Além das rugas, toxina botulínica auxilia no tratamento de AVC e enxaqueca",
+   "Censo inédito: oncologia lidera estudos clínicos de farmacêuticas no país"
   ]
  },
  "cnn-saude": {
-  "em": "2026-11-11T06:13:09+00:00",
+  "em": "2026-11-11T21:56:10+00:00",
   "lidos": 24,
   "novos": 0,
   "exemplos": [
-   "A promising drug for an inherited heart risk flops, stunning doctors",
-   "Wisconsin infant is US’ third measles-related death this week",
-   "Expecting a new grandchild? Here’s why you may need to see your doctor first"
+   "CDC chief says agency will not change measles response if US loses elimination status",
+   "An 11-day-old baby couldn’t stop bleeding. For hours, the ER didn’t provide a critical vitamin shot.",
+   "A promising drug for an inherited heart risk flops, stunning doctors"
   ]
  },
  "cnn-busca": {
-  "em": "2026-11-11T06:13:09+00:00",
-  "lidos": 34,
+  "em": "2026-11-11T21:56:10+00:00",
+  "lidos": 35,
   "novos": 0,
   "exemplos": [
    "CDC chief says agency will not change measles response if US loses elimination status",
    "Wisconsin infant is US’ third measles-related death this week",
-   "First snow, coldest air in months headed for eastern US in wake of storm"
+   "Florida carries out its 19th execution of year as 3 states administer the death penalty in a day"
   ]
  },
  "inmet": {
-  "em": "2026-11-11T06:13:09+00:00",
-  "lidos": 10,
-  "novos": 0,
-  "exemplos": [
-   "Inmet participa de coletiva sobre o período chuvoso e os efeitos do El Niño no DF",
-   "Previsão para quarta-feira (11) e quinta-feira (12)",
-   "BOLETIM AGROCLIMATOLÓGICO MENSAL - NOVEMBRO/2026"
-  ]
+  "em": "2026-11-11T21:56:10+00:00",
+  "erro": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
  },
  "cemaden": {
-  "em": "2026-11-11T06:13:09+00:00",
+  "em": "2026-11-11T21:56:10+00:00",
   "lidos": 8,
   "novos": 0,
   "exemplos": [
@@ -220,23 +214,23 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-11-11T06:13:09+00:00",
-  "lidos": 39,
-  "novos": 0,
+  "em": "2026-11-11T21:56:10+00:00",
+  "lidos": 34,
+  "novos": 1,
   "exemplos": [
    "MIDR esclarece que kit de emergência é medida preventiva e não tem relação com alerta nacional",
-   "Inmet participa de coletiva sobre o período chuvoso e os efeitos do El Niño no DF",
-   "Autorizado repasse de R$ 11,2 milhões para ações de defesa civil"
+   "GDF intensifica ações integradas de prevenção e resposta a emergências durante o período chuvoso",
+   "Inmet participa de coletiva sobre o período chuvoso e os efeitos do El Niño no DF"
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-11-11T06:13:09+00:00",
+  "em": "2026-11-11T21:56:10+00:00",
   "lidos": 20,
-  "novos": 4,
+  "novos": 20,
   "exemplos": [
-   "Nota Legal divulga lista dos 100 bilhetes premiados no segundo sorteio",
-   "Defesa Civil se prepara para emergências no DF; 3,1 mil vivem em área de risco",
-   "\"Formação de agentes de segurança deve ser repensada\", afirma especialista"
+   "Vídeo mostra correria e desespero quando PM descarrega arma em van no DF",
+   "BRB entra na Justiça contra sete ex-administradores por prejuízos com Master",
+   "Transporte escolar no DF terá 100% da frota nesta quinta-feira (12/11)"
   ]
  }
 }

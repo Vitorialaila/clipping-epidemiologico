@@ -1,5 +1,168 @@
 [
  {
+  "t": "Campos confirma primeiro caso de mpox registrado em 2026",
+  "u": "https://g1.globo.com/google/amp/rj/norte-fluminense/noticia/2026/11/11/campos-confirma-primeiro-caso-de-mpox-registrado-em-2026.ghtml",
+  "d": "2026-11-11",
+  "df": "11 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 11.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Surto de doença de Chagas chega a 8 casos em Óbidos; 27 pessoas aguardam exames",
+  "u": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/11/surto-de-doenca-de-chagas-chega-a-8-casos-em-obidos-27-pessoas-aguardam-exames.ghtml",
+  "d": "2026-11-11",
+  "df": "11 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Doença de Chagas aguda"
+  ],
+  "p": 11.0,
+  "se": "2026-45",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Fiocruz participa de cerimônia dos 90 anos do Instituto Evandro Chagas",
+  "u": "https://agencia.fiocruz.br/fiocruz-participa-de-cerimonia-dos-90-anos-do-instituto-evandro-chagas",
+  "d": "2026-11-11",
+  "df": "11 nov 2026",
+  "f": "Fiocruz",
+  "fn": "Agência Fiocruz de Notícias",
+  "e": "Brasil",
+  "a": [
+   "Doença de Chagas aguda",
+   "Arboviroses"
+  ],
+  "p": 10.0,
+  "se": "2026-45",
+  "r": "Fiocruz participa de cerimônia dos 90 anos do Instituto Evandro Chagas O Teatro Maria Sylvia Nunes, na Estação das Docas de Belém, foi palco na terça-feira (10/11) da solenidade de abertura das comemorações dos 90 anos do Instituto Evandro Chagas (IEC)…",
+  "i": "mosquito",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Creche pública suspende aulas após surto de sarna infectar 40 crianças e funcionários em Dourados",
+  "u": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/11/surto-de-sarna-em-creche-publica-infecta-40-criancas-e-funcionarios-e-suspende-aulas-em-creche-de-dourados-ms.ghtml",
+  "d": "2026-11-11",
+  "df": "11 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Escabiose"
+  ],
+  "p": 10.0,
+  "se": "2026-45",
+  "r": "",
+  "i": "saude",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Casos de mpox na região de Campinas se concentram em homens de 25 a 39 anos",
+  "u": "https://g1.globo.com/google/amp/sp/campinas-regiao/videos-bom-dia-cidade-campinas-e-piracicaba/video/casos-de-mpox-na-regiao-de-campinas-se-concentram-em-homens-de-25-a-39-anos-15177863.ghtml",
+  "d": "2026-11-11",
+  "df": "11 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Instituto Evandro Chagas celebra 90 anos de contribuição à ciência e à saúde pública",
+  "u": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/instituto-evandro-chagas-celebra-90-anos-de-contribuicao-a-ciencia-e-a-saude-publica",
+  "d": "2026-11-11",
+  "df": "11 nov 2026",
+  "f": "MS",
+  "fn": "Ministério da Saúde | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Doença de Chagas aguda"
+  ],
+  "p": 9.0,
+  "se": "2026-45",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Surto de ebola no Congo passa de 11 mil casos e deixa 5,3 mil mortos",
+  "u": "https://g1.globo.com/saude/noticia/2026/11/11/surto-de-ebola-no-congo-passa-de-11-mil-casos-e-deixa-53-mil-mortos.ghtml",
+  "d": "2026-11-11",
+  "df": "11 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Internacional",
+  "a": [
+   "Doença pelo vírus Ebola"
+  ],
+  "p": 9.0,
+  "se": "2026-45",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Criança de 11 anos morre por meningite bacteriana em Piraju",
+  "u": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/11/crianca-de-11-anos-morre-por-meningite-bacteriana-em-piraju.ghtml",
+  "d": "2026-11-11",
+  "df": "11 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Doença meningocócica e meningites"
+  ],
+  "p": 8.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "bacteria",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Mimoso do Sul investiga morte de morador por febre maculosa",
+  "u": "https://g1.globo.com/es/espirito-santo/videos-bom-dia-es/video/mimoso-do-sul-investiga-morte-de-morador-por-febre-maculosa-15177967.ghtml",
+  "d": "2026-11-11",
+  "df": "11 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Febre maculosa e riquetsioses"
+  ],
+  "p": 8.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "animal",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Com quase 300 casos, cidade do RS tem 10 dias para garantir remédios contra esporotricose em gatos",
   "u": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/11/cidade-rs-remedios-esporotricose-gatos.ghtml",
   "d": "2026-11-11",
@@ -16,6 +179,94 @@
   "i": "fungo",
   "m": [],
   "c": "atencao"
+ },
+ {
+  "t": "Defesa Civil reconhece situação de emergência em 7 municípios do Sul",
+  "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/defesa-civil-reconhece-situacao-de-emergencia-em-7-municipios-do-sul",
+  "d": "2026-11-11",
+  "df": "11 nov 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Geral",
+  "e": "Brasil",
+  "a": [],
+  "p": 7.5,
+  "se": "2026-45",
+  "r": "A Secretaria Nacional de Proteção e Defesa Civil reconheceu situação de emergência em sete municípios da Região Sul em decorrência das chuvas. A portaria , publicada na edição desta quarta-feira (11) do Diário Oficial da União , cita eventos climáticos…",
+  "i": "alerta",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Covid-19: Goiás registra 25 mortes e mais de 200 casos graves da doença",
+  "u": "https://g1.globo.com/go/goias/noticia/2026/11/11/covid-19-goias-registra-25-mortes-e-mais-de-200-casos-graves-da-doenca.ghtml",
+  "d": "2026-11-11",
+  "df": "11 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 7.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Três em cada 100 imóveis de Ribeirão Preto, SP, têm focos de dengue, diz prefeitura",
+  "u": "https://g1.globo.com/sp/ribeirao-preto-franca/video/tres-em-cada-100-imoveis-de-ribeirao-preto-sp-tem-focos-de-dengue-diz-prefeitura-15179829.ghtml",
+  "d": "2026-11-11",
+  "df": "11 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 7.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "DF registra alta no número de casos de Covid-19 nas últimas cinco semanas",
+  "u": "https://www.metropoles.com/distrito-federal/df-registra-alta-no-numero-de-casos-de-covid-19-nas-ultimas-cinco-semanas",
+  "d": "2026-11-11",
+  "df": "11 nov 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 7.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Prefeitura articula apoio federal para enfrentar queimadas e estiagem em Santarém",
+  "u": "https://santarem.pa.gov.br/noticias/governo-e-administracao/prefeitura-articula-apoio-federal-para-enfrentamento-a-crise-climatica-em-santarem-3w8q5v",
+  "d": "2026-11-11",
+  "df": "11 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura de Santarém",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Neoenergia pode ampliar em até cinco vezes equipes durante temporais no DF",
@@ -249,6 +500,24 @@
   "df": "10 nov 2026",
   "f": "MS",
   "fn": "Ministério da Saúde | Notícias",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 9.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "DF registra aumento recente de casos de Covid e reforça alerta para vacinação",
+  "u": "https://g1.globo.com/df/distrito-federal/df1/video/df-registra-aumento-recente-de-casos-de-covid-e-reforca-alerta-para-vacinacao-15178786.ghtml",
+  "d": "2026-11-10",
+  "df": "10 nov 2026",
+  "f": "G1",
+  "fn": "G1",
   "e": "Brasil",
   "a": [
    "COVID-19"
