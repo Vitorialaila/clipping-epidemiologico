@@ -1,5 +1,72 @@
 [
  {
+  "id": "e2fccf5a721cc2",
+  "titulo": "Com quase 300 casos, cidade do RS tem 10 dias para garantir remédios contra esporotricose em gatos",
+  "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/11/cidade-rs-remedios-esporotricose-gatos.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-11",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-11T06:13:09+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Micoses endêmicas"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "atencao",
+  "motivo": "Micoses endêmicas (notificação semanal) · 300 casos · Brasil"
+ },
+ {
+  "id": "5357f4099d9c2a",
+  "titulo": "Bolão de Iturama (MG) leva R$ 3,2 milhões na Mega-Sena",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/bolao-de-iturama-mg-leva-r-32-milhoes-na-mega-sena",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-11-11",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "Uma aposta de Iturama (MG) acertou as seis dezenas do Concurso 3.084 da Mega-Sena, realizado nesta terça-feira (10). O bolão, de 15 cotas apostou sete dezenas e receberá o total de R$ 3.287.949,90. Os números sorteados são: 06 - 14 - 22 - 30 - 31 - 37 29 apostas acertaram cinco dezenas e irão receber R$ 28.344,40 cada 2.264 apostas acertaram quatro dezenas e irão receber R$ 518,66 cada Apostas",
+  "coletado_em": "2026-11-11T06:13:09+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "ee2ae244126b4f",
+  "titulo": "\"Formação de agentes de segurança deve ser repensada\", afirma especialista",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7536496-formacao-de-agentes-de-seguranca-deve-ser-repensada-afirma-especialista.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-11",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-11T06:13:09+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
   "id": "f2116673127e3c",
   "titulo": "Neoenergia pode ampliar em até cinco vezes equipes durante temporais no DF",
   "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7536100-neoenergia-pode-ampliar-em-ate-cinco-vezes-equipes-durante-temporais-no-df.html",
@@ -398,6 +465,29 @@
   "motivo": "Doença de Chagas aguda (notificação imediata) · morte · Brasil"
  },
  {
+  "id": "f51218a7e9f045",
+  "titulo": "Em 9 meses, estado de SP tem 3 mil casos de meningite",
+  "url": "https://g1.globo.com/google/amp/sp/sao-carlos-regiao/videos-jornal-da-eptv-2-edicao/video/em-9-meses-estado-de-sp-tem-3-mil-casos-de-meningite-15176865.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-10",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-11T06:13:09+00:00",
+  "municipios": [],
+  "pontuacao": 8.5,
+  "agravos": [
+   "Doença meningocócica e meningites"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "Doença meningocócica e meningites (notificação imediata) · 3 mil casos · Brasil"
+ },
+ {
   "id": "5ae4d392353da3",
   "titulo": "Advogado e jornalista, Sidnei Carvalho Pimentel morre após complicações de dengue",
   "url": "https://g1.globo.com/go/goias/noticia/2026/11/10/advogado-e-jornalista-sidnei-carvalho-morre-apos-complicacoes-de-dengue.ghtml",
@@ -721,6 +811,29 @@
   "termos_evento": [],
   "categoria": "monitoramento",
   "motivo": "Saúde ambiental e clima · estudo, orientação ou relato retrospectivo · Brasil"
+ },
+ {
+  "id": "16953984cc248b",
+  "titulo": "Casos e mortes por Covid-19 sofrem queda de 68,8% em 2026",
+  "url": "https://www.cnnbrasil.com.br/saude/casos-e-mortes-por-covid-19-sofrem-queda-de-688-em-2026/",
+  "fonte_id": "cnn-brasil-saude",
+  "fonte": "CNN Brasil | Saúde",
+  "sigla": "CNN Brasil",
+  "idioma": "pt",
+  "data": "2026-11-10",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-11T06:13:09+00:00",
+  "municipios": [],
+  "pontuacao": 4.5,
+  "agravos": [
+   "COVID-19"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "COVID-19 (notificação imediata) · mortes · internacional"
  },
  {
   "id": "fc780311d9bbcb",
@@ -2036,6 +2149,75 @@
   "se": "2026-45",
   "descricao": "",
   "coletado_em": "2026-11-10T23:17:35+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "6210c3945433dd",
+  "titulo": "Correio ganha Melhor Cobertura de Brasília no Prêmio Engenho",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7536495-correio-ganha-melhor-cobertura-de-brasilia-no-premio-engenho.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-10",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-11T06:13:09+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "b90ae0274bc73b",
+  "titulo": "GDF inicia planejamento integrado para a posse presidencial em janeiro de 2027",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7536472-gdf-inicia-planejamento-integrado-para-a-posse-presidencial-de-2027.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-10",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-11T06:13:09+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "ebc1e198ac7f31",
+  "titulo": "TJDFT mantém condenação de motorista por agressão após esbarrão em retrovisor",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7536448-tjdft-mantem-condenacao-de-motorista-por-agressao-apos-esbarrao-em-retrovisor.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-10",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-11T06:13:09+00:00",
   "municipios": [
    "Distrito Federal"
   ],

@@ -2,7 +2,7 @@
  "nome": "Ebola na RDC, 2026",
  "sigla": "EBOLA",
  "descricao": "Doença pelo vírus Bundibugyo na República Democrática do Congo. Casos e óbitos confirmados segundo o ECDC, até 05/11/2026.",
- "atualizado_em": "2026-11-10T20:27:55.804839",
+ "atualizado_em": "2026-11-11T03:23:42.165461",
  "fonte_dados": "ECDC",
  "serie_temporal": [],
  "distribuicao_geografica": [],
@@ -4237,7 +4237,7 @@
    "fonte": "ECDC, Ebola disease outbreak in the Democratic Republic of the Congo",
    "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
    "captura": "automática",
-   "capturado_em": "2026-11-10"
+   "capturado_em": "2026-11-11"
   }
  ]
 }

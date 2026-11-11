@@ -1,5 +1,23 @@
 [
  {
+  "t": "Com quase 300 casos, cidade do RS tem 10 dias para garantir remédios contra esporotricose em gatos",
+  "u": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/11/cidade-rs-remedios-esporotricose-gatos.ghtml",
+  "d": "2026-11-11",
+  "df": "11 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Micoses endêmicas"
+  ],
+  "p": 7.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "fungo",
+  "m": [],
+  "c": "atencao"
+ },
+ {
   "t": "Neoenergia pode ampliar em até cinco vezes equipes durante temporais no DF",
   "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7536100-neoenergia-pode-ampliar-em-ate-cinco-vezes-equipes-durante-temporais-no-df.html",
   "d": "2026-11-10",
@@ -280,6 +298,24 @@
   "c": "alerta"
  },
  {
+  "t": "Em 9 meses, estado de SP tem 3 mil casos de meningite",
+  "u": "https://g1.globo.com/google/amp/sp/sao-carlos-regiao/videos-jornal-da-eptv-2-edicao/video/em-9-meses-estado-de-sp-tem-3-mil-casos-de-meningite-15176865.ghtml",
+  "d": "2026-11-10",
+  "df": "10 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Doença meningocócica e meningites"
+  ],
+  "p": 8.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "bacteria",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Advogado e jornalista, Sidnei Carvalho Pimentel morre após complicações de dengue",
   "u": "https://g1.globo.com/go/goias/noticia/2026/11/10/advogado-e-jornalista-sidnei-carvalho-morre-apos-complicacoes-de-dengue.ghtml",
   "d": "2026-11-10",
@@ -513,6 +549,24 @@
   "i": "clima",
   "m": [],
   "c": "monitoramento"
+ },
+ {
+  "t": "Casos e mortes por Covid-19 sofrem queda de 68,8% em 2026",
+  "u": "https://www.cnnbrasil.com.br/saude/casos-e-mortes-por-covid-19-sofrem-queda-de-688-em-2026/",
+  "d": "2026-11-10",
+  "df": "10 nov 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Internacional",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 4.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Chuvas deixam feridos, desabrigados e casas destelhadas no Sul",
