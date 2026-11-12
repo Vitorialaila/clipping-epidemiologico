@@ -1,5 +1,42 @@
 [
  {
+  "t": "Surto de Doença de Chagas: sobe para oito o número de casos confirmados em Óbidos",
+  "u": "https://g1.globo.com/pa/santarem-regiao/videos-jornal-tapajos-2-edicao/video/surto-de-doenca-de-chagas-sobe-para-oito-o-numero-de-casos-confirmados-em-obidos-15181105.ghtml",
+  "d": "2026-11-12",
+  "df": "12 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Doença de Chagas aguda"
+  ],
+  "p": 13.0,
+  "se": "2026-45",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Fiocruz: aumentam casos de síndrome respiratória aguda por covid-19",
+  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/fiocruz-aumentam-casos-de-sindrome-respiratoria-aguda-por-covid-19",
+  "d": "2026-11-12",
+  "df": "12 nov 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "COVID-19",
+   "Influenza e vírus respiratórios"
+  ],
+  "p": 12.5,
+  "se": "2026-45",
+  "r": "Os casos confirmados de síndrome respiratória aguda grave (SRAG) por covid-19 tiveram alta no país no início de novembro , informou nesta quinta-feira (12) a Fundação Oswaldo Cruz (Fiocruz), no Boletim Infogripe . A Fiocruz ressalta, entretanto, que o número…",
+  "i": "respiratorio",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "Alta de casos de covid no DF preocupa diante da baixa cobertura vacinal",
   "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7536310-alta-de-casos-de-covid-no-df-preocupa-diante-da-baixa-cobertura-vacinal.html",
   "d": "2026-11-12",
@@ -19,6 +56,81 @@
    "Distrito Federal"
   ],
   "c": "alerta"
+ },
+ {
+  "t": "DF está sob aviso amarelo para tempestades nesta quinta-feira (12/11)",
+  "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7537413-df-esta-sob-aviso-amarelo-para-tempestades-nesta-quinta-feira-12-11.html",
+  "d": "2026-11-12",
+  "df": "12 nov 2026",
+  "f": "Correio Braziliense",
+  "fn": "Correio Braziliense | Cidades DF",
+  "e": "DF",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 10.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "clima",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "monitoramento"
+ },
+ {
+  "t": "InfoGripe aponta aumento do número de casos de Covid-19",
+  "u": "https://agencia.fiocruz.br/infogripe-aponta-aumento-do-numero-de-casos-de-covid-19",
+  "d": "2026-11-12",
+  "df": "12 nov 2026",
+  "f": "Fiocruz",
+  "fn": "Agência Fiocruz de Notícias",
+  "e": "Brasil",
+  "a": [
+   "Influenza e vírus respiratórios",
+   "COVID-19"
+  ],
+  "p": 10.0,
+  "se": "2026-45",
+  "r": "InfoGripe aponta aumento do número de casos de Covid-19",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Após surto de sarna com quase 50 infectados, aulas são suspensas em creches de duas cidades de MS",
+  "u": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/12/apos-surto-de-sarna-com-quase-50-infectados-aulas-sao-suspensas-em-creches-de-duas-cidades-de-ms.ghtml",
+  "d": "2026-11-12",
+  "df": "12 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Escabiose"
+  ],
+  "p": 10.0,
+  "se": "2026-45",
+  "r": "",
+  "i": "saude",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Presidente Prudente reforça combate à dengue após índice apontar risco de surto",
+  "u": "https://g1.globo.com/google/amp/sp/bauru-marilia/videos-bom-dia-cidade/video/presidente-prudente-reforca-combate-a-dengue-apos-indice-apontar-risco-de-surto-15180957.ghtml",
+  "d": "2026-11-12",
+  "df": "12 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 10.0,
+  "se": "2026-45",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "SP tem aumento de casos graves de Covid, mas incidência ainda é baixa",
@@ -57,6 +169,24 @@
   "c": "atencao"
  },
  {
+  "t": "Casos de Covid aumentam em 6 estados, mas risco geral segue baixo no país",
+  "u": "https://www.metropoles.com/saude/casos-de-covid-aumentam-em-6-estados-mas-risco-geral-segue-baixo-no-pais",
+  "d": "2026-11-12",
+  "df": "12 nov 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 7.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "This winter, it’s polar vortex versus El Niño. Round one starts now",
   "u": "https://edition.cnn.com/2026/11/12/weather/polar-vortex-stratospheric-warming-cold-el-nino",
   "d": "2026-11-12",
@@ -71,6 +201,42 @@
   "se": "2026-45",
   "r": "",
   "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Bangladesh and India ban toxic pesticide to boost suicide prevention and brain health",
+  "u": "https://www.who.int/news/item/12-11-2026-bangladesh-and-india-ban-toxic-pesticide-to-boost-suicide-prevention-and-brain-health",
+  "d": "2026-11-12",
+  "df": "12 nov 2026",
+  "f": "OMS",
+  "fn": "OMS | Notícias",
+  "e": "Internacional",
+  "a": [
+   "Intoxicações"
+  ],
+  "p": 4.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "quimico",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Notes from the Field: Dengue Outbreak - American Samoa, 2025-2026",
+  "u": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766823",
+  "d": "2026-11-12",
+  "df": "12 nov 2026",
+  "f": "CDC",
+  "fn": "CDC | MMWR",
+  "e": "Internacional",
+  "a": [
+   "Dengue"
+  ],
+  "p": 4.5,
+  "se": "2026-45",
+  "r": "This report describes a dengue outbreak in America Samoa that resulted in 1,048 confirmed cases and 371 hospitalizations during June 2025-August 2026.",
+  "i": "mosquito",
   "m": [],
   "c": "monitoramento"
  },

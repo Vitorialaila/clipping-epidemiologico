@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-11-12T11:02:39+00:00",
+  "em": "2026-11-12T18:54:00+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,17 +10,17 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-11-12T11:02:39+00:00",
+  "em": "2026-11-12T18:54:00+00:00",
   "lidos": 40,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "Bangladesh and India ban toxic pesticide to boost suicide prevention and brain health",
    "WHO and African Medicines Agency advance regulatory cooperation at inaugural Agency Week in Kigali",
-   "WHO launches “Together for Science and Health” movement to strengthen trust worldwide",
-   "From commitments to implementation: ATACH Day at COP31 delivers practical solutions for climate and health"
+   "WHO launches “Together for Science and Health” movement to strengthen trust worldwide"
   ]
  },
  "opas-alertas": {
-  "em": "2026-11-12T11:02:39+00:00",
+  "em": "2026-11-12T18:54:00+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-11-12T11:02:39+00:00",
+  "em": "2026-11-12T18:54:00+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-11-12T11:02:39+00:00",
+  "em": "2026-11-12T18:54:00+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-11-12T11:02:39+00:00",
+  "em": "2026-11-12T18:54:00+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-11-12T11:02:39+00:00",
+  "em": "2026-11-12T18:54:00+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-11-12T11:02:39+00:00",
+  "em": "2026-11-12T18:54:00+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,17 +80,17 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-11-12T11:02:39+00:00",
-  "lidos": 2350,
-  "novos": 0,
+  "em": "2026-11-12T18:54:00+00:00",
+  "lidos": 2352,
+  "novos": 2,
   "exemplos": [
-   "Cutaneous Aspergillosis Among Extremely Preterm Neonates in Neonatal Intensive Care Units - Michigan and New York, 2023-",
-   "Hantavirus Outbreak Caused by Andes Virus Linked to International Cruise Ship Travel - United States, 2026",
-   "QuickStats: Percentage of Children and Adolescents Aged 5-17 Years Who Had Ever Received a Diagnosis of Attention-Defici"
+   "Notes from the Field: Dengue Outbreak - American Samoa, 2025-2026",
+   "Use of Glucagon-Like Peptide-1 Medications and Modified Medication Use Among Adults - United States, 2025",
+   "Cutaneous Aspergillosis Among Extremely Preterm Neonates in Neonatal Intensive Care Units - Michigan and New York, 2023-"
   ]
  },
  "africa-cdc": {
-  "em": "2026-11-12T11:02:39+00:00",
+  "em": "2026-11-12T18:54:00+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,59 +100,59 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-11-12T11:02:39+00:00",
+  "em": "2026-11-12T18:54:00+00:00",
   "lidos": 15,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "SUS ultrapassa 1 milhão de procedimentos para tratamento do câncer de próstata",
    "1ª Mostra Nacional Brasil Sorridente reúne experiências inovadoras em saúde bucal no Rio de Janeiro",
-   "Ministério da Saúde defende integração entre setores público e privado para fortalecer o SUS durante o Rio Health Forum ",
-   "Programa Nacional das Medicinas Indígenas fortalece o diálogo entre saberes tradicionais e o SUS"
+   "Ministério da Saúde defende integração entre setores público e privado para fortalecer o SUS durante o Rio Health Forum "
   ]
  },
  "fiocruz": {
-  "em": "2026-11-12T11:02:39+00:00",
+  "em": "2026-11-12T18:54:00+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "InfoGripe aponta aumento do número de casos de Covid-19",
    "Fiocruz lança Campanha do Laço Branco e convida homens a combater a violência contra as mulheres",
-   "Fiocruz participa de cerimônia dos 90 anos do Instituto Evandro Chagas",
-   "Programa Cozinha Solidária fortalece iniciativas comunitárias no combate à fome"
+   "Fiocruz participa de cerimônia dos 90 anos do Instituto Evandro Chagas"
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-11-12T11:02:39+00:00",
+  "em": "2026-11-12T18:54:00+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 2,
   "exemplos": [
-   "Instituto Evandro Chagas comemora 90 anos com congresso científico",
-   "Anvisa determina apreensão de suplementos alimentares",
-   "Especialistas alertam para risco de reinfecção da dengue"
+   "Fiocruz: aumentam casos de síndrome respiratória aguda por covid-19",
+   "Anvisa manda recolher lotes de insumos para canetas emagrecedoras",
+   "Instituto Evandro Chagas comemora 90 anos com congresso científico"
   ]
  },
  "ses-go": {
-  "em": "2026-11-12T11:02:39+00:00",
+  "em": "2026-11-12T18:54:00+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 2,
   "exemplos": [
-   "Aviso de Licitação do P.E. n.º 222/2026",
-   "Extrato do Contrato n.º 106/2026 – SES/GO",
-   "Hospital Estadual de Jataí é referência nacional no uso racional de antimicrobianos"
+   "Extrato da Portaria nº 2627/2026 – SES/GO",
+   "Termo de Homologação da Adesão nº 014/2026 – Adesão à Ata de Registro de Preços nº 020/2026 do Ministério Público de Goi",
+   "Aviso de Licitação do P.E. n.º 222/2026"
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-11-12T11:02:39+00:00",
+  "em": "2026-11-12T18:54:00+00:00",
   "lidos": 10,
   "novos": 1,
   "exemplos": [
+   "EBC recebe selo Diamante em avaliação de transparência pública",
    "Mega-Sena sorteia prêmio de R$ 20 milhões nesta quinta-feira",
-   "Polícia Civil indicia influenciador e marido por vídeo na casa de FHC",
-   "Concurso da Transpetro terá novos locais de prova em quatro estados"
+   "Polícia Civil indicia influenciador e marido por vídeo na casa de FHC"
   ]
  },
  "g1-busca": {
-  "em": "2026-11-12T11:02:39+00:00",
-  "lidos": 371,
-  "novos": 1,
+  "em": "2026-11-12T18:54:00+00:00",
+  "lidos": 361,
+  "novos": 3,
   "exemplos": [
    "Instituto Federal investiga uso de IA em caso suspeito de racismo contra aluna no interior de SP",
    "Mobilização nacional busca casos suspeitos de sarampo",
@@ -160,9 +160,9 @@
   ]
  },
  "metropoles-busca": {
-  "em": "2026-11-12T11:02:39+00:00",
+  "em": "2026-11-12T18:54:00+00:00",
   "lidos": 55,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
    "Casos de Covid-19 crescem em BH e poder público recomenda vacinação",
    "Ministério da Saúde envia ao DF 100 doses de vacina contra mpox",
@@ -170,27 +170,27 @@
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-11-12T11:02:39+00:00",
+  "em": "2026-11-12T18:54:00+00:00",
   "lidos": 26,
   "novos": 0,
   "exemplos": [
-   "Cuidados com aparência ganham espaço entre os brasileiros, aponta pesquisa",
-   "Estudo: atividade física reduz fadiga em pacientes com câncer colorretal",
-   "Retatrutida reduz dores no joelho em pelo menos 50%, mostra estudo"
+   "Anvisa manda recolher lotes de insumos para canetas emagrecedoras",
+   "Anvisa proíbe venda de loção dermoprotetora da Needs; entenda o motivo",
+   "Chiclete consegue reduzir presença do HPV e bactérias ligadas ao câncer"
   ]
  },
  "cnn-saude": {
-  "em": "2026-11-12T11:02:39+00:00",
+  "em": "2026-11-12T18:54:00+00:00",
   "lidos": 24,
   "novos": 0,
   "exemplos": [
+   "A ‘clear recommendation’ for men: Get screened for prostate cancer",
    "CDC chief says agency will not change measles response if US loses elimination status",
-   "An 11-day-old baby couldn’t stop bleeding. For hours, the ER didn’t provide a critical vitamin shot.",
-   "A promising drug for an inherited heart risk flops, stunning doctors"
+   "An 11-day-old baby couldn’t stop bleeding. For hours, the ER didn’t provide a critical vitamin shot."
   ]
  },
  "cnn-busca": {
-  "em": "2026-11-12T11:02:39+00:00",
+  "em": "2026-11-12T18:54:00+00:00",
   "lidos": 36,
   "novos": 1,
   "exemplos": [
@@ -200,17 +200,17 @@
   ]
  },
  "inmet": {
-  "em": "2026-11-12T11:02:39+00:00",
+  "em": "2026-11-12T18:54:00+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
-   "Previsão para quinta-feira (12) e sexta-feira (13)",
-   "Temporais no Sul e Sudeste: entenda a influência do El Niño nos eventos meteorológicos extremos",
-   "Inmet participa de coletiva sobre o período chuvoso e os efeitos do El Niño no DF"
+   "Previsão para sexta-feira (13) e sábado (14)",
+   "Semeadura do feijão de 1ª safra avança em ritmos diferentes nas principais regiões produtoras",
+   "Previsão para quinta-feira (12) e sexta-feira (13)"
   ]
  },
  "cemaden": {
-  "em": "2026-11-12T11:02:39+00:00",
+  "em": "2026-11-12T18:54:00+00:00",
   "lidos": 8,
   "novos": 0,
   "exemplos": [
@@ -220,8 +220,8 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-11-12T11:02:39+00:00",
-  "lidos": 31,
+  "em": "2026-11-12T18:54:00+00:00",
+  "lidos": 28,
   "novos": 0,
   "exemplos": [
    "MIDR esclarece que kit de emergência é medida preventiva e não tem relação com alerta nacional",
@@ -230,13 +230,13 @@
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-11-12T11:02:39+00:00",
+  "em": "2026-11-12T18:54:00+00:00",
   "lidos": 20,
-  "novos": 8,
+  "novos": 7,
   "exemplos": [
-   "Urgente! Justiça manda reduzir velocidade do Eixão para 60 km/h e instalar radares",
+   "Empresária é vítima de tentativa de estupro no Sudoeste",
    "Baleado por PM dentro de van na Asa Sul recebe alta hospitalar",
-   "Agências do Trabalhador do DF abrem 958 vagas com salários de até R$ 5 mil"
+   "Zoológico de Brasília celebra nascimento de dois micos-leões-dourados"
   ]
  }
 }
