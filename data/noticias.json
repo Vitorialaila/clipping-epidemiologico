@@ -1,5 +1,30 @@
 [
  {
+  "id": "bb9f2ec7959538",
+  "titulo": "SP tem aumento de casos graves de Covid, mas incidência ainda é baixa",
+  "url": "https://www.metropoles.com/sao-paulo/sp-tem-aumento-de-casos-graves-de-covid-mas-incidencia-ainda-e-baixa",
+  "fonte_id": "metropoles-busca",
+  "fonte": "Metrópoles",
+  "sigla": "Metrópoles",
+  "idioma": "pt",
+  "data": "2026-11-12",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-12T02:57:38+00:00",
+  "municipios": [],
+  "pontuacao": 8.5,
+  "agravos": [
+   "COVID-19"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "aumento de casos"
+  ],
+  "categoria": "alerta",
+  "motivo": "COVID-19 (notificação imediata) · aumento de casos · Brasil"
+ },
+ {
   "id": "271c3de4d44555",
   "titulo": "Campos confirma primeiro caso de mpox registrado em 2026",
   "url": "https://g1.globo.com/google/amp/rj/norte-fluminense/noticia/2026/11/11/campos-confirma-primeiro-caso-de-mpox-registrado-em-2026.ghtml",
@@ -23,6 +48,31 @@
   ],
   "categoria": "alerta",
   "motivo": "Mpox (notificação imediata) · confirma · Brasil"
+ },
+ {
+  "id": "09d46c5621ec8b",
+  "titulo": "Ceará tem 78 casos confirmados de MPOX",
+  "url": "https://g1.globo.com/ce/ceara/videos-cetv-2-edicao/video/ceara-tem-78-casos-confirmados-de-mpox-15180246.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-11",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-12T02:57:38+00:00",
+  "municipios": [],
+  "pontuacao": 11.5,
+  "agravos": [
+   "Mpox"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "casos confirmados"
+  ],
+  "categoria": "alerta",
+  "motivo": "Mpox (notificação imediata) · casos confirmados · Brasil"
  },
  {
   "id": "b5f3b6ce194be8",
@@ -122,6 +172,29 @@
   "termos_evento": [],
   "categoria": "alerta",
   "motivo": "Mpox (notificação imediata) · Casos de mpox · Brasil"
+ },
+ {
+  "id": "8dca50a6b5366a",
+  "titulo": "Campinas registra 17 casos de mpox em 2026",
+  "url": "https://g1.globo.com/google/amp/sp/campinas-regiao/videos-jornal-da-eptv-2-edicao-campinas-e-piracicaba/video/campinas-registra-17-casos-de-mpox-em-2026-15180233.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-11",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-12T02:57:38+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Mpox"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "Mpox (notificação imediata) · 17 casos · Brasil"
  },
  {
   "id": "033c08edd0d3a9",
@@ -355,6 +428,53 @@
   "termos_evento": [],
   "categoria": "monitoramento",
   "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · Brasil"
+ },
+ {
+  "id": "5d9704ca759e8a",
+  "titulo": "Casos de Covid voltam a crescer em SP; Fiocruz investiga relação com nova variante",
+  "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/11/casos-de-covid-voltam-a-crescer-em-sp-fiocruz-investiga-relacao-com-nova-variante.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-11",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-12T02:57:38+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "COVID-19"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "COVID-19 (notificação imediata) · Casos de Covid · Brasil"
+ },
+ {
+  "id": "764da9aaf52912",
+  "titulo": "Temporais no Sul e Sudeste: entenda a influência do El Niño nos eventos meteorológicos extremos",
+  "url": "https://portal.inmet.gov.br/noticias/temporais-no-sul-e-sudeste-entenda-a-influência-do-el-niño-nos-eventos-meteorológicos-extremos",
+  "fonte_id": "inmet",
+  "fonte": "INMET | Notícias",
+  "sigla": "INMET",
+  "idioma": "pt",
+  "data": "2026-11-11",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-12T02:57:38+00:00",
+  "municipios": [],
+  "pontuacao": 6.0,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": "Emergências e desastres · estudo, orientação ou relato retrospectivo · Brasil"
  },
  {
   "id": "5357f4099d9c2a",
@@ -1358,6 +1478,165 @@
   "se": "2026-45",
   "descricao": "",
   "coletado_em": "2026-11-11T21:56:10+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "045b06e0581a3a",
+  "titulo": "1ª Mostra Nacional Brasil Sorridente reúne experiências inovadoras em saúde bucal no Rio de Janeiro",
+  "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/1a-mostra-nacional-brasil-sorridente-reune-experiencias-inovadoras-em-saude-bucal-no-rio-de-janeiro",
+  "fonte_id": "ms-noticias",
+  "fonte": "Ministério da Saúde | Notícias",
+  "sigla": "MS",
+  "idioma": "pt",
+  "data": "2026-11-11",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-12T02:57:38+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "177dd24900b4e9",
+  "titulo": "Urgente! Justiça manda reduzir velocidade do Eixão para 60 km/h e instalar radares",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7537167-urgente-justica-manda-reduzir-velocidade-do-eixao-para-60-km-h-e-instalar-radares.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-11",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-12T02:57:38+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "b243f2e5d487c0",
+  "titulo": "Cão sobe em maca para acompanhar tutor durante atendimento do Samu",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7537269-cao-sobe-em-maca-para-acompanhar-tutor-durante-atendimento-do-samu.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-11",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-12T02:57:38+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "ae4890e0f27869",
+  "titulo": "Redução da velocidade do Eixão: \"Vamos recorrer\", determina Celina Leão",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7537234-reducao-da-velocidade-do-eixao-vamos-recorrer-determina-celina-leao.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-11",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-12T02:57:38+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "f95895cb90cd13",
+  "titulo": "Papai Noel dos Correios abre inscrições para a adoção de cartas no DF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7537163-papai-noel-dos-correios-abre-inscricoes-para-a-adocao-de-cartas-no-df.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-11",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-12T02:57:38+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "1e9c2b640335d3",
+  "titulo": "Vídeo: Visitante tenta entrar na Papuda com drogas dentro do doce de leite",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7537165-video-visitante-tenta-entrar-na-papuda-com-drogas-dentro-do-doce-de-leite.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-11",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-12T02:57:38+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "270c417d04b187",
+  "titulo": "Gama ficará sem água nesta quinta (12/11) para manutenção da Caesb",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7537129-gama-ficara-sem-agua-nesta-quinta-12-11-para-manutencao-da-caesb.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-11",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-12T02:57:38+00:00",
   "municipios": [
    "Distrito Federal"
   ],

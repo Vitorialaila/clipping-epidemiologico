@@ -1,7 +1,43 @@
 [
  {
+  "t": "SP tem aumento de casos graves de Covid, mas incidência ainda é baixa",
+  "u": "https://www.metropoles.com/sao-paulo/sp-tem-aumento-de-casos-graves-de-covid-mas-incidencia-ainda-e-baixa",
+  "d": "2026-11-12",
+  "df": "12 nov 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 8.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Campos confirma primeiro caso de mpox registrado em 2026",
   "u": "https://g1.globo.com/google/amp/rj/norte-fluminense/noticia/2026/11/11/campos-confirma-primeiro-caso-de-mpox-registrado-em-2026.ghtml",
+  "d": "2026-11-11",
+  "df": "11 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 11.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Ceará tem 78 casos confirmados de MPOX",
+  "u": "https://g1.globo.com/ce/ceara/videos-cetv-2-edicao/video/ceara-tem-78-casos-confirmados-de-mpox-15180246.ghtml",
   "d": "2026-11-11",
   "df": "11 nov 2026",
   "f": "G1",
@@ -75,6 +111,24 @@
  {
   "t": "Casos de mpox na região de Campinas se concentram em homens de 25 a 39 anos",
   "u": "https://g1.globo.com/google/amp/sp/campinas-regiao/videos-bom-dia-cidade-campinas-e-piracicaba/video/casos-de-mpox-na-regiao-de-campinas-se-concentram-em-homens-de-25-a-39-anos-15177863.ghtml",
+  "d": "2026-11-11",
+  "df": "11 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Campinas registra 17 casos de mpox em 2026",
+  "u": "https://g1.globo.com/google/amp/sp/campinas-regiao/videos-jornal-da-eptv-2-edicao-campinas-e-piracicaba/video/campinas-registra-17-casos-de-mpox-em-2026-15180233.ghtml",
   "d": "2026-11-11",
   "df": "11 nov 2026",
   "f": "G1",
@@ -265,6 +319,43 @@
   "se": "2026-45",
   "r": "",
   "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Casos de Covid voltam a crescer em SP; Fiocruz investiga relação com nova variante",
+  "u": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/11/casos-de-covid-voltam-a-crescer-em-sp-fiocruz-investiga-relacao-com-nova-variante.ghtml",
+  "d": "2026-11-11",
+  "df": "11 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 7.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Temporais no Sul e Sudeste: entenda a influência do El Niño nos eventos meteorológicos extremos",
+  "u": "https://portal.inmet.gov.br/noticias/temporais-no-sul-e-sudeste-entenda-a-influência-do-el-niño-nos-eventos-meteorológicos-extremos",
+  "d": "2026-11-11",
+  "df": "11 nov 2026",
+  "f": "INMET",
+  "fn": "INMET | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 6.0,
+  "se": "2026-45",
+  "r": "",
+  "i": "desastre",
   "m": [],
   "c": "monitoramento"
  },
