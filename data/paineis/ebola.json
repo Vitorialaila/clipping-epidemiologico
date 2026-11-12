@@ -1,8 +1,8 @@
 {
  "nome": "Ebola na RDC, 2026",
  "sigla": "EBOLA",
- "descricao": "Doença pelo vírus Bundibugyo na República Democrática do Congo. Casos e óbitos confirmados segundo o ECDC, até 05/11/2026.",
- "atualizado_em": "2026-11-12T00:07:17.603812",
+ "descricao": "Doença pelo vírus Bundibugyo na República Democrática do Congo. Casos e óbitos confirmados segundo o ECDC, até 10/11/2026.",
+ "atualizado_em": "2026-11-12T08:12:19.663962",
  "fonte_dados": "ECDC",
  "serie_temporal": [],
  "distribuicao_geografica": [],
@@ -11,15 +11,15 @@
  "aba": "Ebola",
  "kpis": [
   {
-   "valor": "10.741",
+   "valor": "11.042",
    "rotulo": "casos confirmados"
   },
   {
-   "valor": "5.230",
+   "valor": "5.387",
    "rotulo": "óbitos entre confirmados"
   },
   {
-   "valor": "48,7%",
+   "valor": "48,8%",
    "rotulo": "letalidade entre confirmados"
   },
   {
@@ -82,6 +82,9 @@
       ],
       [
        "ECDC, Ebola disease outbreak in the Democratic Republic of the Congo"
+      ],
+      [
+       "ECDC, Ebola disease outbreak in the Democratic Republic of the Congo"
       ]
      ],
      "hovertemplate": "%{x|%d/%m/%Y}<br><b>%{y:,}</b> casos confirmados<br><i>%{customdata[0]}</i><extra></extra>",
@@ -111,7 +114,8 @@
       "2026-10-29",
       "2026-11-02",
       "2026-11-04",
-      "2026-11-05"
+      "2026-11-05",
+      "2026-11-10"
      ],
      "y": [
       2124,
@@ -130,7 +134,8 @@
       10274,
       10532,
       10668,
-      10741
+      10741,
+      11042
      ],
      "type": "scatter"
     },
@@ -186,6 +191,9 @@
       ],
       [
        "ECDC, Ebola disease outbreak in the Democratic Republic of the Congo"
+      ],
+      [
+       "ECDC, Ebola disease outbreak in the Democratic Republic of the Congo"
       ]
      ],
      "hovertemplate": "%{x|%d/%m/%Y}<br><b>%{y:,}</b> óbitos entre confirmados<br><i>%{customdata[0]}</i><extra></extra>",
@@ -215,7 +223,8 @@
       "2026-10-29",
       "2026-11-02",
       "2026-11-04",
-      "2026-11-05"
+      "2026-11-05",
+      "2026-11-10"
      ],
      "y": [
       828,
@@ -234,7 +243,8 @@
       4992,
       5126,
       5198,
-      5230
+      5230,
+      5387
      ],
      "type": "scatter"
     }
@@ -1122,6 +1132,10 @@
       [
        "03/11 a 04/11",
        1
+      ],
+      [
+       "04/11 a 09/11",
+       5
       ]
      ],
      "hovertemplate": "%{customdata[0]} (%{customdata[1]} dias)<br><b>%{y:,}</b> novos casos por semana<extra></extra>",
@@ -1144,7 +1158,8 @@
       77760000.0,
       311040000.0,
       155520000.0,
-      77760000.0
+      77760000.0,
+      388800000.0
      ],
      "x": [
       "2026-07-25",
@@ -1162,7 +1177,8 @@
       "2026-10-27",
       "2026-10-30",
       "2026-11-02",
-      "2026-11-03"
+      "2026-11-03",
+      "2026-11-06"
      ],
      "y": [
       643,
@@ -1180,7 +1196,8 @@
       567,
       452,
       476,
-      511
+      511,
+      421
      ],
      "type": "bar"
     }
@@ -3825,9 +3842,8 @@
   }
  ],
  "notas": [
-  "Média de novos casos confirmados por semana: 511 entre 03/11 e 04/11, ante 476 entre 01/11 e 03/11 (+7%). Cálculo a partir dos acumulados publicados pelo ECDC.",
+  "Média de novos casos confirmados por semana: 421 entre 04/11 e 09/11, ante 511 entre 03/11 e 04/11 (-18%). Cálculo a partir dos acumulados publicados pelo ECDC.",
   "Expansão geográfica: as zonas de saúde afetadas passaram de 46 (16/07/2026) para 66 (19/10/2026), e as províncias com casos, de 5 para 8.",
-  "ECDC: On 20 October 2026, an Ebola case was reported in Nigeria. The person has since been medically evacuated to Switzerland.",
   "Segundo o ECDC, os dados da RDC sobre casos e óbitos confirmados estão em revisão e harmonização contínuas."
  ],
  "fontes": [
@@ -4234,6 +4250,26 @@
    "n_provincias": 8,
    "quenia": null,
    "outros_paises": "On 20 October 2026, an Ebola case was reported in Nigeria. The person has since been medically evacuated to Switzerland.",
+   "fonte": "ECDC, Ebola disease outbreak in the Democratic Republic of the Congo",
+   "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+   "captura": "automática",
+   "capturado_em": "2026-11-12"
+  },
+  {
+   "data_referencia": "2026-11-10",
+   "casos": 11042,
+   "obitos": 5387,
+   "dados_ate": "2026-11-09",
+   "hospitalizados": null,
+   "recuperados": null,
+   "novos_casos": null,
+   "novos_obitos": null,
+   "provincias": null,
+   "zs_afetadas": null,
+   "zs_total": null,
+   "n_provincias": 8,
+   "quenia": null,
+   "outros_paises": null,
    "fonte": "ECDC, Ebola disease outbreak in the Democratic Republic of the Congo",
    "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
    "captura": "automática",

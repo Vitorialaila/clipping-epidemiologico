@@ -1,5 +1,26 @@
 [
  {
+  "t": "Alta de casos de covid no DF preocupa diante da baixa cobertura vacinal",
+  "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7536310-alta-de-casos-de-covid-no-df-preocupa-diante-da-baixa-cobertura-vacinal.html",
+  "d": "2026-11-12",
+  "df": "12 nov 2026",
+  "f": "Correio Braziliense",
+  "fn": "Correio Braziliense | Cidades DF",
+  "e": "DF",
+  "a": [
+   "COVID-19",
+   "Imunização"
+  ],
+  "p": 12.0,
+  "se": "2026-45",
+  "r": "",
+  "i": "respiratorio",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "alerta"
+ },
+ {
   "t": "SP tem aumento de casos graves de Covid, mas incidência ainda é baixa",
   "u": "https://www.metropoles.com/sao-paulo/sp-tem-aumento-de-casos-graves-de-covid-mas-incidencia-ainda-e-baixa",
   "d": "2026-11-12",
@@ -16,6 +37,42 @@
   "i": "respiratorio",
   "m": [],
   "c": "alerta"
+ },
+ {
+  "t": "Vespasiano suspende aulas em todas as escolas municipais por seis dias após casos de sarna",
+  "u": "https://g1.globo.com/mg/minas-gerais/bom-dia-minas/noticia/2026/11/12/vespasiano-suspende-aulas-em-todas-as-escolas-municipais-por-seis-dias-apos-casos-de-sarna.ghtml",
+  "d": "2026-11-12",
+  "df": "12 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Escabiose"
+  ],
+  "p": 7.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "saude",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "This winter, it’s polar vortex versus El Niño. Round one starts now",
+  "u": "https://edition.cnn.com/2026/11/12/weather/polar-vortex-stratospheric-warming-cold-el-nino",
+  "d": "2026-11-12",
+  "df": "12 nov 2026",
+  "f": "CNN",
+  "fn": "CNN",
+  "e": "Internacional",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 4.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Campos confirma primeiro caso de mpox registrado em 2026",
