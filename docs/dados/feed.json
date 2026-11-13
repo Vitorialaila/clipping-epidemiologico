@@ -1,5 +1,26 @@
 [
  {
+  "t": "Casos de mpox ultrapassam mil em 2026 e se concentram em seis estados",
+  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/casos-de-mpox-ultrapassam-mil-em-2026-e-se-concentram-em-seis-estados",
+  "d": "2026-11-13",
+  "df": "13 nov 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Saúde",
+  "e": "DF",
+  "a": [
+   "Mpox",
+   "Saúde Única: zoonoses e eventos em animais"
+  ],
+  "p": 18.0,
+  "se": "2026-45",
+  "r": "Os casos confirmados de mpox no Brasil em 2026 ultrapassaram a marca de mil, segundo a última atualização do painel de monitoramento da doença, mantido pelo Ministério da Saúde. De acordo com o painel, até esta quinta-feira (12), foram registrados 1.023 casos…",
+  "i": "animal",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "alerta"
+ },
+ {
   "t": "Parada cardíaca por doença de Chagas levou à morte de passageira em voo que saiu de Brasília para Porto Velho",
   "u": "https://g1.globo.com/ro/rondonia/noticia/2026/11/13/causa-da-morte-de-passageira-em-voo-que-saiu-de-brasilia-para-porto-velho.ghtml",
   "d": "2026-11-13",
@@ -17,6 +38,133 @@
   "m": [
    "Distrito Federal"
   ],
+  "c": "alerta"
+ },
+ {
+  "t": "Saúde orienta atualização da vacina contra o sarampo para fiéis e viajantes com destino ao Peru",
+  "u": "https://goias.gov.br/saude/saude-orienta-atualizacao-da-vacina-contra-o-sarampo-para-fieis-e-viajantes-com-destino-ao-peru/",
+  "d": "2026-11-13",
+  "df": "13 nov 2026",
+  "f": "SES-GO",
+  "fn": "SES-GO | Notícias",
+  "e": "Américas",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 11.5,
+  "se": "2026-45",
+  "r": "Comitiva papal e eventos religiosos reúnem multidões no país vizinho, que enfrenta surto da doença",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Mpox: DF confirma 44 casos e registra aumento de 91% em uma semana",
+  "u": "https://www.metropoles.com/distrito-federal/mpox-df-confirma-44-casos-e-registra-aumento-de-91-em-uma-semana",
+  "d": "2026-11-13",
+  "df": "13 nov 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "SC: campanha reúne doações para indígenas atingidos por tempestades",
+  "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/sc-campanha-reune-doacoes-para-indigenas-atingidos-por-tempestades",
+  "d": "2026-11-13",
+  "df": "13 nov 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Geral",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima",
+   "Emergências e desastres"
+  ],
+  "p": 8.0,
+  "se": "2026-45",
+  "r": "A Universidade do Estado de Santa Catarina (Udesc) organizou uma campanha de apoio às comunidades indígenas afetadas por tornados e temporais no estado. As doações serão recebidas até esta sexta-feira (13), na capital Florianópolis, em Lages e Chapecó. Na…",
+  "i": "desastre",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Anvisa proíbe propaganda de cogumelos e produtos à base de cannabis",
+  "u": "https://www.cnnbrasil.com.br/saude/anvisa-proibe-propaganda-de-cogumelos-e-produtos-a-base-de-cannabis/",
+  "d": "2026-11-13",
+  "df": "13 nov 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Intoxicações"
+  ],
+  "p": 7.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "quimico",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "INMET participa de simpósio internacional sobre tempestades severas em São Paulo",
+  "u": "https://portal.inmet.gov.br/noticias/inmet-participa-de-simpósio-internacional-sobre-tempestades-severas-em-são-paulo",
+  "d": "2026-11-13",
+  "df": "13 nov 2026",
+  "f": "INMET",
+  "fn": "INMET | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "The US has had the tools to control measles for almost 65 years. Here’s how it’s come raging back",
+  "u": "https://us.cnn.com/2026/11/13/health/measles-elimination-status-vis",
+  "d": "2026-11-13",
+  "df": "13 nov 2026",
+  "f": "CNN",
+  "fn": "CNN | Health",
+  "e": "Internacional",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 6.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Timeline: How the US wrangled the deadly measles virus and how it has come raging back",
+  "u": "https://www.cnn.com/2026/11/13/health/measles-elimination-status-vis",
+  "d": "2026-11-13",
+  "df": "13 nov 2026",
+  "f": "CNN",
+  "fn": "CNN",
+  "e": "Internacional",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 6.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "virus",
+  "m": [],
   "c": "alerta"
  },
  {
