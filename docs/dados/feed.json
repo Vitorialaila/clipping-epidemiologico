@@ -133,6 +133,24 @@
   "c": "atencao"
  },
  {
+  "t": "Brasil ultrapassa mil casos de Mpox com alta de 22% em menos de uma semana",
+  "u": "https://www.cnnbrasil.com.br/saude/brasil-ultrapassa-mil-casos-de-mpox-com-alta-de-22-em-apenas-uma-semana/",
+  "d": "2026-11-12",
+  "df": "12 nov 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "SP tem aumento de casos graves de Covid, mas incidência ainda é baixa",
   "u": "https://www.metropoles.com/sao-paulo/sp-tem-aumento-de-casos-graves-de-covid-mas-incidencia-ainda-e-baixa",
   "d": "2026-11-12",
@@ -175,6 +193,42 @@
   "df": "12 nov 2026",
   "f": "Metrópoles",
   "fn": "Metrópoles",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 7.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Casos de Covid aumentam em Divinópolis e região",
+  "u": "https://g1.globo.com/mg/centro-oeste/videos-mgtv-1-edicao/video/casos-de-covid-aumentam-em-divinopolis-e-regiao-15183423.ghtml",
+  "d": "2026-11-12",
+  "df": "12 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 7.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Casos de Covid-19 voltam a subir no ES e testes positivos triplicam em poucas semanas; veja orientações",
+  "u": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/12/casos-de-covid-19-voltam-a-subir-no-es-e-testes-positivos-triplicam-em-poucas-semanas-veja-orientacoes.ghtml",
+  "d": "2026-11-12",
+  "df": "12 nov 2026",
+  "f": "G1",
+  "fn": "G1",
   "e": "Brasil",
   "a": [
    "COVID-19"
