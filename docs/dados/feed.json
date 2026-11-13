@@ -59,12 +59,67 @@
   "c": "monitoramento"
  },
  {
+  "t": "Defesa Civil alerta para temporais em todo o Estado de São Paulo neste domingo (15)",
+  "u": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-temporais-dom-15/",
+  "d": "2026-11-13",
+  "df": "13 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "agenciasp.sp.gov.br",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 11.0,
+  "se": "2026-45",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "Mpox: DF confirma 44 casos e registra aumento de 91% em uma semana",
   "u": "https://www.metropoles.com/distrito-federal/mpox-df-confirma-44-casos-e-registra-aumento-de-91-em-uma-semana",
   "d": "2026-11-13",
   "df": "13 nov 2026",
   "f": "Metrópoles",
   "fn": "Metrópoles",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Cidade do Rio tem uma morte confirmada por Mpox",
+  "u": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/13/cidade-do-rio-morte-mpox.ghtml",
+  "d": "2026-11-13",
+  "df": "13 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Campos registra caso de Mpox; RJ tem alta de 219% nas confirmações da doença",
+  "u": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/13/campos-registra-caso-de-mpox-rj-tem-alta-de-219percent-nas-confirmacoes-da-doenca.ghtml",
+  "d": "2026-11-13",
+  "df": "13 nov 2026",
+  "f": "G1",
+  "fn": "G1",
   "e": "Brasil",
   "a": [
    "Mpox"
@@ -96,6 +151,24 @@
   "c": "atencao"
  },
  {
+  "t": "Superintendente de Vigilância Epidemiológica e Imunização",
+  "u": "https://goias.gov.br/saude/superintendente-de-vigilancia-epidemiologica-e-imunizacao/",
+  "d": "2026-11-13",
+  "df": "13 nov 2026",
+  "f": "SES-GO",
+  "fn": "SES-GO | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Imunização"
+  ],
+  "p": 8.0,
+  "se": "2026-45",
+  "r": "CRISTINA APARECIDA BORGES PEREIRA LAVAL a partir de: 04-12-2024 – Ver Histórico do cargo",
+  "i": "vacina",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "Anvisa proíbe propaganda de cogumelos e produtos à base de cannabis",
   "u": "https://www.cnnbrasil.com.br/saude/anvisa-proibe-propaganda-de-cogumelos-e-produtos-a-base-de-cannabis/",
   "d": "2026-11-13",
@@ -116,6 +189,24 @@
  {
   "t": "INMET participa de simpósio internacional sobre tempestades severas em São Paulo",
   "u": "https://portal.inmet.gov.br/noticias/inmet-participa-de-simpósio-internacional-sobre-tempestades-severas-em-são-paulo",
+  "d": "2026-11-13",
+  "df": "13 nov 2026",
+  "f": "INMET",
+  "fn": "INMET | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "El Niño deve perder força a partir do início de 2027 e chegar ao fim no outono",
+  "u": "https://portal.inmet.gov.br/noticias/el-niño-deve-atingir-sua-intensidade-máxima-no-trimestre-novembro-dezembro-janeiro-e-deve-persistir-até-o-outono-de-2027",
   "d": "2026-11-13",
   "df": "13 nov 2026",
   "f": "INMET",
@@ -166,6 +257,42 @@
   "i": "virus",
   "m": [],
   "c": "alerta"
+ },
+ {
+  "t": "INMET participa de encontro internacional sobre calor extremo e saúde na Bolívia",
+  "u": "https://portal.inmet.gov.br/noticias/inmet-participa-de-encontro-internacional-sobre-calor-extremo-e-saúde-na-bolívia",
+  "d": "2026-11-13",
+  "df": "13 nov 2026",
+  "f": "INMET",
+  "fn": "INMET | Notícias",
+  "e": "Américas",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 6.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Nav. ed. pt Giro Saude 13 de novembro de 2026",
+  "u": "https://agencia.fiocruz.br/nav-ed-pt-giro-saude-13-de-novembro-de-2026",
+  "d": "2026-11-13",
+  "df": "13 nov 2026",
+  "f": "Fiocruz",
+  "fn": "Agência Fiocruz de Notícias",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 5.5,
+  "se": "2026-45",
+  "r": "Nav. ed. pt Giro Saude 13 de novembro de 2026 Tipo de caixa Duplo horizontal Título Giro Saúde: 13 de novembro Imagem Chamada Novo episódio aborda Covid-19 no Brasil, recomendação de kit de emergência pela Defesa Civil e eleição de Drauzio Varella na ABL",
+  "i": "respiratorio",
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Surto de Doença de Chagas: sobe para oito o número de casos confirmados em Óbidos",

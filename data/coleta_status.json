@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-11-13T16:20:44+00:00",
+  "em": "2026-11-13T22:36:38+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,7 +10,7 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-11-13T16:20:44+00:00",
+  "em": "2026-11-13T22:36:38+00:00",
   "lidos": 40,
   "novos": 0,
   "exemplos": [
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-11-13T16:20:44+00:00",
+  "em": "2026-11-13T22:36:38+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,17 +30,17 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-11-13T16:20:44+00:00",
+  "em": "2026-11-13T22:36:38+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "Public university hospitals in the Americas to develop regional alliance to strengthen health systems",
    "Diabetes in the Americas: 112 million adults live with the disease as gaps in diagnosis and treatment persist",
-   "PAHO secures first-ever region-wide access agreements for HPV testing across Latin America and the Caribbean, with suppo",
-   "PAHO calls for stronger menopause care to promote healthy aging in the Americas"
+   "PAHO secures first-ever region-wide access agreements for HPV testing across Latin America and the Caribbean, with suppo"
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-11-13T16:20:44+00:00",
+  "em": "2026-11-13T22:36:38+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-11-13T16:20:44+00:00",
+  "em": "2026-11-13T22:36:38+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-11-13T16:20:44+00:00",
+  "em": "2026-11-13T22:36:38+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-11-13T16:20:44+00:00",
+  "em": "2026-11-13T22:36:38+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-11-13T16:20:44+00:00",
+  "em": "2026-11-13T22:36:38+00:00",
   "lidos": 2352,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-11-13T16:20:44+00:00",
+  "em": "2026-11-13T22:36:38+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,29 +100,29 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-11-13T16:20:44+00:00",
+  "em": "2026-11-13T22:36:38+00:00",
   "lidos": 15,
-  "novos": 1,
+  "novos": 2,
   "exemplos": [
-   "Em conferência internacional, Massuda apresenta hospitais universitários como ativos estratégicos do SUS",
-   "Povos indígenas isolados e de recente contato recebem escuta qualificada da Sesai",
-   "Seminário nacional debate enfrentamento ao racismo e fortalecimento da equidade racial na gestão do trabalho e da educaç"
+   "Unidade básica de saúde com tecnologia sustentável beneficia indígenas no Pará",
+   "Ministério da Saúde facilita acesso a teleatendimento de Saúde Mental no Meu SUS Digital",
+   "Em conferência internacional, Massuda apresenta hospitais universitários como ativos estratégicos do SUS"
   ]
  },
  "fiocruz": {
-  "em": "2026-11-13T16:20:44+00:00",
+  "em": "2026-11-13T22:36:38+00:00",
   "lidos": 10,
-  "novos": 4,
+  "novos": 1,
   "exemplos": [
+   "Nav. ed. pt Giro Saude 13 de novembro de 2026",
    "Fiocruz e MPRJ inauguram espaço voltado à garantia dos direitos das mulheres e ao acesso à Justiça",
-   "Fiocruz forma 864 jovens defensores populares em cinco estados e no DF",
-   "Web Roda da IdeiaSUS Fiocruz aborda saúde mental na contemporaneidade"
+   "Fiocruz forma 864 jovens defensores populares em cinco estados e no DF"
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-11-13T16:20:44+00:00",
+  "em": "2026-11-13T22:36:38+00:00",
   "lidos": 10,
-  "novos": 4,
+  "novos": 0,
   "exemplos": [
    "Campanha reforça importância da presença de médico intensivista em UTI",
    "Psicóloga diz que proibição de bets é um começo, mas insuficiente",
@@ -130,29 +130,29 @@
   ]
  },
  "ses-go": {
-  "em": "2026-11-13T16:20:44+00:00",
+  "em": "2026-11-13T22:36:38+00:00",
   "lidos": 10,
-  "novos": 3,
+  "novos": 7,
   "exemplos": [
-   "Subsecretária de Políticas e Ações em Saúde",
-   "Superintendente de Planejamento",
-   "Saúde orienta atualização da vacina contra o sarampo para fiéis e viajantes com destino ao Peru"
+   "Residentes do Crer apresentam 23 trabalhos científicos com foco em inovação no SUS e qualificação do cuidado",
+   "Infectologista do HDS alerta sobre cuidados necessários com idosos diante da tendência de aumento nos casos de síndromes",
+   "Superintendente de Vigilância Sanitária, Ambiental e Saúde do Trabalhador"
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-11-13T16:20:44+00:00",
+  "em": "2026-11-13T22:36:38+00:00",
   "lidos": 10,
-  "novos": 2,
+  "novos": 3,
   "exemplos": [
-   "SC: campanha reúne doações para indígenas atingidos por tempestades",
-   "PF trabalha em sistema para aprimorar busca por pessoas desaparecidas",
-   "Tesouro Nacional identifica vazamento de dados de 30 mil cadastros"
+   "Milton Leite se torna réu por suspeita de ligação com o PCC",
+   "INSS: mutirão oferece 7,9 mil vagas em 8 estados neste fim de semana",
+   "Salto: fábrica de solventes no interior de SP é atingida por incêndio"
   ]
  },
  "g1-busca": {
-  "em": "2026-11-13T16:20:44+00:00",
-  "lidos": 462,
-  "novos": 0,
+  "em": "2026-11-13T22:36:38+00:00",
+  "lidos": 438,
+  "novos": 2,
   "exemplos": [
    "Instituto Federal investiga uso de IA em caso suspeito de racismo contra aluna no interior de SP",
    "Mobilização nacional busca casos suspeitos de sarampo",
@@ -160,29 +160,29 @@
   ]
  },
  "metropoles-busca": {
-  "em": "2026-11-13T16:20:44+00:00",
-  "lidos": 57,
-  "novos": 1,
+  "em": "2026-11-13T22:36:38+00:00",
+  "lidos": 58,
+  "novos": 0,
   "exemplos": [
    "Casos de Covid-19 crescem em BH e poder público recomenda vacinação",
-   "Ministério da Saúde envia ao DF 100 doses de vacina contra mpox",
-   "Vinho de patauá contaminado provoca surto de Chagas e deixa 1 morto no Pará"
+   "Vinho de patauá contaminado provoca surto de Chagas e deixa 1 morto no Pará",
+   "Mpox: DF confirma 44 casos e registra aumento de 91% em uma semana"
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-11-13T16:20:44+00:00",
+  "em": "2026-11-13T22:36:38+00:00",
   "lidos": 26,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
+   "Transtorno do pânico atinge 1% da população, diz médico a Kalil",
    "Anvisa proíbe propaganda de cogumelos e produtos à base de cannabis",
-   "Capacidade cognitiva afeta relações de mulheres no trabalho, aponta estudo",
-   "Tosse e falta de ar frequentes podem indicar asma ou pneumonia; entenda"
+   "Capacidade cognitiva afeta relações de mulheres no trabalho, aponta estudo"
   ]
  },
  "cnn-saude": {
-  "em": "2026-11-13T16:20:44+00:00",
-  "lidos": 24,
-  "novos": 1,
+  "em": "2026-11-13T22:36:38+00:00",
+  "lidos": 23,
+  "novos": 0,
   "exemplos": [
    "The US has had the tools to control measles for almost 65 years. Here’s how it’s come raging back",
    "CDC chief says agency will not change measles response if US loses elimination status",
@@ -190,27 +190,27 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-11-13T16:20:44+00:00",
-  "lidos": 32,
-  "novos": 1,
+  "em": "2026-11-13T22:36:38+00:00",
+  "lidos": 33,
+  "novos": 0,
   "exemplos": [
+   "Timeline: How the US wrangled the deadly measles virus and how it has come raging back",
    "CDC chief says agency will not change measles response if US loses elimination status",
-   "First snow, coldest air in months headed for eastern US in wake of storm",
-   "Top Democrat will investigate whether RFK Jr. lied to Congress"
+   "First snow, coldest air in months headed for eastern US in wake of storm"
   ]
  },
  "inmet": {
-  "em": "2026-11-13T16:20:44+00:00",
+  "em": "2026-11-13T22:36:38+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 2,
   "exemplos": [
-   "INMET participa de simpósio internacional sobre tempestades severas em São Paulo",
-   "INMET participa de capacitação internacional sobre radares meteorológicos na Guatemala",
-   "INMET participa de capacitação internacional sobre inteligência artificial aplicada à meteorologia"
+   "INMET participa de encontro internacional sobre calor extremo e saúde na Bolívia",
+   "El Niño deve perder força a partir do início de 2027 e chegar ao fim no outono",
+   "Previsão para sábado (14), domingo (15) e segunda-feira (16)"
   ]
  },
  "cemaden": {
-  "em": "2026-11-13T16:20:44+00:00",
+  "em": "2026-11-13T22:36:38+00:00",
   "lidos": 8,
   "novos": 0,
   "exemplos": [
@@ -220,23 +220,23 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-11-13T16:20:44+00:00",
-  "lidos": 27,
-  "novos": 0,
+  "em": "2026-11-13T22:36:38+00:00",
+  "lidos": 24,
+  "novos": 1,
   "exemplos": [
    "MIDR esclarece que kit de emergência é medida preventiva e não tem relação com alerta nacional",
-   "GDF intensifica ações integradas de prevenção e resposta a emergências durante o período chuvoso",
-   "Inmet participa de coletiva sobre o período chuvoso e os efeitos do El Niño no DF"
+   "Inmet participa de coletiva sobre o período chuvoso e os efeitos do El Niño no DF",
+   "Quedas do Iguaçu, no Paraná, vai receber R$ 238 mil para ações de resposta"
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-11-13T16:20:44+00:00",
+  "em": "2026-11-13T22:36:38+00:00",
   "lidos": 20,
-  "novos": 13,
+  "novos": 11,
   "exemplos": [
-   "Redução de velocidade e semáforos no Eixão dividem opiniões",
+   "PIB do DF alcança R$ 382 bilhões e garante o maior valor per capita do país",
    "Foragido com extensa ficha criminal e mandado em aberto é preso em Ceilândia",
-   "Comércio do DF dispara 9,7% e mantém forte trajetória de alta nas vendas"
+   "A cidade do Outlet faz 68 anos com turismo náutico e indústria"
   ]
  }
 }
