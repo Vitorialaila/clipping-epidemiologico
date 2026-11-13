@@ -1,5 +1,25 @@
 [
  {
+  "t": "Parada cardíaca por doença de Chagas levou à morte de passageira em voo que saiu de Brasília para Porto Velho",
+  "u": "https://g1.globo.com/ro/rondonia/noticia/2026/11/13/causa-da-morte-de-passageira-em-voo-que-saiu-de-brasilia-para-porto-velho.ghtml",
+  "d": "2026-11-13",
+  "df": "13 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "DF",
+  "a": [
+   "Doença de Chagas aguda"
+  ],
+  "p": 11.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "mosquito",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "alerta"
+ },
+ {
   "t": "Surto de Doença de Chagas: sobe para oito o número de casos confirmados em Óbidos",
   "u": "https://g1.globo.com/pa/santarem-regiao/videos-jornal-tapajos-2-edicao/video/surto-de-doenca-de-chagas-sobe-para-oito-o-numero-de-casos-confirmados-em-obidos-15181105.ghtml",
   "d": "2026-11-12",
@@ -56,6 +76,25 @@
    "Distrito Federal"
   ],
   "c": "alerta"
+ },
+ {
+  "t": "El Niño acende alerta para aumento de casos de dengue no verão",
+  "u": "https://g1.globo.com/google/amp/sc/santa-catarina/videos-nsc-noticias/video/el-nino-acende-alerta-para-aumento-de-casos-de-dengue-no-verao-15183587.ghtml",
+  "d": "2026-11-12",
+  "df": "12 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima",
+   "Dengue"
+  ],
+  "p": 11.0,
+  "se": "2026-45",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "DF está sob aviso amarelo para tempestades nesta quinta-feira (12/11)",
@@ -239,6 +278,24 @@
   "i": "respiratorio",
   "m": [],
   "c": "alerta"
+ },
+ {
+  "t": "Casos graves de Covid-19 dão sinal de crescimento no Brasil, aponta Fiocruz",
+  "u": "https://www.cnnbrasil.com.br/saude/casos-graves-de-covid-19-dao-sinal-de-crescimento-no-brasil-aponta-fiocruz/",
+  "d": "2026-11-12",
+  "df": "12 nov 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 7.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "This winter, it’s polar vortex versus El Niño. Round one starts now",
@@ -7146,6 +7203,24 @@
   "c": "atencao"
  },
  {
+  "t": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo",
+  "u": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON619",
+  "d": "2026-10-08",
+  "df": "08 out 2026",
+  "f": "OMS",
+  "fn": "OMS | Disease Outbreak News",
+  "e": "Internacional",
+  "a": [
+   "Doença pelo vírus Ebola"
+  ],
+  "p": 14.5,
+  "se": "2026-40",
+  "r": "On 5 October 2026, WHO was informed about a laboratory-confirmed imported case of Bundibugyo virus disease (BVD) in Kenya with travel history from the Democratic Republic of the Congo. The patient travelled from the Democratic Republic of the Congo to Kenya…",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "InfoGripe alerta para a importância da vacinação contra Covid-19 e VSR",
   "u": "https://agencia.fiocruz.br/infogripe-alerta-para-importancia-da-vacinacao-contra-covid-19-e-vsr",
   "d": "2026-10-08",
@@ -7665,44 +7740,5 @@
   "i": "virus",
   "m": [],
   "c": "alerta"
- },
- {
-  "t": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo",
-  "u": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON615",
-  "d": "2026-08-14",
-  "df": "14 ago 2026",
-  "f": "OMS",
-  "fn": "OMS | Disease Outbreak News",
-  "e": "Internacional",
-  "a": [
-   "Doença pelo vírus Ebola",
-   "Emergências e desastres"
-  ],
-  "p": 15.0,
-  "se": "2026-32",
-  "r": "The Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo is in a phase of intense transmission. It is the largest Ebola outbreak ever reported in the country and expanding faster than any previous Ebola outbreak. The epidemic is…",
-  "i": "virus",
-  "m": [],
-  "c": "alerta"
- },
- {
-  "t": "Communicable disease threats report, 8 - 14 August 2026, week 33",
-  "u": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-8-14-august-2026-week-33",
-  "d": "2026-08-14",
-  "df": "14 ago 2026",
-  "f": "ECDC",
-  "fn": "ECDC | Communicable Disease Threats Report",
-  "e": "Internacional",
-  "a": [
-   "Mpox",
-   "Febres hemorrágicas virais",
-   "Doença pelo vírus Ebola"
-  ],
-  "p": 6.0,
-  "se": "2026-32",
-  "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 8 - 14 August 2026, and includes updates on Ebola, chikungunya, dengue, West Nile Virus infection, Crimean-Congo haemorrhagic fever, Vibrio, respiratory virus epidemiology in…",
-  "i": "virus",
-  "m": [],
-  "c": "atencao"
  }
 ]

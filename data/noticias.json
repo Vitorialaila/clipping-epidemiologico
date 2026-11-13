@@ -1,5 +1,30 @@
 [
  {
+  "id": "b545d3db44a028",
+  "titulo": "Parada cardíaca por doença de Chagas levou à morte de passageira em voo que saiu de Brasília para Porto Velho",
+  "url": "https://g1.globo.com/ro/rondonia/noticia/2026/11/13/causa-da-morte-de-passageira-em-voo-que-saiu-de-brasilia-para-porto-velho.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-13",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-13T07:55:44+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 11.5,
+  "agravos": [
+   "Doença de Chagas aguda"
+  ],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "Doença de Chagas aguda (notificação imediata) · morte · DF e RIDE"
+ },
+ {
   "id": "aff19405939594",
   "titulo": "Surto de Doença de Chagas: sobe para oito o número de casos confirmados em Óbidos",
   "url": "https://g1.globo.com/pa/santarem-regiao/videos-jornal-tapajos-2-edicao/video/surto-de-doenca-de-chagas-sobe-para-oito-o-numero-de-casos-confirmados-em-obidos-15181105.ghtml",
@@ -79,6 +104,33 @@
   ],
   "categoria": "alerta",
   "motivo": "COVID-19 (notificação imediata) · Alta de casos · DF e RIDE"
+ },
+ {
+  "id": "b0051282d9c237",
+  "titulo": "El Niño acende alerta para aumento de casos de dengue no verão",
+  "url": "https://g1.globo.com/google/amp/sc/santa-catarina/videos-nsc-noticias/video/el-nino-acende-alerta-para-aumento-de-casos-de-dengue-no-verao-15183587.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-12",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-13T07:55:44+00:00",
+  "municipios": [],
+  "pontuacao": 11.0,
+  "agravos": [
+   "Saúde ambiental e clima",
+   "Dengue"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alerta para",
+   "aumento de casos"
+  ],
+  "categoria": "atencao",
+  "motivo": "Dengue (notificação semanal) · aumento de casos · Brasil"
  },
  {
   "id": "fdf21d8bc81c4c",
@@ -320,6 +372,29 @@
   "termos_evento": [],
   "categoria": "alerta",
   "motivo": "COVID-19 (notificação imediata) · Casos de Covid-19 · Brasil"
+ },
+ {
+  "id": "61d329aaf3dbd9",
+  "titulo": "Casos graves de Covid-19 dão sinal de crescimento no Brasil, aponta Fiocruz",
+  "url": "https://www.cnnbrasil.com.br/saude/casos-graves-de-covid-19-dao-sinal-de-crescimento-no-brasil-aponta-fiocruz/",
+  "fonte_id": "cnn-brasil-saude",
+  "fonte": "CNN Brasil | Saúde",
+  "sigla": "CNN Brasil",
+  "idioma": "pt",
+  "data": "2026-11-12",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-13T07:55:44+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "COVID-19"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": "COVID-19 (notificação imediata) · sem ocorrência relatada no título · Brasil"
  },
  {
   "id": "32389efda559d3",
@@ -1368,6 +1443,144 @@
   "se": "2026-45",
   "descricao": "",
   "coletado_em": "2026-11-13T00:20:23+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "951ac6af18d372",
+  "titulo": "PMDF prende foragido por tráfico e apreende drogas no Gama",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7537932-pmdf-prende-foragido-por-trafico-e-apreende-drogas-no-gama.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-12",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-13T07:55:44+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "df9bf8401d77ec",
+  "titulo": "Homem é preso após esfaquear segurança do metrô na Rodoviária",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7537914-homem-e-preso-apos-esfaquear-seguranca-do-metro-na-rodoviaria.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-12",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-13T07:55:44+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "9c17a10d4460d5",
+  "titulo": "Eixão no DF: opções de lazer e passeios gratuitos no fim de semana",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7537920-eixao-no-df-opcoes-de-lazer-e-passeios-gratuitos-no-fim-de-semana.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-12",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-13T07:55:44+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "c2ea2943985ede",
+  "titulo": "Adolescente é apreendido com arma de fogo e drogas no Gama",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7537904-adolescente-e-apreendido-com-arma-de-fogo-e-drogas-no-gama.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-12",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-13T07:55:44+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "f8d125d5944c0c",
+  "titulo": "Oitavo saidão do ano beneficiará 1,4 mil detentos neste fim de semana",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7537877-oitavo-saidao-do-ano-beneficiara-14-mil-detentos-neste-fim-de-semana.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-12",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-13T07:55:44+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "d07e726ff349e3",
+  "titulo": "Polícia procura investigado por série de furtos na Asa Norte e no Noroeste",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7537852-policia-procura-investigado-por-serie-de-furtos-na-asa-norte-e-no-noroeste.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-12",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-13T07:55:44+00:00",
   "municipios": [
    "Distrito Federal"
   ],
