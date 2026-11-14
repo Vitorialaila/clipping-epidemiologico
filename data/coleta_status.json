@@ -1,18 +1,18 @@
 {
  "oms-don": {
-  "em": "2026-11-14T03:12:34+00:00",
+  "em": "2026-11-14T10:23:03+00:00",
   "lidos": 30,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "Middle East respiratory syndrome (MERS) – Qatar",
    "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo, Kenya and Nigeria",
-   "Yellow fever - WHO African Region",
-   "Shamonda virus in human - France"
+   "Yellow fever - WHO African Region"
   ]
  },
  "oms-noticias": {
-  "em": "2026-11-14T03:12:34+00:00",
+  "em": "2026-11-14T10:23:03+00:00",
   "lidos": 40,
-  "novos": 4,
+  "novos": 0,
   "exemplos": [
    "Put health in the treaty”: youth delegates at the Global Model WHO 2026 adopt declaration on plastics and health",
    "Member States reiterate commitment to finalize Pandemic Agreement PABS Annex by May 2027",
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-11-14T03:12:34+00:00",
+  "em": "2026-11-14T10:23:03+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-11-14T03:12:34+00:00",
+  "em": "2026-11-14T10:23:03+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-11-14T03:12:34+00:00",
+  "em": "2026-11-14T10:23:03+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-11-14T03:12:34+00:00",
+  "em": "2026-11-14T10:23:03+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-11-14T03:12:34+00:00",
+  "em": "2026-11-14T10:23:03+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-11-14T03:12:34+00:00",
+  "em": "2026-11-14T10:23:03+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-11-14T03:12:34+00:00",
+  "em": "2026-11-14T10:23:03+00:00",
   "lidos": 2352,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-11-14T03:12:34+00:00",
+  "em": "2026-11-14T10:23:03+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,9 +100,9 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-11-14T03:12:34+00:00",
+  "em": "2026-11-14T10:23:03+00:00",
   "lidos": 15,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Brasil fortalece cooperação internacional entre hospitais públicos universitários das Américas",
    "Unidade básica de saúde com tecnologia sustentável beneficia indígenas no Pará",
@@ -110,7 +110,7 @@
   ]
  },
  "fiocruz": {
-  "em": "2026-11-14T03:12:34+00:00",
+  "em": "2026-11-14T10:23:03+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -120,7 +120,7 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-11-14T03:12:34+00:00",
+  "em": "2026-11-14T10:23:03+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -130,7 +130,7 @@
   ]
  },
  "ses-go": {
-  "em": "2026-11-14T03:12:34+00:00",
+  "em": "2026-11-14T10:23:03+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -140,7 +140,7 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-11-14T03:12:34+00:00",
+  "em": "2026-11-14T10:23:03+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -150,9 +150,9 @@
   ]
  },
  "g1-busca": {
-  "em": "2026-11-14T03:12:34+00:00",
-  "lidos": 476,
-  "novos": 0,
+  "em": "2026-11-14T10:23:03+00:00",
+  "lidos": 465,
+  "novos": 1,
   "exemplos": [
    "Instituto Federal investiga uso de IA em caso suspeito de racismo contra aluna no interior de SP",
    "Mobilização nacional busca casos suspeitos de sarampo",
@@ -160,9 +160,9 @@
   ]
  },
  "metropoles-busca": {
-  "em": "2026-11-14T03:12:34+00:00",
-  "lidos": 59,
-  "novos": 0,
+  "em": "2026-11-14T10:23:03+00:00",
+  "lidos": 62,
+  "novos": 2,
   "exemplos": [
    "Casos de Covid-19 crescem em BH e poder público recomenda vacinação",
    "Vinho de patauá contaminado provoca surto de Chagas e deixa 1 morto no Pará",
@@ -170,19 +170,19 @@
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-11-14T03:12:34+00:00",
+  "em": "2026-11-14T10:23:03+00:00",
   "lidos": 26,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
-   "Vinagre e detergente não desinfetam alimentos e podem trazer riscos à saúde",
-   "Mpox: nova variante que circula pelo Brasil já causou surto na África",
-   "Transtorno do pânico atinge 1% da população, diz médico a Kalil"
+   "Crise de pânico significa transtorno? Dr. Kalil e especialistas explicam",
+   "Diabetes começa mais cedo: por que o pré-diabetes exige atenção?",
+   "Até 2050, Brasil pode ter aumento de 44% no número de adultos com diabetes"
   ]
  },
  "cnn-saude": {
-  "em": "2026-11-14T03:12:34+00:00",
+  "em": "2026-11-14T10:23:03+00:00",
   "lidos": 23,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "After 26 years, the US has lost its measles elimination status",
    "The US has had the tools to control measles for almost 65 years. Here’s how it’s come raging back",
@@ -190,9 +190,9 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-11-14T03:12:34+00:00",
-  "lidos": 38,
-  "novos": 3,
+  "em": "2026-11-14T10:23:03+00:00",
+  "lidos": 97,
+  "novos": 0,
   "exemplos": [
    "After 26 years, the US has lost its measles elimination status",
    "Timeline: How the US wrangled the deadly measles virus and how it has come raging back",
@@ -200,7 +200,7 @@
   ]
  },
  "inmet": {
-  "em": "2026-11-14T03:12:34+00:00",
+  "em": "2026-11-14T10:23:03+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -210,7 +210,7 @@
   ]
  },
  "cemaden": {
-  "em": "2026-11-14T03:12:34+00:00",
+  "em": "2026-11-14T10:23:03+00:00",
   "lidos": 8,
   "novos": 0,
   "exemplos": [
@@ -220,9 +220,9 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-11-14T03:12:34+00:00",
-  "lidos": 26,
-  "novos": 0,
+  "em": "2026-11-14T10:23:03+00:00",
+  "lidos": 27,
+  "novos": 1,
   "exemplos": [
    "MIDR esclarece que kit de emergência é medida preventiva e não tem relação com alerta nacional",
    "Inmet participa de coletiva sobre o período chuvoso e os efeitos do El Niño no DF",
@@ -230,13 +230,13 @@
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-11-14T03:12:34+00:00",
+  "em": "2026-11-14T10:23:03+00:00",
   "lidos": 20,
-  "novos": 3,
+  "novos": 7,
   "exemplos": [
    "Morre Luiz Andre Barbosa Minuzzi, Tenente-coronel do Exército, aos 45 anos",
-   "PIB do DF alcança R$ 382 bilhões e garante o maior valor per capita do país",
-   "Rappers do DF receberão homenagem na IV Semana Distrital do Hip Hop"
+   "A cidade do Outlet faz 68 anos com turismo náutico e indústria",
+   "Pedestres relatam abandono e insegurança nas passagens do Eixão"
   ]
  }
 }

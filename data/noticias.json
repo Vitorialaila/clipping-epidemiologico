@@ -1,5 +1,55 @@
 [
  {
+  "id": "07b2d04343dee9",
+  "titulo": "Em Brasília, 37% dos pacientes infectados por mpox vivem com HIV",
+  "url": "https://www.metropoles.com/distrito-federal/em-brasilia-37-pacientes-infectados-por-mpox-vivem-com-hiv",
+  "fonte_id": "metropoles-busca",
+  "fonte": "Metrópoles",
+  "sigla": "Metrópoles",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-14T10:23:03+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 13.0,
+  "agravos": [
+   "Mpox",
+   "HIV/aids e IST"
+  ],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "Mpox (notificação imediata) · infectados · DF e RIDE"
+ },
+ {
+  "id": "702cd261e3b9c9",
+  "titulo": "El Niño obriga MG a intensificar ações contra dengue após 65 mil casos",
+  "url": "https://www.metropoles.com/minas-gerais/el-nino-obriga-mg-a-intensificar-acoes-contra-dengue-apos-65-mil-casos",
+  "fonte_id": "metropoles-busca",
+  "fonte": "Metrópoles",
+  "sigla": "Metrópoles",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-14T10:23:03+00:00",
+  "municipios": [],
+  "pontuacao": 8.0,
+  "agravos": [
+   "Saúde ambiental e clima",
+   "Dengue"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "atencao",
+  "motivo": "Dengue (notificação semanal) · 65 mil casos · Brasil"
+ },
+ {
   "id": "b4ad0a8208fb30",
   "titulo": "After 26 years, the US has lost its measles elimination status",
   "url": "https://www.cnn.com/2026/11/13/health/us-measles-elimination-status",
@@ -46,6 +96,167 @@
   "motivo": "Sarampo (notificação imediata) · sem ocorrência relatada no título · internacional"
  },
  {
+  "id": "f04040f8aaed96",
+  "titulo": "Pedestres relatam abandono e insegurança nas passagens do Eixão",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538044-pedestres-relatam-abandono-e-inseguranca-nas-passagens-do-eixao.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-14T10:23:03+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "3dfea2169e3623",
+  "titulo": "Alunos viram professores e ensinam sobre árvores em praça da Asa Norte",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538078-alunos-viram-professores-e-ensinam-sobre-arvores-em-praca-da-asa-norte.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-14T10:23:03+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "ba0ec07becfad5",
+  "titulo": "Simas: cultura popular é resistência às mazelas sociais do Brasil",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538465-simas-cultura-popular-e-resistencia-as-mazelas-sociais-do-brasil.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-14T10:23:03+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "ba994da608f083",
+  "titulo": "Prêmio JK Correio Braziliense terá apresentação da Orquestra Sinfônica",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538492-premio-jk-correio-braziliense-tera-apresentacao-da-orquestra-sinfonica.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-14T10:23:03+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "70e8d396c6221e",
+  "titulo": "OAB-DF pede participação em ação que reduziu velocidade do Eixão",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538518-oab-df-pede-participacao-em-acao-que-reduziu-velocidade-do-eixao.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-14T10:23:03+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "a710577522a68f",
+  "titulo": "Corpo do militar Luiz Andre Minuzzi será velado hoje (14/11) em Brasília",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538566-corpo-do-militar-luiz-andre-minuzzi-sera-velado-hoje-14-11-em-brasilia.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-14T10:23:03+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "66e95cb7de30ec",
+  "titulo": "Vídeo: Ventania derruba postes na BR-060; trânsito fica congestionado",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538606-video-ventania-derruba-postes-na-br-060-transito-fica-congestionado.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-14T10:23:03+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
   "id": "68dd67ac8ac5bd",
   "titulo": "Casos de mpox ultrapassam mil em 2026 e se concentram em seis estados",
   "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/casos-de-mpox-ultrapassam-mil-em-2026-e-se-concentram-em-seis-estados",
@@ -74,6 +285,33 @@
   ],
   "categoria": "alerta",
   "motivo": "Mpox (notificação imediata) · Casos de mpox · DF e RIDE"
+ },
+ {
+  "id": "e40c6a90260969",
+  "titulo": "Middle East respiratory syndrome (MERS) – Qatar",
+  "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON626",
+  "fonte_id": "oms-don",
+  "fonte": "OMS | Disease Outbreak News",
+  "sigla": "OMS",
+  "idioma": "en",
+  "data": "2026-11-13",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "On 29 October 2026, the National International Health Regulations (IHR) Focal Point of the State of Qatar notified the World Health Organization (WHO) of two laboratory-confirmed cases of Middle East respiratory syndrome (MERS). The cases were confirmed on 5 and 25 August 2026 and are the first MERS cases reported from Qatar since 2022. MERS is a viral zoonotic infection, principally transmitted to humans through direct or indirect contact with infected dromedary camels. Both patients were men aged over 50 years with underlying medical conditions and occupational exposure to dromedary camels. Both were hospitalized and subsequently discharged in a stable condition. A total of 99 contacts from both cases were identified, tested, and monitored for 14 days following their last exposure. All contacts tested negative for MERS-CoV, and no secondary cases were identified. The two cases reported exposure to dromedary camels at geographically separate farms, with no epidemiological link identified between them. The cases appear to represent sporadic infections associated with zoonotic transmission from dromedary camels rather than human-to-human transmission. On 29 October 2026, the National IHR Focal Point of Qatar notified WHO of two laboratory-confirmed cases of Middle East respiratory syndrome (MERS). The cases were confirmed on 5 and 25 August 2026. These are the first MERS-CoV cases reported by the State of Qatar since 2022. The first case was a man aged over 50 years who…",
+  "coletado_em": "2026-11-14T10:23:03+00:00",
+  "municipios": [],
+  "pontuacao": 14.0,
+  "agravos": [
+   "Síndrome respiratória e coronavírus emergentes",
+   "Saúde Única: zoonoses e eventos em animais"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [
+   "international health regulations",
+   "first case"
+  ],
+  "categoria": "alerta",
+  "motivo": "comunicado oficial de alerta · Síndrome respiratória e coronavírus emergentes (notificação imediata) · internacional"
  },
  {
   "id": "8fb3b1438efeac",
@@ -3695,6 +3933,52 @@
   "termos_evento": [],
   "categoria": "alerta",
   "motivo": "COVID-19 (notificação imediata) · Casos de Covid · Brasil"
+ },
+ {
+  "id": "145add36b0fbe3",
+  "titulo": "Prefeitura articula apoio federal para enfrentar queimadas e estiagem em Santarém",
+  "url": "https://santarem.pa.gov.br/noticias/governo-e-administracao/prefeitura-articula-apoio-federal-para-enfrentamento-a-crise-climatica-em-santarem-3w8q5v?v=2",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Prefeitura de Santarém",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-11-11",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-14T10:23:03+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · Brasil"
+ },
+ {
+  "id": "b258314c3e9f9d",
+  "titulo": "Corguinho registra 19 casos de leishmaniose humana e prepara força-tarefa em zona rural",
+  "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/11/corguinho-registra-19-casos-de-leishmaniose-humana-e-intensifica-acoes-de-combate-na-zona-rural.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-11",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-14T10:23:03+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Leishmanioses"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "atencao",
+  "motivo": "Leishmanioses (notificação semanal) · 19 casos · Brasil"
  },
  {
   "id": "764da9aaf52912",
