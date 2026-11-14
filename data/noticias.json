@@ -26,6 +26,103 @@
   "motivo": "Mpox (notificação imediata) · infectados · DF e RIDE"
  },
  {
+  "id": "44e7bf38fa7907",
+  "titulo": "Defesa Civil de Palmas alerta para risco de desabamento em imóveis atingidos por incêndio na Capital",
+  "url": "https://www.palmas.to.gov.br/core/noticias/defesa-civil-alerta-para-risco-de-desabamento-em-imoveis-atingidos-por-incendio-em-palmas/",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Prefeitura de Palmas",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-14T17:05:27+00:00",
+  "municipios": [],
+  "pontuacao": 13.0,
+  "agravos": [
+   "Emergências e desastres"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "desabamento",
+   "alerta para"
+  ],
+  "categoria": "monitoramento",
+  "motivo": "Emergências e desastres · aviso, previsão ou sem impacto relatado · Brasil"
+ },
+ {
+  "id": "201561dbaa140e",
+  "titulo": "Surto de sarna humana no Sul de Minas: o que é a doença, quais os sintomas, como tratar e prevenir",
+  "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/14/surto-de-sarna-humana-no-sul-de-minas-o-que-e-a-doenca-quais-os-sintomas-como-tratar-e-prevenir.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-14T17:05:27+00:00",
+  "municipios": [],
+  "pontuacao": 10.0,
+  "agravos": [
+   "Escabiose"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "surto"
+  ],
+  "categoria": "atencao",
+  "motivo": "Escabiose · Surto · Brasil"
+ },
+ {
+  "id": "793f3b68f3dadb",
+  "titulo": "Mpox avança em outubro e novembro, e Brasil chega a 1.055 casos com 1 morte",
+  "url": "https://www.metropoles.com/saude/mpox-avanca-em-outubro-e-novembro-e-brasil-chega-a-1-055-casos-com-1-morte",
+  "fonte_id": "metropoles-busca",
+  "fonte": "Metrópoles",
+  "sigla": "Metrópoles",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-14T17:05:27+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Mpox"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "Mpox (notificação imediata) · avança · Brasil"
+ },
+ {
+  "id": "3f33cad11a8001",
+  "titulo": "Rio de Janeiro confirma primeira morte por Mpox em 2026",
+  "url": "https://www.cnnbrasil.com.br/saude/rio-de-janeiro-confirma-primeira-morte-por-mpox-em-2026/",
+  "fonte_id": "cnn-brasil-saude",
+  "fonte": "CNN Brasil | Saúde",
+  "sigla": "CNN Brasil",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-14T17:05:27+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Mpox"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "Mpox (notificação imediata) · confirma · Brasil"
+ },
+ {
   "id": "702cd261e3b9c9",
   "titulo": "El Niño obriga MG a intensificar ações contra dengue após 65 mil casos",
   "url": "https://www.metropoles.com/minas-gerais/el-nino-obriga-mg-a-intensificar-acoes-contra-dengue-apos-65-mil-casos",
@@ -48,6 +145,52 @@
   "termos_evento": [],
   "categoria": "atencao",
   "motivo": "Dengue (notificação semanal) · 65 mil casos · Brasil"
+ },
+ {
+  "id": "7184e613413326",
+  "titulo": "Casos de Covid-19 sobem no Brasil: já tomei a vacina, preciso tomar de novo? Veja a cada quanto tempo",
+  "url": "https://g1.globo.com/saude/noticia/2026/11/14/casos-de-covid-19-sobem-no-brasil-ja-tomei-a-vacina-preciso-tomar-de-novo-veja-a-cada-quanto-tempo.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-14T17:05:27+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "COVID-19"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "COVID-19 (notificação imediata) · Casos de Covid-19 · Brasil"
+ },
+ {
+  "id": "e782457b1af771",
+  "titulo": "Dengue avança em Imperatriz e focos com larvas surgem em prédios públicos",
+  "url": "https://g1.globo.com/ma/maranhao/videos-jmtv-1-edicao/video/dengue-avanca-em-imperatriz-e-focos-com-larvas-surgem-em-predios-publicos-15188238.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-14T17:05:27+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Dengue"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "atencao",
+  "motivo": "Dengue (notificação semanal) · avança · Brasil"
  },
  {
   "id": "b4ad0a8208fb30",
@@ -246,6 +389,165 @@
   "se": "2026-45",
   "descricao": "",
   "coletado_em": "2026-11-14T10:23:03+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "600db9cdf73ba7",
+  "titulo": "IA pode transformar país em celeiro de aplicações tecnológicas",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/porto-digital-com-ia-brasil-pode-se-tornar-celeiro-de-aplicacoes",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "A chegada da inteligência artificial pode abrir uma grande oportunidade para o Brasil se transformar em um grande celeiro de aplicações. Essa é a opinião de Pierre Lucena, presidente do Porto Digital, principal distrito de inovação da América Latina. A opinião é de Pierre Lucena, presidente do Porto Digital, principal distrito de inovação da América Latina, que promove, junto com o Sebrae, em Recife (PE), o festival Rec’n’Play.",
+  "coletado_em": "2026-11-14T17:05:27+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "f9205e1b492d30",
+  "titulo": "Mega-Sena sorteia prêmio de R$ 27 milhões neste domingo",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/mega-sena-sorteia-premio-de-r-27-milhoes-neste-domingo",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "A Mega-Sena sorteia neste domingo (15) prêmio estimado em R$ 27 milhões. As seis dezenas do concurso 3.086 serão sorteadas a partir das 11h (horário de Brasília) no Espaço da Sorte, em São Paulo. As apostas podem ser feitas até as 22h (horário de Brasília) de sábado (14), em qualquer lotérica do país ou pela internet, no site ou aplicativo da Caixa.",
+  "coletado_em": "2026-11-14T17:05:27+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "ec5b669fbdfa6c",
+  "titulo": "Carro capota após ser fechado e bate em poste na via Estádio",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538669-carro-capota-apos-ser-fechado-e-bate-em-poste-na-via-estadio.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-14T17:05:27+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "fb9a0c111a1b43",
+  "titulo": "Batida entre carro e caminhão deixa motorista ferido em Brazlândia",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538668-batida-entre-carro-e-caminhao-deixa-motorista-ferido-em-brazlandia.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-14T17:05:27+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "81684570e37c58",
+  "titulo": "Professor é preso por suspeita de importunação sexual em Ceilândia",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538662-professor-e-detido-por-suspeita-de-importunacao-sexual-em-ceilandia.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-14T17:05:27+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "1f7b7b657dbfa0",
+  "titulo": "No mês mais chuvoso do DF, sol aparece entre nuvens neste fim de semana",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538658-no-mes-mais-chuvoso-do-df-o-sol-aparece-entre-nuvens-neste-fim-de-semana.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-14T17:05:27+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "3dfd07d7935f2e",
+  "titulo": "Da arma à droga: PM desmantela esquemas clandestinos caseiros no DF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538643-tudo-caseiro-de-armas-a-drogas-esquemas-desmantelados-pela-pm.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-14T17:05:27+00:00",
   "municipios": [
    "Distrito Federal"
   ],
@@ -625,6 +927,29 @@
   "termos_evento": [],
   "categoria": "monitoramento",
   "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · Brasil"
+ },
+ {
+  "id": "bef961ce16e8e4",
+  "titulo": "Giro Saúde: Covid-19 no Brasil, recomendação de kit de emergência pela Defesa Civil e eleição de Drauzio Varella na ABL",
+  "url": "https://agencia.fiocruz.br/giro-saude-covid-19-no-brasil-recomendacao-de-kit-de-emergencia-pela-defesa-civil-e-eleicao-de",
+  "fonte_id": "fiocruz",
+  "fonte": "Agência Fiocruz de Notícias",
+  "sigla": "Fiocruz",
+  "idioma": "pt",
+  "data": "2026-11-13",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "Giro Saúde: Covid-19 no Brasil, recomendação de kit de emergência pela Defesa Civil e eleição de Drauzio Varella na ABL O novo episódio do Giro Saúde aborda o aumento no número de casos de Covid-19 no Brasil, a publicação da Defesa Civil recomendando kit de emergência que gerou uma onda de desinformação e a eleição do médico Drauzio Varella pra Academia Brasileira de Letras. Dentre os destaques do Ministério da Saúde (MS), estão o Novembro Azul e o Dia Nacional de Prevenção e Combate à Surdez. Já a Agência Fiocruz de Notícias (AFN) chama atenção para a Avaliação de Resultados do Programa Cozinha Solidária e para o lançamento da Campanha Laço Branco da Fiocruz. Ficha técnica: Roteiro e apresentação : Anna Cecília Prestes e Natalie Kruschewsky; Edição : Natalie Kruschewsky; Coordenação do Canal Saúde Podcasts : Gustavo Audi; Arte da capa : Marcelo Viana; Foto : Adrian Vieriu/Pexels. O podcast Giro Saúde é uma produção do Canal Saúde da Fiocruz, em parceria com a AFN e o MS.",
+  "coletado_em": "2026-11-14T17:05:27+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "COVID-19"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": "COVID-19 (notificação imediata) · sem ocorrência relatada no título · Brasil"
  },
  {
   "id": "d1bc15a0efc2db",
@@ -9198,6 +9523,31 @@
   "se": "2026-45",
   "descricao": "",
   "coletado_em": "2026-11-08T16:43:18+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alerta para"
+  ],
+  "categoria": "monitoramento",
+  "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · Brasil"
+ },
+ {
+  "id": "0f49bdfa329e01",
+  "titulo": "Defesa Civil alerta para possibilidade de chuvas intensas e ventos fortes em Macaé neste domingo (8)",
+  "url": "https://macae.rj.gov.br/ordempublica/leitura/noticia/defesa-civil-alerta-para-possibilidade-de-chuvas-intensas-e-ventos-fortes-em-macae-neste-domingo-8",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Prefeitura Municipal de Macaé",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-11-08",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-14T17:05:27+00:00",
   "municipios": [],
   "pontuacao": 9.5,
   "agravos": [

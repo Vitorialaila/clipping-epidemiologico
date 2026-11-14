@@ -1,8 +1,8 @@
 {
  "oms-don": {
-  "em": "2026-11-14T10:23:03+00:00",
+  "em": "2026-11-14T17:05:27+00:00",
   "lidos": 30,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Middle East respiratory syndrome (MERS) – Qatar",
    "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo, Kenya and Nigeria",
@@ -10,7 +10,7 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-11-14T10:23:03+00:00",
+  "em": "2026-11-14T17:05:27+00:00",
   "lidos": 40,
   "novos": 0,
   "exemplos": [
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-11-14T10:23:03+00:00",
+  "em": "2026-11-14T17:05:27+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-11-14T10:23:03+00:00",
+  "em": "2026-11-14T17:05:27+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-11-14T10:23:03+00:00",
+  "em": "2026-11-14T17:05:27+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-11-14T10:23:03+00:00",
+  "em": "2026-11-14T17:05:27+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-11-14T10:23:03+00:00",
+  "em": "2026-11-14T17:05:27+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-11-14T10:23:03+00:00",
+  "em": "2026-11-14T17:05:27+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-11-14T10:23:03+00:00",
+  "em": "2026-11-14T17:05:27+00:00",
   "lidos": 2352,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-11-14T10:23:03+00:00",
+  "em": "2026-11-14T17:05:27+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,7 +100,7 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-11-14T10:23:03+00:00",
+  "em": "2026-11-14T17:05:27+00:00",
   "lidos": 15,
   "novos": 0,
   "exemplos": [
@@ -110,17 +110,17 @@
   ]
  },
  "fiocruz": {
-  "em": "2026-11-14T10:23:03+00:00",
+  "em": "2026-11-14T17:05:27+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
    "Nav. ed. pt Giro Saude 13 de novembro de 2026",
-   "Fiocruz e MPRJ inauguram espaço voltado à garantia dos direitos das mulheres e ao acesso à Justiça",
-   "Fiocruz forma 864 jovens defensores populares em cinco estados e no DF"
+   "Giro Saúde: Covid-19 no Brasil, recomendação de kit de emergência pela Defesa Civil e eleição de Drauzio Varella na ABL",
+   "Fiocruz e MPRJ inauguram espaço voltado à garantia dos direitos das mulheres e ao acesso à Justiça"
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-11-14T10:23:03+00:00",
+  "em": "2026-11-14T17:05:27+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -130,7 +130,7 @@
   ]
  },
  "ses-go": {
-  "em": "2026-11-14T10:23:03+00:00",
+  "em": "2026-11-14T17:05:27+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -140,47 +140,47 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-11-14T10:23:03+00:00",
+  "em": "2026-11-14T17:05:27+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 2,
   "exemplos": [
-   "Milton Leite se torna réu por suspeita de ligação com o PCC",
-   "INSS: mutirão oferece 7,9 mil vagas em 8 estados neste fim de semana",
-   "Salto: fábrica de solventes no interior de SP é atingida por incêndio"
+   "IA pode transformar país em celeiro de aplicações tecnológicas",
+   "Mega-Sena sorteia prêmio de R$ 27 milhões neste domingo",
+   "Milton Leite se torna réu por suspeita de ligação com o PCC"
   ]
  },
  "g1-busca": {
-  "em": "2026-11-14T10:23:03+00:00",
-  "lidos": 465,
-  "novos": 1,
+  "em": "2026-11-14T17:05:27+00:00",
+  "lidos": 451,
+  "novos": 3,
   "exemplos": [
-   "Instituto Federal investiga uso de IA em caso suspeito de racismo contra aluna no interior de SP",
-   "Mobilização nacional busca casos suspeitos de sarampo",
-   "BH registra maior percentual de testes positivos para Covid-19 do ano e reforça alerta para vacinação"
+   "Inscrições para a Chamada Escolar 2027 encerram nesta sexta (13) no Amapá; veja como fazer",
+   "Câmara de Itapeva aprova projeto que amplia transparência e fiscalização da água",
+   "Pontos de venda de açaí são fiscalizados no Ver-o-Peso para prevenir doença de Chagas, em Belém"
   ]
  },
  "metropoles-busca": {
-  "em": "2026-11-14T10:23:03+00:00",
+  "em": "2026-11-14T17:05:27+00:00",
   "lidos": 62,
-  "novos": 2,
+  "novos": 1,
   "exemplos": [
    "Casos de Covid-19 crescem em BH e poder público recomenda vacinação",
-   "Vinho de patauá contaminado provoca surto de Chagas e deixa 1 morto no Pará",
-   "Mpox: DF confirma 44 casos e registra aumento de 91% em uma semana"
+   "Mpox: DF confirma 44 casos e registra aumento de 91% em uma semana",
+   "Vinho de patauá contaminado provoca surto de Chagas e deixa 1 morto no Pará"
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-11-14T10:23:03+00:00",
+  "em": "2026-11-14T17:05:27+00:00",
   "lidos": 26,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "Rio de Janeiro confirma primeira morte por Mpox em 2026",
    "Crise de pânico significa transtorno? Dr. Kalil e especialistas explicam",
-   "Diabetes começa mais cedo: por que o pré-diabetes exige atenção?",
-   "Até 2050, Brasil pode ter aumento de 44% no número de adultos com diabetes"
+   "Diabetes começa mais cedo: por que o pré-diabetes exige atenção?"
   ]
  },
  "cnn-saude": {
-  "em": "2026-11-14T10:23:03+00:00",
+  "em": "2026-11-14T17:05:27+00:00",
   "lidos": 23,
   "novos": 0,
   "exemplos": [
@@ -190,8 +190,8 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-11-14T10:23:03+00:00",
-  "lidos": 97,
+  "em": "2026-11-14T17:05:27+00:00",
+  "lidos": 114,
   "novos": 0,
   "exemplos": [
    "After 26 years, the US has lost its measles elimination status",
@@ -200,7 +200,7 @@
   ]
  },
  "inmet": {
-  "em": "2026-11-14T10:23:03+00:00",
+  "em": "2026-11-14T17:05:27+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -210,7 +210,7 @@
   ]
  },
  "cemaden": {
-  "em": "2026-11-14T10:23:03+00:00",
+  "em": "2026-11-14T17:05:27+00:00",
   "lidos": 8,
   "novos": 0,
   "exemplos": [
@@ -220,9 +220,9 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-11-14T10:23:03+00:00",
-  "lidos": 27,
-  "novos": 1,
+  "em": "2026-11-14T17:05:27+00:00",
+  "lidos": 28,
+  "novos": 2,
   "exemplos": [
    "MIDR esclarece que kit de emergência é medida preventiva e não tem relação com alerta nacional",
    "Inmet participa de coletiva sobre o período chuvoso e os efeitos do El Niño no DF",
@@ -230,13 +230,13 @@
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-11-14T10:23:03+00:00",
+  "em": "2026-11-14T17:05:27+00:00",
   "lidos": 20,
-  "novos": 7,
+  "novos": 5,
   "exemplos": [
-   "Morre Luiz Andre Barbosa Minuzzi, Tenente-coronel do Exército, aos 45 anos",
-   "A cidade do Outlet faz 68 anos com turismo náutico e indústria",
-   "Pedestres relatam abandono e insegurança nas passagens do Eixão"
+   "Corpo do militar Luiz Andre Minuzzi será velado hoje (14/11) em Brasília",
+   "Pedestres relatam abandono e insegurança nas passagens do Eixão",
+   "Carro capota após ser fechado e bate em poste na via Estádio"
   ]
  }
 }

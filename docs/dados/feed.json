@@ -21,6 +21,78 @@
   "c": "alerta"
  },
  {
+  "t": "Defesa Civil de Palmas alerta para risco de desabamento em imóveis atingidos por incêndio na Capital",
+  "u": "https://www.palmas.to.gov.br/core/noticias/defesa-civil-alerta-para-risco-de-desabamento-em-imoveis-atingidos-por-incendio-em-palmas/",
+  "d": "2026-11-14",
+  "df": "14 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura de Palmas",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres"
+  ],
+  "p": 13.0,
+  "se": "2026-45",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Surto de sarna humana no Sul de Minas: o que é a doença, quais os sintomas, como tratar e prevenir",
+  "u": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/14/surto-de-sarna-humana-no-sul-de-minas-o-que-e-a-doenca-quais-os-sintomas-como-tratar-e-prevenir.ghtml",
+  "d": "2026-11-14",
+  "df": "14 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Escabiose"
+  ],
+  "p": 10.0,
+  "se": "2026-45",
+  "r": "",
+  "i": "saude",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Mpox avança em outubro e novembro, e Brasil chega a 1.055 casos com 1 morte",
+  "u": "https://www.metropoles.com/saude/mpox-avanca-em-outubro-e-novembro-e-brasil-chega-a-1-055-casos-com-1-morte",
+  "d": "2026-11-14",
+  "df": "14 nov 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Rio de Janeiro confirma primeira morte por Mpox em 2026",
+  "u": "https://www.cnnbrasil.com.br/saude/rio-de-janeiro-confirma-primeira-morte-por-mpox-em-2026/",
+  "d": "2026-11-14",
+  "df": "14 nov 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "El Niño obriga MG a intensificar ações contra dengue após 65 mil casos",
   "u": "https://www.metropoles.com/minas-gerais/el-nino-obriga-mg-a-intensificar-acoes-contra-dengue-apos-65-mil-casos",
   "d": "2026-11-14",
@@ -33,6 +105,42 @@
    "Dengue"
   ],
   "p": 8.0,
+  "se": "2026-45",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Casos de Covid-19 sobem no Brasil: já tomei a vacina, preciso tomar de novo? Veja a cada quanto tempo",
+  "u": "https://g1.globo.com/saude/noticia/2026/11/14/casos-de-covid-19-sobem-no-brasil-ja-tomei-a-vacina-preciso-tomar-de-novo-veja-a-cada-quanto-tempo.ghtml",
+  "d": "2026-11-14",
+  "df": "14 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 7.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Dengue avança em Imperatriz e focos com larvas surgem em prédios públicos",
+  "u": "https://g1.globo.com/ma/maranhao/videos-jmtv-1-edicao/video/dengue-avanca-em-imperatriz-e-focos-com-larvas-surgem-em-predios-publicos-15188238.ghtml",
+  "d": "2026-11-14",
+  "df": "14 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 7.5,
   "se": "2026-45",
   "r": "",
   "i": "mosquito",
@@ -350,6 +458,24 @@
   "se": "2026-45",
   "r": "",
   "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Giro Saúde: Covid-19 no Brasil, recomendação de kit de emergência pela Defesa Civil e eleição de Drauzio Varella na ABL",
+  "u": "https://agencia.fiocruz.br/giro-saude-covid-19-no-brasil-recomendacao-de-kit-de-emergencia-pela-defesa-civil-e-eleicao-de",
+  "d": "2026-11-13",
+  "df": "13 nov 2026",
+  "f": "Fiocruz",
+  "fn": "Agência Fiocruz de Notícias",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 7.5,
+  "se": "2026-45",
+  "r": "Giro Saúde: Covid-19 no Brasil, recomendação de kit de emergência pela Defesa Civil e eleição de Drauzio Varella na ABL O novo episódio do Giro Saúde aborda o aumento no número de casos de Covid-19 no Brasil, a publicação da Defesa Civil recomendando kit de…",
+  "i": "respiratorio",
   "m": [],
   "c": "monitoramento"
  },
