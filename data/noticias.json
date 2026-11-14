@@ -123,6 +123,29 @@
   "motivo": "Mpox (notificação imediata) · confirma · Brasil"
  },
  {
+  "id": "fb5b960f38d6ec",
+  "titulo": "Paulínia confirma primeira morte por febre maculosa em 2026",
+  "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/14/paulinia-confirma-primeira-morte-por-febre-maculosa-em-2026.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-14T21:28:27+00:00",
+  "municipios": [],
+  "pontuacao": 8.5,
+  "agravos": [
+   "Febre maculosa e riquetsioses"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "Febre maculosa e riquetsioses (notificação imediata) · confirma · Brasil"
+ },
+ {
   "id": "702cd261e3b9c9",
   "titulo": "El Niño obriga MG a intensificar ações contra dengue após 65 mil casos",
   "url": "https://www.metropoles.com/minas-gerais/el-nino-obriga-mg-a-intensificar-acoes-contra-dengue-apos-65-mil-casos",
@@ -548,6 +571,29 @@
   "se": "2026-45",
   "descricao": "",
   "coletado_em": "2026-11-14T17:05:27+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "aadc2255b31559",
+  "titulo": "Justiça do DF condena torcedores que mataram vascaíno dentro de ônibus",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538706-justica-do-df-condena-torcedores-que-mataram-vascaino-dentro-de-onibus.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-14T21:28:27+00:00",
   "municipios": [
    "Distrito Federal"
   ],
