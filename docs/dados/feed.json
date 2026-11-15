@@ -39,6 +39,24 @@
   "c": "monitoramento"
  },
  {
+  "t": "Rio tem alta nos casos de Mpox, mas registros ainda são menores do que no primeiro surto da doença no país",
+  "u": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/14/rio-lidera-casos-de-mpox-no-brasil.ghtml",
+  "d": "2026-11-14",
+  "df": "14 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 12.0,
+  "se": "2026-45",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Surto de sarna humana no Sul de Minas: o que é a doença, quais os sintomas, como tratar e prevenir",
   "u": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/14/surto-de-sarna-humana-no-sul-de-minas-o-que-e-a-doenca-quais-os-sintomas-como-tratar-e-prevenir.ghtml",
   "d": "2026-11-14",
@@ -91,6 +109,42 @@
   "i": "virus",
   "m": [],
   "c": "alerta"
+ },
+ {
+  "t": "Estado de SP lidera casos de Mpox no Brasil com 398 registros, aponta Ministério da Saúde",
+  "u": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/14/estado-de-sp-lidera-casos-de-mpox-no-brasil-com-398-registros-aponta-ministerio-da-saude.ghtml",
+  "d": "2026-11-14",
+  "df": "14 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Celina Leão mobiliza equipes do GDF após estragos de chuva em Ceilândia",
+  "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538791-celina-leao-mobiliza-equipes-do-gdf-apos-estragos-de-chuva-em-ceilandia.html",
+  "d": "2026-11-14",
+  "df": "14 nov 2026",
+  "f": "Correio Braziliense",
+  "fn": "Correio Braziliense | Cidades DF",
+  "e": "DF",
+  "a": [],
+  "p": 9.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "alerta",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "monitoramento"
  },
  {
   "t": "Paulínia confirma primeira morte por febre maculosa em 2026",

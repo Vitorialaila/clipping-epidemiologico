@@ -52,6 +52,57 @@
   "motivo": "Emergências e desastres · aviso, previsão ou sem impacto relatado · Brasil"
  },
  {
+  "id": "246143055c325e",
+  "titulo": "Defesa Civil de Palmas alerta para risco de desabamento em imóveis atingidos por incêndio na Capital",
+  "url": "https://palmas.to.gov.br/core/noticias/defesa-civil-alerta-para-risco-de-desabamento-em-imoveis-atingidos-por-incendio-em-palmas/",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Prefeitura de Palmas",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-15T01:53:50+00:00",
+  "municipios": [],
+  "pontuacao": 13.0,
+  "agravos": [
+   "Emergências e desastres"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "desabamento",
+   "alerta para"
+  ],
+  "categoria": "monitoramento",
+  "motivo": "Emergências e desastres · aviso, previsão ou sem impacto relatado · Brasil"
+ },
+ {
+  "id": "c2d595e5f20fd5",
+  "titulo": "Rio tem alta nos casos de Mpox, mas registros ainda são menores do que no primeiro surto da doença no país",
+  "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/14/rio-lidera-casos-de-mpox-no-brasil.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-15T01:53:50+00:00",
+  "municipios": [],
+  "pontuacao": 12.0,
+  "agravos": [
+   "Mpox"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "surto"
+  ],
+  "categoria": "alerta",
+  "motivo": "Mpox (notificação imediata) · surto · Brasil"
+ },
+ {
   "id": "201561dbaa140e",
   "titulo": "Surto de sarna humana no Sul de Minas: o que é a doença, quais os sintomas, como tratar e prevenir",
   "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/14/surto-de-sarna-humana-no-sul-de-minas-o-que-e-a-doenca-quais-os-sintomas-como-tratar-e-prevenir.ghtml",
@@ -121,6 +172,54 @@
   "termos_evento": [],
   "categoria": "alerta",
   "motivo": "Mpox (notificação imediata) · confirma · Brasil"
+ },
+ {
+  "id": "9af27f1201a6ea",
+  "titulo": "Estado de SP lidera casos de Mpox no Brasil com 398 registros, aponta Ministério da Saúde",
+  "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/14/estado-de-sp-lidera-casos-de-mpox-no-brasil-com-398-registros-aponta-ministerio-da-saude.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-15T01:53:50+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Mpox"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "Mpox (notificação imediata) · casos de Mpox · Brasil"
+ },
+ {
+  "id": "41b24d94169876",
+  "titulo": "Celina Leão mobiliza equipes do GDF após estragos de chuva em Ceilândia",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538791-celina-leao-mobiliza-equipes-do-gdf-apos-estragos-de-chuva-em-ceilandia.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-15T01:53:50+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 9.5,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [
+   "estragos"
+  ],
+  "categoria": "monitoramento",
+  "motivo": "DF e RIDE"
  },
  {
   "id": "fb5b960f38d6ec",
@@ -594,6 +693,211 @@
   "se": "2026-45",
   "descricao": "",
   "coletado_em": "2026-11-14T21:28:27+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "8dbcf470f6a0b1",
+  "titulo": "Falha aérea nos EUA cancela sete voos e atrasa outros 14 no Brasil",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/falha-aerea-nos-eua-cancela-sete-voos-e-atrasa-outros-14-no-brasil",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "Sete dos 29 voos programados para partir do Brasil com destino aos Estados Unidos entre o fim da tarde desta sexta-feira (13) e as 14h deste sábado (14) tiveram que ser cancelados devido à interrupção do tráfego aéreo em território estadunidense . Segundo a Agência Nacional de Aviação Civil (Anac), outros 14 voos partiram com atraso durante o mesmo período.",
+  "coletado_em": "2026-11-15T01:53:50+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "5a1773af048e5e",
+  "titulo": "Chuva forte alaga vias e submerge carro em Ceilândia",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538776-chuva-forte-alaga-vias-e-submerge-carro-em-ceilandia.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-15T01:53:50+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "06695719c85958",
+  "titulo": "Celina diz que licitação de obras no Pôr do Sol e Sol Nascente será mantida",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538806-celina-diz-que-licitacao-de-obras-no-por-do-sol-e-sol-nascente-sera-mantida.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-15T01:53:50+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "267944c6f9e969",
+  "titulo": "Restaurante Comunitário do Itapoã ficará fechado por 7 dias para manutenção",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538748-restaurante-comunitario-do-itapoa-ficara-fechado-por-7-dias-para-manutencao.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-15T01:53:50+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "81af1ab817ba2b",
+  "titulo": "Mulher denuncia visitas insistentes de homem ao trabalho no Gama",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538757-mulher-denuncia-visitas-insistentes-de-homem-ao-trabalho-no-gama.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-15T01:53:50+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "bb6d3fb561f61b",
+  "titulo": "Forte chuva invade Hospital Regional da Ceilândia neste sábado (14)",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538792-forte-chuva-invade-hospital-regional-da-ceilandia-neste-sabado-14.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-15T01:53:50+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "8d4353324f1580",
+  "titulo": "Peregrinação franciscana mobiliza familias em Brasília neste sábado (14)",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538745-peregrinacao-franciscana-mobiliza-familias-em-brasilia-neste-sabado-14.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-15T01:53:50+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "f129e89b7aec9d",
+  "titulo": "Árvore cai e atinge carro após chuva forte no Cruzeiro neste sábado (14)",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538779-arvore-cai-e-atinge-carro-apos-chuva-forte-no-cruzeiro-neste-sabado-14.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-15T01:53:50+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "8a1cf6c50c3d20",
+  "titulo": "Festa termina com apreensão de drogas e arma no Recanto das Emas",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538744-festa-termina-com-apreensao-de-drogas-e-arma-no-recanto-das-emas.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-15T01:53:50+00:00",
   "municipios": [
    "Distrito Federal"
   ],
