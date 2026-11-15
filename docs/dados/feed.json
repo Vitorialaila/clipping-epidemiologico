@@ -18,6 +18,100 @@
   "c": "alerta"
  },
  {
+  "t": "Rio de Janeiro tem primeira morte confirmada por mpox no país",
+  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/rio-de-janeiro-tem-primeira-morte-confirmada-por-mpox-no-pais",
+  "d": "2026-11-15",
+  "df": "15 nov 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 10.0,
+  "se": "2026-46",
+  "r": "O estado do Rio de Janeiro confirmou nesta semana a primeira morte por mpox do país. Não foram divulgados detalhes da vítima, apenas que ela era da capital. A doença infecciosa é causada pelo Mpox vírus (MPXV) e provoca sintomas como feridas na pele e…",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Amazonas atinge 96,80% de cobertura vacinal contra o sarampo, mas reforça alerta após registrar 24 casos em 2026",
+  "u": "https://g1.globo.com/google/amp/am/amazonas/noticia/2026/11/15/amazonas-atinge-9680percent-de-cobertura-vacinal-contra-o-sarampo-mas-reforca-alerta-apos-registrar-24-casos-em-2026.ghtml",
+  "d": "2026-11-15",
+  "df": "15 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Sarampo",
+   "Imunização"
+  ],
+  "p": 10.0,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "SP lidera casos de Mpox no Brasil, com mais de 400 registros; RJ já tem 395",
+  "u": "https://www.cnnbrasil.com.br/saude/sp-lidera-casos-de-mpox-no-brasil-com-mais-de-400-registros-rj-ja-tem-395/",
+  "d": "2026-11-15",
+  "df": "15 nov 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Fortes chuvas devem atingir estado de São Paulo neste domingo",
+  "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/fortes-chuvas-devem-atingir-estado-de-sao-paulo-neste-domingo",
+  "d": "2026-11-15",
+  "df": "15 nov 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Geral",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 9.0,
+  "se": "2026-46",
+  "r": "Pancadas de chuva típicas de verão, que podem ser de forte intensidade, são esperadas para este domingo (15) no estado de São Paulo. O alerta é da Defesa Civil do estado de São Paulo, que informou esperar acumulados elevados de chuva em todo território…",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Prevenção da dengue deve começar agora, diz especialista",
+  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/prevencao-da-dengue-deve-comecar-agora-diz-especialista",
+  "d": "2026-11-15",
+  "df": "15 nov 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Dengue",
+   "Saúde ambiental e clima",
+   "Arboviroses"
+  ],
+  "p": 8.5,
+  "se": "2026-46",
+  "r": "As medidas de prevenção e combate à dengue devem ser intensificadas antes da epidemia da doença, já neste mês de novembro . O alerta é feito pela infectologista professora da Escola de Medicina da PUC-PR Marion Burger, em entrevista à Agência Brasil . O…",
+  "i": "mosquito",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "Esporotricose: abandono de animais doentes pode contribuir para a contaminação; cidade do RS registra 25 casos em humanos",
   "u": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/15/esporotricose-abandono-animais-doentes-contribuir-contaminacao-cidade-rs.ghtml",
   "d": "2026-11-15",
@@ -586,6 +680,24 @@
   "i": "respiratorio",
   "m": [],
   "c": "monitoramento"
+ },
+ {
+  "t": "Seis mortes por dengue em Imperatriz escancaram falhas na prevenção e combate à doença",
+  "u": "https://g1.globo.com/ma/maranhao/videos-jmtv-2-edicao/video/seis-mortes-por-dengue-em-imperatriz-escancaram-falhas-na-prevencao-e-combate-a-doenca-15187123.ghtml",
+  "d": "2026-11-13",
+  "df": "13 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 7.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "The US has had the tools to control measles for almost 65 years. Here’s how it’s come raging back",
