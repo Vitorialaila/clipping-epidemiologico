@@ -1,5 +1,25 @@
 [
  {
+  "t": "Mpox: número de casos confirmados passa de 23 para 44 em novembro",
+  "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538740-mpox-numero-de-casos-confirmados-passa-de-23-para-44-em-novembro.html",
+  "d": "2026-11-15",
+  "df": "15 nov 2026",
+  "f": "Correio Braziliense",
+  "fn": "Correio Braziliense | Cidades DF",
+  "e": "DF",
+  "a": [
+   "Mpox"
+  ],
+  "p": 14.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "alerta"
+ },
+ {
   "t": "Six months on, accessing hard-to-reach communities key to halting Ebola outbreak",
   "u": "https://africacdc.org/news-item/six-months-on-accessing-hard-to-reach-communities-key-to-halting-ebola-outbreak/",
   "d": "2026-11-15",
@@ -15,6 +35,26 @@
   "r": "15 November 2026 | Addis Ababa, Geneva, Kinshasa, New York, Rome Six months into the Ebola outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo, significant progress has been made in bringing lifesaving services closer to affected…",
   "i": "virus",
   "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Casos de Covid voltam a crescer em 5 estados brasileiros e no Distrito Federal, diz Fiocruz",
+  "u": "https://g1.globo.com/jornal-nacional/noticia/2026/11/14/casos-de-covid-voltam-a-crescer-em-5-estados-brasileiros-e-no-distrito-federal-diz-fiocruz.ghtml",
+  "d": "2026-11-15",
+  "df": "15 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "DF",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 10.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "respiratorio",
+  "m": [
+   "Distrito Federal"
+  ],
   "c": "alerta"
  },
  {
@@ -126,6 +166,24 @@
   "se": "2026-46",
   "r": "",
   "i": "fungo",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Reconhecida emergência em 61 cidades paraenses afetadas por incêndios florestais",
+  "u": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-em-61-cidades-paraenses-afetadas-por-incendios-florestais",
+  "d": "2026-11-15",
+  "df": "15 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "GOV.BR",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "clima",
   "m": [],
   "c": "atencao"
  },

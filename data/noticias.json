@@ -1,5 +1,32 @@
 [
  {
+  "id": "487f6254681b46",
+  "titulo": "Mpox: número de casos confirmados passa de 23 para 44 em novembro",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538740-mpox-numero-de-casos-confirmados-passa-de-23-para-44-em-novembro.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-15",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-15T21:47:46+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 14.5,
+  "agravos": [
+   "Mpox"
+  ],
+  "escopo": "DF",
+  "termos_evento": [
+   "casos confirmados"
+  ],
+  "categoria": "alerta",
+  "motivo": "Mpox (notificação imediata) · casos confirmados · DF e RIDE"
+ },
+ {
   "id": "b5179234c65f40",
   "titulo": "Six months on, accessing hard-to-reach communities key to halting Ebola outbreak",
   "url": "https://africacdc.org/news-item/six-months-on-accessing-hard-to-reach-communities-key-to-halting-ebola-outbreak/",
@@ -23,6 +50,31 @@
   ],
   "categoria": "alerta",
   "motivo": "Doença pelo vírus Ebola (notificação imediata) · outbreak · Américas"
+ },
+ {
+  "id": "9014c3d621c5f7",
+  "titulo": "Casos de Covid voltam a crescer em 5 estados brasileiros e no Distrito Federal, diz Fiocruz",
+  "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/14/casos-de-covid-voltam-a-crescer-em-5-estados-brasileiros-e-no-distrito-federal-diz-fiocruz.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-15",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-15T21:47:46+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 10.5,
+  "agravos": [
+   "COVID-19"
+  ],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "COVID-19 (notificação imediata) · Casos de Covid · DF e RIDE"
  },
  {
   "id": "cf57bd7fafd192",
@@ -171,6 +223,29 @@
   "motivo": "Micoses endêmicas (notificação semanal) · 25 casos · Brasil"
  },
  {
+  "id": "c3f73e18394893",
+  "titulo": "Reconhecida emergência em 61 cidades paraenses afetadas por incêndios florestais",
+  "url": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-em-61-cidades-paraenses-afetadas-por-incendios-florestais",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "GOV.BR",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-11-15",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-15T21:47:46+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "atencao",
+  "motivo": "Saúde ambiental e clima · Reconhecida emergência · Brasil"
+ },
+ {
   "id": "c4b52cb471f3a0",
   "titulo": "Brasil tem segundo novembro com mais casos de Mpox desde 2022",
   "url": "https://www.cnnbrasil.com.br/saude/brasil-tem-segundo-novembro-com-mais-casos-de-mpox-desde-2022/",
@@ -294,6 +369,75 @@
   "se": "2026-46",
   "descricao": "",
   "coletado_em": "2026-11-15T17:07:42+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "70553e7629808c",
+  "titulo": "Mulher é presa após ataque com 14 golpes de faca no Recanto das Emas",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538917-mulher-e-presa-apos-ataque-com-14-golpes-de-faca-no-recanto-das-emas.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-15",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-15T21:47:46+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "885dc9a6957f38",
+  "titulo": "CCBB recebe catadores para exibição de filme  \"A melhor mãe do mundo\"",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538443-ccbb-recebe-catadores-para-exibicao-de-filme-a-melhor-mae-do-mundo.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-15",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-15T21:47:46+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "ceaf052f092845",
+  "titulo": "Chuva forte derruba muro de condomínio no Jardim Botânico neste domingo",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538903-chuva-forte-derruba-muro-de-condominio-no-jardim-botanico-neste-domingo.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-15",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-15T21:47:46+00:00",
   "municipios": [
    "Distrito Federal"
   ],
