@@ -1,5 +1,76 @@
 [
  {
+  "id": "b5179234c65f40",
+  "titulo": "Six months on, accessing hard-to-reach communities key to halting Ebola outbreak",
+  "url": "https://africacdc.org/news-item/six-months-on-accessing-hard-to-reach-communities-key-to-halting-ebola-outbreak/",
+  "fonte_id": "africa-cdc",
+  "fonte": "Africa CDC | Notícias",
+  "sigla": "Africa CDC",
+  "idioma": "en",
+  "data": "2026-11-15",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "15 November 2026 | Addis Ababa, Geneva, Kinshasa, New York, Rome Six months into the Ebola outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo, significant progress has been made in bringing lifesaving services closer to affected communities, despite immense challenges. However, fuelled by ongoing conflict, displacement and humanitarian needs, the outbreak […] The post Six months on, accessing hard-to-reach communities key to halting Ebola outbreak appeared first on Africa CDC .",
+  "coletado_em": "2026-11-15T09:22:48+00:00",
+  "municipios": [],
+  "pontuacao": 11.5,
+  "agravos": [
+   "Doença pelo vírus Ebola"
+  ],
+  "escopo": "Américas",
+  "termos_evento": [
+   "outbreak"
+  ],
+  "categoria": "alerta",
+  "motivo": "Doença pelo vírus Ebola (notificação imediata) · outbreak · Américas"
+ },
+ {
+  "id": "cb1fced024c50a",
+  "titulo": "Esporotricose: abandono de animais doentes pode contribuir para a contaminação; cidade do RS registra 25 casos em humanos",
+  "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/15/esporotricose-abandono-animais-doentes-contribuir-contaminacao-cidade-rs.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-15",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-15T09:22:48+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Micoses endêmicas"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "atencao",
+  "motivo": "Micoses endêmicas (notificação semanal) · 25 casos · Brasil"
+ },
+ {
+  "id": "66c6cb206fd423",
+  "titulo": "Conheça histórias de mulheres negras frutos da resistência feminina",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7537840-conheca-historias-de-mulheres-negras-frutos-da-resistencia-feminina.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-15",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-15T09:22:48+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
   "id": "07b2d04343dee9",
   "titulo": "Em Brasília, 37% dos pacientes infectados por mpox vivem com HIV",
   "url": "https://www.metropoles.com/distrito-federal/em-brasilia-37-pacientes-infectados-por-mpox-vivem-com-hiv",
@@ -904,6 +975,27 @@
   "pontuacao": 0.0,
   "agravos": [],
   "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "5bdab7fff322c7",
+  "titulo": "WHO issues first guidelines on type 1 diabetes for adults",
+  "url": "https://www.who.int/news/item/14-11-2026-who-issues-first-guidelines-on-type-1-diabetes-for-adults",
+  "fonte_id": "oms-noticias",
+  "fonte": "OMS | Notícias",
+  "sigla": "OMS",
+  "idioma": "en",
+  "data": "2026-11-14",
+  "data_estimada": false,
+  "se": "2026-45",
+  "descricao": "",
+  "coletado_em": "2026-11-15T09:22:48+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Internacional",
   "termos_evento": [],
   "categoria": "monitoramento",
   "motivo": ""

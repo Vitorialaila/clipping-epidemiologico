@@ -1,0 +1,704 @@
+{
+ "titulo": "Clipping Epidemiológico",
+ "subtitulo": "Sala de Situação de Saúde - UnB | Residência de Vigilância em Saúde",
+ "instituicoes": [
+  "Sala de Situação de Saúde - UnB",
+  "Residência de Vigilância em Saúde"
+ ],
+ "rodape": "",
+ "se_codigo": "2026-45",
+ "se_numero": "45",
+ "se_ano": 2026,
+ "rotulo": "SE 45/2026",
+ "periodo": "8 a 14 de novembro de 2026",
+ "data_geracao": "15 de novembro de 2026",
+ "gerado_em": "2026-11-15T09:34:18+00:00",
+ "panorama": "",
+ "principal": {
+  "ancora": "n1",
+  "titulo": "Casos de mpox ultrapassam mil em 2026 e se concentram em seis estados",
+  "titulo_original": "Casos de mpox ultrapassam mil em 2026 e se concentram em seis estados",
+  "resumo": "Os casos confirmados de mpox no Brasil em 2026 ultrapassaram a marca de mil, segundo a última atualização do painel de monitoramento da doença, mantido pelo Ministério da Saúde. De acordo com o painel, até esta quinta-feira (12), foram registrados 1.023 casos confirmados, 46 prováveis, 581 suspeitos e um óbito pela doença neste ano. O estado com maior número de casos é o Rio de Janeiro, com 390 registros, seguido por São Paulo (388), Ceará (61), Minas Gerais (45), Distrito Federal (41) e Santa Catarina (24). Do total de confirmações, 227 ocorreram em novembro e 293 em outubro.",
+  "local": "Brasil",
+  "agravo": "Mpox",
+  "escopo": "DF",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
+  "data": "2026-11-13",
+  "data_fmt": "13 nov 2026",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/casos-de-mpox-ultrapassam-mil-em-2026-e-se-concentram-em-seis-estados",
+  "dominio": "agenciabrasil.ebc.com.br",
+  "nota_ia": null,
+  "pontuacao": 18.0,
+  "n": 1,
+  "paises": [
+   "BRA"
+  ],
+  "uf": "RJ",
+  "icone": "virus",
+  "visual": {
+   "tipo": "mapa",
+   "src": "edicoes/img/SE45-2026/n1.svg"
+  }
+ },
+ "secoes": [
+  {
+   "escopo": "DF",
+   "nome": "Distrito Federal",
+   "itens": [
+    {
+     "ancora": "n3",
+     "titulo": "Em Brasília, 37% dos pacientes infectados por mpox vivem com HIV",
+     "titulo_original": "Em Brasília, 37% dos pacientes infectados por mpox vivem com HIV",
+     "resumo": "Boletim da Saúde mostra que 96% dos infectados eram homens, 64,4% se declararam homossexuais e 45,8% tinham entre 30 e 39 anos Homens, que se declararam homossexuais, adultos de 30 a 39 anos e pessoas pardas representam os grupos com maior número de diagnósticos de mpox no Distrito Federal. Entre os casos confirmados de 2022 a 2025, 96% eram do sexo masculino, 64,4% se declararam homossexuais, 45,8% tinham entre 30 e 39 anos e 42,3% eram pardos. Os dados constam em boletim epidemiológico da Secretaria de Saúde do DF (SES-DF), que traça o perfil dos pacientes no período.",
+     "local": "Brasil",
+     "agravo": "Mpox",
+     "escopo": "DF",
+     "fonte": "Metrópoles",
+     "sigla": "Metrópoles",
+     "data": "2026-11-14",
+     "data_fmt": "14 nov 2026",
+     "url": "https://www.metropoles.com/distrito-federal/em-brasilia-37-pacientes-infectados-por-mpox-vivem-com-hiv",
+     "dominio": "metropoles.com",
+     "nota_ia": null,
+     "pontuacao": 13.0,
+     "n": 3,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "DF",
+     "icone": "virus",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE45-2026/n3.svg"
+     }
+    },
+    {
+     "ancora": "n7",
+     "titulo": "Alta de casos de covid no DF preocupa diante da baixa cobertura vacinal",
+     "titulo_original": "Alta de casos de covid no DF preocupa diante da baixa cobertura vacinal",
+     "resumo": "O número de casos de covid-19 no Distrito Federal quase triplicou em pouco mais de um mês, o que acendeu um alerta para a retomada da circulação do vírus na capital. Na semana epidemiológica 38, encerrada em 2 de outubro, foram registrados 53 diagnósticos. Na semana 43, encerrada em 6 de novembro, o total chegou a 148, um aumento de 179,2%. A escalada ocorre em meio à baixa procura pela vacinação, especialmente preocupante entre os grupos mais vulneráveis às complicações da doença. Apesar da alta recente, os números acumulados de 2026 ainda são inferiores aos do ano passado.",
+     "local": "Brasil",
+     "agravo": "COVID-19",
+     "escopo": "DF",
+     "fonte": "Correio Braziliense | Cidades DF",
+     "sigla": "Correio Braziliense",
+     "data": "2026-11-12",
+     "data_fmt": "12 nov 2026",
+     "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7536310-alta-de-casos-de-covid-no-df-preocupa-diante-da-baixa-cobertura-vacinal.html",
+     "dominio": "correiobraziliense.com.br",
+     "nota_ia": null,
+     "pontuacao": 12.0,
+     "n": 7,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "DF",
+     "icone": "respiratorio",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE45-2026/n7.svg"
+     }
+    },
+    {
+     "ancora": "n8",
+     "titulo": "Neoenergia pode ampliar em até cinco vezes equipes durante temporais no DF",
+     "titulo_original": "Neoenergia pode ampliar em até cinco vezes equipes durante temporais no DF",
+     "resumo": "A Neoenergia Brasília poderá ampliar em até cinco vezes a capacidade de atendimento no Distrito Federal durante períodos de temporais mais severos. A estratégia prevê a mobilização de equipes de outras empresas do grupo, distribuídas pelo país, para reforçar o trabalho dos profissionais que atuam na capital. O plano foi apresentado por Felipe Costa, superintendente técnico da concessionária, durante coletiva sobre a preparação para o período chuvoso. A mobilização será feita de forma gradual, conforme a intensidade das ocorrências.",
+     "local": "Brasil",
+     "agravo": "Emergências e desastres",
+     "escopo": "DF",
+     "fonte": "Correio Braziliense | Cidades DF",
+     "sigla": "Correio Braziliense",
+     "data": "2026-11-10",
+     "data_fmt": "10 nov 2026",
+     "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7536100-neoenergia-pode-ampliar-em-ate-cinco-vezes-equipes-durante-temporais-no-df.html",
+     "dominio": "correiobraziliense.com.br",
+     "nota_ia": null,
+     "pontuacao": 12.0,
+     "n": 8,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "DF",
+     "icone": "desastre",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE45-2026/n8.svg"
+     }
+    }
+   ]
+  },
+  {
+   "escopo": "Brasil",
+   "nome": "Brasil",
+   "itens": [
+    {
+     "ancora": "n4",
+     "titulo": "Defesa Civil de Palmas alerta para risco de desabamento em imóveis atingidos por incêndio na Capital",
+     "titulo_original": "Defesa Civil de Palmas alerta para risco de desabamento em imóveis atingidos por incêndio na Capital",
+     "resumo": "A Defesa Civil de Palmas orienta a população a respeitar a interdição dos imóveis atingidos pelo incêndio de grandes proporções que atingiu uma loja de utilidades domésticas, na região central da capital. O incêndio ocorreu na tarde da última quarta-feira, 11, e, apesar dos prejuízos materiais, não deixou feridos.",
+     "local": "Brasil",
+     "agravo": "Emergências e desastres",
+     "escopo": "Brasil",
+     "fonte": "Prefeitura de Palmas",
+     "sigla": "Defesa Civil",
+     "data": "2026-11-14",
+     "data_fmt": "14 nov 2026",
+     "url": "https://www.palmas.to.gov.br/core/noticias/defesa-civil-alerta-para-risco-de-desabamento-em-imoveis-atingidos-por-incendio-em-palmas/",
+     "dominio": "palmas.to.gov.br",
+     "nota_ia": null,
+     "pontuacao": 13.0,
+     "n": 4,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "",
+     "icone": "desastre",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE45-2026/n4.svg"
+     }
+    },
+    {
+     "ancora": "n5",
+     "titulo": "Surto de Doença de Chagas: sobe para oito o número de casos confirmados em Óbidos",
+     "titulo_original": "Surto de Doença de Chagas: sobe para oito o número de casos confirmados em Óbidos",
+     "resumo": "",
+     "local": "",
+     "agravo": "Doença de Chagas aguda",
+     "escopo": "Brasil",
+     "fonte": "G1",
+     "sigla": "G1",
+     "data": "2026-11-12",
+     "data_fmt": "12 nov 2026",
+     "url": "https://g1.globo.com/pa/santarem-regiao/videos-jornal-tapajos-2-edicao/video/surto-de-doenca-de-chagas-sobe-para-oito-o-numero-de-casos-confirmados-em-obidos-15181105.ghtml",
+     "dominio": "g1.globo.com",
+     "nota_ia": null,
+     "pontuacao": 13.0,
+     "n": 5,
+     "paises": [
+      "BRA",
+      "UKR"
+     ],
+     "uf": "RJ",
+     "icone": "mosquito",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE45-2026/n5.svg"
+     }
+    },
+    {
+     "ancora": "n6",
+     "titulo": "Fiocruz: aumentam casos de síndrome respiratória aguda por covid-19",
+     "titulo_original": "Fiocruz: aumentam casos de síndrome respiratória aguda por covid-19",
+     "resumo": "Os casos confirmados de síndrome respiratória aguda grave (SRAG) por covid-19 tiveram alta no país no início de novembro, informou nesta quinta-feira (12) a Fundação Oswaldo Cruz (Fiocruz), no Boletim Infogripe. A Fiocruz ressalta, entretanto, que o número de casos graves por covid-19 permanece em níveis baixos. Nas últimas quatro semanas, 11,5% das hospitalizações e 26,9% das mortes por SRAG viral foram causadas pelo coronavírus Sars-CoV-2, causador da doença.",
+     "local": "Brasil",
+     "agravo": "COVID-19",
+     "escopo": "Brasil",
+     "fonte": "Agência Brasil | Saúde",
+     "sigla": "Agência Brasil",
+     "data": "2026-11-12",
+     "data_fmt": "12 nov 2026",
+     "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/fiocruz-aumentam-casos-de-sindrome-respiratoria-aguda-por-covid-19",
+     "dominio": "agenciabrasil.ebc.com.br",
+     "nota_ia": null,
+     "pontuacao": 12.5,
+     "n": 6,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "",
+     "icone": "respiratorio",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE45-2026/n6.svg"
+     }
+    },
+    {
+     "ancora": "n10",
+     "titulo": "El Niño acende alerta para aumento de casos de dengue no verão",
+     "titulo_original": "El Niño acende alerta para aumento de casos de dengue no verão",
+     "resumo": "Com a previsão de mais chuva e calor, fenômeno pode dificultar o controle da doença no Brasil",
+     "local": "Brasil",
+     "agravo": "Saúde ambiental e clima",
+     "escopo": "Brasil",
+     "fonte": "G1",
+     "sigla": "G1",
+     "data": "2026-11-12",
+     "data_fmt": "12 nov 2026",
+     "url": "https://g1.globo.com/google/amp/sc/santa-catarina/videos-nsc-noticias/video/el-nino-acende-alerta-para-aumento-de-casos-de-dengue-no-verao-15183587.ghtml",
+     "dominio": "g1.globo.com",
+     "nota_ia": null,
+     "pontuacao": 11.0,
+     "n": 10,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "SC",
+     "icone": "mosquito",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE45-2026/n10.svg"
+     }
+    }
+   ]
+  },
+  {
+   "escopo": "Américas",
+   "nome": "Américas",
+   "itens": [
+    {
+     "ancora": "n9",
+     "titulo": "Saúde orienta atualização da vacina contra o sarampo para fiéis e viajantes com destino ao Peru",
+     "titulo_original": "Saúde orienta atualização da vacina contra o sarampo para fiéis e viajantes com destino ao Peru",
+     "resumo": "Comitiva papal e eventos religiosos reúnem multidões no país vizinho, que enfrenta surto da doença O Ministério da Saúde emitiu nesta semana um alerta epidemiológico voltado a passageiros e fiéis que pretendem viajar ao Peru para participar das celebrações da visita apostólica do Papa Leão XIV, programada para o período de 11 a 17 de novembro de 2026. A principal recomendação das autoridades sanitárias é a atualização imediata da vacina contra o sarampo, que deve ser administrada com pelo menos 15 dias de antecedência ao embarque.",
+     "local": "Peru",
+     "agravo": "Sarampo",
+     "escopo": "Américas",
+     "fonte": "SES-GO | Notícias",
+     "sigla": "SES-GO",
+     "data": "2026-11-13",
+     "data_fmt": "13 nov 2026",
+     "url": "https://goias.gov.br/saude/saude-orienta-atualizacao-da-vacina-contra-o-sarampo-para-fieis-e-viajantes-com-destino-ao-peru/",
+     "dominio": "goias.gov.br",
+     "nota_ia": null,
+     "pontuacao": 11.5,
+     "n": 9,
+     "paises": [
+      "PER"
+     ],
+     "uf": "",
+     "icone": "virus",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE45-2026/n9.svg"
+     }
+    }
+   ]
+  },
+  {
+   "escopo": "Internacional",
+   "nome": "Internacional",
+   "itens": [
+    {
+     "ancora": "n2",
+     "titulo": "Middle East respiratory syndrome (MERS), Qatar",
+     "titulo_original": "Middle East respiratory syndrome (MERS) – Qatar",
+     "resumo": "On 29 October 2026, the National IHR Focal Point of Qatar notified WHO of two laboratory-confirmed cases of Middle East respiratory syndrome (MERS). The cases were confirmed on 5 and 25 August 2026. These are the first MERS-CoV cases reported by the State of Qatar since 2022. The first case was a man aged over 50 years who worked with dromedary camels and had chronic medical conditions. He developed symptoms on 22 July 2026 and was admitted to hospital on 25 July. Real-time reverse transcription-polymerase chain reaction (RT-PCR) on an upper-respiratory tract specimen initially tested negative for MERS-CoV.",
+     "local": "Catar",
+     "agravo": "Síndrome respiratória e coronavírus emergentes",
+     "escopo": "Internacional",
+     "fonte": "OMS | Disease Outbreak News",
+     "sigla": "OMS",
+     "data": "2026-11-13",
+     "data_fmt": "13 nov 2026",
+     "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON626",
+     "dominio": "who.int",
+     "nota_ia": null,
+     "pontuacao": 14.0,
+     "n": 2,
+     "paises": [
+      "QAT"
+     ],
+     "uf": "",
+     "icone": "respiratorio",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE45-2026/n2.svg"
+     }
+    }
+   ]
+  }
+ ],
+ "destaques": [
+  {
+   "ancora": "n1",
+   "titulo": "Casos de mpox ultrapassam mil em 2026 e se concentram em seis estados",
+   "titulo_original": "Casos de mpox ultrapassam mil em 2026 e se concentram em seis estados",
+   "resumo": "Os casos confirmados de mpox no Brasil em 2026 ultrapassaram a marca de mil, segundo a última atualização do painel de monitoramento da doença, mantido pelo Ministério da Saúde. De acordo com o painel, até esta quinta-feira (12), foram registrados 1.023 casos confirmados, 46 prováveis, 581 suspeitos e um óbito pela doença neste ano. O estado com maior número de casos é o Rio de Janeiro, com 390 registros, seguido por São Paulo (388), Ceará (61), Minas Gerais (45), Distrito Federal (41) e Santa Catarina (24). Do total de confirmações, 227 ocorreram em novembro e 293 em outubro.",
+   "local": "Brasil",
+   "agravo": "Mpox",
+   "escopo": "DF",
+   "fonte": "Agência Brasil | Saúde",
+   "sigla": "Agência Brasil",
+   "data": "2026-11-13",
+   "data_fmt": "13 nov 2026",
+   "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/casos-de-mpox-ultrapassam-mil-em-2026-e-se-concentram-em-seis-estados",
+   "dominio": "agenciabrasil.ebc.com.br",
+   "nota_ia": null,
+   "pontuacao": 18.0,
+   "n": 1,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "RJ",
+   "icone": "virus",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE45-2026/n1.svg"
+   }
+  },
+  {
+   "ancora": "n2",
+   "titulo": "Middle East respiratory syndrome (MERS), Qatar",
+   "titulo_original": "Middle East respiratory syndrome (MERS) – Qatar",
+   "resumo": "On 29 October 2026, the National IHR Focal Point of Qatar notified WHO of two laboratory-confirmed cases of Middle East respiratory syndrome (MERS). The cases were confirmed on 5 and 25 August 2026. These are the first MERS-CoV cases reported by the State of Qatar since 2022. The first case was a man aged over 50 years who worked with dromedary camels and had chronic medical conditions. He developed symptoms on 22 July 2026 and was admitted to hospital on 25 July. Real-time reverse transcription-polymerase chain reaction (RT-PCR) on an upper-respiratory tract specimen initially tested negative for MERS-CoV.",
+   "local": "Catar",
+   "agravo": "Síndrome respiratória e coronavírus emergentes",
+   "escopo": "Internacional",
+   "fonte": "OMS | Disease Outbreak News",
+   "sigla": "OMS",
+   "data": "2026-11-13",
+   "data_fmt": "13 nov 2026",
+   "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON626",
+   "dominio": "who.int",
+   "nota_ia": null,
+   "pontuacao": 14.0,
+   "n": 2,
+   "paises": [
+    "QAT"
+   ],
+   "uf": "",
+   "icone": "respiratorio",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE45-2026/n2.svg"
+   }
+  },
+  {
+   "ancora": "n3",
+   "titulo": "Em Brasília, 37% dos pacientes infectados por mpox vivem com HIV",
+   "titulo_original": "Em Brasília, 37% dos pacientes infectados por mpox vivem com HIV",
+   "resumo": "Boletim da Saúde mostra que 96% dos infectados eram homens, 64,4% se declararam homossexuais e 45,8% tinham entre 30 e 39 anos Homens, que se declararam homossexuais, adultos de 30 a 39 anos e pessoas pardas representam os grupos com maior número de diagnósticos de mpox no Distrito Federal. Entre os casos confirmados de 2022 a 2025, 96% eram do sexo masculino, 64,4% se declararam homossexuais, 45,8% tinham entre 30 e 39 anos e 42,3% eram pardos. Os dados constam em boletim epidemiológico da Secretaria de Saúde do DF (SES-DF), que traça o perfil dos pacientes no período.",
+   "local": "Brasil",
+   "agravo": "Mpox",
+   "escopo": "DF",
+   "fonte": "Metrópoles",
+   "sigla": "Metrópoles",
+   "data": "2026-11-14",
+   "data_fmt": "14 nov 2026",
+   "url": "https://www.metropoles.com/distrito-federal/em-brasilia-37-pacientes-infectados-por-mpox-vivem-com-hiv",
+   "dominio": "metropoles.com",
+   "nota_ia": null,
+   "pontuacao": 13.0,
+   "n": 3,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "DF",
+   "icone": "virus",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE45-2026/n3.svg"
+   }
+  },
+  {
+   "ancora": "n4",
+   "titulo": "Defesa Civil de Palmas alerta para risco de desabamento em imóveis atingidos por incêndio na Capital",
+   "titulo_original": "Defesa Civil de Palmas alerta para risco de desabamento em imóveis atingidos por incêndio na Capital",
+   "resumo": "A Defesa Civil de Palmas orienta a população a respeitar a interdição dos imóveis atingidos pelo incêndio de grandes proporções que atingiu uma loja de utilidades domésticas, na região central da capital. O incêndio ocorreu na tarde da última quarta-feira, 11, e, apesar dos prejuízos materiais, não deixou feridos.",
+   "local": "Brasil",
+   "agravo": "Emergências e desastres",
+   "escopo": "Brasil",
+   "fonte": "Prefeitura de Palmas",
+   "sigla": "Defesa Civil",
+   "data": "2026-11-14",
+   "data_fmt": "14 nov 2026",
+   "url": "https://www.palmas.to.gov.br/core/noticias/defesa-civil-alerta-para-risco-de-desabamento-em-imoveis-atingidos-por-incendio-em-palmas/",
+   "dominio": "palmas.to.gov.br",
+   "nota_ia": null,
+   "pontuacao": 13.0,
+   "n": 4,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "",
+   "icone": "desastre",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE45-2026/n4.svg"
+   }
+  },
+  {
+   "ancora": "n5",
+   "titulo": "Surto de Doença de Chagas: sobe para oito o número de casos confirmados em Óbidos",
+   "titulo_original": "Surto de Doença de Chagas: sobe para oito o número de casos confirmados em Óbidos",
+   "resumo": "",
+   "local": "",
+   "agravo": "Doença de Chagas aguda",
+   "escopo": "Brasil",
+   "fonte": "G1",
+   "sigla": "G1",
+   "data": "2026-11-12",
+   "data_fmt": "12 nov 2026",
+   "url": "https://g1.globo.com/pa/santarem-regiao/videos-jornal-tapajos-2-edicao/video/surto-de-doenca-de-chagas-sobe-para-oito-o-numero-de-casos-confirmados-em-obidos-15181105.ghtml",
+   "dominio": "g1.globo.com",
+   "nota_ia": null,
+   "pontuacao": 13.0,
+   "n": 5,
+   "paises": [
+    "BRA",
+    "UKR"
+   ],
+   "uf": "RJ",
+   "icone": "mosquito",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE45-2026/n5.svg"
+   }
+  },
+  {
+   "ancora": "n6",
+   "titulo": "Fiocruz: aumentam casos de síndrome respiratória aguda por covid-19",
+   "titulo_original": "Fiocruz: aumentam casos de síndrome respiratória aguda por covid-19",
+   "resumo": "Os casos confirmados de síndrome respiratória aguda grave (SRAG) por covid-19 tiveram alta no país no início de novembro, informou nesta quinta-feira (12) a Fundação Oswaldo Cruz (Fiocruz), no Boletim Infogripe. A Fiocruz ressalta, entretanto, que o número de casos graves por covid-19 permanece em níveis baixos. Nas últimas quatro semanas, 11,5% das hospitalizações e 26,9% das mortes por SRAG viral foram causadas pelo coronavírus Sars-CoV-2, causador da doença.",
+   "local": "Brasil",
+   "agravo": "COVID-19",
+   "escopo": "Brasil",
+   "fonte": "Agência Brasil | Saúde",
+   "sigla": "Agência Brasil",
+   "data": "2026-11-12",
+   "data_fmt": "12 nov 2026",
+   "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/fiocruz-aumentam-casos-de-sindrome-respiratoria-aguda-por-covid-19",
+   "dominio": "agenciabrasil.ebc.com.br",
+   "nota_ia": null,
+   "pontuacao": 12.5,
+   "n": 6,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "",
+   "icone": "respiratorio",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE45-2026/n6.svg"
+   }
+  },
+  {
+   "ancora": "n7",
+   "titulo": "Alta de casos de covid no DF preocupa diante da baixa cobertura vacinal",
+   "titulo_original": "Alta de casos de covid no DF preocupa diante da baixa cobertura vacinal",
+   "resumo": "O número de casos de covid-19 no Distrito Federal quase triplicou em pouco mais de um mês, o que acendeu um alerta para a retomada da circulação do vírus na capital. Na semana epidemiológica 38, encerrada em 2 de outubro, foram registrados 53 diagnósticos. Na semana 43, encerrada em 6 de novembro, o total chegou a 148, um aumento de 179,2%. A escalada ocorre em meio à baixa procura pela vacinação, especialmente preocupante entre os grupos mais vulneráveis às complicações da doença. Apesar da alta recente, os números acumulados de 2026 ainda são inferiores aos do ano passado.",
+   "local": "Brasil",
+   "agravo": "COVID-19",
+   "escopo": "DF",
+   "fonte": "Correio Braziliense | Cidades DF",
+   "sigla": "Correio Braziliense",
+   "data": "2026-11-12",
+   "data_fmt": "12 nov 2026",
+   "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7536310-alta-de-casos-de-covid-no-df-preocupa-diante-da-baixa-cobertura-vacinal.html",
+   "dominio": "correiobraziliense.com.br",
+   "nota_ia": null,
+   "pontuacao": 12.0,
+   "n": 7,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "DF",
+   "icone": "respiratorio",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE45-2026/n7.svg"
+   }
+  },
+  {
+   "ancora": "n8",
+   "titulo": "Neoenergia pode ampliar em até cinco vezes equipes durante temporais no DF",
+   "titulo_original": "Neoenergia pode ampliar em até cinco vezes equipes durante temporais no DF",
+   "resumo": "A Neoenergia Brasília poderá ampliar em até cinco vezes a capacidade de atendimento no Distrito Federal durante períodos de temporais mais severos. A estratégia prevê a mobilização de equipes de outras empresas do grupo, distribuídas pelo país, para reforçar o trabalho dos profissionais que atuam na capital. O plano foi apresentado por Felipe Costa, superintendente técnico da concessionária, durante coletiva sobre a preparação para o período chuvoso. A mobilização será feita de forma gradual, conforme a intensidade das ocorrências.",
+   "local": "Brasil",
+   "agravo": "Emergências e desastres",
+   "escopo": "DF",
+   "fonte": "Correio Braziliense | Cidades DF",
+   "sigla": "Correio Braziliense",
+   "data": "2026-11-10",
+   "data_fmt": "10 nov 2026",
+   "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7536100-neoenergia-pode-ampliar-em-ate-cinco-vezes-equipes-durante-temporais-no-df.html",
+   "dominio": "correiobraziliense.com.br",
+   "nota_ia": null,
+   "pontuacao": 12.0,
+   "n": 8,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "DF",
+   "icone": "desastre",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE45-2026/n8.svg"
+   }
+  },
+  {
+   "ancora": "n9",
+   "titulo": "Saúde orienta atualização da vacina contra o sarampo para fiéis e viajantes com destino ao Peru",
+   "titulo_original": "Saúde orienta atualização da vacina contra o sarampo para fiéis e viajantes com destino ao Peru",
+   "resumo": "Comitiva papal e eventos religiosos reúnem multidões no país vizinho, que enfrenta surto da doença O Ministério da Saúde emitiu nesta semana um alerta epidemiológico voltado a passageiros e fiéis que pretendem viajar ao Peru para participar das celebrações da visita apostólica do Papa Leão XIV, programada para o período de 11 a 17 de novembro de 2026. A principal recomendação das autoridades sanitárias é a atualização imediata da vacina contra o sarampo, que deve ser administrada com pelo menos 15 dias de antecedência ao embarque.",
+   "local": "Peru",
+   "agravo": "Sarampo",
+   "escopo": "Américas",
+   "fonte": "SES-GO | Notícias",
+   "sigla": "SES-GO",
+   "data": "2026-11-13",
+   "data_fmt": "13 nov 2026",
+   "url": "https://goias.gov.br/saude/saude-orienta-atualizacao-da-vacina-contra-o-sarampo-para-fieis-e-viajantes-com-destino-ao-peru/",
+   "dominio": "goias.gov.br",
+   "nota_ia": null,
+   "pontuacao": 11.5,
+   "n": 9,
+   "paises": [
+    "PER"
+   ],
+   "uf": "",
+   "icone": "virus",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE45-2026/n9.svg"
+   }
+  },
+  {
+   "ancora": "n10",
+   "titulo": "El Niño acende alerta para aumento de casos de dengue no verão",
+   "titulo_original": "El Niño acende alerta para aumento de casos de dengue no verão",
+   "resumo": "Com a previsão de mais chuva e calor, fenômeno pode dificultar o controle da doença no Brasil",
+   "local": "Brasil",
+   "agravo": "Saúde ambiental e clima",
+   "escopo": "Brasil",
+   "fonte": "G1",
+   "sigla": "G1",
+   "data": "2026-11-12",
+   "data_fmt": "12 nov 2026",
+   "url": "https://g1.globo.com/google/amp/sc/santa-catarina/videos-nsc-noticias/video/el-nino-acende-alerta-para-aumento-de-casos-de-dengue-no-verao-15183587.ghtml",
+   "dominio": "g1.globo.com",
+   "nota_ia": null,
+   "pontuacao": 11.0,
+   "n": 10,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "SC",
+   "icone": "mosquito",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE45-2026/n10.svg"
+   }
+  }
+ ],
+ "outras": [
+  {
+   "titulo": "Defesa Civil de Palmas alerta para risco de desabamento em imóveis atingidos por incêndio na Capital",
+   "fonte": "Defesa Civil",
+   "data_fmt": "14 nov 2026",
+   "url": "https://palmas.to.gov.br/core/noticias/defesa-civil-alerta-para-risco-de-desabamento-em-imoveis-atingidos-por-incendio-em-palmas/",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Ministério informa ter adquirido 25 mil doses de vacina contra mpox",
+   "fonte": "Agência Brasil",
+   "data_fmt": "08 nov 2026",
+   "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/ministerio-informa-ter-adquirido-25-mil-doses-de-vacina-contra-mpox",
+   "escopo": "DF"
+  },
+  {
+   "titulo": "Rio tem alta nos casos de Mpox, mas registros ainda são menores do que no primeiro surto da doença no país",
+   "fonte": "G1",
+   "data_fmt": "14 nov 2026",
+   "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/14/rio-lidera-casos-de-mpox-no-brasil.ghtml",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Mpox: nova variante que circula pelo Brasil já causou surto na África",
+   "fonte": "CNN Brasil",
+   "data_fmt": "13 nov 2026",
+   "url": "https://www.cnnbrasil.com.br/saude/mpox-nova-variante-que-circula-pelo-brasil-ja-causou-surto-na-africa/",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Parada cardíaca por doença de Chagas levou à morte de passageira em voo que saiu de Brasília para Porto Velho",
+   "fonte": "G1",
+   "data_fmt": "13 nov 2026",
+   "url": "https://g1.globo.com/ro/rondonia/noticia/2026/11/13/causa-da-morte-de-passageira-em-voo-que-saiu-de-brasilia-para-porto-velho.ghtml",
+   "escopo": "DF"
+  },
+  {
+   "titulo": "Campos confirma primeiro caso de mpox registrado em 2026",
+   "fonte": "G1",
+   "data_fmt": "11 nov 2026",
+   "url": "https://g1.globo.com/google/amp/rj/norte-fluminense/noticia/2026/11/11/campos-confirma-primeiro-caso-de-mpox-registrado-em-2026.ghtml",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Ceará tem 78 casos confirmados de MPOX",
+   "fonte": "G1",
+   "data_fmt": "11 nov 2026",
+   "url": "https://g1.globo.com/ce/ceara/videos-cetv-2-edicao/video/ceara-tem-78-casos-confirmados-de-mpox-15180246.ghtml",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Caso de febre amarela em macaco reforça alerta para vacinação",
+   "fonte": "G1",
+   "data_fmt": "10 nov 2026",
+   "url": "https://g1.globo.com/mg/triangulo-mineiro/mg1-uberlandia/video/caso-de-febre-amarela-em-macaco-reforca-alerta-para-vacinacao-15175890.ghtml",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Chuvas deixam feridos, desabrigados e casas destelhadas no Sul",
+   "fonte": "Agência Brasil",
+   "data_fmt": "09 nov 2026",
+   "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/chuvas-deixam-feridos-desabrigados-e-casas-destelhadas-no-sul",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Defesa Civil alerta para temporais em todo o Estado de São Paulo neste domingo (15)",
+   "fonte": "Defesa Civil",
+   "data_fmt": "13 nov 2026",
+   "url": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-temporais-dom-15/",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Surto de doença de Chagas chega a 8 casos em Óbidos; 27 pessoas aguardam exames",
+   "fonte": "G1",
+   "data_fmt": "11 nov 2026",
+   "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/11/surto-de-doenca-de-chagas-chega-a-8-casos-em-obidos-27-pessoas-aguardam-exames.ghtml",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Saúde apreende máquina que bateu patauá e usa teste de DNA para conter surto de doença de Chagas no PA",
+   "fonte": "G1",
+   "data_fmt": "10 nov 2026",
+   "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/10/saude-apreende-maquina-que-bateu-pataua-e-usa-teste-de-dna-para-conter-surto-de-doenca-de-chagas-no-pa.ghtml",
+   "escopo": "Brasil"
+  }
+ ],
+ "total_coletado": 462,
+ "fontes": [
+  "Africa CDC",
+  "Agência Brasil",
+  "Agência Fiocruz de Notícias",
+  "CDC",
+  "CNN",
+  "CNN Brasil",
+  "Cemaden",
+  "Correio Braziliense",
+  "Defesa Civil",
+  "Defesa Civil Nacional",
+  "ECDC",
+  "G1",
+  "INMET",
+  "Metrópoles",
+  "Ministério da Saúde",
+  "OMS",
+  "OPAS",
+  "SES-GO"
+ ],
+ "ia": false,
+ "contagem_escopo": {
+  "DF": 4,
+  "Brasil": 4,
+  "Américas": 1,
+  "Internacional": 1
+ },
+ "mapa": "edicoes/img/SE45-2026/mapa-semana.svg",
+ "mapa_escuro": "edicoes/img/SE45-2026/mapa-semana-escuro.svg",
+ "pdf": "edicoes/clipping-SE45-2026.pdf"
+}
