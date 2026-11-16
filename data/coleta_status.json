@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-11-16T09:39:07+00:00",
+  "em": "2026-11-16T20:28:06+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,7 +10,7 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-11-16T09:39:07+00:00",
+  "em": "2026-11-16T20:28:06+00:00",
   "lidos": 40,
   "novos": 0,
   "exemplos": [
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-11-16T09:39:07+00:00",
+  "em": "2026-11-16T20:28:06+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-11-16T09:39:07+00:00",
+  "em": "2026-11-16T20:28:06+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-11-16T09:39:07+00:00",
+  "em": "2026-11-16T20:28:06+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-11-16T09:39:07+00:00",
+  "em": "2026-11-16T20:28:06+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-11-16T09:39:07+00:00",
+  "em": "2026-11-16T20:28:06+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-11-16T09:39:07+00:00",
+  "em": "2026-11-16T20:28:06+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-11-16T09:39:07+00:00",
+  "em": "2026-11-16T20:28:06+00:00",
   "lidos": 2352,
   "novos": 0,
   "exemplos": [
@@ -90,17 +90,17 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-11-16T09:39:07+00:00",
+  "em": "2026-11-16T20:28:06+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "Africa CDC and Canada Deepen Partnership to Strengthen Africa’s Defences Against Health Threats",
    "Six months on, accessing hard-to-reach communities key to halting Ebola outbreak",
-   "AFRICA CDC WELCOMES THE APPOINTMENT OF DR MARK DYBUL AS EXECUTIVE DIRECTOR OF THE GLOBAL FUND AND CALLS FOR A NEW ERA OF",
-   "Déclaration d’Africa CDC sur l’attaque au Nord-Kivu, en RDC"
+   "AFRICA CDC WELCOMES THE APPOINTMENT OF DR MARK DYBUL AS EXECUTIVE DIRECTOR OF THE GLOBAL FUND AND CALLS FOR A NEW ERA OF"
   ]
  },
  "ms-noticias": {
-  "em": "2026-11-16T09:39:07+00:00",
+  "em": "2026-11-16T20:28:06+00:00",
   "lidos": 15,
   "novos": 0,
   "exemplos": [
@@ -110,77 +110,71 @@
   ]
  },
  "fiocruz": {
-  "em": "2026-11-16T09:39:07+00:00",
+  "em": "2026-11-16T20:28:06+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 6,
   "exemplos": [
-   "Nav. ed. pt Giro Saude 13 de novembro de 2026",
-   "Giro Saúde: Covid-19 no Brasil, recomendação de kit de emergência pela Defesa Civil e eleição de Drauzio Varella na ABL",
-   "Fiocruz e MPRJ inauguram espaço voltado à garantia dos direitos das mulheres e ao acesso à Justiça"
+   "Serviço de Referência Nacional em Filarioses da Fiocruz conquista Selo Ouro da ONA",
+   "Fiocruz abre inscrições para o projeto Vivências e Estágios na Realidade do SUS (VER-SUS)",
+   "Fiocruz recebe delegação da BactiVac para debater desenvolvimento de vacinas"
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-11-16T09:39:07+00:00",
+  "em": "2026-11-16T20:28:06+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 3,
   "exemplos": [
-   "Rio de Janeiro tem primeira morte confirmada por mpox no país",
-   "Prevenção da dengue deve começar agora, diz especialista",
-   "Campanha reforça importância da presença de médico intensivista em UTI"
+   "Anvisa proíbe dois tira-manchas à base de percarbonato de sódio",
+   "Mpox: com quase 400 casos, Rio passa a atualizar diariamente os dados",
+   "ANS amplia cobertura obrigatória para tratamento de câncer de pulmão"
   ]
  },
  "ses-go": {
-  "em": "2026-11-16T09:39:07+00:00",
+  "em": "2026-11-16T20:28:06+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 9,
   "exemplos": [
-   "HGG promove 5ª edição da Corrida Colorindo a Vida sem Diabetes e reúne cerca de 800 participantes",
-   "Residentes do Crer apresentam 23 trabalhos científicos com foco em inovação no SUS e qualificação do cuidado",
-   "Infectologista do HDS alerta sobre cuidados necessários com idosos diante da tendência de aumento nos casos de síndromes"
+   "Saúde sem Enrolação (UFG) estreia segunda temporada no dia 17 de novembro",
+   "Herso realiza simulado de emergência com múltiplas vítimas",
+   "Prevenção à surdez: simpósio do Crer aborda diagnóstico precoce, manutenção de aparelhos auditivos e estratégias de reab"
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-11-16T09:39:07+00:00",
+  "em": "2026-11-16T20:28:06+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 2,
   "exemplos": [
-   "Mega-Sena acumula para R$ 34 milhões; confira os números sorteados",
-   "Fortes chuvas devem atingir estado de São Paulo neste domingo",
-   "Falha aérea nos EUA cancela sete voos e atrasa outros 14 no Brasil"
+   "Diretor diz que recuperação de R$ 20 bilhões comprova eficiência da PF",
+   "Operação Fronteira apreende R$ 581 mi em produtos ilegais e drogas",
+   "Mega-Sena acumula para R$ 34 milhões; confira os números sorteados"
   ]
  },
  "g1-busca": {
-  "em": "2026-11-16T09:39:07+00:00",
-  "lidos": 395,
-  "novos": 0,
-  "exemplos": [
-   "Inscrições para a Chamada Escolar 2027 encerram nesta sexta (13) no Amapá; veja como fazer",
-   "Câmara de Itapeva aprova projeto que amplia transparência e fiscalização da água",
-   "Pontos de venda de açaí são fiscalizados no Ver-o-Peso para prevenir doença de Chagas, em Belém"
-  ]
+  "em": "2026-11-16T20:28:06+00:00",
+  "erro": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Ag1.globo.com%20surto%20OR%20%22casos%20confirmados%22%20OR%20%22caso%20confirmado%22%20OR%20%22primeiro%20caso%22%20OR%20%22aulas%20suspensas%22%20when%3A7d&hl=pt-BR&gl=BR&ceid=BR:pt-419"
  },
  "metropoles-busca": {
-  "em": "2026-11-16T09:39:07+00:00",
-  "lidos": 59,
-  "novos": 0,
+  "em": "2026-11-16T20:28:06+00:00",
+  "lidos": 61,
+  "novos": 1,
   "exemplos": [
    "Casos de Covid-19 crescem em BH e poder público recomenda vacinação",
-   "Mpox: DF confirma 44 casos e registra aumento de 91% em uma semana",
+   "“Mpox pode ser só uma bolha e o paciente não dar bola”, diz médico da SBI",
    "Vinho de patauá contaminado provoca surto de Chagas e deixa 1 morto no Pará"
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-11-16T09:39:07+00:00",
+  "em": "2026-11-16T20:28:06+00:00",
   "lidos": 26,
   "novos": 0,
   "exemplos": [
-   "Crise de pânico: Kalil e especialistas dão 5 dicas para retomar controle",
-   "Dormir com cães e gatos faz bem ou mal? Conheça os riscos e cuidados",
-   "Visitar casa dos pais pode despertar nosso lado adolescente, diz psicólogo"
+   "Uma recomendação clara para os homens: façam o exame de câncer de próstata",
+   "Doações em baixa: estoques de sangue em MG ficam 40% abaixo do ideal",
+   "Anvisa proíbe venda e uso de dois produtos de limpeza sem registro"
   ]
  },
  "cnn-saude": {
-  "em": "2026-11-16T09:39:07+00:00",
+  "em": "2026-11-16T20:28:06+00:00",
   "lidos": 24,
   "novos": 0,
   "exemplos": [
@@ -190,27 +184,21 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-11-16T09:39:07+00:00",
-  "lidos": 43,
-  "novos": 0,
-  "exemplos": [
-   "After 26 years, the US has lost its measles elimination status",
-   "CDC chief says agency will not change measles response if US loses elimination status",
-   "Timeline: How the US wrangled the deadly measles virus and how it has come raging back"
-  ]
+  "em": "2026-11-16T20:28:06+00:00",
+  "erro": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Acnn.com%20CDC%20cases%20OR%20virus%20OR%20infections%20when%3A7d&hl=en-US&gl=US&ceid=US:en"
  },
  "inmet": {
-  "em": "2026-11-16T09:39:07+00:00",
+  "em": "2026-11-16T20:28:06+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
-   "INMET participa de encontro internacional sobre calor extremo e saúde na Bolívia",
-   "El Niño deve perder força a partir do início de 2027 e chegar ao fim no outono",
-   "Previsão para sábado (14), domingo (15) e segunda-feira (16)"
+   "Previsão para terça-feira (17) e quarta-feira (18)",
+   "INMET divulga previsão para semana de 16 a 23 de novembro de 2026",
+   "INMET participa de encontro internacional sobre calor extremo e saúde na Bolívia"
   ]
  },
  "cemaden": {
-  "em": "2026-11-16T09:39:07+00:00",
+  "em": "2026-11-16T20:28:06+00:00",
   "lidos": 8,
   "novos": 0,
   "exemplos": [
@@ -220,23 +208,23 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-11-16T09:39:07+00:00",
-  "lidos": 23,
-  "novos": 0,
+  "em": "2026-11-16T20:28:06+00:00",
+  "lidos": 25,
+  "novos": 4,
   "exemplos": [
-   "Reconhecida emergência em 11 cidades afetadas por desastres",
+   "Reconhecida emergência na cidade piauiense de Dom Inocêncio",
    "Inmet participa de coletiva sobre o período chuvoso e os efeitos do El Niño no DF",
-   "Reconhecida emergência na cidade catarinense de São José do Cedro"
+   "Autorizado repasse de R$ 9,8 milhões para 13 cidades afetadas por desastres"
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-11-16T09:39:07+00:00",
+  "em": "2026-11-16T20:28:06+00:00",
   "lidos": 20,
-  "novos": 5,
+  "novos": 14,
   "exemplos": [
-   "Mulher é morta a facadas em Santa Maria neste domingo (15/11)",
-   "Suspeito de matar companheira a facadas em Santa Maria é preso; veja vídeo",
-   "Ciclistas amadores e profissionais destacam o prazer sobre duas rodas"
+   "Celina faz apelo a deputados distritais por emendas para saúde e infraestrutura",
+   "Pedestre morre atropelada ao tentar atravessar o Eixão Norte",
+   "Mãe e filha são atropeladas em Ceilândia; motorista foge do local e é preso"
   ]
  }
 }
