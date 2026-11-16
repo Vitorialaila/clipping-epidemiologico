@@ -449,6 +449,52 @@
   "motivo": ""
  },
  {
+  "id": "e3ed25b1af6707",
+  "titulo": "Suspeito de matar companheira a facadas em Santa Maria é preso; veja vídeo",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7539025-suspeito-de-matar-companheira-a-facadas-em-santa-maria-e-preso-veja-video.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-15",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-16T02:04:35+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "775a716b5424d9",
+  "titulo": "Mulher é morta a facadas em Santa Maria neste domingo (15/11)",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538986-mulher-e-morta-a-facadas-em-santa-maria-neste-domingo-15-11.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-15",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-16T02:04:35+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
   "id": "07b2d04343dee9",
   "titulo": "Em Brasília, 37% dos pacientes infectados por mpox vivem com HIV",
   "url": "https://www.metropoles.com/distrito-federal/em-brasilia-37-pacientes-infectados-por-mpox-vivem-com-hiv",
