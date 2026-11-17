@@ -1,5 +1,25 @@
 [
  {
+  "t": "Mpox: Secretaria de Saúde confirma 51 casos da doença no Distrito Federal",
+  "u": "https://www.metropoles.com/distrito-federal/mpox-secretaria-de-saude-confirma-51-casos-da-doenca-no-distrito-federal",
+  "d": "2026-11-17",
+  "df": "17 nov 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "DF",
+  "a": [
+   "Mpox"
+  ],
+  "p": 12.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "alerta"
+ },
+ {
   "t": "Maranhão registra nove casos confirmados da doença mpox ao longo de 2026",
   "u": "https://g1.globo.com/ma/maranhao/videos-bom-dia-mirante/video/maranhao-registra-nove-casos-confirmados-da-doenca-mpox-ao-longo-de-2026-15199048.ghtml",
   "d": "2026-11-17",
@@ -9,6 +29,60 @@
   "e": "Brasil",
   "a": [
    "Mpox"
+  ],
+  "p": 11.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "PAHO urges countries to step up efforts to stop measles outbreaks and move towards elimination in the Americas",
+  "u": "https://www.paho.org/en/news/17-11-2026-paho-urges-countries-step-efforts-stop-measles-outbreaks-and-move-towards",
+  "d": "2026-11-17",
+  "df": "17 nov 2026",
+  "f": "OPAS",
+  "fn": "OPAS | Notícias",
+  "e": "Américas",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 11.5,
+  "se": "2026-46",
+  "r": "PAHO urges countries to step up efforts to stop measles outbreaks and move towards elimination in the Americas Cristina Mitchell 17 Nov 2026",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Casos confirmados de sarampo em estados e países vizinhos acendem alerta em MS",
+  "u": "https://g1.globo.com/ms/mato-grosso-do-sul/ms1/video/casos-confirmados-de-sarampo-em-estados-e-paises-vizinhos-acendem-alerta-em-ms-15200888.ghtml",
+  "d": "2026-11-17",
+  "df": "17 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 11.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Ministério da Saúde alerta para casos de sarampo e Sesma reforça vacinação em Belém",
+  "u": "https://g1.globo.com/google/amp/pa/para/videos-bom-dia-para/video/ministerio-da-saude-alerta-para-casos-de-sarampo-e-sesma-reforca-vacinacao-em-belem-15199284.ghtml",
+  "d": "2026-11-17",
+  "df": "17 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Sarampo"
   ],
   "p": 11.5,
   "se": "2026-46",
@@ -93,6 +167,114 @@
   "c": "alerta"
  },
  {
+  "t": "Zona Sul e Centro concentram 37% dos casos de mpox no Rio; boate suspendeu atividades após aumento",
+  "u": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/17/concentra-casos-mpox-rio.ghtml",
+  "d": "2026-11-17",
+  "df": "17 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "condição de ALERTA para chuva intensa que atua nas proximidades de Soledade",
+  "u": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-alerta-para-chuva-intensa-que-atua-nas-proximidades-de-soledade",
+  "d": "2026-11-17",
+  "df": "17 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Defesa Civil do Rio Grande do Sul",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "HTLV e malária exigem atenção e cuidados específicos, alerta Policlínica de Formosa",
+  "u": "https://goias.gov.br/saude/htlv-e-malaria-exigem-atencao-e-cuidados-especificos-alerta-policlinica-de-formosa/",
+  "d": "2026-11-17",
+  "df": "17 nov 2026",
+  "f": "SES-GO",
+  "fn": "SES-GO | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Malária"
+  ],
+  "p": 9.0,
+  "se": "2026-46",
+  "r": "Unidade reforça importância da prevenção, da testagem e do diagnóstico precoce para combater as doenças",
+  "i": "mosquito",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Após 26 anos, Estados Unidos perdem status de país que eliminou o sarampo",
+  "u": "https://www.cnnbrasil.com.br/saude/apos-26-anos-estados-unidos-perdem-status-de-pais-que-eliminou-o-sarampo/",
+  "d": "2026-11-17",
+  "df": "17 nov 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Américas",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 8.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "The United States’ measles elimination status is officially gone. Who should get a booster?",
+  "u": "https://edition.cnn.com/2026/11/17/health/measles-vaccine-booster",
+  "d": "2026-11-17",
+  "df": "17 nov 2026",
+  "f": "CNN",
+  "fn": "CNN | Health",
+  "e": "Américas",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 8.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Goiás intensifica ações de vigilância e realiza ‘Dia S’ de mobilização para busca ativa de sarampo",
+  "u": "https://goias.gov.br/saude/goias-intensifica-acoes-de-vigilancia-e-realiza-dia-s-de-mobilizacao-para-busca-ativa-de-sarampo/",
+  "d": "2026-11-17",
+  "df": "17 nov 2026",
+  "f": "SES-GO",
+  "fn": "SES-GO | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 8.0,
+  "se": "2026-46",
+  "r": "Ação coordenada pela Secretaria de Estado da Saúde envolveu busca institucional, comunitária e laboratorial em todos os municípios para prevenir a reintrodução do vírus e elevar a proteção da população",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "Monitoramento da seca, realizado pelo Cemaden, é selecionado como destaque pelo Plano Nacional de Proteção e Defesa Civil",
   "u": "https://www.gov.br/cemaden/pt-br/assuntos/noticias-cemaden/monitoramento-da-seca-realizado-pelo-cemaden-e-selecionado-como-destaque-pelo-plano-nacional-de-protecao-e-defesa-civil",
   "d": "2026-11-17",
@@ -104,6 +286,134 @@
    "Saúde ambiental e clima"
   ],
   "p": 7.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "SC retoma alojamento de aves após controle da Doença de Newcastle",
+  "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/sc-retoma-alojamento-de-aves-apos-controle-da-doenca-de-newcastle",
+  "d": "2026-11-17",
+  "df": "17 nov 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Geral",
+  "e": "Brasil",
+  "a": [
+   "Saúde Única: zoonoses e eventos em animais"
+  ],
+  "p": 7.5,
+  "se": "2026-46",
+  "r": "O Ministério da Agricultura e Pecuária (Mapa) e a Companhia Integrada de Desenvolvimento Agrícola de Santa Catarina (Cidasc) anunciaram, nesta terça-feira (17), o fim das restrições ao trânsito e ao alojamento de aves em granjas de localidades do oeste…",
+  "i": "animal",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Três Corações confirma 128 casos de sarna humana e Sul de Minas chega a 20 cidades com registros da doença",
+  "u": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/17/tres-coracoes-confirma-128-casos-de-sarna-humana-e-sul-de-minas-chega-a-20-cidades-com-registros-da-doenca.ghtml",
+  "d": "2026-11-17",
+  "df": "17 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Escabiose"
+  ],
+  "p": 7.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "saude",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "História oral: artigo da HCS-Manguinhos aborda entrevista realizada com a parasitologista Maria Deane",
+  "u": "https://agencia.fiocruz.br/historia-oral-artigo-da-hcs-manguinhos-aborda-entrevista-realizada-com-parasitologista-maria-deane",
+  "d": "2026-11-17",
+  "df": "17 nov 2026",
+  "f": "Fiocruz",
+  "fn": "Agência Fiocruz de Notícias",
+  "e": "Brasil",
+  "a": [
+   "Febre amarela",
+   "Malária",
+   "Doença de Chagas aguda"
+  ],
+  "p": 7.0,
+  "se": "2026-46",
+  "r": "História oral: artigo da HCS-Manguinhos aborda entrevista realizada com a parasitologista Maria Deane Na Belém dos anos 1930, existiam três possibilidades para quem almejava ingressar no ensino superior: direito, engenharia e medicina. Maria escolheu a…",
+  "i": "mosquito",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Mpox também pode causar inflamação interna no reto e dor intensa",
+  "u": "https://www.cnnbrasil.com.br/saude/mpox-tambem-pode-causar-inflamacao-interna-no-reto-e-dor-intensa/",
+  "d": "2026-11-17",
+  "df": "17 nov 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Internacional",
+  "a": [
+   "Mpox"
+  ],
+  "p": 6.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Measles is officially not eliminated in the US anymore",
+  "u": "https://edition.cnn.com/measles-elimination-status-digvid-vrtc",
+  "d": "2026-11-17",
+  "df": "17 nov 2026",
+  "f": "CNN",
+  "fn": "CNN",
+  "e": "Internacional",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 6.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Fiocruz lamenta o falecimento do jornalista Edmilson Silva",
+  "u": "https://agencia.fiocruz.br/fiocruz-lamenta-o-falecimento-do-jornalista-edmilson-silva",
+  "d": "2026-11-17",
+  "df": "17 nov 2026",
+  "f": "Fiocruz",
+  "fn": "Agência Fiocruz de Notícias",
+  "e": "Brasil",
+  "a": [
+   "HIV/aids e IST"
+  ],
+  "p": 5.0,
+  "se": "2026-46",
+  "r": "Fiocruz lamenta o falecimento do jornalista Edmilson Silva A Fiocruz lamenta profundamente o falecimento aos 70 anos, no último sábado (14/11), do jornalista e poeta Edmilson Silva, que, em sua trajetória profissional, deixou uma marca permanente na…",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Not your parents’ El Niño: What this standout cycle means for you",
+  "u": "https://www.cnn.com/2026/11/17/climate/super-el-nino-record-breaking-unique-event",
+  "d": "2026-11-17",
+  "df": "17 nov 2026",
+  "f": "CNN",
+  "fn": "CNN",
+  "e": "Internacional",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 4.5,
   "se": "2026-46",
   "r": "",
   "i": "clima",
@@ -378,6 +688,24 @@
   "se": "2026-46",
   "r": "",
   "i": "respiratorio",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Defesa Civil orienta população a redobrar cuidados durante período de chuvas intensas",
+  "u": "https://www.secom.mt.gov.br/web/defesa-civil/w/defesa-civil-orienta-popula%C3%A7%C3%A3o-a-redobrar-cuidados-durante-per%C3%ADodo-de-chuvas-intensas",
+  "d": "2026-11-16",
+  "df": "16 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "www.secom.mt.gov.br",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "clima",
   "m": [],
   "c": "monitoramento"
  },
