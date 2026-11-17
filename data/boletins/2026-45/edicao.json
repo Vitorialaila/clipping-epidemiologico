@@ -1,0 +1,53 @@
+{
+ "edicao": "2026-45",
+ "se_codigo": "2026-45",
+ "rotulo": "SE 45/2026",
+ "se_numero": "45",
+ "se_ano": 2026,
+ "periodo": "8 a 14 de novembro de 2026",
+ "pdf": "boletins/boletim-SE45-2026.pdf",
+ "resumo": "A SE 45 de 2026 foi marcada por eventos climáticos extremos. O Pará lidera os focos de calor do país, com 184.710 no ano e recorde de 12.457 em outubro, e decretou emergência de Nível II por incêndios florestais em 13 de novembro, com 3.150 famílias expostas à fumaça na Resex Riozinho do Anfrísio. No Sul, temporais e sete tornados atingiram 262 municípios do Rio Grande do Sul e de Santa Catarina e o Paraná, com quatro óbitos em investigação e 70.491 pessoas afetadas no RS, e no DF um temporal alagou Ceilândia em 14 de novembro, enquanto o INMET emitiu aviso de tempestade para 2.819 municípios. A SRAG segue em queda no país, com 7.338 óbitos até a SE 44 e sinal de crescimento em quatro capitais; no DF, o SARS-CoV-2 chega a 40% a 50% das detecções da vigilância sentinela. A dengue soma 32.789 casos prováveis no país nas SE 41 a 44, alta de 19%, a chikungunya concentra-se em Mato Grosso do Sul e Patos de Minas (MG) confirmou febre amarela em primata não humano. A mpox acelera, com 188 casos confirmados e prováveis na SE 45 e 1.055 confirmados no ano, e o Ministério da Saúde comprou mais 25 mil doses de vacina. O Brasil confirma 77 casos de sarampo em 2026, com surto no Alto Solimões (AM) ligado ao Peru, e nenhuma região atinge a meta da segunda dose. A epidemia de Ebola pelo vírus Bundibugyo na República Democrática do Congo chega a 11.114 casos e 5.433 óbitos. Entre as atualidades, Óbidos (PA) investiga surto de doença de Chagas por vinho de patauá, com 8 casos e 1 óbito, e há surtos de escabiose em Minas Gerais e Mato Grosso do Sul.",
+ "secoes": [
+  {
+   "nome": "Alerta ambiental",
+   "risco": "Risco 2",
+   "itens": 8
+  },
+  {
+   "nome": "Síndrome gripal e SRAG",
+   "risco": "Risco 2",
+   "itens": 6
+  },
+  {
+   "nome": "Cobertura vacinal",
+   "risco": "Risco 0",
+   "itens": 1
+  },
+  {
+   "nome": "Arboviroses",
+   "risco": "Risco 2",
+   "itens": 6
+  },
+  {
+   "nome": "Mpox",
+   "risco": "Risco 4",
+   "itens": 4
+  },
+  {
+   "nome": "Sarampo",
+   "risco": "Risco 4",
+   "itens": 6
+  },
+  {
+   "nome": "Ebola",
+   "risco": "Risco 4",
+   "itens": 3
+  },
+  {
+   "nome": "Atualidades",
+   "risco": "",
+   "itens": 5
+  }
+ ],
+ "gerado_em": "2026-11-17T16:57:51+00:00"
+}
