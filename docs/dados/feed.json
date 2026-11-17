@@ -1,5 +1,116 @@
 [
  {
+  "t": "Maranhão registra nove casos confirmados da doença mpox ao longo de 2026",
+  "u": "https://g1.globo.com/ma/maranhao/videos-bom-dia-mirante/video/maranhao-registra-nove-casos-confirmados-da-doenca-mpox-ao-longo-de-2026-15199048.ghtml",
+  "d": "2026-11-17",
+  "df": "17 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 11.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Óbidos chega a 10 casos confirmados de doença de Chagas; um paciente segue internado",
+  "u": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/17/obidos-chega-a-10-casos-confirmados-de-doenca-de-chagas-um-paciente-segue-internado.ghtml",
+  "d": "2026-11-17",
+  "df": "17 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Doença de Chagas aguda"
+  ],
+  "p": 10.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "DF tem alerta amarelo de tempestade e máxima de 25°C nesta terça",
+  "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7539723-df-tem-alerta-amarelo-de-tempestade-e-maxima-de-25-c-nesta-terca.html",
+  "d": "2026-11-17",
+  "df": "17 nov 2026",
+  "f": "Correio Braziliense",
+  "fn": "Correio Braziliense | Cidades DF",
+  "e": "DF",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 10.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "clima",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Covid: médico alerta para o risco de tratar a doença como uma gripe comum.",
+  "u": "https://www.metropoles.com/saude/covid-medico-alerta-para-o-risco-de-tratar-a-doenca-como-uma-gripe-comum",
+  "d": "2026-11-17",
+  "df": "17 nov 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "Brasil",
+  "a": [
+   "Influenza e vírus respiratórios",
+   "COVID-19"
+  ],
+  "p": 10.0,
+  "se": "2026-46",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Secretaria de Estado de Saúde anunciou que vai divulgar diariamente número de casos de Mpox no estado do Rio",
+  "u": "https://g1.globo.com/rj/rio-de-janeiro/bom-dia-rio/video/secretaria-de-estado-de-saude-anunciou-que-vai-divulgar-diariamente-numero-de-casos-de-mpox-no-estado-do-rio-15199163.ghtml",
+  "d": "2026-11-17",
+  "df": "17 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Monitoramento da seca, realizado pelo Cemaden, é selecionado como destaque pelo Plano Nacional de Proteção e Defesa Civil",
+  "u": "https://www.gov.br/cemaden/pt-br/assuntos/noticias-cemaden/monitoramento-da-seca-realizado-pelo-cemaden-e-selecionado-como-destaque-pelo-plano-nacional-de-protecao-e-defesa-civil",
+  "d": "2026-11-17",
+  "df": "17 nov 2026",
+  "f": "Cemaden",
+  "fn": "Cemaden | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "Inema emite alerta para chuva forte e risco de alagamentos em todos os municípios da Bahia",
   "u": "https://www.ba.gov.br/comunicacao/noticias/2026-11/385564/inema-emite-alerta-para-chuva-forte-e-risco-de-alagamentos-em-todos-os",
   "d": "2026-11-16",
@@ -55,6 +166,60 @@
   "c": "alerta"
  },
  {
+  "t": "Surto se espalha por creches, e cidades vizinhas somam 108 casos de sarna humana em MS",
+  "u": "https://g1.globo.com/google/amp/ms/mato-grosso-do-sul/noticia/2026/11/16/surto-se-espalha-por-creches-e-cidades-vizinhas-somam-108-casos-de-sarna-humana-em-ms.ghtml",
+  "d": "2026-11-16",
+  "df": "16 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Escabiose"
+  ],
+  "p": 10.0,
+  "se": "2026-46",
+  "r": "",
+  "i": "saude",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Creche pública suspende aulas após surto de sarna em Dourados",
+  "u": "https://g1.globo.com/ms/mato-grosso-do-sul/g1-em-1-minuto/video/creche-publica-suspende-aulas-apos-surto-de-sarna-em-dourados-15191153.ghtml",
+  "d": "2026-11-16",
+  "df": "16 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Escabiose"
+  ],
+  "p": 10.0,
+  "se": "2026-46",
+  "r": "",
+  "i": "saude",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Uberaba registra alto risco de surto de dengue, aponta Liraa",
+  "u": "https://g1.globo.com/mg/triangulo-mineiro/video-integracao-noticia-uberaba/video/uberaba-registra-alto-risco-de-surto-de-dengue-aponta-liraa-15191390.ghtml",
+  "d": "2026-11-16",
+  "df": "16 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 10.0,
+  "se": "2026-46",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "atencao"
+ },
+ {
   "t": "ALERTA SEVERO: Defesa Civil de Mato Grosso alerta para chuvas intensas, ventos fortes e raios em Barra do Garças",
   "u": "https://www.barradogarcas.mt.gov.br/Imprensa/Noticias/Alerta-severo-defesa-civil-de-mato-grosso-alerta-para-chuvas-intensas-ventos-fortes-e-raios-em-barra-do-garcas-6090/",
   "d": "2026-11-16",
@@ -71,6 +236,114 @@
   "i": "clima",
   "m": [],
   "c": "monitoramento"
+ },
+ {
+  "t": "Número de casos confirmados de sarna humana em Vespasiano sobe para 25",
+  "u": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/16/numero-de-casos-confirmados-de-sarna-humana-em-vespasiano-sobe.ghtml",
+  "d": "2026-11-16",
+  "df": "16 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Escabiose"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "saude",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Três Rios confirma 1º caso de MPOX na cidade",
+  "u": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/16/tres-rios-confirma-1o-caso-de-mpox-na-cidade.ghtml",
+  "d": "2026-11-16",
+  "df": "16 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Casos de mpox crescem acima do previsto nas últimas semanas no Rio, diz prefeitura",
+  "u": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/16/casos-de-mpox-no-rio-prefeitura.ghtml",
+  "d": "2026-11-16",
+  "df": "16 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Homens concentram a maioria dos casos de mpox no RJ",
+  "u": "https://g1.globo.com/rj/rio-de-janeiro/rj2/video/homens-concentram-a-maioria-dos-casos-de-mpox-no-rj-15191794.ghtml",
+  "d": "2026-11-16",
+  "df": "16 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Confirmados 85 casos de MPOX no Ceará",
+  "u": "https://g1.globo.com/google/amp/ce/ceara/videos-cetv-1-edicao/video/confirmados-85-casos-de-mpox-no-ceara-15192246.ghtml",
+  "d": "2026-11-16",
+  "df": "16 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Três Rios confirma 1º caso de malária na cidade",
+  "u": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/16/tres-rios-confirma-1o-caso-de-malaria-na-cidade.ghtml",
+  "d": "2026-11-16",
+  "df": "16 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Malária"
+  ],
+  "p": 8.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Ministério da Saúde enviará doses adicionais de vacinas contra a Covid-19 aos estados",
@@ -141,6 +414,24 @@
   "se": "2026-46",
   "r": "",
   "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "More countries have antimicrobial resistance plans but patients still lack testing and treatment",
+  "u": "https://www.who.int/news/item/16-11-2026-more-countries-have-antimicrobial-resistance-plans-but-patients-still-lack-testing-and-treatment",
+  "d": "2026-11-16",
+  "df": "16 nov 2026",
+  "f": "OMS",
+  "fn": "OMS | Notícias",
+  "e": "Internacional",
+  "a": [
+   "Resistência antimicrobiana"
+  ],
+  "p": 4.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "bacteria",
   "m": [],
   "c": "monitoramento"
  },
@@ -295,6 +586,25 @@
   "i": "mosquito",
   "m": [],
   "c": "monitoramento"
+ },
+ {
+  "t": "Franca, SP, concentra desde outubro um terço dos casos de hepatite A de 2026",
+  "u": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/15/franca-sp-concentra-desde-outubro-um-terco-dos-casos-de-hepatite-a-de-2026.ghtml",
+  "d": "2026-11-15",
+  "df": "15 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Doenças transmitidas por alimentos e água",
+   "Hepatites virais"
+  ],
+  "p": 8.0,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Esporotricose: abandono de animais doentes pode contribuir para a contaminação; cidade do RS registra 25 casos em humanos",
@@ -774,6 +1084,24 @@
   "i": "virus",
   "m": [],
   "c": "monitoramento"
+ },
+ {
+  "t": "Ribeirão Preto, SP, confirma três casos de mpox em 2026",
+  "u": "https://g1.globo.com/sp/ribeirao-preto-franca/videos-bom-dia-cidade/video/ribeirao-preto-sp-confirma-tres-casos-de-mpox-em-2026-15184410.ghtml",
+  "d": "2026-11-13",
+  "df": "13 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-45",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "SC: campanha reúne doações para indígenas atingidos por tempestades",
