@@ -10,6 +10,7 @@ bater com o total; caso contrário, nada é gravado e o painel segue com o últi
 """
 from __future__ import annotations
 
+import json
 import re
 from datetime import date
 
@@ -180,6 +181,41 @@ def registros(capturar_agora: bool = True) -> tuple[int, list[dict]]:
     ano = int(cfg.get("ano", date.today().year))
     if capturar_agora:
         capturar(ano)
+        arq2 = ARQ_RECON.with_name("sarampo_painel_reconhecimento2.json")
+        if not arq2.exists():
+            from . import powerbi as pb
+            out = {}
+            try:
+                rel = pb.RelatorioPublico(URL_PAINEL)
+                est = rel.estrutura()
+                secs = est["exploration"]["sections"]
+                out["config_exemplos"] = [vc.get("config", "")[:3000] for vc in secs[0].get("visualContainers", [])[:6]]
+                out["chaves_visual"] = list(secs[0]["visualContainers"][0].keys())
+                E = {"t": "tb_exantemáticas"}
+                testes = {
+                    "suspeita_classif_ano": pb.consulta(E, [pb.coluna("t", "CS_SUSPEIT"), pb.coluna("t", "Classificacao_Final_Grafico"),
+                                                            pb.coluna("t", "NU_ANO"), pb.contagem("t", "ID")]),
+                    "agravo_classif": pb.consulta(E, [pb.coluna("t", "AGRAVO"), pb.coluna("t", "CS_SUSPEIT"),
+                                                      pb.coluna("t", "Classificacao_Final_Grafico"), pb.contagem("t", "ID")]),
+                    "datas": pb.consulta({"m": "medidas"}, [pb.medida("m", "Dados Ate"), pb.medida("m", "Ultima Atualizacao")]),
+                    "update_time": pb.consulta({"u": "update_time"}, [pb.coluna("u", "update_time")]),
+                    "arquivo": pb.consulta({"a": "data_arquivo"}, [pb.coluna("a", "Nome do arquivo"), pb.coluna("a", "Data de modificação")]),
+                    "medida_confirmados": pb.consulta({"m": "medidas", "t": "tb_exantemáticas"},
+                                                      [pb.coluna("t", "NU_ANO"), pb.coluna("t", "CS_SUSPEIT"), pb.medida("m", "Casos Confirmados")]),
+                }
+                for nome, q in testes.items():
+                    try:
+                        resp = rel.consultar(q, top=300)
+                        try:
+                            out[nome] = pb.linhas(resp)[:300]
+                        except Exception as e:  # noqa: BLE001
+                            out[nome] = {"erro_decod": str(e)[:200], "bruto": json.dumps(resp)[:3000]}
+                    except Exception as e:  # noqa: BLE001
+                        out[nome] = {"erro": str(e)[:300]}
+            except Exception as e:  # noqa: BLE001
+                import traceback
+                out["erro"] = traceback.format_exc()[-2000:]
+            salvar_json(arq2, out)
         if not ARQ_RECON.exists():  # reconhecimento da estrutura do painel do MS (uma vez)
             from . import powerbi
             try:

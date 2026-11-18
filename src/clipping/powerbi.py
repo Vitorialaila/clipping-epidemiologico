@@ -157,3 +157,30 @@ def reconhecer(url: str) -> dict:
     info["paginas"] = paginas
     log.info("Power BI: %d visuais reconhecidos.", len(info["visuais"]))
     return info
+
+
+def coluna(fonte: str, prop: str) -> dict:
+    return {"Column": {"Expression": {"SourceRef": {"Source": fonte}}, "Property": prop}, "Name": f"{fonte}.{prop}"}
+
+
+def medida(fonte: str, prop: str) -> dict:
+    return {"Measure": {"Expression": {"SourceRef": {"Source": fonte}}, "Property": prop}, "Name": f"{fonte}.{prop}"}
+
+
+def contagem(fonte: str, prop: str) -> dict:
+    return {"Aggregation": {"Expression": {"Column": {"Expression": {"SourceRef": {"Source": fonte}}, "Property": prop}},
+                            "Function": 5}, "Name": f"Count({fonte}.{prop})"}
+
+
+def filtro_em(fonte: str, prop: str, valores: list) -> dict:
+    lit = lambda v: {"Literal": {"Value": (f"{v}L" if isinstance(v, int) else "'" + str(v).replace("'", "''") + "'")}}
+    return {"Condition": {"In": {"Expressions": [{"Column": {"Expression": {"SourceRef": {"Source": fonte}},
+                                                               "Property": prop}}],
+                                 "Values": [[lit(v)] for v in valores]}}}
+
+
+def consulta(entidades: dict, select: list, where: list | None = None) -> dict:
+    q = {"Version": 2, "From": [{"Name": k, "Entity": v, "Type": 0} for k, v in entidades.items()], "Select": select}
+    if where:
+        q["Where"] = where
+    return q
