@@ -1,14 +1,26 @@
 {
  "oms-don": {
-  "em": "2026-11-18T13:56:47+00:00",
-  "erro": "HTTPSConnectionPool(host='www.who.int', port=443): Read timed out. (read timeout=30)"
+  "em": "2026-11-18T21:55:14+00:00",
+  "lidos": 30,
+  "novos": 1,
+  "exemplos": [
+   "Chikungunya virus disease - Switzerland",
+   "Middle East respiratory syndrome (MERS) – Qatar",
+   "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo, Kenya and Nigeria"
+  ]
  },
  "oms-noticias": {
-  "em": "2026-11-18T13:56:47+00:00",
-  "erro": "HTTPSConnectionPool(host='www.who.int', port=443): Read timed out. (read timeout=30)"
+  "em": "2026-11-18T21:55:14+00:00",
+  "lidos": 40,
+  "novos": 3,
+  "exemplos": [
+   "Governments make over 230 new pledges to prevent violence against children",
+   "Leaders commit to accelerate action on obesity prevention and control",
+   "Evidence mounts that exposure to hormone-disrupting chemicals starts before birth: UNEP–WHO report"
+  ]
  },
  "opas-alertas": {
-  "em": "2026-11-18T13:56:47+00:00",
+  "em": "2026-11-18T21:55:14+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -18,17 +30,17 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-11-18T13:56:47+00:00",
+  "em": "2026-11-18T21:55:14+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "PAHO warns of increasing resistance to antibiotics used to treat serious infections in the Americas",
    "PAHO urges countries to step up efforts to stop measles outbreaks and move towards elimination in the Americas",
-   "PAHO inaugurates Shared Services Hub in Lima to modernize its operations",
-   "Public university hospitals in the Americas to develop regional alliance to strengthen health systems"
+   "PAHO inaugurates Shared Services Hub in Lima to modernize its operations"
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-11-18T13:56:47+00:00",
+  "em": "2026-11-18T21:55:14+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -38,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-11-18T13:56:47+00:00",
+  "em": "2026-11-18T21:55:14+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -48,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-11-18T13:56:47+00:00",
+  "em": "2026-11-18T21:55:14+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -58,9 +70,9 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-11-18T13:56:47+00:00",
+  "em": "2026-11-18T21:55:14+00:00",
   "lidos": 10,
-  "novos": 2,
+  "novos": 0,
   "exemplos": [
    "Stockholm welcomes scientific experts to ESCAIDE – Europe’s leading annual public health conference",
    "Urgent action needed to safeguard the effectiveness of antibiotics",
@@ -68,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-11-18T13:56:47+00:00",
+  "em": "2026-11-18T21:55:14+00:00",
   "lidos": 2352,
   "novos": 0,
   "exemplos": [
@@ -78,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-11-18T13:56:47+00:00",
+  "em": "2026-11-18T21:55:14+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -88,99 +100,99 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-11-18T13:56:47+00:00",
+  "em": "2026-11-18T21:55:14+00:00",
   "lidos": 14,
-  "novos": 0,
+  "novos": 2,
   "exemplos": [
-   "Força Nacional do SUS completa 15 anos com mais de 10 milhões de pessoas beneficiadas em todo o Brasil",
-   "Brasil mantém eliminação do sarampo após avanço da doença em países das Américas",
-   "Ministério da Saúde apresenta quatro projetos para acelerar o desenvolvimento de novos tratamentos e tecnologias para o "
+   "Encontro nacional reúne projetos de apoio à formação em saúde e à permanência estudantil",
+   "Ministério da Saúde envia ao município do Rio mais mil frascos de vacina contra mpox",
+   "Força Nacional do SUS completa 15 anos com mais de 10 milhões de pessoas beneficiadas em todo o Brasil"
   ]
  },
  "fiocruz": {
-  "em": "2026-11-18T13:56:47+00:00",
+  "em": "2026-11-18T21:55:14+00:00",
   "lidos": 10,
-  "novos": 2,
+  "novos": 1,
   "exemplos": [
+   "Encontro propõe ampliar a participação de terapeutas tradicionais no SUS",
    "Covid-19: Fiocruz identifica predominância da linhagem PJ.2.1 do vírus no Rio de Janeiro",
-   "Consulta pública abre escuta para estruturação do maior complexo para produção de imunobiológicos da América Latina",
-   "Fiocruz lamenta o falecimento do jornalista Edmilson Silva"
+   "Consulta pública abre escuta para estruturação do maior complexo para produção de imunobiológicos da América Latina"
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-11-18T13:56:47+00:00",
-  "lidos": 10,
-  "novos": 0,
-  "exemplos": [
-   "Suplementos alimentares têm fabricação e venda suspensas no Brasil",
-   "Botox poderá ser usado no relaxamento do músculo da mastigação",
-   "Anvisa proíbe dois tira-manchas à base de percarbonato de sódio"
-  ]
- },
- "ses-go": {
-  "em": "2026-11-18T13:56:47+00:00",
-  "lidos": 10,
-  "novos": 3,
-  "exemplos": [
-   "Extrato do 2º Termo Aditivo ao Convênio n.º 014/2021 – SES/GO",
-   "Aviso de Licitação do P.E. n.º 227/2026",
-   "Aviso de Licitação do P.E. n.º 226/2026"
-  ]
- },
- "agencia-brasil-geral": {
-  "em": "2026-11-18T13:56:47+00:00",
+  "em": "2026-11-18T21:55:14+00:00",
   "lidos": 10,
   "novos": 2,
   "exemplos": [
+   "SP recebe novas doses da vacina contra a mpox; saiba quem pode receber",
+   "Agência Brasil conquista 1º lugar no Prêmio Einstein +Admirados",
+   "Suplementos alimentares têm fabricação e venda suspensas no Brasil"
+  ]
+ },
+ "ses-go": {
+  "em": "2026-11-18T21:55:14+00:00",
+  "lidos": 10,
+  "novos": 10,
+  "exemplos": [
+   "Extrato da Portaria nº 3467/2026 – SES/GO",
+   "Extrato da Portaria nº 3466/2026 – SES/GO",
+   "Extrato da Portaria nº 3465/2026 – SES/GO"
+  ]
+ },
+ "agencia-brasil-geral": {
+  "em": "2026-11-18T21:55:14+00:00",
+  "lidos": 10,
+  "novos": 1,
+  "exemplos": [
+   "PRF inicia operação para garantir a segurança nas estradas no feriadão",
    "Agências bancárias fecham para atendimento presencial nesta sexta (20)",
-   "Bolsa Família: Caixa paga beneficiários com NIS de final 3 a 0",
-   "SC retoma alojamento de aves após controle da Doença de Newcastle"
+   "Bolsa Família: Caixa paga beneficiários com NIS de final 3 a 0"
   ]
  },
  "g1-busca": {
-  "em": "2026-11-18T13:56:47+00:00",
-  "lidos": 478,
-  "novos": 5,
+  "em": "2026-11-18T21:55:14+00:00",
+  "lidos": 439,
+  "novos": 14,
   "exemplos": [
    "Divinópolis investiga dois casos suspeitos de Mpox",
-   "Divinópolis confirma primeiro caso de Mpox: 'paciente está estável', diz Prefeitura",
-   "Pacientes com suspeita de Mpox são isolados durante investigação em cidade de MG"
+   "Divinópolis acompanha dois casos suspeitos de mpox",
+   "Divinópolis confirma primeiro caso de Mpox: 'paciente está estável', diz Prefeitura"
   ]
  },
  "metropoles-busca": {
-  "em": "2026-11-18T13:56:47+00:00",
-  "lidos": 65,
-  "novos": 1,
+  "em": "2026-11-18T21:55:14+00:00",
+  "lidos": 68,
+  "novos": 0,
   "exemplos": [
    "“Mpox pode ser só uma bolha e o paciente não dar bola”, diz médico da SBI.",
-   "Mpox: DF confirma 44 casos e registra aumento de 91% em uma semana",
-   "Mpox avança em outubro e novembro, e Brasil chega a 1.055 casos com 1 morte"
+   "Mpox: DF chega a 52 casos confirmados e 112 doses de vacina aplicadas",
+   "BH registra casos de sarna humana e acende alerta na Região Metropolitana"
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-11-18T13:56:47+00:00",
+  "em": "2026-11-18T21:55:14+00:00",
   "lidos": 25,
-  "novos": 0,
+  "novos": 2,
   "exemplos": [
-   "Repórter do CNN Sinais Vitais é reconhecida pelo Prêmio Einstein +Admirados",
-   "Estudo identifica padrões de linguagem ligados a traços de psicopatia",
-   "Novas tecnologias transformam o tratamento do câncer de próstata"
+   "Novo exame de sangue é capaz de medir a progressão do Alzheimer; entenda",
+   "Após 433 casos de Mpox, SP recebe mil novas doses de vacina",
+   "Estética íntima masculina: correção de deformidades ou busca pelo ideal?"
   ]
  },
  "cnn-saude": {
-  "em": "2026-11-18T13:56:47+00:00",
+  "em": "2026-11-18T21:55:14+00:00",
   "lidos": 23,
   "novos": 0,
   "exemplos": [
-   "The United States’ measles elimination status is officially gone. Who should get a booster?",
+   "Why SNL’s ‘Sister’ sketch hit a nerve about the reality of caregiving",
    "The US has had the tools to control measles for almost 65 years. Here’s how it’s come raging back",
-   "A newborn died in a faith-healing sect. The state — and one ex-believer — stepped in to save her twin."
+   "A ‘clear recommendation’ for men: Get screened for prostate cancer"
   ]
  },
  "cnn-busca": {
-  "em": "2026-11-18T13:56:47+00:00",
-  "lidos": 70,
-  "novos": 0,
+  "em": "2026-11-18T21:55:14+00:00",
+  "lidos": 52,
+  "novos": 2,
   "exemplos": [
    "The United States’ measles elimination status is officially gone. Who should get a booster?",
    "After 26 years, the US has lost its measles elimination status",
@@ -188,17 +200,17 @@
   ]
  },
  "inmet": {
-  "em": "2026-11-18T13:56:47+00:00",
+  "em": "2026-11-18T21:55:14+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
-   "Previsão para quarta-feira (18) e quinta-feira (19)",
-   "Previsão para terça-feira (17) e quarta-feira (18)",
-   "INMET divulga previsão para semana de 16 a 23 de novembro de 2026"
+   "INMET celebra 117 anos em cerimônia na sede do Instituto, em Brasília",
+   "Previsão para quinta-feira (19) e sexta-feira (20)",
+   "El Niño impõe desafios ao plantio da soja e chuvas de novembro melhoram o cenário no Tocantins e sul do Pará"
   ]
  },
  "cemaden": {
-  "em": "2026-11-18T13:56:47+00:00",
+  "em": "2026-11-18T21:55:14+00:00",
   "lidos": 8,
   "novos": 0,
   "exemplos": [
@@ -208,23 +220,23 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-11-18T13:56:47+00:00",
-  "lidos": 23,
-  "novos": 1,
+  "em": "2026-11-18T21:55:14+00:00",
+  "lidos": 22,
+  "novos": 0,
   "exemplos": [
-   "Adrianópolis, no Paraná, vai receber R$ 602 mil para ações de resposta",
-   "Reconhecida emergência em 61 cidades paraenses afetadas por incêndios florestais",
-   "Reconhecida emergência em 17 cidades afetadas por desastres"
+   "Autorizado repasse de R$ 7,2 milhões para ações de defesa civil no Amazonas",
+   "Lançamento de guia para o Programa Defesa Civil nas Escolas é tema de debate",
+   "Reconhecida emergência em 61 cidades paraenses afetadas por incêndios florestais"
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-11-18T13:56:47+00:00",
+  "em": "2026-11-18T21:55:14+00:00",
   "lidos": 20,
   "novos": 5,
   "exemplos": [
-   "Secretaria de Saúde traça plano de resposta ao El Niño",
-   "Correio vence o Prêmio Longevidade Bradesco com série sobre terceira idade",
-   "PCDF prende casal em central clandestina de anabolizantes e emagrecedores"
+   "PCDF prende casal em central clandestina de anabolizantes e emagrecedores",
+   "ParkShopping inaugura 10ª expansão com 60 novas operações em Brasília",
+   "Prêmio JK Correio Braziliense: acompanhe os vencedores"
   ]
  }
 }

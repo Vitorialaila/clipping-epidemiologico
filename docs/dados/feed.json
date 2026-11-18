@@ -1,5 +1,25 @@
 [
  {
+  "t": "Aumenta os casos de MPOX no DF: Brasília recebeu reforço de doses da vacina contra a doença",
+  "u": "https://g1.globo.com/df/distrito-federal/df1/video/aumenta-os-casos-de-mpox-no-df-brasilia-recebeu-reforco-de-doses-da-vacina-contra-a-doenca-15205052.ghtml",
+  "d": "2026-11-18",
+  "df": "18 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "DF",
+  "a": [
+   "Mpox"
+  ],
+  "p": 12.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "alerta"
+ },
+ {
   "t": "Divinópolis confirma primeiro caso de Mpox: 'paciente está estável', diz Prefeitura",
   "u": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/18/divinopolis-confirma-primeiro-caso-de-mpox-paciente-esta-estavel-diz-prefeitura.ghtml",
   "d": "2026-11-18",
@@ -54,6 +74,24 @@
   "c": "alerta"
  },
  {
+  "t": "Vale, Serra e Litoral têm 6 casos confirmados de MPOX em 2026",
+  "u": "https://g1.globo.com/google/amp/sp/vale-do-paraiba-regiao/videos-link-vanguarda/video/vale-serra-e-litoral-tem-6-casos-confirmados-de-mpox-em-2026-15212760.ghtml",
+  "d": "2026-11-18",
+  "df": "18 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 11.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Pacientes com suspeita de Mpox são isolados durante investigação em cidade de MG",
   "u": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/18/pacientes-com-suspeita-de-mpox-sao-isolados-durante-investigacao-em-cidade-de-mg.ghtml",
   "d": "2026-11-18",
@@ -92,6 +130,42 @@
   "c": "monitoramento"
  },
  {
+  "t": "Ministério da Saúde envia ao município do Rio mais mil frascos de vacina contra mpox",
+  "u": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/ministerio-da-saude-envia-ao-municipio-do-rio-mais-mil-frascos-de-vacina-contra-mpox",
+  "d": "2026-11-18",
+  "df": "18 nov 2026",
+  "f": "MS",
+  "fn": "Ministério da Saúde | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 10.0,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Surto avança e MS registra 112 casos de sarna humana em três cidades",
+  "u": "https://g1.globo.com/ms/mato-grosso-do-sul/g1-em-1-minuto/video/surto-avanca-e-ms-registra-112-casos-de-sarna-humana-em-tres-cidades-15205001.ghtml",
+  "d": "2026-11-18",
+  "df": "18 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Escabiose"
+  ],
+  "p": 10.0,
+  "se": "2026-46",
+  "r": "",
+  "i": "saude",
+  "m": [],
+  "c": "atencao"
+ },
+ {
   "t": "Divinópolis investiga dois casos suspeitos de Mpox",
   "u": "https://g1.globo.com/mg/triangulo-mineiro/mg2-uberaba/video/divinopolis-investiga-dois-casos-suspeitos-de-mpox-15201743.ghtml",
   "d": "2026-11-18",
@@ -128,8 +202,152 @@
   "c": "monitoramento"
  },
  {
+  "t": "MS confirma segundo caso de mpox em 2026; outras duas suspeitas são investigadas",
+  "u": "https://g1.globo.com/google/amp/ms/mato-grosso-do-sul/noticia/2026/11/18/ms-confirma-segundo-caso-de-mpox-em-2026-outras-duas-suspeitas-sao-investigadas.ghtml",
+  "d": "2026-11-18",
+  "df": "18 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Caso de mpox é confirmado em paciente atendido em Cabo Frio",
+  "u": "https://g1.globo.com/google/amp/rj/regiao-dos-lagos/noticia/2026/11/18/caso-de-mpox-e-confirmado-em-paciente-atendido-em-cabo-frio.ghtml",
+  "d": "2026-11-18",
+  "df": "18 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Três Corações amplia atendimento em posto de saúde após casos confirmados de sarna humana",
+  "u": "https://g1.globo.com/mg/sul-de-minas/videos-jornal-da-eptv-1-edicao/video/tres-coracoes-amplia-atendimento-em-posto-de-saude-apos-casos-confirmados-de-sarna-humana-15207757.ghtml",
+  "d": "2026-11-18",
+  "df": "18 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Escabiose"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "saude",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Sesa registra casos de Mpox em Maringá e Marialva",
+  "u": "https://g1.globo.com/pr/norte-noroeste/videos-meio-dia-parana-maringa/video/sesa-registra-casos-de-mpox-em-maringa-e-marialva-15208900.ghtml",
+  "d": "2026-11-18",
+  "df": "18 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Após 433 casos de Mpox, SP recebe mil novas doses de vacina",
+  "u": "https://www.cnnbrasil.com.br/saude/com-433-casos-confirmados-sp-recebe-mil-novas-doses-de-vacina-contra-mpox/",
+  "d": "2026-11-18",
+  "df": "18 nov 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "SP recebe novas doses da vacina contra a mpox; saiba quem pode receber",
+  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/sp-recebe-novas-doses-da-vacina-contra-mpox-saiba-quem-pode-receber",
+  "d": "2026-11-18",
+  "df": "18 nov 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.0,
+  "se": "2026-46",
+  "r": "Com o aumento de número de casos, o Ministério da Saúde começou a enviar novas doses de vacina contra a mpox para o estado de São Paulo. Segundo a Secretaria estadual da Saúde, São Paulo recebeu esta semana uma nova remessa de mil doses da vacina, que já…",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "Marília registra sete mortes por meningite neste ano, maior número dos últimos cinco anos",
-  "u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYm1uUHFVaWlFdmdrNkdaU19BTkVNU2wyMUJ2ZVFodmJZdjg3a01HWmYtYmxlYVZMeVc5X3ZLSHRPUFoyanpvS2F2a3BFTTVySlhaVzlNVGJnQkR6ZzdpbFA0cFdLM2FkM3d0VDVyYWF3VjREVVVORkhwWl8wWEVSTzZlbldGbDlVLWstYURaNzQ2YVFyTW4wb0gyd1hPYlBoOTBlTG96QzUxRUNIVVdsRjE3b2xnQ2JiQ214YzhHMkpFb3FXYzBKdGJRU0w0YjhPWGVXN3RGSEpoNjZTajVXREVzMVVCSUN1WjNGRVhCdm9LSWMxZkJLOFgyc3ltUdIBjAJBVV95cUxON1pwbUdUN1hmd3dMN01OUkNHdzZhS2pwcjdUN2k5dXBybC1DTDlKTDRYRWFaVjJ2SnBMVlI2blk2RnJxbFVCVjhhczdPYzFaeEFSUEp2ZS00TUd3QlRfYUtReTFMdER2aXdRbm5YQ3FWSXBhaEMzLTVFNkFSNTRGNjlmd3RkSndFeGdzaDJIZ3hxMFdiQTZBUTVJTWJfck9EUDlOQUVBOGxWU2R0eUdzdkM5cEM0bm5LM2F3MWNWOVluNDFtUGhDYUxSQU14MDRTYVJXU3JYR3VyN1JBLVBNN25qZlZOY2tWcVVwRXNRaFJjV3VEczBNYUlmSHFfUTVBclpXVG1wS0V3RHdZ?oc=5",
+  "u": "https://g1.globo.com/sp/bauru-marilia/videos-bom-dia-cidade/video/marilia-registra-sete-mortes-por-meningite-neste-ano-maior-numero-dos-ultimos-cinco-anos-15202282.ghtml",
+  "d": "2026-11-18",
+  "df": "18 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Doença meningocócica e meningites"
+  ],
+  "p": 8.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "bacteria",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Campinas tem 3ª morte por febre maculosa em 2026; vítima é trabalhadora da Unicamp e teria sido infectada na universidade",
+  "u": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/18/campinas-terceira-morte-febre-maculosa-vitima-infectada-unicamp.ghtml",
+  "d": "2026-11-18",
+  "df": "18 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Febre maculosa e riquetsioses"
+  ],
+  "p": 8.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "animal",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Família de adolescente que morreu de meningite será indenizada",
+  "u": "https://g1.globo.com/go/goias/videos-ja-1-edicao/video/familia-de-adolescente-que-morreu-de-meningite-sera-indenizada-15208230.ghtml",
   "d": "2026-11-18",
   "df": "18 nov 2026",
   "f": "G1",
@@ -180,6 +398,132 @@
   "i": "virus",
   "m": [],
   "c": "atencao"
+ },
+ {
+  "t": "Creche fecha e Campo Grande investiga três casos de sarna humana",
+  "u": "https://g1.globo.com/google/amp/ms/mato-grosso-do-sul/noticia/2026/11/18/creche-publica-e-fechada-apos-confirmacao-de-caso-de-sarna-em-campo-grande.ghtml",
+  "d": "2026-11-18",
+  "df": "18 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Escabiose"
+  ],
+  "p": 7.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "saude",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Veja orientações para identificar e prevenir a sarna humana após mais de 110 casos em MS",
+  "u": "https://g1.globo.com/google/amp/ms/mato-grosso-do-sul/noticia/2026/11/18/veja-orientacoes-para-identificar-e-prevenir-a-sarna-humana-apos-mais-de-110-casos-em-ms.ghtml",
+  "d": "2026-11-18",
+  "df": "18 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Escabiose"
+  ],
+  "p": 7.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "saude",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Prefeitura de São Gonçalo do Sapucaí suspende aulas nas escolas municipais em prevenção contra sarna humana",
+  "u": "https://g1.globo.com/google/amp/mg/sul-de-minas/noticia/2026/11/18/prefeitura-de-sao-goncalo-do-sapucai-suspende-aulas-nas-escolas-municipais-em-prevencao-contra-sarna-humana.ghtml",
+  "d": "2026-11-18",
+  "df": "18 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Escabiose"
+  ],
+  "p": 7.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "saude",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Governador Valadares registra aumento nos casos de covid em novembro",
+  "u": "https://g1.globo.com/mg/vales-mg/videos-bom-dia-inter/video/governador-valadares-registra-aumento-nos-casos-de-covid-em-novembro-15211954.ghtml",
+  "d": "2026-11-18",
+  "df": "18 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 7.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Covid-19: máscara volta a ser obrigatória em hospitais de cidade em MG",
+  "u": "https://www.cnnbrasil.com.br/saude/covid-19-mascara-volta-a-ser-obrigatoria-em-hospitais-de-cidade-em-mg/",
+  "d": "2026-11-18",
+  "df": "18 nov 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 7.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "El Niño impõe desafios ao plantio da soja e chuvas de novembro melhoram o cenário no Tocantins e sul do Pará",
+  "u": "https://portal.inmet.gov.br/noticias/el-niño-impõe-desafios-ao-plantio-da-soja-e-chuvas-de-novembro-melhoram-o-cenário-no-tocantins-e-sul-do-pará",
+  "d": "2026-11-18",
+  "df": "18 nov 2026",
+  "f": "INMET",
+  "fn": "INMET | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "‘The horse has left the barn’: Zeke Emanuel on measles’ return to US",
+  "u": "https://www.cnn.com/2026/11/18/tv/video/amanpour-emanuel-measles",
+  "d": "2026-11-18",
+  "df": "18 nov 2026",
+  "f": "CNN",
+  "fn": "CNN",
+  "e": "Internacional",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 6.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Mpox: Secretaria de Saúde confirma 51 casos da doença no Distrito Federal",
@@ -274,6 +618,24 @@
   "c": "alerta"
  },
  {
+  "t": "Maranhão registra oito casos de Mpox este mês e reforça alerta para prevenção",
+  "u": "https://g1.globo.com/ma/maranhao/videos-jmtv-2-edicao/video/maranhao-registra-oito-casos-de-mpox-este-mes-e-reforca-alerta-para-prevencao-15201438.ghtml",
+  "d": "2026-11-17",
+  "df": "17 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 11.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Óbidos chega a 10 casos confirmados de doença de Chagas; um paciente segue internado",
   "u": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/17/obidos-chega-a-10-casos-confirmados-de-doenca-de-chagas-um-paciente-segue-internado.ghtml",
   "d": "2026-11-17",
@@ -326,6 +688,26 @@
   "se": "2026-46",
   "r": "",
   "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Chikungunya virus disease - Switzerland",
+  "u": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON627",
+  "d": "2026-11-17",
+  "df": "17 nov 2026",
+  "f": "OMS",
+  "fn": "OMS | Disease Outbreak News",
+  "e": "Internacional",
+  "a": [
+   "Chikungunya",
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 10.5,
+  "se": "2026-46",
+  "r": "On 4 November 2026, health authorities in the canton of Ticino, Switzerland, in coordination with federal authorities, reported four locally acquired cases of chikungunya virus disease. These are the first reported locally acquired chikungunya cases in…",
+  "i": "mosquito",
   "m": [],
   "c": "alerta"
  },
