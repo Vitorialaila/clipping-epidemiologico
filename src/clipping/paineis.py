@@ -314,6 +314,26 @@ class PainelSarampoBrasil(PainelVigilancia):
         return {"data": f["data"], "layout": f["layout"], "div_id": "curva_sarampo_br", "largura": "inteira",
                 "config": {"displayModeBar": False}}
 
+    def _curva_se(self, curva: dict, ano: int, ref: str) -> dict:
+        ses = sorted(int(k) for k in curva)
+        x = list(range(1, max(ses) + 1))
+        y = [curva.get(str(se), 0) for se in x]
+        fig = go.Figure(go.Bar(
+            x=x, y=y, marker=dict(color=NAVY),
+            hovertemplate="<b>SE %{x}</b><br>%{y} caso(s) confirmado(s)<extra></extra>",
+        ))
+        fig.update_layout(
+            **LAYOUT_BASE,
+            title=dict(text=f"<b>Casos confirmados por semana de início do exantema, {ano}</b>"
+                            f"<br><sup>dados até {ref}</sup>", font=dict(size=15, color=NAVY)),
+            height=340, margin=dict(l=50, r=30, t=80, b=50), showlegend=False, bargap=0.25,
+            xaxis=dict(title="Semana epidemiológica de início do exantema", dtick=2, showgrid=False),
+            yaxis=dict(title="Casos confirmados", gridcolor="#EEE9DD", zeroline=False, rangemode="tozero"),
+        )
+        f = fig.to_dict()
+        return {"data": f["data"], "layout": f["layout"], "div_id": "curva_se_sarampo_br", "largura": "inteira",
+                "config": {"displayModeBar": False}}
+
     def coletar(self) -> bool:
         from . import sarampo_brasil
         try:
@@ -341,12 +361,16 @@ class PainelSarampoBrasil(PainelVigilancia):
              "rotulo": "óbitos" if not com_obitos or com_obitos is atual
              else f"óbitos (até {_data_br(com_obitos['data_referencia'])})"},
             {"valor": str(sum(1 for n in ufs.values() if n)), "rotulo": "UFs com casos"},
-            {"valor": f"SE {atual['se']}", "rotulo": f"dados até {ref}"},
         ]
+        if atual.get("em_investigacao") is not None:
+            self.dados["kpis"].append({"valor": f"{atual['em_investigacao']:,}".replace(",", "."),
+                                       "rotulo": "casos suspeitos em investigação"})
+        self.dados["kpis"].append({"valor": f"SE {atual['se']}", "rotulo": f"dados até {ref}"})
         self.dados["graficos"] = [
             self._mapa(ufs, ref_ufs) if ufs else None,
             self._barras(ufs, ref_ufs) if ufs else None,
-            self._curva(regs, ano) if len(regs) > 1 else None,
+            self._curva_se(atual["curva_se"], ano, ref) if atual.get("curva_se")
+            else (self._curva(regs, ano) if len(regs) > 1 else None),
         ]
         self.dados["graficos"] = [g for g in self.dados["graficos"] if g]
         notas = []
@@ -354,6 +378,17 @@ class PainelSarampoBrasil(PainelVigilancia):
             notas.append(atual["nota"])
         if atual.get("origem"):
             notas.append(f"Fonte de infecção: {atual['origem']}.")
+        if atual.get("captura") == "painel":
+            notas.append("Painel de Exantemáticas do Ministério da Saúde (dados do SINAN), filtrado para sarampo: "
+                         "casos com classificação final confirmada e agravo final sarampo, por UF de residência e "
+                         "semana de início do exantema. Os números podem diferir dos informes do MS, que são "
+                         "consolidados em outra data.")
+            if atual.get("uf_ignorada"):
+                n = atual["uf_ignorada"]
+                notas.append(f"{n} caso{'s' if n > 1 else ''} sem UF de residência informada no painel "
+                             f"({'entram' if n > 1 else 'entra'} no total, mas não no mapa).")
+            if com_obitos and com_obitos is not atual:
+                notas.append("O painel não informa óbitos; o número de óbitos vem da última publicação do MS que o traz.")
         if com_ufs is not atual and ufs:
             notas.append(f"A distribuição por UF refere-se a {ref_ufs}, última publicação do MS com detalhamento por UF.")
         self.dados["notas"] = notas

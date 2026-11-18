@@ -1,6 +1,7 @@
 """Sarampo no Brasil: captura dos números oficiais do Ministério da Saúde.
 
-Fonte automática: página "Situação Epidemiológica do Sarampo" (gov.br/saude), que traz o total
+Fonte principal: Painel de Exantemáticas do CNIE/MS (Power BI público), filtrado para sarampo.
+Fonte complementar: página "Situação Epidemiológica do Sarampo" (gov.br/saude), que traz o total
 de casos confirmados no ano até uma semana epidemiológica e a distribuição por UF.
 Fonte manual: config/sarampo_brasil.yaml (informes, notas e correções).
 
@@ -26,7 +27,9 @@ ARQ_STATUS = DADOS / "paineis" / "historico" / "sarampo_brasil_status.json"
 # Painel de Exantemáticas do CNIE/MS (Power BI público), linkado na página de situação do sarampo
 URL_PAINEL = ("https://app.powerbi.com/view?r=eyJrIjoiNjYxM2M1MjItY2M0Ny00YzJiLThmYzktMGM2MzAwMmE2NGI5IiwidCI6IjlhNTU0"
               "YWQzLWI1MmItNDg2Mi1hMzZmLTg0ZDg5MWU1YzcwNSJ9")
-ARQ_RECON = DADOS / "paineis" / "historico" / "sarampo_painel_reconhecimento.json"
+URL_PAINEL_PAGINA = "https://www.gov.br/saude/pt-br/composicao/svsa/cnie/painel-exantematicas"
+FONTE_PAINEL = "Ministério da Saúde, Painel de Exantemáticas (CNIE)"
+ARQ_STATUS_PAINEL = DADOS / "paineis" / "historico" / "sarampo_painel_status.json"
 
 _NUM = r"(\d{1,3}(?:\.\d{3})*|\d+)"
 _PCT = r"\(\s*\d+(?:[.,]\d+)?\s*%\s*\)"
@@ -173,6 +176,73 @@ def capturar(ano: int) -> dict | None:
     return reg
 
 
+def _data_painel(txt) -> date | None:
+    m = re.search(r"(\d{2})/(\d{2})/(\d{4})", str(txt or ""))
+    return date(int(m.group(3)), int(m.group(2)), int(m.group(1))) if m else None
+
+
+def capturar_painel(ano: int) -> dict | None:
+    """Lê o Painel de Exantemáticas do MS (Power BI público), só sarampo: casos confirmados no ano
+    (agravo final = sarampo, classificação final = confirmado), por UF de residência e por semana de
+    início do exantema, e os casos suspeitos de sarampo em investigação.
+
+    A captura só é aceita se a soma por UF (incluindo os casos sem UF informada) bater com o total e se o
+    total não cair mais de 10% em relação à captura anterior do painel (reclassificações pequenas são normais)."""
+    from datetime import datetime
+    from . import powerbi as pb
+
+    def status(ok, motivo, **extra):
+        salvar_json(ARQ_STATUS_PAINEL, {"quando": datetime.now().isoformat(timespec="minutes"), "ok": ok,
+                                        "motivo": motivo, "url": URL_PAINEL_PAGINA, **extra})
+    try:
+        rel = pb.RelatorioPublico(URL_PAINEL)
+        E = {"t": "tb_exantemáticas"}
+        ano_f = [pb.filtro_em("t", "NU_ANO", [ano])]
+        conf = ano_f + [pb.filtro_em("t", "AGRAVO", ["Sarampo"]),
+                        pb.filtro_em("t", "Classificacao_Final_Grafico", ["Confirmado"])]
+        q = lambda cols, where: pb.linhas(rel.consultar(pb.consulta(
+            E, [pb.coluna("t", c) for c in cols] + [pb.contagem("t", "ID")], where)))
+        total = sum(r[-1] or 0 for r in q([], conf))
+        por_uf = {r[0]: r[1] for r in q(["UF_RESIDENCIA"], conf)}
+        por_se = {int(r[0]): r[1] for r in q(["semana_epi.SE"], conf) if r[0] is not None}
+        investigacao = sum(r[-1] or 0 for r in q([], ano_f + [pb.filtro_em("t", "CS_SUSPEIT", ["Sarampo"]),
+                                                                pb.filtro_em("t", "Classificacao_Final_Grafico", ["Em investigação"])]))
+        datas = pb.linhas(rel.consultar(pb.consulta({"m": "medidas"}, [pb.medida("m", "Dados Ate"),
+                                                                        pb.medida("m", "Ultima Atualizacao")])))[0]
+    except Exception as e:  # noqa: BLE001  (painel fora do ar ou mudou de estrutura)
+        log.warning("Sarampo/painel do MS: leitura falhou (%s).", e)
+        status(False, f"leitura falhou: {str(e)[:300]}")
+        return None
+    dados_ate, atualizado = _data_painel(datas[0]), _data_painel(datas[1])
+    ignorada = sum(n for u, n in por_uf.items() if not re.fullmatch(r"[A-Z]{2}", str(u or "")))
+    ufs = {u: n for u, n in por_uf.items() if re.fullmatch(r"[A-Z]{2}", str(u or ""))}
+    historico = ler_json(ARQ_HISTORICO, [])
+    anteriores = [h for h in historico if h.get("captura") == "painel" and h["data_referencia"].startswith(str(ano))]
+    if not dados_ate or not total:
+        status(False, "painel sem data de corte ou sem casos", total=total, datas=datas)
+        return None
+    if sum(ufs.values()) + ignorada != total:
+        status(False, "soma por UF não bate com o total", total=total, por_uf=por_uf)
+        return None
+    if anteriores and total < 0.9 * max(h["casos"] for h in anteriores):
+        status(False, "total caiu mais de 10% em relação à captura anterior", total=total)
+        return None
+    reg = {"data_referencia": dados_ate.isoformat(), "se": Week.fromdate(dados_ate).week, "casos": total,
+           "obitos": None, "ufs": dict(sorted(ufs.items(), key=lambda kv: -kv[1])), "uf_ignorada": ignorada,
+           "curva_se": {str(k): v for k, v in sorted(por_se.items())}, "em_investigacao": investigacao,
+           "painel_atualizado_em": atualizado.isoformat() if atualizado else None,
+           "fonte": FONTE_PAINEL, "url": URL_PAINEL_PAGINA, "captura": "painel",
+           "capturado_em": date.today().isoformat()}
+    # Mesma data de corte: a leitura mais recente substitui (o painel reclassifica casos)
+    historico = [h for h in historico if not (h.get("captura") == "painel" and h["data_referencia"] == reg["data_referencia"])]
+    historico.append(reg)
+    salvar_json(ARQ_HISTORICO, sorted(historico, key=lambda h: h["data_referencia"]))
+    status(True, "ok", dados_ate=reg["data_referencia"], casos=total, ufs=por_uf, em_investigacao=investigacao,
+           atualizado=reg["painel_atualizado_em"])
+    log.info("Sarampo/painel do MS: %d casos confirmados até %s.", total, reg["data_referencia"])
+    return reg
+
+
 def registros(capturar_agora: bool = True) -> tuple[int, list[dict]]:
     """Registros oficiais (manuais + capturados), do mais antigo ao mais recente.
 
@@ -181,43 +251,7 @@ def registros(capturar_agora: bool = True) -> tuple[int, list[dict]]:
     ano = int(cfg.get("ano", date.today().year))
     if capturar_agora:
         capturar(ano)
-        arq3 = ARQ_RECON.with_name("sarampo_painel_reconhecimento3.json")
-        if not arq3.exists():
-            from . import powerbi as pb
-            out = {}
-            try:
-                rel = pb.RelatorioPublico(URL_PAINEL)
-                E = {"t": "tb_exantemáticas"}
-                ano26 = [pb.filtro_em("t", "NU_ANO", [ano])]
-                conf = ano26 + [pb.filtro_em("t", "AGRAVO", ["Sarampo"]), pb.filtro_em("t", "Classificacao_Final_Grafico", ["Confirmado"])]
-                c = lambda *cols: [pb.coluna("t", x) for x in cols] + [pb.contagem("t", "ID")]
-                testes = {
-                    "agravo_suspeita_classif_2026": (c("AGRAVO", "CS_SUSPEIT", "Classificacao_Final_Grafico"), ano26),
-                    "conf_uf": (c("UF_RESIDENCIA"), conf),
-                    "conf_se_inicio": (c("semana_epi.SE"), conf),
-                    "conf_se_notif": (c("SE_NOTIFICACAO", "ANO_EPI_NOTIFICACAO"), conf),
-                    "conf_inicio_min_max": ([{"Aggregation": {"Expression": {"Column": {"Expression": {"SourceRef": {"Source": "t"}}, "Property": "DT_INICIO_"}}, "Function": f}, "Name": n} for f, n in ((3, "min"), (4, "max"))], conf),
-                    "conf_autoctone_fonte": (c("TPAUTOCTO", "CS_FONTE"), conf),
-                    "conf_criterio": (c("CRITERIO"), conf),
-                    "conf_uf_mun": (c("UF_RESIDENCIA", "ID_MN_RESI"), conf),
-                    "investigacao_uf": (c("UF_RESIDENCIA"), ano26 + [pb.filtro_em("t", "CS_SUSPEIT", ["Sarampo"]), pb.filtro_em("t", "Classificacao_Final_Grafico", ["Em investigação"])]),
-                }
-                for nome, (sel, where) in testes.items():
-                    try:
-                        out[nome] = pb.linhas(rel.consultar(pb.consulta(E, sel, where), top=500))[:500]
-                    except Exception as e:  # noqa: BLE001
-                        out[nome] = {"erro": str(e)[:300]}
-            except Exception:  # noqa: BLE001
-                import traceback
-                out["erro"] = traceback.format_exc()[-2000:]
-            salvar_json(arq3, out)
-        if not ARQ_RECON.exists():  # reconhecimento da estrutura do painel do MS (uma vez)
-            from . import powerbi
-            try:
-                salvar_json(ARQ_RECON, powerbi.reconhecer(URL_PAINEL))
-            except Exception as e:  # noqa: BLE001
-                import traceback
-                salvar_json(ARQ_RECON, {"erro": str(e)[:500], "traceback": traceback.format_exc()[-2000:]})
+        capturar_painel(ano)
     por_data: dict[str, dict] = {}
     for h in ler_json(ARQ_HISTORICO, []):
         if h["data_referencia"].startswith(str(ano)):
