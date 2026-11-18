@@ -202,11 +202,13 @@ def capturar_painel(ano: int) -> dict | None:
                         pb.filtro_em("t", "Classificacao_Final_Grafico", ["Confirmado"])]
         q = lambda cols, where: pb.linhas(rel.consultar(pb.consulta(
             E, [pb.coluna("t", c) for c in cols] + [pb.contagem("t", "ID")], where)))
-        total = sum(r[-1] or 0 for r in q([], conf))
+        # O total sai da contagem por classificação (consulta independente da contagem por UF, para conferir a soma)
+        por_classif = {r[0]: r[1] for r in q(["Classificacao_Final_Grafico"], ano_f + [pb.filtro_em("t", "AGRAVO", ["Sarampo"])])}
+        total = por_classif.get("Confirmado") or 0
         por_uf = {r[0]: r[1] for r in q(["UF_RESIDENCIA"], conf)}
         por_se = {int(r[0]): r[1] for r in q(["semana_epi.SE"], conf) if r[0] is not None}
-        investigacao = sum(r[-1] or 0 for r in q([], ano_f + [pb.filtro_em("t", "CS_SUSPEIT", ["Sarampo"]),
-                                                                pb.filtro_em("t", "Classificacao_Final_Grafico", ["Em investigação"])]))
+        investigacao = {r[0]: r[1] for r in q(["Classificacao_Final_Grafico"], ano_f + [
+            pb.filtro_em("t", "CS_SUSPEIT", ["Sarampo"])])}.get("Em investigação")
         datas = pb.linhas(rel.consultar(pb.consulta({"m": "medidas"}, [pb.medida("m", "Dados Ate"),
                                                                         pb.medida("m", "Ultima Atualizacao")])))[0]
     except Exception as e:  # noqa: BLE001  (painel fora do ar ou mudou de estrutura)
