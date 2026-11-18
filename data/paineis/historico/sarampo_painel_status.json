@@ -1,11 +1,20 @@
 {
- "quando": "2026-11-18T08:58",
- "ok": false,
- "motivo": "painel sem data de corte ou sem casos",
+ "quando": "2026-11-18T08:59",
+ "ok": true,
+ "motivo": "ok",
  "url": "https://www.gov.br/saude/pt-br/composicao/svsa/cnie/painel-exantematicas",
- "total": 0,
- "datas": [
-  "09/11/2026",
-  "15/11/2026"
- ]
+ "dados_ate": "2026-11-09",
+ "casos": 76,
+ "ufs": {
+  "AM": 12,
+  "BA": 3,
+  "PB": 1,
+  "PR": 3,
+  "RJ": 2,
+  "Sem informação": 13,
+  "SP": 41,
+  "TO": 1
+ },
+ "em_investigacao": 767,
+ "atualizado": "2026-11-15"
 }
