@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-11-17T22:20:59+00:00",
+  "em": "2026-11-18T04:18:08+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,7 +10,7 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-11-17T22:20:59+00:00",
+  "em": "2026-11-18T04:18:08+00:00",
   "lidos": 40,
   "novos": 0,
   "exemplos": [
@@ -20,19 +20,19 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-11-17T22:20:59+00:00",
+  "em": "2026-11-18T04:18:08+00:00",
   "lidos": 16,
-  "novos": 0,
+  "novos": 2,
   "exemplos": [
-   "Epidemiological Update: Dengue and Chikungunya in the Americas Region - 20 October 2026",
-   "Epidemiological Alert:  Myiasis caused by Cochliomyia hominivorax in the Americas Region, 16 October 2026",
-   "Epidemiological Update Avian Influenza A(H5) in the Americas Region - 26 August 2026"
+   "Epidemiological Alert:  Collection and consumption of wild mushrooms in the Americas Region - 17 November 2026",
+   "Epidemiological Alert - Seasonal Influenza and Other Respiratory Viruses: Start of the Season in the Northern Hemisphere",
+   "Epidemiological Update: Dengue and Chikungunya in the Americas Region - 20 October 2026"
   ]
  },
  "opas-noticias": {
-  "em": "2026-11-17T22:20:59+00:00",
+  "em": "2026-11-18T04:18:08+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "PAHO urges countries to step up efforts to stop measles outbreaks and move towards elimination in the Americas",
    "PAHO inaugurates Shared Services Hub in Lima to modernize its operations",
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-11-17T22:20:59+00:00",
+  "em": "2026-11-18T04:18:08+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-11-17T22:20:59+00:00",
+  "em": "2026-11-18T04:18:08+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-11-17T22:20:59+00:00",
+  "em": "2026-11-18T04:18:08+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-11-17T22:20:59+00:00",
+  "em": "2026-11-18T04:18:08+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-11-17T22:20:59+00:00",
+  "em": "2026-11-18T04:18:08+00:00",
   "lidos": 2352,
   "novos": 0,
   "exemplos": [
@@ -90,9 +90,9 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-11-17T22:20:59+00:00",
+  "em": "2026-11-18T04:18:08+00:00",
   "lidos": 10,
-  "novos": 2,
+  "novos": 0,
   "exemplos": [
    "Une institution africaine ne sera pas jugée par des sources anonymes et des journalistes aux motivations politiques",
    "An African Institution Will Not Be Put on Trial by Anonymous Sources and Politically Motivated Journalists",
@@ -100,19 +100,19 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-11-17T22:20:59+00:00",
+  "em": "2026-11-18T04:18:08+00:00",
   "lidos": 15,
-  "novos": 3,
+  "novos": 2,
   "exemplos": [
-   "Ministério da Saúde apresenta quatro projetos para acelerar o desenvolvimento de novos tratamentos e tecnologias para o ",
-   "Revista Saúde e Sociedade recebe artigos que relacionam saúde bucal, sociedade e políticas públicas até 31 de dezembro",
-   "Ministério da Saúde disponibiliza questionário para monitorar impactos das emergências climáticas na Amazônia Legal"
+   "Força Nacional do SUS completa 15 anos com mais de 10 milhões de pessoas beneficiadas em todo o Brasil",
+   "Brasil mantém eliminação do sarampo após avanço da doença em países das Américas",
+   "Ministério da Saúde apresenta quatro projetos para acelerar o desenvolvimento de novos tratamentos e tecnologias para o "
   ]
  },
  "fiocruz": {
-  "em": "2026-11-17T22:20:59+00:00",
+  "em": "2026-11-18T04:18:08+00:00",
   "lidos": 10,
-  "novos": 5,
+  "novos": 0,
   "exemplos": [
    "Fiocruz lamenta o falecimento do jornalista Edmilson Silva",
    "Nav. ed. pt Fio da Historia Maria Deane",
@@ -120,9 +120,9 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-11-17T22:20:59+00:00",
+  "em": "2026-11-18T04:18:08+00:00",
   "lidos": 10,
-  "novos": 2,
+  "novos": 0,
   "exemplos": [
    "Suplementos alimentares têm fabricação e venda suspensas no Brasil",
    "Botox poderá ser usado no relaxamento do músculo da mastigação",
@@ -130,9 +130,9 @@
   ]
  },
  "ses-go": {
-  "em": "2026-11-17T22:20:59+00:00",
+  "em": "2026-11-18T04:18:08+00:00",
   "lidos": 10,
-  "novos": 6,
+  "novos": 0,
   "exemplos": [
    "Servidores da SES participam de palestra sobre saúde integral do homem",
    "Goiás intensifica ações de vigilância e realiza ‘Dia S’ de mobilização para busca ativa de sarampo",
@@ -140,9 +140,9 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-11-17T22:20:59+00:00",
+  "em": "2026-11-18T04:18:08+00:00",
   "lidos": 10,
-  "novos": 4,
+  "novos": 0,
   "exemplos": [
    "SC retoma alojamento de aves após controle da Doença de Newcastle",
    "RJ: polo petrolífero, Macaé voltará a receber voos comerciais",
@@ -150,19 +150,19 @@
   ]
  },
  "g1-busca": {
-  "em": "2026-11-17T22:20:59+00:00",
-  "lidos": 407,
-  "novos": 4,
+  "em": "2026-11-18T04:18:08+00:00",
+  "lidos": 485,
+  "novos": 1,
   "exemplos": [
+   "Divinópolis investiga dois casos suspeitos de Mpox",
    "Como foi a sequência de ataques a tiros que deixou oito mortos e cinco feridos no RS",
-   "Câmara de Itapeva aprova projeto que amplia transparência e fiscalização da água",
-   "Pontos de venda de açaí são fiscalizados no Ver-o-Peso para prevenir doença de Chagas, em Belém"
+   "Câmara de Itapeva aprova projeto que amplia transparência e fiscalização da água"
   ]
  },
  "metropoles-busca": {
-  "em": "2026-11-17T22:20:59+00:00",
-  "lidos": 65,
-  "novos": 1,
+  "em": "2026-11-18T04:18:08+00:00",
+  "lidos": 64,
+  "novos": 0,
   "exemplos": [
    "“Mpox pode ser só uma bolha e o paciente não dar bola”, diz médico da SBI.",
    "Mpox: DF confirma 44 casos e registra aumento de 91% em uma semana",
@@ -170,19 +170,19 @@
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-11-17T22:20:59+00:00",
+  "em": "2026-11-18T04:18:08+00:00",
   "lidos": 26,
-  "novos": 2,
+  "novos": 0,
   "exemplos": [
-   "Mpox também pode causar inflamação interna no reto e dor intensa",
-   "Anvisa aprova nova indicação terapêutica para o medicamento Botox",
-   "Após 26 anos, Estados Unidos perdem status de país que eliminou o sarampo"
+   "Repórter do CNN Sinais Vitais é reconhecida pelo Prêmio Einstein +Admirados",
+   "Estudo identifica padrões de linguagem ligados a traços de psicopatia",
+   "Novas tecnologias transformam o tratamento do câncer de próstata"
   ]
  },
  "cnn-saude": {
-  "em": "2026-11-17T22:20:59+00:00",
-  "lidos": 24,
-  "novos": 1,
+  "em": "2026-11-18T04:18:08+00:00",
+  "lidos": 23,
+  "novos": 0,
   "exemplos": [
    "The United States’ measles elimination status is officially gone. Who should get a booster?",
    "The US has had the tools to control measles for almost 65 years. Here’s how it’s come raging back",
@@ -190,17 +190,17 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-11-17T22:20:59+00:00",
-  "lidos": 88,
-  "novos": 4,
+  "em": "2026-11-18T04:18:08+00:00",
+  "lidos": 112,
+  "novos": 1,
   "exemplos": [
    "The United States’ measles elimination status is officially gone. Who should get a booster?",
    "After 26 years, the US has lost its measles elimination status",
-   "The US has had the tools to control measles for almost 65 years. Here’s how it’s come raging back"
+   "Dr. Richard Besser: Rise in US measles cases was ‘fully avoidable’"
   ]
  },
  "inmet": {
-  "em": "2026-11-17T22:20:59+00:00",
+  "em": "2026-11-18T04:18:08+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -210,7 +210,7 @@
   ]
  },
  "cemaden": {
-  "em": "2026-11-17T22:20:59+00:00",
+  "em": "2026-11-18T04:18:08+00:00",
   "lidos": 8,
   "novos": 0,
   "exemplos": [
@@ -220,23 +220,23 @@
   ]
  },
  "defesa-civil-busca": {
-  "em": "2026-11-17T22:20:59+00:00",
-  "lidos": 22,
-  "novos": 2,
+  "em": "2026-11-18T04:18:08+00:00",
+  "lidos": 23,
+  "novos": 3,
   "exemplos": [
-   "Oiapoque, no Amapá, vai receber R$ 433 mil para ações de resposta",
-   "Reconhecida emergência em duas cidades mineiras afetadas por desastres",
+   "Adrianópolis, no Paraná, vai receber R$ 602 mil para ações de resposta",
+   "Projetos SNFI2 — Ministério da Integração e do Desenvolvimento Regional",
    "Reconhecida emergência em 17 cidades afetadas por desastres"
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-11-17T22:20:59+00:00",
+  "em": "2026-11-18T04:18:08+00:00",
   "lidos": 20,
-  "novos": 8,
+  "novos": 6,
   "exemplos": [
-   "DF tem alerta amarelo de tempestade e máxima de 25°C nesta terça",
-   "Rapper GOG recebe título de Cidadão Benemérito de Brasília",
-   "PCDF prende em flagrante autor reincidente de furtos no Paranoá"
+   "Senac-DF oferece 18 mil vagas para qualificação profissional",
+   "Família e amigos se despedem de mulher morta pelo companheiro em Santa Maria",
+   "Casa é atingida por incêndio na Estrutural; ninguém ficou ferido"
   ]
  }
 }

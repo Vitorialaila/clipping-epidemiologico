@@ -1,5 +1,23 @@
 [
  {
+  "t": "Divinópolis investiga dois casos suspeitos de Mpox",
+  "u": "https://g1.globo.com/mg/triangulo-mineiro/mg2-uberaba/video/divinopolis-investiga-dois-casos-suspeitos-de-mpox-15201743.ghtml",
+  "d": "2026-11-18",
+  "df": "18 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Mpox: Secretaria de Saúde confirma 51 casos da doença no Distrito Federal",
   "u": "https://www.metropoles.com/distrito-federal/mpox-secretaria-de-saude-confirma-51-casos-da-doenca-no-distrito-federal",
   "d": "2026-11-17",
@@ -130,6 +148,24 @@
   "c": "monitoramento"
  },
  {
+  "t": "Epidemiological Alert - Seasonal Influenza and Other Respiratory Viruses: Start of the Season in the Northern Hemisphere - 17 November 2026",
+  "u": "https://www.paho.org/en/documents/epidemiological-alert-seasonal-influenza-and-other-respiratory-viruses-start-season",
+  "d": "2026-11-17",
+  "df": "17 nov 2026",
+  "f": "OPAS",
+  "fn": "OPAS | Alertas e atualizações epidemiológicas",
+  "e": "Américas",
+  "a": [
+   "Influenza e vírus respiratórios"
+  ],
+  "p": 10.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Covid: médico alerta para o risco de tratar a doença como uma gripe comum.",
   "u": "https://www.metropoles.com/saude/covid-medico-alerta-para-o-risco-de-tratar-a-doenca-como-uma-gripe-comum",
   "d": "2026-11-17",
@@ -147,6 +183,24 @@
   "i": "respiratorio",
   "m": [],
   "c": "atencao"
+ },
+ {
+  "t": "Brasil mantém eliminação do sarampo após avanço da doença em países das Américas",
+  "u": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/brasil-mantem-eliminacao-do-sarampo-apos-avanco-da-doenca-em-paises-das-americas",
+  "d": "2026-11-17",
+  "df": "17 nov 2026",
+  "f": "MS",
+  "fn": "Ministério da Saúde | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 10.0,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Secretaria de Estado de Saúde anunciou que vai divulgar diariamente número de casos de Mpox no estado do Rio",
@@ -349,6 +403,22 @@
   "c": "monitoramento"
  },
  {
+  "t": "Epidemiological Alert:  Collection and consumption of wild mushrooms in the Americas Region - 17 November 2026",
+  "u": "https://www.paho.org/en/documents/epidemiological-alert-collection-and-consumption-wild-mushrooms-americas-region-17",
+  "d": "2026-11-17",
+  "df": "17 nov 2026",
+  "f": "OPAS",
+  "fn": "OPAS | Alertas e atualizações epidemiológicas",
+  "e": "Américas",
+  "a": [],
+  "p": 7.0,
+  "se": "2026-46",
+  "r": "",
+  "i": "alerta",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Mpox também pode causar inflamação interna no reto e dor intensa",
   "u": "https://www.cnnbrasil.com.br/saude/mpox-tambem-pode-causar-inflamacao-interna-no-reto-e-dor-intensa/",
   "d": "2026-11-17",
@@ -474,6 +544,25 @@
   "i": "virus",
   "m": [],
   "c": "alerta"
+ },
+ {
+  "t": "Defesa Civil alerta para risco de temporais em Lages nesta terça (17) e quarta-feira (18)",
+  "u": "https://www.lages.sc.gov.br/noticia-descricao/11324/defesa-civil-alerta-para-risco-de-temporais-em-lages-nesta-terca-(17)-e-quarta-feira-(18)",
+  "d": "2026-11-16",
+  "df": "16 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura de Lages",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 11.0,
+  "se": "2026-46",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Surto se espalha por creches, e cidades vizinhas somam 108 casos de sarna humana em MS",
@@ -636,6 +725,24 @@
   "i": "virus",
   "m": [],
   "c": "alerta"
+ },
+ {
+  "t": "Defesa Civil emite alerta para risco muito alto de tempestade na região de Maringá nesta terça-feira, 17",
+  "u": "https://www.maringa.pr.gov.br/noticias/defesa-civil-emite-alerta-para-risco-muito-alto-de-tempestade-na-regiao-de-maringa-nesta-terca-feira/43551",
+  "d": "2026-11-16",
+  "df": "16 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura do Município de Maringá",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Três Rios confirma 1º caso de malária na cidade",
