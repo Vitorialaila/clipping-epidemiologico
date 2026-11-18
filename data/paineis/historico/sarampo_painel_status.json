@@ -1,0 +1,11 @@
+{
+ "quando": "2026-11-18T08:58",
+ "ok": false,
+ "motivo": "painel sem data de corte ou sem casos",
+ "url": "https://www.gov.br/saude/pt-br/composicao/svsa/cnie/painel-exantematicas",
+ "total": 0,
+ "datas": [
+  "09/11/2026",
+  "15/11/2026"
+ ]
+}
