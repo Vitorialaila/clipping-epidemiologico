@@ -181,41 +181,36 @@ def registros(capturar_agora: bool = True) -> tuple[int, list[dict]]:
     ano = int(cfg.get("ano", date.today().year))
     if capturar_agora:
         capturar(ano)
-        arq2 = ARQ_RECON.with_name("sarampo_painel_reconhecimento2.json")
-        if not arq2.exists():
+        arq3 = ARQ_RECON.with_name("sarampo_painel_reconhecimento3.json")
+        if not arq3.exists():
             from . import powerbi as pb
             out = {}
             try:
                 rel = pb.RelatorioPublico(URL_PAINEL)
-                est = rel.estrutura()
-                secs = est["exploration"]["sections"]
-                out["config_exemplos"] = [vc.get("config", "")[:3000] for vc in secs[0].get("visualContainers", [])[:6]]
-                out["chaves_visual"] = list(secs[0]["visualContainers"][0].keys())
                 E = {"t": "tb_exantemáticas"}
+                ano26 = [pb.filtro_em("t", "NU_ANO", [ano])]
+                conf = ano26 + [pb.filtro_em("t", "AGRAVO", ["Sarampo"]), pb.filtro_em("t", "Classificacao_Final_Grafico", ["Confirmado"])]
+                c = lambda *cols: [pb.coluna("t", x) for x in cols] + [pb.contagem("t", "ID")]
                 testes = {
-                    "suspeita_classif_ano": pb.consulta(E, [pb.coluna("t", "CS_SUSPEIT"), pb.coluna("t", "Classificacao_Final_Grafico"),
-                                                            pb.coluna("t", "NU_ANO"), pb.contagem("t", "ID")]),
-                    "agravo_classif": pb.consulta(E, [pb.coluna("t", "AGRAVO"), pb.coluna("t", "CS_SUSPEIT"),
-                                                      pb.coluna("t", "Classificacao_Final_Grafico"), pb.contagem("t", "ID")]),
-                    "datas": pb.consulta({"m": "medidas"}, [pb.medida("m", "Dados Ate"), pb.medida("m", "Ultima Atualizacao")]),
-                    "update_time": pb.consulta({"u": "update_time"}, [pb.coluna("u", "update_time")]),
-                    "arquivo": pb.consulta({"a": "data_arquivo"}, [pb.coluna("a", "Nome do arquivo"), pb.coluna("a", "Data de modificação")]),
-                    "medida_confirmados": pb.consulta({"m": "medidas", "t": "tb_exantemáticas"},
-                                                      [pb.coluna("t", "NU_ANO"), pb.coluna("t", "CS_SUSPEIT"), pb.medida("m", "Casos Confirmados")]),
+                    "agravo_suspeita_classif_2026": (c("AGRAVO", "CS_SUSPEIT", "Classificacao_Final_Grafico"), ano26),
+                    "conf_uf": (c("UF_RESIDENCIA"), conf),
+                    "conf_se_inicio": (c("semana_epi.SE"), conf),
+                    "conf_se_notif": (c("SE_NOTIFICACAO", "ANO_EPI_NOTIFICACAO"), conf),
+                    "conf_inicio_min_max": ([{"Aggregation": {"Expression": {"Column": {"Expression": {"SourceRef": {"Source": "t"}}, "Property": "DT_INICIO_"}}, "Function": f}, "Name": n} for f, n in ((3, "min"), (4, "max"))], conf),
+                    "conf_autoctone_fonte": (c("TPAUTOCTO", "CS_FONTE"), conf),
+                    "conf_criterio": (c("CRITERIO"), conf),
+                    "conf_uf_mun": (c("UF_RESIDENCIA", "ID_MN_RESI"), conf),
+                    "investigacao_uf": (c("UF_RESIDENCIA"), ano26 + [pb.filtro_em("t", "CS_SUSPEIT", ["Sarampo"]), pb.filtro_em("t", "Classificacao_Final_Grafico", ["Em investigação"])]),
                 }
-                for nome, q in testes.items():
+                for nome, (sel, where) in testes.items():
                     try:
-                        resp = rel.consultar(q, top=300)
-                        try:
-                            out[nome] = pb.linhas(resp)[:300]
-                        except Exception as e:  # noqa: BLE001
-                            out[nome] = {"erro_decod": str(e)[:200], "bruto": json.dumps(resp)[:3000]}
+                        out[nome] = pb.linhas(rel.consultar(pb.consulta(E, sel, where), top=500))[:500]
                     except Exception as e:  # noqa: BLE001
                         out[nome] = {"erro": str(e)[:300]}
-            except Exception as e:  # noqa: BLE001
+            except Exception:  # noqa: BLE001
                 import traceback
                 out["erro"] = traceback.format_exc()[-2000:]
-            salvar_json(arq2, out)
+            salvar_json(arq3, out)
         if not ARQ_RECON.exists():  # reconhecimento da estrutura do painel do MS (uma vez)
             from . import powerbi
             try:
