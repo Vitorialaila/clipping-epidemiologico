@@ -22,6 +22,10 @@ URL_MS = "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/sarampo/situa
 FONTE_MS = "Ministério da Saúde, Situação Epidemiológica do Sarampo"
 ARQ_HISTORICO = DADOS / "paineis" / "historico" / "sarampo_brasil.json"
 ARQ_STATUS = DADOS / "paineis" / "historico" / "sarampo_brasil_status.json"
+# Painel de Exantemáticas do CNIE/MS (Power BI público), linkado na página de situação do sarampo
+URL_PAINEL = ("https://app.powerbi.com/view?r=eyJrIjoiNjYxM2M1MjItY2M0Ny00YzJiLThmYzktMGM2MzAwMmE2NGI5IiwidCI6IjlhNTU0"
+              "YWQzLWI1MmItNDg2Mi1hMzZmLTg0ZDg5MWU1YzcwNSJ9")
+ARQ_RECON = DADOS / "paineis" / "historico" / "sarampo_painel_reconhecimento.json"
 
 _NUM = r"(\d{1,3}(?:\.\d{3})*|\d+)"
 _PCT = r"\(\s*\d+(?:[.,]\d+)?\s*%\s*\)"
@@ -176,6 +180,13 @@ def registros(capturar_agora: bool = True) -> tuple[int, list[dict]]:
     ano = int(cfg.get("ano", date.today().year))
     if capturar_agora:
         capturar(ano)
+        if not ARQ_RECON.exists():  # reconhecimento da estrutura do painel do MS (uma vez)
+            from . import powerbi
+            try:
+                salvar_json(ARQ_RECON, powerbi.reconhecer(URL_PAINEL))
+            except Exception as e:  # noqa: BLE001
+                import traceback
+                salvar_json(ARQ_RECON, {"erro": str(e)[:500], "traceback": traceback.format_exc()[-2000:]})
     por_data: dict[str, dict] = {}
     for h in ler_json(ARQ_HISTORICO, []):
         if h["data_referencia"].startswith(str(ano)):
