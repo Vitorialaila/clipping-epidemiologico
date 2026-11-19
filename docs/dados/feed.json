@@ -1,5 +1,227 @@
 [
  {
+  "t": "PJ.2.1: virologista da Fiocruz explica a nova linhagem do coronavírus em circulação no Brasil",
+  "u": "https://agencia.fiocruz.br/pj21-virologista-da-fiocruz-explica-nova-linhagem-do-coronavirus-em-circulacao-no-brasil",
+  "d": "2026-11-19",
+  "df": "19 nov 2026",
+  "f": "Fiocruz",
+  "fn": "Agência Fiocruz de Notícias",
+  "e": "DF",
+  "a": [
+   "Influenza e vírus respiratórios",
+   "COVID-19"
+  ],
+  "p": 13.0,
+  "se": "2026-46",
+  "r": "PJ.2.1: virologista da Fiocruz explica a nova linhagem do coronavírus em circulação no Brasil A Organização Mundial da Saúde (OMS) classificou a linhagem PJ.2.1 do Sars-CoV-2 como variante sob monitoramento . Identificada inicialmente no Canadá, em maio de…",
+  "i": "respiratorio",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Com quatro novos diagnósticos, casos de mpox no DF sobem para 56",
+  "u": "https://www.metropoles.com/distrito-federal/com-quatro-novos-diagnosticos-casos-de-mpox-no-df-sobem-para-56",
+  "d": "2026-11-19",
+  "df": "19 nov 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "DF",
+  "a": [
+   "Mpox"
+  ],
+  "p": 12.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "alerta"
+ },
+ {
+  "t": "InfoGripe: casos de SRAG no RJ apresentam nível de alerta com tendência de aumento",
+  "u": "https://agencia.fiocruz.br/infogripe-casos-de-srag-no-rj-apresentam-nivel-de-alerta-com-tendencia-de-aumento",
+  "d": "2026-11-19",
+  "df": "19 nov 2026",
+  "f": "Fiocruz",
+  "fn": "Agência Fiocruz de Notícias",
+  "e": "Brasil",
+  "a": [
+   "Influenza e vírus respiratórios"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "InfoGripe: casos de SRAG no RJ apresentam nível de alerta com tendência de aumento",
+  "i": "respiratorio",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Sarna humana chega a 7 cidades, fecha mais uma creche e soma pelo menos 126 casos confirmados em MS",
+  "u": "https://g1.globo.com/google/amp/ms/mato-grosso-do-sul/noticia/2026/11/18/sarna-humana-chega-a-7-cidades-fecha-mais-uma-creche-e-soma-pelo-menos-126-casos-confirmados-em-ms.ghtml",
+  "d": "2026-11-19",
+  "df": "19 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Escabiose"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "saude",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Uberlândia tem 4 casos de Mpox em 2026 e é a única cidade do Triângulo com registros; veja como se prevenir",
+  "u": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/19/uberlandia-tem-4-casos-de-mpox-em-2026-e-e-a-unica-cidade-do-triangulo-com-registros-veja-como-se-prevenir.ghtml",
+  "d": "2026-11-19",
+  "df": "19 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Febre amarela: MG tem 33 macacos infectados e vacinação abaixo da meta",
+  "u": "https://www.metropoles.com/minas-gerais/febre-amarela-mg-tem-33-macacos-infectados-e-vacinacao-abaixo-da-meta",
+  "d": "2026-11-19",
+  "df": "19 nov 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "Brasil",
+  "a": [
+   "Febre amarela"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Defesa Civil alerta para previsão de chuvas intensas em MG nos próximos 15 dias",
+  "u": "https://www.agenciaminas.mg.gov.br/noticia/defesa-civil-alerta-para-previsao-de-chuvas-intensas-em-mg-nos-proximos-15-dias",
+  "d": "2026-11-19",
+  "df": "19 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Agência Minas",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Defesa Civil de São Paulo alerta população para previsão de chuvas fortes durante o feriado prolongado",
+  "u": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-feriado-chuvas/",
+  "d": "2026-11-19",
+  "df": "19 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "www.agenciasp.sp.gov.br",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Paraná confirma mais de 6 mil casos de dengue neste ano",
+  "u": "https://g1.globo.com/pr/parana/videos-bom-dia-parana/video/parana-confirma-mais-de-6-mil-casos-de-dengue-neste-ano-15263140.ghtml",
+  "d": "2026-11-19",
+  "df": "19 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 7.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "El Niño e monitoramento: com Projeto Cigarra, Cemaden participa de evento do BNDES sobre resiliência e resposta a desastres",
+  "u": "https://www.gov.br/cemaden/pt-br/assuntos/noticias-cemaden/el-nino-e-monitoramento-com-projeto-cigarra-cemaden-participa-de-evento-do-bndes-sobre-resiliencia-e-resposta-a-desastres",
+  "d": "2026-11-19",
+  "df": "19 nov 2026",
+  "f": "Cemaden",
+  "fn": "Cemaden | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Nav. ed. pt Entrevista PJ.2.1",
+  "u": "https://agencia.fiocruz.br/nav-ed-pt-entrevista-pj21",
+  "d": "2026-11-19",
+  "df": "19 nov 2026",
+  "f": "Fiocruz",
+  "fn": "Agência Fiocruz de Notícias",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 6.5,
+  "se": "2026-46",
+  "r": "Nav. ed. pt Entrevista PJ.2.1 Tipo de caixa Duplo horizontal Título Entrevista: PJ.2.1, nova linhagem no Brasil Imagem Chamada Virologista da Fiocruz aborda a classificação da OMS, a proteção oferecida pelas vacinas de Covid-19 e a importância da vigilância…",
+  "i": "respiratorio",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Super El Niño will vanish by next hurricane season and that could spell danger",
+  "u": "https://www.cnn.com/2026/11/19/weather/el-nino-hurricanes-storms-la-nina-climate",
+  "d": "2026-11-19",
+  "df": "19 nov 2026",
+  "f": "CNN",
+  "fn": "CNN",
+  "e": "Internacional",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 6.0,
+  "se": "2026-46",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "America Is Losing the War Against Measles - Chasing Life with Dr. Sanjay Gupta - Podcast on CNN Podcasts",
   "u": "https://edition.cnn.com/audio/podcasts/chasing-life/episodes/2f959ea0-a7ac-11f1-99d2-c7b6ce101510",
   "d": "2026-11-19",
@@ -310,6 +532,24 @@
   "c": "alerta"
  },
  {
+  "t": "Escola suspende aulas após casos de catapora; aluno faz exame para Mpox",
+  "u": "https://g1.globo.com/pi/piaui/videos-pitv-2-edicao/video/escola-suspende-aulas-apos-casos-de-catapora-aluno-faz-exame-para-mpox-15234632.ghtml",
+  "d": "2026-11-18",
+  "df": "18 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "SP recebe novas doses da vacina contra a mpox; saiba quem pode receber",
   "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/sp-recebe-novas-doses-da-vacina-contra-mpox-saiba-quem-pode-receber",
   "d": "2026-11-18",
@@ -366,6 +606,24 @@
  {
   "t": "Família de adolescente que morreu de meningite será indenizada",
   "u": "https://g1.globo.com/go/goias/videos-ja-1-edicao/video/familia-de-adolescente-que-morreu-de-meningite-sera-indenizada-15208230.ghtml",
+  "d": "2026-11-18",
+  "df": "18 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Doença meningocócica e meningites"
+  ],
+  "p": 8.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "bacteria",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Aparecida de Goiânia registra 20 casos de meningite até setembro",
+  "u": "https://g1.globo.com/go/goias/videos-bom-dia-go/video/aparecida-de-goiania-registra-20-casos-de-meningite-ate-setembro-15206437.ghtml",
   "d": "2026-11-18",
   "df": "18 nov 2026",
   "f": "G1",
@@ -524,6 +782,42 @@
   "i": "clima",
   "m": [],
   "c": "monitoramento"
+ },
+ {
+  "t": "Aulas são suspensas após suspeita de casos de sarna humana em escola de São João del Rei",
+  "u": "https://g1.globo.com/google/amp/mg/zona-da-mata/noticia/2026/11/18/aulas-sao-suspensas-apos-suspeita-de-casos-de-sarna-humana-em-escola-de-sao-joao-del-rei.ghtml",
+  "d": "2026-11-18",
+  "df": "18 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Escabiose"
+  ],
+  "p": 7.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "saude",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Pedro Leopoldo registra 13 casos de sarna e suspende aulas em escola municipal",
+  "u": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/18/pedro-leopoldo-registra-13-casos-de-sarna-e-suspende-aulas-em-escola-municipal.ghtml",
+  "d": "2026-11-18",
+  "df": "18 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Escabiose"
+  ],
+  "p": 7.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "saude",
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "‘The horse has left the barn’: Zeke Emanuel on measles’ return to US",
@@ -855,6 +1149,24 @@
   "i": "clima",
   "m": [],
   "c": "monitoramento"
+ },
+ {
+  "t": "Paraíba registra 9 casos de Mpox em novembro",
+  "u": "https://g1.globo.com/pb/paraiba/videos-jpb2/video/paraiba-registra-9-casos-de-mpox-em-novembro-15201615.ghtml",
+  "d": "2026-11-17",
+  "df": "17 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "HTLV e malária exigem atenção e cuidados específicos, alerta Policlínica de Formosa",
@@ -1451,6 +1763,24 @@
   "i": "clima",
   "m": [],
   "c": "monitoramento"
+ },
+ {
+  "t": "SC não registra mortes por dengue em 2026",
+  "u": "https://g1.globo.com/sc/santa-catarina/videos-bom-dia-santa-catarina/video/sc-nao-registra-mortes-por-dengue-em-2026-15190958.ghtml",
+  "d": "2026-11-16",
+  "df": "16 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 7.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Dr. Richard Besser: Rise in US measles cases was ‘fully avoidable’",
@@ -6547,24 +6877,6 @@
   "i": "respiratorio",
   "m": [],
   "c": "monitoramento"
- },
- {
-  "t": "SC não registra mortes por dengue em 2026",
-  "u": "https://g1.globo.com/google/amp/sc/santa-catarina/videos-nsc-noticias/video/sc-nao-registra-mortes-por-dengue-em-2026-15144472.ghtml",
-  "d": "2026-10-30",
-  "df": "30 out 2026",
-  "f": "G1",
-  "fn": "G1",
-  "e": "Brasil",
-  "a": [
-   "Dengue"
-  ],
-  "p": 7.5,
-  "se": "2026-43",
-  "r": "",
-  "i": "mosquito",
-  "m": [],
-  "c": "alerta"
  },
  {
   "t": "Ebola health workers celebrate last patients discharged in DRC",
