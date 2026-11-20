@@ -25,6 +25,29 @@
   "motivo": "COVID-19 (notificação imediata) · alta de casos · Brasil"
  },
  {
+  "id": "5dbf276c95da84",
+  "titulo": "Coreia do Sul registra 1º caso de cólera em 10 anos",
+  "url": "https://g1.globo.com/mundo/noticia/2026/11/20/coreia-do-sul-registra-1o-caso-de-colera-em-10-anos.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-20",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-20T11:34:37+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Cólera"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "Cólera (notificação imediata) · caso de cólera · internacional"
+ },
+ {
   "id": "093600bd831234",
   "titulo": "Repórter da Agência Brasil vence Prêmio SBIm de Jornalismo em Saúde",
   "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/reporter-da-agencia-brasil-vence-premio-sbim-de-jornalismo-em-saude",
@@ -47,6 +70,146 @@
   "termos_evento": [],
   "categoria": "monitoramento",
   "motivo": "Influenza e vírus respiratórios (notificação semanal) · estudo, orientação ou relato retrospectivo · Brasil"
+ },
+ {
+  "id": "5269543fe91f18",
+  "titulo": "Moema Belluzzo se torna a segunda mulher a presidir a Anoreg Brasil",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7541554-moema-belluzzo-se-torna-a-segunda-mulher-a-presidir-a-anoreg-brasil.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-20",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-20T11:34:37+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "854ade8186cd8e",
+  "titulo": "Muro de pedras no DF pode revelar capítulos da escravidão no Brasil",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7541614-muro-de-pedras-no-df-pode-revelar-capitulos-da-escravidao-no-brasil.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-20",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-20T11:34:37+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "0e677348fac6ca",
+  "titulo": "DF lidera casos de injúria e tem 2ª maior taxa de racismo no país",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7531281-df-lidera-casos-de-injuria-e-tem-2-maior-taxa-de-racismo-no-pais.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-20",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-20T11:34:37+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "c25d033aadb6ac",
+  "titulo": "Médica alerta para riscos de desreguladores endócrinos e peptídeos",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7541560-medica-alerta-para-riscos-de-desreguladores-endocrinos-e-peptideos.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-20",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-20T11:34:37+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [
+   "alerta para"
+  ],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "e38e7d3d8e57ca",
+  "titulo": "Procurador-geral defende que o MPDFT esteja mais próximo da sociedade",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7541571-procurador-geral-defende-que-o-mpdft-esteja-mais-proximo-da-sociedade.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-20",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-20T11:34:37+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "0d724a1b4e2c16",
+  "titulo": "Dia da Consciência Negra terá programação cultural em várias regiões do DF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7541167-dia-da-consciencia-negra-tera-programacao-cultural-em-varias-regioes-do-df.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-20",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-20T11:34:37+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
  },
  {
   "id": "100588d2d4e5a4",
@@ -321,6 +484,31 @@
   ],
   "categoria": "monitoramento",
   "motivo": "DF e RIDE"
+ },
+ {
+  "id": "51347d7064c128",
+  "titulo": "Serra: alerta para chuvas fortes e tempestades nesta quinta (19) e sexta-feira (20)",
+  "url": "https://www.serra.es.gov.br/noticias/serra-tem-previsao-de-chuva-intensa-e-possibilidade-de-tempestades-para-esta-quinta-e-sexta-20",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Prefeitura da Serra",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-11-19",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-20T11:34:37+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alerta para"
+  ],
+  "categoria": "monitoramento",
+  "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · Brasil"
  },
  {
   "id": "4c489c4ebf10b7",
@@ -5773,6 +5961,33 @@
   "se": "2026-46",
   "descricao": "",
   "coletado_em": "2026-11-16T20:28:06+00:00",
+  "municipios": [],
+  "pontuacao": 13.5,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alagamentos",
+   "emite alerta"
+  ],
+  "categoria": "monitoramento",
+  "motivo": "Emergências e desastres · aviso, previsão ou sem impacto relatado · Brasil"
+ },
+ {
+  "id": "71a4ccd5885aed",
+  "titulo": "Inema emite alerta para chuva forte e risco de alagamentos em todos os municípios da Bahia",
+  "url": "http://www.ba.gov.br/comunicacao/noticias/2026-11/385564/inema-emite-alerta-para-chuva-forte-e-risco-de-alagamentos-em-todos-os",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "ba.gov.br",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-11-16",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-20T11:34:37+00:00",
   "municipios": [],
   "pontuacao": 13.5,
   "agravos": [

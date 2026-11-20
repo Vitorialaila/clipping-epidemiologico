@@ -18,6 +18,24 @@
   "c": "alerta"
  },
  {
+  "t": "Coreia do Sul registra 1º caso de cólera em 10 anos",
+  "u": "https://g1.globo.com/mundo/noticia/2026/11/20/coreia-do-sul-registra-1o-caso-de-colera-em-10-anos.ghtml",
+  "d": "2026-11-20",
+  "df": "20 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Internacional",
+  "a": [
+   "Cólera"
+  ],
+  "p": 6.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "agua",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "PJ.2.1: virologista da Fiocruz explica a nova linhagem do coronavírus em circulação no Brasil",
   "u": "https://agencia.fiocruz.br/pj21-virologista-da-fiocruz-explica-nova-linhagem-do-coronavirus-em-circulacao-no-brasil",
   "d": "2026-11-19",
@@ -218,6 +236,24 @@
   "m": [
    "Distrito Federal"
   ],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Serra: alerta para chuvas fortes e tempestades nesta quinta (19) e sexta-feira (20)",
+  "u": "https://www.serra.es.gov.br/noticias/serra-tem-previsao-de-chuva-intensa-e-possibilidade-de-tempestades-para-esta-quinta-e-sexta-20",
+  "d": "2026-11-19",
+  "df": "19 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura da Serra",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "clima",
+  "m": [],
   "c": "monitoramento"
  },
  {
