@@ -405,6 +405,124 @@ class PainelSarampoBrasil(PainelVigilancia):
 
 
 
+class PainelMpoxMS(PainelVigilancia):
+    """Mpox no Brasil, segundo o Painel de Mpox do Ministério da Saúde (e-SUS Sinan)."""
+
+    def __init__(self):
+        super().__init__(nome="Mpox no Brasil", sigla="MPOX",
+                         descricao="Casos de mpox no ano por classificação final, UF de residência e semana")
+        self.dados["aba"] = "Mpox"
+
+    @staticmethod
+    def _soma(a: dict, b: dict) -> dict:
+        return {k: a.get(k, 0) + b.get(k, 0) for k in set(a) | set(b)}
+
+    def _mapa(self, ufs: dict, ref: str) -> dict:
+        classes = {}
+        for sigla in ufs_brasil():
+            n = ufs.get(sigla, 0)
+            c = [c for c in CLASSES_MAPA if n >= c[0]][-1]
+            classes[sigla] = (c[1], c[2], f"{n} caso{'s' if n != 1 else ''} confirmado{'s' if n != 1 else ''} ou prováve{'is' if n != 1 else 'l'}")
+        rotulos = {s: f"<b>{s}</b> {n}" for s, n in ufs.items() if n}
+        return mapa_ufs(classes, [c[1] for c in CLASSES_MAPA],
+                        f"<b>Casos confirmados e prováveis por UF de residência</b><br><sup>notificados até {ref}</sup>",
+                        "mapa_mpox", rotulos)
+
+    def _barras(self, conf: dict, prov: dict, ref: str) -> dict:
+        from .mapas import _ufs
+        nomes = {s: p["n"] for s, p in _ufs().items()}
+        tot = self._soma(conf, prov)
+        ordem = sorted((n, s) for s, n in tot.items() if n)[-12:]
+        y = [nomes.get(s, s) for _, s in ordem]
+        fig = go.Figure([
+            go.Bar(y=y, x=[conf.get(s, 0) for _, s in ordem], orientation="h", name="Confirmados",
+                   marker=dict(color=NAVY), hovertemplate="<b>%{y}</b><br>%{x} confirmados<extra></extra>"),
+            go.Bar(y=y, x=[prov.get(s, 0) for _, s in ordem], orientation="h", name="Prováveis",
+                   marker=dict(color=OURO), text=[str(n) for n, _ in ordem], textposition="outside",
+                   cliponaxis=False, hovertemplate="<b>%{y}</b><br>%{x} prováveis<extra></extra>"),
+        ])
+        fig.update_layout(
+            **LAYOUT_BASE, barmode="stack",
+            title=dict(text=f"<b>UFs com mais casos</b><br><sup>confirmados e prováveis, notificados até {ref}</sup>",
+                       font=dict(size=15, color=NAVY)),
+            height=460, margin=dict(l=10, r=40, t=70, b=40), bargap=0.4,
+            legend=dict(orientation="h", y=-0.12, x=0),
+            xaxis=dict(title="Casos", gridcolor="#EEE9DD", zeroline=False, range=[0, max(tot.values() or [1]) * 1.2]),
+            yaxis=dict(automargin=True),
+        )
+        f = fig.to_dict()
+        return {"data": f["data"], "layout": f["layout"], "div_id": "barras_mpox", "largura": "meia",
+                "config": {"displayModeBar": False}}
+
+    def _curva(self, conf: dict, prov: dict, ano: int, se_atual: int, ref: str) -> dict:
+        ultima = max([int(k) for k in list(conf) + list(prov)] + [se_atual])
+        x = list(range(1, ultima + 1))
+        cor = lambda base, clara: [clara if se == se_atual else base for se in x]
+        fig = go.Figure([
+            go.Bar(x=x, y=[conf.get(str(se), 0) for se in x], name="Confirmados",
+                   marker=dict(color=cor(NAVY, "#9DB0CF")),
+                   hovertemplate="<b>SE %{x}</b><br>%{y} confirmados<extra></extra>"),
+            go.Bar(x=x, y=[prov.get(str(se), 0) for se in x], name="Prováveis",
+                   marker=dict(color=cor(OURO, "#E6D3A0")),
+                   hovertemplate="<b>SE %{x}</b><br>%{y} prováveis<extra></extra>"),
+        ])
+        fig.update_layout(
+            **LAYOUT_BASE, barmode="stack",
+            title=dict(text=f"<b>Casos confirmados e prováveis por semana epidemiológica de notificação, {ano}</b>"
+                            f"<br><sup>notificados até {ref}; a SE {se_atual}, em tom claro, está incompleta</sup>",
+                       font=dict(size=15, color=NAVY)),
+            height=360, margin=dict(l=50, r=30, t=80, b=50), bargap=0.2,
+            legend=dict(orientation="h", y=1.02, x=1, xanchor="right", yanchor="bottom"),
+            xaxis=dict(title="Semana epidemiológica de notificação", dtick=2, showgrid=False),
+            yaxis=dict(title="Casos", gridcolor="#EEE9DD", zeroline=False, rangemode="tozero"),
+        )
+        f = fig.to_dict()
+        return {"data": f["data"], "layout": f["layout"], "div_id": "curva_mpox", "largura": "inteira",
+                "config": {"displayModeBar": False}}
+
+    def coletar(self) -> bool:
+        from . import mpox_ms
+        try:
+            r = mpox_ms.ultimo()
+        except Exception as e:  # noqa: BLE001
+            log.warning(f"Erro no painel de mpox: {e}")
+            return False
+        if not r:
+            log.warning("Mpox: nenhum registro disponível.")
+            return False
+        ano, ref = r["ano"], _data_br(r["data_referencia"])
+        conf, prov = r["ufs"]["Confirmado"], r["ufs"]["Provável"]
+        fmt = lambda n: f"{n:,}".replace(",", ".")
+        self.dados["nome"] = f"Mpox no Brasil, {ano}"
+        self.dados["descricao"] = (f"Casos de mpox notificados em {ano}, por classificação final, segundo o Painel de Mpox "
+                                   f"do Ministério da Saúde (e-SUS Sinan). Notificações até {ref} (SE {r['se']}).")
+        self.dados["kpis"] = [
+            {"valor": fmt(r["confirmados"]), "rotulo": f"casos confirmados em {ano}"},
+            {"valor": fmt(r["provaveis"]), "rotulo": "casos prováveis"},
+            {"valor": fmt(r["suspeitos"]), "rotulo": "casos suspeitos em investigação"},
+            {"valor": fmt(conf.get("DF", 0)), "rotulo": f"confirmados no DF ({fmt(prov.get('DF', 0))} prováveis)"},
+            {"valor": str(sum(1 for s in self._soma(conf, prov) if self._soma(conf, prov)[s])), "rotulo": "UFs com casos"},
+        ]
+        tot = self._soma(conf, prov)
+        self.dados["graficos"] = [
+            self._mapa(tot, ref),
+            self._barras(conf, prov, ref),
+            self._curva(r["curva_se"]["Confirmado"], r["curva_se"]["Provável"], ano, r["se"], ref),
+        ]
+        notas = ["Painel de Mpox do Ministério da Saúde (e-SUS Sinan): casos notificados no ano, pela classificação "
+                 "final registrada; os números mudam à medida que as investigações são encerradas e podem diferir "
+                 "dos informes consolidados do MS."]
+        sem = r["sem_uf"]["Confirmado"] + r["sem_uf"]["Provável"]
+        if sem:
+            notas.append(f"{sem} caso{'s' if sem > 1 else ''} confirmado{'s' if sem > 1 else ''} ou prováve"
+                         f"{'is' if sem > 1 else 'l'} sem UF de residência informada (no total, fora do mapa).")
+        self.dados["notas"] = notas
+        self.dados["fontes"] = [{"nome": r["fonte"], "url": r["url"]}]
+        self.dados["fonte_dados"] = r["fonte"]
+        self.salvar()
+        return True
+
+
 def _semana_media(regs: list[dict]) -> list[dict]:
     """Média semanal de novos casos/óbitos entre publicações consecutivas (pela data de corte dos dados)."""
     pontos = []
@@ -727,42 +845,10 @@ def gerar_paineis() -> None:
 
     paineis = [
         PainelSRAG(),
+        PainelMpoxMS(),
         PainelSarampoBrasil(),
         PainelEbolaECDC(),
     ]
-
-    # Reconhecimento temporário do painel de mpox do MS (Power BI)
-    arq = DADOS / "paineis" / "historico" / "mpox_reconhecimento2.json"
-    if not arq.exists():
-        from . import powerbi as pb
-        url = ("https://app.powerbi.com/view?r=eyJrIjoiYTU1Zjg4OGUtNjA1ZC00NTBkLTg1NzAtZjljOTNmMmNkM2ZiIiwidCI6IjlhNTU0YWQz"
-               "LWI1MmItNDg2Mi1hMzZmLTg0ZDg5MWU1YzcwNSJ9")
-        out = {}
-        try:
-            rel = pb.RelatorioPublico(url)
-            M, C, I = {"t": "MPX_TRATADO", "m": "medidas"}, {"t": "MPX_TRATADO", "c": "CLASSI_FIN_AJ", "m": "medidas"}, \
-                {"t": "MPX_TRATADO", "c": "CLASSI_FIN_AJ", "i": "IBGE", "m": "medidas"}
-            cont = pb.medida("m", "contagem_casos")
-            testes = {
-                "datas": ({"m": "medidas"}, [pb.medida("m", "Dados até")]),
-                "update_time": ({"u": "update_time"}, [pb.coluna("u", "update_time")]),
-                "classif_ano": (C, [pb.coluna("c", "Nome_CLASSI_FIN"), pb.coluna("c", "CLASSI_FIN"), pb.coluna("t", "ANO"), cont]),
-                "classif_ano_bruto": (M, [pb.coluna("t", "CLASSI_FIN"), pb.coluna("t", "ANO"), pb.contagem("t", "CLASSI_FIN")]),
-                "evolucao_classif_2026": (M, [pb.coluna("t", "ANO"), pb.coluna("t", "CLASSI_FIN"), pb.coluna("t", "EVOLUCAO"), pb.contagem("t", "CLASSI_FIN")]),
-                "uf_classif": (I, [pb.coluna("t", "ANO"), pb.coluna("c", "Nome_CLASSI_FIN"), pb.coluna("i", "UF_SIGLA"), cont]),
-                "semana_classif": (C, [pb.coluna("t", "ANO"), pb.coluna("c", "Nome_CLASSI_FIN"), pb.coluna("t", "SEMANA"), cont]),
-                "nu_ano": ({"n": "NU_ANO"}, [pb.coluna("n", "NU_ANO")]),
-            }
-            for nome, (ent, sel) in testes.items():
-                try:
-                    out[nome] = [r for r in pb.linhas(rel.consultar(pb.consulta(ent, sel), top=3000))
-                                 if not (len(r) > 2 and isinstance(r[0], (int, str)) and str(r[0]).isdigit() and int(r[0]) < 2025)][:1500]
-                except Exception as e:  # noqa: BLE001
-                    out[nome] = {"erro": str(e)[:300]}
-        except Exception:  # noqa: BLE001
-            import traceback
-            out["erro"] = traceback.format_exc()[-2000:]
-        salvar_json(arq, out)
 
     sucesso = 0
     for painel in paineis:
@@ -781,5 +867,5 @@ def listar_paineis() -> list[dict]:
             paineis.append(p)
         except Exception as e:
             log.warning(f"Erro ao ler {arq}: {e}")
-    ordem = {"SRAG": 0, "SARAMPO_BR": 1, "EBOLA": 2}
+    ordem = {"SRAG": 0, "MPOX": 1, "SARAMPO_BR": 2, "EBOLA": 3}
     return sorted(paineis, key=lambda p: (ordem.get(p.get("sigla", ""), 99), p.get("nome", "")))
