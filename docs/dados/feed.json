@@ -1,5 +1,23 @@
 [
  {
+  "t": "Covid-19: Bahia registra alta de casos e 14 mortes em 2026",
+  "u": "https://g1.globo.com/ba/bahia/noticia/2026/11/19/covid-19-casos-na-bahia.ghtml",
+  "d": "2026-11-20",
+  "df": "20 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 8.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "PJ.2.1: virologista da Fiocruz explica a nova linhagem do coronavírus em circulação no Brasil",
   "u": "https://agencia.fiocruz.br/pj21-virologista-da-fiocruz-explica-nova-linhagem-do-coronavirus-em-circulacao-no-brasil",
   "d": "2026-11-19",
@@ -38,6 +56,24 @@
   "m": [
    "Distrito Federal"
   ],
+  "c": "alerta"
+ },
+ {
+  "t": "Sobe para 175 o número de casos confirmados de MPOX no Ceará",
+  "u": "https://g1.globo.com/ce/ceara/videos-cetv-2-edicao/video/sobe-para-175-o-numero-de-casos-confirmados-de-mpox-no-ceara-15265462.ghtml",
+  "d": "2026-11-19",
+  "df": "19 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 11.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
   "c": "alerta"
  },
  {
@@ -146,6 +182,42 @@
   "r": "",
   "i": "clima",
   "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Volta Redonda confirma caso de mpox em homem de 28 anos",
+  "u": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/19/volta-redonda-confirma-caso-de-mpox-em-homem-de-28-anos.ghtml",
+  "d": "2026-11-19",
+  "df": "19 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Vídeo: UnB fica sem energia e com pontos de destruição após fortes chuvas",
+  "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7541636-video-unb-fica-sem-energia-e-com-pontos-de-destruicao-apos-fortes-chuvas.html",
+  "d": "2026-11-19",
+  "df": "19 nov 2026",
+  "f": "Correio Braziliense",
+  "fn": "Correio Braziliense | Cidades DF",
+  "e": "DF",
+  "a": [],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "alerta",
+  "m": [
+   "Distrito Federal"
+  ],
   "c": "monitoramento"
  },
  {
@@ -10403,25 +10475,5 @@
   "i": "respiratorio",
   "m": [],
   "c": "alerta"
- },
- {
-  "t": "Communicable disease threats report, 15 - 21 August 2026, week 34",
-  "u": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-15-21-august-2026-week-34",
-  "d": "2026-08-21",
-  "df": "21 ago 2026",
-  "f": "ECDC",
-  "fn": "ECDC | Communicable Disease Threats Report",
-  "e": "Internacional",
-  "a": [
-   "Sarampo",
-   "Febres hemorrágicas virais",
-   "Doença pelo vírus Ebola"
-  ],
-  "p": 6.0,
-  "se": "2026-33",
-  "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 15-21 August 2026, and includes updates on Ebola, respiratory virus epidemiology in the EU/EEA, swine flu, West Nile virus, Crimean-Congo haemorrhagic fever, dengue…",
-  "i": "virus",
-  "m": [],
-  "c": "atencao"
  }
 ]
