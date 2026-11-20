@@ -732,7 +732,7 @@ def gerar_paineis() -> None:
     ]
 
     # Reconhecimento temporário do painel de mpox do MS (Power BI)
-    arq = DADOS / "paineis" / "historico" / "mpox_reconhecimento.json"
+    arq = DADOS / "paineis" / "historico" / "mpox_reconhecimento2.json"
     if not arq.exists():
         from . import powerbi as pb
         url = ("https://app.powerbi.com/view?r=eyJrIjoiYTU1Zjg4OGUtNjA1ZC00NTBkLTg1NzAtZjljOTNmMmNkM2ZiIiwidCI6IjlhNTU0YWQz"
@@ -740,10 +740,25 @@ def gerar_paineis() -> None:
         out = {}
         try:
             rel = pb.RelatorioPublico(url)
-            esq = rel.esquema()
-            out["paginas"] = [s.get("displayName") for s in rel.estrutura()["exploration"]["sections"]]
-            out["tabelas"] = {e["Name"]: [p["Name"] + (" [medida]" if p.get("Measure") else "") for p in e.get("Properties", [])]
-                              for s in esq.get("schemas", []) for e in s.get("schema", {}).get("Entities", [])}
+            M, C, I = {"t": "MPX_TRATADO", "m": "medidas"}, {"t": "MPX_TRATADO", "c": "CLASSI_FIN_AJ", "m": "medidas"}, \
+                {"t": "MPX_TRATADO", "c": "CLASSI_FIN_AJ", "i": "IBGE", "m": "medidas"}
+            cont = pb.medida("m", "contagem_casos")
+            testes = {
+                "datas": ({"m": "medidas"}, [pb.medida("m", "Dados até")]),
+                "update_time": ({"u": "update_time"}, [pb.coluna("u", "update_time")]),
+                "classif_ano": (C, [pb.coluna("c", "Nome_CLASSI_FIN"), pb.coluna("c", "CLASSI_FIN"), pb.coluna("t", "ANO"), cont]),
+                "classif_ano_bruto": (M, [pb.coluna("t", "CLASSI_FIN"), pb.coluna("t", "ANO"), pb.contagem("t", "CLASSI_FIN")]),
+                "evolucao_classif_2026": (M, [pb.coluna("t", "ANO"), pb.coluna("t", "CLASSI_FIN"), pb.coluna("t", "EVOLUCAO"), pb.contagem("t", "CLASSI_FIN")]),
+                "uf_classif": (I, [pb.coluna("t", "ANO"), pb.coluna("c", "Nome_CLASSI_FIN"), pb.coluna("i", "UF_SIGLA"), cont]),
+                "semana_classif": (C, [pb.coluna("t", "ANO"), pb.coluna("c", "Nome_CLASSI_FIN"), pb.coluna("t", "SEMANA"), cont]),
+                "nu_ano": ({"n": "NU_ANO"}, [pb.coluna("n", "NU_ANO")]),
+            }
+            for nome, (ent, sel) in testes.items():
+                try:
+                    out[nome] = [r for r in pb.linhas(rel.consultar(pb.consulta(ent, sel), top=3000))
+                                 if not (len(r) > 2 and isinstance(r[0], (int, str)) and str(r[0]).isdigit() and int(r[0]) < 2025)][:1500]
+                except Exception as e:  # noqa: BLE001
+                    out[nome] = {"erro": str(e)[:300]}
         except Exception:  # noqa: BLE001
             import traceback
             out["erro"] = traceback.format_exc()[-2000:]
