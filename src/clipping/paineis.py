@@ -468,12 +468,13 @@ class PainelMpoxMS(PainelVigilancia):
         ])
         fig.update_layout(
             **LAYOUT_BASE, barmode="stack",
-            title=dict(text=f"<b>Casos confirmados e prováveis por semana epidemiológica de notificação, {ano}</b>"
-                            f"<br><sup>notificados até {ref}; a SE {se_atual}, em tom claro, está incompleta</sup>",
+            title=dict(text=f"<b>Casos confirmados e prováveis por semana de notificação, {ano}</b>"
+                            f"<br><sup>semanas de segunda a domingo, como no painel do MS; notificados até {ref}; "
+                            f"a semana {se_atual}, em tom claro, está incompleta</sup>",
                        font=dict(size=15, color=NAVY)),
             height=360, margin=dict(l=50, r=30, t=80, b=50), bargap=0.2,
             legend=dict(orientation="h", y=1.02, x=1, xanchor="right", yanchor="bottom"),
-            xaxis=dict(title="Semana epidemiológica de notificação", dtick=2, showgrid=False),
+            xaxis=dict(title="Semana de notificação", dtick=2, showgrid=False),
             yaxis=dict(title="Casos", gridcolor="#EEE9DD", zeroline=False, rangemode="tozero"),
         )
         f = fig.to_dict()
@@ -507,7 +508,8 @@ class PainelMpoxMS(PainelVigilancia):
         self.dados["graficos"] = [
             self._mapa(tot, ref),
             self._barras(conf, prov, ref),
-            self._curva(r["curva_se"]["Confirmado"], r["curva_se"]["Provável"], ano, r["se"], ref),
+            self._curva(r["curva_se"]["Confirmado"], r["curva_se"]["Provável"], ano,
+                        date.fromisoformat(r["data_referencia"]).isocalendar().week, ref),
         ]
         notas = ["Painel de Mpox do Ministério da Saúde (e-SUS Sinan): casos notificados no ano, pela classificação "
                  "final registrada; os números mudam à medida que as investigações são encerradas e podem diferir "
