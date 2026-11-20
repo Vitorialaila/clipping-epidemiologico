@@ -8,7 +8,7 @@ from typing import Any
 
 import requests
 import plotly.graph_objects as go
-from .util import log, ler_json, salvar_json
+from .util import DADOS, log, ler_json, salvar_json
 
 PAINEIS_DIR = Path(__file__).parent.parent.parent / "data" / "paineis"
 PAINEIS_DIR.mkdir(parents=True, exist_ok=True)
@@ -730,6 +730,24 @@ def gerar_paineis() -> None:
         PainelSarampoBrasil(),
         PainelEbolaECDC(),
     ]
+
+    # Reconhecimento temporário do painel de mpox do MS (Power BI)
+    arq = DADOS / "paineis" / "historico" / "mpox_reconhecimento.json"
+    if not arq.exists():
+        from . import powerbi as pb
+        url = ("https://app.powerbi.com/view?r=eyJrIjoiYTU1Zjg4OGUtNjA1ZC00NTBkLTg1NzAtZjljOTNmMmNkM2ZiIiwidCI6IjlhNTU0YWQz"
+               "LWI1MmItNDg2Mi1hMzZmLTg0ZDg5MWU1YzcwNSJ9")
+        out = {}
+        try:
+            rel = pb.RelatorioPublico(url)
+            esq = rel.esquema()
+            out["paginas"] = [s.get("displayName") for s in rel.estrutura()["exploration"]["sections"]]
+            out["tabelas"] = {e["Name"]: [p["Name"] + (" [medida]" if p.get("Measure") else "") for p in e.get("Properties", [])]
+                              for s in esq.get("schemas", []) for e in s.get("schema", {}).get("Entities", [])}
+        except Exception:  # noqa: BLE001
+            import traceback
+            out["erro"] = traceback.format_exc()[-2000:]
+        salvar_json(arq, out)
 
     sucesso = 0
     for painel in paineis:
