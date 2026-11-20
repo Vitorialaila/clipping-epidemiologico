@@ -1,5 +1,126 @@
 [
  {
+  "id": "c3d1155e7d76f5",
+  "titulo": "UnB mantém Vestibular 2027 após tempestade causar estragos no câmpus",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7541887-unb-mantem-vestibular-2027-apos-tempestade-causar-estragos-no-campus.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-20",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-20T20:14:11+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 13.0,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "DF",
+  "termos_evento": [
+   "estragos"
+  ],
+  "categoria": "alerta",
+  "motivo": "Saúde ambiental e clima · estragos · DF e RIDE"
+ },
+ {
+  "id": "3d363a24ce01f0",
+  "titulo": "DF está sob aviso laranja para tempestades neste feriado (20/11)",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7541753-df-esta-sob-aviso-laranja-para-tempestades-neste-feriado-20-11.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-20",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-20T20:14:11+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 10.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · DF e RIDE"
+ },
+ {
+  "id": "4b0d8eb407a9fe",
+  "titulo": "Prefeitura de Unaí confirma caso de Mpox em jovem de 20 anos",
+  "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/11/20/prefeitura-de-unai-confirma-caso-de-mpox-em-jovem-de-20-anos.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-20",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-20T20:14:11+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Mpox"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "Mpox (notificação imediata) · confirma · Brasil"
+ },
+ {
+  "id": "553560043b2f7e",
+  "titulo": "Suspeita de Mpox foi descartada: catapora é confirmada em estudante de Lagoa do Piauí",
+  "url": "https://g1.globo.com/pi/piaui/videos-pitv-2-edicao/video/suspeita-de-mpox-foi-descartada-catapora-e-confirmada-em-estudante-de-lagoa-do-piaui-15266393.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-20",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-20T20:14:11+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Mpox"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "Mpox (notificação imediata) · confirmada · Brasil"
+ },
+ {
+  "id": "cf341cb9c11c7f",
+  "titulo": "Foz do Iguaçu tem dois casos de Mpox registrados em 2026",
+  "url": "https://g1.globo.com/pr/parana/videos-bom-dia-parana/video/foz-do-iguacu-tem-dois-casos-de-mpox-registrados-em-2026-15266400.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-20",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-20T20:14:11+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Mpox"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "Mpox (notificação imediata) · dois casos · Brasil"
+ },
+ {
   "id": "7f9ebfb1b3b97c",
   "titulo": "Covid-19: Bahia registra alta de casos e 14 mortes em 2026",
   "url": "https://g1.globo.com/ba/bahia/noticia/2026/11/19/covid-19-casos-na-bahia.ghtml",
@@ -25,6 +146,52 @@
   "motivo": "COVID-19 (notificação imediata) · alta de casos · Brasil"
  },
  {
+  "id": "8b08587a5fe3eb",
+  "titulo": "Levantamento mostra maioria dos focos da dengue dentro de imóveis em Poços de Caldas",
+  "url": "https://g1.globo.com/mg/sul-de-minas/videos-bom-dia-cidade/video/levantamento-mostra-maioria-dos-focos-da-dengue-dentro-de-imoveis-em-pocos-de-caldas-15266346.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-20",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-20T20:14:11+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Dengue"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "atencao",
+  "motivo": "Dengue (notificação semanal) · focos · Brasil"
+ },
+ {
+  "id": "7d860bd753b04b",
+  "titulo": "Preso morre de Covid-19 e entrada de detentos em BH é transferida",
+  "url": "https://www.metropoles.com/minas-gerais/preso-morre-de-covid-19-e-entrada-de-detentos-em-bh-e-transferida",
+  "fonte_id": "metropoles-busca",
+  "fonte": "Metrópoles",
+  "sigla": "Metrópoles",
+  "idioma": "pt",
+  "data": "2026-11-20",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-20T20:14:11+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "COVID-19"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "COVID-19 (notificação imediata) · morre · Brasil"
+ },
+ {
   "id": "5dbf276c95da84",
   "titulo": "Coreia do Sul registra 1º caso de cólera em 10 anos",
   "url": "https://g1.globo.com/mundo/noticia/2026/11/20/coreia-do-sul-registra-1o-caso-de-colera-em-10-anos.ghtml",
@@ -46,6 +213,29 @@
   "termos_evento": [],
   "categoria": "alerta",
   "motivo": "Cólera (notificação imediata) · caso de cólera · internacional"
+ },
+ {
+  "id": "4f4e12ff9bada9",
+  "titulo": "26 Years Later: The US Loses Its Measles-Free Status",
+  "url": "https://edition.cnn.com/audio/podcasts/cnn-10/episodes/ab293e00-f09b-11f0-9ff5-53d437e615b2",
+  "fonte_id": "cnn-busca",
+  "fonte": "CNN",
+  "sigla": "CNN",
+  "idioma": "en",
+  "data": "2026-11-20",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-20T20:14:11+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Sarampo"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": "Sarampo (notificação imediata) · sem ocorrência relatada no título · internacional"
  },
  {
   "id": "093600bd831234",
@@ -201,6 +391,213 @@
   "se": "2026-46",
   "descricao": "",
   "coletado_em": "2026-11-20T11:34:37+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "bbc28f8dbabfab",
+  "titulo": "Total de pacientes canábicos passa de 1 milhão no Brasil",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/total-de-pacientes-canabicos-passa-de-1-milhao-no-brasil",
+  "fonte_id": "agencia-brasil-saude",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-11-20",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "De 2025 para 2026, o total de pacientes em tratamento com cannabis medicinal saltou de 873 mil para 1,1 milhão, segundo consta na 5ª edição do anuário elaborado pela empresa Kaya Mind . Em 2023, eram 430 mil, o que demonstra forte expansão do quantitativo em um pequeno intervalo. Este ano, a Agência Nacional de Vigilância Sanitária (Anvisa) deu alguns passos na regulação dos produtos usados com essa finalidade. Com uma resolução, permitiu a venda de canabidiol em farmácias de manipulação e o cultivo da planta no país por pessoas jurídicas e voltado à fabricação de medicamentos e outros produtos específicos.",
+  "coletado_em": "2026-11-20T20:14:11+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "vigilancia"
+  ],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "7c488a1a263e19",
+  "titulo": "Foragido com mandado de prisão em aberto por quatro homicídios é capturado",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7541864-foragido-com-mandado-de-prisao-em-aberto-por-quatro-homicidios-e-capturado.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-20",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-20T20:14:11+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "8f4da923c3e368",
+  "titulo": "Casal é preso com 40kg de drogas armazenadas em casa da Estrutural",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7541852-casal-e-preso-com-40kg-de-drogas-armazenadas-em-casa-da-estrutural.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-20",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-20T20:14:11+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "33f930d5496394",
+  "titulo": "Motociclista idoso morre após colidir com ônibus na BR-020",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7541825-motociclista-idoso-morre-apos-colidir-com-onibus-na-br-020.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-20",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-20T20:14:11+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "234b7350f5b76b",
+  "titulo": "Homem desaparecido há dez dias é encontrado caminhando na 407 da Asa Norte",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7541836-homem-desaparecido-ha-dez-dias-e-encontrado-caminhando-na-407-da-asa-norte.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-20",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-20T20:14:11+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "c731162be0a973",
+  "titulo": "PMDF prende homem com moto adulterada e porção de crack após perseguição",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7541795-pmdf-prende-homem-com-moto-adulterada-e-porcao-de-crack-apos-perseguicao.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-20",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-20T20:14:11+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "545c14e04d3ca7",
+  "titulo": "Aposta feita no Lago Norte ganha mais de R$ 93 mil na Mega-Sena",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7541775-aposta-feita-no-lago-norte-ganha-mais-de-rs-93-mil-na-mega-sena.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-20",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-20T20:14:11+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "a6c101206b432c",
+  "titulo": "Homem é flagrado ameaçando pessoas com espingarda e facão no Recanto das Emas",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7541749-homem-e-preso-com-espingarda-e-facao-apos-ameacas-no-recanto-das-emas.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-20",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-20T20:14:11+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "19712319af0d41",
+  "titulo": "Homem é preso em Ceilândia com R$ 1 milhão em drogas",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7541737-homem-e-preso-em-ceilandia-com-rs-1-milhao-em-drogas.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-20",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-20T20:14:11+00:00",
   "municipios": [
    "Distrito Federal"
   ],
@@ -546,6 +943,29 @@
   "se": "2026-46",
   "descricao": "",
   "coletado_em": "2026-11-19T21:30:42+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · Brasil"
+ },
+ {
+  "id": "8c47d79a10d719",
+  "titulo": "Tempestades voltam a atingir o Rio Grande do Sul a partir desta quinta-feira (19)",
+  "url": "https://estado.rs.gov.br/tempestades-voltam-a-atingir-o-rio-grande-do-sul-a-partir-desta-quinta-feira-19",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Portal do Estado do Rio Grande do Sul",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-11-19",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-20T20:14:11+00:00",
   "municipios": [],
   "pontuacao": 7.5,
   "agravos": [

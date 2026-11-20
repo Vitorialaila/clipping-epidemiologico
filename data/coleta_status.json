@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-11-20T11:34:37+00:00",
+  "em": "2026-11-20T20:14:11+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,7 +10,7 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-11-20T11:34:37+00:00",
+  "em": "2026-11-20T20:14:11+00:00",
   "lidos": 40,
   "novos": 0,
   "exemplos": [
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-11-20T11:34:37+00:00",
+  "em": "2026-11-20T20:14:11+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-11-20T11:34:37+00:00",
+  "em": "2026-11-20T20:14:11+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-11-20T11:34:37+00:00",
+  "em": "2026-11-20T20:14:11+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-11-20T11:34:37+00:00",
+  "em": "2026-11-20T20:14:11+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-11-20T11:34:37+00:00",
+  "em": "2026-11-20T20:14:11+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-11-20T11:34:37+00:00",
+  "em": "2026-11-20T20:14:11+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-11-20T11:34:37+00:00",
+  "em": "2026-11-20T20:14:11+00:00",
   "lidos": 2354,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-11-20T11:34:37+00:00",
+  "em": "2026-11-20T20:14:11+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,17 +100,11 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-11-20T11:34:37+00:00",
-  "lidos": 12,
-  "novos": 0,
-  "exemplos": [
-   "Ministério da Saúde promove eventos internacionais para discutir avanços da pesquisa clínica, genômica e saúde de precis",
-   "No Paraná, Sesai destaca articulação para fortalecimento da atenção à saúde indígena",
-   "Fortalecimento da participação indígena na gestão da saúde é pauta de encontro"
-  ]
+  "em": "2026-11-20T20:14:11+00:00",
+  "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
  },
  "fiocruz": {
-  "em": "2026-11-20T11:34:37+00:00",
+  "em": "2026-11-20T20:14:11+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -120,17 +114,17 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-11-20T11:34:37+00:00",
+  "em": "2026-11-20T20:14:11+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "Total de pacientes canábicos passa de 1 milhão no Brasil",
    "Repórter da Agência Brasil vence Prêmio SBIm de Jornalismo em Saúde",
-   "SP ganha novas doses da vacina contra a mpox; saiba quem pode receber",
-   "Agência Brasil conquista 1º lugar no Prêmio Einstein +Admirados"
+   "SP ganha novas doses da vacina contra a mpox; saiba quem pode receber"
   ]
  },
  "ses-go": {
-  "em": "2026-11-20T11:34:37+00:00",
+  "em": "2026-11-20T20:14:11+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -140,7 +134,7 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-11-20T11:34:37+00:00",
+  "em": "2026-11-20T20:14:11+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -150,9 +144,9 @@
   ]
  },
  "g1-busca": {
-  "em": "2026-11-20T11:34:37+00:00",
-  "lidos": 400,
-  "novos": 1,
+  "em": "2026-11-20T20:14:11+00:00",
+  "lidos": 394,
+  "novos": 4,
   "exemplos": [
    "Com caso suspeito de chikungunya, Araraquara faz ação para eliminar criadouros do Aedes",
    "Divinópolis acompanha dois casos suspeitos de mpox",
@@ -160,17 +154,17 @@
   ]
  },
  "metropoles-busca": {
-  "em": "2026-11-20T11:34:37+00:00",
-  "lidos": 68,
-  "novos": 0,
+  "em": "2026-11-20T20:14:11+00:00",
+  "lidos": 64,
+  "novos": 1,
   "exemplos": [
+   "Treinador de futebol dava comida e presentes para abusar de meninos em MG",
    "Febre amarela: MG tem 33 macacos infectados e vacinação abaixo da meta",
-   "Teste com esponja no esôfago pode detectar câncer sem endoscopia",
-   "“Mpox pode ser só uma bolha e o paciente não dar bola”, diz médico da SBI."
+   "Teste com esponja no esôfago pode detectar câncer sem endoscopia"
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-11-20T11:34:37+00:00",
+  "em": "2026-11-20T20:14:11+00:00",
   "lidos": 25,
   "novos": 0,
   "exemplos": [
@@ -180,7 +174,7 @@
   ]
  },
  "cnn-saude": {
-  "em": "2026-11-20T11:34:37+00:00",
+  "em": "2026-11-20T20:14:11+00:00",
   "lidos": 22,
   "novos": 0,
   "exemplos": [
@@ -190,17 +184,17 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-11-20T11:34:37+00:00",
-  "lidos": 52,
-  "novos": 0,
+  "em": "2026-11-20T20:14:11+00:00",
+  "lidos": 63,
+  "novos": 1,
   "exemplos": [
    "The United States’ measles elimination status is officially gone. Who should get a booster?",
    "After 26 years, the US has lost its measles elimination status",
-   "Dr. Richard Besser: Rise in US measles cases was ‘fully avoidable’"
+   "US Army delays detonation of bomb-making chemicals in Iowa after public safety concerns raised"
   ]
  },
  "inmet": {
-  "em": "2026-11-20T11:34:37+00:00",
+  "em": "2026-11-20T20:14:11+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -210,33 +204,27 @@
   ]
  },
  "cemaden": {
-  "em": "2026-11-20T11:34:37+00:00",
-  "lidos": 8,
-  "novos": 0,
-  "exemplos": [
-   "Boletim de Impactos de Extremos de Origem Hidro-Geo-Climático em Atividades Estratégicas para o Brasil",
-   "Estado do Clima, Extremos de Clima e Desastres no Brasil",
-   "5. Agrometeorologia e Incêndios Florestais"
-  ]
+  "em": "2026-11-20T20:14:11+00:00",
+  "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
  },
  "defesa-civil-busca": {
-  "em": "2026-11-20T11:34:37+00:00",
-  "lidos": 25,
-  "novos": 2,
+  "em": "2026-11-20T20:14:11+00:00",
+  "lidos": 28,
+  "novos": 1,
   "exemplos": [
    "Autorizado repasse de R$ 7,2 milhões para ações de defesa civil no Amazonas",
-   "Lançamento de guia para o Programa Defesa Civil nas Escolas é tema de debate",
-   "Autorizado repasse de R$ 21,3 milhões para 44 cidades afetadas por desastres"
+   "Governo de Sergipe",
+   "Lançamento de guia para o Programa Defesa Civil nas Escolas é tema de debate"
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-11-20T11:34:37+00:00",
+  "em": "2026-11-20T20:14:11+00:00",
   "lidos": 20,
-  "novos": 6,
+  "novos": 10,
   "exemplos": [
-   "Vídeo: UnB fica sem energia e com pontos de destruição após fortes chuvas",
-   "Seis anos depois, Justiça manda a júri acusado de matar médica no Lago Sul",
-   "Moema Belluzzo se torna a segunda mulher a presidir a Anoreg Brasil"
+   "Muro de pedras no DF pode revelar capítulos da escravidão no Brasil",
+   "DF está sob aviso laranja para tempestades neste feriado (20/11)",
+   "Foragido com mandado de prisão em aberto por quatro homicídios é capturado"
   ]
  }
 }

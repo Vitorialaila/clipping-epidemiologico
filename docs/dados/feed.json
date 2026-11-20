@@ -1,5 +1,99 @@
 [
  {
+  "t": "UnB mantém Vestibular 2027 após tempestade causar estragos no câmpus",
+  "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7541887-unb-mantem-vestibular-2027-apos-tempestade-causar-estragos-no-campus.html",
+  "d": "2026-11-20",
+  "df": "20 nov 2026",
+  "f": "Correio Braziliense",
+  "fn": "Correio Braziliense | Cidades DF",
+  "e": "DF",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 13.0,
+  "se": "2026-46",
+  "r": "",
+  "i": "clima",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "alerta"
+ },
+ {
+  "t": "DF está sob aviso laranja para tempestades neste feriado (20/11)",
+  "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7541753-df-esta-sob-aviso-laranja-para-tempestades-neste-feriado-20-11.html",
+  "d": "2026-11-20",
+  "df": "20 nov 2026",
+  "f": "Correio Braziliense",
+  "fn": "Correio Braziliense | Cidades DF",
+  "e": "DF",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 10.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "clima",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Prefeitura de Unaí confirma caso de Mpox em jovem de 20 anos",
+  "u": "https://g1.globo.com/mg/grande-minas/noticia/2026/11/20/prefeitura-de-unai-confirma-caso-de-mpox-em-jovem-de-20-anos.ghtml",
+  "d": "2026-11-20",
+  "df": "20 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Suspeita de Mpox foi descartada: catapora é confirmada em estudante de Lagoa do Piauí",
+  "u": "https://g1.globo.com/pi/piaui/videos-pitv-2-edicao/video/suspeita-de-mpox-foi-descartada-catapora-e-confirmada-em-estudante-de-lagoa-do-piaui-15266393.ghtml",
+  "d": "2026-11-20",
+  "df": "20 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Foz do Iguaçu tem dois casos de Mpox registrados em 2026",
+  "u": "https://g1.globo.com/pr/parana/videos-bom-dia-parana/video/foz-do-iguacu-tem-dois-casos-de-mpox-registrados-em-2026-15266400.ghtml",
+  "d": "2026-11-20",
+  "df": "20 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Covid-19: Bahia registra alta de casos e 14 mortes em 2026",
   "u": "https://g1.globo.com/ba/bahia/noticia/2026/11/19/covid-19-casos-na-bahia.ghtml",
   "d": "2026-11-20",
@@ -11,6 +105,42 @@
    "COVID-19"
   ],
   "p": 8.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Levantamento mostra maioria dos focos da dengue dentro de imóveis em Poços de Caldas",
+  "u": "https://g1.globo.com/mg/sul-de-minas/videos-bom-dia-cidade/video/levantamento-mostra-maioria-dos-focos-da-dengue-dentro-de-imoveis-em-pocos-de-caldas-15266346.ghtml",
+  "d": "2026-11-20",
+  "df": "20 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 7.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Preso morre de Covid-19 e entrada de detentos em BH é transferida",
+  "u": "https://www.metropoles.com/minas-gerais/preso-morre-de-covid-19-e-entrada-de-detentos-em-bh-e-transferida",
+  "d": "2026-11-20",
+  "df": "20 nov 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 7.5,
   "se": "2026-46",
   "r": "",
   "i": "respiratorio",
@@ -34,6 +164,24 @@
   "i": "agua",
   "m": [],
   "c": "alerta"
+ },
+ {
+  "t": "26 Years Later: The US Loses Its Measles-Free Status",
+  "u": "https://edition.cnn.com/audio/podcasts/cnn-10/episodes/ab293e00-f09b-11f0-9ff5-53d437e615b2",
+  "d": "2026-11-20",
+  "df": "20 nov 2026",
+  "f": "CNN",
+  "fn": "CNN",
+  "e": "Internacional",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 6.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "PJ.2.1: virologista da Fiocruz explica a nova linhagem do coronavírus em circulação no Brasil",
@@ -281,6 +429,24 @@
   "df": "19 nov 2026",
   "f": "Cemaden",
   "fn": "Cemaden | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Tempestades voltam a atingir o Rio Grande do Sul a partir desta quinta-feira (19)",
+  "u": "https://estado.rs.gov.br/tempestades-voltam-a-atingir-o-rio-grande-do-sul-a-partir-desta-quinta-feira-19",
+  "d": "2026-11-19",
+  "df": "19 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Portal do Estado do Rio Grande do Sul",
   "e": "Brasil",
   "a": [
    "Saúde ambiental e clima"
