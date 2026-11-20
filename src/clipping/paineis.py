@@ -423,7 +423,8 @@ class PainelMpoxMS(PainelVigilancia):
             n = ufs.get(sigla, 0)
             c = [c for c in CLASSES_MAPA if n >= c[0]][-1]
             classes[sigla] = (c[1], c[2], f"{n} caso{'s' if n != 1 else ''} confirmado{'s' if n != 1 else ''} ou prováve{'is' if n != 1 else 'l'}")
-        rotulos = {s: f"<b>{s}</b> {n}" for s, n in ufs.items() if n}
+        # Rótulo só nas UFs com 20 casos ou mais (no Nordeste os estados pequenos se sobrepõem); as demais no hover
+        rotulos = {s: f"<b>{s}</b> {n}" for s, n in ufs.items() if n >= 20}
         return mapa_ufs(classes, [c[1] for c in CLASSES_MAPA],
                         f"<b>Casos confirmados e prováveis por UF de residência</b><br><sup>notificados até {ref}</sup>",
                         "mapa_mpox", rotulos)
