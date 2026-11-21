@@ -20,6 +20,60 @@
   "c": "monitoramento"
  },
  {
+  "t": "Criança morre nos EUA em primeiro óbito associado ao sarampo na Virgínia",
+  "u": "https://www.metropoles.com/saude/crianca-morre-nos-eua-em-primeiro-obito-associado-ao-sarampo-na-virginia",
+  "d": "2026-11-21",
+  "df": "21 nov 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "Américas",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 10.0,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Secretaria de Saúde do Maranhão monitora casos de mpox no estado",
+  "u": "https://g1.globo.com/ma/maranhao/videos-jmtv-1-edicao/video/secretaria-de-saude-do-maranhao-monitora-casos-de-mpox-no-estado-15269321.ghtml",
+  "d": "2026-11-21",
+  "df": "21 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Dengue: Goiás lidera ranking de óbitos e projeção nacional é de 860 mil casos em 2027",
+  "u": "https://g1.globo.com/go/goias/videos-ja-1-edicao/video/dengue-goias-lidera-ranking-de-obitos-e-projecao-nacional-e-de-860-mil-casos-em-2027-15269577.ghtml",
+  "d": "2026-11-21",
+  "df": "21 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 9.0,
+  "se": "2026-46",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "A febre baixou. Por que a dengue ainda pode piorar?",
   "u": "https://www.cnnbrasil.com.br/saude/a-febre-baixou-por-que-a-dengue-ainda-pode-piorar/",
   "d": "2026-11-21",
@@ -168,6 +222,25 @@
   "i": "virus",
   "m": [],
   "c": "alerta"
+ },
+ {
+  "t": "Defesa Civil monitora chuvas em SP após envio de 33 alertas; temporais atingem quatro cidades do Vale do Ribeira",
+  "u": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-monitora-chuvas-em-sp-apos-envio-de-33-alertas-temporais-atingem-quatro-cidades-do-vale-do-ribeira/",
+  "d": "2026-11-20",
+  "df": "20 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "agenciasp.sp.gov.br",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 9.0,
+  "se": "2026-46",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Covid-19: Bahia registra alta de casos e 14 mortes em 2026",

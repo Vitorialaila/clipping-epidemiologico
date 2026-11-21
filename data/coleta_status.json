@@ -1,8 +1,8 @@
 {
  "oms-don": {
-  "em": "2026-11-21T09:46:50+00:00",
+  "em": "2026-11-21T17:29:38+00:00",
   "lidos": 30,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Ebola disease caused by Bundibugyo virus- Democratic Republic of the Congo, Kenya and Nigeria",
    "Chikungunya virus disease - Switzerland",
@@ -10,9 +10,9 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-11-21T09:46:50+00:00",
+  "em": "2026-11-21T17:29:38+00:00",
   "lidos": 40,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Better medicines for every child: GAP-f partners accelerate action on World Children’s Day",
    "WHO advances work on quality standards for herbal medicines at expert meeting in Hong Kong, China",
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-11-21T09:46:50+00:00",
+  "em": "2026-11-21T17:29:38+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-11-21T09:46:50+00:00",
+  "em": "2026-11-21T17:29:38+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-11-21T09:46:50+00:00",
+  "em": "2026-11-21T17:29:38+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-11-21T09:46:50+00:00",
+  "em": "2026-11-21T17:29:38+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-11-21T09:46:50+00:00",
+  "em": "2026-11-21T17:29:38+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-11-21T09:46:50+00:00",
+  "em": "2026-11-21T17:29:38+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-11-21T09:46:50+00:00",
+  "em": "2026-11-21T17:29:38+00:00",
   "lidos": 2354,
   "novos": 0,
   "exemplos": [
@@ -90,9 +90,9 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-11-21T09:46:50+00:00",
+  "em": "2026-11-21T17:29:38+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "From Leadership to Action: Advancing Nigeria’s Local Vaccine Research and Manufacturing Capacity",
    "Une institution africaine ne sera pas jugée par des sources anonymes et des journalistes aux motivations politiques",
@@ -100,11 +100,11 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-11-21T09:46:50+00:00",
+  "em": "2026-11-21T17:29:38+00:00",
   "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
  },
  "fiocruz": {
-  "em": "2026-11-21T09:46:50+00:00",
+  "em": "2026-11-21T17:29:38+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -114,7 +114,7 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-11-21T09:46:50+00:00",
+  "em": "2026-11-21T17:29:38+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -124,7 +124,7 @@
   ]
  },
  "ses-go": {
-  "em": "2026-11-21T09:46:50+00:00",
+  "em": "2026-11-21T17:29:38+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -134,39 +134,39 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-11-21T09:46:50+00:00",
+  "em": "2026-11-21T17:29:38+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "Especialista analisa impacto de reformas previdenciárias no país",
    "Mega-Sena sorteia prêmio de R$ 40 milhões nesta quinta-feira",
-   "PRF inicia operação para garantir a segurança nas estradas no feriadão",
-   "Agências bancárias fecham para atendimento presencial nesta sexta (20)"
+   "PRF inicia operação para garantir a segurança nas estradas no feriadão"
   ]
  },
  "g1-busca": {
-  "em": "2026-11-21T09:46:50+00:00",
-  "lidos": 379,
-  "novos": 0,
+  "em": "2026-11-21T17:29:38+00:00",
+  "lidos": 362,
+  "novos": 2,
   "exemplos": [
-   "Com caso suspeito de chikungunya, Araraquara faz ação para eliminar criadouros do Aedes",
    "Divinópolis investiga dois casos suspeitos de Mpox",
+   "Com caso suspeito de chikungunya, Araraquara faz ação para eliminar criadouros do Aedes",
    "Divinópolis acompanha dois casos suspeitos de mpox"
   ]
  },
  "metropoles-busca": {
-  "em": "2026-11-21T09:46:50+00:00",
-  "lidos": 59,
-  "novos": 0,
+  "em": "2026-11-21T17:29:38+00:00",
+  "lidos": 58,
+  "novos": 1,
   "exemplos": [
-   "Treinador de futebol dava comida e presentes para abusar de meninos em MG",
    "Febre amarela: MG tem 33 macacos infectados e vacinação abaixo da meta",
+   "Treinador de futebol dava comida e presentes para abusar de meninos em MG",
    "Teste com esponja no esôfago pode detectar câncer sem endoscopia"
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-11-21T09:46:50+00:00",
+  "em": "2026-11-21T17:29:38+00:00",
   "lidos": 25,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Epilepsia infantil: médicos alertam Dr. Kalil sobre déficit de atenção",
    "A febre baixou. Por que a dengue ainda pode piorar?",
@@ -174,8 +174,8 @@
   ]
  },
  "cnn-saude": {
-  "em": "2026-11-21T09:46:50+00:00",
-  "lidos": 21,
+  "em": "2026-11-21T17:29:38+00:00",
+  "lidos": 22,
   "novos": 0,
   "exemplos": [
    "This runner has completed over 70 marathons. This year, she ran 7 of them while pregnant",
@@ -184,17 +184,17 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-11-21T09:46:50+00:00",
-  "lidos": 62,
+  "em": "2026-11-21T17:29:38+00:00",
+  "lidos": 53,
   "novos": 0,
   "exemplos": [
    "The United States’ measles elimination status is officially gone. Who should get a booster?",
-   "Dr. Richard Besser: Rise in US measles cases was ‘fully avoidable’",
+   "US Army delays detonation of bomb-making chemicals in Iowa after public safety concerns raised",
    "California braces for its most widespread storm of the season"
   ]
  },
  "inmet": {
-  "em": "2026-11-21T09:46:50+00:00",
+  "em": "2026-11-21T17:29:38+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -204,27 +204,27 @@
   ]
  },
  "cemaden": {
-  "em": "2026-11-21T09:46:50+00:00",
+  "em": "2026-11-21T17:29:38+00:00",
   "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
  },
  "defesa-civil-busca": {
-  "em": "2026-11-21T09:46:50+00:00",
-  "lidos": 23,
-  "novos": 0,
+  "em": "2026-11-21T17:29:38+00:00",
+  "lidos": 27,
+  "novos": 1,
   "exemplos": [
    "Autorizado repasse de R$ 7,2 milhões para ações de defesa civil no Amazonas",
-   "Governo de Sergipe",
-   "Lançamento de guia para o Programa Defesa Civil nas Escolas é tema de debate"
+   "Lançamento de guia para o Programa Defesa Civil nas Escolas é tema de debate",
+   "Equipe da Defesa Civil Nacional presta socorro a Tupanciretã (RS)"
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-11-21T09:46:50+00:00",
+  "em": "2026-11-21T17:29:38+00:00",
   "lidos": 20,
-  "novos": 8,
+  "novos": 3,
   "exemplos": [
-   "Menino de 4 anos morre após sofrer parada cardíaca em shopping do DF",
    "Jardim Botânico lamenta morte de ciclista em área restrita",
-   "Livro resgata histórias e memórias do Trem Bandeirante em Brasília"
+   "Colégio Militar Dom Pedro II forma mais de 800 alunos em solenidades",
+   "Quatro pessoas ficam feridas após acidente de carro no Noroeste"
   ]
  }
 }

@@ -25,6 +25,79 @@
   "motivo": "Dengue (notificação semanal) · sem ocorrência relatada no título · DF e RIDE"
  },
  {
+  "id": "c258f0ba7b9482",
+  "titulo": "Criança morre nos EUA em primeiro óbito associado ao sarampo na Virgínia",
+  "url": "https://www.metropoles.com/saude/crianca-morre-nos-eua-em-primeiro-obito-associado-ao-sarampo-na-virginia",
+  "fonte_id": "metropoles-busca",
+  "fonte": "Metrópoles",
+  "sigla": "Metrópoles",
+  "idioma": "pt",
+  "data": "2026-11-21",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-21T17:29:38+00:00",
+  "municipios": [],
+  "pontuacao": 10.0,
+  "agravos": [
+   "Sarampo"
+  ],
+  "escopo": "Américas",
+  "termos_evento": [
+   "obito"
+  ],
+  "categoria": "alerta",
+  "motivo": "Sarampo (notificação imediata) · morre · Américas"
+ },
+ {
+  "id": "7f51a3a17a8d23",
+  "titulo": "Secretaria de Saúde do Maranhão monitora casos de mpox no estado",
+  "url": "https://g1.globo.com/ma/maranhao/videos-jmtv-1-edicao/video/secretaria-de-saude-do-maranhao-monitora-casos-de-mpox-no-estado-15269321.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-21",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-21T17:29:38+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Mpox"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "Mpox (notificação imediata) · casos de mpox · Brasil"
+ },
+ {
+  "id": "cb0f10dcf0ce1f",
+  "titulo": "Dengue: Goiás lidera ranking de óbitos e projeção nacional é de 860 mil casos em 2027",
+  "url": "https://g1.globo.com/go/goias/videos-ja-1-edicao/video/dengue-goias-lidera-ranking-de-obitos-e-projecao-nacional-e-de-860-mil-casos-em-2027-15269577.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-21",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-21T17:29:38+00:00",
+  "municipios": [],
+  "pontuacao": 9.0,
+  "agravos": [
+   "Dengue"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "obitos"
+  ],
+  "categoria": "alerta",
+  "motivo": "Dengue (óbito de notificação imediata) · óbitos · Brasil"
+ },
+ {
   "id": "ff0ced18c6b3f2",
   "titulo": "A febre baixou. Por que a dengue ainda pode piorar?",
   "url": "https://www.cnnbrasil.com.br/saude/a-febre-baixou-por-que-a-dengue-ainda-pode-piorar/",
@@ -150,6 +223,96 @@
   "se": "2026-46",
   "descricao": "",
   "coletado_em": "2026-11-21T09:46:50+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "dd6666721fa893",
+  "titulo": "Especialista analisa impacto de reformas previdenciárias no país",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/especialista-analisa-impacto-de-reformas-previdenciarias-no-pais",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-11-21",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "A crise da previdência social brasileira não pode ser compreendida apenas por contas públicas, regras de aposentadoria ou envelhecimento da população. Ela está relacionada também a transformações do mundo do trabalho, concentração de renda e mudanças na organização do capitalismo. A análise é do advogado e especialista na área Ricardo Souza, autor do livro Previdência, Trabalho e Democracia: Caminhos para a construção de um projeto para todos .",
+  "coletado_em": "2026-11-21T17:29:38+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "a6cd9f3de7917c",
+  "titulo": "Quatro pessoas ficam feridas após acidente de carro no Noroeste",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7542075-quatro-pessoas-ficam-feridas-apos-acidente-de-carro-no-noroeste.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-21",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-21T17:29:38+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "b3cd76650606b2",
+  "titulo": "PMDF resgata mulher vítima de violência doméstica em Samambaia",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7542073-pmdf-resgata-mulher-vitima-de-violencia-domestica-em-samambaia.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-21",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-21T17:29:38+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "731bddda22154d",
+  "titulo": "PMDF e Polícia Federal prendem foragida da Justiça do Piauí em Taguatinga",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7542072-pmdf-e-policia-federal-prendem-foragida-da-justica-do-piaui-em-taguatinga.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-21",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-21T17:29:38+00:00",
   "municipios": [
    "Distrito Federal"
   ],
@@ -334,6 +497,30 @@
   "termos_evento": [],
   "categoria": "alerta",
   "motivo": "Mpox (notificação imediata) · dois casos · Brasil"
+ },
+ {
+  "id": "5bfaced5c138ef",
+  "titulo": "Defesa Civil monitora chuvas em SP após envio de 33 alertas; temporais atingem quatro cidades do Vale do Ribeira",
+  "url": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-monitora-chuvas-em-sp-apos-envio-de-33-alertas-temporais-atingem-quatro-cidades-do-vale-do-ribeira/",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "agenciasp.sp.gov.br",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-11-20",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-21T17:29:38+00:00",
+  "municipios": [],
+  "pontuacao": 9.0,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "atencao",
+  "motivo": "Emergências e desastres · atingem · Brasil"
  },
  {
   "id": "7f9ebfb1b3b97c",
