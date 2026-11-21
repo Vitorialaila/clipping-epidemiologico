@@ -74,6 +74,43 @@
   "c": "alerta"
  },
  {
+  "t": "Itaocara volta a registrar casos de Covid-19 após passar outubro sem confirmações",
+  "u": "https://g1.globo.com/google/amp/rj/norte-fluminense/noticia/2026/11/21/itaocara-confirma-4-casos-de-covid-19-em-novembro-apos-outubro-sem-casos-confirmados.ghtml",
+  "d": "2026-11-21",
+  "df": "21 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 7.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Força Nacional do SUS avalia instalar posto médico em Tupanciretã",
+  "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/forca-nacional-do-sus-avalia-instalar-posto-medico-em-tupancireta",
+  "d": "2026-11-21",
+  "df": "21 nov 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Geral",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 6.5,
+  "se": "2026-46",
+  "r": "Devastada por um forte temporal na madrugada dessa sexta-feira (20), a cidade de Tupanciretã, na região central do Rio Grande do Sul, pode receber um Posto Médico Avançado (PMA) instalado pela Força Nacional do SUS. A equipe chegou à cidade com 13…",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "A febre baixou. Por que a dengue ainda pode piorar?",
   "u": "https://www.cnnbrasil.com.br/saude/a-febre-baixou-por-que-a-dengue-ainda-pode-piorar/",
   "d": "2026-11-21",
@@ -392,6 +429,25 @@
   "c": "alerta"
  },
  {
+  "t": "Defesa Civil do Estado alerta para pancadas de chuva e temporais pontuais neste fim de semana",
+  "u": "https://capivari.sp.gov.br/portal/defesa-civil-do-estado-alerta-para-pancadas-de-chuva-e-temporais-pontuais-neste-fim-de-semana/",
+  "d": "2026-11-19",
+  "df": "19 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura de Capivari",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 11.0,
+  "se": "2026-46",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "InfoGripe: casos de SRAG no RJ apresentam nível de alerta com tendência de aumento",
   "u": "https://agencia.fiocruz.br/infogripe-casos-de-srag-no-rj-apresentam-nivel-de-alerta-com-tendencia-de-aumento",
   "d": "2026-11-19",
@@ -622,6 +678,24 @@
   "se": "2026-46",
   "r": "Nav. ed. pt Entrevista PJ.2.1 Tipo de caixa Duplo horizontal Título Entrevista: PJ.2.1, nova linhagem no Brasil Imagem Chamada Virologista da Fiocruz aborda a classificação da OMS, a proteção oferecida pelas vacinas de Covid-19 e a importância da vigilância…",
   "i": "respiratorio",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "America Is Losing the War Against Measles",
+  "u": "https://www.cnn.com/audio/podcasts/chasing-life/episodes/2f959ea0-a7ac-11f1-99d2-c7b6ce101510",
+  "d": "2026-11-19",
+  "df": "19 nov 2026",
+  "f": "CNN",
+  "fn": "CNN",
+  "e": "Internacional",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 6.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
   "m": [],
   "c": "monitoramento"
  },

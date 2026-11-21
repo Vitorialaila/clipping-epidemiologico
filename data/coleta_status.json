@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-11-21T17:29:38+00:00",
+  "em": "2026-11-21T23:13:51+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,7 +10,7 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-11-21T17:29:38+00:00",
+  "em": "2026-11-21T23:13:51+00:00",
   "lidos": 40,
   "novos": 0,
   "exemplos": [
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-11-21T17:29:38+00:00",
+  "em": "2026-11-21T23:13:51+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-11-21T17:29:38+00:00",
+  "em": "2026-11-21T23:13:51+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-11-21T17:29:38+00:00",
+  "em": "2026-11-21T23:13:51+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-11-21T17:29:38+00:00",
+  "em": "2026-11-21T23:13:51+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-11-21T17:29:38+00:00",
+  "em": "2026-11-21T23:13:51+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-11-21T17:29:38+00:00",
+  "em": "2026-11-21T23:13:51+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-11-21T17:29:38+00:00",
+  "em": "2026-11-21T23:13:51+00:00",
   "lidos": 2354,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-11-21T17:29:38+00:00",
+  "em": "2026-11-21T23:13:51+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,11 +100,11 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-11-21T17:29:38+00:00",
+  "em": "2026-11-21T23:13:51+00:00",
   "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
  },
  "fiocruz": {
-  "em": "2026-11-21T17:29:38+00:00",
+  "em": "2026-11-21T23:13:51+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -114,39 +114,39 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-11-21T17:29:38+00:00",
-  "lidos": 10,
-  "novos": 0,
-  "exemplos": [
-   "Total de pacientes canábicos passa de 1 milhão no Brasil",
-   "Repórter da Agência Brasil vence Prêmio SBIm de Jornalismo em Saúde",
-   "SP ganha novas doses da vacina contra a mpox; saiba quem pode receber"
-  ]
- },
- "ses-go": {
-  "em": "2026-11-21T17:29:38+00:00",
-  "lidos": 10,
-  "novos": 0,
-  "exemplos": [
-   "11ª Conferência Estadual de Saúde de Goiás “João Divino Ribeiro”",
-   "Goiás é pioneiro na América Latina com quatro hospitais públicos certificados internacionalmente em tecnologia da saúde",
-   "Hospitais estaduais mantêm atendimento de urgência e emergência no feriado da Consciência Negra"
-  ]
- },
- "agencia-brasil-geral": {
-  "em": "2026-11-21T17:29:38+00:00",
+  "em": "2026-11-21T23:13:51+00:00",
   "lidos": 10,
   "novos": 1,
   "exemplos": [
+   "Duas reportagens da EBC ficam entre finalistas de prêmio de jornalismo",
+   "Total de pacientes canábicos passa de 1 milhão no Brasil",
+   "Repórter da Agência Brasil vence Prêmio SBIm de Jornalismo em Saúde"
+  ]
+ },
+ "ses-go": {
+  "em": "2026-11-21T23:13:51+00:00",
+  "lidos": 10,
+  "novos": 1,
+  "exemplos": [
+   "Goiás é pioneiro na oferta de canetas emagrecedoras pelo SUS para adolescentes e jovens com obesidade",
+   "11ª Conferência Estadual de Saúde de Goiás “João Divino Ribeiro”",
+   "Goiás é pioneiro na América Latina com quatro hospitais públicos certificados internacionalmente em tecnologia da saúde"
+  ]
+ },
+ "agencia-brasil-geral": {
+  "em": "2026-11-21T23:13:51+00:00",
+  "lidos": 10,
+  "novos": 1,
+  "exemplos": [
+   "Força Nacional do SUS avalia instalar posto médico em Tupanciretã",
    "Especialista analisa impacto de reformas previdenciárias no país",
-   "Mega-Sena sorteia prêmio de R$ 40 milhões nesta quinta-feira",
-   "PRF inicia operação para garantir a segurança nas estradas no feriadão"
+   "Mega-Sena sorteia prêmio de R$ 40 milhões nesta quinta-feira"
   ]
  },
  "g1-busca": {
-  "em": "2026-11-21T17:29:38+00:00",
-  "lidos": 362,
-  "novos": 2,
+  "em": "2026-11-21T23:13:51+00:00",
+  "lidos": 353,
+  "novos": 1,
   "exemplos": [
    "Divinópolis investiga dois casos suspeitos de Mpox",
    "Com caso suspeito de chikungunya, Araraquara faz ação para eliminar criadouros do Aedes",
@@ -154,9 +154,9 @@
   ]
  },
  "metropoles-busca": {
-  "em": "2026-11-21T17:29:38+00:00",
-  "lidos": 58,
-  "novos": 1,
+  "em": "2026-11-21T23:13:51+00:00",
+  "lidos": 57,
+  "novos": 0,
   "exemplos": [
    "Febre amarela: MG tem 33 macacos infectados e vacinação abaixo da meta",
    "Treinador de futebol dava comida e presentes para abusar de meninos em MG",
@@ -164,17 +164,17 @@
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-11-21T17:29:38+00:00",
+  "em": "2026-11-21T23:13:51+00:00",
   "lidos": 25,
   "novos": 0,
   "exemplos": [
+   "Epilepsia infantil: Genética impacta tratamento, dizem médicos a Dr. Kalil",
    "Epilepsia infantil: médicos alertam Dr. Kalil sobre déficit de atenção",
-   "A febre baixou. Por que a dengue ainda pode piorar?",
-   "Vacina experimental aumenta sobrevida em casos de leucemia grave"
+   "A febre baixou. Por que a dengue ainda pode piorar?"
   ]
  },
  "cnn-saude": {
-  "em": "2026-11-21T17:29:38+00:00",
+  "em": "2026-11-21T23:13:51+00:00",
   "lidos": 22,
   "novos": 0,
   "exemplos": [
@@ -184,9 +184,9 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-11-21T17:29:38+00:00",
-  "lidos": 53,
-  "novos": 0,
+  "em": "2026-11-21T23:13:51+00:00",
+  "lidos": 54,
+  "novos": 2,
   "exemplos": [
    "The United States’ measles elimination status is officially gone. Who should get a booster?",
    "US Army delays detonation of bomb-making chemicals in Iowa after public safety concerns raised",
@@ -194,7 +194,7 @@
   ]
  },
  "inmet": {
-  "em": "2026-11-21T17:29:38+00:00",
+  "em": "2026-11-21T23:13:51+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -204,12 +204,12 @@
   ]
  },
  "cemaden": {
-  "em": "2026-11-21T17:29:38+00:00",
+  "em": "2026-11-21T23:13:51+00:00",
   "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
  },
  "defesa-civil-busca": {
-  "em": "2026-11-21T17:29:38+00:00",
-  "lidos": 27,
+  "em": "2026-11-21T23:13:51+00:00",
+  "lidos": 32,
   "novos": 1,
   "exemplos": [
    "Autorizado repasse de R$ 7,2 milhões para ações de defesa civil no Amazonas",
@@ -218,13 +218,13 @@
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-11-21T17:29:38+00:00",
+  "em": "2026-11-21T23:13:51+00:00",
   "lidos": 20,
-  "novos": 3,
+  "novos": 6,
   "exemplos": [
-   "Jardim Botânico lamenta morte de ciclista em área restrita",
-   "Colégio Militar Dom Pedro II forma mais de 800 alunos em solenidades",
-   "Quatro pessoas ficam feridas após acidente de carro no Noroeste"
+   "Quatro pessoas ficam feridas após acidente de carro no Noroeste",
+   "Idoso é reanimado após ficar submerso em piscina no Lago Norte",
+   "Família aguarda investigação sobre morte de criança no shopping"
   ]
  }
 }
