@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-11-20T20:14:11+00:00",
+  "em": "2026-11-21T01:32:24+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,7 +10,7 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-11-20T20:14:11+00:00",
+  "em": "2026-11-21T01:32:24+00:00",
   "lidos": 40,
   "novos": 0,
   "exemplos": [
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-11-20T20:14:11+00:00",
+  "em": "2026-11-21T01:32:24+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,17 +30,17 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-11-20T20:14:11+00:00",
+  "em": "2026-11-21T01:32:24+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "PAHO Director reaffirms cooperation with Peru to strengthen the health system and address health priorities",
    "PAHO warns of increasing resistance to antibiotics used to treat serious infections in the Americas",
-   "PAHO urges countries to step up efforts to stop measles outbreaks and move towards elimination in the Americas",
-   "PAHO inaugurates Shared Services Hub in Lima to modernize its operations"
+   "PAHO urges countries to step up efforts to stop measles outbreaks and move towards elimination in the Americas"
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-11-20T20:14:11+00:00",
+  "em": "2026-11-21T01:32:24+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-11-20T20:14:11+00:00",
+  "em": "2026-11-21T01:32:24+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-11-20T20:14:11+00:00",
+  "em": "2026-11-21T01:32:24+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-11-20T20:14:11+00:00",
+  "em": "2026-11-21T01:32:24+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-11-20T20:14:11+00:00",
+  "em": "2026-11-21T01:32:24+00:00",
   "lidos": 2354,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-11-20T20:14:11+00:00",
+  "em": "2026-11-21T01:32:24+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,11 +100,17 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-11-20T20:14:11+00:00",
-  "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+  "em": "2026-11-21T01:32:24+00:00",
+  "lidos": 12,
+  "novos": 1,
+  "exemplos": [
+   "Ministro da Saúde participa de reunião do Mercosul para fortalecer cooperação regional em saúde",
+   "Ministério da Saúde promove eventos internacionais para discutir avanços da pesquisa clínica, genômica e saúde de precis",
+   "No Paraná, Sesai destaca articulação para fortalecimento da atenção à saúde indígena"
+  ]
  },
  "fiocruz": {
-  "em": "2026-11-20T20:14:11+00:00",
+  "em": "2026-11-21T01:32:24+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -114,9 +120,9 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-11-20T20:14:11+00:00",
+  "em": "2026-11-21T01:32:24+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Total de pacientes canábicos passa de 1 milhão no Brasil",
    "Repórter da Agência Brasil vence Prêmio SBIm de Jornalismo em Saúde",
@@ -124,7 +130,7 @@
   ]
  },
  "ses-go": {
-  "em": "2026-11-20T20:14:11+00:00",
+  "em": "2026-11-21T01:32:24+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -134,7 +140,7 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-11-20T20:14:11+00:00",
+  "em": "2026-11-21T01:32:24+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -144,19 +150,19 @@
   ]
  },
  "g1-busca": {
-  "em": "2026-11-20T20:14:11+00:00",
-  "lidos": 394,
-  "novos": 4,
+  "em": "2026-11-21T01:32:24+00:00",
+  "lidos": 376,
+  "novos": 0,
   "exemplos": [
    "Com caso suspeito de chikungunya, Araraquara faz ação para eliminar criadouros do Aedes",
-   "Divinópolis acompanha dois casos suspeitos de mpox",
-   "Divinópolis investiga dois casos suspeitos de Mpox"
+   "Divinópolis investiga dois casos suspeitos de Mpox",
+   "Divinópolis acompanha dois casos suspeitos de mpox"
   ]
  },
  "metropoles-busca": {
-  "em": "2026-11-20T20:14:11+00:00",
-  "lidos": 64,
-  "novos": 1,
+  "em": "2026-11-21T01:32:24+00:00",
+  "lidos": 62,
+  "novos": 0,
   "exemplos": [
    "Treinador de futebol dava comida e presentes para abusar de meninos em MG",
    "Febre amarela: MG tem 33 macacos infectados e vacinação abaixo da meta",
@@ -164,37 +170,37 @@
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-11-20T20:14:11+00:00",
+  "em": "2026-11-21T01:32:24+00:00",
   "lidos": 25,
   "novos": 0,
   "exemplos": [
+   "Vacina experimental aumenta sobrevida em casos de leucemia grave",
    "Epilepsia: dieta e genética podem definir tratamento, dizem médicos a Kalil",
-   "Diabetes afeta sistema musculoesquelético e causa rigidez articular",
-   "DPOC afeta 14 milhões de brasileiros e é a 5ª maior causa de morte no país"
+   "Diabetes afeta sistema musculoesquelético e causa rigidez articular"
   ]
  },
  "cnn-saude": {
-  "em": "2026-11-20T20:14:11+00:00",
-  "lidos": 22,
+  "em": "2026-11-21T01:32:24+00:00",
+  "lidos": 21,
   "novos": 0,
   "exemplos": [
+   "This runner has completed over 70 marathons. This year, she ran 7 of them while pregnant",
    "Why SNL’s ‘Sister’ sketch hit a nerve about the reality of caregiving",
-   "The US has had the tools to control measles for almost 65 years. Here’s how it’s come raging back",
-   "A ‘clear recommendation’ for men: Get screened for prostate cancer"
+   "The US has had the tools to control measles for almost 65 years. Here’s how it’s come raging back"
   ]
  },
  "cnn-busca": {
-  "em": "2026-11-20T20:14:11+00:00",
-  "lidos": 63,
+  "em": "2026-11-21T01:32:24+00:00",
+  "lidos": 59,
   "novos": 1,
   "exemplos": [
    "The United States’ measles elimination status is officially gone. Who should get a booster?",
-   "After 26 years, the US has lost its measles elimination status",
-   "US Army delays detonation of bomb-making chemicals in Iowa after public safety concerns raised"
+   "US Army delays detonation of bomb-making chemicals in Iowa after public safety concerns raised",
+   "Storm severely flooding Florida to disrupt holiday travel from Southeast to New England"
   ]
  },
  "inmet": {
-  "em": "2026-11-20T20:14:11+00:00",
+  "em": "2026-11-21T01:32:24+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -204,13 +210,19 @@
   ]
  },
  "cemaden": {
-  "em": "2026-11-20T20:14:11+00:00",
-  "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+  "em": "2026-11-21T01:32:24+00:00",
+  "lidos": 8,
+  "novos": 0,
+  "exemplos": [
+   "Boletim de Impactos de Extremos de Origem Hidro-Geo-Climático em Atividades Estratégicas para o Brasil",
+   "Estado do Clima, Extremos de Clima e Desastres no Brasil",
+   "5. Agrometeorologia e Incêndios Florestais"
+  ]
  },
  "defesa-civil-busca": {
-  "em": "2026-11-20T20:14:11+00:00",
-  "lidos": 28,
-  "novos": 1,
+  "em": "2026-11-21T01:32:24+00:00",
+  "lidos": 24,
+  "novos": 0,
   "exemplos": [
    "Autorizado repasse de R$ 7,2 milhões para ações de defesa civil no Amazonas",
    "Governo de Sergipe",
@@ -218,13 +230,13 @@
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-11-20T20:14:11+00:00",
+  "em": "2026-11-21T01:32:24+00:00",
   "lidos": 20,
-  "novos": 10,
+  "novos": 5,
   "exemplos": [
-   "Muro de pedras no DF pode revelar capítulos da escravidão no Brasil",
-   "DF está sob aviso laranja para tempestades neste feriado (20/11)",
-   "Foragido com mandado de prisão em aberto por quatro homicídios é capturado"
+   "Menino de 4 anos morre após sofrer parada cardíaca em shopping do DF",
+   "Aposta feita no Lago Norte ganha mais de R$ 93 mil na Mega-Sena",
+   "Antes de sofrer parada cardíaca e morrer, criança brincou em atração do shopping"
   ]
  }
 }
