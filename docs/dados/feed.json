@@ -1,5 +1,61 @@
 [
  {
+  "t": "Dengue: mãe que perdeu a filha e paciente que sobreviveu contam suas histórias",
+  "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7540859-dengue-mae-que-perdeu-a-filha-e-paciente-que-sobreviveu-contam-suas-historias.html",
+  "d": "2026-11-21",
+  "df": "21 nov 2026",
+  "f": "Correio Braziliense",
+  "fn": "Correio Braziliense | Cidades DF",
+  "e": "DF",
+  "a": [
+   "Dengue"
+  ],
+  "p": 10.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "mosquito",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "monitoramento"
+ },
+ {
+  "t": "A febre baixou. Por que a dengue ainda pode piorar?",
+  "u": "https://www.cnnbrasil.com.br/saude/a-febre-baixou-por-que-a-dengue-ainda-pode-piorar/",
+  "d": "2026-11-21",
+  "df": "21 nov 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Internacional",
+  "a": [
+   "Dengue"
+  ],
+  "p": 4.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Ebola disease caused by Bundibugyo virus- Democratic Republic of the Congo, Kenya and Nigeria",
+  "u": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630",
+  "d": "2026-11-20",
+  "df": "20 nov 2026",
+  "f": "OMS",
+  "fn": "OMS | Disease Outbreak News",
+  "e": "Internacional",
+  "a": [
+   "Doença pelo vírus Ebola"
+  ],
+  "p": 14.5,
+  "se": "2026-46",
+  "r": "Since the publication of the previous Disease Outbreak News on 6 November 2026, additional confirmed cases and deaths have been reported in the Democratic Republic of the Congo. While some areas have seen a slight decline in cases, sustained, high-level…",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "UnB mantém Vestibular 2027 após tempestade causar estragos no câmpus",
   "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7541887-unb-mantem-vestibular-2027-apos-tempestade-causar-estragos-no-campus.html",
   "d": "2026-11-20",
@@ -4935,24 +4991,6 @@
   "se": "2026-44",
   "r": "Yellow fever transmission continues in the WHO African Region, with recent outbreak activity concentrated in parts of West Africa. Between 1 January and 12 October 2026, 67 confirmed cases, including 18 deaths, were recorded in nine countries in the Region…",
   "i": "mosquito",
-  "m": [],
-  "c": "alerta"
- },
- {
-  "t": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo, Kenya and Nigeria",
-  "u": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON625",
-  "d": "2026-11-06",
-  "df": "06 nov 2026",
-  "f": "OMS",
-  "fn": "OMS | Disease Outbreak News",
-  "e": "Internacional",
-  "a": [
-   "Doença pelo vírus Ebola"
-  ],
-  "p": 14.5,
-  "se": "2026-44",
-  "r": "Since the publication of the previous Disease Outbreak News on 23 October 2026, the Bundibugyo virus disease (BVD) outbreak has expanded geographically in the Democratic Republic of the Congo. While some areas have seen a slight decline in cases, sustained…",
-  "i": "virus",
   "m": [],
   "c": "alerta"
  },

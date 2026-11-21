@@ -1,26 +1,26 @@
 {
  "oms-don": {
-  "em": "2026-11-21T01:32:24+00:00",
+  "em": "2026-11-21T09:46:50+00:00",
   "lidos": 30,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "Ebola disease caused by Bundibugyo virus- Democratic Republic of the Congo, Kenya and Nigeria",
    "Chikungunya virus disease - Switzerland",
-   "Middle East respiratory syndrome (MERS) – Qatar",
-   "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo, Kenya and Nigeria"
+   "Middle East respiratory syndrome (MERS) – Qatar"
   ]
  },
  "oms-noticias": {
-  "em": "2026-11-21T01:32:24+00:00",
+  "em": "2026-11-21T09:46:50+00:00",
   "lidos": 40,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "Better medicines for every child: GAP-f partners accelerate action on World Children’s Day",
    "WHO advances work on quality standards for herbal medicines at expert meeting in Hong Kong, China",
-   "Call for expressions of interest: Working Group on Community Health Worker Functions and Competencies in Health Emergenc",
-   "WHO publishes second edition of the Global Code of Practice on the International Recruitment of Health Personnel"
+   "Call for expressions of interest: Working Group on Community Health Worker Functions and Competencies in Health Emergenc"
   ]
  },
  "opas-alertas": {
-  "em": "2026-11-21T01:32:24+00:00",
+  "em": "2026-11-21T09:46:50+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,9 +30,9 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-11-21T01:32:24+00:00",
+  "em": "2026-11-21T09:46:50+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "PAHO Director reaffirms cooperation with Peru to strengthen the health system and address health priorities",
    "PAHO warns of increasing resistance to antibiotics used to treat serious infections in the Americas",
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-11-21T01:32:24+00:00",
+  "em": "2026-11-21T09:46:50+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-11-21T01:32:24+00:00",
+  "em": "2026-11-21T09:46:50+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-11-21T01:32:24+00:00",
+  "em": "2026-11-21T09:46:50+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-11-21T01:32:24+00:00",
+  "em": "2026-11-21T09:46:50+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-11-21T01:32:24+00:00",
+  "em": "2026-11-21T09:46:50+00:00",
   "lidos": 2354,
   "novos": 0,
   "exemplos": [
@@ -90,27 +90,21 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-11-21T01:32:24+00:00",
+  "em": "2026-11-21T09:46:50+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "From Leadership to Action: Advancing Nigeria’s Local Vaccine Research and Manufacturing Capacity",
    "Une institution africaine ne sera pas jugée par des sources anonymes et des journalistes aux motivations politiques",
-   "An African Institution Will Not Be Put on Trial by Anonymous Sources and Politically Motivated Journalists",
-   "From dependency to sovereignty: What the International Conference on Public Health in Africa 2026 must deliver for Afric"
+   "An African Institution Will Not Be Put on Trial by Anonymous Sources and Politically Motivated Journalists"
   ]
  },
  "ms-noticias": {
-  "em": "2026-11-21T01:32:24+00:00",
-  "lidos": 12,
-  "novos": 1,
-  "exemplos": [
-   "Ministro da Saúde participa de reunião do Mercosul para fortalecer cooperação regional em saúde",
-   "Ministério da Saúde promove eventos internacionais para discutir avanços da pesquisa clínica, genômica e saúde de precis",
-   "No Paraná, Sesai destaca articulação para fortalecimento da atenção à saúde indígena"
-  ]
+  "em": "2026-11-21T09:46:50+00:00",
+  "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
  },
  "fiocruz": {
-  "em": "2026-11-21T01:32:24+00:00",
+  "em": "2026-11-21T09:46:50+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -120,7 +114,7 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-11-21T01:32:24+00:00",
+  "em": "2026-11-21T09:46:50+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -130,7 +124,7 @@
   ]
  },
  "ses-go": {
-  "em": "2026-11-21T01:32:24+00:00",
+  "em": "2026-11-21T09:46:50+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -140,7 +134,7 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-11-21T01:32:24+00:00",
+  "em": "2026-11-21T09:46:50+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -150,8 +144,8 @@
   ]
  },
  "g1-busca": {
-  "em": "2026-11-21T01:32:24+00:00",
-  "lidos": 376,
+  "em": "2026-11-21T09:46:50+00:00",
+  "lidos": 379,
   "novos": 0,
   "exemplos": [
    "Com caso suspeito de chikungunya, Araraquara faz ação para eliminar criadouros do Aedes",
@@ -160,8 +154,8 @@
   ]
  },
  "metropoles-busca": {
-  "em": "2026-11-21T01:32:24+00:00",
-  "lidos": 62,
+  "em": "2026-11-21T09:46:50+00:00",
+  "lidos": 59,
   "novos": 0,
   "exemplos": [
    "Treinador de futebol dava comida e presentes para abusar de meninos em MG",
@@ -170,17 +164,17 @@
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-11-21T01:32:24+00:00",
+  "em": "2026-11-21T09:46:50+00:00",
   "lidos": 25,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
-   "Vacina experimental aumenta sobrevida em casos de leucemia grave",
-   "Epilepsia: dieta e genética podem definir tratamento, dizem médicos a Kalil",
-   "Diabetes afeta sistema musculoesquelético e causa rigidez articular"
+   "Epilepsia infantil: médicos alertam Dr. Kalil sobre déficit de atenção",
+   "A febre baixou. Por que a dengue ainda pode piorar?",
+   "Vacina experimental aumenta sobrevida em casos de leucemia grave"
   ]
  },
  "cnn-saude": {
-  "em": "2026-11-21T01:32:24+00:00",
+  "em": "2026-11-21T09:46:50+00:00",
   "lidos": 21,
   "novos": 0,
   "exemplos": [
@@ -190,17 +184,17 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-11-21T01:32:24+00:00",
-  "lidos": 59,
-  "novos": 1,
+  "em": "2026-11-21T09:46:50+00:00",
+  "lidos": 62,
+  "novos": 0,
   "exemplos": [
    "The United States’ measles elimination status is officially gone. Who should get a booster?",
-   "US Army delays detonation of bomb-making chemicals in Iowa after public safety concerns raised",
-   "Storm severely flooding Florida to disrupt holiday travel from Southeast to New England"
+   "Dr. Richard Besser: Rise in US measles cases was ‘fully avoidable’",
+   "California braces for its most widespread storm of the season"
   ]
  },
  "inmet": {
-  "em": "2026-11-21T01:32:24+00:00",
+  "em": "2026-11-21T09:46:50+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -210,18 +204,12 @@
   ]
  },
  "cemaden": {
-  "em": "2026-11-21T01:32:24+00:00",
-  "lidos": 8,
-  "novos": 0,
-  "exemplos": [
-   "Boletim de Impactos de Extremos de Origem Hidro-Geo-Climático em Atividades Estratégicas para o Brasil",
-   "Estado do Clima, Extremos de Clima e Desastres no Brasil",
-   "5. Agrometeorologia e Incêndios Florestais"
-  ]
+  "em": "2026-11-21T09:46:50+00:00",
+  "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
  },
  "defesa-civil-busca": {
-  "em": "2026-11-21T01:32:24+00:00",
-  "lidos": 24,
+  "em": "2026-11-21T09:46:50+00:00",
+  "lidos": 23,
   "novos": 0,
   "exemplos": [
    "Autorizado repasse de R$ 7,2 milhões para ações de defesa civil no Amazonas",
@@ -230,13 +218,13 @@
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-11-21T01:32:24+00:00",
+  "em": "2026-11-21T09:46:50+00:00",
   "lidos": 20,
-  "novos": 5,
+  "novos": 8,
   "exemplos": [
    "Menino de 4 anos morre após sofrer parada cardíaca em shopping do DF",
-   "Aposta feita no Lago Norte ganha mais de R$ 93 mil na Mega-Sena",
-   "Antes de sofrer parada cardíaca e morrer, criança brincou em atração do shopping"
+   "Jardim Botânico lamenta morte de ciclista em área restrita",
+   "Livro resgata histórias e memórias do Trem Bandeirante em Brasília"
   ]
  }
 }
