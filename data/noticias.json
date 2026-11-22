@@ -25,6 +25,32 @@
   "motivo": "Dengue (notificação semanal) · sem ocorrência relatada no título · DF e RIDE"
  },
  {
+  "id": "37d3281332c554",
+  "titulo": "Hospital São Sebastião suspende visitas após surto de sarna e casos de covid",
+  "url": "https://g1.globo.com/mg/sul-de-minas/videos-jornal-da-eptv-2-edicao/video/hospital-sao-sebastiao-suspende-visitas-apos-surto-de-sarna-e-casos-de-covid-15270616.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-21",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-22T03:10:39+00:00",
+  "municipios": [],
+  "pontuacao": 10.5,
+  "agravos": [
+   "Escabiose",
+   "COVID-19"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "surto"
+  ],
+  "categoria": "alerta",
+  "motivo": "COVID-19 (notificação imediata) · surto · Brasil"
+ },
+ {
   "id": "c258f0ba7b9482",
   "titulo": "Criança morre nos EUA em primeiro óbito associado ao sarampo na Virgínia",
   "url": "https://www.metropoles.com/saude/crianca-morre-nos-eua-em-primeiro-obito-associado-ao-sarampo-na-virginia",
@@ -71,6 +97,29 @@
   "termos_evento": [],
   "categoria": "alerta",
   "motivo": "Mpox (notificação imediata) · casos de mpox · Brasil"
+ },
+ {
+  "id": "38e4079942c8fb",
+  "titulo": "Mpox: Brasil registra mais de mil casos da doença; Piauí segue em alerta",
+  "url": "https://g1.globo.com/pi/piaui/videos-pitv-2-edicao/video/mpox-brasil-registra-mais-de-mil-casos-da-doenca-piaui-segue-em-alerta-15270605.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-21",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-22T03:10:39+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Mpox"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "Mpox (notificação imediata) · mil casos · Brasil"
  },
  {
   "id": "cb0f10dcf0ce1f",
@@ -542,6 +591,52 @@
   "se": "2026-46",
   "descricao": "",
   "coletado_em": "2026-11-21T23:13:51+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "e9fec8d5d08306",
+  "titulo": "Primeiro dia do vestibular da UnB tem abstenção menor",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7542181-primeiro-dia-do-vestibular-da-unb-tem-abstencao-menor.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-21",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-22T03:10:39+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "cc0c48366f31f0",
+  "titulo": "Parque da Cidade vira palco de evento de ciência e humor",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7542252-parque-da-cidade-vira-palco-de-evento-de-ciencia-e-humor.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-21",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-22T03:10:39+00:00",
   "municipios": [
    "Distrito Federal"
   ],
