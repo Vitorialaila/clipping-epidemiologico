@@ -1,0 +1,720 @@
+{
+ "titulo": "Clipping Epidemiológico",
+ "subtitulo": "Sala de Situação de Saúde - UnB | Residência de Vigilância em Saúde",
+ "instituicoes": [
+  "Sala de Situação de Saúde - UnB",
+  "Residência de Vigilância em Saúde"
+ ],
+ "rodape": "",
+ "se_codigo": "2026-46",
+ "se_numero": "46",
+ "se_ano": 2026,
+ "rotulo": "SE 46/2026",
+ "periodo": "15 a 21 de novembro de 2026",
+ "data_geracao": "22 de novembro de 2026",
+ "gerado_em": "2026-11-22T11:29:46+00:00",
+ "panorama": "",
+ "principal": {
+  "ancora": "n1",
+  "titulo": "Ebola disease caused by Bundibugyo virus- Democratic Republic of the Congo, Kenya and Nigeria",
+  "titulo_original": "Ebola disease caused by Bundibugyo virus- Democratic Republic of the Congo, Kenya and Nigeria",
+  "resumo": "Cases have been reported in five countries since the declaration of the outbreak on 15 May 2026: the Democratic Republic of the Congo, France, Kenya, Nigeria, and Uganda. The outbreaks in France and Uganda have been controlled since August, while Kenya and Nigeria continue with heightened surveillance as they count down to 42 days, completing two maximum incubation periods since the last confirmed cases were either discharged or medically evacuated from the country. On 26 October 2026, Switzerland reported the medical evacuation of the case, who received medical care in Geneva, Switzerland.",
+  "local": "",
+  "agravo": "Doença pelo vírus Ebola",
+  "escopo": "Internacional",
+  "fonte": "OMS | Disease Outbreak News",
+  "sigla": "OMS",
+  "data": "2026-11-20",
+  "data_fmt": "20 nov 2026",
+  "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630",
+  "dominio": "who.int",
+  "nota_ia": null,
+  "pontuacao": 14.5,
+  "n": 1,
+  "paises": [
+   "COG",
+   "KEN",
+   "NGA",
+   "FRA",
+   "UGA",
+   "CHE"
+  ],
+  "uf": "",
+  "icone": "virus",
+  "visual": {
+   "tipo": "mapa",
+   "src": "edicoes/img/SE46-2026/n1.svg"
+  }
+ },
+ "secoes": [
+  {
+   "escopo": "DF",
+   "nome": "Distrito Federal",
+   "itens": [
+    {
+     "ancora": "n2",
+     "titulo": "Mpox: número de casos confirmados passa de 23 para 44 em novembro",
+     "titulo_original": "Mpox: número de casos confirmados passa de 23 para 44 em novembro",
+     "resumo": "O número de casos confirmados de mpox no Distrito Federal quase dobrou em novembro. Até a primeira semana do mês, a capital contabilizava 23 registros da doença. Em apenas alguns dias, o total chegou a 44, segundo o último boletim epidemiológico divulgado pela Secretaria de Saúde (SES-DF). A diferença representa um aumento de 21 casos, ou 91,3%. Apesar da alta, não houve registro de mortes pela doença em 2026. O crescimento acompanha uma tendência observada em outros estados brasileiros nos últimos meses, com maior circulação do vírus. Segundo a SES-DF, entretanto, a situação epidemiológica permanece sob controle.",
+     "local": "Brasil",
+     "agravo": "Mpox",
+     "escopo": "DF",
+     "fonte": "Correio Braziliense | Cidades DF",
+     "sigla": "Correio Braziliense",
+     "data": "2026-11-15",
+     "data_fmt": "15 nov 2026",
+     "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538740-mpox-numero-de-casos-confirmados-passa-de-23-para-44-em-novembro.html",
+     "dominio": "correiobraziliense.com.br",
+     "nota_ia": null,
+     "pontuacao": 14.5,
+     "n": 2,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "DF",
+     "icone": "virus",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE46-2026/n2.svg"
+     }
+    },
+    {
+     "ancora": "n4",
+     "titulo": "UnB mantém Vestibular 2027 após tempestade causar estragos no câmpus",
+     "titulo_original": "UnB mantém Vestibular 2027 após tempestade causar estragos no câmpus",
+     "resumo": "A Universidade de Brasília (UnB) e o Cebraspe confirmaram a manutenção das provas do Vestibular 2027 para este sábado (21/11) e domingo (22/11), apesar dos estragos provocados por uma forte tempestade no campus Darcy Ribeiro, na Asa Norte. Cerca de 15 mil candidatos disputam 1.074 vagas distribuídas entre os campi da capital federal e cidades polo em Goiás e Minas Gerais, sob monitoramento contínuo da infraestrutura local.",
+     "local": "Brasil",
+     "agravo": "Saúde ambiental e clima",
+     "escopo": "DF",
+     "fonte": "Correio Braziliense | Cidades DF",
+     "sigla": "Correio Braziliense",
+     "data": "2026-11-20",
+     "data_fmt": "20 nov 2026",
+     "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7541887-unb-mantem-vestibular-2027-apos-tempestade-causar-estragos-no-campus.html",
+     "dominio": "correiobraziliense.com.br",
+     "nota_ia": null,
+     "pontuacao": 13.0,
+     "n": 4,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "DF",
+     "icone": "clima",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE46-2026/n4.svg"
+     }
+    },
+    {
+     "ancora": "n5",
+     "titulo": "PJ.2.1: virologista da Fiocruz explica a nova linhagem do coronavírus em circulação no Brasil",
+     "titulo_original": "PJ.2.1: virologista da Fiocruz explica a nova linhagem do coronavírus em circulação no Brasil",
+     "resumo": "A Organização Mundial da Saúde (OMS) classificou a linhagem PJ.2.1 do Sars-CoV-2 como variante sob monitoramento. Identificada inicialmente no Canadá, em maio de 2026, a variante chegou ao Brasil no final de agosto e passou a circular em diferentes estados. Recentemente, análises conduzidas pelo Laboratório de Vírus Respiratórios, Exantemáticos, Enterovírus e Emergências Virais do Instituto Oswaldo Cruz (IOC/Fiocruz) identificaram a predominância da linhagem na cidade do Rio de Janeiro.",
+     "local": "",
+     "agravo": "Influenza e vírus respiratórios",
+     "escopo": "DF",
+     "fonte": "Agência Fiocruz de Notícias",
+     "sigla": "Fiocruz",
+     "data": "2026-11-19",
+     "data_fmt": "19 nov 2026",
+     "url": "https://agencia.fiocruz.br/pj21-virologista-da-fiocruz-explica-nova-linhagem-do-coronavirus-em-circulacao-no-brasil",
+     "dominio": "agencia.fiocruz.br",
+     "nota_ia": null,
+     "pontuacao": 13.0,
+     "n": 5,
+     "paises": [
+      "BRA",
+      "CAN"
+     ],
+     "uf": "RJ",
+     "icone": "respiratorio",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE46-2026/n5.svg"
+     }
+    },
+    {
+     "ancora": "n6",
+     "titulo": "Com quatro novos diagnósticos, casos de mpox no DF sobem para 56",
+     "titulo_original": "Com quatro novos diagnósticos, casos de mpox no DF sobem para 56",
+     "resumo": "Segundo a Secretaria de Saúde, dos 56 casos, 50 são de moradores do Distrito Federal. Capital recebeu 210 doses de vacina contra a mpox De acordo com informativo epidemiológico divulgado nesta quinta-feira (19/11) pela Secretaria de Saúde do Distrito Federal (SES-DF), a capital chegou a 56 casos de mpox na capital. Os dados foram contabilizados até 18 de novembro. O número representa um aumento em comparação com o último informativo, divulgado ontem (18/11), quando se somavam 52 casos. Assim sendo, quatro novos pacientes foram diagnosticados com mpox em apenas um dia.",
+     "local": "Brasil",
+     "agravo": "Mpox",
+     "escopo": "DF",
+     "fonte": "Metrópoles",
+     "sigla": "Metrópoles",
+     "data": "2026-11-19",
+     "data_fmt": "19 nov 2026",
+     "url": "https://www.metropoles.com/distrito-federal/com-quatro-novos-diagnosticos-casos-de-mpox-no-df-sobem-para-56",
+     "dominio": "metropoles.com",
+     "nota_ia": null,
+     "pontuacao": 12.5,
+     "n": 6,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "DF",
+     "icone": "virus",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE46-2026/n6.svg"
+     }
+    },
+    {
+     "ancora": "n10",
+     "titulo": "Secretaria de Saúde traça plano de resposta ao El Niño",
+     "titulo_original": "Secretaria de Saúde traça plano de resposta ao El Niño",
+     "resumo": "A Secretaria de Saúde (SES-DF) aprovou, nesta terça-feira (17/11), o Plano de Enfrentamento do El Niño, com medidas para prevenir e reduzir os impactos das mudanças climáticas sobre a saúde da população do Distrito Federal. De acordo com a pasta, entre os cenários considerados mais prováveis para a capital estão a ocorrência de temperaturas acima da média, com períodos prolongados de calor e baixa umidade do ar, o que irá exigir atenção à hidratação e pode agravar problemas respiratórios e cardiovasculares, principalmente entre crianças, idosos e pessoas com doenças crônicas.",
+     "local": "",
+     "agravo": "Saúde ambiental e clima",
+     "escopo": "DF",
+     "fonte": "Correio Braziliense | Cidades DF",
+     "sigla": "Correio Braziliense",
+     "data": "2026-11-18",
+     "data_fmt": "18 nov 2026",
+     "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7540196-secretaria-de-saude-traca-plano-de-resposta-ao-el-nino.html",
+     "dominio": "correiobraziliense.com.br",
+     "nota_ia": null,
+     "pontuacao": 10.5,
+     "n": 10,
+     "paises": [
+      "BRA",
+      "IRN"
+     ],
+     "uf": "DF",
+     "icone": "clima",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE46-2026/n10.svg"
+     }
+    }
+   ]
+  },
+  {
+   "escopo": "Brasil",
+   "nome": "Brasil",
+   "itens": [
+    {
+     "ancora": "n3",
+     "titulo": "Inema emite alerta para chuva forte e risco de alagamentos em todos os municípios da Bahia",
+     "titulo_original": "Inema emite alerta para chuva forte e risco de alagamentos em todos os municípios da Bahia",
+     "resumo": "A previsão de continuidade das chuvas em diferentes regiões da Bahia levou a Sala de Situação do Instituto do Meio Ambiente e Recursos Hídricos (Inema) a emitir, no final da manhã desta segunda-feira (16), um aviso meteorológico com estados de Atenção e Alerta para os 417 municípios baianos. O comunicado tem validade até as 11h de terça-feira (17) e indica possibilidade de precipitações de intensidade moderada a forte, acompanhadas de trovoadas, rajadas de vento e ocorrência isolada de granizo.",
+     "local": "Brasil",
+     "agravo": "Emergências e desastres",
+     "escopo": "Brasil",
+     "fonte": "ba.gov.br",
+     "sigla": "Defesa Civil",
+     "data": "2026-11-16",
+     "data_fmt": "16 nov 2026",
+     "url": "https://www.ba.gov.br/comunicacao/noticias/2026-11/385564/inema-emite-alerta-para-chuva-forte-e-risco-de-alagamentos-em-todos-os",
+     "dominio": "ba.gov.br",
+     "nota_ia": null,
+     "pontuacao": 13.5,
+     "n": 3,
+     "paises": [
+      "BRA"
+     ],
+     "uf": "BA",
+     "icone": "desastre",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE46-2026/n3.svg"
+     }
+    },
+    {
+     "ancora": "n8",
+     "titulo": "Casos confirmados de sarampo em estados e países vizinhos acendem alerta em MS",
+     "titulo_original": "Casos confirmados de sarampo em estados e países vizinhos acendem alerta em MS",
+     "resumo": "Casos confirmados de sarampo em estados e países vizinhos acendem alerta em MS",
+     "local": "",
+     "agravo": "Sarampo",
+     "escopo": "Brasil",
+     "fonte": "G1",
+     "sigla": "G1",
+     "data": "2026-11-17",
+     "data_fmt": "17 nov 2026",
+     "url": "https://g1.globo.com/ms/mato-grosso-do-sul/ms1/video/casos-confirmados-de-sarampo-em-estados-e-paises-vizinhos-acendem-alerta-em-ms-15200888.ghtml",
+     "dominio": "g1.globo.com",
+     "nota_ia": null,
+     "pontuacao": 11.5,
+     "n": 8,
+     "paises": [
+      "BRA",
+      "UKR"
+     ],
+     "uf": "MS",
+     "icone": "virus",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE46-2026/n8.svg"
+     }
+    }
+   ]
+  },
+  {
+   "escopo": "Américas",
+   "nome": "Américas",
+   "itens": [
+    {
+     "ancora": "n7",
+     "titulo": "PAHO urges countries to step up efforts to stop measles outbreaks and move towards elimination in the Americas",
+     "titulo_original": "PAHO urges countries to step up efforts to stop measles outbreaks and move towards elimination in the Americas",
+     "resumo": "The Region’s measles resurgence has resulted in Bolivia, Mexico and the United States losing their measles elimination status, underscoring the urgent need to close vaccination gaps and strengthen surveillance and outbreak response. Washington, D.C., 17 November 2026 (PAHO), The Pan American Health Organization (PAHO) today called on countries across the Americas to intensify efforts to stop measles transmission, close vaccination gaps, and put the Region back on track towards elimination, as outbreaks continue to spread in several parts of the Americas.",
+     "local": "",
+     "agravo": "Sarampo",
+     "escopo": "Américas",
+     "fonte": "OPAS | Notícias",
+     "sigla": "OPAS",
+     "data": "2026-11-17",
+     "data_fmt": "17 nov 2026",
+     "url": "https://www.paho.org/en/news/17-11-2026-paho-urges-countries-step-efforts-stop-measles-outbreaks-and-move-towards",
+     "dominio": "paho.org",
+     "nota_ia": null,
+     "pontuacao": 11.5,
+     "n": 7,
+     "paises": [
+      "BOL",
+      "MEX",
+      "USA"
+     ],
+     "uf": "",
+     "icone": "virus",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE46-2026/n7.svg"
+     }
+    },
+    {
+     "ancora": "n9",
+     "titulo": "Six months on, accessing hard-to-reach communities key to halting Ebola outbreak",
+     "titulo_original": "Six months on, accessing hard-to-reach communities key to halting Ebola outbreak",
+     "resumo": "15 November 2026 | Addis Ababa, Geneva, Kinshasa, New York, Rome Six months into the Ebola outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo, significant progress has been made in bringing lifesaving services closer to affected communities, despite immense challenges. However, fuelled by ongoing conflict, displacement and humanitarian needs, the outbreak continues to expand, particularly in affected areas. Since the start of the outbreak, more than 11 000 cases and 5400 deaths have been reported. Children account for more than a quarter of confirmed cases and one third of deaths.",
+     "local": "",
+     "agravo": "Doença pelo vírus Ebola",
+     "escopo": "Américas",
+     "fonte": "Africa CDC | Notícias",
+     "sigla": "Africa CDC",
+     "data": "2026-11-15",
+     "data_fmt": "15 nov 2026",
+     "url": "https://africacdc.org/news-item/six-months-on-accessing-hard-to-reach-communities-key-to-halting-ebola-outbreak/",
+     "dominio": "africacdc.org",
+     "nota_ia": null,
+     "pontuacao": 11.5,
+     "n": 9,
+     "paises": [
+      "COG",
+      "KEN",
+      "NGA"
+     ],
+     "uf": "",
+     "icone": "virus",
+     "visual": {
+      "tipo": "mapa",
+      "src": "edicoes/img/SE46-2026/n9.svg"
+     }
+    }
+   ]
+  }
+ ],
+ "destaques": [
+  {
+   "ancora": "n1",
+   "titulo": "Ebola disease caused by Bundibugyo virus- Democratic Republic of the Congo, Kenya and Nigeria",
+   "titulo_original": "Ebola disease caused by Bundibugyo virus- Democratic Republic of the Congo, Kenya and Nigeria",
+   "resumo": "Cases have been reported in five countries since the declaration of the outbreak on 15 May 2026: the Democratic Republic of the Congo, France, Kenya, Nigeria, and Uganda. The outbreaks in France and Uganda have been controlled since August, while Kenya and Nigeria continue with heightened surveillance as they count down to 42 days, completing two maximum incubation periods since the last confirmed cases were either discharged or medically evacuated from the country. On 26 October 2026, Switzerland reported the medical evacuation of the case, who received medical care in Geneva, Switzerland.",
+   "local": "",
+   "agravo": "Doença pelo vírus Ebola",
+   "escopo": "Internacional",
+   "fonte": "OMS | Disease Outbreak News",
+   "sigla": "OMS",
+   "data": "2026-11-20",
+   "data_fmt": "20 nov 2026",
+   "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630",
+   "dominio": "who.int",
+   "nota_ia": null,
+   "pontuacao": 14.5,
+   "n": 1,
+   "paises": [
+    "COG",
+    "KEN",
+    "NGA",
+    "FRA",
+    "UGA",
+    "CHE"
+   ],
+   "uf": "",
+   "icone": "virus",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE46-2026/n1.svg"
+   }
+  },
+  {
+   "ancora": "n2",
+   "titulo": "Mpox: número de casos confirmados passa de 23 para 44 em novembro",
+   "titulo_original": "Mpox: número de casos confirmados passa de 23 para 44 em novembro",
+   "resumo": "O número de casos confirmados de mpox no Distrito Federal quase dobrou em novembro. Até a primeira semana do mês, a capital contabilizava 23 registros da doença. Em apenas alguns dias, o total chegou a 44, segundo o último boletim epidemiológico divulgado pela Secretaria de Saúde (SES-DF). A diferença representa um aumento de 21 casos, ou 91,3%. Apesar da alta, não houve registro de mortes pela doença em 2026. O crescimento acompanha uma tendência observada em outros estados brasileiros nos últimos meses, com maior circulação do vírus. Segundo a SES-DF, entretanto, a situação epidemiológica permanece sob controle.",
+   "local": "Brasil",
+   "agravo": "Mpox",
+   "escopo": "DF",
+   "fonte": "Correio Braziliense | Cidades DF",
+   "sigla": "Correio Braziliense",
+   "data": "2026-11-15",
+   "data_fmt": "15 nov 2026",
+   "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7538740-mpox-numero-de-casos-confirmados-passa-de-23-para-44-em-novembro.html",
+   "dominio": "correiobraziliense.com.br",
+   "nota_ia": null,
+   "pontuacao": 14.5,
+   "n": 2,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "DF",
+   "icone": "virus",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE46-2026/n2.svg"
+   }
+  },
+  {
+   "ancora": "n3",
+   "titulo": "Inema emite alerta para chuva forte e risco de alagamentos em todos os municípios da Bahia",
+   "titulo_original": "Inema emite alerta para chuva forte e risco de alagamentos em todos os municípios da Bahia",
+   "resumo": "A previsão de continuidade das chuvas em diferentes regiões da Bahia levou a Sala de Situação do Instituto do Meio Ambiente e Recursos Hídricos (Inema) a emitir, no final da manhã desta segunda-feira (16), um aviso meteorológico com estados de Atenção e Alerta para os 417 municípios baianos. O comunicado tem validade até as 11h de terça-feira (17) e indica possibilidade de precipitações de intensidade moderada a forte, acompanhadas de trovoadas, rajadas de vento e ocorrência isolada de granizo.",
+   "local": "Brasil",
+   "agravo": "Emergências e desastres",
+   "escopo": "Brasil",
+   "fonte": "ba.gov.br",
+   "sigla": "Defesa Civil",
+   "data": "2026-11-16",
+   "data_fmt": "16 nov 2026",
+   "url": "https://www.ba.gov.br/comunicacao/noticias/2026-11/385564/inema-emite-alerta-para-chuva-forte-e-risco-de-alagamentos-em-todos-os",
+   "dominio": "ba.gov.br",
+   "nota_ia": null,
+   "pontuacao": 13.5,
+   "n": 3,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "BA",
+   "icone": "desastre",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE46-2026/n3.svg"
+   }
+  },
+  {
+   "ancora": "n4",
+   "titulo": "UnB mantém Vestibular 2027 após tempestade causar estragos no câmpus",
+   "titulo_original": "UnB mantém Vestibular 2027 após tempestade causar estragos no câmpus",
+   "resumo": "A Universidade de Brasília (UnB) e o Cebraspe confirmaram a manutenção das provas do Vestibular 2027 para este sábado (21/11) e domingo (22/11), apesar dos estragos provocados por uma forte tempestade no campus Darcy Ribeiro, na Asa Norte. Cerca de 15 mil candidatos disputam 1.074 vagas distribuídas entre os campi da capital federal e cidades polo em Goiás e Minas Gerais, sob monitoramento contínuo da infraestrutura local.",
+   "local": "Brasil",
+   "agravo": "Saúde ambiental e clima",
+   "escopo": "DF",
+   "fonte": "Correio Braziliense | Cidades DF",
+   "sigla": "Correio Braziliense",
+   "data": "2026-11-20",
+   "data_fmt": "20 nov 2026",
+   "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7541887-unb-mantem-vestibular-2027-apos-tempestade-causar-estragos-no-campus.html",
+   "dominio": "correiobraziliense.com.br",
+   "nota_ia": null,
+   "pontuacao": 13.0,
+   "n": 4,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "DF",
+   "icone": "clima",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE46-2026/n4.svg"
+   }
+  },
+  {
+   "ancora": "n5",
+   "titulo": "PJ.2.1: virologista da Fiocruz explica a nova linhagem do coronavírus em circulação no Brasil",
+   "titulo_original": "PJ.2.1: virologista da Fiocruz explica a nova linhagem do coronavírus em circulação no Brasil",
+   "resumo": "A Organização Mundial da Saúde (OMS) classificou a linhagem PJ.2.1 do Sars-CoV-2 como variante sob monitoramento. Identificada inicialmente no Canadá, em maio de 2026, a variante chegou ao Brasil no final de agosto e passou a circular em diferentes estados. Recentemente, análises conduzidas pelo Laboratório de Vírus Respiratórios, Exantemáticos, Enterovírus e Emergências Virais do Instituto Oswaldo Cruz (IOC/Fiocruz) identificaram a predominância da linhagem na cidade do Rio de Janeiro.",
+   "local": "",
+   "agravo": "Influenza e vírus respiratórios",
+   "escopo": "DF",
+   "fonte": "Agência Fiocruz de Notícias",
+   "sigla": "Fiocruz",
+   "data": "2026-11-19",
+   "data_fmt": "19 nov 2026",
+   "url": "https://agencia.fiocruz.br/pj21-virologista-da-fiocruz-explica-nova-linhagem-do-coronavirus-em-circulacao-no-brasil",
+   "dominio": "agencia.fiocruz.br",
+   "nota_ia": null,
+   "pontuacao": 13.0,
+   "n": 5,
+   "paises": [
+    "BRA",
+    "CAN"
+   ],
+   "uf": "RJ",
+   "icone": "respiratorio",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE46-2026/n5.svg"
+   }
+  },
+  {
+   "ancora": "n6",
+   "titulo": "Com quatro novos diagnósticos, casos de mpox no DF sobem para 56",
+   "titulo_original": "Com quatro novos diagnósticos, casos de mpox no DF sobem para 56",
+   "resumo": "Segundo a Secretaria de Saúde, dos 56 casos, 50 são de moradores do Distrito Federal. Capital recebeu 210 doses de vacina contra a mpox De acordo com informativo epidemiológico divulgado nesta quinta-feira (19/11) pela Secretaria de Saúde do Distrito Federal (SES-DF), a capital chegou a 56 casos de mpox na capital. Os dados foram contabilizados até 18 de novembro. O número representa um aumento em comparação com o último informativo, divulgado ontem (18/11), quando se somavam 52 casos. Assim sendo, quatro novos pacientes foram diagnosticados com mpox em apenas um dia.",
+   "local": "Brasil",
+   "agravo": "Mpox",
+   "escopo": "DF",
+   "fonte": "Metrópoles",
+   "sigla": "Metrópoles",
+   "data": "2026-11-19",
+   "data_fmt": "19 nov 2026",
+   "url": "https://www.metropoles.com/distrito-federal/com-quatro-novos-diagnosticos-casos-de-mpox-no-df-sobem-para-56",
+   "dominio": "metropoles.com",
+   "nota_ia": null,
+   "pontuacao": 12.5,
+   "n": 6,
+   "paises": [
+    "BRA"
+   ],
+   "uf": "DF",
+   "icone": "virus",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE46-2026/n6.svg"
+   }
+  },
+  {
+   "ancora": "n7",
+   "titulo": "PAHO urges countries to step up efforts to stop measles outbreaks and move towards elimination in the Americas",
+   "titulo_original": "PAHO urges countries to step up efforts to stop measles outbreaks and move towards elimination in the Americas",
+   "resumo": "The Region’s measles resurgence has resulted in Bolivia, Mexico and the United States losing their measles elimination status, underscoring the urgent need to close vaccination gaps and strengthen surveillance and outbreak response. Washington, D.C., 17 November 2026 (PAHO), The Pan American Health Organization (PAHO) today called on countries across the Americas to intensify efforts to stop measles transmission, close vaccination gaps, and put the Region back on track towards elimination, as outbreaks continue to spread in several parts of the Americas.",
+   "local": "",
+   "agravo": "Sarampo",
+   "escopo": "Américas",
+   "fonte": "OPAS | Notícias",
+   "sigla": "OPAS",
+   "data": "2026-11-17",
+   "data_fmt": "17 nov 2026",
+   "url": "https://www.paho.org/en/news/17-11-2026-paho-urges-countries-step-efforts-stop-measles-outbreaks-and-move-towards",
+   "dominio": "paho.org",
+   "nota_ia": null,
+   "pontuacao": 11.5,
+   "n": 7,
+   "paises": [
+    "BOL",
+    "MEX",
+    "USA"
+   ],
+   "uf": "",
+   "icone": "virus",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE46-2026/n7.svg"
+   }
+  },
+  {
+   "ancora": "n8",
+   "titulo": "Casos confirmados de sarampo em estados e países vizinhos acendem alerta em MS",
+   "titulo_original": "Casos confirmados de sarampo em estados e países vizinhos acendem alerta em MS",
+   "resumo": "Casos confirmados de sarampo em estados e países vizinhos acendem alerta em MS",
+   "local": "",
+   "agravo": "Sarampo",
+   "escopo": "Brasil",
+   "fonte": "G1",
+   "sigla": "G1",
+   "data": "2026-11-17",
+   "data_fmt": "17 nov 2026",
+   "url": "https://g1.globo.com/ms/mato-grosso-do-sul/ms1/video/casos-confirmados-de-sarampo-em-estados-e-paises-vizinhos-acendem-alerta-em-ms-15200888.ghtml",
+   "dominio": "g1.globo.com",
+   "nota_ia": null,
+   "pontuacao": 11.5,
+   "n": 8,
+   "paises": [
+    "BRA",
+    "UKR"
+   ],
+   "uf": "MS",
+   "icone": "virus",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE46-2026/n8.svg"
+   }
+  },
+  {
+   "ancora": "n9",
+   "titulo": "Six months on, accessing hard-to-reach communities key to halting Ebola outbreak",
+   "titulo_original": "Six months on, accessing hard-to-reach communities key to halting Ebola outbreak",
+   "resumo": "15 November 2026 | Addis Ababa, Geneva, Kinshasa, New York, Rome Six months into the Ebola outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo, significant progress has been made in bringing lifesaving services closer to affected communities, despite immense challenges. However, fuelled by ongoing conflict, displacement and humanitarian needs, the outbreak continues to expand, particularly in affected areas. Since the start of the outbreak, more than 11 000 cases and 5400 deaths have been reported. Children account for more than a quarter of confirmed cases and one third of deaths.",
+   "local": "",
+   "agravo": "Doença pelo vírus Ebola",
+   "escopo": "Américas",
+   "fonte": "Africa CDC | Notícias",
+   "sigla": "Africa CDC",
+   "data": "2026-11-15",
+   "data_fmt": "15 nov 2026",
+   "url": "https://africacdc.org/news-item/six-months-on-accessing-hard-to-reach-communities-key-to-halting-ebola-outbreak/",
+   "dominio": "africacdc.org",
+   "nota_ia": null,
+   "pontuacao": 11.5,
+   "n": 9,
+   "paises": [
+    "COG",
+    "KEN",
+    "NGA"
+   ],
+   "uf": "",
+   "icone": "virus",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE46-2026/n9.svg"
+   }
+  },
+  {
+   "ancora": "n10",
+   "titulo": "Secretaria de Saúde traça plano de resposta ao El Niño",
+   "titulo_original": "Secretaria de Saúde traça plano de resposta ao El Niño",
+   "resumo": "A Secretaria de Saúde (SES-DF) aprovou, nesta terça-feira (17/11), o Plano de Enfrentamento do El Niño, com medidas para prevenir e reduzir os impactos das mudanças climáticas sobre a saúde da população do Distrito Federal. De acordo com a pasta, entre os cenários considerados mais prováveis para a capital estão a ocorrência de temperaturas acima da média, com períodos prolongados de calor e baixa umidade do ar, o que irá exigir atenção à hidratação e pode agravar problemas respiratórios e cardiovasculares, principalmente entre crianças, idosos e pessoas com doenças crônicas.",
+   "local": "",
+   "agravo": "Saúde ambiental e clima",
+   "escopo": "DF",
+   "fonte": "Correio Braziliense | Cidades DF",
+   "sigla": "Correio Braziliense",
+   "data": "2026-11-18",
+   "data_fmt": "18 nov 2026",
+   "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7540196-secretaria-de-saude-traca-plano-de-resposta-ao-el-nino.html",
+   "dominio": "correiobraziliense.com.br",
+   "nota_ia": null,
+   "pontuacao": 10.5,
+   "n": 10,
+   "paises": [
+    "BRA",
+    "IRN"
+   ],
+   "uf": "DF",
+   "icone": "clima",
+   "visual": {
+    "tipo": "mapa",
+    "src": "edicoes/img/SE46-2026/n10.svg"
+   }
+  }
+ ],
+ "outras": [
+  {
+   "titulo": "Inema emite alerta para chuva forte e risco de alagamentos em todos os municípios da Bahia",
+   "fonte": "Defesa Civil",
+   "data_fmt": "16 nov 2026",
+   "url": "http://www.ba.gov.br/comunicacao/noticias/2026-11/385564/inema-emite-alerta-para-chuva-forte-e-risco-de-alagamentos-em-todos-os",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Mpox: com quase 400 casos, Rio passa a atualizar diariamente os dados",
+   "fonte": "Agência Brasil",
+   "data_fmt": "16 nov 2026",
+   "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/mpox-com-quase-400-casos-rio-passa-atualizar-diariamente-os-dados",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Aumenta os casos de MPOX no DF: Brasília recebeu reforço de doses da vacina contra a doença",
+   "fonte": "G1",
+   "data_fmt": "18 nov 2026",
+   "url": "https://g1.globo.com/df/distrito-federal/df1/video/aumenta-os-casos-de-mpox-no-df-brasilia-recebeu-reforco-de-doses-da-vacina-contra-a-doenca-15205052.ghtml",
+   "escopo": "DF"
+  },
+  {
+   "titulo": "Mpox: Secretaria de Saúde confirma 51 casos da doença no Distrito Federal",
+   "fonte": "Metrópoles",
+   "data_fmt": "17 nov 2026",
+   "url": "https://www.metropoles.com/distrito-federal/mpox-secretaria-de-saude-confirma-51-casos-da-doenca-no-distrito-federal",
+   "escopo": "DF"
+  },
+  {
+   "titulo": "Sobe para 175 o número de casos confirmados de MPOX no Ceará",
+   "fonte": "G1",
+   "data_fmt": "19 nov 2026",
+   "url": "https://g1.globo.com/ce/ceara/videos-cetv-2-edicao/video/sobe-para-175-o-numero-de-casos-confirmados-de-mpox-no-ceara-15265462.ghtml",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Divinópolis confirma primeiro caso de Mpox: 'paciente está estável', diz Prefeitura",
+   "fonte": "G1",
+   "data_fmt": "18 nov 2026",
+   "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/18/divinopolis-confirma-primeiro-caso-de-mpox-paciente-esta-estavel-diz-prefeitura.ghtml",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Paraná tem 14 casos confirmados de MPox em 2026",
+   "fonte": "G1",
+   "data_fmt": "18 nov 2026",
+   "url": "https://g1.globo.com/pr/parana/videos-bom-dia-parana/video/parana-tem-14-casos-confirmados-de-mpox-em-2026-15202462.ghtml",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Mpox: DF chega a 52 casos confirmados e 112 doses de vacina aplicadas",
+   "fonte": "Metrópoles",
+   "data_fmt": "18 nov 2026",
+   "url": "https://www.metropoles.com/distrito-federal/mpox-df-chega-a-52-casos-confirmados-e-112-doses-de-vacina-aplicadas",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Vale, Serra e Litoral têm 6 casos confirmados de MPOX em 2026",
+   "fonte": "G1",
+   "data_fmt": "18 nov 2026",
+   "url": "https://g1.globo.com/google/amp/sp/vale-do-paraiba-regiao/videos-link-vanguarda/video/vale-serra-e-litoral-tem-6-casos-confirmados-de-mpox-em-2026-15212760.ghtml",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Maranhão registra nove casos confirmados da doença mpox ao longo de 2026",
+   "fonte": "G1",
+   "data_fmt": "17 nov 2026",
+   "url": "https://g1.globo.com/ma/maranhao/videos-bom-dia-mirante/video/maranhao-registra-nove-casos-confirmados-da-doenca-mpox-ao-longo-de-2026-15199048.ghtml",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Ministério da Saúde alerta para casos de sarampo e Sesma reforça vacinação em Belém",
+   "fonte": "G1",
+   "data_fmt": "17 nov 2026",
+   "url": "https://g1.globo.com/google/amp/pa/para/videos-bom-dia-para/video/ministerio-da-saude-alerta-para-casos-de-sarampo-e-sesma-reforca-vacinacao-em-belem-15199284.ghtml",
+   "escopo": "Brasil"
+  },
+  {
+   "titulo": "Maranhão registra oito casos de Mpox este mês e reforça alerta para prevenção",
+   "fonte": "G1",
+   "data_fmt": "17 nov 2026",
+   "url": "https://g1.globo.com/ma/maranhao/videos-jmtv-2-edicao/video/maranhao-registra-oito-casos-de-mpox-este-mes-e-reforca-alerta-para-prevencao-15201438.ghtml",
+   "escopo": "Brasil"
+  }
+ ],
+ "total_coletado": 426,
+ "fontes": [
+  "Africa CDC",
+  "Agência Brasil",
+  "Agência Fiocruz de Notícias",
+  "CDC",
+  "CNN",
+  "CNN Brasil",
+  "Cemaden",
+  "Correio Braziliense",
+  "Defesa Civil",
+  "Defesa Civil Nacional",
+  "ECDC",
+  "G1",
+  "INMET",
+  "Metrópoles",
+  "Ministério da Saúde",
+  "OMS",
+  "OPAS",
+  "SES-GO"
+ ],
+ "ia": false,
+ "contagem_escopo": {
+  "DF": 5,
+  "Brasil": 2,
+  "Américas": 2,
+  "Internacional": 1
+ },
+ "mapa": "edicoes/img/SE46-2026/mapa-semana.svg",
+ "mapa_escuro": "edicoes/img/SE46-2026/mapa-semana-escuro.svg",
+ "pdf": "edicoes/clipping-SE46-2026.pdf"
+}

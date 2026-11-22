@@ -1,5 +1,43 @@
 [
  {
+  "t": "Maior atenção à Mpox; números de infecção no DF tem grande aumento",
+  "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7542257-maior-atencao-a-mpox-numeros-de-infeccao-no-df-tem-grande-aumento.html",
+  "d": "2026-11-22",
+  "df": "22 nov 2026",
+  "f": "Correio Braziliense",
+  "fn": "Correio Braziliense | Cidades DF",
+  "e": "DF",
+  "a": [
+   "Mpox"
+  ],
+  "p": 12.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Primeiro caso de Mpox em Montes Claros, prisão de homem que confessou dois assassinatos e acidente em córrego; veja as notícias mais lidas da semana",
+  "u": "https://g1.globo.com/mg/grande-minas/noticia/2026/11/22/primeiro-caso-de-mpox-em-montes-claros-prisao-de-homem-que-confessou-dois-assassinatos-e-acidente-em-corrego-veja-as-noticias-mais-lidas-da-semana.ghtml",
+  "d": "2026-11-22",
+  "df": "22 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 11.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Dengue: mãe que perdeu a filha e paciente que sobreviveu contam suas histórias",
   "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7540859-dengue-mae-que-perdeu-a-filha-e-paciente-que-sobreviveu-contam-suas-historias.html",
   "d": "2026-11-21",
@@ -298,6 +336,24 @@
   "c": "alerta"
  },
  {
+  "t": "Defesa Civil alerta para tempestade e ventos de até 60 km/h neste domingo (22)",
+  "u": "https://www.portovelho.ro.gov.br/noticias/58969",
+  "d": "2026-11-20",
+  "df": "20 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura de Porto Velho",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "Defesa Civil monitora chuvas em SP após envio de 33 alertas; temporais atingem quatro cidades do Vale do Ribeira",
   "u": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-monitora-chuvas-em-sp-apos-envio-de-33-alertas-temporais-atingem-quatro-cidades-do-vale-do-ribeira/",
   "d": "2026-11-20",
@@ -369,6 +425,24 @@
   "i": "respiratorio",
   "m": [],
   "c": "alerta"
+ },
+ {
+  "t": "Força Nacional do SUS segue para Tupanciretã (RS) para assistência à população atingida por tempestade",
+  "u": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/11/forca-nacional-do-sus-segue-para-tupancireta-rs-para-assistencia-a-populacao-atingida-por-tempestade",
+  "d": "2026-11-20",
+  "df": "20 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "www.gov.br",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Coreia do Sul registra 1º caso de cólera em 10 anos",

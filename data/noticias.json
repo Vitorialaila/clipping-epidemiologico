@@ -1,5 +1,101 @@
 [
  {
+  "id": "ca587cb3d53226",
+  "titulo": "Maior atenção à Mpox; números de infecção no DF tem grande aumento",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7542257-maior-atencao-a-mpox-numeros-de-infeccao-no-df-tem-grande-aumento.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-22",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-22T11:19:38+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 12.5,
+  "agravos": [
+   "Mpox"
+  ],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": "Mpox (notificação imediata) · sem ocorrência relatada no título · DF e RIDE"
+ },
+ {
+  "id": "2c5e6df7355d6a",
+  "titulo": "Primeiro caso de Mpox em Montes Claros, prisão de homem que confessou dois assassinatos e acidente em córrego; veja as notícias mais lidas da semana",
+  "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/11/22/primeiro-caso-de-mpox-em-montes-claros-prisao-de-homem-que-confessou-dois-assassinatos-e-acidente-em-corrego-veja-as-noticias-mais-lidas-da-semana.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-22",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-22T11:19:38+00:00",
+  "municipios": [],
+  "pontuacao": 11.5,
+  "agravos": [
+   "Mpox"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "primeiro caso"
+  ],
+  "categoria": "alerta",
+  "motivo": "Mpox (notificação imediata) · Primeiro caso · Brasil"
+ },
+ {
+  "id": "a336d30ffb9e2d",
+  "titulo": "Mulheres negras enfrentam barreiras no acesso à saúde e atendimento digno",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7541754-mulheres-negras-enfrentam-barreiras-no-acesso-a-saude-e-atendimento-digno.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-22",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-22T11:19:38+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "3d83d91fdac10a",
+  "titulo": "DF registra alta de 56% em biópsias de próstata na rede pública",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7537696-df-registra-alta-de-56-em-biopsias-de-prostata-na-rede-publica.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-22",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-22T11:19:38+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
   "id": "767c4359f48652",
   "titulo": "Dengue: mãe que perdeu a filha e paciente que sobreviveu contam suas histórias",
   "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7540859-dengue-mae-que-perdeu-a-filha-e-paciente-que-sobreviveu-contam-suas-historias.html",
@@ -823,6 +919,31 @@
   "motivo": "Mpox (notificação imediata) · dois casos · Brasil"
  },
  {
+  "id": "6e84494a08ca0d",
+  "titulo": "Defesa Civil alerta para tempestade e ventos de até 60 km/h neste domingo (22)",
+  "url": "https://www.portovelho.ro.gov.br/noticias/58969",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Prefeitura de Porto Velho",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-11-20",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-22T11:19:38+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alerta para"
+  ],
+  "categoria": "monitoramento",
+  "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · Brasil"
+ },
+ {
   "id": "5bfaced5c138ef",
   "titulo": "Defesa Civil monitora chuvas em SP após envio de 33 alertas; temporais atingem quatro cidades do Vale do Ribeira",
   "url": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-monitora-chuvas-em-sp-apos-envio-de-33-alertas-temporais-atingem-quatro-cidades-do-vale-do-ribeira/",
@@ -916,6 +1037,29 @@
   "termos_evento": [],
   "categoria": "alerta",
   "motivo": "COVID-19 (notificação imediata) · morre · Brasil"
+ },
+ {
+  "id": "194eb849a6f97a",
+  "titulo": "Força Nacional do SUS segue para Tupanciretã (RS) para assistência à população atingida por tempestade",
+  "url": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/11/forca-nacional-do-sus-segue-para-tupancireta-rs-para-assistencia-a-populacao-atingida-por-tempestade",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "www.gov.br",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-11-20",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-22T11:19:38+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "atencao",
+  "motivo": "Saúde ambiental e clima · atingida · Brasil"
  },
  {
   "id": "5dbf276c95da84",
