@@ -38,6 +38,42 @@
   "c": "alerta"
  },
  {
+  "t": "Polícia Científica investiga suspeita de envenenamento após denúncia de morte de gatos em Natal",
+  "u": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/22/policia-cientifica-investiga-suspeita-de-envenenamento-apos-denuncia-de-morte-de-gatos-em-natal.ghtml",
+  "d": "2026-11-22",
+  "df": "22 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Intoxicações"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "quimico",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Mosquito com bactéria reduziu em 68% infecções por dengue em Belo Horizonte",
+  "u": "https://www.cnnbrasil.com.br/saude/mosquito-com-bacteria-reduziu-em-68-infeccoes-por-dengue-em-belo-horizonte/",
+  "d": "2026-11-22",
+  "df": "22 nov 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Internacional",
+  "a": [
+   "Dengue"
+  ],
+  "p": 4.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "Dengue: mãe que perdeu a filha e paciente que sobreviveu contam suas histórias",
   "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7540859-dengue-mae-que-perdeu-a-filha-e-paciente-que-sobreviveu-contam-suas-historias.html",
   "d": "2026-11-21",
@@ -1887,6 +1923,24 @@
  {
   "t": "Três Corações confirma 128 casos de sarna humana e Sul de Minas chega a 20 cidades com registros da doença",
   "u": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/17/tres-coracoes-confirma-128-casos-de-sarna-humana-e-sul-de-minas-chega-a-20-cidades-com-registros-da-doenca.ghtml",
+  "d": "2026-11-17",
+  "df": "17 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Escabiose"
+  ],
+  "p": 7.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "saude",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Cinco escolas registram casos de sarna humana em Ouro Preto",
+  "u": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/17/prefeitura-de-ouro-preto-diz-que-casos-de-sarna-humana-foram-registrados-em-cinco-unidades-da-rede-municipal-de-ensino.ghtml",
   "d": "2026-11-17",
   "df": "17 nov 2026",
   "f": "G1",
