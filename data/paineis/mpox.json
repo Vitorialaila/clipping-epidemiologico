@@ -2,7 +2,7 @@
  "nome": "Mpox no Brasil, 2026",
  "sigla": "MPOX",
  "descricao": "Casos de mpox notificados em 2026, por classificação final, segundo o Painel de Mpox do Ministério da Saúde (e-SUS Sinan). Notificações até 19/11/2026 (SE 46).",
- "atualizado_em": "2026-11-22T22:00:26.026426",
+ "atualizado_em": "2026-11-23T06:02:21.416822",
  "fonte_dados": "Ministério da Saúde, Painel de Mpox (CNIE)",
  "serie_temporal": [],
  "distribuicao_geografica": [],
@@ -14836,37 +14836,23 @@
        "size": 11
       },
       "showarrow": false,
+      "text": "<b>SC</b> 24",
+      "x": -48.514786313799824,
+      "y": -27.65
+     },
+     {
+      "bgcolor": "rgba(255,255,255,.85)",
+      "bordercolor": "#0A3570",
+      "borderpad": 2,
+      "borderwidth": 1,
+      "font": {
+       "color": "#0A3570",
+       "size": 11
+      },
+      "showarrow": false,
       "text": "<b>DF</b> 56",
       "x": -46.37043275872987,
       "y": -15.79
-     },
-     {
-      "bgcolor": "rgba(255,255,255,.85)",
-      "bordercolor": "#0A3570",
-      "borderpad": 2,
-      "borderwidth": 1,
-      "font": {
-       "color": "#0A3570",
-       "size": 11
-      },
-      "showarrow": false,
-      "text": "<b>RJ</b> 430",
-      "x": -40.82034120443117,
-      "y": -22.07
-     },
-     {
-      "bgcolor": "rgba(255,255,255,.85)",
-      "bordercolor": "#0A3570",
-      "borderpad": 2,
-      "borderwidth": 1,
-      "font": {
-       "color": "#0A3570",
-       "size": 11
-      },
-      "showarrow": false,
-      "text": "<b>SP</b> 512",
-      "x": -47.74825269004179,
-      "y": -22.54
      },
      {
       "bgcolor": "rgba(255,255,255,.85)",
@@ -14920,9 +14906,23 @@
        "size": 11
       },
       "showarrow": false,
-      "text": "<b>SC</b> 24",
-      "x": -48.514786313799824,
-      "y": -27.65
+      "text": "<b>RJ</b> 430",
+      "x": -40.82034120443117,
+      "y": -22.07
+     },
+     {
+      "bgcolor": "rgba(255,255,255,.85)",
+      "bordercolor": "#0A3570",
+      "borderpad": 2,
+      "borderwidth": 1,
+      "font": {
+       "color": "#0A3570",
+       "size": 11
+      },
+      "showarrow": false,
+      "text": "<b>SP</b> 512",
+      "x": -47.74825269004179,
+      "y": -22.54
      }
     ],
     "font": {

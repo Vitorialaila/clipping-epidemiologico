@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-11-23T00:50:19+00:00",
+  "em": "2026-11-23T09:00:43+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,7 +10,7 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-11-23T00:50:19+00:00",
+  "em": "2026-11-23T09:00:43+00:00",
   "lidos": 40,
   "novos": 0,
   "exemplos": [
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-11-23T00:50:19+00:00",
+  "em": "2026-11-23T09:00:43+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-11-23T00:50:19+00:00",
+  "em": "2026-11-23T09:00:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,17 +40,17 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-11-23T00:50:19+00:00",
+  "em": "2026-11-23T09:00:43+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 8,
   "exemplos": [
-   "Communicable disease threats report, 10 - 16 October, week 42",
-   "Communicable disease threats report, 3 - 9 October, week 41",
-   "Communicable disease threats report, 26 September - 2 October, week 40"
+   "Communicable disease threats report, 10 - 16 October 2026, week 42",
+   "Communicable disease threats report, 3 - 9 October 2026, week 41",
+   "Communicable disease threats report, 26 September - 2 October 2026, week 40"
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-11-23T00:50:19+00:00",
+  "em": "2026-11-23T09:00:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-11-23T00:50:19+00:00",
+  "em": "2026-11-23T09:00:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-11-23T00:50:19+00:00",
+  "em": "2026-11-23T09:00:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-11-23T00:50:19+00:00",
+  "em": "2026-11-23T09:00:43+00:00",
   "lidos": 2354,
   "novos": 0,
   "exemplos": [
@@ -90,21 +90,27 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-11-23T00:50:19+00:00",
+  "em": "2026-11-23T09:00:43+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "One in six pregnancies is to an adolescent girl, yet only one health facility in eight offers services built for young p",
    "From Leadership to Action: Advancing Nigeria’s Local Vaccine Research and Manufacturing Capacity",
-   "Une institution africaine ne sera pas jugée par des sources anonymes et des journalistes aux motivations politiques",
-   "An African Institution Will Not Be Put on Trial by Anonymous Sources and Politically Motivated Journalists"
+   "Une institution africaine ne sera pas jugée par des sources anonymes et des journalistes aux motivations politiques"
   ]
  },
  "ms-noticias": {
-  "em": "2026-11-23T00:50:19+00:00",
-  "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+  "em": "2026-11-23T09:00:43+00:00",
+  "lidos": 12,
+  "novos": 1,
+  "exemplos": [
+   "Força Nacional do SUS mobiliza equipes para atender população atingida por temporal no Rio Grande do Sul",
+   "Ministro da Saúde participa de reunião do Mercosul para fortalecer cooperação regional em saúde",
+   "Ministério da Saúde promove eventos internacionais para discutir avanços da pesquisa clínica, genômica e saúde de precis"
+  ]
  },
  "fiocruz": {
-  "em": "2026-11-23T00:50:19+00:00",
+  "em": "2026-11-23T09:00:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -114,7 +120,7 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-11-23T00:50:19+00:00",
+  "em": "2026-11-23T09:00:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -124,7 +130,7 @@
   ]
  },
  "ses-go": {
-  "em": "2026-11-23T00:50:19+00:00",
+  "em": "2026-11-23T09:00:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -134,7 +140,7 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-11-23T00:50:19+00:00",
+  "em": "2026-11-23T09:00:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -144,27 +150,15 @@
   ]
  },
  "g1-busca": {
-  "em": "2026-11-23T00:50:19+00:00",
-  "lidos": 342,
-  "novos": 1,
-  "exemplos": [
-   "Piracicaba estima 14 mil casos suspeitos de dengue em 2027, aponta Saúde",
-   "Divinópolis investiga dois casos suspeitos de Mpox",
-   "Com caso suspeito de chikungunya, Araraquara faz ação para eliminar criadouros do Aedes"
-  ]
+  "em": "2026-11-23T09:00:43+00:00",
+  "erro": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Ag1.globo.com%20dengue%20OR%20chikungunya%20OR%20zika%20OR%20influenza%20OR%20%22gripe%20avi%C3%A1ria%22%20OR%20SRAG%20when%3A7d&hl=pt-BR&gl=BR&ceid=BR:pt-419"
  },
  "metropoles-busca": {
-  "em": "2026-11-23T00:50:19+00:00",
-  "lidos": 57,
-  "novos": 0,
-  "exemplos": [
-   "Febre amarela: MG tem 33 macacos infectados e vacinação abaixo da meta",
-   "Ministro da Educação da Coreia do Sul renuncia após fraudes com uso de IA",
-   "Teste com esponja no esôfago pode detectar câncer sem endoscopia"
-  ]
+  "em": "2026-11-23T09:00:43+00:00",
+  "erro": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Ametropoles.com%20sarampo%20OR%20%22febre%20amarela%22%20OR%20%22raiva%20humana%22%20OR%20botulismo%20OR%20c%C3%B3lera%20OR%20mpox%20OR%20coqueluche%20OR%20difteria%20when%3A7d&hl=pt-BR&gl=BR&ceid=BR:pt-419"
  },
  "cnn-brasil-saude": {
-  "em": "2026-11-23T00:50:19+00:00",
+  "em": "2026-11-23T09:00:43+00:00",
   "lidos": 25,
   "novos": 0,
   "exemplos": [
@@ -174,7 +168,7 @@
   ]
  },
  "cnn-saude": {
-  "em": "2026-11-23T00:50:19+00:00",
+  "em": "2026-11-23T09:00:43+00:00",
   "lidos": 22,
   "novos": 0,
   "exemplos": [
@@ -184,17 +178,11 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-11-23T00:50:19+00:00",
-  "lidos": 48,
-  "novos": 0,
-  "exemplos": [
-   "The United States’ measles elimination status is officially gone. Who should get a booster?",
-   "US Army delays detonation of bomb-making chemicals in Iowa after public safety concerns raised",
-   "East Coast storm could disrupt holiday travel after battering Florida"
-  ]
+  "em": "2026-11-23T09:00:43+00:00",
+  "erro": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Acnn.com%20bird%20flu%20OR%20H5N1%20OR%20mpox%20OR%20ebola%20OR%20dengue%20OR%20cholera%20when%3A7d&hl=en-US&gl=US&ceid=US:en"
  },
  "inmet": {
-  "em": "2026-11-23T00:50:19+00:00",
+  "em": "2026-11-23T09:00:43+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -204,23 +192,29 @@
   ]
  },
  "cemaden": {
-  "em": "2026-11-23T00:50:19+00:00",
-  "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+  "em": "2026-11-23T09:00:43+00:00",
+  "lidos": 8,
+  "novos": 0,
+  "exemplos": [
+   "Boletim de Impactos de Extremos de Origem Hidro-Geo-Climático em Atividades Estratégicas para o Brasil",
+   "Estado do Clima, Extremos de Clima e Desastres no Brasil",
+   "5. Agrometeorologia e Incêndios Florestais"
+  ]
  },
  "defesa-civil-busca": {
-  "em": "2026-11-23T00:50:19+00:00",
-  "lidos": 26,
-  "novos": 1,
+  "em": "2026-11-23T09:00:43+00:00",
+  "lidos": 39,
+  "novos": 3,
   "exemplos": [
-   "Autorizado repasse de R$ 7,2 milhões para ações de defesa civil no Amazonas",
    "Lançamento de guia para o Programa Defesa Civil nas Escolas é tema de debate",
+   "Autorizado repasse de R$ 7,2 milhões para ações de defesa civil no Amazonas",
    "Equipe da Defesa Civil Nacional presta socorro a Tupanciretã (RS)"
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-11-23T00:50:19+00:00",
+  "em": "2026-11-23T09:00:43+00:00",
   "lidos": 20,
-  "novos": 3,
+  "novos": 0,
   "exemplos": [
    "Veja as novas opções gastronômicas inauguradas no ParkShopping",
    "Homem é preso após disparar espingarda em ruas de Planaltina",

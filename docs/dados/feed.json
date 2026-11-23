@@ -185,6 +185,43 @@
   "c": "alerta"
  },
  {
+  "t": "Força Nacional do SUS mobiliza equipes para atender população atingida por temporal no Rio Grande do Sul",
+  "u": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/forca-nacional-do-sus-mobiliza-equipes-para-atender-populacao-atingida-por-temporal-no-rio-grande-do-sul",
+  "d": "2026-11-21",
+  "df": "21 nov 2026",
+  "f": "MS",
+  "fn": "Ministério da Saúde | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Vitória da Conquista segue em alerta para chuvas fortes nas próximas horas",
+  "u": "https://www.pmvc.ba.gov.br/vitoria-da-conquista-segue-em-alerta-para-chuvas-fortes-nas-proximas-horas/",
+  "d": "2026-11-21",
+  "df": "21 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura Municipal de Vitória da Conquista - PMVC",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "Dengue: Goiás lidera ranking de óbitos e projeção nacional é de 860 mil casos em 2027",
   "u": "https://g1.globo.com/go/goias/videos-ja-1-edicao/video/dengue-goias-lidera-ranking-de-obitos-e-projecao-nacional-e-de-860-mil-casos-em-2027-15269577.ghtml",
   "d": "2026-11-21",
@@ -294,6 +331,24 @@
    "Distrito Federal"
   ],
   "c": "alerta"
+ },
+ {
+  "t": "Defesa Civil de Botucatu alerta para calor, baixa umidade e risco de incêndios neste fim de semana",
+  "u": "https://www.botucatu.sp.gov.br/noticia/5242/defesa-civil-de-botucatu-alerta-para-calor-baixa-umidade-e-risco-de-incendios-neste-fim-de-semana/",
+  "d": "2026-11-20",
+  "df": "20 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura Municipal de Botucatu",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 12.0,
+  "se": "2026-46",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "DF está sob aviso laranja para tempestades neste feriado (20/11)",
@@ -600,6 +655,25 @@
   "df": "19 nov 2026",
   "f": "Defesa Civil",
   "fn": "Prefeitura de Capivari",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 11.0,
+  "se": "2026-46",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Previsão indica chuvas intensas e temporais durante o feriadão em Santa Catarina",
+  "u": "https://noticias.sc.gov.br/previsao-indica-chuvas-intensas-e-temporais-durante-o-feriadao-em-santa-catarina/",
+  "d": "2026-11-19",
+  "df": "19 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Governo de Santa Catarina",
   "e": "Brasil",
   "a": [
    "Emergências e desastres",
@@ -9963,6 +10037,26 @@
   "c": "atencao"
  },
  {
+  "t": "Communicable disease threats report, 10 - 16 October 2026, week 42",
+  "u": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-10-16-october-2026-week-42",
+  "d": "2026-10-16",
+  "df": "16 out 2026",
+  "f": "ECDC",
+  "fn": "ECDC | Communicable Disease Threats Report",
+  "e": "Internacional",
+  "a": [
+   "Mpox",
+   "Febres hemorrágicas virais",
+   "Doença pelo vírus Ebola"
+  ],
+  "p": 6.0,
+  "se": "2026-41",
+  "r": "This issue of the Communicable disease threats report (CDTR) covers the period 10 - 16 October 2026, and includes updates on respiratory virus epidemiology in the EU/EEA, Ebola, expert deployment, pneumonia of unknown aetiology, mpox in the EU/EEA, West Nile…",
+  "i": "virus",
+  "m": [],
+  "c": "atencao"
+ },
+ {
   "t": "Após chuva mudar o tempo no DF, previsão indica temporais até segunda",
   "u": "https://www.correiobraziliense.com.br/cidades-df/2026/10/7521145-apos-chuva-mudar-o-tempo-no-df-previsao-indica-temporais-ate-segunda.html",
   "d": "2026-10-15",
@@ -10585,6 +10679,26 @@
   "c": "atencao"
  },
  {
+  "t": "Communicable disease threats report, 3 - 9 October 2026, week 41",
+  "u": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-3-9-october-2026-week-41",
+  "d": "2026-10-09",
+  "df": "09 out 2026",
+  "f": "ECDC",
+  "fn": "ECDC | Communicable Disease Threats Report",
+  "e": "Internacional",
+  "a": [
+   "Sarampo",
+   "Febres hemorrágicas virais",
+   "Doença pelo vírus Ebola"
+  ],
+  "p": 6.0,
+  "se": "2026-40",
+  "r": "This issue of the Communicable disease threats report (CDTR) covers the period 3 - 9October 2026, and includes updates on respiratory virus epidemiology in the EU/EEA, pneumonia of unknown aetiology, Ebola, expert deployment, West Nile Virus, Crimean-Congo…",
+  "i": "virus",
+  "m": [],
+  "c": "atencao"
+ },
+ {
   "t": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo",
   "u": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON619",
   "d": "2026-10-08",
@@ -10714,6 +10828,26 @@
  {
   "t": "Communicable disease threats report, 26 September - 2 October, week 40",
   "u": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-26-september-2-october-week-40",
+  "d": "2026-10-02",
+  "df": "02 out 2026",
+  "f": "ECDC",
+  "fn": "ECDC | Communicable Disease Threats Report",
+  "e": "Internacional",
+  "a": [
+   "Síndrome respiratória e coronavírus emergentes",
+   "Influenza por novo subtipo",
+   "Doença pelo vírus Ebola"
+  ],
+  "p": 6.0,
+  "se": "2026-39",
+  "r": "This issue of the Communicable disease threats report (CDTR) covers the period 26 September - 2 October 2026, and includes updates on Crimean Congo haemorrhagic fever, Chikungunya virus disease, cholera, COVID-19, dengue, Ebola, avian influenza, seasonal…",
+  "i": "virus",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Communicable disease threats report, 26 September - 2 October 2026, week 40",
+  "u": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-26-september-2-october-2026-week-40",
   "d": "2026-10-02",
   "df": "02 out 2026",
   "f": "ECDC",
@@ -10878,6 +11012,26 @@
   "c": "atencao"
  },
  {
+  "t": "Communicable disease threats report, 19-25 September 2026, week 39",
+  "u": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-19-25-september-2026-week-39",
+  "d": "2026-09-25",
+  "df": "25 set 2026",
+  "f": "ECDC",
+  "fn": "ECDC | Communicable Disease Threats Report",
+  "e": "Internacional",
+  "a": [
+   "Febres hemorrágicas virais",
+   "Doença pelo vírus Ebola",
+   "Febre do Nilo Ocidental"
+  ],
+  "p": 6.0,
+  "se": "2026-38",
+  "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 19-25 September, and includes updates on respiratory virus epidemiology in the EU/EEA Ebola, ECDC expert deployment, West Nile Virus, Crimean-Congo haemorrhagic fever, dengue…",
+  "i": "virus",
+  "m": [],
+  "c": "atencao"
+ },
+ {
   "t": "Recommendations announced for influenza vaccine composition for the 2027 southern hemisphere influenza season",
   "u": "https://www.who.int/news/item/25-09-2026-recommendations-announced-for-influenza-vaccine-composition-for-the-2027-southern-hemisphere-influenza-season",
   "d": "2026-09-25",
@@ -10952,8 +11106,48 @@
   "c": "atencao"
  },
  {
+  "t": "Communicable disease threats report, 12-18 September 2026, week 38",
+  "u": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-12-18-september-2026-week-38",
+  "d": "2026-09-18",
+  "df": "18 set 2026",
+  "f": "ECDC",
+  "fn": "ECDC | Communicable Disease Threats Report",
+  "e": "Internacional",
+  "a": [
+   "Sarampo",
+   "Influenza por novo subtipo",
+   "Febres hemorrágicas virais"
+  ],
+  "p": 6.0,
+  "se": "2026-37",
+  "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 12-18 September, and includes updates on Ebola, malaria, botulism, avian influenza A(H9N2), influenza A(H5), respiratory virus epidemiology in the EU/.EEA, West Nile virus…",
+  "i": "virus",
+  "m": [],
+  "c": "atencao"
+ },
+ {
   "t": "Communicable disease threats report, 5 - 11 September, week 37",
   "u": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-5-11-september-week-37",
+  "d": "2026-09-11",
+  "df": "11 set 2026",
+  "f": "ECDC",
+  "fn": "ECDC | Communicable Disease Threats Report",
+  "e": "Internacional",
+  "a": [
+   "Febres hemorrágicas virais",
+   "Doença pelo vírus Ebola",
+   "Febre do Nilo Ocidental"
+  ],
+  "p": 6.0,
+  "se": "2026-36",
+  "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 5 -12 September, and includes updates on Ebola, an overview of respiratory virus epidemiology in the EU/EEA, West Nile virus, Crimean-Congo haemorrhagic fever, dengue…",
+  "i": "virus",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Communicable disease threats report, 5 - 11 September 2026, week 37",
+  "u": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-5-11-september-2026-week-37",
   "d": "2026-09-11",
   "df": "11 set 2026",
   "f": "ECDC",
@@ -11028,8 +11222,48 @@
   "c": "atencao"
  },
  {
+  "t": "Communicable disease threats report, 29 August - 4 September 2026, week 36",
+  "u": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-29-august-4-september-2026-week-36",
+  "d": "2026-09-04",
+  "df": "04 set 2026",
+  "f": "ECDC",
+  "fn": "ECDC | Communicable Disease Threats Report",
+  "e": "Internacional",
+  "a": [
+   "Influenza por novo subtipo",
+   "Febres hemorrágicas virais",
+   "Doença pelo vírus Ebola"
+  ],
+  "p": 6.0,
+  "se": "2026-35",
+  "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 29 August - 4 September, and includes updates on Ebola, SARS-CoV-2 variant classification, West Nile virus, Crimean-Congo haemorrhagic fever, dengue, chikungunya, vibrio…",
+  "i": "virus",
+  "m": [],
+  "c": "atencao"
+ },
+ {
   "t": "Communicable disease threats report, 22 - 28 August, week 35",
   "u": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-22-28-august-week-35",
+  "d": "2026-08-28",
+  "df": "28 ago 2026",
+  "f": "ECDC",
+  "fn": "ECDC | Communicable Disease Threats Report",
+  "e": "Internacional",
+  "a": [
+   "Poliomielite",
+   "Febres hemorrágicas virais",
+   "Doença pelo vírus Ebola"
+  ],
+  "p": 6.0,
+  "se": "2026-34",
+  "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 22 - 28 August, and includes updates on diphtheria, Ebola, swine influenza A(H1N2), respiratory virus epidemiology, Crimean-Congo haemorrhagic fever, dengue, chikungunya virus…",
+  "i": "virus",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Communicable disease threats report, 22 - 28 August 2026, week 35",
+  "u": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-22-28-august-2026-week-35",
   "d": "2026-08-28",
   "df": "28 ago 2026",
   "f": "ECDC",
