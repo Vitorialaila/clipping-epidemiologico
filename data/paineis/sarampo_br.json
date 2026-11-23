@@ -1,8 +1,8 @@
 {
  "nome": "Sarampo no Brasil, 2026",
  "sigla": "SARAMPO_BR",
- "descricao": "Casos confirmados de sarampo no Brasil em 2026, segundo o Ministério da Saúde. Dados até 09/11/2026 (SE 45).",
- "atualizado_em": "2026-11-23T06:02:28.600076",
+ "descricao": "Casos confirmados de sarampo no Brasil em 2026, segundo o Ministério da Saúde. Dados até 19/11/2026 (SE 46).",
+ "atualizado_em": "2026-11-23T18:29:58.407859",
  "fonte_dados": "Ministério da Saúde, Painel de Exantemáticas (CNIE); Ministério da Saúde, Situação Epidemiológica do Sarampo; Ministério da Saúde, notícia de 06/10/2026",
  "serie_temporal": [],
  "distribuicao_geografica": [],
@@ -11,7 +11,7 @@
  "aba": "Sarampo Brasil",
  "kpis": [
   {
-   "valor": "76",
+   "valor": "78",
    "rotulo": "casos confirmados em 2026"
   },
   {
@@ -19,16 +19,16 @@
    "rotulo": "óbitos (até 26/09/2026)"
   },
   {
-   "valor": "7",
+   "valor": "6",
    "rotulo": "UFs com casos"
   },
   {
-   "valor": "767",
+   "valor": "781",
    "rotulo": "casos suspeitos em investigação"
   },
   {
-   "valor": "SE 45",
-   "rotulo": "dados até 09/11/2026"
+   "valor": "SE 46",
+   "rotulo": "dados até 19/11/2026"
   }
  ],
  "graficos": [
@@ -462,7 +462,7 @@
      "mode": "lines",
      "name": "5 a 19",
      "showlegend": true,
-     "text": "<b>Amazonas</b><br>12 casos confirmados",
+     "text": "<b>Amazonas</b><br>11 casos confirmados",
      "x": [
       -65.343,
       -65.28,
@@ -7697,19 +7697,19 @@
     },
     {
      "fill": "toself",
-     "fillcolor": "#B9C9E0",
+     "fillcolor": "#E3E6EB",
      "hoverinfo": "text",
      "hoveron": "fills",
-     "legendgroup": "1 a 4",
-     "legendrank": 1,
+     "legendgroup": "Sem casos",
+     "legendrank": 0,
      "line": {
       "color": "#FFFFFF",
       "width": 0.8
      },
      "mode": "lines",
-     "name": "1 a 4",
+     "name": "Sem casos",
      "showlegend": false,
-     "text": "<b>Paraíba</b><br>1 caso confirmado",
+     "text": "<b>Paraíba</b><br>0 casos confirmados",
      "x": [
       -36.121,
       -36.07,
@@ -9449,7 +9449,7 @@
      "mode": "lines",
      "name": "1 a 4",
      "showlegend": false,
-     "text": "<b>Rio de Janeiro</b><br>2 casos confirmados",
+     "text": "<b>Rio de Janeiro</b><br>3 casos confirmados",
      "x": [
       -43.191,
       -43.266,
@@ -14850,7 +14850,7 @@
        "size": 11
       },
       "showarrow": false,
-      "text": "<b>AM</b> 12",
+      "text": "<b>AM</b> 11",
       "x": -61.410016516007815,
       "y": -3.29
      },
@@ -14892,23 +14892,9 @@
        "size": 11
       },
       "showarrow": false,
-      "text": "<b>RJ</b> 2",
+      "text": "<b>RJ</b> 3",
       "x": -40.82034120443117,
       "y": -22.07
-     },
-     {
-      "bgcolor": "rgba(255,255,255,.85)",
-      "bordercolor": "#0A3570",
-      "borderpad": 2,
-      "borderwidth": 1,
-      "font": {
-       "color": "#0A3570",
-       "size": 11
-      },
-      "showarrow": false,
-      "text": "<b>PB</b> 1",
-      "x": -35.648664983380115,
-      "y": -7.17
      },
      {
       "bgcolor": "rgba(255,255,255,.85)",
@@ -14940,7 +14926,7 @@
       "size": 15,
       "color": "#0A3570"
      },
-     "text": "<b>Casos confirmados por UF</b><br><sup>até 09/11/2026</sup>"
+     "text": "<b>Casos confirmados por UF</b><br><sup>até 19/11/2026</sup>"
     },
     "margin": {
      "l": 10,
@@ -14992,29 +14978,26 @@
      "orientation": "h",
      "text": [
       "1 (2%)",
-      "1 (2%)",
-      "2 (3%)",
       "3 (5%)",
       "3 (5%)",
-      "12 (19%)",
-      "41 (65%)"
+      "3 (5%)",
+      "11 (18%)",
+      "41 (66%)"
      ],
      "textposition": "outside",
      "x": [
       1,
-      1,
-      2,
       3,
       3,
-      12,
+      3,
+      11,
       41
      ],
      "y": [
-      "Paraíba",
       "Tocantins",
-      "Rio de Janeiro",
       "Bahia",
       "Paraná",
+      "Rio de Janeiro",
       "Amazonas",
       "São Paulo"
      ],
@@ -15799,7 +15782,7 @@
       "size": 15,
       "color": "#0A3570"
      },
-     "text": "<b>Distribuição por UF</b><br><sup>até 09/11/2026</sup>"
+     "text": "<b>Distribuição por UF</b><br><sup>até 19/11/2026</sup>"
     },
     "margin": {
      "l": 10,
@@ -15880,7 +15863,11 @@
       37,
       38,
       39,
-      40
+      40,
+      41,
+      42,
+      43,
+      44
      ],
      "y": [
       0,
@@ -15906,7 +15893,7 @@
       1,
       3,
       0,
-      7,
+      6,
       2,
       6,
       4,
@@ -15916,13 +15903,17 @@
       6,
       1,
       13,
-      1,
+      2,
       5,
       0,
       5,
       2,
-      8,
-      7
+      7,
+      7,
+      0,
+      1,
+      0,
+      2
      ],
      "type": "bar"
     }
@@ -16705,7 +16696,7 @@
       "size": 15,
       "color": "#0A3570"
      },
-     "text": "<b>Casos confirmados por semana de início do exantema, 2026</b><br><sup>dados até 09/11/2026</sup>"
+     "text": "<b>Casos confirmados por semana de início do exantema, 2026</b><br><sup>dados até 19/11/2026</sup>"
     },
     "margin": {
      "l": 50,
@@ -16743,7 +16734,7 @@
  ],
  "notas": [
   "Painel de Exantemáticas do Ministério da Saúde (dados do SINAN), filtrado para sarampo: casos com classificação final confirmada e agravo final sarampo, por UF de residência e semana de início do exantema. Os números podem diferir dos informes do MS, que são consolidados em outra data.",
-  "13 casos sem UF de residência informada no painel (entram no total, mas não no mapa).",
+  "16 casos sem UF de residência informada no painel (entram no total, mas não no mapa).",
   "O painel não informa óbitos; o número de óbitos vem da última publicação do MS que o traz."
  ],
  "fontes": [
@@ -16846,6 +16837,51 @@
    },
    "em_investigacao": 767,
    "painel_atualizado_em": "2026-11-15",
+   "fonte": "Ministério da Saúde, Painel de Exantemáticas (CNIE)",
+   "url": "https://www.gov.br/saude/pt-br/composicao/svsa/cnie/painel-exantematicas",
+   "captura": "painel",
+   "capturado_em": "2026-11-23"
+  },
+  {
+   "data_referencia": "2026-11-19",
+   "se": 46,
+   "casos": 78,
+   "obitos": null,
+   "ufs": {
+    "SP": 41,
+    "AM": 11,
+    "BA": 3,
+    "PR": 3,
+    "RJ": 3,
+    "TO": 1
+   },
+   "uf_ignorada": 16,
+   "curva_se": {
+    "6": 1,
+    "11": 1,
+    "13": 1,
+    "16": 1,
+    "21": 1,
+    "22": 3,
+    "24": 6,
+    "25": 2,
+    "26": 6,
+    "27": 4,
+    "28": 1,
+    "31": 6,
+    "32": 1,
+    "33": 13,
+    "34": 2,
+    "35": 5,
+    "37": 5,
+    "38": 2,
+    "39": 7,
+    "40": 7,
+    "42": 1,
+    "44": 2
+   },
+   "em_investigacao": 781,
+   "painel_atualizado_em": "2026-11-23",
    "fonte": "Ministério da Saúde, Painel de Exantemáticas (CNIE)",
    "url": "https://www.gov.br/saude/pt-br/composicao/svsa/cnie/painel-exantematicas",
    "captura": "painel",

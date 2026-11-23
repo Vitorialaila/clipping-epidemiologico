@@ -59,5 +59,50 @@
   "url": "https://www.gov.br/saude/pt-br/composicao/svsa/cnie/painel-exantematicas",
   "captura": "painel",
   "capturado_em": "2026-11-23"
+ },
+ {
+  "data_referencia": "2026-11-19",
+  "se": 46,
+  "casos": 78,
+  "obitos": null,
+  "ufs": {
+   "SP": 41,
+   "AM": 11,
+   "BA": 3,
+   "PR": 3,
+   "RJ": 3,
+   "TO": 1
+  },
+  "uf_ignorada": 16,
+  "curva_se": {
+   "6": 1,
+   "11": 1,
+   "13": 1,
+   "16": 1,
+   "21": 1,
+   "22": 3,
+   "24": 6,
+   "25": 2,
+   "26": 6,
+   "27": 4,
+   "28": 1,
+   "31": 6,
+   "32": 1,
+   "33": 13,
+   "34": 2,
+   "35": 5,
+   "37": 5,
+   "38": 2,
+   "39": 7,
+   "40": 7,
+   "42": 1,
+   "44": 2
+  },
+  "em_investigacao": 781,
+  "painel_atualizado_em": "2026-11-23",
+  "fonte": "Ministério da Saúde, Painel de Exantemáticas (CNIE)",
+  "url": "https://www.gov.br/saude/pt-br/composicao/svsa/cnie/painel-exantematicas",
+  "captura": "painel",
+  "capturado_em": "2026-11-23"
  }
 ]
