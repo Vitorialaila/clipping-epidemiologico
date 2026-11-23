@@ -73,6 +73,29 @@
   "motivo": "Intoxicações (notificação semanal) · morte · Brasil"
  },
  {
+  "id": "fcfeb1557a38f5",
+  "titulo": "Piracicaba estima 14 mil casos suspeitos de dengue em 2027, aponta Saúde",
+  "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/22/piracicaba-estima-14-mil-casos-suspeitos-de-dengue-em-2027-aponta-saude.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-22",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-23T00:50:19+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Dengue"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "atencao",
+  "motivo": "Dengue (notificação semanal) · 14 mil casos · Brasil"
+ },
+ {
   "id": "89143e3a1263ad",
   "titulo": "Mosquito com bactéria reduziu em 68% infecções por dengue em Belo Horizonte",
   "url": "https://www.cnnbrasil.com.br/saude/mosquito-com-bacteria-reduziu-em-68-infeccoes-por-dengue-em-belo-horizonte/",
@@ -267,6 +290,75 @@
   "se": "2026-47",
   "descricao": "",
   "coletado_em": "2026-11-22T19:36:09+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "ea3fcc425a11e0",
+  "titulo": "Homem morre esfaqueado após briga motivada por ciúmes no Entorno",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7542408-homem-morre-esfaqueado-apos-briga-motivada-por-ciumes-no-entorno.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-22",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-23T00:50:19+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "24dcb78a2f6c99",
+  "titulo": "Morre, aos 87 anos, Anna dos Santos, esposa de ex-presidente da Aruc",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7542454-morre-aos-87-anos-anna-dos-santos-esposa-de-ex-presidente-da-aruc.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-22",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-23T00:50:19+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "4adf29088fae65",
+  "titulo": "Motorista perde o controle do carro e cai de ponte na BR-060, em Anápolis",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7542375-motorista-perde-o-controle-do-carro-e-cai-de-ponte-na-br-060-em-anapolis.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-22",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-23T00:50:19+00:00",
   "municipios": [
    "Distrito Federal"
   ],
@@ -2228,6 +2320,31 @@
   "escopo": "Brasil",
   "termos_evento": [
    "alerta para"
+  ],
+  "categoria": "monitoramento",
+  "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · Brasil"
+ },
+ {
+  "id": "9f8546336bbb89",
+  "titulo": "Defesa Civil emite alerta laranja para risco de tempestade – CGNotícias",
+  "url": "https://www.campogrande.ms.gov.br/cgnoticias/noticia/defesa-civil-emite-alerta-laranja-para-risco-de-tempestade/",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Prefeitura de Campo Grande",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-11-19",
+  "data_estimada": false,
+  "se": "2026-46",
+  "descricao": "",
+  "coletado_em": "2026-11-23T00:50:19+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "emite alerta"
   ],
   "categoria": "monitoramento",
   "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · Brasil"

@@ -56,6 +56,24 @@
   "c": "atencao"
  },
  {
+  "t": "Piracicaba estima 14 mil casos suspeitos de dengue em 2027, aponta Saúde",
+  "u": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/22/piracicaba-estima-14-mil-casos-suspeitos-de-dengue-em-2027-aponta-saude.ghtml",
+  "d": "2026-11-22",
+  "df": "22 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "atencao"
+ },
+ {
   "t": "Mosquito com bactéria reduziu em 68% infecções por dengue em Belo Horizonte",
   "u": "https://www.cnnbrasil.com.br/saude/mosquito-com-bacteria-reduziu-em-68-infeccoes-por-dengue-em-belo-horizonte/",
   "d": "2026-11-22",
@@ -745,6 +763,24 @@
   "df": "19 nov 2026",
   "f": "Defesa Civil",
   "fn": "Prefeitura da Serra",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Defesa Civil emite alerta laranja para risco de tempestade – CGNotícias",
+  "u": "https://www.campogrande.ms.gov.br/cgnoticias/noticia/defesa-civil-emite-alerta-laranja-para-risco-de-tempestade/",
+  "d": "2026-11-19",
+  "df": "19 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura de Campo Grande",
   "e": "Brasil",
   "a": [
    "Saúde ambiental e clima"
