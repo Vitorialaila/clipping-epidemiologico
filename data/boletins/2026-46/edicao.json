@@ -1,0 +1,53 @@
+{
+ "edicao": "2026-46",
+ "se_codigo": "2026-46",
+ "rotulo": "SE 46/2026",
+ "se_numero": "46",
+ "se_ano": 2026,
+ "periodo": "15 a 21 de novembro de 2026",
+ "pdf": "boletins/boletim-SE46-2026.pdf",
+ "resumo": "A SE 46 de 2026 foi marcada por eventos climáticos extremos e pela aceleração da mpox. A ANA registrou seca em 66% do território em outubro, com intensificação em 17 UFs, e o INMET e a NOAA projetam El Niño muito forte até janeiro, com menos chuva no Norte e no Nordeste e mais chuva no Sul. Uma tempestade em Tupanciretã (RS), em 20 de novembro, deixou 5 mortos, 265 feridos e 19.854 desalojados, com calamidade pública reconhecida pelo governo federal; Caruaru (PE) teve enxame sísmico de 10 tremores, de até 2,8 mR; e, no DF, o temporal de 19 de novembro atingiu o campus Darcy Ribeiro da UnB, dois dias após a SES-DF aprovar o Plano de Enfrentamento do El Niño. A SRAG se estabiliza em patamar baixo no país, com 7.454 óbitos até a SE 45 e sinal de aumento em adultos de 50 anos ou mais e da SRAG por covid-19; no DF, o SARS-CoV-2 cresce na vigilância sentinela. A dengue soma 32.214 casos prováveis no país nas SE 42 a 45, queda de 1,8%, mas os casos graves sobem 13,6%, e no DF o DENV-3 responde por 79 de 141 amostras positivas; a chikungunya se concentra em Mato Grosso do Sul. A mpox chega a 246 casos confirmados e prováveis na SE 46 e 1.330 confirmados no ano, acima do total de 2025. As Américas somam 59.427 casos de sarampo, e a OPAS declarou a perda do status de eliminação por Bolívia, México e Estados Unidos, enquanto o Brasil mantém a certificação, com segunda dose abaixo da meta em todas as regiões. A epidemia de Ebola pelo vírus Bundibugyo na República Democrática do Congo chega a 11.613 casos e 5.678 óbitos. Entre as atualidades, o surto de doença de Chagas por vinho de patauá em Óbidos (PA) sobe para 10 casos e 1 óbito, e os surtos de escabiose em Mato Grosso do Sul e Minas Gerais mantêm atividades presenciais suspensas.",
+ "secoes": [
+  {
+   "nome": "Alerta ambiental",
+   "risco": "Risco 2",
+   "itens": 13
+  },
+  {
+   "nome": "Síndrome gripal e SRAG",
+   "risco": "Risco 2",
+   "itens": 7
+  },
+  {
+   "nome": "Cobertura vacinal",
+   "risco": "Risco 2",
+   "itens": 1
+  },
+  {
+   "nome": "Arboviroses",
+   "risco": "Risco 2",
+   "itens": 3
+  },
+  {
+   "nome": "Mpox",
+   "risco": "Risco 4",
+   "itens": 3
+  },
+  {
+   "nome": "Sarampo",
+   "risco": "Risco 4",
+   "itens": 6
+  },
+  {
+   "nome": "Ebola",
+   "risco": "Risco 4",
+   "itens": 4
+  },
+  {
+   "nome": "Atualidades",
+   "risco": "",
+   "itens": 4
+  }
+ ],
+ "gerado_em": "2026-11-24T17:00:33+00:00"
+}
