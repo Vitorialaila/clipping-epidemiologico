@@ -1,8 +1,8 @@
 {
  "nome": "Ebola na RDC, 2026",
  "sigla": "EBOLA",
- "descricao": "Doença pelo vírus Bundibugyo na República Democrática do Congo. Casos e óbitos confirmados segundo o ECDC, até 15/11/2026.",
- "atualizado_em": "2026-11-24T03:09:53.605298",
+ "descricao": "Doença pelo vírus Bundibugyo na República Democrática do Congo. Casos e óbitos confirmados segundo o ECDC, até 17/11/2026.",
+ "atualizado_em": "2026-11-24T14:51:15.060818",
  "fonte_dados": "ECDC",
  "serie_temporal": [],
  "distribuicao_geografica": [],
@@ -11,11 +11,11 @@
  "aba": "Ebola",
  "kpis": [
   {
-   "valor": "11.376",
+   "valor": "11.504",
    "rotulo": "casos confirmados"
   },
   {
-   "valor": "5.568",
+   "valor": "5.630",
    "rotulo": "óbitos entre confirmados"
   },
   {
@@ -94,6 +94,9 @@
       ],
       [
        "ECDC, Ebola disease outbreak in the Democratic Republic of the Congo"
+      ],
+      [
+       "ECDC, Ebola disease outbreak in the Democratic Republic of the Congo"
       ]
      ],
      "hovertemplate": "%{x|%d/%m/%Y}<br><b>%{y:,}</b> casos confirmados<br><i>%{customdata[0]}</i><extra></extra>",
@@ -127,7 +130,8 @@
       "2026-11-10",
       "2026-11-11",
       "2026-11-12",
-      "2026-11-15"
+      "2026-11-15",
+      "2026-11-17"
      ],
      "y": [
       2124,
@@ -150,7 +154,8 @@
       11042,
       11114,
       11197,
-      11376
+      11376,
+      11504
      ],
      "type": "scatter"
     },
@@ -182,6 +187,9 @@
       ],
       [
        "ECDC, Communicable Disease Threats Report, semana 42/2026"
+      ],
+      [
+       "ECDC, Ebola disease outbreak in the Democratic Republic of the Congo"
       ],
       [
        "ECDC, Ebola disease outbreak in the Democratic Republic of the Congo"
@@ -251,7 +259,8 @@
       "2026-11-10",
       "2026-11-11",
       "2026-11-12",
-      "2026-11-15"
+      "2026-11-15",
+      "2026-11-17"
      ],
      "y": [
       828,
@@ -274,7 +283,8 @@
       5387,
       5433,
       5471,
-      5568
+      5568,
+      5630
      ],
      "type": "scatter"
     }
@@ -1178,6 +1188,10 @@
       [
        "11/11 a 14/11",
        3
+      ],
+      [
+       "14/11 a 16/11",
+       2
       ]
      ],
      "hovertemplate": "%{customdata[0]} (%{customdata[1]} dias)<br><b>%{y:,}</b> novos casos por semana<extra></extra>",
@@ -1204,7 +1218,8 @@
       388800000.0,
       77760000.0,
       77760000.0,
-      233280000.0
+      233280000.0,
+      155520000.0
      ],
      "x": [
       "2026-07-25",
@@ -1226,7 +1241,8 @@
       "2026-11-06",
       "2026-11-09",
       "2026-11-10",
-      "2026-11-12"
+      "2026-11-12",
+      "2026-11-15"
      ],
      "y": [
       643,
@@ -1248,7 +1264,8 @@
       421,
       504,
       581,
-      418
+      418,
+      448
      ],
      "type": "bar"
     }
@@ -3893,7 +3910,7 @@
   }
  ],
  "notas": [
-  "Média de novos casos confirmados por semana: 418 entre 11/11 e 14/11, ante 581 entre 10/11 e 11/11 (-28%). Cálculo a partir dos acumulados publicados pelo ECDC.",
+  "Média de novos casos confirmados por semana: 448 entre 14/11 e 16/11, ante 418 entre 11/11 e 14/11 (+7%). Cálculo a partir dos acumulados publicados pelo ECDC.",
   "Expansão geográfica: as zonas de saúde afetadas passaram de 46 (16/07/2026) para 66 (19/10/2026), e as províncias com casos, de 5 para 8.",
   "Segundo o ECDC, os dados da RDC sobre casos e óbitos confirmados estão em revisão e harmonização contínuas."
  ],
@@ -4371,6 +4388,26 @@
    "casos": 11376,
    "obitos": 5568,
    "dados_ate": "2026-11-14",
+   "hospitalizados": null,
+   "recuperados": null,
+   "novos_casos": null,
+   "novos_obitos": null,
+   "provincias": null,
+   "zs_afetadas": null,
+   "zs_total": null,
+   "n_provincias": 8,
+   "quenia": null,
+   "outros_paises": null,
+   "fonte": "ECDC, Ebola disease outbreak in the Democratic Republic of the Congo",
+   "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+   "captura": "automática",
+   "capturado_em": "2026-11-24"
+  },
+  {
+   "data_referencia": "2026-11-17",
+   "casos": 11504,
+   "obitos": 5630,
+   "dados_ate": "2026-11-16",
    "hospitalizados": null,
    "recuperados": null,
    "novos_casos": null,

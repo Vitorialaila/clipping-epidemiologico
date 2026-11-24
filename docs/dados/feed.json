@@ -1,5 +1,250 @@
 [
  {
+  "t": "Influenza A(H5N1) - United States of America",
+  "u": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON629",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "OMS",
+  "fn": "OMS | Disease Outbreak News",
+  "e": "Américas",
+  "a": [
+   "Influenza por novo subtipo",
+   "Influenza e vírus respiratórios"
+  ],
+  "p": 17.0,
+  "se": "2026-47",
+  "r": "Between 16 October and 4 November 2026, the United States of America, through its International Health Regulations (IHR) National Focal Point, notified WHO of three laboratory-confirmed human infections with influenza A(H5) virus in Washington State. These…",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Defesa Civil alerta: condição de ALERTA para chuva, granizo e vento que atuam nas proximidades de Soledade",
+  "u": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-alerta-para-chuva-granizo-e-vento-que-atuam-nas-proximidades-de-soledade",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Defesa Civil do Rio Grande do Sul",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 13.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Defesa Civil alerta: condição de ALERTA para chuva, granizo e vento que atuam nas proximidades de Lagoa Vermelha",
+  "u": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-alerta-para-chuva-granizo-e-vento-que-atuam-nas-proximidades-de-marau-6b0582bddd55b",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Defesa Civil do Rio Grande do Sul",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 13.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Defesa Civil alerta: condição de ALERTA para tempestade com vento e granizo que atuam nas proximidades de Sananduva",
+  "u": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-alerta-para-tempestade-com-vento-e-granizo-que-atuam-nas-proximidades-de-sananduva",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Defesa Civil do Rio Grande do Sul",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 13.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Cidade de São Paulo encerra transmissão de casos importados de sarampo",
+  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/cidade-de-sao-paulo-encerra-transmissao-de-casos-importados-de-sarampo",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 13.0,
+  "se": "2026-47",
+  "r": "Após três meses sem novos episódios de sarampo na cidade de São Paulo, a transmissão de casos importados da doença foi considerada encerrada em 2026. A confirmação foi feita pelas gestões federal, estadual e municipal, nesta segunda-feira (23). Segundo o…",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Com 15 casos em três dias, número de infectados por mpox no DF sobe para 71",
+  "u": "https://www.metropoles.com/distrito-federal/com-15-casos-em-tres-dias-numero-de-infectados-por-mpox-no-df-sobe-para-71",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "DF",
+  "a": [
+   "Mpox"
+  ],
+  "p": 12.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "alerta"
+ },
+ {
+  "t": "Casos de mpox disparam em outubro e novembro e chegam a 71 no DF",
+  "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7543270-casos-de-mpox-disparam-em-outubro-e-novembro-e-chegam-a-71-no-df.html",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "Correio Braziliense",
+  "fn": "Correio Braziliense | Cidades DF",
+  "e": "DF",
+  "a": [
+   "Mpox"
+  ],
+  "p": 12.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "alerta"
+ },
+ {
+  "t": "SP encerra surto de sarampo após 12 semanas sem novos casos; 41 pessoas foram infectadas neste ano",
+  "u": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/24/sp-encerra-surto-de-sarampo-apos-12-semanas-sem-novos-casos-41-pessoas-foram-infectadas-neste-ano.ghtml",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 12.0,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Após 3 meses, SP encerra surto de sarampo; estado chegou a 41 casos em 2026",
+  "u": "https://www.cnnbrasil.com.br/saude/apos-3-meses-sp-encerra-surto-de-sarampo-estado-chegou-a-41-casos-em-2026/",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 12.0,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Defesa Civil de SP alerta para temporais e calor e apoia cidades atingidas pelas chuvas",
+  "u": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-de-sp-alerta-para-temporais-e-calor/",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "agenciasp.sp.gov.br",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 11.0,
+  "se": "2026-47",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Especialista alerta para avanços dos casos de meningite na região",
+  "u": "https://g1.globo.com/rj/sul-do-rio-costa-verde/videos-rj1-tv-rio-sul/video/especialista-alerta-para-avancos-dos-casos-de-meningite-na-regiao-15276788.ghtml",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Doença meningocócica e meningites"
+  ],
+  "p": 10.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "bacteria",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "DF tem alerta amarelo de tempestade e máxima de 29°C nesta terça (24)",
+  "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7543199-df-tem-alerta-amarelo-de-tempestade-e-maxima-de-29-c-nesta-terca-24.html",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "Correio Braziliense",
+  "fn": "Correio Braziliense | Cidades DF",
+  "e": "DF",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 10.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "clima",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Dengue: infestação pelo mosquito quase dobra em Divinópolis, e cidade entra em alto risco de epidemia",
+  "u": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/24/dengue-infestacao-pelo-mosquito-quase-dobra-em-divinopolis-e-cidade-entra-em-alto-risco-de-epidemia.ghtml",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 10.0,
+  "se": "2026-47",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "atencao"
+ },
+ {
   "t": "Três casos de Mpox são confirmados no sudoeste da Bahia",
   "u": "https://g1.globo.com/google/amp/ba/bahia/saudenabahia/noticia/2026/11/23/casos-de-mpox-na-bahia.ghtml",
   "d": "2026-11-24",
@@ -13,6 +258,96 @@
   "p": 9.5,
   "se": "2026-47",
   "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "EUA registram três novos casos de gripe aviária em humanos, incluindo uma morte, informa OMS",
+  "u": "https://g1.globo.com/google/amp/saude/noticia/2026/11/24/eua-gripe-aviaria-oms.ghtml",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Américas",
+  "a": [
+   "Influenza por novo subtipo",
+   "Influenza e vírus respiratórios"
+  ],
+  "p": 9.0,
+  "se": "2026-47",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "A Defesa Civil emite alerta para condição de risco MODERADO para deslizamentos pontuais em Veranópolis",
+  "u": "https://www.defesacivil.rs.gov.br/a-defesa-civil-emite-alerta-para-condicao-de-risco-moderado-para-deslizamentos-pontuais-em-veranopolis",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Defesa Civil do Rio Grande do Sul",
+  "e": "Brasil",
+  "a": [],
+  "p": 8.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "alerta",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "HDT leva informações sobre prevenção do HIV e outras ISTs a mais de 100 jovens",
+  "u": "https://goias.gov.br/saude/hdt-leva-informacoes-sobre-prevencao-do-hiv-e-outras-ists-a-mais-de-100-jovens/",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "SES-GO",
+  "fn": "SES-GO | Notícias",
+  "e": "Brasil",
+  "a": [
+   "HIV/aids e IST"
+  ],
+  "p": 7.0,
+  "se": "2026-47",
+  "r": "Palestras promovidas pela unidade do Governo de Goiás em parceria com rede nacional abordam prevenção, testagem e acesso à PrEP e à PEP, como parte das ações do Dezembro Vermelho",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Pesquisa da Fiocruz analisa expansão da dengue no Sul do país",
+  "u": "https://agencia.fiocruz.br/pesquisa-da-fiocruz-analisa-expansao-da-dengue-no-sul-do-pais",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "Fiocruz",
+  "fn": "Agência Fiocruz de Notícias",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 4.5,
+  "se": "2026-47",
+  "r": "Pesquisa da Fiocruz analisa expansão da dengue no Sul do país",
+  "i": "mosquito",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Circulating vaccine-derived poliovirus type 1 – Syrian Arab Republic",
+  "u": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON628",
+  "d": "2026-11-23",
+  "df": "23 nov 2026",
+  "f": "OMS",
+  "fn": "OMS | Disease Outbreak News",
+  "e": "Internacional",
+  "a": [
+   "Poliomielite",
+   "Imunização"
+  ],
+  "p": 14.5,
+  "se": "2026-47",
+  "r": "In October 2026, a cluster of four cases of acute flaccid paralysis (AFP) was identified in Al-Mayadin District, Deir Ez Zor Governorate, Syrian Arab Republic. As of 13 November 2026, three confirmed cases of circulating vaccine-derived poliovirus type 1…",
   "i": "virus",
   "m": [],
   "c": "alerta"
@@ -165,7 +500,25 @@
  },
  {
   "t": "Piauí confirma dois casos de Mpox; pacientes são de Teresina",
-  "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMHV6ZnJNYTN0NnRjZVV0RXdTNHhtUTZEWmRyd0Z3VDhlUy01amFTd1otWjZkRklGVWJEbmlNWUZ3T2YzdU5mY3FTenNOME5hUUlmQU9ITHRzWU9lU3padVRicWZ5RHN3alRxcks5aUJ0RzdNMG5JYmhfVE0yY2swallSVmZmZ9IBhgFBVV95cUxOMHV6ZnJNYTN0NnRjZVV0RXdTNHhtUTZEWmRyd0Z3VDhlUy01amFTd1otWjZkRklGVWJEbmlNWUZ3T2YzdU5mY3FTenNOME5hUUlmQU9ITHRzWU9lU3padVRicWZ5RHN3alRxcks5aUJ0RzdNMG5JYmhfVE0yY2swallSVmZmZw?oc=5",
+  "u": "https://g1.globo.com/google/amp/pi/piaui/noticia/2026/11/23/casos-mpox-pi.ghtml",
+  "d": "2026-11-23",
+  "df": "23 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Paraíba registra casos de mpox e reforça alerta com chegada da alta temporada",
+  "u": "https://g1.globo.com/google/amp/pb/videos-bom-dia-paraiba/video/paraiba-registra-casos-de-mpox-e-reforca-alerta-com-chegada-da-alta-temporada-15272180.ghtml",
   "d": "2026-11-23",
   "df": "23 nov 2026",
   "f": "G1",
@@ -433,6 +786,25 @@
   "se": "2026-47",
   "r": "",
   "i": "mosquito",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Condição de ATENÇÃO para tempestades com granizo e vento que devem atuar ao longo da madrugada",
+  "u": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-atencao-para-tempestades-com-granizo-e-vento-que-devem-atuar-ao-longo-da-madrugada-6b00fc57a5c63",
+  "d": "2026-11-21",
+  "df": "21 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Defesa Civil do Rio Grande do Sul",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 11.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "desastre",
   "m": [],
   "c": "monitoramento"
  },

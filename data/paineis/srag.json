@@ -1,8 +1,8 @@
 {
  "nome": "SRAG no Brasil e no Distrito Federal",
  "sigla": "SRAG",
- "descricao": "Casos de síndrome respiratória aguda grave por semana de início de sintomas, segundo o InfoGripe. Última semana: SE 45/2026 (08/11 a 14/11/2026).",
- "atualizado_em": "2026-11-24T03:09:33.501983",
+ "descricao": "Casos de síndrome respiratória aguda grave por semana de início de sintomas, segundo o InfoGripe. Última semana: SE 46/2026 (15/11 a 21/11/2026).",
+ "atualizado_em": "2026-11-24T14:50:55.279661",
  "fonte_dados": "InfoGripe",
  "serie_temporal": [],
  "distribuicao_geografica": [],
@@ -11,24 +11,24 @@
  "aba": "SRAG",
  "kpis": [
   {
-   "valor": "2.660",
-   "rotulo": "casos estimados no Brasil, SE 45; IC 95%: 2.390 a 2.981"
+   "valor": "2.474",
+   "rotulo": "casos estimados no Brasil, SE 46; IC 95%: 2.229 a 2.786"
   },
   {
-   "valor": "Estável",
-   "rotulo": "longo prazo, Brasil: estabilidade ou oscilação"
+   "valor": "Queda",
+   "rotulo": "longo prazo, Brasil: probabilidade leve de queda"
   },
   {
-   "valor": "Estável",
-   "rotulo": "curto prazo, Brasil: estabilidade ou oscilação"
+   "valor": "Queda",
+   "rotulo": "curto prazo, Brasil: probabilidade leve de queda"
   },
   {
-   "valor": "74",
-   "rotulo": "casos estimados no DF, SE 45; longo prazo: estável"
+   "valor": "76",
+   "rotulo": "casos estimados no DF, SE 46; longo prazo: aumento"
   },
   {
-   "valor": "6",
-   "rotulo": "UFs em alerta ou risco (GO, MA, MT, RJ, RR, SE)"
+   "valor": "4",
+   "rotulo": "UFs em alerta ou risco (MT, PA, RJ, RR)"
   }
  ],
  "graficos": [
@@ -36,7 +36,6 @@
    "data": [
     {
      "customdata": [
-      "SE 47/2025",
       "SE 48/2025",
       "SE 49/2025",
       "SE 50/2025",
@@ -87,7 +86,8 @@
       "SE 42/2026",
       "SE 43/2026",
       "SE 44/2026",
-      "SE 45/2026"
+      "SE 45/2026",
+      "SE 46/2026"
      ],
      "hovertemplate": "%{customdata}<br>%{y:,.0f} notificados<extra></extra>",
      "marker": {
@@ -95,7 +95,6 @@
      },
      "name": "Notificados até a atualização",
      "x": [
-      "2025-11-16",
       "2025-11-23",
       "2025-11-30",
       "2025-12-07",
@@ -146,10 +145,10 @@
       "2026-10-18",
       "2026-10-25",
       "2026-11-01",
-      "2026-11-08"
+      "2026-11-08",
+      "2026-11-15"
      ],
      "y": [
-      3267.0,
       2970.0,
       3081.0,
       2866.0,
@@ -157,50 +156,51 @@
       1977.0,
       2074.0,
       2044.0,
-      1810.0,
-      1734.0,
+      1811.0,
+      1736.0,
       1678.0,
       2116.0,
       2521.0,
       3155.0,
       3254.0,
-      4240.0,
-      4315.0,
+      4241.0,
+      4317.0,
       4438.0,
       4165.0,
-      4581.0,
-      5063.0,
-      5353.0,
+      4578.0,
+      5062.0,
+      5352.0,
       5708.0,
       5571.0,
-      5745.0,
-      6961.0,
-      6989.0,
-      6621.0,
-      6933.0,
-      6573.0,
-      6614.0,
-      5896.0,
-      6005.0,
-      5456.0,
-      4589.0,
+      5742.0,
+      6956.0,
+      6994.0,
+      6625.0,
+      6938.0,
+      6571.0,
+      6616.0,
+      5898.0,
+      6002.0,
+      5455.0,
+      4587.0,
       3988.0,
       3468.0,
-      3272.0,
-      3332.0,
-      3373.0,
-      3112.0,
-      3018.0,
-      2749.0,
-      2719.0,
-      2846.0,
-      2745.0,
-      2562.0,
-      2488.0,
-      2483.0,
-      2182.0,
-      1861.0,
-      606.0
+      3274.0,
+      3338.0,
+      3376.0,
+      3121.0,
+      3032.0,
+      2757.0,
+      2740.0,
+      2860.0,
+      2761.0,
+      2597.0,
+      2574.0,
+      2582.0,
+      2322.0,
+      2275.0,
+      1887.0,
+      516.0
      ],
      "type": "bar"
     },
@@ -214,7 +214,6 @@
      "mode": "lines",
      "name": "IC 95% da estimativa",
      "x": [
-      "2026-08-23",
       "2026-08-30",
       "2026-09-06",
       "2026-09-13",
@@ -226,6 +225,8 @@
       "2026-10-25",
       "2026-11-01",
       "2026-11-08",
+      "2026-11-15",
+      "2026-11-15",
       "2026-11-08",
       "2026-11-01",
       "2026-10-25",
@@ -236,44 +237,38 @@
       "2026-09-20",
       "2026-09-13",
       "2026-09-06",
-      "2026-08-30",
-      "2026-08-23"
+      "2026-08-30"
      ],
      "y": [
-      3122.0,
-      3040.0,
-      2783.0,
-      2772.0,
-      2914.0,
-      2839.0,
-      2689.0,
-      2675.0,
-      2770.0,
-      2649.0,
+      3044.0,
+      2780.0,
+      2778.0,
+      2913.0,
+      2832.0,
+      2696.0,
+      2704.0,
       2769.0,
-      2981.0,
-      2390.0,
-      2569.0,
-      2537.0,
-      2694.0,
-      2619.0,
-      2646.0,
-      2803.0,
-      2884.0,
-      2746.0,
+      2601.0,
+      2734.0,
+      2766.0,
+      2786.0,
+      2229.0,
+      2574.0,
+      2624.0,
+      2529.0,
+      2715.0,
+      2661.0,
+      2658.0,
+      2802.0,
+      2887.0,
+      2757.0,
       2764.0,
-      3025.0,
-      3112.0
+      3033.0
      ],
      "type": "scatter"
     },
     {
      "customdata": [
-      [
-       "SE 47/2025",
-       3267.0,
-       3267.0
-      ],
       [
        "SE 48/2025",
        2970.0,
@@ -311,13 +306,13 @@
       ],
       [
        "SE 2/2026",
-       1810.0,
-       1810.0
+       1811.0,
+       1811.0
       ],
       [
        "SE 3/2026",
-       1734.0,
-       1734.0
+       1736.0,
+       1736.0
       ],
       [
        "SE 4/2026",
@@ -346,13 +341,13 @@
       ],
       [
        "SE 9/2026",
-       4240.0,
-       4240.0
+       4241.0,
+       4241.0
       ],
       [
        "SE 10/2026",
-       4315.0,
-       4315.0
+       4317.0,
+       4317.0
       ],
       [
        "SE 11/2026",
@@ -366,18 +361,18 @@
       ],
       [
        "SE 13/2026",
-       4581.0,
-       4581.0
+       4578.0,
+       4578.0
       ],
       [
        "SE 14/2026",
-       5063.0,
-       5063.0
+       5062.0,
+       5062.0
       ],
       [
        "SE 15/2026",
-       5353.0,
-       5353.0
+       5352.0,
+       5352.0
       ],
       [
        "SE 16/2026",
@@ -391,58 +386,58 @@
       ],
       [
        "SE 18/2026",
-       5745.0,
-       5745.0
+       5742.0,
+       5742.0
       ],
       [
        "SE 19/2026",
-       6961.0,
-       6961.0
+       6956.0,
+       6956.0
       ],
       [
        "SE 20/2026",
-       6989.0,
-       6989.0
+       6994.0,
+       6994.0
       ],
       [
        "SE 21/2026",
-       6621.0,
-       6621.0
+       6625.0,
+       6625.0
       ],
       [
        "SE 22/2026",
-       6933.0,
-       6933.0
+       6938.0,
+       6938.0
       ],
       [
        "SE 23/2026",
-       6573.0,
-       6573.0
+       6571.0,
+       6571.0
       ],
       [
        "SE 24/2026",
-       6614.0,
-       6614.0
+       6616.0,
+       6616.0
       ],
       [
        "SE 25/2026",
-       5896.0,
-       5896.0
+       5898.0,
+       5898.0
       ],
       [
        "SE 26/2026",
-       6005.0,
-       6005.0
+       6002.0,
+       6002.0
       ],
       [
        "SE 27/2026",
-       5456.0,
-       5456.0
+       5455.0,
+       5455.0
       ],
       [
        "SE 28/2026",
-       4589.0,
-       4589.0
+       4587.0,
+       4587.0
       ],
       [
        "SE 29/2026",
@@ -456,78 +451,83 @@
       ],
       [
        "SE 31/2026",
-       3272.0,
-       3272.0
+       3274.0,
+       3274.0
       ],
       [
        "SE 32/2026",
-       3332.0,
-       3332.0
+       3338.0,
+       3338.0
       ],
       [
        "SE 33/2026",
-       3373.0,
-       3373.0
+       3376.0,
+       3376.0
       ],
       [
        "SE 34/2026",
-       3112.0,
-       3122.0
+       3121.0,
+       3121.0
       ],
       [
        "SE 35/2026",
-       3025.0,
-       3040.0
+       3033.0,
+       3044.0
       ],
       [
        "SE 36/2026",
        2764.0,
-       2783.0
+       2780.0
       ],
       [
        "SE 37/2026",
-       2746.0,
-       2772.0
+       2757.0,
+       2778.0
       ],
       [
        "SE 38/2026",
-       2884.0,
-       2914.0
+       2887.0,
+       2913.0
       ],
       [
        "SE 39/2026",
-       2803.0,
-       2839.0
+       2802.0,
+       2832.0
       ],
       [
        "SE 40/2026",
-       2646.0,
-       2689.0
+       2658.0,
+       2696.0
       ],
       [
        "SE 41/2026",
-       2619.0,
-       2675.0
+       2661.0,
+       2704.0
       ],
       [
        "SE 42/2026",
-       2694.0,
-       2770.0
-      ],
-      [
-       "SE 43/2026",
-       2537.0,
-       2649.0
-      ],
-      [
-       "SE 44/2026",
-       2569.0,
+       2715.0,
        2769.0
       ],
       [
+       "SE 43/2026",
+       2529.0,
+       2601.0
+      ],
+      [
+       "SE 44/2026",
+       2624.0,
+       2734.0
+      ],
+      [
        "SE 45/2026",
-       2390.0,
-       2981.0
+       2574.0,
+       2766.0
+      ],
+      [
+       "SE 46/2026",
+       2229.0,
+       2786.0
       ]
      ],
      "hovertemplate": "%{customdata[0]}<br><b>%{y:,.0f}</b> estimados<br>IC 95%: %{customdata[1]:,.0f} a %{customdata[2]:,.0f}<extra></extra>",
@@ -538,7 +538,6 @@
      "mode": "lines",
      "name": "Casos estimados (nowcasting)",
      "x": [
-      "2025-11-16",
       "2025-11-23",
       "2025-11-30",
       "2025-12-07",
@@ -589,10 +588,10 @@
       "2026-10-18",
       "2026-10-25",
       "2026-11-01",
-      "2026-11-08"
+      "2026-11-08",
+      "2026-11-15"
      ],
      "y": [
-      3267.0,
       2970.0,
       3081.0,
       2866.0,
@@ -600,50 +599,51 @@
       1977.0,
       2074.0,
       2044.0,
-      1810.0,
-      1734.0,
+      1811.0,
+      1736.0,
       1678.0,
       2116.0,
       2521.0,
       3155.0,
       3254.0,
-      4240.0,
-      4315.0,
+      4241.0,
+      4317.0,
       4438.0,
       4165.0,
-      4581.0,
-      5063.0,
-      5353.0,
+      4578.0,
+      5062.0,
+      5352.0,
       5708.0,
       5571.0,
-      5745.0,
-      6961.0,
-      6989.0,
-      6621.0,
-      6933.0,
-      6573.0,
-      6614.0,
-      5896.0,
-      6005.0,
-      5456.0,
-      4589.0,
+      5742.0,
+      6956.0,
+      6994.0,
+      6625.0,
+      6938.0,
+      6571.0,
+      6616.0,
+      5898.0,
+      6002.0,
+      5455.0,
+      4587.0,
       3988.0,
       3468.0,
-      3272.0,
-      3332.0,
-      3373.0,
-      3117.0,
-      3032.0,
-      2774.0,
-      2758.0,
-      2898.0,
-      2821.0,
-      2668.0,
-      2646.0,
-      2730.0,
-      2591.0,
+      3274.0,
+      3338.0,
+      3376.0,
+      3121.0,
+      3037.0,
+      2771.0,
+      2766.0,
+      2899.0,
+      2817.0,
+      2675.0,
+      2682.0,
+      2741.0,
+      2565.0,
+      2676.0,
       2665.0,
-      2660.0
+      2474.0
      ],
      "type": "scatter"
     }
@@ -4203,19 +4203,19 @@
     },
     {
      "fill": "toself",
-     "fillcolor": "#E3E6EB",
+     "fillcolor": "#F1E3A6",
      "hoverinfo": "text",
      "hoveron": "fills",
-     "legendgroup": "Sem classificação",
-     "legendrank": 5,
+     "legendgroup": "Baixo risco",
+     "legendrank": 1,
      "line": {
       "color": "#FFFFFF",
       "width": 0.8
      },
      "mode": "lines",
-     "name": "Sem classificação",
-     "showlegend": true,
-     "text": "<b>Espírito Santo</b><br>nível de atividade: sem classificação",
+     "name": "Baixo risco",
+     "showlegend": false,
+     "text": "<b>Espírito Santo</b><br>nível de atividade: baixo risco",
      "x": [
       -39.514,
       -39.592,
@@ -4400,19 +4400,19 @@
     },
     {
      "fill": "toself",
-     "fillcolor": "#E7AE3C",
+     "fillcolor": "#CFE6D6",
      "hoverinfo": "text",
      "hoveron": "fills",
-     "legendgroup": "Alerta",
-     "legendrank": 2,
+     "legendgroup": "Segurança",
+     "legendrank": 0,
      "line": {
       "color": "#FFFFFF",
       "width": 0.8
      },
      "mode": "lines",
-     "name": "Alerta",
-     "showlegend": true,
-     "text": "<b>Goiás</b><br>nível de atividade: alerta",
+     "name": "Segurança",
+     "showlegend": false,
+     "text": "<b>Goiás</b><br>nível de atividade: segurança",
      "x": [
       -48.653,
       -48.737,
@@ -5089,19 +5089,19 @@
     },
     {
      "fill": "toself",
-     "fillcolor": "#E7AE3C",
+     "fillcolor": "#CFE6D6",
      "hoverinfo": "text",
      "hoveron": "fills",
-     "legendgroup": "Alerta",
-     "legendrank": 2,
+     "legendgroup": "Segurança",
+     "legendrank": 0,
      "line": {
       "color": "#FFFFFF",
       "width": 0.8
      },
      "mode": "lines",
-     "name": "Alerta",
+     "name": "Segurança",
      "showlegend": false,
-     "text": "<b>Maranhão</b><br>nível de atividade: alerta",
+     "text": "<b>Maranhão</b><br>nível de atividade: segurança",
      "x": [
       -45.67,
       -45.624,
@@ -6110,19 +6110,19 @@
     },
     {
      "fill": "toself",
-     "fillcolor": "#F1E3A6",
+     "fillcolor": "#CFE6D6",
      "hoverinfo": "text",
      "hoveron": "fills",
-     "legendgroup": "Baixo risco",
-     "legendrank": 1,
+     "legendgroup": "Segurança",
+     "legendrank": 0,
      "line": {
       "color": "#FFFFFF",
       "width": 0.8
      },
      "mode": "lines",
-     "name": "Baixo risco",
+     "name": "Segurança",
      "showlegend": false,
-     "text": "<b>Minas Gerais</b><br>nível de atividade: baixo risco",
+     "text": "<b>Minas Gerais</b><br>nível de atividade: segurança",
      "x": [
       -42.896,
       -42.824,
@@ -7520,19 +7520,19 @@
     },
     {
      "fill": "toself",
-     "fillcolor": "#D4602A",
+     "fillcolor": "#E7AE3C",
      "hoverinfo": "text",
      "hoveron": "fills",
-     "legendgroup": "Risco",
-     "legendrank": 3,
+     "legendgroup": "Alerta",
+     "legendrank": 2,
      "line": {
       "color": "#FFFFFF",
       "width": 0.8
      },
      "mode": "lines",
-     "name": "Risco",
+     "name": "Alerta",
      "showlegend": true,
-     "text": "<b>Mato Grosso</b><br>nível de atividade: risco",
+     "text": "<b>Mato Grosso</b><br>nível de atividade: alerta",
      "x": [
       -58.568,
       -58.478,
@@ -8159,19 +8159,19 @@
     },
     {
      "fill": "toself",
-     "fillcolor": "#CFE6D6",
+     "fillcolor": "#E7AE3C",
      "hoverinfo": "text",
      "hoveron": "fills",
-     "legendgroup": "Segurança",
-     "legendrank": 0,
+     "legendgroup": "Alerta",
+     "legendrank": 2,
      "line": {
       "color": "#FFFFFF",
       "width": 0.8
      },
      "mode": "lines",
-     "name": "Segurança",
+     "name": "Alerta",
      "showlegend": false,
-     "text": "<b>Pará</b><br>nível de atividade: segurança",
+     "text": "<b>Pará</b><br>nível de atividade: alerta",
      "x": [
       -45.556,
       -45.584,
@@ -11991,19 +11991,19 @@
     },
     {
      "fill": "toself",
-     "fillcolor": "#D4602A",
+     "fillcolor": "#E7AE3C",
      "hoverinfo": "text",
      "hoveron": "fills",
-     "legendgroup": "Risco",
-     "legendrank": 3,
+     "legendgroup": "Alerta",
+     "legendrank": 2,
      "line": {
       "color": "#FFFFFF",
       "width": 0.8
      },
      "mode": "lines",
-     "name": "Risco",
+     "name": "Alerta",
      "showlegend": false,
-     "text": "<b>Roraima</b><br>nível de atividade: risco",
+     "text": "<b>Roraima</b><br>nível de atividade: alerta",
      "x": [
       -58.095,
       -58.199,
@@ -12494,19 +12494,19 @@
     },
     {
      "fill": "toself",
-     "fillcolor": "#CFE6D6",
+     "fillcolor": "#F1E3A6",
      "hoverinfo": "text",
      "hoveron": "fills",
-     "legendgroup": "Segurança",
-     "legendrank": 0,
+     "legendgroup": "Baixo risco",
+     "legendrank": 1,
      "line": {
       "color": "#FFFFFF",
       "width": 0.8
      },
      "mode": "lines",
-     "name": "Segurança",
+     "name": "Baixo risco",
      "showlegend": false,
-     "text": "<b>Rio Grande do Sul</b><br>nível de atividade: segurança",
+     "text": "<b>Rio Grande do Sul</b><br>nível de atividade: baixo risco",
      "x": [
       -50.498,
       -50.562,
@@ -14046,19 +14046,19 @@
     },
     {
      "fill": "toself",
-     "fillcolor": "#E7AE3C",
+     "fillcolor": "#CFE6D6",
      "hoverinfo": "text",
      "hoveron": "fills",
-     "legendgroup": "Alerta",
-     "legendrank": 2,
+     "legendgroup": "Segurança",
+     "legendrank": 0,
      "line": {
       "color": "#FFFFFF",
       "width": 0.8
      },
      "mode": "lines",
-     "name": "Alerta",
+     "name": "Segurança",
      "showlegend": false,
-     "text": "<b>Sergipe</b><br>nível de atividade: alerta",
+     "text": "<b>Sergipe</b><br>nível de atividade: segurança",
      "x": [
       -36.874,
       -36.768,
@@ -16269,37 +16269,23 @@
        "size": 11
       },
       "showarrow": false,
-      "text": "<b>GO</b>",
-      "x": -48.77676615989434,
-      "y": -15.95
-     },
-     {
-      "bgcolor": "rgba(255,255,255,.85)",
-      "bordercolor": "#0A3570",
-      "borderpad": 2,
-      "borderwidth": 1,
-      "font": {
-       "color": "#0A3570",
-       "size": 11
-      },
-      "showarrow": false,
-      "text": "<b>MA</b>",
-      "x": -43.94469344303988,
-      "y": -5.65
-     },
-     {
-      "bgcolor": "rgba(255,255,255,.85)",
-      "bordercolor": "#0A3570",
-      "borderpad": 2,
-      "borderwidth": 1,
-      "font": {
-       "color": "#0A3570",
-       "size": 11
-      },
-      "showarrow": false,
       "text": "<b>MT</b>",
       "x": -53.715571406639164,
       "y": -12.73
+     },
+     {
+      "bgcolor": "rgba(255,255,255,.85)",
+      "bordercolor": "#0A3570",
+      "borderpad": 2,
+      "borderwidth": 1,
+      "font": {
+       "color": "#0A3570",
+       "size": 11
+      },
+      "showarrow": false,
+      "text": "<b>PA</b>",
+      "x": -50.47478368087734,
+      "y": -3.71
      },
      {
       "bgcolor": "rgba(255,255,255,.85)",
@@ -16328,20 +16314,6 @@
       "text": "<b>RR</b>",
       "x": -59.391801405353746,
       "y": 1.85
-     },
-     {
-      "bgcolor": "rgba(255,255,255,.85)",
-      "bordercolor": "#0A3570",
-      "borderpad": 2,
-      "borderwidth": 1,
-      "font": {
-       "color": "#0A3570",
-       "size": 11
-      },
-      "showarrow": false,
-      "text": "<b>SE</b>",
-      "x": -36.04648623115327,
-      "y": -10.53
      }
     ],
     "font": {
@@ -16359,7 +16331,7 @@
       "size": 15,
       "color": "#0A3570"
      },
-     "text": "<b>Nível de atividade de SRAG por UF</b><br><sup>SE 45/2026, segundo o InfoGripe</sup>"
+     "text": "<b>Nível de atividade de SRAG por UF</b><br><sup>SE 46/2026, segundo o InfoGripe</sup>"
     },
     "margin": {
      "l": 10,
@@ -16404,7 +16376,6 @@
    "data": [
     {
      "customdata": [
-      "SE 20/2026",
       "SE 21/2026",
       "SE 22/2026",
       "SE 23/2026",
@@ -16429,7 +16400,8 @@
       "SE 42/2026",
       "SE 43/2026",
       "SE 44/2026",
-      "SE 45/2026"
+      "SE 45/2026",
+      "SE 46/2026"
      ],
      "hovertemplate": "%{customdata}<br>%{y:,.0f} notificados<extra></extra>",
      "marker": {
@@ -16437,7 +16409,6 @@
      },
      "name": "Notificados até a atualização",
      "x": [
-      "2026-05-17",
       "2026-05-24",
       "2026-05-31",
       "2026-06-07",
@@ -16462,10 +16433,10 @@
       "2026-10-18",
       "2026-10-25",
       "2026-11-01",
-      "2026-11-08"
+      "2026-11-08",
+      "2026-11-15"
      ],
      "y": [
-      226.0,
       213.0,
       238.0,
       209.0,
@@ -16485,12 +16456,13 @@
       87.0,
       85.0,
       71.0,
-      76.0,
-      66.0,
-      59.0,
-      42.0,
-      50.0,
-      20.0
+      77.0,
+      73.0,
+      67.0,
+      54.0,
+      64.0,
+      61.0,
+      14.0
      ],
      "type": "bar"
     },
@@ -16504,7 +16476,6 @@
      "mode": "lines",
      "name": "IC 95% da estimativa",
      "x": [
-      "2026-09-13",
       "2026-09-20",
       "2026-09-27",
       "2026-10-04",
@@ -16513,6 +16484,8 @@
       "2026-10-25",
       "2026-11-01",
       "2026-11-08",
+      "2026-11-15",
+      "2026-11-15",
       "2026-11-08",
       "2026-11-01",
       "2026-10-25",
@@ -16520,38 +16493,32 @@
       "2026-10-11",
       "2026-10-04",
       "2026-09-27",
-      "2026-09-20",
-      "2026-09-13"
+      "2026-09-20"
      ],
      "y": [
-      89.0,
-      88.0,
-      76.0,
-      83.0,
-      75.0,
-      72.0,
-      62.0,
-      84.0,
-      105.0,
-      53.0,
-      62.0,
-      47.0,
-      61.0,
-      67.0,
+      87.0,
+      74.0,
+      82.0,
+      80.0,
+      77.0,
+      69.0,
+      87.0,
+      101.0,
+      108.0,
+      54.0,
       76.0,
       71.0,
-      85.0,
-      87.0
+      57.0,
+      68.0,
+      73.0,
+      77.0,
+      71.0,
+      85.0
      ],
      "type": "scatter"
     },
     {
      "customdata": [
-      [
-       "SE 20/2026",
-       226.0,
-       226.0
-      ],
       [
        "SE 21/2026",
        213.0,
@@ -16635,47 +16602,52 @@
       [
        "SE 37/2026",
        87.0,
-       89.0
+       87.0
       ],
       [
        "SE 38/2026",
        85.0,
-       88.0
+       87.0
       ],
       [
        "SE 39/2026",
        71.0,
-       76.0
+       74.0
       ],
       [
        "SE 40/2026",
-       76.0,
-       83.0
+       77.0,
+       82.0
       ],
       [
        "SE 41/2026",
-       67.0,
-       75.0
+       73.0,
+       80.0
       ],
       [
        "SE 42/2026",
-       61.0,
-       72.0
+       68.0,
+       77.0
       ],
       [
        "SE 43/2026",
-       47.0,
-       62.0
+       57.0,
+       69.0
       ],
       [
        "SE 44/2026",
-       62.0,
-       84.0
+       71.0,
+       87.0
       ],
       [
        "SE 45/2026",
-       53.0,
-       105.0
+       76.0,
+       101.0
+      ],
+      [
+       "SE 46/2026",
+       54.0,
+       108.0
       ]
      ],
      "hovertemplate": "%{customdata[0]}<br><b>%{y:,.0f}</b> estimados<br>IC 95%: %{customdata[1]:,.0f} a %{customdata[2]:,.0f}<extra></extra>",
@@ -16686,7 +16658,6 @@
      "mode": "lines",
      "name": "Casos estimados (nowcasting)",
      "x": [
-      "2026-05-17",
       "2026-05-24",
       "2026-05-31",
       "2026-06-07",
@@ -16711,10 +16682,10 @@
       "2026-10-18",
       "2026-10-25",
       "2026-11-01",
-      "2026-11-08"
+      "2026-11-08",
+      "2026-11-15"
      ],
      "y": [
-      226.0,
       213.0,
       238.0,
       209.0,
@@ -16732,14 +16703,15 @@
       77.0,
       76.0,
       87.0,
-      86.0,
-      73.0,
-      79.0,
-      70.0,
-      66.0,
-      54.0,
+      85.0,
       72.0,
-      74.0
+      79.0,
+      75.0,
+      72.0,
+      62.0,
+      78.0,
+      87.0,
+      76.0
      ],
      "type": "scatter"
     }
@@ -17565,7 +17537,6 @@
    "data": [
     {
      "customdata": [
-      "SE 20/2026",
       "SE 21/2026",
       "SE 22/2026",
       "SE 23/2026",
@@ -17590,7 +17561,8 @@
       "SE 42/2026",
       "SE 43/2026",
       "SE 44/2026",
-      "SE 45/2026"
+      "SE 45/2026",
+      "SE 46/2026"
      ],
      "hovertemplate": "%{customdata}: <b>%{y:,.0f}</b> SARS-CoV-2<extra></extra>",
      "line": {
@@ -17600,7 +17572,6 @@
      "mode": "lines",
      "name": "SARS-CoV-2",
      "x": [
-      "2026-05-17",
       "2026-05-24",
       "2026-05-31",
       "2026-06-07",
@@ -17625,41 +17596,41 @@
       "2026-10-18",
       "2026-10-25",
       "2026-11-01",
-      "2026-11-08"
+      "2026-11-08",
+      "2026-11-15"
      ],
      "y": [
-      87.0,
       76.0,
-      62.0,
-      97.0,
+      64.0,
+      98.0,
       81.0,
       46.0,
       62.0,
       51.0,
-      40.0,
-      44.0,
+      39.0,
+      45.0,
       21.0,
-      41.0,
+      39.0,
       30.0,
       37.0,
-      35.0,
+      36.0,
       45.0,
-      44.0,
+      42.0,
       56.0,
       62.0,
-      45.0,
-      79.0,
-      84.0,
-      108.0,
-      161.0,
-      230.0,
-      286.0
+      43.0,
+      78.0,
+      85.0,
+      110.0,
+      157.0,
+      228.0,
+      293.0,
+      403.0
      ],
      "type": "scatter"
     },
     {
      "customdata": [
-      "SE 20/2026",
       "SE 21/2026",
       "SE 22/2026",
       "SE 23/2026",
@@ -17684,7 +17655,8 @@
       "SE 42/2026",
       "SE 43/2026",
       "SE 44/2026",
-      "SE 45/2026"
+      "SE 45/2026",
+      "SE 46/2026"
      ],
      "hovertemplate": "%{customdata}: <b>%{y:,.0f}</b> VSR<extra></extra>",
      "line": {
@@ -17694,7 +17666,6 @@
      "mode": "lines",
      "name": "VSR",
      "x": [
-      "2026-05-17",
       "2026-05-24",
       "2026-05-31",
       "2026-06-07",
@@ -17719,41 +17690,41 @@
       "2026-10-18",
       "2026-10-25",
       "2026-11-01",
-      "2026-11-08"
+      "2026-11-08",
+      "2026-11-15"
      ],
      "y": [
-      2161.0,
-      2172.0,
-      2279.0,
-      2201.0,
-      2150.0,
-      1977.0,
+      2179.0,
+      2285.0,
+      2205.0,
+      2155.0,
+      1979.0,
       2084.0,
-      1720.0,
+      1722.0,
       1333.0,
       970.0,
       780.0,
       537.0,
-      503.0,
-      386.0,
-      278.0,
-      252.0,
-      198.0,
-      181.0,
-      159.0,
-      131.0,
-      112.0,
-      101.0,
-      92.0,
-      81.0,
-      86.0,
-      80.0
+      504.0,
+      387.0,
+      277.0,
+      253.0,
+      199.0,
+      179.0,
+      157.0,
+      130.0,
+      111.0,
+      97.0,
+      91.0,
+      80.0,
+      84.0,
+      82.0,
+      83.0
      ],
      "type": "scatter"
     },
     {
      "customdata": [
-      "SE 20/2026",
       "SE 21/2026",
       "SE 22/2026",
       "SE 23/2026",
@@ -17778,7 +17749,8 @@
       "SE 42/2026",
       "SE 43/2026",
       "SE 44/2026",
-      "SE 45/2026"
+      "SE 45/2026",
+      "SE 46/2026"
      ],
      "hovertemplate": "%{customdata}: <b>%{y:,.0f}</b> Influenza A<extra></extra>",
      "line": {
@@ -17788,7 +17760,6 @@
      "mode": "lines",
      "name": "Influenza A",
      "x": [
-      "2026-05-17",
       "2026-05-24",
       "2026-05-31",
       "2026-06-07",
@@ -17813,13 +17784,13 @@
       "2026-10-18",
       "2026-10-25",
       "2026-11-01",
-      "2026-11-08"
+      "2026-11-08",
+      "2026-11-15"
      ],
      "y": [
-      808.0,
-      678.0,
+      677.0,
       615.0,
-      475.0,
+      477.0,
       417.0,
       342.0,
       273.0,
@@ -17833,21 +17804,21 @@
       48.0,
       42.0,
       41.0,
+      26.0,
       23.0,
-      24.0,
       34.0,
-      38.0,
+      37.0,
       39.0,
-      36.0,
-      47.0,
-      45.0,
-      52.0
+      35.0,
+      49.0,
+      42.0,
+      74.0,
+      81.0
      ],
      "type": "scatter"
     },
     {
      "customdata": [
-      "SE 20/2026",
       "SE 21/2026",
       "SE 22/2026",
       "SE 23/2026",
@@ -17872,7 +17843,8 @@
       "SE 42/2026",
       "SE 43/2026",
       "SE 44/2026",
-      "SE 45/2026"
+      "SE 45/2026",
+      "SE 46/2026"
      ],
      "hovertemplate": "%{customdata}: <b>%{y:,.0f}</b> Influenza B<extra></extra>",
      "line": {
@@ -17882,7 +17854,6 @@
      "mode": "lines",
      "name": "Influenza B",
      "x": [
-      "2026-05-17",
       "2026-05-24",
       "2026-05-31",
       "2026-06-07",
@@ -17907,41 +17878,41 @@
       "2026-10-18",
       "2026-10-25",
       "2026-11-01",
-      "2026-11-08"
+      "2026-11-08",
+      "2026-11-15"
      ],
      "y": [
-      249.0,
       270.0,
       337.0,
-      329.0,
-      324.0,
+      328.0,
+      325.0,
       290.0,
       330.0,
       335.0,
-      226.0,
+      227.0,
       211.0,
-      173.0,
+      176.0,
       109.0,
       107.0,
       101.0,
       94.0,
       90.0,
-      89.0,
-      69.0,
-      56.0,
-      64.0,
+      88.0,
+      68.0,
       55.0,
-      48.0,
-      52.0,
-      35.0,
-      24.0,
-      26.0
+      62.0,
+      55.0,
+      49.0,
+      55.0,
+      33.0,
+      26.0,
+      33.0,
+      31.0
      ],
      "type": "scatter"
     },
     {
      "customdata": [
-      "SE 20/2026",
       "SE 21/2026",
       "SE 22/2026",
       "SE 23/2026",
@@ -17966,7 +17937,8 @@
       "SE 42/2026",
       "SE 43/2026",
       "SE 44/2026",
-      "SE 45/2026"
+      "SE 45/2026",
+      "SE 46/2026"
      ],
      "hovertemplate": "%{customdata}: <b>%{y:,.0f}</b> Rinovírus<extra></extra>",
      "line": {
@@ -17976,7 +17948,6 @@
      "mode": "lines",
      "name": "Rinovírus",
      "x": [
-      "2026-05-17",
       "2026-05-24",
       "2026-05-31",
       "2026-06-07",
@@ -18001,41 +17972,41 @@
       "2026-10-18",
       "2026-10-25",
       "2026-11-01",
-      "2026-11-08"
+      "2026-11-08",
+      "2026-11-15"
      ],
      "y": [
-      1155.0,
-      1080.0,
-      1062.0,
-      957.0,
-      1022.0,
+      1082.0,
+      1070.0,
+      964.0,
+      1028.0,
       967.0,
-      975.0,
+      976.0,
       849.0,
-      746.0,
-      654.0,
-      618.0,
+      747.0,
+      655.0,
+      623.0,
       665.0,
-      755.0,
-      902.0,
-      829.0,
-      771.0,
-      695.0,
-      640.0,
-      659.0,
-      636.0,
-      545.0,
-      558.0,
-      626.0,
-      541.0,
-      573.0,
-      542.0
+      758.0,
+      905.0,
+      833.0,
+      780.0,
+      697.0,
+      642.0,
+      654.0,
+      632.0,
+      540.0,
+      562.0,
+      619.5,
+      514.0,
+      522.0,
+      488.0,
+      488.0
      ],
      "type": "scatter"
     },
     {
      "customdata": [
-      "SE 20/2026",
       "SE 21/2026",
       "SE 22/2026",
       "SE 23/2026",
@@ -18060,7 +18031,8 @@
       "SE 42/2026",
       "SE 43/2026",
       "SE 44/2026",
-      "SE 45/2026"
+      "SE 45/2026",
+      "SE 46/2026"
      ],
      "hovertemplate": "%{customdata}: <b>%{y:,.0f}</b> Metapneumovírus<extra></extra>",
      "line": {
@@ -18070,7 +18042,6 @@
      "mode": "lines",
      "name": "Metapneumovírus",
      "x": [
-      "2026-05-17",
       "2026-05-24",
       "2026-05-31",
       "2026-06-07",
@@ -18095,35 +18066,36 @@
       "2026-10-18",
       "2026-10-25",
       "2026-11-01",
-      "2026-11-08"
+      "2026-11-08",
+      "2026-11-15"
      ],
      "y": [
-      158.0,
       107.0,
       124.0,
       115.0,
-      142.0,
+      144.0,
       138.0,
-      181.0,
+      182.0,
       201.0,
       206.0,
-      221.0,
+      222.0,
       192.0,
       199.0,
-      218.0,
-      237.0,
-      231.0,
       221.0,
-      208.0,
-      225.0,
-      231.0,
-      215.0,
-      216.0,
-      261.0,
-      246.0,
+      236.0,
       233.0,
-      240.0,
-      246.0
+      222.0,
+      207.0,
+      226.0,
+      230.0,
+      212.0,
+      212.0,
+      252.0,
+      236.0,
+      212.0,
+      194.0,
+      192.0,
+      181.0
      ],
      "type": "scatter"
     }
@@ -18948,7 +18920,7 @@
  "notas": [
   "As semanas mais recentes têm notificação incompleta; a linha mostra a estimativa do InfoGripe corrigida pelo atraso de digitação (nowcasting), com intervalo de 95%.",
   "Tendência, conforme nota técnica do InfoGripe: probabilidade de crescimento ou de queda dos casos semanais nas últimas 6 semanas (longo prazo) ou 3 semanas (curto prazo); leve a partir de 75%, alta a partir de 95%.",
-  "Nível de atividade: compara a incidência de SRAG das duas últimas semanas com a série histórica do período posterior à vacinação contra a COVID-19. Sem classificação nesta semana: ES."
+  "Nível de atividade: compara a incidência de SRAG das duas últimas semanas com a série histórica do período posterior à vacinação contra a COVID-19."
  ],
  "fontes": [
   {

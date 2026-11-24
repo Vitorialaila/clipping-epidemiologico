@@ -1,26 +1,26 @@
 {
  "oms-don": {
-  "em": "2026-11-24T05:59:58+00:00",
+  "em": "2026-11-24T17:40:27+00:00",
   "lidos": 30,
-  "novos": 0,
+  "novos": 2,
   "exemplos": [
-   "Ebola disease caused by Bundibugyo virus- Democratic Republic of the Congo, Kenya and Nigeria",
-   "Chikungunya virus disease - Switzerland",
-   "Middle East respiratory syndrome (MERS) – Qatar"
+   "Influenza A(H5N1) - United States of America",
+   "Circulating vaccine-derived poliovirus type 1 – Syrian Arab Republic",
+   "Ebola disease caused by Bundibugyo virus- Democratic Republic of the Congo, Kenya and Nigeria"
   ]
  },
  "oms-noticias": {
-  "em": "2026-11-24T05:59:58+00:00",
+  "em": "2026-11-24T17:40:27+00:00",
   "lidos": 40,
-  "novos": 0,
+  "novos": 6,
   "exemplos": [
-   "Better medicines for every child: GAP-f partners accelerate action on World Children’s Day",
-   "WHO advances work on quality standards for herbal medicines at expert meeting in Hong Kong, China",
-   "Call for expressions of interest: Working Group on Community Health Worker Functions and Competencies in Health Emergenc"
+   "Call for consultant expressions of interest: ICHI Traditional Medicine code set development",
+   "Countries face critical gaps in health inequality monitoring systems",
+   "WHO and China’s National Institutes for Drug Control sign agreement to strengthen access to quality-assured in vitro dia"
   ]
  },
  "opas-alertas": {
-  "em": "2026-11-24T05:59:58+00:00",
+  "em": "2026-11-24T17:40:27+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,17 +30,17 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-11-24T05:59:58+00:00",
+  "em": "2026-11-24T17:40:27+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "Suriname joins the Alliance for Primary Health Care in the Americas",
    "PAHO Director reaffirms cooperation with Peru to strengthen the health system and address health priorities",
-   "PAHO warns of increasing resistance to antibiotics used to treat serious infections in the Americas",
-   "PAHO urges countries to step up efforts to stop measles outbreaks and move towards elimination in the Americas"
+   "PAHO warns of increasing resistance to antibiotics used to treat serious infections in the Americas"
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-11-24T05:59:58+00:00",
+  "em": "2026-11-24T17:40:27+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-11-24T05:59:58+00:00",
+  "em": "2026-11-24T17:40:27+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-11-24T05:59:58+00:00",
+  "em": "2026-11-24T17:40:27+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-11-24T05:59:58+00:00",
+  "em": "2026-11-24T17:40:27+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-11-24T05:59:58+00:00",
+  "em": "2026-11-24T17:40:27+00:00",
   "lidos": 2354,
   "novos": 0,
   "exemplos": [
@@ -90,63 +90,63 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-11-24T05:59:58+00:00",
+  "em": "2026-11-24T17:40:27+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "CPHIA 2026 Opens with Focus on Health Sovereignty and Action",
    "One in six pregnancies is to an adolescent girl, yet only one health facility in eight offers services built for young p",
-   "From Leadership to Action: Advancing Nigeria’s Local Vaccine Research and Manufacturing Capacity",
-   "Une institution africaine ne sera pas jugée par des sources anonymes et des journalistes aux motivations politiques"
+   "From Leadership to Action: Advancing Nigeria’s Local Vaccine Research and Manufacturing Capacity"
   ]
  },
  "ms-noticias": {
-  "em": "2026-11-24T05:59:58+00:00",
+  "em": "2026-11-24T17:40:27+00:00",
   "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
  },
  "fiocruz": {
-  "em": "2026-11-24T05:59:58+00:00",
+  "em": "2026-11-24T17:40:27+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 5,
   "exemplos": [
-   "Pesquisadora da Fiocruz participa de avaliação da Opas sobre avanço do sarampo nas Américas",
-   "Ensaio clínico revela primeira evidência que Método Wolbachia protege contra chikungunya",
-   "Oficina reúne especialistas para discutir segurança transfusional na rede pública"
+   "3ª Conferência de Promoção da Saúde da Fiocruz celebra marcos históricos e debate perspectivas para o futuro",
+   "Iniciativas da Fiocruz são selecionadas para o Atlas da Inovação em Comunicação Pública do Pnud",
+   "Pesquisa da Fiocruz analisa expansão da dengue no Sul do país"
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-11-24T05:59:58+00:00",
+  "em": "2026-11-24T17:40:27+00:00",
   "lidos": 10,
   "novos": 2,
   "exemplos": [
-   "Bolsonaro é diagnosticado com pneumonia e continuará internado",
-   "Saúde repassa R$ 200 milhões para maternidades filantrópicas",
-   "Brasil defende fortalecimento da cooperação internacional em saúde"
+   "Cidade de São Paulo encerra transmissão de casos importados de sarampo",
+   "Anvisa determina apreensão de água mineral por falhas na fabricação",
+   "Bolsonaro é diagnosticado com pneumonia e continuará internado"
   ]
  },
  "ses-go": {
-  "em": "2026-11-24T05:59:58+00:00",
+  "em": "2026-11-24T17:40:27+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 4,
   "exemplos": [
-   "Cora reúne pacientes, famílias e profissionais em abraço simbólico pelo combate ao câncer infantojuvenil",
-   "Termo de Homologação da Adesão nº 014/2026 – Adesão à Ata de Registro de Preços nº 020/2026 do Ministério Público de Goi",
-   "Extrato da Portaria nº 3497/2026 – SES/GO"
+   "SES-GO promove oficina para construção da Política Estadual de Alta Responsável",
+   "HDT leva informações sobre prevenção do HIV e outras ISTs a mais de 100 jovens",
+   "Ceap-Sol completa 31 anos com atendimentos gratuitos à população em Goiânia"
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-11-24T05:59:58+00:00",
+  "em": "2026-11-24T17:40:27+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 3,
   "exemplos": [
-   "Abin apresenta estratégia para criptografia pós-quântica",
-   "Chuvas deixam 34 desalojados e um desaparecido em São Paulo",
-   "Mega-Sena acumula e deverá pagar R$ 65 milhões no próximo sorteio"
+   "PF investiga esquema de lavagem de dinheiro e fraude com criptoativos",
+   "PF faz operação contra captura e tráfico de macacos-prego na Tijuca",
+   "Mega-Sena sorteia prêmio de R$ 65 milhões nesta terça-feira"
   ]
  },
  "g1-busca": {
-  "em": "2026-11-24T05:59:58+00:00",
-  "lidos": 335,
-  "novos": 4,
+  "em": "2026-11-24T17:40:27+00:00",
+  "lidos": 344,
+  "novos": 5,
   "exemplos": [
    "Piracicaba estima 14 mil casos suspeitos de dengue em 2027, aponta Saúde",
    "Mal súbito: como prevenir e quais os primeiros socorros em casos suspeitos",
@@ -154,8 +154,8 @@
   ]
  },
  "metropoles-busca": {
-  "em": "2026-11-24T05:59:58+00:00",
-  "lidos": 48,
+  "em": "2026-11-24T17:40:27+00:00",
+  "lidos": 50,
   "novos": 1,
   "exemplos": [
    "Febre amarela: MG tem 33 macacos infectados e vacinação abaixo da meta",
@@ -164,67 +164,61 @@
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-11-24T05:59:58+00:00",
+  "em": "2026-11-24T17:40:27+00:00",
   "lidos": 25,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
-   "Fio dental inteligente mede glicose e sinais de inflamação na gengiva",
-   "Câncer infantojuvenil: reconhecer os sinais de alerta pode salvar vidas",
-   "Anvisa proíbe shampoo anticaspa com indicação de uso infantil"
+   "Após 3 meses, SP encerra surto de sarampo; estado chegou a 41 casos em 2026",
+   "Brasil prevê iniciar testes de vacina contra o câncer em 2027, diz Saúde",
+   "Fio dental inteligente mede glicose e sinais de inflamação na gengiva"
   ]
  },
  "cnn-saude": {
-  "em": "2026-11-24T05:59:58+00:00",
-  "lidos": 22,
+  "em": "2026-11-24T17:40:27+00:00",
+  "lidos": 23,
   "novos": 0,
   "exemplos": [
+   "The CDC stays quiet on flu as an early season catches many Americans off-guard",
    "This runner has completed over 70 marathons. This year, she ran 7 of them while pregnant",
-   "Why SNL’s ‘Sister’ sketch hit a nerve about the reality of caregiving",
-   "The US has had the tools to control measles for almost 65 years. Here’s how it’s come raging back"
+   "Why SNL’s ‘Sister’ sketch hit a nerve about the reality of caregiving"
   ]
  },
  "cnn-busca": {
-  "em": "2026-11-24T05:59:58+00:00",
-  "lidos": 50,
-  "novos": 0,
+  "em": "2026-11-24T17:40:27+00:00",
+  "lidos": 46,
+  "novos": 1,
   "exemplos": [
-   "The United States’ measles elimination status is officially gone. Who should get a booster?",
+   "The CDC stays quiet on flu as an early season catches many Americans off-guard",
    "Storms to hit both coasts, threatening Thanksgiving travel for millions and Macy’s 100th parade",
    "3 killed and 1 wounded in shooting at Ohio baby shower, police say; 1 man in custody"
   ]
  },
  "inmet": {
-  "em": "2026-11-24T05:59:58+00:00",
-  "lidos": 10,
-  "novos": 0,
-  "exemplos": [
-   "Previsão para terça-feira (24), quarta-feira (25) e quinta-feira (26)",
-   "INMET emite aviso vermelho para tempestades no Sul e explica condições atmosféricas que favoreceram tempestades em Tupan",
-   "INMET divulga previsão para semana de 23 a 30 de novembro de 2026"
-  ]
+  "em": "2026-11-24T17:40:27+00:00",
+  "erro": "503 Server Error: Service Unavailable for url: https://portal.inmet.gov.br/noticias"
  },
  "cemaden": {
-  "em": "2026-11-24T05:59:58+00:00",
+  "em": "2026-11-24T17:40:27+00:00",
   "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
  },
  "defesa-civil-busca": {
-  "em": "2026-11-24T05:59:58+00:00",
-  "lidos": 37,
-  "novos": 0,
+  "em": "2026-11-24T17:40:27+00:00",
+  "lidos": 39,
+  "novos": 6,
   "exemplos": [
-   "Autorizado repasse de R$ 7,2 milhões para ações de defesa civil no Amazonas",
+   "Lançamento de guia para o Programa Defesa Civil nas Escolas é tema de debate",
    "Governo de Sergipe",
-   "Lançamento de guia para o Programa Defesa Civil nas Escolas é tema de debate"
+   "Autorizado repasse de R$ 7,2 milhões para ações de defesa civil no Amazonas"
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-11-24T05:59:58+00:00",
+  "em": "2026-11-24T17:40:27+00:00",
   "lidos": 20,
-  "novos": 6,
+  "novos": 16,
   "exemplos": [
-   "Suspeito morre em confronto após tentar forçar adolescente a entrar em carro",
-   "Polícia apreende 6 toneladas de skunk no DF, maior carga da história",
-   "Casa do Papai Noel da M-Norte encerra as atividades após 24 anos e vira bazar"
+   "Esquema de apostas ilegais no DF tem R$ 16 milhões bloqueados pela Justiça",
+   "A 22 dias da entrada em vigor da escala 5x2, nova jornada mobiliza empresas",
+   "Capivara é resgatada em estacionamento no Setor de Rádio e TV Sul"
   ]
  }
 }
