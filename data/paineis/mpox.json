@@ -2,7 +2,7 @@
  "nome": "Mpox no Brasil, 2026",
  "sigla": "MPOX",
  "descricao": "Casos de mpox notificados em 2026, por classificação final, segundo o Painel de Mpox do Ministério da Saúde (e-SUS Sinan). Notificações até 23/11/2026 (SE 47).",
- "atualizado_em": "2026-11-23T18:29:45.111352",
+ "atualizado_em": "2026-11-24T03:09:36.697075",
  "fonte_dados": "Ministério da Saúde, Painel de Mpox (CNIE)",
  "serie_temporal": [],
  "distribuicao_geografica": [],
@@ -14836,9 +14836,9 @@
        "size": 11
       },
       "showarrow": false,
-      "text": "<b>RJ</b> 432",
-      "x": -40.82034120443117,
-      "y": -22.07
+      "text": "<b>DF</b> 68",
+      "x": -46.37043275872987,
+      "y": -15.79
      },
      {
       "bgcolor": "rgba(255,255,255,.85)",
@@ -14864,6 +14864,20 @@
        "size": 11
       },
       "showarrow": false,
+      "text": "<b>RJ</b> 432",
+      "x": -40.82034120443117,
+      "y": -22.07
+     },
+     {
+      "bgcolor": "rgba(255,255,255,.85)",
+      "bordercolor": "#0A3570",
+      "borderpad": 2,
+      "borderwidth": 1,
+      "font": {
+       "color": "#0A3570",
+       "size": 11
+      },
+      "showarrow": false,
       "text": "<b>CE</b> 189",
       "x": -38.200542743485975,
       "y": -5.32
@@ -14878,9 +14892,9 @@
        "size": 11
       },
       "showarrow": false,
-      "text": "<b>RO</b> 20",
-      "x": -61.5361549604237,
-      "y": -10.83
+      "text": "<b>SC</b> 24",
+      "x": -48.514786313799824,
+      "y": -27.65
      },
      {
       "bgcolor": "rgba(255,255,255,.85)",
@@ -14920,37 +14934,23 @@
        "size": 11
       },
       "showarrow": false,
+      "text": "<b>RO</b> 20",
+      "x": -61.5361549604237,
+      "y": -10.83
+     },
+     {
+      "bgcolor": "rgba(255,255,255,.85)",
+      "bordercolor": "#0A3570",
+      "borderpad": 2,
+      "borderwidth": 1,
+      "font": {
+       "color": "#0A3570",
+       "size": 11
+      },
+      "showarrow": false,
       "text": "<b>MG</b> 70",
       "x": -43.847663870412276,
       "y": -18.58
-     },
-     {
-      "bgcolor": "rgba(255,255,255,.85)",
-      "bordercolor": "#0A3570",
-      "borderpad": 2,
-      "borderwidth": 1,
-      "font": {
-       "color": "#0A3570",
-       "size": 11
-      },
-      "showarrow": false,
-      "text": "<b>SC</b> 24",
-      "x": -48.514786313799824,
-      "y": -27.65
-     },
-     {
-      "bgcolor": "rgba(255,255,255,.85)",
-      "bordercolor": "#0A3570",
-      "borderpad": 2,
-      "borderwidth": 1,
-      "font": {
-       "color": "#0A3570",
-       "size": 11
-      },
-      "showarrow": false,
-      "text": "<b>DF</b> 68",
-      "x": -46.37043275872987,
-      "y": -15.79
      }
     ],
     "font": {

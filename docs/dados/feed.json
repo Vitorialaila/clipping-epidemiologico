@@ -1,5 +1,23 @@
 [
  {
+  "t": "Três casos de Mpox são confirmados no sudoeste da Bahia",
+  "u": "https://g1.globo.com/google/amp/ba/bahia/saudenabahia/noticia/2026/11/23/casos-de-mpox-na-bahia.ghtml",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "RN registra 18 casos confirmados de mpox em 2026 e 46 seguem em investigação, diz Sesap",
   "u": "https://g1.globo.com/google/amp/rn/rio-grande-do-norte/noticia/2026/11/23/rn-registra-18-casos-confirmados-de-mpox-em-2026-e-46-seguem-em-investigacao-diz-sesap.ghtml",
   "d": "2026-11-23",
@@ -146,6 +164,24 @@
   "c": "monitoramento"
  },
  {
+  "t": "Piauí confirma dois casos de Mpox; pacientes são de Teresina",
+  "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMHV6ZnJNYTN0NnRjZVV0RXdTNHhtUTZEWmRyd0Z3VDhlUy01amFTd1otWjZkRklGVWJEbmlNWUZ3T2YzdU5mY3FTenNOME5hUUlmQU9ITHRzWU9lU3padVRicWZ5RHN3alRxcks5aUJ0RzdNMG5JYmhfVE0yY2swallSVmZmZ9IBhgFBVV95cUxOMHV6ZnJNYTN0NnRjZVV0RXdTNHhtUTZEWmRyd0Z3VDhlUy01amFTd1otWjZkRklGVWJEbmlNWUZ3T2YzdU5mY3FTenNOME5hUUlmQU9ITHRzWU9lU3padVRicWZ5RHN3alRxcks5aUJ0RzdNMG5JYmhfVE0yY2swallSVmZmZw?oc=5",
+  "d": "2026-11-23",
+  "df": "23 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Aracaju registra aumento de casos de chikungunya",
   "u": "https://g1.globo.com/se/sergipe/noticia/2026/11/23/aracaju-registra-aumento-de-casos-de-chikungunya.ghtml",
   "d": "2026-11-23",
@@ -180,6 +216,42 @@
   "i": "clima",
   "m": [],
   "c": "monitoramento"
+ },
+ {
+  "t": "Mulher de 48 anos morre com suspeita de dengue em Martinópolis",
+  "u": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/23/morte-suspeita-dengue-martinopolis.ghtml",
+  "d": "2026-11-23",
+  "df": "23 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Santa Luzia reforça uso de máscaras após casos de Covid na Grande BH",
+  "u": "https://www.metropoles.com/minas-gerais/santa-luzia-reforca-uso-de-mascaras-apos-casos-de-covid-na-grande-bh",
+  "d": "2026-11-23",
+  "df": "23 nov 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Fiocruz promove 18º Simpósio Internacional sobre Esquistossomose",
@@ -493,6 +565,24 @@
   "i": "clima",
   "m": [],
   "c": "monitoramento"
+ },
+ {
+  "t": "São Paulo lidera casos de mpox no Brasil",
+  "u": "https://g1.globo.com/google/amp/bom-dia-sabado/video/sao-paulo-lidera-casos-de-mpox-no-brasil-15269054.ghtml",
+  "d": "2026-11-21",
+  "df": "21 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Dengue: Goiás lidera ranking de óbitos e projeção nacional é de 860 mil casos em 2027",

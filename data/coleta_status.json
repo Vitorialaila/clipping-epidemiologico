@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-11-23T21:19:32+00:00",
+  "em": "2026-11-24T05:59:58+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,7 +10,7 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-11-23T21:19:32+00:00",
+  "em": "2026-11-24T05:59:58+00:00",
   "lidos": 40,
   "novos": 0,
   "exemplos": [
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-11-23T21:19:32+00:00",
+  "em": "2026-11-24T05:59:58+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-11-23T21:19:32+00:00",
+  "em": "2026-11-24T05:59:58+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-11-23T21:19:32+00:00",
+  "em": "2026-11-24T05:59:58+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-11-23T21:19:32+00:00",
+  "em": "2026-11-24T05:59:58+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-11-23T21:19:32+00:00",
+  "em": "2026-11-24T05:59:58+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-11-23T21:19:32+00:00",
+  "em": "2026-11-24T05:59:58+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-11-23T21:19:32+00:00",
+  "em": "2026-11-24T05:59:58+00:00",
   "lidos": 2354,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-11-23T21:19:32+00:00",
+  "em": "2026-11-24T05:59:58+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,13 +100,13 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-11-23T21:19:32+00:00",
+  "em": "2026-11-24T05:59:58+00:00",
   "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
  },
  "fiocruz": {
-  "em": "2026-11-23T21:19:32+00:00",
+  "em": "2026-11-24T05:59:58+00:00",
   "lidos": 10,
-  "novos": 4,
+  "novos": 0,
   "exemplos": [
    "Pesquisadora da Fiocruz participa de avaliação da Opas sobre avanço do sarampo nas Américas",
    "Ensaio clínico revela primeira evidência que Método Wolbachia protege contra chikungunya",
@@ -114,19 +114,19 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-11-23T21:19:32+00:00",
+  "em": "2026-11-24T05:59:58+00:00",
   "lidos": 10,
-  "novos": 4,
+  "novos": 2,
   "exemplos": [
-   "Brasil defende fortalecimento da cooperação internacional em saúde",
-   "Uso racional de antibióticos pode diminuir bactérias resistentes",
-   "Anvisa aprova novo medicamento para tratar câncer de mama"
+   "Bolsonaro é diagnosticado com pneumonia e continuará internado",
+   "Saúde repassa R$ 200 milhões para maternidades filantrópicas",
+   "Brasil defende fortalecimento da cooperação internacional em saúde"
   ]
  },
  "ses-go": {
-  "em": "2026-11-23T21:19:32+00:00",
+  "em": "2026-11-24T05:59:58+00:00",
   "lidos": 10,
-  "novos": 8,
+  "novos": 0,
   "exemplos": [
    "Cora reúne pacientes, famílias e profissionais em abraço simbólico pelo combate ao câncer infantojuvenil",
    "Termo de Homologação da Adesão nº 014/2026 – Adesão à Ata de Registro de Preços nº 020/2026 do Ministério Público de Goi",
@@ -134,9 +134,9 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-11-23T21:19:32+00:00",
+  "em": "2026-11-24T05:59:58+00:00",
   "lidos": 10,
-  "novos": 2,
+  "novos": 0,
   "exemplos": [
    "Abin apresenta estratégia para criptografia pós-quântica",
    "Chuvas deixam 34 desalojados e um desaparecido em São Paulo",
@@ -144,9 +144,9 @@
   ]
  },
  "g1-busca": {
-  "em": "2026-11-23T21:19:32+00:00",
-  "lidos": 324,
-  "novos": 5,
+  "em": "2026-11-24T05:59:58+00:00",
+  "lidos": 335,
+  "novos": 4,
   "exemplos": [
    "Piracicaba estima 14 mil casos suspeitos de dengue em 2027, aponta Saúde",
    "Mal súbito: como prevenir e quais os primeiros socorros em casos suspeitos",
@@ -154,9 +154,9 @@
   ]
  },
  "metropoles-busca": {
-  "em": "2026-11-23T21:19:32+00:00",
+  "em": "2026-11-24T05:59:58+00:00",
   "lidos": 48,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
    "Febre amarela: MG tem 33 macacos infectados e vacinação abaixo da meta",
    "Ministro da Educação da Coreia do Sul renuncia após fraudes com uso de IA",
@@ -164,9 +164,9 @@
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-11-23T21:19:32+00:00",
+  "em": "2026-11-24T05:59:58+00:00",
   "lidos": 25,
-  "novos": 2,
+  "novos": 0,
   "exemplos": [
    "Fio dental inteligente mede glicose e sinais de inflamação na gengiva",
    "Câncer infantojuvenil: reconhecer os sinais de alerta pode salvar vidas",
@@ -174,7 +174,7 @@
   ]
  },
  "cnn-saude": {
-  "em": "2026-11-23T21:19:32+00:00",
+  "em": "2026-11-24T05:59:58+00:00",
   "lidos": 22,
   "novos": 0,
   "exemplos": [
@@ -184,19 +184,19 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-11-23T21:19:32+00:00",
-  "lidos": 65,
-  "novos": 1,
+  "em": "2026-11-24T05:59:58+00:00",
+  "lidos": 50,
+  "novos": 0,
   "exemplos": [
    "The United States’ measles elimination status is officially gone. Who should get a booster?",
-   "3 killed and 1 wounded in shooting at Ohio baby shower, police say; 1 man in custody",
-   "Storms to hit both coasts, threatening Thanksgiving travel for millions and Macy’s 100th parade"
+   "Storms to hit both coasts, threatening Thanksgiving travel for millions and Macy’s 100th parade",
+   "3 killed and 1 wounded in shooting at Ohio baby shower, police say; 1 man in custody"
   ]
  },
  "inmet": {
-  "em": "2026-11-23T21:19:32+00:00",
+  "em": "2026-11-24T05:59:58+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Previsão para terça-feira (24), quarta-feira (25) e quinta-feira (26)",
    "INMET emite aviso vermelho para tempestades no Sul e explica condições atmosféricas que favoreceram tempestades em Tupan",
@@ -204,27 +204,27 @@
   ]
  },
  "cemaden": {
-  "em": "2026-11-23T21:19:32+00:00",
+  "em": "2026-11-24T05:59:58+00:00",
   "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
  },
  "defesa-civil-busca": {
-  "em": "2026-11-23T21:19:32+00:00",
-  "lidos": 39,
-  "novos": 3,
+  "em": "2026-11-24T05:59:58+00:00",
+  "lidos": 37,
+  "novos": 0,
   "exemplos": [
-   "Lançamento de guia para o Programa Defesa Civil nas Escolas é tema de debate",
+   "Autorizado repasse de R$ 7,2 milhões para ações de defesa civil no Amazonas",
    "Governo de Sergipe",
-   "Polícia Civil prende suspeito de estelionato durante operação conjunta com o Distrito Federal em SP"
+   "Lançamento de guia para o Programa Defesa Civil nas Escolas é tema de debate"
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-11-23T21:19:32+00:00",
+  "em": "2026-11-24T05:59:58+00:00",
   "lidos": 20,
-  "novos": 14,
+  "novos": 6,
   "exemplos": [
-   "Filha de ex-governador de Sergipe, Maria Cristina Alves morre em Brasília",
+   "Suspeito morre em confronto após tentar forçar adolescente a entrar em carro",
    "Polícia apreende 6 toneladas de skunk no DF, maior carga da história",
-   "Brasília terá alternativas de hospedagem para posse presidencial em janeiro"
+   "Casa do Papai Noel da M-Norte encerra as atividades após 24 anos e vira bazar"
   ]
  }
 }
