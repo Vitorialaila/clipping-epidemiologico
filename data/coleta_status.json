@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-11-25T12:50:40+00:00",
+  "em": "2026-11-25T22:30:28+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,19 +10,19 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-11-25T12:50:40+00:00",
+  "em": "2026-11-25T22:30:28+00:00",
   "lidos": 40,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "WHO recommends new oral treatment option for gonorrhoea and reports new data on antimicrobial resistance",
    "WHO calls for stronger parliamentary leadership for global health at the 153rd Inter-Parliamentary Union Assembly",
-   "Advancing the timely and ethical inclusion of pregnant and lactating women in clinical trials",
-   "WHO Director-General announces support for vaccines, medical equipment during official visit to Cuba"
+   "Advancing the timely and ethical inclusion of pregnant and lactating women in clinical trials"
   ]
  },
  "opas-alertas": {
-  "em": "2026-11-25T12:50:40+00:00",
+  "em": "2026-11-25T22:30:28+00:00",
   "lidos": 15,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Epidemiological Alert - Mpox in the Americas Region - 24 November 2026",
    "Epidemiological Alert:  Collection and consumption of wild mushrooms in the Americas Region - 17 November 2026",
@@ -30,17 +30,17 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-11-25T12:50:40+00:00",
+  "em": "2026-11-25T22:30:28+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "PAHO calls for stronger health sector response to violence against women and girls",
    "Suriname joins the Alliance for Primary Health Care in the Americas",
-   "PAHO Director reaffirms cooperation with Peru to strengthen the health system and address health priorities",
-   "PAHO warns of increasing resistance to antibiotics used to treat serious infections in the Americas"
+   "PAHO Director reaffirms cooperation with Peru to strengthen the health system and address health priorities"
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-11-25T12:50:40+00:00",
+  "em": "2026-11-25T22:30:28+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-11-25T12:50:40+00:00",
+  "em": "2026-11-25T22:30:28+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-11-25T12:50:40+00:00",
+  "em": "2026-11-25T22:30:28+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-11-25T12:50:40+00:00",
+  "em": "2026-11-25T22:30:28+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,73 +80,73 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-11-25T12:50:40+00:00",
-  "lidos": 2354,
-  "novos": 0,
+  "em": "2026-11-25T22:30:28+00:00",
+  "lidos": 2357,
+  "novos": 3,
   "exemplos": [
-   "Respiratory Virus Activity - United States, July 2025-June 2026",
-   "Stroke Death Rates Among Adults Aged ≥18 Years - United States, 2000-2024",
-   "Notes from the Field: Dengue Outbreak - American Samoa, 2025-2026"
+   "QuickStats: Age-Adjusted Percentage of Adults Aged ≥18 Years Who Visited a Doctor or Other Health Professional During th",
+   "Notes from the Field: Death Involving the Semisynthetic Kratom-Derived Opioid Dihydro-7-Hydroxymitragynine (MGM-15) from",
+   "Differences Between Urban and Rural Counties in Pregnancy-Related Deaths - United States, 2015-2024"
   ]
  },
  "africa-cdc": {
-  "em": "2026-11-25T12:50:40+00:00",
+  "em": "2026-11-25T22:30:28+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 2,
   "exemplos": [
+   "Statement of the Governing Board of the Africa Centres for Disease Control and Prevention (Africa CDC)",
    "CPHIA 2026 Opens with Focus on Health Sovereignty and Action",
-   "One in six pregnancies is to an adolescent girl, yet only one health facility in eight offers services built for young p",
-   "From Leadership to Action: Advancing Nigeria’s Local Vaccine Research and Manufacturing Capacity"
+   "Africa CDC Youth Pre-Conference and Women in Health Leadership Summit calls for room, budgets and a seat at the table"
   ]
  },
  "ms-noticias": {
-  "em": "2026-11-25T12:50:40+00:00",
+  "em": "2026-11-25T22:30:28+00:00",
   "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
  },
  "fiocruz": {
-  "em": "2026-11-25T12:50:40+00:00",
-  "lidos": 10,
-  "novos": 0,
-  "exemplos": [
-   "Sarau na Fiocruz Mata Atlântica debate saúde e ecologia",
-   "3ª Conferência de Promoção da Saúde da Fiocruz celebra marcos históricos e debate perspectivas para o futuro",
-   "Iniciativas da Fiocruz são selecionadas para o Atlas da Inovação em Comunicação Pública do Pnud"
-  ]
- },
- "agencia-brasil-saude": {
-  "em": "2026-11-25T12:50:40+00:00",
-  "lidos": 10,
-  "novos": 1,
-  "exemplos": [
-   "Estoque do Hemorio atende emergência em mais de 100 hospitais públicos",
-   "Cidade de São Paulo encerra transmissão de casos importados de sarampo",
-   "Anvisa determina apreensão de água mineral por falhas na fabricação"
-  ]
- },
- "ses-go": {
-  "em": "2026-11-25T12:50:40+00:00",
+  "em": "2026-11-25T22:30:28+00:00",
   "lidos": 10,
   "novos": 6,
   "exemplos": [
-   "Escala Ceesmi – Dezembro",
-   "Escala Ceap-Sol – Dezembro",
-   "Extrato do Termo de Doação n.º 515/2026 – SES/GO"
+   "Fiocruz promove seminário internacional sobre cannabis medicinal no Museu do Amanhã",
+   "Fiocruz lança Rede Conecta para reforçar a internacionalização da ciência",
+   "Fiocruz participa da instituição da Política de Equidade, Diversidade, Inclusão e Empoderamento de Meninas e Mulheres na"
+  ]
+ },
+ "agencia-brasil-saude": {
+  "em": "2026-11-25T22:30:28+00:00",
+  "lidos": 10,
+  "novos": 3,
+  "exemplos": [
+   "Anvisa determina apreensão de suplementos alimentares",
+   "Anvisa manda apreender medicamentos falsificados para tratar câncer",
+   "Rio recebe nesta semana novas doses de vacina contra a mpox"
+  ]
+ },
+ "ses-go": {
+  "em": "2026-11-25T22:30:28+00:00",
+  "lidos": 10,
+  "novos": 8,
+  "exemplos": [
+   "Extrato do Contrato n.º 113/2026 – SES/GO",
+   "Rede Hemo homenageia 37 doadores voluntários e reforça importância da doação regular de sangue em Goiás",
+   "Escala Policlínica de Goiás – Dezembro"
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-11-25T12:50:40+00:00",
+  "em": "2026-11-25T22:30:28+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 3,
   "exemplos": [
-   "Mega-Sena acumula para R$ 75 milhões; confira os números sorteados",
-   "Superlua pode ser observada nesta terça-feira; veja melhor horário",
-   "PF investiga esquema de lavagem de dinheiro e fraude com criptoativos"
+   "Com alerta de chuvas fortes, Rio suspende aulas na rede pública",
+   "Tempestades e frente fria devem atingir Centro-Sul até sexta-feira",
+   "Defesa Civil Alerta já emitiu mais de 4 mil avisos desde 2024"
   ]
  },
  "g1-busca": {
-  "em": "2026-11-25T12:50:40+00:00",
-  "lidos": 424,
-  "novos": 4,
+  "em": "2026-11-25T22:30:28+00:00",
+  "lidos": 461,
+  "novos": 9,
   "exemplos": [
    "Mal súbito: como prevenir e quais os primeiros socorros em casos suspeitos",
    "Piracicaba estima 14 mil casos suspeitos de dengue em 2027, aponta Saúde",
@@ -154,8 +154,8 @@
   ]
  },
  "metropoles-busca": {
-  "em": "2026-11-25T12:50:40+00:00",
-  "lidos": 55,
+  "em": "2026-11-25T22:30:28+00:00",
+  "lidos": 53,
   "novos": 0,
   "exemplos": [
    "Febre amarela: MG tem 33 macacos infectados e vacinação abaixo da meta",
@@ -164,18 +164,18 @@
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-11-25T12:50:40+00:00",
-  "lidos": 25,
-  "novos": 0,
+  "em": "2026-11-25T22:30:28+00:00",
+  "lidos": 26,
+  "novos": 1,
   "exemplos": [
-   "Menos sexo e mais telas: o que mudou nos hábitos dos jovens na cama?",
-   "Estudo aponta diferenças raciais e de idade na ação de antidepressivos",
-   "Adeus aos seios volumosos? entenda porque mulheres estão reduzindo próteses"
+   "Bahia tem 19 casos de Mpox em 2026; Brasil chega a 1.499 no ano",
+   "Anvisa proíbe venda e uso de 16 anabolizantes da marca GMP sem registro",
+   "Entenda como devem funcionar os testes da vacina contra o câncer no Brasil"
   ]
  },
  "cnn-saude": {
-  "em": "2026-11-25T12:50:40+00:00",
-  "lidos": 18,
+  "em": "2026-11-25T22:30:28+00:00",
+  "lidos": 23,
   "novos": 0,
   "exemplos": [
    "This runner has completed over 70 marathons. This year, she ran 7 of them while pregnant",
@@ -184,35 +184,41 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-11-25T12:50:40+00:00",
-  "lidos": 40,
-  "novos": 0,
+  "em": "2026-11-25T22:30:28+00:00",
+  "lidos": 52,
+  "novos": 2,
   "exemplos": [
    "The CDC stays quiet on flu as an early season catches many Americans off-guard",
-   "Storms to hit both coasts, threatening Thanksgiving travel for millions and Macy’s 100th parade",
-   "3 killed and 1 wounded in shooting at Ohio baby shower, police say; 1 man in custody"
+   "Army details plan to contain lead dust ahead of Wednesday detonation in Iowa",
+   "Storms to hit both coasts, threatening Thanksgiving travel for millions and Macy’s 100th parade"
   ]
  },
  "inmet": {
-  "em": "2026-11-25T12:50:40+00:00",
-  "erro": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  "em": "2026-11-25T22:30:28+00:00",
+  "erro": "HTTPSConnectionPool(host='portal.inmet.gov.br', port=443): Read timed out. (read timeout=30)"
  },
  "cemaden": {
-  "em": "2026-11-25T12:50:40+00:00",
+  "em": "2026-11-25T22:30:28+00:00",
   "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
  },
  "defesa-civil-busca": {
-  "em": "2026-11-25T12:50:40+00:00",
-  "erro": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Defesa%20Civil%20Nacional%22%20when%3A7d&hl=pt-BR&gl=BR&ceid=BR:pt-419"
+  "em": "2026-11-25T22:30:28+00:00",
+  "lidos": 14,
+  "novos": 1,
+  "exemplos": [
+   "Equipe da Defesa Civil Nacional presta socorro a Tupanciretã (RS)",
+   "Novacap abre licitação de R$ 39 milhões para obras de drenagem em Arniqueira",
+   "Polícia Civil prende suspeito de estelionato durante operação conjunta com o Distrito Federal em SP"
+  ]
  },
  "correio-braziliense-df": {
-  "em": "2026-11-25T12:50:40+00:00",
+  "em": "2026-11-25T22:30:28+00:00",
   "lidos": 20,
-  "novos": 8,
+  "novos": 17,
   "exemplos": [
-   "Conheça a rotina do Hfaus até o retorno dos animais à natureza",
-   "Mulher sofre tentativa de estupro e se defende ao aplicar golpes de jiu-jítsu",
-   "GDF barra fraude fiscal de R$ 2 bilhões com grãos, sucatas e importados"
+   "Pastor é assassinado por fiel durante momento de oração em igreja",
+   "Mulher é presa suspeita de manter casa de prostituição na 411 Norte",
+   "IV Feira de Artesanato Raízes do Entorno será realizada em dezembro"
   ]
  }
 }

@@ -1,8 +1,8 @@
 {
  "nome": "Mpox no Brasil, 2026",
  "sigla": "MPOX",
- "descricao": "Casos de mpox notificados em 2026, por classificação final, segundo o Painel de Mpox do Ministério da Saúde (e-SUS Sinan). Notificações até 24/11/2026 (SE 47).",
- "atualizado_em": "2026-11-25T10:01:14.696507",
+ "descricao": "Casos de mpox notificados em 2026, por classificação final, segundo o Painel de Mpox do Ministério da Saúde (e-SUS Sinan). Notificações até 25/11/2026 (SE 47).",
+ "atualizado_em": "2026-11-25T19:42:41.096740",
  "fonte_dados": "Ministério da Saúde, Painel de Mpox (CNIE)",
  "serie_temporal": [],
  "distribuicao_geografica": [],
@@ -11,20 +11,20 @@
  "aba": "Mpox",
  "kpis": [
   {
-   "valor": "1.499",
+   "valor": "1.572",
    "rotulo": "casos confirmados em 2026"
   },
   {
-   "valor": "56",
+   "valor": "61",
    "rotulo": "casos prováveis"
   },
   {
-   "valor": "1.484",
+   "valor": "1.761",
    "rotulo": "casos suspeitos em investigação"
   },
   {
-   "valor": "67",
-   "rotulo": "confirmados no DF (4 prováveis)"
+   "valor": "71",
+   "rotulo": "confirmados no DF (5 prováveis)"
   },
   {
    "valor": "23",
@@ -2485,7 +2485,7 @@
      "mode": "lines",
      "name": "100 ou mais",
      "showlegend": true,
-     "text": "<b>Ceará</b><br>191 casos confirmados ou prováveis",
+     "text": "<b>Ceará</b><br>205 casos confirmados ou prováveis",
      "x": [
       -38.829,
       -38.442,
@@ -2979,7 +2979,7 @@
      "mode": "lines",
      "name": "5 a 19",
      "showlegend": false,
-     "text": "<b>Goiás</b><br>11 casos confirmados ou prováveis",
+     "text": "<b>Goiás</b><br>12 casos confirmados ou prováveis",
      "x": [
       -48.653,
       -48.737,
@@ -3668,7 +3668,7 @@
      "mode": "lines",
      "name": "20 a 99",
      "showlegend": true,
-     "text": "<b>Maranhão</b><br>24 casos confirmados ou prováveis",
+     "text": "<b>Maranhão</b><br>30 casos confirmados ou prováveis",
      "x": [
       -45.67,
       -45.624,
@@ -4689,7 +4689,7 @@
      "mode": "lines",
      "name": "20 a 99",
      "showlegend": false,
-     "text": "<b>Minas Gerais</b><br>74 casos confirmados ou prováveis",
+     "text": "<b>Minas Gerais</b><br>75 casos confirmados ou prováveis",
      "x": [
       -42.896,
       -42.824,
@@ -7709,7 +7709,7 @@
      "mode": "lines",
      "name": "20 a 99",
      "showlegend": false,
-     "text": "<b>Paraíba</b><br>20 casos confirmados ou prováveis",
+     "text": "<b>Paraíba</b><br>24 casos confirmados ou prováveis",
      "x": [
       -36.121,
       -36.07,
@@ -8968,19 +8968,19 @@
     },
     {
      "fill": "toself",
-     "fillcolor": "#6F8FBF",
+     "fillcolor": "#2B5A97",
      "hoverinfo": "text",
      "hoveron": "fills",
-     "legendgroup": "5 a 19",
-     "legendrank": 2,
+     "legendgroup": "20 a 99",
+     "legendrank": 3,
      "line": {
       "color": "#FFFFFF",
       "width": 0.8
      },
      "mode": "lines",
-     "name": "5 a 19",
+     "name": "20 a 99",
      "showlegend": false,
-     "text": "<b>Paraná</b><br>19 casos confirmados ou prováveis",
+     "text": "<b>Paraná</b><br>20 casos confirmados ou prováveis",
      "x": [
       -50.577,
       -50.397,
@@ -9449,7 +9449,7 @@
      "mode": "lines",
      "name": "100 ou mais",
      "showlegend": false,
-     "text": "<b>Rio de Janeiro</b><br>447 casos confirmados ou prováveis",
+     "text": "<b>Rio de Janeiro</b><br>465 casos confirmados ou prováveis",
      "x": [
       -43.191,
       -43.266,
@@ -9778,7 +9778,7 @@
      "mode": "lines",
      "name": "5 a 19",
      "showlegend": false,
-     "text": "<b>Rio Grande do Norte</b><br>8 casos confirmados ou prováveis",
+     "text": "<b>Rio Grande do Norte</b><br>9 casos confirmados ou prováveis",
      "x": [
       -36.048,
       -35.938,
@@ -10570,7 +10570,7 @@
      "mode": "lines",
      "name": "1 a 4",
      "showlegend": false,
-     "text": "<b>Roraima</b><br>1 caso confirmado ou provável",
+     "text": "<b>Roraima</b><br>2 casos confirmados ou prováveis",
      "x": [
       -58.095,
       -58.199,
@@ -11990,7 +11990,7 @@
      "mode": "lines",
      "name": "20 a 99",
      "showlegend": false,
-     "text": "<b>Santa Catarina</b><br>25 casos confirmados ou prováveis",
+     "text": "<b>Santa Catarina</b><br>28 casos confirmados ou prováveis",
      "x": [
       -52.124,
       -52.144,
@@ -12756,7 +12756,7 @@
      "mode": "lines",
      "name": "100 ou mais",
      "showlegend": false,
-     "text": "<b>São Paulo</b><br>563 casos confirmados ou prováveis",
+     "text": "<b>São Paulo</b><br>586 casos confirmados ou prováveis",
      "x": [
       -44.768,
       -44.809,
@@ -14018,7 +14018,7 @@
      "mode": "lines",
      "name": "20 a 99",
      "showlegend": false,
-     "text": "<b>Distrito Federal</b><br>71 casos confirmados ou prováveis",
+     "text": "<b>Distrito Federal</b><br>76 casos confirmados ou prováveis",
      "x": [
       -45.969,
       -45.903,
@@ -14836,9 +14836,9 @@
        "size": 11
       },
       "showarrow": false,
-      "text": "<b>CE</b> 191",
-      "x": -38.200542743485975,
-      "y": -5.32
+      "text": "<b>MG</b> 75",
+      "x": -43.847663870412276,
+      "y": -18.58
      },
      {
       "bgcolor": "rgba(255,255,255,.85)",
@@ -14850,35 +14850,7 @@
        "size": 11
       },
       "showarrow": false,
-      "text": "<b>MA</b> 24",
-      "x": -43.94469344303988,
-      "y": -5.65
-     },
-     {
-      "bgcolor": "rgba(255,255,255,.85)",
-      "bordercolor": "#0A3570",
-      "borderpad": 2,
-      "borderwidth": 1,
-      "font": {
-       "color": "#0A3570",
-       "size": 11
-      },
-      "showarrow": false,
-      "text": "<b>SC</b> 25",
-      "x": -48.514786313799824,
-      "y": -27.65
-     },
-     {
-      "bgcolor": "rgba(255,255,255,.85)",
-      "bordercolor": "#0A3570",
-      "borderpad": 2,
-      "borderwidth": 1,
-      "font": {
-       "color": "#0A3570",
-       "size": 11
-      },
-      "showarrow": false,
-      "text": "<b>DF</b> 71",
+      "text": "<b>DF</b> 76",
       "x": -46.37043275872987,
       "y": -15.79
      },
@@ -14892,9 +14864,9 @@
        "size": 11
       },
       "showarrow": false,
-      "text": "<b>SP</b> 563",
-      "x": -47.74825269004179,
-      "y": -22.54
+      "text": "<b>RJ</b> 465",
+      "x": -40.82034120443117,
+      "y": -22.07
      },
      {
       "bgcolor": "rgba(255,255,255,.85)",
@@ -14906,9 +14878,23 @@
        "size": 11
       },
       "showarrow": false,
-      "text": "<b>RJ</b> 447",
-      "x": -40.82034120443117,
-      "y": -22.07
+      "text": "<b>PR</b> 20",
+      "x": -50.280724535622134,
+      "y": -24.59
+     },
+     {
+      "bgcolor": "rgba(255,255,255,.85)",
+      "bordercolor": "#0A3570",
+      "borderpad": 2,
+      "borderwidth": 1,
+      "font": {
+       "color": "#0A3570",
+       "size": 11
+      },
+      "showarrow": false,
+      "text": "<b>SP</b> 586",
+      "x": -47.74825269004179,
+      "y": -22.54
      },
      {
       "bgcolor": "rgba(255,255,255,.85)",
@@ -14934,6 +14920,20 @@
        "size": 11
       },
       "showarrow": false,
+      "text": "<b>SC</b> 28",
+      "x": -48.514786313799824,
+      "y": -27.65
+     },
+     {
+      "bgcolor": "rgba(255,255,255,.85)",
+      "bordercolor": "#0A3570",
+      "borderpad": 2,
+      "borderwidth": 1,
+      "font": {
+       "color": "#0A3570",
+       "size": 11
+      },
+      "showarrow": false,
       "text": "<b>RS</b> 21",
       "x": -52.22131598817413,
       "y": -30.42
@@ -14948,9 +14948,9 @@
        "size": 11
       },
       "showarrow": false,
-      "text": "<b>MG</b> 74",
-      "x": -43.847663870412276,
-      "y": -18.58
+      "text": "<b>CE</b> 205",
+      "x": -38.200542743485975,
+      "y": -5.32
      },
      {
       "bgcolor": "rgba(255,255,255,.85)",
@@ -14962,9 +14962,23 @@
        "size": 11
       },
       "showarrow": false,
-      "text": "<b>PB</b> 20",
+      "text": "<b>PB</b> 24",
       "x": -35.648664983380115,
       "y": -7.17
+     },
+     {
+      "bgcolor": "rgba(255,255,255,.85)",
+      "bordercolor": "#0A3570",
+      "borderpad": 2,
+      "borderwidth": 1,
+      "font": {
+       "color": "#0A3570",
+       "size": 11
+      },
+      "showarrow": false,
+      "text": "<b>MA</b> 30",
+      "x": -43.94469344303988,
+      "y": -5.65
      }
     ],
     "font": {
@@ -14982,7 +14996,7 @@
       "size": 15,
       "color": "#0A3570"
      },
-     "text": "<b>Casos confirmados e prováveis por UF de residência</b><br><sup>notificados até 24/11/2026</sup>"
+     "text": "<b>Casos confirmados e prováveis por UF de residência</b><br><sup>notificados até 25/11/2026</sup>"
     },
     "margin": {
      "l": 10,
@@ -15034,28 +15048,28 @@
      "orientation": "h",
      "x": [
       14,
-      17,
-      20,
+      18,
       17,
       21,
-      17,
+      24,
+      23,
       22,
-      67,
-      68,
-      187,
-      439,
-      550
+      69,
+      71,
+      202,
+      456,
+      572
      ],
      "y": [
       "Bahia",
       "Paraná",
-      "Paraíba",
       "Rondônia",
       "Rio Grande do Sul",
-      "Maranhão",
+      "Paraíba",
       "Santa Catarina",
-      "Distrito Federal",
+      "Maranhão",
       "Minas Gerais",
+      "Distrito Federal",
       "Ceará",
       "Rio de Janeiro",
       "São Paulo"
@@ -15072,43 +15086,43 @@
      "orientation": "h",
      "text": [
       "16",
-      "19",
       "20",
       "20",
       "21",
       "24",
-      "25",
-      "71",
-      "74",
-      "191",
-      "447",
-      "563"
+      "28",
+      "30",
+      "75",
+      "76",
+      "205",
+      "465",
+      "586"
      ],
      "textposition": "outside",
      "x": [
       2,
       2,
-      0,
       3,
       0,
-      7,
-      3,
-      4,
-      6,
-      4,
+      0,
+      5,
       8,
-      13
+      6,
+      5,
+      3,
+      9,
+      14
      ],
      "y": [
       "Bahia",
       "Paraná",
-      "Paraíba",
       "Rondônia",
       "Rio Grande do Sul",
-      "Maranhão",
+      "Paraíba",
       "Santa Catarina",
-      "Distrito Federal",
+      "Maranhão",
       "Minas Gerais",
+      "Distrito Federal",
       "Ceará",
       "Rio de Janeiro",
       "São Paulo"
@@ -15894,7 +15908,7 @@
       "size": 15,
       "color": "#0A3570"
      },
-     "text": "<b>UFs com mais casos</b><br><sup>confirmados e prováveis, notificados até 24/11/2026</sup>"
+     "text": "<b>UFs com mais casos</b><br><sup>confirmados e prováveis, notificados até 25/11/2026</sup>"
     },
     "margin": {
      "l": 10,
@@ -15915,7 +15929,7 @@
      "zeroline": false,
      "range": [
       0,
-      675.6
+      703.1999999999999
      ]
     },
     "yaxis": {
@@ -16043,7 +16057,7 @@
      "y": [
       4,
       16,
-      15,
+      16,
       18,
       13,
       13,
@@ -16053,7 +16067,7 @@
       25,
       15,
       16,
-      13,
+      14,
       14,
       17,
       16,
@@ -16081,14 +16095,14 @@
       9,
       28,
       31,
-      48,
+      49,
       52,
       75,
-      129,
-      206,
-      255,
-      197,
-      5
+      131,
+      209,
+      260,
+      244,
+      18
      ],
      "type": "bar"
     },
@@ -16212,7 +16226,7 @@
       0,
       2,
       2,
-      2,
+      1,
       1,
       1,
       1,
@@ -16244,8 +16258,8 @@
       3,
       3,
       7,
-      10,
-      2
+      11,
+      7
      ],
      "type": "bar"
     }
@@ -17028,7 +17042,7 @@
       "size": 15,
       "color": "#0A3570"
      },
-     "text": "<b>Casos confirmados e prováveis por semana de notificação, 2026</b><br><sup>semanas de segunda a domingo, como no painel do MS; notificados até 24/11/2026; a semana 48, em tom claro, está incompleta</sup>"
+     "text": "<b>Casos confirmados e prováveis por semana de notificação, 2026</b><br><sup>semanas de segunda a domingo, como no painel do MS; notificados até 25/11/2026; a semana 48, em tom claro, está incompleta</sup>"
     },
     "margin": {
      "l": 50,

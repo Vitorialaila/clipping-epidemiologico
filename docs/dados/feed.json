@@ -1,5 +1,78 @@
 [
  {
+  "t": "Óbidos reforça prevenção à doença de Chagas após surto com 10 casos confirmados e um óbito",
+  "u": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/25/obidos-reforca-prevencao-a-doenca-de-chagas-apos-surto-com-10-casos-confirmados-e-um-obito.ghtml",
+  "d": "2026-11-25",
+  "df": "25 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Doença de Chagas aguda"
+  ],
+  "p": 14.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Mpox: notificação semanal bate novo recorde e casos confirmados chegam a 26 no Espírito Santo",
+  "u": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/25/mpox-notificacao-semanal-bate-novo-recorde-e-casos-confirmados-chegam-a-26-no-espirito-santo.ghtml",
+  "d": "2026-11-25",
+  "df": "25 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 12.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Juiz de Fora registra seis casos confirmados de mpox em 2026",
+  "u": "https://g1.globo.com/mg/zona-da-mata/videos-integracao-noticia/video/juiz-de-fora-registra-seis-casos-confirmados-de-mpox-em-2026-15279678.ghtml",
+  "d": "2026-11-25",
+  "df": "25 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 11.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Rio recebe nesta semana novas doses de vacina contra a mpox",
+  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/rio-recebe-nesta-semana-novas-doses-de-vacina-contra-mpox",
+  "d": "2026-11-25",
+  "df": "25 nov 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Mpox",
+   "Imunização"
+  ],
+  "p": 10.5,
+  "se": "2026-47",
+  "r": "A Secretaria Municipal de Saúde (SMS) do Rio informou que mais de 8 mil pessoas foram vacinadas contra a mpox com todas as doses enviadas pelo Ministério da Saúde desde a retomada da imunização no dia 6 de novembro. No momento, os estoques da vacina no…",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "RN confirma mais um caso de mpox e chega a 19 em 2026",
   "u": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/25/rn-confirma-mais-um-caso-de-mpox-e-chega-a-19-em-2026.ghtml",
   "d": "2026-11-25",
@@ -16,6 +89,58 @@
   "i": "virus",
   "m": [],
   "c": "alerta"
+ },
+ {
+  "t": "Paciente com suspeita de Mpox que fugiu de hospital é localizado em Divinópolis",
+  "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWTdWSFZab3VYdVYxeUUxdXVhaUV3ZTB0SnZ5OFVRQmlGMjlKbGpxa2N5d2pJQnpVWTAyWEhULWxkWFgtcXBCeDFYY1c1enF1LVZQYzJtOEFfbUgwRHM4LUhfSmtlQU02Y0FfNnQtWWp4Rm9DTWZTYTJvRFMzdHZYRTFPTVR5VzdWMVd6LWpCU19ZRE41amdkRkVSeG0tX3JacXAtMGhVWnQ2bUNZTTl1OUFab25qSnNtTmZOM1pfYVhKZ2VqZm82Z1NzNkd0RWtQT25TS1FBUELSAecBQVVfeXFMTl9OQTZmQXhxcUZDR3lOVVBzeXlQSVBwQUtXYUFNcWpwYVd2eF9GUE1HMFI2dXlUT2pDZ3NMbmZvcENOUHpBUWE5RVB5Z19ESVFyd2ZndmhGcjdOX0dFR1dWbzY2cXZ4cTVEWnFxbFViejA1Z0JrOVBUUUV0NXZNUW1YSFdpSFppZWllTG1SYmdoRFlObDJrNHphaTNDc3RiT2tDaHhsREd4SE0tT3pPSnJ4dDl2X0ktdFlzUERoWE1IZXNXYTUwUXR1YU9VLThhV0lMLUVyN0FMcDg4czh5SU44NFJjMkdZ?oc=5",
+  "d": "2026-11-25",
+  "df": "25 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Bahia tem 19 casos de Mpox em 2026; Brasil chega a 1.499 no ano",
+  "u": "https://www.cnnbrasil.com.br/saude/bahia-tem-19-casos-de-mpox-em-2026-brasil-chega-a-1-499-no-ano/",
+  "d": "2026-11-25",
+  "df": "25 nov 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Investigação de Surto",
+  "u": "https://goias.gov.br/saude/investigacao-de-surto/",
+  "d": "2026-11-25",
+  "df": "25 nov 2026",
+  "f": "SES-GO",
+  "fn": "SES-GO | Notícias",
+  "e": "Brasil",
+  "a": [],
+  "p": 8.0,
+  "se": "2026-47",
+  "r": "A investigação de campo de surtos e emergências em saúde pública conduzida pela vigilância epidemiológica estadual é orientada pelas diretrizes científicas do Sistema Único de Saúde (SUS) e do Ministério da Saúde. Para assegurar uma resposta oportuna…",
+  "i": "alerta",
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Casos de Covid-19 disparam em Juiz de Fora e novembro registra maior número de confirmações do ano",
@@ -70,6 +195,187 @@
   "i": "fungo",
   "m": [],
   "c": "atencao"
+ },
+ {
+  "t": "Com alerta de chuvas fortes, Rio suspende aulas na rede pública",
+  "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/com-alerta-de-chuvas-fortes-rio-suspende-aulas-na-rede-publica",
+  "d": "2026-11-25",
+  "df": "25 nov 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Geral",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "Com alerta de fortes chuvas, o governo do Rio de Janeiro suspendeu as aulas em toda a rede estadual desde as 17h. A Faetec, a Universidade do Estado do Rio (Uerj) e a Universidade Federal do Rio de Janeiro (UFRJ) também suspenderam as aulas nesta…",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Tempestades e frente fria devem atingir Centro-Sul até sexta-feira",
+  "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/tempestades-e-frente-fria-devem-atingir-centro-sul-ate-sexta-feira",
+  "d": "2026-11-25",
+  "df": "25 nov 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Geral",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "A passagem de uma frente fria deve provocar tempestades e acumulados elevados de chuva em áreas das regiões Sul, Sudeste e Centro-Oeste entre esta quarta-feira (25) e sexta-feira (27), segundo o Instituto Nacional de Meteorologia (Inmet) . Após o fenômeno, as…",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Sarna humana: escola de Divinópolis confirma 15 casos e suspende aulas",
+  "u": "https://g1.globo.com/google/amp/mg/centro-oeste/noticia/2026/11/25/sarna-humana-aulas-sao-suspensas-em-escola-de-divinopolis-apos-15-casos-confirmados.ghtml",
+  "d": "2026-11-25",
+  "df": "25 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Escabiose"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "saude",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Região de Governador Valadares registra duas mortes por Covid-19 e 964 casos em uma semana",
+  "u": "https://g1.globo.com/google/amp/mg/vales-mg/noticia/2026/11/25/regiao-de-governador-valadares-registra-duas-mortes-por-covid-19-e-964-casos-em-uma-semana.ghtml",
+  "d": "2026-11-25",
+  "df": "25 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Covid-19: Bom Jesus do Itabapoana tem duas pessoas internadas e 10 casos registrados em 2026",
+  "u": "https://g1.globo.com/google/amp/rj/norte-fluminense/noticia/2026/11/25/covid-19-bom-jesus-tem-duas-pessoas-internadas-e-10-casos-registrados-em-2026.ghtml",
+  "d": "2026-11-25",
+  "df": "25 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Casos de dengue disparam quase 170% e Jataí registra nove mortes pela doença",
+  "u": "https://g1.globo.com/go/goias/videos-ja-1-edicao/video/casos-de-dengue-disparam-quase-170-e-jatai-registra-nove-mortes-pela-doenca-15280947.ghtml",
+  "d": "2026-11-25",
+  "df": "25 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Catalão registra mais de 700 casos de dengue em 2026",
+  "u": "https://g1.globo.com/go/goias/videos-ja-1-edicao/video/catalao-registra-mais-de-700-casos-de-dengue-em-2026-15281268.ghtml",
+  "d": "2026-11-25",
+  "df": "25 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Measles surging is ‘a different kind of heartbreak’",
+  "u": "https://edition.cnn.com/2026/11/25/health/video/chasing-life-sanjay-gupta-reich-measles-heartbreak-vod-vrtc",
+  "d": "2026-11-25",
+  "df": "25 nov 2026",
+  "f": "CNN",
+  "fn": "CNN",
+  "e": "Internacional",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 6.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Before the vaccine, measles left a painful legacy",
+  "u": "https://edition.cnn.com/2026/11/25/health/video/chasing-life-sanjay-gupta-reich-measles-legacy-vod-vrtc",
+  "d": "2026-11-25",
+  "df": "25 nov 2026",
+  "f": "CNN",
+  "fn": "CNN",
+  "e": "Internacional",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 6.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "WHO recommends new oral treatment option for gonorrhoea and reports new data on antimicrobial resistance",
+  "u": "https://www.who.int/news/item/25-11-2026-who-recommends-new-oral-treatment-option-for-gonorrhoea-and-reports-new-data-on-antimicrobial-resistance",
+  "d": "2026-11-25",
+  "df": "25 nov 2026",
+  "f": "OMS",
+  "fn": "OMS | Notícias",
+  "e": "Internacional",
+  "a": [
+   "Resistência antimicrobiana",
+   "HIV/aids e IST"
+  ],
+  "p": 5.0,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Influenza A(H5N1) - United States of America",
@@ -586,6 +892,24 @@
   "i": "clima",
   "m": [],
   "c": "monitoramento"
+ },
+ {
+  "t": "Reconhecida emergência em duas cidades alagoanas afetadas por estiagem",
+  "u": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-em-duas-cidades-alagoanas-afetadas-por-estiagem",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "www.gov.br",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "HDT leva informações sobre prevenção do HIV e outras ISTs a mais de 100 jovens",
