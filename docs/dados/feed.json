@@ -1,5 +1,77 @@
 [
  {
+  "t": "RN confirma mais um caso de mpox e chega a 19 em 2026",
+  "u": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/25/rn-confirma-mais-um-caso-de-mpox-e-chega-a-19-em-2026.ghtml",
+  "d": "2026-11-25",
+  "df": "25 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Casos de Covid-19 disparam em Juiz de Fora e novembro registra maior número de confirmações do ano",
+  "u": "https://g1.globo.com/google/amp/mg/zona-da-mata/noticia/2026/11/25/casos-de-covid-19-disparam-em-juiz-de-fora-e-novembro-registra-maior-numero-de-confirmacoes-do-ano.ghtml",
+  "d": "2026-11-25",
+  "df": "25 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Explosão de casos faz MS chegar a 1,1 mil infectados por sarna humana em 44 cidades",
+  "u": "https://g1.globo.com/google/amp/ms/mato-grosso-do-sul/noticia/2026/11/25/explosao-de-casos-faz-ms-chegar-a-11-mil-infectados-por-sarna-humana-em-44-cidades.ghtml",
+  "d": "2026-11-25",
+  "df": "25 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Escabiose"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "saude",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Gatos machos, não castrados e com acesso à rua são maioria entre casos de esporotricose no RS; estado registra quase 1,5 mil casos em pessoas",
+  "u": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/25/perfil-animais-esporotricose-rs.ghtml",
+  "d": "2026-11-25",
+  "df": "25 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Micoses endêmicas"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "fungo",
+  "m": [],
+  "c": "atencao"
+ },
+ {
   "t": "Influenza A(H5N1) - United States of America",
   "u": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON629",
   "d": "2026-11-24",
@@ -149,6 +221,24 @@
   "m": [
    "Distrito Federal"
   ],
+  "c": "alerta"
+ },
+ {
+  "t": "Epidemiological Alert - Mpox in the Americas Region - 24 November 2026",
+  "u": "https://www.paho.org/en/documents/epidemiological-alert-mpox-americas-region-24-november-2026",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "OPAS",
+  "fn": "OPAS | Alertas e atualizações epidemiológicas",
+  "e": "Américas",
+  "a": [
+   "Mpox"
+  ],
+  "p": 12.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
   "c": "alerta"
  },
  {
@@ -388,6 +478,26 @@
   "i": "respiratorio",
   "m": [],
   "c": "alerta"
+ },
+ {
+  "t": "Governo de Goiás mobiliza municípios para intensificar combate à dengue, zika e chikungunya",
+  "u": "https://goias.gov.br/saude/governo-de-goias-mobiliza-municipios-para-intensificar-combate-a-dengue-zika-e-chikungunya/",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "SES-GO",
+  "fn": "SES-GO | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Zika",
+   "Dengue",
+   "Chikungunya"
+  ],
+  "p": 9.0,
+  "se": "2026-47",
+  "r": "Dia D de Combate ao Aedes aegypti reúne ações de limpeza, vacinação, visitas domiciliares e orientação à população; estado registra aumento de 19% nos casos de dengue em 2026",
+  "i": "mosquito",
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "A Defesa Civil emite alerta para condição de risco MODERADO para deslizamentos pontuais em Veranópolis",
@@ -12299,25 +12409,6 @@
   "se": "2026-34",
   "r": "This report describes CDC's nowcast model that provided real-time estimates of measles case counts during outbreaks in South Carolina.",
   "i": "virus",
-  "m": [],
-  "c": "alerta"
- },
- {
-  "t": "Epidemiological Update Avian Influenza A(H5) in the Americas Region - 26 August 2026",
-  "u": "https://www.paho.org/en/documents/epidemiological-update-avian-influenza-ah5-americas-region-26-august-2026",
-  "d": "2026-08-26",
-  "df": "26 ago 2026",
-  "f": "OPAS",
-  "fn": "OPAS | Alertas e atualizações epidemiológicas",
-  "e": "Américas",
-  "a": [
-   "Influenza por novo subtipo",
-   "Influenza e vírus respiratórios"
-  ],
-  "p": 13.0,
-  "se": "2026-34",
-  "r": "",
-  "i": "respiratorio",
   "m": [],
   "c": "alerta"
  }

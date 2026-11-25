@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-11-25T02:25:30+00:00",
+  "em": "2026-11-25T12:50:40+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,9 +10,9 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-11-25T02:25:30+00:00",
+  "em": "2026-11-25T12:50:40+00:00",
   "lidos": 40,
-  "novos": 3,
+  "novos": 0,
   "exemplos": [
    "WHO calls for stronger parliamentary leadership for global health at the 153rd Inter-Parliamentary Union Assembly",
    "Advancing the timely and ethical inclusion of pregnant and lactating women in clinical trials",
@@ -20,17 +20,17 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-11-25T02:25:30+00:00",
-  "lidos": 16,
-  "novos": 0,
+  "em": "2026-11-25T12:50:40+00:00",
+  "lidos": 15,
+  "novos": 1,
   "exemplos": [
+   "Epidemiological Alert - Mpox in the Americas Region - 24 November 2026",
    "Epidemiological Alert:  Collection and consumption of wild mushrooms in the Americas Region - 17 November 2026",
-   "Epidemiological Alert - Seasonal Influenza and Other Respiratory Viruses: Start of the Season in the Northern Hemisphere",
-   "Epidemiological Update: Dengue and Chikungunya in the Americas Region - 20 October 2026"
+   "Epidemiological Alert - Seasonal Influenza and Other Respiratory Viruses: Start of the Season in the Northern Hemisphere"
   ]
  },
  "opas-noticias": {
-  "em": "2026-11-25T02:25:30+00:00",
+  "em": "2026-11-25T12:50:40+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-11-25T02:25:30+00:00",
+  "em": "2026-11-25T12:50:40+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-11-25T02:25:30+00:00",
+  "em": "2026-11-25T12:50:40+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-11-25T02:25:30+00:00",
+  "em": "2026-11-25T12:50:40+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-11-25T02:25:30+00:00",
+  "em": "2026-11-25T12:50:40+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-11-25T02:25:30+00:00",
+  "em": "2026-11-25T12:50:40+00:00",
   "lidos": 2354,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-11-25T02:25:30+00:00",
+  "em": "2026-11-25T12:50:40+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,19 +100,13 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-11-25T02:25:30+00:00",
-  "lidos": 15,
-  "novos": 9,
-  "exemplos": [
-   "Ministério da Saúde e UNFPA abrem seleção para consultoria especializada em saúde sexual e reprodutiva",
-   "Transmissão de casos importados de sarampo é encerrada em São Paulo após três meses sem novos registros",
-   "Brasil e Reino Unido trocam experiências para ampliar o acesso ao diagnóstico e ao tratamento do câncer"
-  ]
+  "em": "2026-11-25T12:50:40+00:00",
+  "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
  },
  "fiocruz": {
-  "em": "2026-11-25T02:25:30+00:00",
+  "em": "2026-11-25T12:50:40+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Sarau na Fiocruz Mata Atlântica debate saúde e ecologia",
    "3ª Conferência de Promoção da Saúde da Fiocruz celebra marcos históricos e debate perspectivas para o futuro",
@@ -120,29 +114,29 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-11-25T02:25:30+00:00",
+  "em": "2026-11-25T12:50:40+00:00",
   "lidos": 10,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "Estoque do Hemorio atende emergência em mais de 100 hospitais públicos",
    "Cidade de São Paulo encerra transmissão de casos importados de sarampo",
-   "Anvisa determina apreensão de água mineral por falhas na fabricação",
-   "Bolsonaro é diagnosticado com pneumonia e continuará internado"
+   "Anvisa determina apreensão de água mineral por falhas na fabricação"
   ]
  },
  "ses-go": {
-  "em": "2026-11-25T02:25:30+00:00",
+  "em": "2026-11-25T12:50:40+00:00",
   "lidos": 10,
-  "novos": 4,
+  "novos": 6,
   "exemplos": [
-   "Crer capacita colaboradores para reconhecimento e atendimento de emergências clínicas",
-   "Encontro Anual dos SESMTs da Saúde de Goiás debate responsabilidade na gestão hospitalar e segurança do trabalho",
-   "SES conquista Prêmio de Inovação do Setor Público de Goiás com projeto de gestão inteligente da rede hospitalar"
+   "Escala Ceesmi – Dezembro",
+   "Escala Ceap-Sol – Dezembro",
+   "Extrato do Termo de Doação n.º 515/2026 – SES/GO"
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-11-25T02:25:30+00:00",
+  "em": "2026-11-25T12:50:40+00:00",
   "lidos": 10,
-  "novos": 2,
+  "novos": 0,
   "exemplos": [
    "Mega-Sena acumula para R$ 75 milhões; confira os números sorteados",
    "Superlua pode ser observada nesta terça-feira; veja melhor horário",
@@ -150,9 +144,9 @@
   ]
  },
  "g1-busca": {
-  "em": "2026-11-25T02:25:30+00:00",
-  "lidos": 411,
-  "novos": 7,
+  "em": "2026-11-25T12:50:40+00:00",
+  "lidos": 424,
+  "novos": 4,
   "exemplos": [
    "Mal súbito: como prevenir e quais os primeiros socorros em casos suspeitos",
    "Piracicaba estima 14 mil casos suspeitos de dengue em 2027, aponta Saúde",
@@ -160,9 +154,9 @@
   ]
  },
  "metropoles-busca": {
-  "em": "2026-11-25T02:25:30+00:00",
-  "lidos": 57,
-  "novos": 1,
+  "em": "2026-11-25T12:50:40+00:00",
+  "lidos": 55,
+  "novos": 0,
   "exemplos": [
    "Febre amarela: MG tem 33 macacos infectados e vacinação abaixo da meta",
    "Ministro da Educação da Coreia do Sul renuncia após fraudes com uso de IA",
@@ -170,73 +164,55 @@
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-11-25T02:25:30+00:00",
+  "em": "2026-11-25T12:50:40+00:00",
   "lidos": 25,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
-   "São Paulo deve começar vacinação contra Mpox nesta quarta-feira (25)",
-   "Após 3 meses, SP encerra surto de sarampo; estado chegou a 41 casos em 2026",
-   "Brasil prevê iniciar testes de vacina contra o câncer em 2027, diz Saúde"
+   "Menos sexo e mais telas: o que mudou nos hábitos dos jovens na cama?",
+   "Estudo aponta diferenças raciais e de idade na ação de antidepressivos",
+   "Adeus aos seios volumosos? entenda porque mulheres estão reduzindo próteses"
   ]
  },
  "cnn-saude": {
-  "em": "2026-11-25T02:25:30+00:00",
+  "em": "2026-11-25T12:50:40+00:00",
   "lidos": 18,
   "novos": 0,
   "exemplos": [
-   "The CDC stays quiet on flu as an early season catches many Americans off-guard",
    "This runner has completed over 70 marathons. This year, she ran 7 of them while pregnant",
-   "Why SNL’s ‘Sister’ sketch hit a nerve about the reality of caregiving"
+   "Why SNL’s ‘Sister’ sketch hit a nerve about the reality of caregiving",
+   "The US has had the tools to control measles for almost 65 years. Here’s how it’s come raging back"
   ]
  },
  "cnn-busca": {
-  "em": "2026-11-25T02:25:30+00:00",
-  "lidos": 41,
+  "em": "2026-11-25T12:50:40+00:00",
+  "lidos": 40,
   "novos": 0,
   "exemplos": [
    "The CDC stays quiet on flu as an early season catches many Americans off-guard",
-   "FEMA is dealing with its own emergency: bed bugs",
-   "Army details plan to contain lead dust ahead of Wednesday detonation in Iowa"
+   "Storms to hit both coasts, threatening Thanksgiving travel for millions and Macy’s 100th parade",
+   "3 killed and 1 wounded in shooting at Ohio baby shower, police say; 1 man in custody"
   ]
  },
  "inmet": {
-  "em": "2026-11-25T02:25:30+00:00",
-  "lidos": 10,
-  "novos": 0,
-  "exemplos": [
-   "Previsão para terça-feira (24), quarta-feira (25) e quinta-feira (26)",
-   "INMET emite aviso vermelho para tempestades no Sul e explica condições atmosféricas que favoreceram tempestades em Tupan",
-   "INMET divulga previsão para semana de 23 a 30 de novembro de 2026"
-  ]
+  "em": "2026-11-25T12:50:40+00:00",
+  "erro": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
  },
  "cemaden": {
-  "em": "2026-11-25T02:25:30+00:00",
-  "lidos": 8,
-  "novos": 0,
-  "exemplos": [
-   "Boletim de Impactos de Extremos de Origem Hidro-Geo-Climático em Atividades Estratégicas para o Brasil",
-   "Estado do Clima, Extremos de Clima e Desastres no Brasil",
-   "5. Agrometeorologia e Incêndios Florestais"
-  ]
+  "em": "2026-11-25T12:50:40+00:00",
+  "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
  },
  "defesa-civil-busca": {
-  "em": "2026-11-25T02:25:30+00:00",
-  "lidos": 42,
-  "novos": 5,
-  "exemplos": [
-   "Lançamento de guia para o Programa Defesa Civil nas Escolas é tema de debate",
-   "Autorizado repasse de R$ 7,2 milhões para ações de defesa civil no Amazonas",
-   "Equipe da Defesa Civil Nacional presta socorro a Tupanciretã (RS)"
-  ]
+  "em": "2026-11-25T12:50:40+00:00",
+  "erro": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Defesa%20Civil%20Nacional%22%20when%3A7d&hl=pt-BR&gl=BR&ceid=BR:pt-419"
  },
  "correio-braziliense-df": {
-  "em": "2026-11-25T02:25:30+00:00",
-  "lidos": 22,
-  "novos": 20,
+  "em": "2026-11-25T12:50:40+00:00",
+  "lidos": 20,
+  "novos": 8,
   "exemplos": [
-   "Condenado por assassinar mulher e forjar suicídio é preso em padaria do DF",
-   "Celina Leão assina ordem de serviço para ampliar drenagem em Ceilândia",
-   "Mulher sofre tentativa de estupro e se defende ao aplicar golpes de jiu-jítsu"
+   "Conheça a rotina do Hfaus até o retorno dos animais à natureza",
+   "Mulher sofre tentativa de estupro e se defende ao aplicar golpes de jiu-jítsu",
+   "GDF barra fraude fiscal de R$ 2 bilhões com grãos, sucatas e importados"
   ]
  }
 }
