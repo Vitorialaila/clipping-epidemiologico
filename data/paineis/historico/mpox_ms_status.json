@@ -1,25 +1,25 @@
 {
- "quando": "2026-11-24T14:50",
+ "quando": "2026-11-24T23:36",
  "ok": true,
  "motivo": "ok",
  "url": "https://www.gov.br/saude/pt-br/composicao/svsa/cnie/painel-mpox",
- "confirmados": 1429,
- "provaveis": 54,
- "suspeitos": 1280,
- "dados_ate": "2026-11-23",
+ "confirmados": 1499,
+ "provaveis": 56,
+ "suspeitos": 1484,
+ "dados_ate": "2026-11-24",
  "por_classe": {
   "null": 36,
-  "Confirmado": 1429,
-  "Descartado": 3693,
-  "Provável": 54,
-  "Suspeito": 1280,
-  "Perda de seguimento": 649,
+  "Confirmado": 1499,
+  "Descartado": 3807,
+  "Provável": 56,
+  "Suspeito": 1484,
+  "Perda de seguimento": 653,
   "Exclusão": 40
  },
  "datas": [
   [
    1767225600000,
-   1795392000000
+   1795478400000
   ]
  ],
  "semana_vs_notificacao": [
@@ -61,7 +61,7 @@
   [
    48,
    "2026-11-23",
-   "2026-11-23"
+   "2026-11-24"
   ]
  ]
 }

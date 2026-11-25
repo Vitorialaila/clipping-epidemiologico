@@ -1,8 +1,8 @@
 {
  "oms-don": {
-  "em": "2026-11-24T17:40:27+00:00",
+  "em": "2026-11-25T02:25:30+00:00",
   "lidos": 30,
-  "novos": 2,
+  "novos": 0,
   "exemplos": [
    "Influenza A(H5N1) - United States of America",
    "Circulating vaccine-derived poliovirus type 1 – Syrian Arab Republic",
@@ -10,17 +10,17 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-11-24T17:40:27+00:00",
+  "em": "2026-11-25T02:25:30+00:00",
   "lidos": 40,
-  "novos": 6,
+  "novos": 3,
   "exemplos": [
-   "Call for consultant expressions of interest: ICHI Traditional Medicine code set development",
-   "Countries face critical gaps in health inequality monitoring systems",
-   "WHO and China’s National Institutes for Drug Control sign agreement to strengthen access to quality-assured in vitro dia"
+   "WHO calls for stronger parliamentary leadership for global health at the 153rd Inter-Parliamentary Union Assembly",
+   "Advancing the timely and ethical inclusion of pregnant and lactating women in clinical trials",
+   "WHO Director-General announces support for vaccines, medical equipment during official visit to Cuba"
   ]
  },
  "opas-alertas": {
-  "em": "2026-11-24T17:40:27+00:00",
+  "em": "2026-11-25T02:25:30+00:00",
   "lidos": 16,
   "novos": 0,
   "exemplos": [
@@ -30,9 +30,9 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-11-24T17:40:27+00:00",
+  "em": "2026-11-25T02:25:30+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Suriname joins the Alliance for Primary Health Care in the Americas",
    "PAHO Director reaffirms cooperation with Peru to strengthen the health system and address health priorities",
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-11-24T17:40:27+00:00",
+  "em": "2026-11-25T02:25:30+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-11-24T17:40:27+00:00",
+  "em": "2026-11-25T02:25:30+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-11-24T17:40:27+00:00",
+  "em": "2026-11-25T02:25:30+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-11-24T17:40:27+00:00",
+  "em": "2026-11-25T02:25:30+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-11-24T17:40:27+00:00",
+  "em": "2026-11-25T02:25:30+00:00",
   "lidos": 2354,
   "novos": 0,
   "exemplos": [
@@ -90,9 +90,9 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-11-24T17:40:27+00:00",
+  "em": "2026-11-25T02:25:30+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "CPHIA 2026 Opens with Focus on Health Sovereignty and Action",
    "One in six pregnancies is to an adolescent girl, yet only one health facility in eight offers services built for young p",
@@ -100,23 +100,29 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-11-24T17:40:27+00:00",
-  "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+  "em": "2026-11-25T02:25:30+00:00",
+  "lidos": 15,
+  "novos": 9,
+  "exemplos": [
+   "Ministério da Saúde e UNFPA abrem seleção para consultoria especializada em saúde sexual e reprodutiva",
+   "Transmissão de casos importados de sarampo é encerrada em São Paulo após três meses sem novos registros",
+   "Brasil e Reino Unido trocam experiências para ampliar o acesso ao diagnóstico e ao tratamento do câncer"
+  ]
  },
  "fiocruz": {
-  "em": "2026-11-24T17:40:27+00:00",
+  "em": "2026-11-25T02:25:30+00:00",
   "lidos": 10,
-  "novos": 5,
+  "novos": 1,
   "exemplos": [
+   "Sarau na Fiocruz Mata Atlântica debate saúde e ecologia",
    "3ª Conferência de Promoção da Saúde da Fiocruz celebra marcos históricos e debate perspectivas para o futuro",
-   "Iniciativas da Fiocruz são selecionadas para o Atlas da Inovação em Comunicação Pública do Pnud",
-   "Pesquisa da Fiocruz analisa expansão da dengue no Sul do país"
+   "Iniciativas da Fiocruz são selecionadas para o Atlas da Inovação em Comunicação Pública do Pnud"
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-11-24T17:40:27+00:00",
+  "em": "2026-11-25T02:25:30+00:00",
   "lidos": 10,
-  "novos": 2,
+  "novos": 0,
   "exemplos": [
    "Cidade de São Paulo encerra transmissão de casos importados de sarampo",
    "Anvisa determina apreensão de água mineral por falhas na fabricação",
@@ -124,38 +130,38 @@
   ]
  },
  "ses-go": {
-  "em": "2026-11-24T17:40:27+00:00",
+  "em": "2026-11-25T02:25:30+00:00",
   "lidos": 10,
   "novos": 4,
   "exemplos": [
-   "SES-GO promove oficina para construção da Política Estadual de Alta Responsável",
-   "HDT leva informações sobre prevenção do HIV e outras ISTs a mais de 100 jovens",
-   "Ceap-Sol completa 31 anos com atendimentos gratuitos à população em Goiânia"
+   "Crer capacita colaboradores para reconhecimento e atendimento de emergências clínicas",
+   "Encontro Anual dos SESMTs da Saúde de Goiás debate responsabilidade na gestão hospitalar e segurança do trabalho",
+   "SES conquista Prêmio de Inovação do Setor Público de Goiás com projeto de gestão inteligente da rede hospitalar"
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-11-24T17:40:27+00:00",
+  "em": "2026-11-25T02:25:30+00:00",
   "lidos": 10,
-  "novos": 3,
+  "novos": 2,
   "exemplos": [
-   "PF investiga esquema de lavagem de dinheiro e fraude com criptoativos",
-   "PF faz operação contra captura e tráfico de macacos-prego na Tijuca",
-   "Mega-Sena sorteia prêmio de R$ 65 milhões nesta terça-feira"
+   "Mega-Sena acumula para R$ 75 milhões; confira os números sorteados",
+   "Superlua pode ser observada nesta terça-feira; veja melhor horário",
+   "PF investiga esquema de lavagem de dinheiro e fraude com criptoativos"
   ]
  },
  "g1-busca": {
-  "em": "2026-11-24T17:40:27+00:00",
-  "lidos": 344,
-  "novos": 5,
+  "em": "2026-11-25T02:25:30+00:00",
+  "lidos": 411,
+  "novos": 7,
   "exemplos": [
-   "Piracicaba estima 14 mil casos suspeitos de dengue em 2027, aponta Saúde",
    "Mal súbito: como prevenir e quais os primeiros socorros em casos suspeitos",
+   "Piracicaba estima 14 mil casos suspeitos de dengue em 2027, aponta Saúde",
    "Prefeitura de Montes Claros confirma primeiro caso de Mpox"
   ]
  },
  "metropoles-busca": {
-  "em": "2026-11-24T17:40:27+00:00",
-  "lidos": 50,
+  "em": "2026-11-25T02:25:30+00:00",
+  "lidos": 57,
   "novos": 1,
   "exemplos": [
    "Febre amarela: MG tem 33 macacos infectados e vacinação abaixo da meta",
@@ -164,18 +170,18 @@
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-11-24T17:40:27+00:00",
+  "em": "2026-11-25T02:25:30+00:00",
   "lidos": 25,
   "novos": 1,
   "exemplos": [
+   "São Paulo deve começar vacinação contra Mpox nesta quarta-feira (25)",
    "Após 3 meses, SP encerra surto de sarampo; estado chegou a 41 casos em 2026",
-   "Brasil prevê iniciar testes de vacina contra o câncer em 2027, diz Saúde",
-   "Fio dental inteligente mede glicose e sinais de inflamação na gengiva"
+   "Brasil prevê iniciar testes de vacina contra o câncer em 2027, diz Saúde"
   ]
  },
  "cnn-saude": {
-  "em": "2026-11-24T17:40:27+00:00",
-  "lidos": 23,
+  "em": "2026-11-25T02:25:30+00:00",
+  "lidos": 18,
   "novos": 0,
   "exemplos": [
    "The CDC stays quiet on flu as an early season catches many Americans off-guard",
@@ -184,41 +190,53 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-11-24T17:40:27+00:00",
-  "lidos": 46,
-  "novos": 1,
+  "em": "2026-11-25T02:25:30+00:00",
+  "lidos": 41,
+  "novos": 0,
   "exemplos": [
    "The CDC stays quiet on flu as an early season catches many Americans off-guard",
-   "Storms to hit both coasts, threatening Thanksgiving travel for millions and Macy’s 100th parade",
-   "3 killed and 1 wounded in shooting at Ohio baby shower, police say; 1 man in custody"
+   "FEMA is dealing with its own emergency: bed bugs",
+   "Army details plan to contain lead dust ahead of Wednesday detonation in Iowa"
   ]
  },
  "inmet": {
-  "em": "2026-11-24T17:40:27+00:00",
-  "erro": "503 Server Error: Service Unavailable for url: https://portal.inmet.gov.br/noticias"
+  "em": "2026-11-25T02:25:30+00:00",
+  "lidos": 10,
+  "novos": 0,
+  "exemplos": [
+   "Previsão para terça-feira (24), quarta-feira (25) e quinta-feira (26)",
+   "INMET emite aviso vermelho para tempestades no Sul e explica condições atmosféricas que favoreceram tempestades em Tupan",
+   "INMET divulga previsão para semana de 23 a 30 de novembro de 2026"
+  ]
  },
  "cemaden": {
-  "em": "2026-11-24T17:40:27+00:00",
-  "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+  "em": "2026-11-25T02:25:30+00:00",
+  "lidos": 8,
+  "novos": 0,
+  "exemplos": [
+   "Boletim de Impactos de Extremos de Origem Hidro-Geo-Climático em Atividades Estratégicas para o Brasil",
+   "Estado do Clima, Extremos de Clima e Desastres no Brasil",
+   "5. Agrometeorologia e Incêndios Florestais"
+  ]
  },
  "defesa-civil-busca": {
-  "em": "2026-11-24T17:40:27+00:00",
-  "lidos": 39,
-  "novos": 6,
+  "em": "2026-11-25T02:25:30+00:00",
+  "lidos": 42,
+  "novos": 5,
   "exemplos": [
    "Lançamento de guia para o Programa Defesa Civil nas Escolas é tema de debate",
-   "Governo de Sergipe",
-   "Autorizado repasse de R$ 7,2 milhões para ações de defesa civil no Amazonas"
+   "Autorizado repasse de R$ 7,2 milhões para ações de defesa civil no Amazonas",
+   "Equipe da Defesa Civil Nacional presta socorro a Tupanciretã (RS)"
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-11-24T17:40:27+00:00",
-  "lidos": 20,
-  "novos": 16,
+  "em": "2026-11-25T02:25:30+00:00",
+  "lidos": 22,
+  "novos": 20,
   "exemplos": [
-   "Esquema de apostas ilegais no DF tem R$ 16 milhões bloqueados pela Justiça",
-   "A 22 dias da entrada em vigor da escala 5x2, nova jornada mobiliza empresas",
-   "Capivara é resgatada em estacionamento no Setor de Rádio e TV Sul"
+   "Condenado por assassinar mulher e forjar suicídio é preso em padaria do DF",
+   "Celina Leão assina ordem de serviço para ampliar drenagem em Ceilândia",
+   "Mulher sofre tentativa de estupro e se defende ao aplicar golpes de jiu-jítsu"
   ]
  }
 }

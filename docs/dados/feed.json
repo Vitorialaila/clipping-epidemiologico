@@ -19,6 +19,24 @@
   "c": "alerta"
  },
  {
+  "t": "Após 41 casos confirmados, surto de sarampo é encerrado em São Paulo",
+  "u": "https://www.metropoles.com/sao-paulo/apos-41-casos-confirmados-surto-de-sarampo-e-encerrado-em-sao-paulo",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "Brasil",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 14.0,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Defesa Civil alerta: condição de ALERTA para chuva, granizo e vento que atuam nas proximidades de Soledade",
   "u": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-alerta-para-chuva-granizo-e-vento-que-atuam-nas-proximidades-de-soledade",
   "d": "2026-11-24",
@@ -170,6 +188,24 @@
   "c": "alerta"
  },
  {
+  "t": "Mpox: Uberaba tem primeiro caso confirmado em 2026",
+  "u": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/24/mpox-uberaba-tem-primeiro-caso-confirmado-em-2026.ghtml",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 11.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Defesa Civil de SP alerta para temporais e calor e apoia cidades atingidas pelas chuvas",
   "u": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-de-sp-alerta-para-temporais-e-calor/",
   "d": "2026-11-24",
@@ -245,6 +281,42 @@
   "c": "atencao"
  },
  {
+  "t": "Transmissão de casos importados de sarampo é encerrada em São Paulo após três meses sem novos registros",
+  "u": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/transmissao-de-casos-importados-de-sarampo-e-encerrada-em-sao-paulo-apos-tres-meses-sem-novos-registros",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "MS",
+  "fn": "Ministério da Saúde | Notícias",
+  "e": "Brasil",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 10.0,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "elevação do rio Uruguai. Risco ALTO de inundação em Ira",
+  "u": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-elevacao-do-rio-uruguai-risco-alto-de-inundacao-em-ira",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Defesa Civil do Rio Grande do Sul",
+  "e": "Américas",
+  "a": [
+   "Emergências e desastres"
+  ],
+  "p": 10.0,
+  "se": "2026-47",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "atencao"
+ },
+ {
   "t": "Três casos de Mpox são confirmados no sudoeste da Bahia",
   "u": "https://g1.globo.com/google/amp/ba/bahia/saudenabahia/noticia/2026/11/23/casos-de-mpox-na-bahia.ghtml",
   "d": "2026-11-24",
@@ -261,6 +333,42 @@
   "i": "virus",
   "m": [],
   "c": "alerta"
+ },
+ {
+  "t": "Sobe para 221 o número de casos de Mpox no Ceará em 2026; veja sintomas",
+  "u": "https://g1.globo.com/google/amp/ce/ceara/noticia/2026/11/24/sobe-para-221-o-numero-de-casos-de-mpox-no-ceara-em-2026-veja-sintomas.ghtml",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "São Paulo deve começar vacinação contra Mpox nesta quarta-feira (25)",
+  "u": "https://www.cnnbrasil.com.br/saude/sao-paulo-deve-comecar-vacinacao-contra-mpox-nesta-quarta-feira-25/",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "EUA registram três novos casos de gripe aviária em humanos, incluindo uma morte, informa OMS",
@@ -294,6 +402,78 @@
   "se": "2026-47",
   "r": "",
   "i": "alerta",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Covid-19 e síndromes respiratórias: alta de casos reforça alerta em Boa Vista",
+  "u": "https://g1.globo.com/rr/roraima/videos-jornal-de-roraima-1-edicao/video/covid-19-e-sindromes-respiratorias-alta-de-casos-reforca-alerta-em-boa-vista-15277785.ghtml",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 8.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Escola de Formiga confirma quatro casos de sarna humana e investiga outros seis",
+  "u": "https://g1.globo.com/google/amp/mg/centro-oeste/noticia/2026/11/24/escola-de-formiga-confirma-quatro-casos-de-sarna-humana-e-investiga-outros-seis.ghtml",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Escabiose"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "saude",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Casos de Covid-19 aumentam em Teófilo Otoni",
+  "u": "https://g1.globo.com/mg/vales-mg/videos-2/video/casos-de-covid-19-aumentam-em-teofilo-otoni-15278537.ghtml",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Defesa Civil mobiliza Gabinete Especial da Operação El Niño para monitorar chuvas intensas nesta quarta (25) e quinta-feira (26)",
+  "u": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-gabinete-el-nino/",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "agenciasp.sp.gov.br",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "clima",
   "m": [],
   "c": "monitoramento"
  },
@@ -533,6 +713,24 @@
   "i": "virus",
   "m": [],
   "c": "alerta"
+ },
+ {
+  "t": "Defesa Civil emite alerta para risco de tempestade para esta terça-feira, 24",
+  "u": "https://www.maringa.pr.gov.br/noticias/defesa-civil-emite-alerta-para-risco-de-tempestade-para-esta-terca-feira-24/43602",
+  "d": "2026-11-23",
+  "df": "23 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura do Município de Maringá",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 9.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Aracaju registra aumento de casos de chikungunya",
@@ -1086,6 +1284,24 @@
   "c": "monitoramento"
  },
  {
+  "t": "elevação do rio Taquari. Risco ALTO de inundação em Lajeado",
+  "u": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-elevacao-do-rio-taquari-risco-alto-de-inundacao-em-lajeado",
+  "d": "2026-11-20",
+  "df": "20 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Defesa Civil do Rio Grande do Sul",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres"
+  ],
+  "p": 11.0,
+  "se": "2026-46",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "atencao"
+ },
+ {
   "t": "DF está sob aviso laranja para tempestades neste feriado (20/11)",
   "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7541753-df-esta-sob-aviso-laranja-para-tempestades-neste-feriado-20-11.html",
   "d": "2026-11-20",
@@ -1198,6 +1414,42 @@
   "c": "monitoramento"
  },
  {
+  "t": "Londrina tem três casos de mpox",
+  "u": "https://g1.globo.com/pr/parana/videos-bom-dia-parana/video/londrina-tem-tres-casos-de-mpox-15266595.ghtml",
+  "d": "2026-11-20",
+  "df": "20 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Você Viu? Desafio por GTA 6, suspeita de Mpox e funcionário com sintomas de AVC",
+  "u": "https://g1.globo.com/mg/centro-oeste/video/voce-viu-desafio-por-gta-6-suspeita-de-mpox-e-funcionario-com-sintomas-de-avc-15268567.ghtml",
+  "d": "2026-11-20",
+  "df": "20 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Defesa Civil monitora chuvas em SP após envio de 33 alertas; temporais atingem quatro cidades do Vale do Ribeira",
   "u": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-monitora-chuvas-em-sp-apos-envio-de-33-alertas-temporais-atingem-quatro-cidades-do-vale-do-ribeira/",
   "d": "2026-11-20",
@@ -1233,6 +1485,22 @@
   "i": "respiratorio",
   "m": [],
   "c": "alerta"
+ },
+ {
+  "t": "A Defesa Civil emite alerta para condição de risco MODERADO para deslizamentos pontuais em Caxias do Sul",
+  "u": "https://www.defesacivil.rs.gov.br/a-defesa-civil-emite-alerta-para-condicao-de-risco-moderado-para-deslizamentos-pontuais-em-caxias-do-sul-6b009f267da5e",
+  "d": "2026-11-20",
+  "df": "20 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Defesa Civil do Rio Grande do Sul",
+  "e": "Brasil",
+  "a": [],
+  "p": 8.5,
+  "se": "2026-46",
+  "r": "",
+  "i": "alerta",
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Levantamento mostra maioria dos focos da dengue dentro de imóveis em Poços de Caldas",
