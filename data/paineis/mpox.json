@@ -2,7 +2,7 @@
  "nome": "Mpox no Brasil, 2026",
  "sigla": "MPOX",
  "descricao": "Casos de mpox notificados em 2026, por classificação final, segundo o Painel de Mpox do Ministério da Saúde (e-SUS Sinan). Notificações até 25/11/2026 (SE 47).",
- "atualizado_em": "2026-11-26T02:03:36.129141",
+ "atualizado_em": "2026-11-26T12:23:52.129472",
  "fonte_dados": "Ministério da Saúde, Painel de Mpox (CNIE)",
  "serie_temporal": [],
  "distribuicao_geografica": [],
@@ -14836,79 +14836,9 @@
        "size": 11
       },
       "showarrow": false,
-      "text": "<b>MG</b> 75",
-      "x": -43.847663870412276,
-      "y": -18.58
-     },
-     {
-      "bgcolor": "rgba(255,255,255,.85)",
-      "bordercolor": "#0A3570",
-      "borderpad": 2,
-      "borderwidth": 1,
-      "font": {
-       "color": "#0A3570",
-       "size": 11
-      },
-      "showarrow": false,
-      "text": "<b>SC</b> 28",
-      "x": -48.514786313799824,
-      "y": -27.65
-     },
-     {
-      "bgcolor": "rgba(255,255,255,.85)",
-      "bordercolor": "#0A3570",
-      "borderpad": 2,
-      "borderwidth": 1,
-      "font": {
-       "color": "#0A3570",
-       "size": 11
-      },
-      "showarrow": false,
-      "text": "<b>RO</b> 20",
-      "x": -61.5361549604237,
-      "y": -10.83
-     },
-     {
-      "bgcolor": "rgba(255,255,255,.85)",
-      "bordercolor": "#0A3570",
-      "borderpad": 2,
-      "borderwidth": 1,
-      "font": {
-       "color": "#0A3570",
-       "size": 11
-      },
-      "showarrow": false,
-      "text": "<b>RS</b> 21",
-      "x": -52.22131598817413,
-      "y": -30.42
-     },
-     {
-      "bgcolor": "rgba(255,255,255,.85)",
-      "bordercolor": "#0A3570",
-      "borderpad": 2,
-      "borderwidth": 1,
-      "font": {
-       "color": "#0A3570",
-       "size": 11
-      },
-      "showarrow": false,
       "text": "<b>PR</b> 20",
       "x": -50.280724535622134,
       "y": -24.59
-     },
-     {
-      "bgcolor": "rgba(255,255,255,.85)",
-      "bordercolor": "#0A3570",
-      "borderpad": 2,
-      "borderwidth": 1,
-      "font": {
-       "color": "#0A3570",
-       "size": 11
-      },
-      "showarrow": false,
-      "text": "<b>CE</b> 205",
-      "x": -38.200542743485975,
-      "y": -5.32
      },
      {
       "bgcolor": "rgba(255,255,255,.85)",
@@ -14934,9 +14864,9 @@
        "size": 11
       },
       "showarrow": false,
-      "text": "<b>DF</b> 76",
-      "x": -46.37043275872987,
-      "y": -15.79
+      "text": "<b>RJ</b> 465",
+      "x": -40.82034120443117,
+      "y": -22.07
      },
      {
       "bgcolor": "rgba(255,255,255,.85)",
@@ -14948,9 +14878,9 @@
        "size": 11
       },
       "showarrow": false,
-      "text": "<b>RJ</b> 465",
-      "x": -40.82034120443117,
-      "y": -22.07
+      "text": "<b>SC</b> 28",
+      "x": -48.514786313799824,
+      "y": -27.65
      },
      {
       "bgcolor": "rgba(255,255,255,.85)",
@@ -14979,6 +14909,76 @@
       "text": "<b>PB</b> 24",
       "x": -35.648664983380115,
       "y": -7.17
+     },
+     {
+      "bgcolor": "rgba(255,255,255,.85)",
+      "bordercolor": "#0A3570",
+      "borderpad": 2,
+      "borderwidth": 1,
+      "font": {
+       "color": "#0A3570",
+       "size": 11
+      },
+      "showarrow": false,
+      "text": "<b>MG</b> 75",
+      "x": -43.847663870412276,
+      "y": -18.58
+     },
+     {
+      "bgcolor": "rgba(255,255,255,.85)",
+      "bordercolor": "#0A3570",
+      "borderpad": 2,
+      "borderwidth": 1,
+      "font": {
+       "color": "#0A3570",
+       "size": 11
+      },
+      "showarrow": false,
+      "text": "<b>DF</b> 76",
+      "x": -46.37043275872987,
+      "y": -15.79
+     },
+     {
+      "bgcolor": "rgba(255,255,255,.85)",
+      "bordercolor": "#0A3570",
+      "borderpad": 2,
+      "borderwidth": 1,
+      "font": {
+       "color": "#0A3570",
+       "size": 11
+      },
+      "showarrow": false,
+      "text": "<b>RO</b> 20",
+      "x": -61.5361549604237,
+      "y": -10.83
+     },
+     {
+      "bgcolor": "rgba(255,255,255,.85)",
+      "bordercolor": "#0A3570",
+      "borderpad": 2,
+      "borderwidth": 1,
+      "font": {
+       "color": "#0A3570",
+       "size": 11
+      },
+      "showarrow": false,
+      "text": "<b>CE</b> 205",
+      "x": -38.200542743485975,
+      "y": -5.32
+     },
+     {
+      "bgcolor": "rgba(255,255,255,.85)",
+      "bordercolor": "#0A3570",
+      "borderpad": 2,
+      "borderwidth": 1,
+      "font": {
+       "color": "#0A3570",
+       "size": 11
+      },
+      "showarrow": false,
+      "text": "<b>RS</b> 21",
+      "x": -52.22131598817413,
+      "y": -30.42
      }
     ],
     "font": {

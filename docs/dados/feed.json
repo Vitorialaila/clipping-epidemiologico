@@ -1,5 +1,60 @@
 [
  {
+  "t": "MPOX no RN: 19 casos confirmados e 56 em investigação",
+  "u": "https://g1.globo.com/rn/rio-grande-do-norte/videos-rntv-2-edicao/video/mpox-no-rn-19-casos-confirmados-e-56-em-investigacao-15282234.ghtml",
+  "d": "2026-11-26",
+  "df": "26 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 12.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Por que o Brasil vive surto de mpox? O que se sabe — e o que não se sabe — sobre os novos casos da doença",
+  "u": "https://g1.globo.com/saude/noticia/2026/11/26/por-que-o-brasil-vive-surto-de-mpox-o-que-se-sabe-e-o-que-nao-se-sabe-sobre-os-novos-casos-da-doenca.ghtml",
+  "d": "2026-11-26",
+  "df": "26 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 12.0,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Chuvas em Ubatuba causam alagamentos, quedas de árvore e deslizamentos",
+  "u": "https://www.ubatuba.sp.gov.br/noticias/balan%C3%A7odefesacivil261126",
+  "d": "2026-11-26",
+  "df": "26 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura de Ubatuba",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 11.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "atencao"
+ },
+ {
   "t": "PAHO calls for stronger surveillance amid increase in mpox cases in the Americas",
   "u": "https://www.paho.org/en/news/25-11-2026-paho-calls-stronger-surveillance-amid-increase-mpox-cases-americas",
   "d": "2026-11-26",
@@ -16,6 +71,133 @@
   "i": "virus",
   "m": [],
   "c": "alerta"
+ },
+ {
+  "t": "InfoGripe: casos de Covid-19 seguem aumentando no Brasil",
+  "u": "https://agencia.fiocruz.br/infogripe-casos-de-covid-19-seguem-aumentando-no-brasil",
+  "d": "2026-11-26",
+  "df": "26 nov 2026",
+  "f": "Fiocruz",
+  "fn": "Agência Fiocruz de Notícias",
+  "e": "Brasil",
+  "a": [
+   "Influenza e vírus respiratórios",
+   "COVID-19"
+  ],
+  "p": 10.0,
+  "se": "2026-47",
+  "r": "InfoGripe: casos de Covid-19 seguem aumentando no Brasil",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Botucatu confirma segundo caso de MPOX; veja sintomas e prevenção",
+  "u": "https://g1.globo.com/sp/bauru-marilia/videos-bom-dia-cidade/video/botucatu-confirma-segundo-caso-de-mpox-veja-sintomas-e-prevencao-15282885.ghtml",
+  "d": "2026-11-26",
+  "df": "26 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Surto de ebola na República Democrática do Congo supera 12 mil casos e deixa quase 6 mil mortos",
+  "u": "https://g1.globo.com/mundo/noticia/2026/11/26/surto-de-ebola-na-republica-democratica-do-congo-supera-12-mil-casos-e-deixa-quase-6-mil-mortos.ghtml",
+  "d": "2026-11-26",
+  "df": "26 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Internacional",
+  "a": [
+   "Doença pelo vírus Ebola"
+  ],
+  "p": 9.0,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Casos de Covid aumentam no RJ, e mais de 2,4 mil são registrados em uma semana",
+  "u": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/26/casos-de-covid-aumentam-no-rj.ghtml",
+  "d": "2026-11-26",
+  "df": "26 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Covid-19 causa a morte de uma pessoa em Peçanha",
+  "u": "https://g1.globo.com/mg/vales-mg/videos-bom-dia-inter/video/covid-19-causa-a-morte-de-uma-pessoa-em-pecanha-15283215.ghtml",
+  "d": "2026-11-26",
+  "df": "26 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Reconhecida emergência em duas cidades paraenses afetadas pela estiagem",
+  "u": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-em-duas-cidades-paraenses-afetadas-pela-estiagem-2",
+  "d": "2026-11-26",
+  "df": "26 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "www.gov.br",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Africa CDC Welcomes Qatar’s Decision to Lift Ebola-Related Travel and Visa Restrictions on Uganda",
+  "u": "https://africacdc.org/news-item/africa-cdc-welcomes-qatars-decision-to-lift-ebola-related-travel-and-visa-restrictions-on-uganda/",
+  "d": "2026-11-26",
+  "df": "26 nov 2026",
+  "f": "Africa CDC",
+  "fn": "Africa CDC | Notícias",
+  "e": "Internacional",
+  "a": [
+   "Doença pelo vírus Ebola"
+  ],
+  "p": 7.0,
+  "se": "2026-47",
+  "r": "Addis Ababa, Ethiopia, 26 November 2026 – The Africa Centres for Disease Control and Prevention (Africa CDC) welcomes and expresses its appreciation to the State of Qatar for its decision to lift Ebola-related travel restrictions on Uganda and resume the…",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Óbidos reforça prevenção à doença de Chagas após surto com 10 casos confirmados e um óbito",
@@ -152,6 +334,24 @@
   "df": "25 nov 2026",
   "f": "CNN Brasil",
   "fn": "CNN Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Homem com suspeita de Mpox foge de hospital em Divinópolis e é encontrado",
+  "u": "https://g1.globo.com/google/amp/mg/centro-oeste/videos-mgtv-2-edicao/video/homem-com-suspeita-de-mpox-foge-de-hospital-em-divinopolis-e-e-encontrado-15282103.ghtml",
+  "d": "2026-11-25",
+  "df": "25 nov 2026",
+  "f": "G1",
+  "fn": "G1",
   "e": "Brasil",
   "a": [
    "Mpox"
@@ -358,6 +558,24 @@
   "i": "mosquito",
   "m": [],
   "c": "atencao"
+ },
+ {
+  "t": "Luziânia confirma mais de mil casos de dengue e registra uma morte em 2026",
+  "u": "https://g1.globo.com/go/goias/videos-ja-1-edicao/video/luziania-confirma-mais-de-mil-casos-de-dengue-e-registra-uma-morte-em-2026-15281355.ghtml",
+  "d": "2026-11-25",
+  "df": "25 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Measles surging is ‘a different kind of heartbreak’",
@@ -9738,24 +9956,6 @@
   "se": "2026-43",
   "r": "",
   "i": "virus",
-  "m": [],
-  "c": "atencao"
- },
- {
-  "t": "Reconhecida emergência em duas cidades paraenses afetadas pela estiagem",
-  "u": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-em-duas-cidades-paraenses-afetadas-pela-estiagem",
-  "d": "2026-10-28",
-  "df": "28 out 2026",
-  "f": "Defesa Civil",
-  "fn": "GOV.BR",
-  "e": "Brasil",
-  "a": [
-   "Saúde ambiental e clima"
-  ],
-  "p": 7.5,
-  "se": "2026-43",
-  "r": "",
-  "i": "clima",
   "m": [],
   "c": "atencao"
  },
