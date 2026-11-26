@@ -1,5 +1,30 @@
 [
  {
+  "id": "486e1d59042ccc",
+  "titulo": "PAHO calls for stronger surveillance amid increase in mpox cases in the Americas",
+  "url": "https://www.paho.org/en/news/25-11-2026-paho-calls-stronger-surveillance-amid-increase-mpox-cases-americas",
+  "fonte_id": "opas-noticias",
+  "fonte": "OPAS | Notícias",
+  "sigla": "OPAS",
+  "idioma": "en",
+  "data": "2026-11-26",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "PAHO calls for stronger surveillance amid increase in mpox cases in the Americas Cristina Mitchell 25 Nov 2026",
+  "coletado_em": "2026-11-26T05:00:42+00:00",
+  "municipios": [],
+  "pontuacao": 10.0,
+  "agravos": [
+   "Mpox"
+  ],
+  "escopo": "Américas",
+  "termos_evento": [
+   "surveillance"
+  ],
+  "categoria": "alerta",
+  "motivo": "Mpox (notificação imediata) · mpox cases · Américas"
+ },
+ {
   "id": "606e5308722dc4",
   "titulo": "Óbidos reforça prevenção à doença de Chagas após surto com 10 casos confirmados e um óbito",
   "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/25/obidos-reforca-prevencao-a-doenca-de-chagas-apos-surto-com-10-casos-confirmados-e-um-obito.ghtml",
@@ -78,6 +103,32 @@
   "motivo": "Mpox (notificação imediata) · casos confirmados · Brasil"
  },
  {
+  "id": "7d2b78e2214b4b",
+  "titulo": "Alerta vermelho em Ubatuba: veja como agir em alagamentos e deslizamentos",
+  "url": "https://www.ubatuba.sp.gov.br/noticias/alertas-meteorologicos-nos-proximos-dias",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Prefeitura de Ubatuba",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-11-25",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-26T05:00:42+00:00",
+  "municipios": [],
+  "pontuacao": 11.5,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alagamentos"
+  ],
+  "categoria": "monitoramento",
+  "motivo": "Emergências e desastres · aviso, previsão ou sem impacto relatado · Brasil"
+ },
+ {
   "id": "4968429df0a030",
   "titulo": "Rio recebe nesta semana novas doses de vacina contra a mpox",
   "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/rio-recebe-nesta-semana-novas-doses-de-vacina-contra-mpox",
@@ -127,7 +178,7 @@
  {
   "id": "345c7bdc8427d5",
   "titulo": "Paciente com suspeita de Mpox que fugiu de hospital é localizado em Divinópolis",
-  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWTdWSFZab3VYdVYxeUUxdXVhaUV3ZTB0SnZ5OFVRQmlGMjlKbGpxa2N5d2pJQnpVWTAyWEhULWxkWFgtcXBCeDFYY1c1enF1LVZQYzJtOEFfbUgwRHM4LUhfSmtlQU02Y0FfNnQtWWp4Rm9DTWZTYTJvRFMzdHZYRTFPTVR5VzdWMVd6LWpCU19ZRE41amdkRkVSeG0tX3JacXAtMGhVWnQ2bUNZTTl1OUFab25qSnNtTmZOM1pfYVhKZ2VqZm82Z1NzNkd0RWtQT25TS1FBUELSAecBQVVfeXFMTl9OQTZmQXhxcUZDR3lOVVBzeXlQSVBwQUtXYUFNcWpwYVd2eF9GUE1HMFI2dXlUT2pDZ3NMbmZvcENOUHpBUWE5RVB5Z19ESVFyd2ZndmhGcjdOX0dFR1dWbzY2cXZ4cTVEWnFxbFViejA1Z0JrOVBUUUV0NXZNUW1YSFdpSFppZWllTG1SYmdoRFlObDJrNHphaTNDc3RiT2tDaHhsREd4SE0tT3pPSnJ4dDl2X0ktdFlzUERoWE1IZXNXYTUwUXR1YU9VLThhV0lMLUVyN0FMcDg4czh5SU44NFJjMkdZ?oc=5",
+  "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/25/paciente-com-suspeita-de-mpox-que-fugiu-de-hospital-e-localizado-em-divinopolis.ghtml",
   "fonte_id": "g1-busca",
   "fonte": "G1",
   "sigla": "G1",
@@ -145,7 +196,8 @@
   "escopo": "Brasil",
   "termos_evento": [],
   "categoria": "alerta",
-  "motivo": "Mpox (notificação imediata) · suspeita de Mpox · Brasil"
+  "motivo": "Mpox (notificação imediata) · suspeita de Mpox · Brasil",
+  "link_tentado": true
  },
  {
   "id": "3ccc4e381228c1",
@@ -469,6 +521,77 @@
   "termos_evento": [],
   "categoria": "monitoramento",
   "motivo": "Sarampo (notificação imediata) · sem ocorrência relatada no título · internacional"
+ },
+ {
+  "id": "aa5caecad61e4e",
+  "titulo": "Measles surging is ‘a different kind of heartbreak’",
+  "url": "https://www.cnn.com/2026/11/25/health/video/chasing-life-sanjay-gupta-reich-measles-heartbreak-vod-vrtc",
+  "fonte_id": "cnn-busca",
+  "fonte": "CNN",
+  "sigla": "CNN",
+  "idioma": "en",
+  "data": "2026-11-25",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-26T05:00:42+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Sarampo"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": "Sarampo (notificação imediata) · sem ocorrência relatada no título · internacional"
+ },
+ {
+  "id": "5efd081eec8697",
+  "titulo": "Tupanciretã: governo envia equipe e kits emergenciais para atendimento",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/tupancireta-governo-envia-equipe-e-kits-emergenciais-para-atendimento",
+  "fonte_id": "agencia-brasil-saude",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-11-25",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "O Ministério da Saúde enviou à cidade de Tupanciretã , no Rio Grande do Sul, atingida por uma tempestade na última sexta-feira (20), dois kits emergenciais com medicamentos e insumos estratégicos para reforçar a assistência às vítimas. Cada kit reúne medicamentos como antibióticos e analgésicos, além itens para curativos e têm capacidade para atender até 1,5 mil pessoas.",
+  "coletado_em": "2026-11-26T05:00:42+00:00",
+  "municipios": [],
+  "pontuacao": 6.0,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · Brasil"
+ },
+ {
+  "id": "274aa5433fc123",
+  "titulo": "El Niño: SES-RJ reforça cuidados para prevenir dengue, chikungunya e zika",
+  "url": "https://www.cnnbrasil.com.br/saude/el-nino-ses-rj-reforca-cuidados-para-prevenir-dengue-chikungunya-e-zika/",
+  "fonte_id": "cnn-brasil-saude",
+  "fonte": "CNN Brasil | Saúde",
+  "sigla": "CNN Brasil",
+  "idioma": "pt",
+  "data": "2026-11-25",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-26T05:00:42+00:00",
+  "municipios": [],
+  "pontuacao": 5.5,
+  "agravos": [
+   "Zika",
+   "Saúde ambiental e clima",
+   "Dengue"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": "Zika (notificação semanal) · sem ocorrência relatada no título · internacional"
  },
  {
   "id": "1476f32d8a98b2",
@@ -1670,6 +1793,77 @@
   "motivo": ""
  },
  {
+  "id": "c2b1423ec7a58c",
+  "titulo": "PT-DF cobra investigação de Ibaneis e defende prisão do ex-governador",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7544493-pt-df-cobra-investigacao-de-ibaneis-e-defende-prisao-do-ex-governador.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-25",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-26T05:00:42+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [
+   "investigacao"
+  ],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "c3688c57087dc2",
+  "titulo": "PMDF prende dupla suspeita de tentativa de latrocínio após fuga em Vicente Pires",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7544516-pmdf-prende-dupla-suspeita-de-tentativa-de-latrocinio-apos-fuga-em-vicente-pires.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-25",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-26T05:00:42+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "3cec5a76e7bc12",
+  "titulo": "DER-DF reduz horário de reversão na Ponte JK nesta quinta e sexta",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7544474-der-df-reduz-horario-de-reversao-na-ponte-jk-nesta-quinta-e-sexta.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-25",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-26T05:00:42+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
   "id": "ddbbfa24701b8b",
   "titulo": "Influenza A(H5N1) - United States of America",
   "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON629",
@@ -1982,6 +2176,32 @@
   "motivo": "Mpox (notificação imediata) · primeiro caso · Brasil"
  },
  {
+  "id": "4751e076c29f92",
+  "titulo": "Condição de ATENÇÃO para tempestades com granizo e vento que devem atuar ao longo da madrugada",
+  "url": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-atencao-para-tempestades-com-granizo-e-vento-que-devem-atuar-ao-longo-da-madrugada-6b054496e306b",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Defesa Civil do Rio Grande do Sul",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-11-24",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-26T05:00:42+00:00",
+  "municipios": [],
+  "pontuacao": 11.5,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "granizo"
+  ],
+  "categoria": "monitoramento",
+  "motivo": "Emergências e desastres · aviso, previsão ou sem impacto relatado · Brasil"
+ },
+ {
   "id": "49ef833ee283ed",
   "titulo": "Defesa Civil de SP alerta para temporais e calor e apoia cidades atingidas pelas chuvas",
   "url": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-de-sp-alerta-para-temporais-e-calor/",
@@ -2198,6 +2418,31 @@
   "termos_evento": [],
   "categoria": "monitoramento",
   "motivo": "Mpox (notificação imediata) · sem ocorrência relatada no título · Brasil"
+ },
+ {
+  "id": "e7adf4567055d9",
+  "titulo": "Defesa Civil de Cuiabá alerta para tempestades e chuvas intensas durante a semana",
+  "url": "https://www.cuiaba.mt.gov.br/noticias/defesa-civil-de-cuiaba-alerta-para-tempestades-e-chuvas-intensas-durante-a-semana",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Prefeitura de Cuiabá",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-11-24",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-26T05:00:42+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alerta para"
+  ],
+  "categoria": "monitoramento",
+  "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · Brasil"
  },
  {
   "id": "dd54a277ebb75e",

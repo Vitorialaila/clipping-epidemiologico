@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-11-25T22:30:28+00:00",
+  "em": "2026-11-26T05:00:42+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,9 +10,9 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-11-25T22:30:28+00:00",
+  "em": "2026-11-26T05:00:42+00:00",
   "lidos": 40,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "WHO recommends new oral treatment option for gonorrhoea and reports new data on antimicrobial resistance",
    "WHO calls for stronger parliamentary leadership for global health at the 153rd Inter-Parliamentary Union Assembly",
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-11-25T22:30:28+00:00",
+  "em": "2026-11-26T05:00:42+00:00",
   "lidos": 15,
   "novos": 0,
   "exemplos": [
@@ -30,17 +30,17 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-11-25T22:30:28+00:00",
+  "em": "2026-11-26T05:00:42+00:00",
   "lidos": 10,
   "novos": 1,
   "exemplos": [
+   "PAHO calls for stronger surveillance amid increase in mpox cases in the Americas",
    "PAHO calls for stronger health sector response to violence against women and girls",
-   "Suriname joins the Alliance for Primary Health Care in the Americas",
-   "PAHO Director reaffirms cooperation with Peru to strengthen the health system and address health priorities"
+   "Suriname joins the Alliance for Primary Health Care in the Americas"
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-11-25T22:30:28+00:00",
+  "em": "2026-11-26T05:00:42+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-11-25T22:30:28+00:00",
+  "em": "2026-11-26T05:00:42+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-11-25T22:30:28+00:00",
+  "em": "2026-11-26T05:00:42+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-11-25T22:30:28+00:00",
+  "em": "2026-11-26T05:00:42+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,9 +80,9 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-11-25T22:30:28+00:00",
+  "em": "2026-11-26T05:00:42+00:00",
   "lidos": 2357,
-  "novos": 3,
+  "novos": 0,
   "exemplos": [
    "QuickStats: Age-Adjusted Percentage of Adults Aged ≥18 Years Who Visited a Doctor or Other Health Professional During th",
    "Notes from the Field: Death Involving the Semisynthetic Kratom-Derived Opioid Dihydro-7-Hydroxymitragynine (MGM-15) from",
@@ -90,9 +90,9 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-11-25T22:30:28+00:00",
+  "em": "2026-11-26T05:00:42+00:00",
   "lidos": 10,
-  "novos": 2,
+  "novos": 0,
   "exemplos": [
    "Statement of the Governing Board of the Africa Centres for Disease Control and Prevention (Africa CDC)",
    "CPHIA 2026 Opens with Focus on Health Sovereignty and Action",
@@ -100,13 +100,13 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-11-25T22:30:28+00:00",
+  "em": "2026-11-26T05:00:42+00:00",
   "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
  },
  "fiocruz": {
-  "em": "2026-11-25T22:30:28+00:00",
+  "em": "2026-11-26T05:00:42+00:00",
   "lidos": 10,
-  "novos": 6,
+  "novos": 0,
   "exemplos": [
    "Fiocruz promove seminário internacional sobre cannabis medicinal no Museu do Amanhã",
    "Fiocruz lança Rede Conecta para reforçar a internacionalização da ciência",
@@ -114,19 +114,19 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-11-25T22:30:28+00:00",
+  "em": "2026-11-26T05:00:42+00:00",
   "lidos": 10,
-  "novos": 3,
+  "novos": 1,
   "exemplos": [
+   "Tupanciretã: governo envia equipe e kits emergenciais para atendimento",
    "Anvisa determina apreensão de suplementos alimentares",
-   "Anvisa manda apreender medicamentos falsificados para tratar câncer",
-   "Rio recebe nesta semana novas doses de vacina contra a mpox"
+   "Anvisa manda apreender medicamentos falsificados para tratar câncer"
   ]
  },
  "ses-go": {
-  "em": "2026-11-25T22:30:28+00:00",
+  "em": "2026-11-26T05:00:42+00:00",
   "lidos": 10,
-  "novos": 8,
+  "novos": 0,
   "exemplos": [
    "Extrato do Contrato n.º 113/2026 – SES/GO",
    "Rede Hemo homenageia 37 doadores voluntários e reforça importância da doação regular de sangue em Goiás",
@@ -134,9 +134,9 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-11-25T22:30:28+00:00",
+  "em": "2026-11-26T05:00:42+00:00",
   "lidos": 10,
-  "novos": 3,
+  "novos": 0,
   "exemplos": [
    "Com alerta de chuvas fortes, Rio suspende aulas na rede pública",
    "Tempestades e frente fria devem atingir Centro-Sul até sexta-feira",
@@ -144,67 +144,61 @@
   ]
  },
  "g1-busca": {
-  "em": "2026-11-25T22:30:28+00:00",
-  "lidos": 461,
-  "novos": 9,
-  "exemplos": [
-   "Mal súbito: como prevenir e quais os primeiros socorros em casos suspeitos",
-   "Piracicaba estima 14 mil casos suspeitos de dengue em 2027, aponta Saúde",
-   "Prefeitura de Montes Claros confirma primeiro caso de Mpox"
-  ]
+  "em": "2026-11-26T05:00:42+00:00",
+  "erro": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Ag1.globo.com%20dengue%20OR%20chikungunya%20OR%20zika%20OR%20influenza%20OR%20%22gripe%20avi%C3%A1ria%22%20OR%20SRAG%20when%3A7d&hl=pt-BR&gl=BR&ceid=BR:pt-419"
  },
  "metropoles-busca": {
-  "em": "2026-11-25T22:30:28+00:00",
-  "lidos": 53,
-  "novos": 0,
-  "exemplos": [
-   "Febre amarela: MG tem 33 macacos infectados e vacinação abaixo da meta",
-   "Ministro da Educação da Coreia do Sul renuncia após fraudes com uso de IA",
-   "SP começa distribuição da vacina contra Mpox; estado lidera casos no Brasil"
-  ]
+  "em": "2026-11-26T05:00:42+00:00",
+  "erro": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Ametropoles.com%20surto%20OR%20%22casos%20confirmados%22%20OR%20%22caso%20confirmado%22%20OR%20%22primeiro%20caso%22%20OR%20%22aulas%20suspensas%22%20when%3A7d&hl=pt-BR&gl=BR&ceid=BR:pt-419"
  },
  "cnn-brasil-saude": {
-  "em": "2026-11-25T22:30:28+00:00",
+  "em": "2026-11-26T05:00:42+00:00",
   "lidos": 26,
   "novos": 1,
   "exemplos": [
+   "El Niño: SES-RJ reforça cuidados para prevenir dengue, chikungunya e zika",
    "Bahia tem 19 casos de Mpox em 2026; Brasil chega a 1.499 no ano",
-   "Anvisa proíbe venda e uso de 16 anabolizantes da marca GMP sem registro",
-   "Entenda como devem funcionar os testes da vacina contra o câncer no Brasil"
+   "Anvisa proíbe venda e uso de 16 anabolizantes da marca GMP sem registro"
   ]
  },
  "cnn-saude": {
-  "em": "2026-11-25T22:30:28+00:00",
-  "lidos": 23,
+  "em": "2026-11-26T05:00:42+00:00",
+  "lidos": 24,
   "novos": 0,
   "exemplos": [
+   "The government says Iowa detonation results exceeded expectations. Now what?",
    "This runner has completed over 70 marathons. This year, she ran 7 of them while pregnant",
-   "Why SNL’s ‘Sister’ sketch hit a nerve about the reality of caregiving",
-   "The US has had the tools to control measles for almost 65 years. Here’s how it’s come raging back"
+   "Why SNL’s ‘Sister’ sketch hit a nerve about the reality of caregiving"
   ]
  },
  "cnn-busca": {
-  "em": "2026-11-25T22:30:28+00:00",
-  "lidos": 52,
-  "novos": 2,
+  "em": "2026-11-26T05:00:42+00:00",
+  "lidos": 49,
+  "novos": 1,
   "exemplos": [
    "The CDC stays quiet on flu as an early season catches many Americans off-guard",
-   "Army details plan to contain lead dust ahead of Wednesday detonation in Iowa",
-   "Storms to hit both coasts, threatening Thanksgiving travel for millions and Macy’s 100th parade"
+   "Measles surging is ‘a different kind of heartbreak’",
+   "The government says Iowa detonation results exceeded expectations. Now what?"
   ]
  },
  "inmet": {
-  "em": "2026-11-25T22:30:28+00:00",
-  "erro": "HTTPSConnectionPool(host='portal.inmet.gov.br', port=443): Read timed out. (read timeout=30)"
+  "em": "2026-11-26T05:00:42+00:00",
+  "lidos": 10,
+  "novos": 0,
+  "exemplos": [
+   "Previsão para terça-feira (24), quarta-feira (25) e quinta-feira (26)",
+   "INMET emite aviso vermelho para tempestades no Sul e explica condições atmosféricas que favoreceram tempestades em Tupan",
+   "INMET divulga previsão para semana de 23 a 30 de novembro de 2026"
+  ]
  },
  "cemaden": {
-  "em": "2026-11-25T22:30:28+00:00",
+  "em": "2026-11-26T05:00:42+00:00",
   "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
  },
  "defesa-civil-busca": {
-  "em": "2026-11-25T22:30:28+00:00",
-  "lidos": 14,
-  "novos": 1,
+  "em": "2026-11-26T05:00:42+00:00",
+  "lidos": 43,
+  "novos": 3,
   "exemplos": [
    "Equipe da Defesa Civil Nacional presta socorro a Tupanciretã (RS)",
    "Novacap abre licitação de R$ 39 milhões para obras de drenagem em Arniqueira",
@@ -212,13 +206,13 @@
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-11-25T22:30:28+00:00",
+  "em": "2026-11-26T05:00:42+00:00",
   "lidos": 20,
-  "novos": 17,
+  "novos": 3,
   "exemplos": [
    "Pastor é assassinado por fiel durante momento de oração em igreja",
    "Mulher é presa suspeita de manter casa de prostituição na 411 Norte",
-   "IV Feira de Artesanato Raízes do Entorno será realizada em dezembro"
+   "PT-DF cobra investigação de Ibaneis e defende prisão do ex-governador"
   ]
  }
 }

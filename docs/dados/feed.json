@@ -1,5 +1,23 @@
 [
  {
+  "t": "PAHO calls for stronger surveillance amid increase in mpox cases in the Americas",
+  "u": "https://www.paho.org/en/news/25-11-2026-paho-calls-stronger-surveillance-amid-increase-mpox-cases-americas",
+  "d": "2026-11-26",
+  "df": "26 nov 2026",
+  "f": "OPAS",
+  "fn": "OPAS | Notícias",
+  "e": "Américas",
+  "a": [
+   "Mpox"
+  ],
+  "p": 10.0,
+  "se": "2026-47",
+  "r": "PAHO calls for stronger surveillance amid increase in mpox cases in the Americas Cristina Mitchell 25 Nov 2026",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Óbidos reforça prevenção à doença de Chagas após surto com 10 casos confirmados e um óbito",
   "u": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/25/obidos-reforca-prevencao-a-doenca-de-chagas-apos-surto-com-10-casos-confirmados-e-um-obito.ghtml",
   "d": "2026-11-25",
@@ -54,6 +72,25 @@
   "c": "alerta"
  },
  {
+  "t": "Alerta vermelho em Ubatuba: veja como agir em alagamentos e deslizamentos",
+  "u": "https://www.ubatuba.sp.gov.br/noticias/alertas-meteorologicos-nos-proximos-dias",
+  "d": "2026-11-25",
+  "df": "25 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura de Ubatuba",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 11.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "Rio recebe nesta semana novas doses de vacina contra a mpox",
   "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/rio-recebe-nesta-semana-novas-doses-de-vacina-contra-mpox",
   "d": "2026-11-25",
@@ -92,7 +129,7 @@
  },
  {
   "t": "Paciente com suspeita de Mpox que fugiu de hospital é localizado em Divinópolis",
-  "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWTdWSFZab3VYdVYxeUUxdXVhaUV3ZTB0SnZ5OFVRQmlGMjlKbGpxa2N5d2pJQnpVWTAyWEhULWxkWFgtcXBCeDFYY1c1enF1LVZQYzJtOEFfbUgwRHM4LUhfSmtlQU02Y0FfNnQtWWp4Rm9DTWZTYTJvRFMzdHZYRTFPTVR5VzdWMVd6LWpCU19ZRE41amdkRkVSeG0tX3JacXAtMGhVWnQ2bUNZTTl1OUFab25qSnNtTmZOM1pfYVhKZ2VqZm82Z1NzNkd0RWtQT25TS1FBUELSAecBQVVfeXFMTl9OQTZmQXhxcUZDR3lOVVBzeXlQSVBwQUtXYUFNcWpwYVd2eF9GUE1HMFI2dXlUT2pDZ3NMbmZvcENOUHpBUWE5RVB5Z19ESVFyd2ZndmhGcjdOX0dFR1dWbzY2cXZ4cTVEWnFxbFViejA1Z0JrOVBUUUV0NXZNUW1YSFdpSFppZWllTG1SYmdoRFlObDJrNHphaTNDc3RiT2tDaHhsREd4SE0tT3pPSnJ4dDl2X0ktdFlzUERoWE1IZXNXYTUwUXR1YU9VLThhV0lMLUVyN0FMcDg4czh5SU44NFJjMkdZ?oc=5",
+  "u": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/25/paciente-com-suspeita-de-mpox-que-fugiu-de-hospital-e-localizado-em-divinopolis.ghtml",
   "d": "2026-11-25",
   "df": "25 nov 2026",
   "f": "G1",
@@ -359,6 +396,44 @@
   "c": "monitoramento"
  },
  {
+  "t": "Tupanciretã: governo envia equipe e kits emergenciais para atendimento",
+  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/tupancireta-governo-envia-equipe-e-kits-emergenciais-para-atendimento",
+  "d": "2026-11-25",
+  "df": "25 nov 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 6.0,
+  "se": "2026-47",
+  "r": "O Ministério da Saúde enviou à cidade de Tupanciretã , no Rio Grande do Sul, atingida por uma tempestade na última sexta-feira (20), dois kits emergenciais com medicamentos e insumos estratégicos para reforçar a assistência às vítimas. Cada kit reúne…",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "El Niño: SES-RJ reforça cuidados para prevenir dengue, chikungunya e zika",
+  "u": "https://www.cnnbrasil.com.br/saude/el-nino-ses-rj-reforca-cuidados-para-prevenir-dengue-chikungunya-e-zika/",
+  "d": "2026-11-25",
+  "df": "25 nov 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Internacional",
+  "a": [
+   "Zika",
+   "Saúde ambiental e clima",
+   "Dengue"
+  ],
+  "p": 5.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "WHO recommends new oral treatment option for gonorrhoea and reports new data on antimicrobial resistance",
   "u": "https://www.who.int/news/item/25-11-2026-who-recommends-new-oral-treatment-option-for-gonorrhoea-and-reports-new-data-on-antimicrobial-resistance",
   "d": "2026-11-25",
@@ -602,6 +677,25 @@
   "c": "alerta"
  },
  {
+  "t": "Condição de ATENÇÃO para tempestades com granizo e vento que devem atuar ao longo da madrugada",
+  "u": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-atencao-para-tempestades-com-granizo-e-vento-que-devem-atuar-ao-longo-da-madrugada-6b054496e306b",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Defesa Civil do Rio Grande do Sul",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 11.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "Defesa Civil de SP alerta para temporais e calor e apoia cidades atingidas pelas chuvas",
   "u": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-de-sp-alerta-para-temporais-e-calor/",
   "d": "2026-11-24",
@@ -763,6 +857,24 @@
   "se": "2026-47",
   "r": "",
   "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Defesa Civil de Cuiabá alerta para tempestades e chuvas intensas durante a semana",
+  "u": "https://www.cuiaba.mt.gov.br/noticias/defesa-civil-de-cuiaba-alerta-para-tempestades-e-chuvas-intensas-durante-a-semana",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura de Cuiabá",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 9.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "clima",
   "m": [],
   "c": "monitoramento"
  },
@@ -1418,25 +1530,6 @@
   "se": "2026-47",
   "r": "",
   "i": "mosquito",
-  "m": [],
-  "c": "monitoramento"
- },
- {
-  "t": "Condição de ATENÇÃO para tempestades com granizo e vento que devem atuar ao longo da madrugada",
-  "u": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-atencao-para-tempestades-com-granizo-e-vento-que-devem-atuar-ao-longo-da-madrugada-6b00fc57a5c63",
-  "d": "2026-11-21",
-  "df": "21 nov 2026",
-  "f": "Defesa Civil",
-  "fn": "Defesa Civil do Rio Grande do Sul",
-  "e": "Brasil",
-  "a": [
-   "Emergências e desastres",
-   "Saúde ambiental e clima"
-  ],
-  "p": 11.5,
-  "se": "2026-46",
-  "r": "",
-  "i": "desastre",
   "m": [],
   "c": "monitoramento"
  },
@@ -12717,23 +12810,5 @@
   "i": "virus",
   "m": [],
   "c": "atencao"
- },
- {
-  "t": "Use of Nowcasting to Estimate Real-Time Transmission Trends During a Measles Outbreak - South Carolina, October 2025-March 2026",
-  "u": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=342778&c=766319",
-  "d": "2026-08-27",
-  "df": "27 ago 2026",
-  "f": "CDC",
-  "fn": "CDC | MMWR",
-  "e": "Américas",
-  "a": [
-   "Sarampo"
-  ],
-  "p": 10.5,
-  "se": "2026-34",
-  "r": "This report describes CDC's nowcast model that provided real-time estimates of measles case counts during outbreaks in South Carolina.",
-  "i": "virus",
-  "m": [],
-  "c": "alerta"
  }
 ]
