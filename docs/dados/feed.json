@@ -1,7 +1,25 @@
 [
  {
+  "t": "Barra do Piraí confirma primeiro caso de mpox no município",
+  "u": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/27/barra-do-pirai-confirma-primeiro-caso-de-mpox-no-municipio.ghtml",
+  "d": "2026-11-27",
+  "df": "27 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 11.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Covid-19 avança em 23 estados e no DF, e Brasil aplica apenas um terço do volume de vacinas distribuídas neste ano",
-  "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQREt2bDlVdkNaQUpGMU5IZnJTQ2hkYkZVVFpwQjZINXlLMzcxSEJoR1g0TW5VcUI4OVFuY3JZOHpzbEpyMEZfMk9aTTZqc19TYnV5dFF0ZjY1eS02WHRQbkVsa1ozMzRadGRyUEZKeEl5MjVTQnlmeUtzeTU5M2lmZ0dUaVltWTRtQWlGeVRmaXNaOEJMU0xzVTBjQXppNVRlOG5XQ3E0SVR2U2lNSW1TTFJ2cndaYmRNVWtYSUcyTUpMLXhtWDdRWmtpc3piRkJKcmhSS29uWDRDbktQcXo4ZEJzSXpMc1Vvb09OekJudW1WaGJXZWJDb9IBhwJBVV95cUxQXzV5ZEw2ektscE83S3FKS3JDQXVhY1VVMlpSYXFqUmZpZUtYVXA4TDl6S1R1UW8tWnFlYXpOTnZrMmdieHNrNEY1QzhqdkpxMVhWejh0bWtYbFgwT2Q0cG9sdlRZNnZ3cGM4dGdFLUlsTlVBdDV0THJFV1JNUXVUZnJRWmdwQUxiQVFMZzZFbTFfVlZEWmdIMTgzbmljV3pzYWViVV9iTjdqQjNyYmE3ZFNPZXJmMldFRG9YTjRKRld1NDFtRXVCMVFyc2ZmMXp0b29uNWlCalVTSjBaMC00cHphal83SW5kNnQ0SG1LU3llNWxkZGtNUzMySi0ybktlNWNfUVZCNA?oc=5",
+  "u": "https://g1.globo.com/saude/noticia/2026/11/27/covid-19-avanca-em-23-estados-e-no-df-e-brasil-aplica-apenas-um-terco-do-volume-de-vacinas-distribuidas-neste-ano.ghtml",
   "d": "2026-11-27",
   "df": "27 nov 2026",
   "f": "G1",
@@ -20,6 +38,60 @@
   "c": "alerta"
  },
  {
+  "t": "Casos de Mpox confirmados no PI: infectologista explica sintomas, transmissão e vacinação",
+  "u": "https://g1.globo.com/google/amp/pi/piaui/videos-bom-dia-piaui/video/casos-de-mpox-confirmados-no-pi-infectologista-explica-sintomas-transmissao-e-vacinacao-15286475.ghtml",
+  "d": "2026-11-27",
+  "df": "27 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Vacina do sarampo evitou 60 milhões de mortes em 25 anos",
+  "u": "https://g1.globo.com/google/amp/jornal-hoje/video/vacina-do-sarampo-evitou-60-milhoes-de-mortes-em-25-anos-15287601.ghtml",
+  "d": "2026-11-27",
+  "df": "27 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 9.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Defesa Civil alerta para risco de chuvas intensas nesta sexta-feira em Campo Grande – CGNotícias",
+  "u": "https://www.campogrande.ms.gov.br/cgnoticias/noticia/defesa-civil-alerta-para-risco-de-chuvas-intensas-nesta-sexta-feira-em-campo-grande/",
+  "d": "2026-11-27",
+  "df": "27 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Prefeitura de Campo Grande",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 9.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "Esporotricose: Justiça dá cinco dias para governo do RS explicar ações contra doença transmitida por gatos; estado tem 1,4 mil casos em pessoas",
   "u": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/27/esporotricose-justica-governo-rs-acoes-doenca-transmitida-gatos-14-mil-casos-pessoas.ghtml",
   "d": "2026-11-27",
@@ -36,6 +108,114 @@
   "i": "fungo",
   "m": [],
   "c": "atencao"
+ },
+ {
+  "t": "Fumaça persistente e calor intenso ampliam riscos à saúde da população de Manaus",
+  "u": "https://agencia.fiocruz.br/fumaca-persistente-e-calor-intenso-ampliam-riscos-saude-da-populacao-de-manaus",
+  "d": "2026-11-27",
+  "df": "27 nov 2026",
+  "f": "Fiocruz",
+  "fn": "Agência Fiocruz de Notícias",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "Fumaça persistente e calor intenso ampliam riscos à saúde da população de Manaus",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Tocantins já registra mais de 10 mil casos de dengue em 2026",
+  "u": "https://g1.globo.com/google/amp/to/tocantins/videos-bom-dia-tocantins/video/tocantins-ja-registra-mais-de-10-mil-casos-de-dengue-em-2026-15286900.ghtml",
+  "d": "2026-11-27",
+  "df": "27 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Divinópolis decreta emergência após 57 casos de sarna humana em escolas",
+  "u": "https://www.metropoles.com/minas-gerais/divinopolis-decreta-emergencia-apos-57-casos-de-sarna-humana-em-escolas",
+  "d": "2026-11-27",
+  "df": "27 nov 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "Brasil",
+  "a": [
+   "Escabiose"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "saude",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "O que se sabe sobre a nova variante da Covid-19 que circula no Brasil",
+  "u": "https://www.cnnbrasil.com.br/saude/o-que-se-sabe-sobre-a-nova-variante-da-covid-19-que-circula-no-brasil/",
+  "d": "2026-11-27",
+  "df": "27 nov 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Nav. ed. pt Giro Saude 27 de novembro",
+  "u": "https://agencia.fiocruz.br/nav-ed-pt-giro-saude-27-de-novembro",
+  "d": "2026-11-27",
+  "df": "27 nov 2026",
+  "f": "Fiocruz",
+  "fn": "Agência Fiocruz de Notícias",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 6.5,
+  "se": "2026-47",
+  "r": "Nav. ed. pt Giro Saude 27 de novembro Tipo de caixa Duplo horizontal Título Giro Saúde: 27 de novembro Imagem Chamada Novo episódio destaca medicamento inovador para o câncer de mama, a vacinação contra mpox e as ações do Novembro Negro",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Dia D contra dengue tem mosquitos estéreis e com bactéria que sabota doença",
+  "u": "https://www.cnnbrasil.com.br/saude/dia-d-contra-dengue-tem-mosquitos-estereis-e-com-bacteria-que-sabota-doenca/",
+  "d": "2026-11-27",
+  "df": "27 nov 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Internacional",
+  "a": [
+   "Dengue"
+  ],
+  "p": 4.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "mosquito",
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "MPOX no RN: 19 casos confirmados e 56 em investigação",
