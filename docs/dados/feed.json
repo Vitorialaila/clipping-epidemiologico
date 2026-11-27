@@ -55,6 +55,60 @@
   "c": "atencao"
  },
  {
+  "t": "Secretaria de saúde de Rondonópolis confirma primeiro caso de MPOX",
+  "u": "https://g1.globo.com/mt/mato-grosso/videos-mttv-2-edicao/video/secretaria-de-saude-de-rondonopolis-confirma-primeiro-caso-de-mpox-15285294.ghtml",
+  "d": "2026-11-26",
+  "df": "26 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 11.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Mpox: Piauí chega a quatro casos confirmados em 2026, aponta Ministério da Saúde",
+  "u": "https://g1.globo.com/google/amp/pi/piaui/noticia/2026/11/26/mpox-piaui-casos-confirmados.ghtml",
+  "d": "2026-11-26",
+  "df": "26 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 11.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Botucatu confirma segundo caso de Mpox em menos de uma semana; outros dois estão sob investigação",
+  "u": "https://g1.globo.com/google/amp/sp/bauru-marilia/noticia/2026/11/26/botucatu-confirma-segundo-caso-de-mpox-em-menos-de-uma-semana-outros-dois-estao-sob-investigacao.ghtml",
+  "d": "2026-11-26",
+  "df": "26 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 10.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "PAHO calls for stronger surveillance amid increase in mpox cases in the Americas",
   "u": "https://www.paho.org/en/news/25-11-2026-paho-calls-stronger-surveillance-amid-increase-mpox-cases-americas",
   "d": "2026-11-26",
@@ -128,6 +182,24 @@
   "c": "alerta"
  },
  {
+  "t": "Uberlândia registra aumento de mortes por meningite e reforça alerta",
+  "u": "https://g1.globo.com/mg/triangulo-mineiro/mg1-uberlandia/video/uberlandia-registra-aumento-de-mortes-por-meningite-e-reforca-alerta-15284606.ghtml",
+  "d": "2026-11-26",
+  "df": "26 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Doença meningocócica e meningites"
+  ],
+  "p": 8.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "bacteria",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Casos de Covid aumentam no RJ, e mais de 2,4 mil são registrados em uma semana",
   "u": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/26/casos-de-covid-aumentam-no-rj.ghtml",
   "d": "2026-11-26",
@@ -178,6 +250,60 @@
   "se": "2026-47",
   "r": "",
   "i": "clima",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Maior presídio de Campo Grande confirma 63 casos de sarna humana em dois dias",
+  "u": "https://g1.globo.com/google/amp/ms/mato-grosso-do-sul/noticia/2026/11/26/maior-presidio-de-campo-grande-confirma-63-casos-de-sarna-humana-em-dois-dias.ghtml",
+  "d": "2026-11-26",
+  "df": "26 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Escabiose"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "saude",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Itaúna registra 546 casos de Covid-19 em novembro; cidade tem quatro internações e uma morte",
+  "u": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/26/itauna-registra-546-casos-de-covid-19-em-novembro-cidade-tem-quatro-internacoes-e-uma-morte.ghtml",
+  "d": "2026-11-26",
+  "df": "26 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Casos de Dengue em Porto Velho: estado registrou 55 casos por 100 mil habitantes",
+  "u": "https://g1.globo.com/am/amazonas/videos-bom-dia-amazonia/video/casos-de-dengue-em-porto-velho-estado-registrou-55-casos-por-100-mil-habitantes-15283400.ghtml",
+  "d": "2026-11-26",
+  "df": "26 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Dengue"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "mosquito",
   "m": [],
   "c": "atencao"
  },
@@ -1274,6 +1400,24 @@
   "se": "2026-47",
   "r": "Pesquisa da Fiocruz analisa expansão da dengue no Sul do país",
   "i": "mosquito",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "El Niño and climate change could make flying hazards more frequent — and dangerous",
+  "u": "https://www.cnn.com/2026/11/24/climate/flying-turbulence-ice-aviation-hazards-el-nino",
+  "d": "2026-11-24",
+  "df": "24 nov 2026",
+  "f": "CNN",
+  "fn": "CNN",
+  "e": "Internacional",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 4.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "clima",
   "m": [],
   "c": "monitoramento"
  },

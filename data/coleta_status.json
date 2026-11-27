@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-11-26T15:12:07+00:00",
+  "em": "2026-11-26T23:50:31+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,17 +10,17 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-11-26T15:12:07+00:00",
+  "em": "2026-11-26T23:50:31+00:00",
   "lidos": 40,
-  "novos": 0,
+  "novos": 1,
   "exemplos": [
+   "WHO Director-General visits Haiti, announces US$ 1 million in support for critical hospital equipment",
    "WHO recommends new oral treatment option for gonorrhoea and reports new data on antimicrobial resistance",
-   "WHO calls for stronger parliamentary leadership for global health at the 153rd Inter-Parliamentary Union Assembly",
-   "Advancing the timely and ethical inclusion of pregnant and lactating women in clinical trials"
+   "WHO calls for stronger parliamentary leadership for global health at the 153rd Inter-Parliamentary Union Assembly"
   ]
  },
  "opas-alertas": {
-  "em": "2026-11-26T15:12:07+00:00",
+  "em": "2026-11-26T23:50:31+00:00",
   "lidos": 15,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-11-26T15:12:07+00:00",
+  "em": "2026-11-26T23:50:31+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-11-26T15:12:07+00:00",
+  "em": "2026-11-26T23:50:31+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-11-26T15:12:07+00:00",
+  "em": "2026-11-26T23:50:31+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-11-26T15:12:07+00:00",
+  "em": "2026-11-26T23:50:31+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-11-26T15:12:07+00:00",
+  "em": "2026-11-26T23:50:31+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-11-26T15:12:07+00:00",
+  "em": "2026-11-26T23:50:31+00:00",
   "lidos": 2357,
   "novos": 0,
   "exemplos": [
@@ -90,9 +90,9 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-11-26T15:12:07+00:00",
+  "em": "2026-11-26T23:50:31+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Africa CDC Welcomes Qatar’s Decision to Lift Ebola-Related Travel and Visa Restrictions on Uganda",
    "Statement of the Governing Board of the Africa Centres for Disease Control and Prevention (Africa CDC)",
@@ -100,81 +100,81 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-11-26T15:12:07+00:00",
+  "em": "2026-11-26T23:50:31+00:00",
   "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
  },
  "fiocruz": {
-  "em": "2026-11-26T15:12:07+00:00",
-  "lidos": 10,
-  "novos": 3,
-  "exemplos": [
-   "Fiocruz e Fase RJ publicam cartografia social sobre territórios populares do Rio de Janeiro",
-   "Fiocruz e Ministério da Saúde lançam Sistema AlertAr Saúde Indígena",
-   "InfoGripe: casos de Covid-19 seguem aumentando no Brasil"
-  ]
- },
- "agencia-brasil-saude": {
-  "em": "2026-11-26T15:12:07+00:00",
+  "em": "2026-11-26T23:50:31+00:00",
   "lidos": 10,
   "novos": 1,
   "exemplos": [
-   "Após 24 anos, política de saúde de povos indígenas é atualizada",
-   "Tupanciretã: governo envia equipe e kits emergenciais para atendimento",
-   "Anvisa determina apreensão de suplementos alimentares"
+   "Editora Fiocruz conquista dois lugares de destaque no Prêmio Abeu",
+   "Fiocruz e Fase RJ publicam cartografia social sobre territórios populares do Rio de Janeiro",
+   "Fiocruz e Ministério da Saúde lançam Sistema AlertAr Saúde Indígena"
   ]
  },
- "ses-go": {
-  "em": "2026-11-26T15:12:07+00:00",
+ "agencia-brasil-saude": {
+  "em": "2026-11-26T23:50:31+00:00",
   "lidos": 10,
   "novos": 4,
   "exemplos": [
-   "Extrato do 15º Termo Aditivo ao Contrato n.º 214/2012 – SES/GO",
-   "Governo de Goiás lança protocolo para ampliar segurança no tratamento do câncer de mama",
-   "Serviços de saúde passam a integrar o canal oficial do Governo de Goiás no WhatsApp"
+   "Inca lança atlas sobre características do câncer em brasileiros",
+   "Ergonomia e home office: estudos mostram que o problema é ficar parado",
+   "Sedentarismo e sintomas depressivos elevam risco cardiometabólico"
+  ]
+ },
+ "ses-go": {
+  "em": "2026-11-26T23:50:31+00:00",
+  "lidos": 10,
+  "novos": 4,
+  "exemplos": [
+   "Gestores debatem demandas e avanços da saúde na Macrorregião Centro-Sudeste",
+   "SES-GO realiza reunião dos Comitês Gestores Macrorregionais da Saúde em Rio Verde",
+   "Escala HDT – Dezembro"
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-11-26T15:12:07+00:00",
+  "em": "2026-11-26T23:50:31+00:00",
   "lidos": 10,
   "novos": 2,
   "exemplos": [
-   "Polícia Civil de São Paulo faz operação contra Grupo Fictor",
-   "Itaipu atrai estudantes e empreendedores para festival de inovação",
-   "Com alerta de chuvas fortes, Rio suspende aulas na rede pública"
+   "Estudo aponta falta de dados recentes sobre 85% de estoques pesqueiros",
+   "Trivia Trens retoma operação das linhas 11- Coral e 12-Safira",
+   "Polícia Civil de São Paulo faz operação contra Grupo Fictor"
   ]
  },
  "g1-busca": {
-  "em": "2026-11-26T15:12:07+00:00",
-  "lidos": 433,
-  "novos": 8,
+  "em": "2026-11-26T23:50:31+00:00",
+  "lidos": 421,
+  "novos": 7,
   "exemplos": [
-   "Mal súbito: como prevenir e quais os primeiros socorros em casos suspeitos",
    "Piracicaba estima 14 mil casos suspeitos de dengue em 2027, aponta Saúde",
+   "Mal súbito: como prevenir e quais os primeiros socorros em casos suspeitos",
    "Sarna humana: escola de Divinópolis confirma 15 casos e suspende aulas"
   ]
  },
  "metropoles-busca": {
-  "em": "2026-11-26T15:12:07+00:00",
-  "lidos": 51,
+  "em": "2026-11-26T23:50:31+00:00",
+  "lidos": 56,
   "novos": 0,
   "exemplos": [
    "Ministro da Educação da Coreia do Sul renuncia após fraudes com uso de IA",
-   "Paciente com Mpox foge de hospital, mas é encontrado em Divinópolis (MG)",
-   "SP começa distribuição da vacina contra Mpox; estado lidera casos no Brasil"
+   "SP começa distribuição da vacina contra Mpox; estado lidera casos no Brasil",
+   "Paciente com Mpox foge de hospital, mas é encontrado em Divinópolis (MG)"
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-11-26T15:12:07+00:00",
+  "em": "2026-11-26T23:50:31+00:00",
   "lidos": 26,
   "novos": 0,
   "exemplos": [
-   "Anvisa proíbe produtos sem registro com tirzepatida e retatrutida; veja",
-   "Dieta ou treino? Estudo revela o que importa para viver mais",
-   "El Niño: SES-RJ reforça cuidados para prevenir dengue, chikungunya e zika"
+   "Por que guardar o urso de pelúcia no freezer ajuda na alergia",
+   "Prematuridade: exames ajudam a identificar risco de parto antes do tempo",
+   "Anvisa proíbe produtos sem registro com tirzepatida e retatrutida; veja"
   ]
  },
  "cnn-saude": {
-  "em": "2026-11-26T15:12:07+00:00",
+  "em": "2026-11-26T23:50:31+00:00",
   "lidos": 25,
   "novos": 0,
   "exemplos": [
@@ -184,9 +184,9 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-11-26T15:12:07+00:00",
-  "lidos": 58,
-  "novos": 0,
+  "em": "2026-11-26T23:50:31+00:00",
+  "lidos": 45,
+  "novos": 1,
   "exemplos": [
    "Measles surging is ‘a different kind of heartbreak’",
    "The CDC stays quiet on flu as an early season catches many Americans off-guard",
@@ -194,31 +194,31 @@
   ]
  },
  "inmet": {
-  "em": "2026-11-26T15:12:07+00:00",
-  "erro": "503 Server Error: Service Unavailable for url: https://portal.inmet.gov.br/noticias"
+  "em": "2026-11-26T23:50:31+00:00",
+  "lidos": 10,
+  "novos": 0,
+  "exemplos": [
+   "Previsão para terça-feira (24), quarta-feira (25) e quinta-feira (26)",
+   "INMET emite aviso vermelho para tempestades no Sul e explica condições atmosféricas que favoreceram tempestades em Tupan",
+   "INMET divulga previsão para semana de 23 a 30 de novembro de 2026"
+  ]
  },
  "cemaden": {
-  "em": "2026-11-26T15:12:07+00:00",
+  "em": "2026-11-26T23:50:31+00:00",
   "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
  },
  "defesa-civil-busca": {
-  "em": "2026-11-26T15:12:07+00:00",
-  "lidos": 38,
-  "novos": 2,
-  "exemplos": [
-   "Equipe da Defesa Civil Nacional presta socorro a Tupanciretã (RS)",
-   "Eldorado do Carajás, no Pará, vai receber R$ 2,7 milhões para ações de recuperação",
-   "Grupos de trabalho detalham monitoramento do Plano Nacional de Proteção e Defesa Civil"
-  ]
+  "em": "2026-11-26T23:50:31+00:00",
+  "erro": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Defesa%20Civil%20Nacional%22%20when%3A7d&hl=pt-BR&gl=BR&ceid=BR:pt-419"
  },
  "correio-braziliense-df": {
-  "em": "2026-11-26T15:12:07+00:00",
+  "em": "2026-11-26T23:50:31+00:00",
   "lidos": 20,
-  "novos": 9,
+  "novos": 14,
   "exemplos": [
-   "Entre os fiéis: detalhes do ataque que matou pastor durante oração",
-   "Robôs, fósseis e realidade virtual atraem público à Semana de Ciência",
-   "Celina diz trabalhar para manter o BRB público e rebate críticas"
+   "Celina diz trabalhar para manter o BRB público e rebate críticas",
+   "Família procura por adolescentes de 13 anos desaparecidas em Sobradinho 2",
+   "Homem é preso por falsificar laudos médicos para adolescente"
   ]
  }
 }
