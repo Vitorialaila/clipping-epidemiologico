@@ -1,5 +1,53 @@
 [
  {
+  "id": "49e90bef68f596",
+  "titulo": "Covid-19 avança em 23 estados e no DF, e Brasil aplica apenas um terço do volume de vacinas distribuídas neste ano",
+  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQREt2bDlVdkNaQUpGMU5IZnJTQ2hkYkZVVFpwQjZINXlLMzcxSEJoR1g0TW5VcUI4OVFuY3JZOHpzbEpyMEZfMk9aTTZqc19TYnV5dFF0ZjY1eS02WHRQbkVsa1ozMzRadGRyUEZKeEl5MjVTQnlmeUtzeTU5M2lmZ0dUaVltWTRtQWlGeVRmaXNaOEJMU0xzVTBjQXppNVRlOG5XQ3E0SVR2U2lNSW1TTFJ2cndaYmRNVWtYSUcyTUpMLXhtWDdRWmtpc3piRkJKcmhSS29uWDRDbktQcXo4ZEJzSXpMc1Vvb09OekJudW1WaGJXZWJDb9IBhwJBVV95cUxQXzV5ZEw2ektscE83S3FKS3JDQXVhY1VVMlpSYXFqUmZpZUtYVXA4TDl6S1R1UW8tWnFlYXpOTnZrMmdieHNrNEY1QzhqdkpxMVhWejh0bWtYbFgwT2Q0cG9sdlRZNnZ3cGM4dGdFLUlsTlVBdDV0THJFV1JNUXVUZnJRWmdwQUxiQVFMZzZFbTFfVlZEWmdIMTgzbmljV3pzYWViVV9iTjdqQjNyYmE3ZFNPZXJmMldFRG9YTjRKRld1NDFtRXVCMVFyc2ZmMXp0b29uNWlCalVTSjBaMC00cHphal83SW5kNnQ0SG1LU3llNWxkZGtNUzMySi0ybktlNWNfUVZCNA?oc=5",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-27",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-27T08:26:38+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 10.5,
+  "agravos": [
+   "COVID-19"
+  ],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "COVID-19 (notificação imediata) · avança · DF e RIDE"
+ },
+ {
+  "id": "4e0ac36bbaece8",
+  "titulo": "Esporotricose: Justiça dá cinco dias para governo do RS explicar ações contra doença transmitida por gatos; estado tem 1,4 mil casos em pessoas",
+  "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/27/esporotricose-justica-governo-rs-acoes-doenca-transmitida-gatos-14-mil-casos-pessoas.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-27",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-27T08:26:38+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Micoses endêmicas"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "atencao",
+  "motivo": "Micoses endêmicas (notificação semanal) · 1,4 mil casos · Brasil"
+ },
+ {
   "id": "812ea66980ad07",
   "titulo": "MPOX no RN: 19 casos confirmados e 56 em investigação",
   "url": "https://g1.globo.com/rn/rio-grande-do-norte/videos-rntv-2-edicao/video/mpox-no-rn-19-casos-confirmados-e-56-em-investigacao-15282234.ghtml",
@@ -226,6 +274,31 @@
   "motivo": "Mpox (notificação imediata) · confirma · Brasil"
  },
  {
+  "id": "856645ee653604",
+  "titulo": "Defesa Civil de Ibatiba alerta para chuvas intensas e ventos fortes nesta quinta-feira (26)",
+  "url": "https://www.ibatiba.es.gov.br/noticia/ler/3248/defesa-civil-de-ibatiba-alerta-para-chuvas-intensas-e-ventos-fortes-nesta-quinta-feira-26",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "PREFEITURA MUNICIPAL DE IBATIBA - ES",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-11-26",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-27T08:26:38+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alerta para"
+  ],
+  "categoria": "monitoramento",
+  "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · Brasil"
+ },
+ {
   "id": "3f2d2a68d36bea",
   "titulo": "Surto de ebola na República Democrática do Congo supera 12 mil casos e deixa quase 6 mil mortos",
   "url": "https://g1.globo.com/mundo/noticia/2026/11/26/surto-de-ebola-na-republica-democratica-do-congo-supera-12-mil-casos-e-deixa-quase-6-mil-mortos.ghtml",
@@ -433,6 +506,29 @@
   "termos_evento": [],
   "categoria": "monitoramento",
   "motivo": "Doença pelo vírus Ebola (notificação imediata) · sem ocorrência relatada no título · internacional"
+ },
+ {
+  "id": "5f016bdcc23b98",
+  "titulo": "Nova variante da Covid-19 chega em seis estados brasileiros e OMS monitora",
+  "url": "https://www.cnnbrasil.com.br/saude/nova-variante-da-covid-19-chega-em-seis-estados-brasileiros-e-oms-monitora/",
+  "fonte_id": "cnn-brasil-saude",
+  "fonte": "CNN Brasil | Saúde",
+  "sigla": "CNN Brasil",
+  "idioma": "pt",
+  "data": "2026-11-26",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-27T08:26:38+00:00",
+  "municipios": [],
+  "pontuacao": 4.5,
+  "agravos": [
+   "COVID-19"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": "COVID-19 (notificação imediata) · sem ocorrência relatada no título · internacional"
  },
  {
   "id": "70a03c899113f9",
@@ -1400,6 +1496,73 @@
   "se": "2026-47",
   "descricao": "",
   "coletado_em": "2026-11-26T23:50:31+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "c10afc9918dba4",
+  "titulo": "Amazonas, Pará e Roraima passam por apagão de energia nesta quinta",
+  "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/amazonas-para-e-roraima-passam-por-apagao-de-energia-nesta-quinta",
+  "fonte_id": "agencia-brasil-geral",
+  "fonte": "Agência Brasil | Geral",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-11-26",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "Amazonas, Pará e Roraima passaram por um apagão de energia elétrica na tarde desta quinta-feira (26), resultado do desligamento de cerca de 2.323 MW em linhas de transmissão na Região Norte. O Operador Nacional do Sistema Elétrico (ONS) disse que o restabelecimento de energia ocorre de forma gradual. \"Às 19h17, estavam restabelecidos 1.567 MW no estado do Amazonas. E, no mesmo horário, 192 MW em Roraima. No Pará, os 58,5 MW de carga interrompidos estavam restabelecidos às 18h01\", informou o ONS em nota.",
+  "coletado_em": "2026-11-27T08:26:38+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "ac3d95b203795a",
+  "titulo": "Além da mostra de Renoir: confira centros culturais gratuitos no DF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7545253-alem-da-mostra-de-renoir-confira-centros-culturais-gratuitos-no-df.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-26",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-27T08:26:38+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "31c50f83708d71",
+  "titulo": "Júri condena homem a 19 anos por tentar matar mulher na frente de crianças",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7545236-juri-condena-homem-a-19-anos-por-tentar-matar-mulher-na-frente-de-criancas.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-26",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-27T08:26:38+00:00",
   "municipios": [
    "Distrito Federal"
   ],

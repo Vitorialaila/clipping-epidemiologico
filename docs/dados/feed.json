@@ -1,5 +1,43 @@
 [
  {
+  "t": "Covid-19 avança em 23 estados e no DF, e Brasil aplica apenas um terço do volume de vacinas distribuídas neste ano",
+  "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQREt2bDlVdkNaQUpGMU5IZnJTQ2hkYkZVVFpwQjZINXlLMzcxSEJoR1g0TW5VcUI4OVFuY3JZOHpzbEpyMEZfMk9aTTZqc19TYnV5dFF0ZjY1eS02WHRQbkVsa1ozMzRadGRyUEZKeEl5MjVTQnlmeUtzeTU5M2lmZ0dUaVltWTRtQWlGeVRmaXNaOEJMU0xzVTBjQXppNVRlOG5XQ3E0SVR2U2lNSW1TTFJ2cndaYmRNVWtYSUcyTUpMLXhtWDdRWmtpc3piRkJKcmhSS29uWDRDbktQcXo4ZEJzSXpMc1Vvb09OekJudW1WaGJXZWJDb9IBhwJBVV95cUxQXzV5ZEw2ektscE83S3FKS3JDQXVhY1VVMlpSYXFqUmZpZUtYVXA4TDl6S1R1UW8tWnFlYXpOTnZrMmdieHNrNEY1QzhqdkpxMVhWejh0bWtYbFgwT2Q0cG9sdlRZNnZ3cGM4dGdFLUlsTlVBdDV0THJFV1JNUXVUZnJRWmdwQUxiQVFMZzZFbTFfVlZEWmdIMTgzbmljV3pzYWViVV9iTjdqQjNyYmE3ZFNPZXJmMldFRG9YTjRKRld1NDFtRXVCMVFyc2ZmMXp0b29uNWlCalVTSjBaMC00cHphal83SW5kNnQ0SG1LU3llNWxkZGtNUzMySi0ybktlNWNfUVZCNA?oc=5",
+  "d": "2026-11-27",
+  "df": "27 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "DF",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 10.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "respiratorio",
+  "m": [
+   "Distrito Federal"
+  ],
+  "c": "alerta"
+ },
+ {
+  "t": "Esporotricose: Justiça dá cinco dias para governo do RS explicar ações contra doença transmitida por gatos; estado tem 1,4 mil casos em pessoas",
+  "u": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/27/esporotricose-justica-governo-rs-acoes-doenca-transmitida-gatos-14-mil-casos-pessoas.ghtml",
+  "d": "2026-11-27",
+  "df": "27 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Micoses endêmicas"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "fungo",
+  "m": [],
+  "c": "atencao"
+ },
+ {
   "t": "MPOX no RN: 19 casos confirmados e 56 em investigação",
   "u": "https://g1.globo.com/rn/rio-grande-do-norte/videos-rntv-2-edicao/video/mpox-no-rn-19-casos-confirmados-e-56-em-investigacao-15282234.ghtml",
   "d": "2026-11-26",
@@ -164,6 +202,24 @@
   "c": "alerta"
  },
  {
+  "t": "Defesa Civil de Ibatiba alerta para chuvas intensas e ventos fortes nesta quinta-feira (26)",
+  "u": "https://www.ibatiba.es.gov.br/noticia/ler/3248/defesa-civil-de-ibatiba-alerta-para-chuvas-intensas-e-ventos-fortes-nesta-quinta-feira-26",
+  "d": "2026-11-26",
+  "df": "26 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "PREFEITURA MUNICIPAL DE IBATIBA - ES",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 9.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "Surto de ebola na República Democrática do Congo supera 12 mil casos e deixa quase 6 mil mortos",
   "u": "https://g1.globo.com/mundo/noticia/2026/11/26/surto-de-ebola-na-republica-democratica-do-congo-supera-12-mil-casos-e-deixa-quase-6-mil-mortos.ghtml",
   "d": "2026-11-26",
@@ -322,6 +378,24 @@
   "se": "2026-47",
   "r": "Addis Ababa, Ethiopia, 26 November 2026 – The Africa Centres for Disease Control and Prevention (Africa CDC) welcomes and expresses its appreciation to the State of Qatar for its decision to lift Ebola-related travel restrictions on Uganda and resume the…",
   "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Nova variante da Covid-19 chega em seis estados brasileiros e OMS monitora",
+  "u": "https://www.cnnbrasil.com.br/saude/nova-variante-da-covid-19-chega-em-seis-estados-brasileiros-e-oms-monitora/",
+  "d": "2026-11-26",
+  "df": "26 nov 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Internacional",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 4.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "respiratorio",
   "m": [],
   "c": "monitoramento"
  },
@@ -13111,46 +13185,6 @@
   "p": 6.0,
   "se": "2026-35",
   "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 29 August - 4 September, and includes updates on Ebola, SARS-CoV-2 variant classification, West Nile virus, Crimean-Congo haemorrhagic fever, dengue, chikungunya, vibrio…",
-  "i": "virus",
-  "m": [],
-  "c": "atencao"
- },
- {
-  "t": "Communicable disease threats report, 22 - 28 August, week 35",
-  "u": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-22-28-august-week-35",
-  "d": "2026-08-28",
-  "df": "28 ago 2026",
-  "f": "ECDC",
-  "fn": "ECDC | Communicable Disease Threats Report",
-  "e": "Internacional",
-  "a": [
-   "Poliomielite",
-   "Febres hemorrágicas virais",
-   "Doença pelo vírus Ebola"
-  ],
-  "p": 6.0,
-  "se": "2026-34",
-  "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 22 - 28 August, and includes updates on diphtheria, Ebola, swine influenza A(H1N2), respiratory virus epidemiology, Crimean-Congo haemorrhagic fever, dengue, chikungunya virus…",
-  "i": "virus",
-  "m": [],
-  "c": "atencao"
- },
- {
-  "t": "Communicable disease threats report, 22 - 28 August 2026, week 35",
-  "u": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-22-28-august-2026-week-35",
-  "d": "2026-08-28",
-  "df": "28 ago 2026",
-  "f": "ECDC",
-  "fn": "ECDC | Communicable Disease Threats Report",
-  "e": "Internacional",
-  "a": [
-   "Poliomielite",
-   "Febres hemorrágicas virais",
-   "Doença pelo vírus Ebola"
-  ],
-  "p": 6.0,
-  "se": "2026-34",
-  "r": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 22 - 28 August, and includes updates on diphtheria, Ebola, swine influenza A(H1N2), respiratory virus epidemiology, Crimean-Congo haemorrhagic fever, dengue, chikungunya virus…",
   "i": "virus",
   "m": [],
   "c": "atencao"
