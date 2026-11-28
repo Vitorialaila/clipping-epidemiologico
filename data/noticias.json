@@ -25,6 +25,60 @@
   "motivo": "Mpox (notificação imediata) · confirma · Brasil"
  },
  {
+  "id": "bf87f4891ab48e",
+  "titulo": "Giro Saúde destaca novo medicamento para câncer de mama, vacinação contra mpox e Novembro Negro",
+  "url": "https://agencia.fiocruz.br/giro-saude-destaca-novo-medicamento-para-cancer-de-mama-vacinacao-contra-mpox-e-novembro-negro",
+  "fonte_id": "fiocruz",
+  "fonte": "Agência Fiocruz de Notícias",
+  "sigla": "Fiocruz",
+  "idioma": "pt",
+  "data": "2026-11-27",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "Giro Saúde destaca novo medicamento para câncer de mama, vacinação contra mpox e Novembro Negro O episódio desta semana do Giro Saúde aborda a aprovação pela Agência Nacional de Vigilância Sanitária (Anvisa) de um novo medicamento para o tratamento do câncer de mama e sobre o começo da distribuição da vacina contra mpox. O Ministério da Saúde (MS) destacou as ações do Novembro Negro e o desenvolvimento de uma vacina terapêutica contra o câncer. Já a Agência Fiocruz de Notícias (AFN) destacou um ensaio clínico com evidências da eficácia do Método Wolbachia contra a chikungunya e o lançamento do Sistema AlertAr Saúde Indígena. Ficha técnica: Roteiro e apresentação : Anna Cecília Prestes e Natalie Kruschewsky; Edição : Natalie Kruschewsky; Coordenação do Canal Saúde Podcasts : Gustavo Audi; Arte da capa : Marcelo Viana; Foto : Nadezhda Moryak/Pexels. O podcast Giro Saúde é uma produção do Canal Saúde da Fiocruz, em parceria com a AFN e o MS.",
+  "coletado_em": "2026-11-28T01:58:16+00:00",
+  "municipios": [],
+  "pontuacao": 11.5,
+  "agravos": [
+   "Mpox",
+   "Chikungunya",
+   "Arboviroses"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "vigilancia"
+  ],
+  "categoria": "monitoramento",
+  "motivo": "Mpox (notificação imediata) · sem ocorrência relatada no título · Brasil"
+ },
+ {
+  "id": "8c1bad216c8778",
+  "titulo": "Aumento de casos de covid-19 pode estar relacionado a nova variante",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/aumento-de-casos-de-covid-19-pode-estar-relacionado-nova-variante",
+  "fonte_id": "agencia-brasil-saude",
+  "fonte": "Agência Brasil | Saúde",
+  "sigla": "Agência Brasil",
+  "idioma": "pt",
+  "data": "2026-11-27",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "Os casos de Síndrome Respiratória Aguda Grave (SRAG) por covid-19 continuam aumentando no país, com índice baixo de incidência. Segundo informações do Boletim Infogripe, da Fundação Oswaldo Cruz (Fiocruz), o aumento de casos pode estar relacionado à circulação de uma nova variante do vírus, potencialmente mais transmissível, e à redução da imunidade da população.",
+  "coletado_em": "2026-11-28T01:58:16+00:00",
+  "municipios": [],
+  "pontuacao": 11.5,
+  "agravos": [
+   "COVID-19",
+   "Influenza e vírus respiratórios"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "boletim",
+   "aumento de casos"
+  ],
+  "categoria": "alerta",
+  "motivo": "COVID-19 (notificação imediata) · Aumento de casos · Brasil"
+ },
+ {
   "id": "49e90bef68f596",
   "titulo": "Covid-19 avança em 23 estados e no DF, e Brasil aplica apenas um terço do volume de vacinas distribuídas neste ano",
   "url": "https://g1.globo.com/saude/noticia/2026/11/27/covid-19-avanca-em-23-estados-e-no-df-e-brasil-aplica-apenas-um-terco-do-volume-de-vacinas-distribuidas-neste-ano.ghtml",
@@ -120,6 +174,55 @@
   ],
   "categoria": "monitoramento",
   "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · Brasil"
+ },
+ {
+  "id": "e65a0235edf241",
+  "titulo": "Montes Claros confirma dois novos casos de Mpox",
+  "url": "https://g1.globo.com/google/amp/mg/grande-minas/videos-bom-dia-inter/video/montes-claros-confirma-dois-novos-casos-de-mpox-15286641.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-27",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-28T01:58:16+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Mpox"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "Mpox (notificação imediata) · confirma · Brasil"
+ },
+ {
+  "id": "0eea54b086ff27",
+  "titulo": "Historic low in measles deaths, but immunization gaps threaten progress",
+  "url": "https://www.who.int/news/item/27-11-2026-historic-low-in-measles-deaths--but-immunization-gaps-threaten-progress",
+  "fonte_id": "oms-noticias",
+  "fonte": "OMS | Notícias",
+  "sigla": "OMS",
+  "idioma": "en",
+  "data": "2026-11-27",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-28T01:58:16+00:00",
+  "municipios": [],
+  "pontuacao": 8.5,
+  "agravos": [
+   "Sarampo",
+   "Imunização"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [
+   "deaths"
+  ],
+  "categoria": "alerta",
+  "motivo": "Sarampo (notificação imediata) · deaths · internacional"
  },
  {
   "id": "4e0ac36bbaece8",
@@ -237,6 +340,29 @@
   "motivo": "COVID-19 (notificação imediata) · sem ocorrência relatada no título · Brasil"
  },
  {
+  "id": "181e45f5e3431e",
+  "titulo": "Covid: DF tem 494 casos em uma semana em meio à descoberta de nova variante",
+  "url": "https://www.metropoles.com/distrito-federal/covid-df-tem-494-casos-em-uma-semana-em-meio-a-descoberta-de-nova-variante",
+  "fonte_id": "metropoles-busca",
+  "fonte": "Metrópoles",
+  "sigla": "Metrópoles",
+  "idioma": "pt",
+  "data": "2026-11-27",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-28T01:58:16+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "COVID-19"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "COVID-19 (notificação imediata) · 494 casos · Brasil"
+ },
+ {
   "id": "3bebab8862924d",
   "titulo": "Nav. ed. pt Giro Saude 27 de novembro",
   "url": "https://agencia.fiocruz.br/nav-ed-pt-giro-saude-27-de-novembro",
@@ -258,6 +384,75 @@
   "termos_evento": [],
   "categoria": "monitoramento",
   "motivo": "Mpox (notificação imediata) · sem ocorrência relatada no título · Brasil"
+ },
+ {
+  "id": "2dc4e375063d05",
+  "titulo": "WHO issues updated Ebola response recommendations, calling for improved security and accelerated research",
+  "url": "https://www.who.int/news/item/27-11-2026-who-issues-updated-ebola-response-recommendations--calling-for-improved-security-and-accelerated-research",
+  "fonte_id": "oms-noticias",
+  "fonte": "OMS | Notícias",
+  "sigla": "OMS",
+  "idioma": "en",
+  "data": "2026-11-27",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-28T01:58:16+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Doença pelo vírus Ebola"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": "Doença pelo vírus Ebola (notificação imediata) · sem ocorrência relatada no título · internacional"
+ },
+ {
+  "id": "e045c9c9ebeb42",
+  "titulo": "Mpox dispara e novembro tem mais casos do que todos os outros meses juntos",
+  "url": "https://www.cnnbrasil.com.br/saude/mpox-dispara-e-novembro-tem-mais-casos-do-que-todos-os-outros-meses-juntos/",
+  "fonte_id": "cnn-brasil-saude",
+  "fonte": "CNN Brasil | Saúde",
+  "sigla": "CNN Brasil",
+  "idioma": "pt",
+  "data": "2026-11-27",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-28T01:58:16+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Mpox"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "Mpox (notificação imediata) · dispara · internacional"
+ },
+ {
+  "id": "c3abbc848a11b2",
+  "titulo": "If you were born before 1989, you may be at higher risk of measles",
+  "url": "https://www.cnn.com/2026/11/27/health/video/born-before-1989-higher-risk-of-measles-digvid-vrtc",
+  "fonte_id": "cnn-busca",
+  "fonte": "CNN",
+  "sigla": "CNN",
+  "idioma": "en",
+  "data": "2026-11-27",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-28T01:58:16+00:00",
+  "municipios": [],
+  "pontuacao": 6.5,
+  "agravos": [
+   "Sarampo"
+  ],
+  "escopo": "Internacional",
+  "termos_evento": [],
+  "categoria": "atencao",
+  "motivo": "Sarampo (notificação imediata) · situação ou risco (risk) · internacional"
  },
  {
   "id": "578cb73b9107bf",
@@ -897,6 +1092,209 @@
   "motivo": ""
  },
  {
+  "id": "b42b8bb5f367c4",
+  "titulo": "Global Clinical Trials Forum strengthens collaboration to advance implementation of resolution WHA75.8",
+  "url": "https://www.who.int/news/item/27-11-2026-global-clinical-trials-forum-strengthens-collaboration-to-advance-implementation-of-resolution-wha75.8",
+  "fonte_id": "oms-noticias",
+  "fonte": "OMS | Notícias",
+  "sigla": "OMS",
+  "idioma": "en",
+  "data": "2026-11-27",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-28T01:58:16+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Internacional",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "93a48e36cd85fd",
+  "titulo": "Escola de Saúde de Goiás reúne gestores e profissionais do SUS em Aula Magna da Especialização em Redes de Atenção à Saúde",
+  "url": "https://goias.gov.br/saude/escola-de-saude-de-goias-reune-gestores-e-profissionais-do-sus-em-aula-magna-da-especializacao-em-redes-de-atencao-a-saude/",
+  "fonte_id": "ses-go",
+  "fonte": "SES-GO | Notícias",
+  "sigla": "SES-GO",
+  "idioma": "pt",
+  "data": "2026-11-27",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "Aula inaugural contou com palestra do sanitarista Eugênio Vilaça Mendes e marcou início de formação que vai preparar 84 especialistas para fortalecer integração e organização das redes de saúde em Goiás A Escola de Saúde de Goiás (Sesg), unidade da Secretaria de Estado da Saúde de Goiás (SES-GO), realizou, nesta sexta-feira (27/11), a Aula Magna […]",
+  "coletado_em": "2026-11-28T01:58:16+00:00",
+  "municipios": [],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "b60492cd9a0128",
+  "titulo": "Companheiro esfaqueia mulher, incendeia casa e é linchado no DF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7545896-apos-esfaquear-mulher-e-atear-fogo-em-casa-com-ela-dentro-homem-e-espancado.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-27",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-28T01:58:16+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "601aac2502f2b0",
+  "titulo": "Obituário: 30 funerais nesta sexta-feira (27/11); confira a lista",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7545858-obituario-30-funerais-nesta-sexta-feira-27-11-confira-a-lista.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-27",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-28T01:58:16+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "d80683eb7ab394",
+  "titulo": "Polícia Federal apreende R$ 1,6 milhão em espécie no DF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7545811-policia-federal-apreende-rs-16-milhao-em-especie-no-df.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-27",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-28T01:58:16+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "96ff2f64eaf3aa",
+  "titulo": "Dia do Evangélico: veja o que abre e fecha no DF no feriado de segunda",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7545745-dia-do-evangelico-veja-o-que-abre-e-fecha-no-df-no-feriado-de-segunda.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-27",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-28T01:58:16+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "6990b9320b4d52",
+  "titulo": "Brasília é centro estratégico da expansão da Geap Saúde, diz presidente",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7545754-brasilia-e-centro-estrategico-da-expansao-da-geap-saude-diz-presidente.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-27",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-28T01:58:16+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "bccd62fa66aa5b",
+  "titulo": "\"Queremos uma produção rural mais sustentável\", diz secretário",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7545772-queremos-uma-producao-rural-mais-sustentavel-diz-secretario.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-27",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-28T01:58:16+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "0c52f48cb72b4a",
+  "titulo": "Celina Leão apoia indicação de Trabuco para o Ministério da Fazenda",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7545678-celina-leao-apoia-indicacao-de-trabuco-para-o-ministerio-da-fazenda.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-27",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-28T01:58:16+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
   "id": "812ea66980ad07",
   "titulo": "MPOX no RN: 19 casos confirmados e 56 em investigação",
   "url": "https://g1.globo.com/rn/rio-grande-do-norte/videos-rntv-2-edicao/video/mpox-no-rn-19-casos-confirmados-e-56-em-investigacao-15282234.ghtml",
@@ -1148,6 +1546,29 @@
   "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · Brasil"
  },
  {
+  "id": "2a3b468082d095",
+  "titulo": "Casos de mpox aumentam na Paraíba e dobram em João Pessoa",
+  "url": "https://g1.globo.com/google/amp/pb/paraiba/videos-jpb1/video/casos-de-mpox-aumentam-na-paraiba-e-dobram-em-joao-pessoa-15284117.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-26",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-28T01:58:16+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Mpox"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "Mpox (notificação imediata) · Casos de mpox · Brasil"
+ },
+ {
   "id": "3f2d2a68d36bea",
   "titulo": "Surto de ebola na República Democrática do Congo supera 12 mil casos e deixa quase 6 mil mortos",
   "url": "https://g1.globo.com/mundo/noticia/2026/11/26/surto-de-ebola-na-republica-democratica-do-congo-supera-12-mil-casos-e-deixa-quase-6-mil-mortos.ghtml",
@@ -1332,6 +1753,29 @@
   "termos_evento": [],
   "categoria": "atencao",
   "motivo": "Dengue (notificação semanal) · 55 casos · Brasil"
+ },
+ {
+  "id": "03fa0f8c81edd5",
+  "titulo": "Reconhecida emergência em 96 cidades mineiras afetadas pela seca",
+  "url": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-em-96-cidades-mineiras-afetadas-pela-seca",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "www.gov.br",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-11-26",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-28T01:58:16+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "atencao",
+  "motivo": "Saúde ambiental e clima · Reconhecida emergência · Brasil"
  },
  {
   "id": "c6b0f829dc9d87",
@@ -2642,6 +3086,29 @@
   "termos_evento": [],
   "categoria": "alerta",
   "motivo": "Mpox (notificação imediata) · suspeita de Mpox · Brasil"
+ },
+ {
+  "id": "c97023d2b20234",
+  "titulo": "Mais de 220 casos de MPOX confirmados no Ceará",
+  "url": "https://g1.globo.com/google/amp/ce/ceara/videos-cetv-1-edicao/video/mais-de-220-casos-de-mpox-confirmados-no-ceara-15280320.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-25",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-28T01:58:16+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Mpox"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "alerta",
+  "motivo": "Mpox (notificação imediata) · 220 casos · Brasil"
  },
  {
   "id": "737fe3a0b85418",

@@ -18,6 +18,45 @@
   "c": "alerta"
  },
  {
+  "t": "Giro Saúde destaca novo medicamento para câncer de mama, vacinação contra mpox e Novembro Negro",
+  "u": "https://agencia.fiocruz.br/giro-saude-destaca-novo-medicamento-para-cancer-de-mama-vacinacao-contra-mpox-e-novembro-negro",
+  "d": "2026-11-27",
+  "df": "27 nov 2026",
+  "f": "Fiocruz",
+  "fn": "Agência Fiocruz de Notícias",
+  "e": "Brasil",
+  "a": [
+   "Mpox",
+   "Chikungunya",
+   "Arboviroses"
+  ],
+  "p": 11.5,
+  "se": "2026-47",
+  "r": "Giro Saúde destaca novo medicamento para câncer de mama, vacinação contra mpox e Novembro Negro O episódio desta semana do Giro Saúde aborda a aprovação pela Agência Nacional de Vigilância Sanitária (Anvisa) de um novo medicamento para o tratamento do câncer…",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Aumento de casos de covid-19 pode estar relacionado a nova variante",
+  "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/aumento-de-casos-de-covid-19-pode-estar-relacionado-nova-variante",
+  "d": "2026-11-27",
+  "df": "27 nov 2026",
+  "f": "Agência Brasil",
+  "fn": "Agência Brasil | Saúde",
+  "e": "Brasil",
+  "a": [
+   "COVID-19",
+   "Influenza e vírus respiratórios"
+  ],
+  "p": 11.5,
+  "se": "2026-47",
+  "r": "Os casos de Síndrome Respiratória Aguda Grave (SRAG) por covid-19 continuam aumentando no país, com índice baixo de incidência. Segundo informações do Boletim Infogripe, da Fundação Oswaldo Cruz (Fiocruz), o aumento de casos pode estar relacionado à…",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Covid-19 avança em 23 estados e no DF, e Brasil aplica apenas um terço do volume de vacinas distribuídas neste ano",
   "u": "https://g1.globo.com/saude/noticia/2026/11/27/covid-19-avanca-em-23-estados-e-no-df-e-brasil-aplica-apenas-um-terco-do-volume-de-vacinas-distribuidas-neste-ano.ghtml",
   "d": "2026-11-27",
@@ -90,6 +129,43 @@
   "i": "clima",
   "m": [],
   "c": "monitoramento"
+ },
+ {
+  "t": "Montes Claros confirma dois novos casos de Mpox",
+  "u": "https://g1.globo.com/google/amp/mg/grande-minas/videos-bom-dia-inter/video/montes-claros-confirma-dois-novos-casos-de-mpox-15286641.ghtml",
+  "d": "2026-11-27",
+  "df": "27 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Historic low in measles deaths, but immunization gaps threaten progress",
+  "u": "https://www.who.int/news/item/27-11-2026-historic-low-in-measles-deaths--but-immunization-gaps-threaten-progress",
+  "d": "2026-11-27",
+  "df": "27 nov 2026",
+  "f": "OMS",
+  "fn": "OMS | Notícias",
+  "e": "Internacional",
+  "a": [
+   "Sarampo",
+   "Imunização"
+  ],
+  "p": 8.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
  },
  {
   "t": "Esporotricose: Justiça dá cinco dias para governo do RS explicar ações contra doença transmitida por gatos; estado tem 1,4 mil casos em pessoas",
@@ -182,6 +258,24 @@
   "c": "monitoramento"
  },
  {
+  "t": "Covid: DF tem 494 casos em uma semana em meio à descoberta de nova variante",
+  "u": "https://www.metropoles.com/distrito-federal/covid-df-tem-494-casos-em-uma-semana-em-meio-a-descoberta-de-nova-variante",
+  "d": "2026-11-27",
+  "df": "27 nov 2026",
+  "f": "Metrópoles",
+  "fn": "Metrópoles",
+  "e": "Brasil",
+  "a": [
+   "COVID-19"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "respiratorio",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Nav. ed. pt Giro Saude 27 de novembro",
   "u": "https://agencia.fiocruz.br/nav-ed-pt-giro-saude-27-de-novembro",
   "d": "2026-11-27",
@@ -198,6 +292,60 @@
   "i": "virus",
   "m": [],
   "c": "monitoramento"
+ },
+ {
+  "t": "WHO issues updated Ebola response recommendations, calling for improved security and accelerated research",
+  "u": "https://www.who.int/news/item/27-11-2026-who-issues-updated-ebola-response-recommendations--calling-for-improved-security-and-accelerated-research",
+  "d": "2026-11-27",
+  "df": "27 nov 2026",
+  "f": "OMS",
+  "fn": "OMS | Notícias",
+  "e": "Internacional",
+  "a": [
+   "Doença pelo vírus Ebola"
+  ],
+  "p": 6.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Mpox dispara e novembro tem mais casos do que todos os outros meses juntos",
+  "u": "https://www.cnnbrasil.com.br/saude/mpox-dispara-e-novembro-tem-mais-casos-do-que-todos-os-outros-meses-juntos/",
+  "d": "2026-11-27",
+  "df": "27 nov 2026",
+  "f": "CNN Brasil",
+  "fn": "CNN Brasil | Saúde",
+  "e": "Internacional",
+  "a": [
+   "Mpox"
+  ],
+  "p": 6.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "If you were born before 1989, you may be at higher risk of measles",
+  "u": "https://www.cnn.com/2026/11/27/health/video/born-before-1989-higher-risk-of-measles-digvid-vrtc",
+  "d": "2026-11-27",
+  "df": "27 nov 2026",
+  "f": "CNN",
+  "fn": "CNN",
+  "e": "Internacional",
+  "a": [
+   "Sarampo"
+  ],
+  "p": 6.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "atencao"
  },
  {
   "t": "Dia D contra dengue tem mosquitos estéreis e com bactéria que sabota doença",
@@ -400,6 +548,24 @@
   "c": "monitoramento"
  },
  {
+  "t": "Casos de mpox aumentam na Paraíba e dobram em João Pessoa",
+  "u": "https://g1.globo.com/google/amp/pb/paraiba/videos-jpb1/video/casos-de-mpox-aumentam-na-paraiba-e-dobram-em-joao-pessoa-15284117.ghtml",
+  "d": "2026-11-26",
+  "df": "26 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
   "t": "Surto de ebola na República Democrática do Congo supera 12 mil casos e deixa quase 6 mil mortos",
   "u": "https://g1.globo.com/mundo/noticia/2026/11/26/surto-de-ebola-na-republica-democratica-do-congo-supera-12-mil-casos-e-deixa-quase-6-mil-mortos.ghtml",
   "d": "2026-11-26",
@@ -540,6 +706,24 @@
   "se": "2026-47",
   "r": "",
   "i": "mosquito",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Reconhecida emergência em 96 cidades mineiras afetadas pela seca",
+  "u": "https://www.gov.br/mdr/pt-br/noticias/reconhecida-emergencia-em-96-cidades-mineiras-afetadas-pela-seca",
+  "d": "2026-11-26",
+  "df": "26 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "www.gov.br",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "clima",
   "m": [],
   "c": "atencao"
  },
@@ -728,6 +912,24 @@
  {
   "t": "Homem com suspeita de Mpox foge de hospital em Divinópolis e é encontrado",
   "u": "https://g1.globo.com/google/amp/mg/centro-oeste/videos-mgtv-2-edicao/video/homem-com-suspeita-de-mpox-foge-de-hospital-em-divinopolis-e-e-encontrado-15282103.ghtml",
+  "d": "2026-11-25",
+  "df": "25 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Mpox"
+  ],
+  "p": 9.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "virus",
+  "m": [],
+  "c": "alerta"
+ },
+ {
+  "t": "Mais de 220 casos de MPOX confirmados no Ceará",
+  "u": "https://g1.globo.com/google/amp/ce/ceara/videos-cetv-1-edicao/video/mais-de-220-casos-de-mpox-confirmados-no-ceara-15280320.ghtml",
   "d": "2026-11-25",
   "df": "25 nov 2026",
   "f": "G1",
