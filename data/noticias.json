@@ -1,5 +1,174 @@
 [
  {
+  "id": "556e368c515e87",
+  "titulo": "Sarna humana em MS: surto supera mil casos e atinge 43 cidades",
+  "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/28/surto-de-sarna-com-mais-de-1-mil-casos-doenca-se-espalha-por-mais-da-metade-das-cidades-de-ms.ghtml",
+  "fonte_id": "g1-busca",
+  "fonte": "G1",
+  "sigla": "G1",
+  "idioma": "pt",
+  "data": "2026-11-28",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-28T10:23:39+00:00",
+  "municipios": [],
+  "pontuacao": 10.0,
+  "agravos": [
+   "Escabiose"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "surto"
+  ],
+  "categoria": "atencao",
+  "motivo": "Escabiose · surto · Brasil"
+ },
+ {
+  "id": "917c3fde888e17",
+  "titulo": "Defesa Civil alerta para risco de tempestades em São Paulo neste sábado (28)",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeHFiNVBudXZ1TVo4ZXZ4NHRHTUlHLXdTbllCRS15QVdtTElCWW1NSF9IUWh5MTVvODhvQjhZbHpkY2FXT3JBVUFTX3g5Rmg0QkZDZHdtUUszRnlKMUlYM1dOeXRCa1ZxZTQ0RnZIMzFOTHFnVzlGR1hVRjNNd2dOTEgxZm11RU1ubnc2SE00eHdNLTdXYkpSRzJXOHZaVm1pTlVjTXQ3cTJKaHh4LWFiNzBjaWJuSTFkRVBIZQ?oc=5",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "agenciasp.sp.gov.br",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-11-28",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-28T10:23:39+00:00",
+  "municipios": [],
+  "pontuacao": 9.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "alerta para"
+  ],
+  "categoria": "monitoramento",
+  "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · Brasil"
+ },
+ {
+  "id": "059c0783eac5eb",
+  "titulo": "Secretário destaca ações para fortalecer produção e agropecuária no DF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7545718-secretario-destaca-acoes-para-fortalecer-producao-e-agropecuaria-no-df.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-28",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-28T10:23:39+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "98e2c4fb15f4d8",
+  "titulo": "Natal impulsiona vendas e oportunidades para pequenos negócios no DF",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7544389-natal-impulsiona-vendas-e-oportunidades-para-pequenos-negocios-no-df.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-28",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-28T10:23:39+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "8b7feb3003198d",
+  "titulo": "DF é centro estratégico da expansão da Geap, afirma diretor-presidente",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7545793-df-e-centro-estrategico-da-expansao-da-geap-afirma-diretor-presidente.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-28",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-28T10:23:39+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "a6f7e5ac2313ca",
+  "titulo": "Pirenópolis e Alto Paraíso prontos para uma esticadinha no feriadão",
+  "url": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7545796-pirenopolis-e-alto-paraiso-prontos-para-uma-esticadinha-no-feriadao.html",
+  "fonte_id": "correio-braziliense-df",
+  "fonte": "Correio Braziliense | Cidades DF",
+  "sigla": "Correio Braziliense",
+  "idioma": "pt",
+  "data": "2026-11-28",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-28T10:23:39+00:00",
+  "municipios": [
+   "Distrito Federal"
+  ],
+  "pontuacao": 0.0,
+  "agravos": [],
+  "escopo": "DF",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": ""
+ },
+ {
+  "id": "af05533bd2d68a",
+  "titulo": "Defesa Civil atualiza aviso hidrometeorológico com previsão de chuva intensa, temporais isolados e risco de inundações para o RS",
+  "url": "https://estado.rs.gov.br/defesa-civil-atualiza-aviso-hidrometeorologico-com-previsao-de-chuva-intensa-temporais-isolados-e-risco-de-inundacoes-para-o-rs",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "Portal do Estado do Rio Grande do Sul",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-11-27",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-28T10:23:39+00:00",
+  "municipios": [],
+  "pontuacao": 13.5,
+  "agravos": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [
+   "inundacoes",
+   "previsao"
+  ],
+  "categoria": "monitoramento",
+  "motivo": "Emergências e desastres · aviso, previsão ou sem impacto relatado · Brasil"
+ },
+ {
   "id": "fa8a0e7d077bbd",
   "titulo": "Barra do Piraí confirma primeiro caso de mpox no município",
   "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/27/barra-do-pirai-confirma-primeiro-caso-de-mpox-no-municipio.ghtml",
@@ -361,6 +530,29 @@
   "termos_evento": [],
   "categoria": "alerta",
   "motivo": "COVID-19 (notificação imediata) · 494 casos · Brasil"
+ },
+ {
+  "id": "401aa7ec65d2b2",
+  "titulo": "Fundo Social de SP envia ajuda humanitária para Registro diante de alerta de chuvas fortes no Litoral Sul",
+  "url": "https://www.agenciasp.sp.gov.br/social/fundo-social-de-sp-envia-ajuda-humanitaria-para-registro-diante-de-alerta-de-chuvas-fortes-no-litoral-sul/",
+  "fonte_id": "defesa-civil-busca",
+  "fonte": "agenciasp.sp.gov.br",
+  "sigla": "Defesa Civil",
+  "idioma": "pt",
+  "data": "2026-11-27",
+  "data_estimada": false,
+  "se": "2026-47",
+  "descricao": "",
+  "coletado_em": "2026-11-28T10:23:39+00:00",
+  "municipios": [],
+  "pontuacao": 7.5,
+  "agravos": [
+   "Saúde ambiental e clima"
+  ],
+  "escopo": "Brasil",
+  "termos_evento": [],
+  "categoria": "monitoramento",
+  "motivo": "Saúde ambiental e clima · aviso, previsão ou sem impacto relatado · Brasil"
  },
  {
   "id": "3bebab8862924d",

@@ -2,7 +2,7 @@
  "nome": "Sarampo no Brasil, 2026",
  "sigla": "SARAMPO_BR",
  "descricao": "Casos confirmados de sarampo no Brasil em 2026, segundo o Ministério da Saúde. Dados até 19/11/2026 (SE 46).",
- "atualizado_em": "2026-11-27T23:10:32.363243",
+ "atualizado_em": "2026-11-28T07:37:11.663020",
  "fonte_dados": "Ministério da Saúde, Painel de Exantemáticas (CNIE); Ministério da Saúde, Situação Epidemiológica do Sarampo; Ministério da Saúde, notícia de 06/10/2026",
  "serie_temporal": [],
  "distribuicao_geografica": [],
@@ -16885,7 +16885,7 @@
    "fonte": "Ministério da Saúde, Painel de Exantemáticas (CNIE)",
    "url": "https://www.gov.br/saude/pt-br/composicao/svsa/cnie/painel-exantematicas",
    "captura": "painel",
-   "capturado_em": "2026-11-27"
+   "capturado_em": "2026-11-28"
   }
  ]
 }

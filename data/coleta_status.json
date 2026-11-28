@@ -1,6 +1,6 @@
 {
  "oms-don": {
-  "em": "2026-11-28T01:58:16+00:00",
+  "em": "2026-11-28T10:23:39+00:00",
   "lidos": 30,
   "novos": 0,
   "exemplos": [
@@ -10,9 +10,9 @@
   ]
  },
  "oms-noticias": {
-  "em": "2026-11-28T01:58:16+00:00",
+  "em": "2026-11-28T10:23:39+00:00",
   "lidos": 40,
-  "novos": 3,
+  "novos": 0,
   "exemplos": [
    "Historic low in measles deaths, but immunization gaps threaten progress",
    "WHO issues updated Ebola response recommendations, calling for improved security and accelerated research",
@@ -20,7 +20,7 @@
   ]
  },
  "opas-alertas": {
-  "em": "2026-11-28T01:58:16+00:00",
+  "em": "2026-11-28T10:23:39+00:00",
   "lidos": 15,
   "novos": 0,
   "exemplos": [
@@ -30,7 +30,7 @@
   ]
  },
  "opas-noticias": {
-  "em": "2026-11-28T01:58:16+00:00",
+  "em": "2026-11-28T10:23:39+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -40,7 +40,7 @@
   ]
  },
  "ecdc-cdtr": {
-  "em": "2026-11-28T01:58:16+00:00",
+  "em": "2026-11-28T10:23:39+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -50,7 +50,7 @@
   ]
  },
  "ecdc-atualizacoes": {
-  "em": "2026-11-28T01:58:16+00:00",
+  "em": "2026-11-28T10:23:39+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -60,7 +60,7 @@
   ]
  },
  "ecdc-avaliacoes": {
-  "em": "2026-11-28T01:58:16+00:00",
+  "em": "2026-11-28T10:23:39+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -70,7 +70,7 @@
   ]
  },
  "ecdc-noticias": {
-  "em": "2026-11-28T01:58:16+00:00",
+  "em": "2026-11-28T10:23:39+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -80,7 +80,7 @@
   ]
  },
  "cdc-mmwr": {
-  "em": "2026-11-28T01:58:16+00:00",
+  "em": "2026-11-28T10:23:39+00:00",
   "lidos": 2357,
   "novos": 0,
   "exemplos": [
@@ -90,7 +90,7 @@
   ]
  },
  "africa-cdc": {
-  "em": "2026-11-28T01:58:16+00:00",
+  "em": "2026-11-28T10:23:39+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -100,13 +100,13 @@
   ]
  },
  "ms-noticias": {
-  "em": "2026-11-28T01:58:16+00:00",
+  "em": "2026-11-28T10:23:39+00:00",
   "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
  },
  "fiocruz": {
-  "em": "2026-11-28T01:58:16+00:00",
+  "em": "2026-11-28T10:23:39+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Nav. ed. pt Giro Saude 27 de novembro",
    "Giro Saúde destaca novo medicamento para câncer de mama, vacinação contra mpox e Novembro Negro",
@@ -114,9 +114,9 @@
   ]
  },
  "agencia-brasil-saude": {
-  "em": "2026-11-28T01:58:16+00:00",
+  "em": "2026-11-28T10:23:39+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Aumento de casos de covid-19 pode estar relacionado a nova variante",
    "Inca lança atlas sobre características do câncer em brasileiros",
@@ -124,9 +124,9 @@
   ]
  },
  "ses-go": {
-  "em": "2026-11-28T01:58:16+00:00",
+  "em": "2026-11-28T10:23:39+00:00",
   "lidos": 10,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Escola de Saúde de Goiás reúne gestores e profissionais do SUS em Aula Magna da Especialização em Redes de Atenção à Saú",
    "Projeto da SES-GO é premiado em evento nacional",
@@ -134,7 +134,7 @@
   ]
  },
  "agencia-brasil-geral": {
-  "em": "2026-11-28T01:58:16+00:00",
+  "em": "2026-11-28T10:23:39+00:00",
   "lidos": 10,
   "novos": 0,
   "exemplos": [
@@ -144,9 +144,9 @@
   ]
  },
  "g1-busca": {
-  "em": "2026-11-28T01:58:16+00:00",
-  "lidos": 461,
-  "novos": 3,
+  "em": "2026-11-28T10:23:39+00:00",
+  "lidos": 477,
+  "novos": 1,
   "exemplos": [
    "Piracicaba estima 14 mil casos suspeitos de dengue em 2027, aponta Saúde",
    "Mal súbito: como prevenir e quais os primeiros socorros em casos suspeitos",
@@ -154,9 +154,9 @@
   ]
  },
  "metropoles-busca": {
-  "em": "2026-11-28T01:58:16+00:00",
+  "em": "2026-11-28T10:23:39+00:00",
   "lidos": 57,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
    "Ministro da Educação da Coreia do Sul renuncia após fraudes com uso de IA",
    "SP começa distribuição da vacina contra Mpox; estado lidera casos no Brasil",
@@ -164,17 +164,17 @@
   ]
  },
  "cnn-brasil-saude": {
-  "em": "2026-11-28T01:58:16+00:00",
+  "em": "2026-11-28T10:23:39+00:00",
   "lidos": 26,
-  "novos": 1,
+  "novos": 0,
   "exemplos": [
+   "Dr. Kalil: Especialista explica que dormir bem repara neurônios e músculos",
    "Mpox dispara e novembro tem mais casos do que todos os outros meses juntos",
-   "Dormir bem é tão importante quanto exercício, dizem especialistas a Kalil",
-   "O que se sabe sobre a nova variante da Covid-19 que circula no Brasil"
+   "Dormir bem é tão importante quanto exercício, dizem especialistas a Kalil"
   ]
  },
  "cnn-saude": {
-  "em": "2026-11-28T01:58:16+00:00",
+  "em": "2026-11-28T10:23:39+00:00",
   "lidos": 25,
   "novos": 0,
   "exemplos": [
@@ -184,9 +184,9 @@
   ]
  },
  "cnn-busca": {
-  "em": "2026-11-28T01:58:16+00:00",
-  "lidos": 43,
-  "novos": 1,
+  "em": "2026-11-28T10:23:39+00:00",
+  "lidos": 40,
+  "novos": 0,
   "exemplos": [
    "Measles surging is ‘a different kind of heartbreak’",
    "The CDC stays quiet on flu as an early season catches many Americans off-guard",
@@ -194,37 +194,31 @@
   ]
  },
  "inmet": {
-  "em": "2026-11-28T01:58:16+00:00",
-  "lidos": 10,
-  "novos": 0,
-  "exemplos": [
-   "Dezembro: como será o clima no Brasil?",
-   "Previsão para terça-feira (24), quarta-feira (25) e quinta-feira (26)",
-   "INMET emite aviso vermelho para tempestades no Sul e explica condições atmosféricas que favoreceram tempestades em Tupan"
-  ]
+  "em": "2026-11-28T10:23:39+00:00",
+  "erro": "HTTPSConnectionPool(host='portal.inmet.gov.br', port=443): Max retries exceeded with url: /noticias (Caused by ConnectTimeoutError(<HTTPSConnection(host='portal.inmet.gov.br', port=443) at 0x785a03c6da60>, 'Connection to portal.inmet.gov.br timed out. (connect timeout=30)'))"
  },
  "cemaden": {
-  "em": "2026-11-28T01:58:16+00:00",
+  "em": "2026-11-28T10:23:39+00:00",
   "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
  },
  "defesa-civil-busca": {
-  "em": "2026-11-28T01:58:16+00:00",
-  "lidos": 42,
-  "novos": 1,
+  "em": "2026-11-28T10:23:39+00:00",
+  "lidos": 40,
+  "novos": 3,
   "exemplos": [
    "Autorizado repasse de R$ 1,7 milhão para três cidades afetadas por desastres",
-   "Grupos de trabalho detalham monitoramento do Plano Nacional de Proteção e Defesa Civil",
-   "Reconhecida emergência em 117 cidades afetadas por desastres"
+   "Novacap abre licitação de R$ 39 milhões para obras de drenagem em Arniqueira",
+   "Grupos de trabalho detalham monitoramento do Plano Nacional de Proteção e Defesa Civil"
   ]
  },
  "correio-braziliense-df": {
-  "em": "2026-11-28T01:58:16+00:00",
+  "em": "2026-11-28T10:23:39+00:00",
   "lidos": 19,
-  "novos": 7,
+  "novos": 4,
   "exemplos": [
-   "Autor de estupros em série no Sudoeste é preso pela Polícia Civil",
-   "STF prorroga por 15 dias contrato do BRB com Tribunal da Bahia",
-   "Companheiro esfaqueia mulher, incendeia casa e é linchado no DF"
+   "Companheiro esfaqueia mulher, incendeia casa e é linchado no DF",
+   "Secretário destaca ações para fortalecer produção e agropecuária no DF",
+   "Natal impulsiona vendas e oportunidades para pequenos negócios no DF"
   ]
  }
 }

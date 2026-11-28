@@ -1,5 +1,60 @@
 [
  {
+  "t": "Sarna humana em MS: surto supera mil casos e atinge 43 cidades",
+  "u": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/28/surto-de-sarna-com-mais-de-1-mil-casos-doenca-se-espalha-por-mais-da-metade-das-cidades-de-ms.ghtml",
+  "d": "2026-11-28",
+  "df": "28 nov 2026",
+  "f": "G1",
+  "fn": "G1",
+  "e": "Brasil",
+  "a": [
+   "Escabiose"
+  ],
+  "p": 10.0,
+  "se": "2026-47",
+  "r": "",
+  "i": "saude",
+  "m": [],
+  "c": "atencao"
+ },
+ {
+  "t": "Defesa Civil alerta para risco de tempestades em São Paulo neste sábado (28)",
+  "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeHFiNVBudXZ1TVo4ZXZ4NHRHTUlHLXdTbllCRS15QVdtTElCWW1NSF9IUWh5MTVvODhvQjhZbHpkY2FXT3JBVUFTX3g5Rmg0QkZDZHdtUUszRnlKMUlYM1dOeXRCa1ZxZTQ0RnZIMzFOTHFnVzlGR1hVRjNNd2dOTEgxZm11RU1ubnc2SE00eHdNLTdXYkpSRzJXOHZaVm1pTlVjTXQ3cTJKaHh4LWFiNzBjaWJuSTFkRVBIZQ?oc=5",
+  "d": "2026-11-28",
+  "df": "28 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "agenciasp.sp.gov.br",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 9.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
+  "t": "Defesa Civil atualiza aviso hidrometeorológico com previsão de chuva intensa, temporais isolados e risco de inundações para o RS",
+  "u": "https://estado.rs.gov.br/defesa-civil-atualiza-aviso-hidrometeorologico-com-previsao-de-chuva-intensa-temporais-isolados-e-risco-de-inundacoes-para-o-rs",
+  "d": "2026-11-27",
+  "df": "27 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "Portal do Estado do Rio Grande do Sul",
+  "e": "Brasil",
+  "a": [
+   "Emergências e desastres",
+   "Saúde ambiental e clima"
+  ],
+  "p": 13.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "desastre",
+  "m": [],
+  "c": "monitoramento"
+ },
+ {
   "t": "Barra do Piraí confirma primeiro caso de mpox no município",
   "u": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/27/barra-do-pirai-confirma-primeiro-caso-de-mpox-no-municipio.ghtml",
   "d": "2026-11-27",
@@ -274,6 +329,24 @@
   "i": "respiratorio",
   "m": [],
   "c": "alerta"
+ },
+ {
+  "t": "Fundo Social de SP envia ajuda humanitária para Registro diante de alerta de chuvas fortes no Litoral Sul",
+  "u": "https://www.agenciasp.sp.gov.br/social/fundo-social-de-sp-envia-ajuda-humanitaria-para-registro-diante-de-alerta-de-chuvas-fortes-no-litoral-sul/",
+  "d": "2026-11-27",
+  "df": "27 nov 2026",
+  "f": "Defesa Civil",
+  "fn": "agenciasp.sp.gov.br",
+  "e": "Brasil",
+  "a": [
+   "Saúde ambiental e clima"
+  ],
+  "p": 7.5,
+  "se": "2026-47",
+  "r": "",
+  "i": "clima",
+  "m": [],
+  "c": "monitoramento"
  },
  {
   "t": "Nav. ed. pt Giro Saude 27 de novembro",
